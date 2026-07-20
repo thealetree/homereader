@@ -359,4 +359,8 @@ body {
   .gutter { display: none; }
   :root[data-pane="source"] .page-english { display: none; }
   :root[data-pane="stylized"] .page-greek { display: none; }
+
+  /* Centre the per-page controls under the pane toggle. */
+  .crib-controls,
+  .style-buttons { justify-content: center; }
 }
