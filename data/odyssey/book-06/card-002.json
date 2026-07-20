@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "στῆ δʼ ἄρʼ ὑπὲρ κεφαλῆς, καί μιν πρὸς μῦθον ἔειπεν,"
+    },
+    {
+      "n": 22,
+      "greek": "εἰδομένη κούρῃ ναυσικλειτοῖο Δύμαντος,"
+    },
+    {
+      "n": 23,
+      "greek": "ἥ οἱ ὁμηλικίη μὲν ἔην, κεχάριστο δὲ θυμῷ."
+    },
+    {
+      "n": 24,
+      "greek": "τῇ μιν ἐεισαμένη προσέφη γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 25,
+      "greek": "Ναυσικάα, τί νύ σʼ ὧδε μεθήμονα γείνατο μήτηρ;"
+    },
+    {
+      "n": 26,
+      "greek": "εἵματα μέν τοι κεῖται ἀκηδέα σιγαλόεντα,"
+    },
+    {
+      "n": 27,
+      "greek": "σοὶ δὲ γάμος σχεδόν ἐστιν, ἵνα χρὴ καλὰ μὲν αὐτὴν"
+    },
+    {
+      "n": 28,
+      "greek": "ἕννυσθαι, τὰ δὲ τοῖσι παρασχεῖν, οἵ κέ σʼ ἄγωνται."
+    },
+    {
+      "n": 29,
+      "greek": "ἐκ γάρ τοι τούτων φάτις ἀνθρώπους ἀναβαίνει"
+    },
+    {
+      "n": 30,
+      "greek": "ἐσθλή, χαίρουσιν δὲ πατὴρ καὶ πότνια μήτηρ."
+    },
+    {
+      "n": 31,
+      "greek": "ἀλλʼ ἴομεν πλυνέουσαι ἅμʼ ἠοῖ φαινομένηφι·"
+    },
+    {
+      "n": 32,
+      "greek": "καί τοι ἐγὼ συνέριθος ἅμʼ ἕψομαι, ὄφρα τάχιστα"
+    },
+    {
+      "n": 33,
+      "greek": "ἐντύνεαι, ἐπεὶ οὔ τοι ἔτι δὴν παρθένος ἔσσεαι·"
+    },
+    {
+      "n": 34,
+      "greek": "ἤδη γάρ σε μνῶνται ἀριστῆες κατὰ δῆμον"
+    },
+    {
+      "n": 35,
+      "greek": "πάντων Φαιήκων, ὅθι τοι γένος ἐστὶ καὶ αὐτῇ."
+    },
+    {
+      "n": 36,
+      "greek": "ἀλλʼ ἄγʼ ἐπότρυνον πατέρα κλυτὸν ἠῶθι πρὸ"
+    },
+    {
+      "n": 37,
+      "greek": "ἡμιόνους καὶ ἄμαξαν ἐφοπλίσαι, ἥ κεν ἄγῃσι"
+    },
+    {
+      "n": 38,
+      "greek": "ζῶστρά τε καὶ πέπλους καὶ ῥήγεα σιγαλόεντα."
+    },
+    {
+      "n": 39,
+      "greek": "καὶ δὲ σοὶ ὧδʼ αὐτῇ πολὺ κάλλιον ἠὲ πόδεσσιν"
+    },
+    {
+      "n": 40,
+      "greek": "ἔρχεσθαι· πολλὸν γὰρ ἀπὸ πλυνοί εἰσι πόληος."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "“Nausicaa, how comes it that thy mother bore thee so heedless? Thy bright raiment is lying uncared for; yet thy marriage is near at hand, when thou must needs thyself be clad in fair garments, and give other such to those who escort thee. It is from things like these, thou knowest, that good report goeth up among men,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "and the father and honored mother rejoice. Nay, come, let us go to wash them at break of day, for I will follow with thee to aid thee, that thou mayest with speed make thee ready; for thou shalt not long remain a maiden. Even now thou hast suitors in the land, the noblest"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "of all the Phaeacians, from whom is thine own lineage. Nay, come, bestir thy noble father early this morning that he make ready mules and a wagon for thee, to bear the girdles and robes and bright coverlets. And for thyself, too, it is far more seemly"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "to go thus than on foot, for the washing tanks are far from the city.” So saying, the goddess, flashing-eyed Athena, departed to Olympus, where, they say, is the abode of the gods that stands fast forever. Neither is it shaken by winds nor ever wet with rain, nor does snow fall upon it, but the air"
+    }
+  ]
+}

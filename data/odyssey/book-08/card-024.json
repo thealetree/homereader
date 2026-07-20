@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "χαῖρε, ξεῖνʼ, ἵνα καί ποτʼ ἐὼν ἐν πατρίδι γαίῃ"
+    },
+    {
+      "n": 462,
+      "greek": "μνήσῃ ἐμεῦ, ὅτι μοι πρώτῃ ζωάγριʼ ὀφέλλεις."
+    },
+    {
+      "n": 463,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς."
+    },
+    {
+      "n": 464,
+      "greek": "Ναυσικάα θύγατερ μεγαλήτορος Ἀλκινόοιο,"
+    },
+    {
+      "n": 465,
+      "greek": "οὕτω νῦν Ζεὺς θείη, ἐρίγδουπος πόσις Ἥρης,"
+    },
+    {
+      "n": 466,
+      "greek": "οἴκαδέ τʼ ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι·"
+    },
+    {
+      "n": 467,
+      "greek": "τῷ κέν τοι καὶ κεῖθι θεῷ ὣς εὐχετοῴμην"
+    },
+    {
+      "n": 468,
+      "greek": "αἰεὶ ἤματα πάντα· σὺ γάρ μʼ ἐβιώσαο, κούρη."
+    },
+    {
+      "n": 469,
+      "greek": "ἦ ῥα καὶ ἐς θρόνον ἷζε παρʼ Ἀλκίνοον βασιλῆα·"
+    },
+    {
+      "n": 470,
+      "greek": "οἱ δʼ ἤδη μοίρας τʼ ἔνεμον κερόωντό τε οἶνον."
+    },
+    {
+      "n": 471,
+      "greek": "κῆρυξ δʼ ἐγγύθεν ἦλθεν ἄγων ἐρίηρον ἀοιδόν,"
+    },
+    {
+      "n": 472,
+      "greek": "Δημόδοκον λαοῖσι τετιμένον· εἷσε δʼ ἄρʼ αὐτὸν"
+    },
+    {
+      "n": 473,
+      "greek": "μέσσῳ δαιτυμόνων, πρὸς κίονα μακρὸν ἐρείσας."
+    },
+    {
+      "n": 474,
+      "greek": "δὴ τότε κήρυκα προσέφη πολύμητις Ὀδυσσεύς,"
+    },
+    {
+      "n": 475,
+      "greek": "νώτου ἀποπροταμών, ἐπὶ δὲ πλεῖον ἐλέλειπτο,"
+    },
+    {
+      "n": 476,
+      "greek": "ἀργιόδοντος ὑός, θαλερὴ δʼ ἦν ἀμφὶς ἀλοιφή·"
+    },
+    {
+      "n": 477,
+      "greek": "κῆρυξ, τῆ δή, τοῦτο πόρε κρέας, ὄφρα φάγῃσιν,"
+    },
+    {
+      "n": 478,
+      "greek": "Δημοδόκῳ· καί μιν προσπτύξομαι ἀχνύμενός περ·"
+    },
+    {
+      "n": 479,
+      "greek": "πᾶσι γὰρ ἀνθρώποισιν ἐπιχθονίοισιν ἀοιδοὶ"
+    },
+    {
+      "n": 480,
+      "greek": "τιμῆς ἔμμοροί εἰσι καὶ αἰδοῦς, οὕνεκʼ ἄρα σφέας"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "so may Zeus grant, the loud-thundering lord of Here, that I may reach my home and see the day of my returning. Then will I even there pray to thee as to a god all my days, for thou, maiden, hast given me life.” He spoke, and sat down on a chair beside king Alcinous."
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "And now they were serving out portions and mixing the wine. Then the herald came near, leading the good minstrel, Demodocus, held in honor by the people, and seated him in the midst of the banqueters, leaning his chair against a high pillar. Then to the herald said Odysseus of many wiles,"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "cutting off a portion of the chine of a white-tusked boar, whereof yet more was left, and there was rich fat on either side: “Herald, take and give this portion to Demodocus, that he may eat, and I will greet him, despite my grief. For among all men that are upon the earth minstrels"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "win honor and reverence, for that the Muse has taught them the paths of song, and loves the tribe of minstrels.” So he spoke, and the herald bore the portion and placed it in the hands of the lord Demodocus, and he took it and was glad at heart. So they put forth their hands to the good cheer lying ready before them."
+    }
+  ]
+}

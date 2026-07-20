@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "νηπενθές τʼ ἄχολόν τε, κακῶν ἐπίληθον ἁπάντων."
+    },
+    {
+      "n": 222,
+      "greek": "ὃς τὸ καταβρόξειεν, ἐπὴν κρητῆρι μιγείη,"
+    },
+    {
+      "n": 223,
+      "greek": "οὔ κεν ἐφημέριός γε βάλοι κατὰ δάκρυ παρειῶν,"
+    },
+    {
+      "n": 224,
+      "greek": "οὐδʼ εἴ οἱ κατατεθναίη μήτηρ τε πατήρ τε,"
+    },
+    {
+      "n": 225,
+      "greek": "οὐδʼ εἴ οἱ προπάροιθεν ἀδελφεὸν ἢ φίλον υἱὸν"
+    },
+    {
+      "n": 226,
+      "greek": "χαλκῷ δηιόῳεν, ὁ δʼ ὀφθαλμοῖσιν ὁρῷτο."
+    },
+    {
+      "n": 227,
+      "greek": "τοῖα Διὸς θυγάτηρ ἔχε φάρμακα μητιόεντα,"
+    },
+    {
+      "n": 228,
+      "greek": "ἐσθλά, τά οἱ Πολύδαμνα πόρεν, Θῶνος παράκοιτις"
+    },
+    {
+      "n": 229,
+      "greek": "Αἰγυπτίη, τῇ πλεῖστα φέρει ζείδωρος ἄρουρα"
+    },
+    {
+      "n": 230,
+      "greek": "φάρμακα, πολλὰ μὲν ἐσθλὰ μεμιγμένα πολλὰ δὲ λυγρά·"
+    },
+    {
+      "n": 231,
+      "greek": "ἰητρὸς δὲ ἕκαστος ἐπιστάμενος περὶ πάντων"
+    },
+    {
+      "n": 232,
+      "greek": "ἀνθρώπων· ἦ γὰρ Παιήονός εἰσι γενέθλης."
+    },
+    {
+      "n": 233,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐνέηκε κέλευσέ τε οἰνοχοῆσαι,"
+    },
+    {
+      "n": 234,
+      "greek": "ἐξαῦτις μύθοισιν ἀμειβομένη προσέειπεν·"
+    },
+    {
+      "n": 235,
+      "greek": "Ἀτρεΐδη Μενέλαε διοτρεφὲς ἠδὲ καὶ οἵδε"
+    },
+    {
+      "n": 236,
+      "greek": "ἀνδρῶν ἐσθλῶν παῖδες· ἀτὰρ θεὸς ἄλλοτε ἄλλῳ"
+    },
+    {
+      "n": 237,
+      "greek": "Ζεὺς ἀγαθόν τε κακόν τε διδοῖ· δύναται γὰρ ἅπαντα·"
+    },
+    {
+      "n": 238,
+      "greek": "ἦ τοι νῦν δαίνυσθε καθήμενοι ἐν μεγάροισι"
+    },
+    {
+      "n": 239,
+      "greek": "καὶ μύθοις τέρπεσθε· ἐοικότα γὰρ καταλέξω."
+    },
+    {
+      "n": 240,
+      "greek": "πάντα μὲν οὐκ ἂν ἐγὼ μυθήσομαι οὐδʼ ὀνομήνω,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "no, not though his mother and father should lie there dead, or though before his face men should slay with the sword his brother or dear son, and his own eyes beheld it. Such cunning drugs had the daughter of Zeus, drugs of healing, which Polydamna, the wife of Thon, had given her, a woman of Egypt, for there the earth, the giver of grain, bears greatest store"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "of drugs, many that are healing when mixed, and many that are baneful; there every man is a physician, wise above human kind; for they are of the race of Paeeon. Now when she had cast in the drug, and had bidden pour forth the wine, again she made answer, and said:"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "“Menelaus, son of Atreus, fostered of Zeus, and ye that are here, sons of noble men—though now to one and now to another Zeus gives good and ill, for he can do all things,—now verily sit ye in the halls and feast, and take ye joy in telling tales, for I will tell what fitteth the time."
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "All things I cannot tell or recount, even all the labours of Odysseus of the steadfast heart; but what a thing was this which that mighty man wrought and endured in the land of the Trojans, where you Achaens suffered woes! Marring his own body with cruel blows,"
+    }
+  ]
+}

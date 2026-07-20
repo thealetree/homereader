@@ -10,6 +10,14 @@
   --rule: #d8d0bf;
   --greek-font: "GFS Porson", "GFS Didot", "Times New Roman", serif;
   --english-font: "EB Garamond", Garamond, Georgia, serif;
+
+  /* Shared control tokens — a design pass can retune every menu, arrow, and
+     hover from here without touching component rules. */
+  --transition: 0.15s ease;
+  --menu-bg: var(--paper);
+  --menu-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+  --hover-wash: rgba(0, 0, 0, 0.03);
+  --edge-arrow-size: 2.4rem;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -41,11 +49,62 @@ body {
   text-transform: uppercase;
 }
 
-.masthead-sub {
+/* Book selector — the italic subtitle is a click-to-open menu, styled to look
+   like plain text until touched (no native <select> chrome). */
+.book-select {
+  position: relative;
+  display: inline-block;
   margin-top: 0.4rem;
-  font-style: italic;
-  color: var(--ink-faint);
 }
+
+.book-current {
+  font-family: var(--english-font);
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--ink-faint);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.1rem 0.3rem;
+  transition: color var(--transition);
+}
+
+.book-current:hover,
+.book-current[aria-expanded="true"] { color: var(--ink); }
+
+.book-menu {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 0.5rem;
+  z-index: 50;
+  list-style: none;
+  min-width: 9rem;
+  max-height: 60vh;
+  overflow-y: auto;
+  padding: 0.4rem 0;
+  background: var(--menu-bg);
+  border: 1px solid var(--rule);
+  box-shadow: var(--menu-shadow);
+  text-align: left;
+}
+
+.book-menu[hidden] { display: none; }
+
+.book-option {
+  font-family: var(--english-font);
+  font-style: italic;
+  font-size: 0.92rem;
+  color: var(--ink-faint);
+  padding: 0.25rem 1.3rem;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: color var(--transition);
+}
+
+.book-option:hover { color: var(--ink); background: var(--hover-wash); }
+.book-option.active { color: var(--ink); }
 
 /* ---------- Spread ---------- */
 
@@ -179,21 +238,8 @@ body {
 .pager {
   margin-top: 2rem;
   display: flex;
-  align-items: center;
-  gap: 1.5rem;
+  justify-content: center;
 }
-
-.pager-arrow {
-  font-family: var(--english-font);
-  font-size: 1.1rem;
-  background: none;
-  border: none;
-  color: var(--ink);
-  cursor: pointer;
-  padding: 0.2rem 0.6rem;
-}
-
-.pager-arrow:disabled { opacity: 0.3; cursor: default; }
 
 .pager-label {
   font-variant: small-caps;
@@ -202,6 +248,30 @@ body {
   color: var(--ink-faint);
 }
 
+/* ---------- Edge page-turn arrows ---------- */
+/* Fixed serif glyphs at the window edges; the whole treatment retunes from
+   --edge-arrow-size and the ink tokens. */
+.edge-arrow {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 40;
+  font-family: var(--english-font);
+  font-size: var(--edge-arrow-size);
+  line-height: 1;
+  color: var(--ink-faint);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.4rem 0.7rem;
+  transition: color var(--transition), opacity var(--transition);
+}
+
+.edge-arrow:hover { color: var(--ink); }
+.edge-arrow:disabled { opacity: 0.18; cursor: default; }
+.edge-arrow-prev { left: 0.4rem; }
+.edge-arrow-next { right: 0.4rem; }
+
 /* ---------- Mobile: stacked pages ---------- */
 
 @media (max-width: 720px) {
@@ -209,4 +279,5 @@ body {
   .gutter { width: auto; height: 1px; }
   .page-greek .page-body { padding-left: 2.2rem; }
   .line-no { left: -2.2rem; }
+  .edge-arrow { font-size: 1.8rem; padding: 0.3rem 0.35rem; }
 }

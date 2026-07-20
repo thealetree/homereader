@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 540,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "ὣς ἐμὲ κεῖνος ἔθελγε παρήμενος ἐν μεγάροισι."
+    },
+    {
+      "n": 522,
+      "greek": "φησὶ δʼ Ὀδυσσῆος ξεῖνος πατρώϊος εἶναι,"
+    },
+    {
+      "n": 523,
+      "greek": "Κρήτῃ ναιετάων, ὅθι Μίνωος γένος ἐστίν."
+    },
+    {
+      "n": 524,
+      "greek": "ἔνθεν δὴ νῦν δεῦρο τόδʼ ἵκετο πήματα πάσχων,"
+    },
+    {
+      "n": 525,
+      "greek": "προπροκυλινδόμενος· στεῦται δʼ Ὀδυσῆος ἀκοῦσαι,"
+    },
+    {
+      "n": 526,
+      "greek": "ἀγχοῦ, Θεσπρωτῶν ἀνδρῶν ἐν πίονι δήμῳ,"
+    },
+    {
+      "n": 527,
+      "greek": "ζωοῦ· πολλὰ δʼ ἄγει κειμήλια ὅνδε δόμονδε."
+    },
+    {
+      "n": 528,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 529,
+      "greek": "ἔρχεο, δεῦρο κάλεσσον, ἵνʼ ἀντίον αὐτὸς ἐνίσπῃ."
+    },
+    {
+      "n": 530,
+      "greek": "οὗτοι δʼ ἠὲ θύρῃσι καθήμενοι ἑψιαάσθων."
+    },
+    {
+      "n": 531,
+      "greek": "ἢ αὐτοῦ κατὰ δώματʼ, ἐπεί σφισι θυμὸς ἐΰφρων."
+    },
+    {
+      "n": 532,
+      "greek": "αὐτῶν μὲν γὰρ κτήματʼ ἀκήρατα κεῖτʼ ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 533,
+      "greek": "σῖτος καὶ μέθυ ἡδύ· τὰ μὲν οἰκῆες ἔδουσιν,"
+    },
+    {
+      "n": 534,
+      "greek": "οἱ δʼ εἰς ἡμέτερον πωλεύμενοι ἤματα πάντα,"
+    },
+    {
+      "n": 535,
+      "greek": "βοῦς ἱερεύοντες καὶ ὄϊς καὶ πίονας αἶγας,"
+    },
+    {
+      "n": 536,
+      "greek": "εἰλαπινάζουσιν πίνουσί τε αἴθοπα οἶνον,"
+    },
+    {
+      "n": 537,
+      "greek": "μαψιδίως· τὰ δὲ πολλὰ κατάνεται. οὐ γὰρ ἔπʼ ἀνήρ,"
+    },
+    {
+      "n": 538,
+      "greek": "οἷος Ὀδυσσεὺς ἔσκεν, ἀρὴν ἀπὸ οἴκου ἀμῦναι."
+    },
+    {
+      "n": 539,
+      "greek": "εἰ δʼ Ὀδυσεὺς ἔλθοι καὶ ἵκοιτʼ ἐς πατρίδα γαῖαν,"
+    },
+    {
+      "n": 540,
+      "greek": "αἶψά κε σὺν ᾧ παιδὶ βίας ἀποτίσεται ἀνδρῶν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "as he wanders on and on. And he insists that he has heard tidings of Odysseus, near at hand in the rich land of the Thesprotians and yet alive; and he is bringing many treasures to his home.” Then wise Penelope answered him: “Go, call him hither, that he may himself tell me to my face."
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "But as for these men, let them make sport as they sit in the doorway or here in the house, since their hearts are merry. For their own possessions lie untouched in their homes, bread and sweet wine, and on these do their servants feed. But themselves throng our house day after day,"
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "slaying our oxen, and sheep, and fat goats, and keep revel and drink the flaming wine recklessly, and havoc is made of all this wealth, for there is no man here such as Odysseus was to keep ruin from the house. But if Odysseus should come and return to his native land,"
+    },
+    {
+      "lines": [
+        540,
+        540
+      ],
+      "text": "straightway would he with his son take vengeance on these men for their violent deeds.” So she spoke, and Telemachus sneezed loudly, and all the room round about echoed wondrously. And Penelope laughed, and straightway spoke to Eumaeus winged words: “Go, pray, call the stranger here before me."
+    }
+  ]
+}

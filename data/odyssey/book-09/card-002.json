@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "ναιετάω δʼ Ἰθάκην ἐυδείελον· ἐν δʼ ὄρος αὐτῇ"
+    },
+    {
+      "n": 22,
+      "greek": "Νήριτον εἰνοσίφυλλον, ἀριπρεπές· ἀμφὶ δὲ νῆσοι"
+    },
+    {
+      "n": 23,
+      "greek": "πολλαὶ ναιετάουσι μάλα σχεδὸν ἀλλήλῃσι,"
+    },
+    {
+      "n": 24,
+      "greek": "Δουλίχιόν τε Σάμη τε καὶ ὑλήεσσα Ζάκυνθος."
+    },
+    {
+      "n": 25,
+      "greek": "αὐτὴ δὲ χθαμαλὴ πανυπερτάτη εἰν ἁλὶ κεῖται"
+    },
+    {
+      "n": 26,
+      "greek": "πρὸς ζόφον, αἱ δέ τʼ ἄνευθε πρὸς ἠῶ τʼ ἠέλιόν τε,"
+    },
+    {
+      "n": 27,
+      "greek": "τρηχεῖʼ, ἀλλʼ ἀγαθὴ κουροτρόφος· οὔ τοι ἐγώ γε"
+    },
+    {
+      "n": 28,
+      "greek": "ἧς γαίης δύναμαι γλυκερώτερον ἄλλο ἰδέσθαι."
+    },
+    {
+      "n": 29,
+      "greek": "ἦ μέν μʼ αὐτόθʼ ἔρυκε Καλυψώ, δῖα θεάων,"
+    },
+    {
+      "n": 30,
+      "greek": "ἐν σπέσσι γλαφυροῖσι, λιλαιομένη πόσιν εἶναι·"
+    },
+    {
+      "n": 31,
+      "greek": "ὣς δʼ αὔτως Κίρκη κατερήτυεν ἐν μεγάροισιν"
+    },
+    {
+      "n": 32,
+      "greek": "Αἰαίη δολόεσσα, λιλαιομένη πόσιν εἶναι·"
+    },
+    {
+      "n": 33,
+      "greek": "ἀλλʼ ἐμὸν οὔ ποτε θυμὸν ἐνὶ στήθεσσιν ἔπειθον."
+    },
+    {
+      "n": 34,
+      "greek": "ὣς οὐδὲν γλύκιον ἧς πατρίδος οὐδὲ τοκήων"
+    },
+    {
+      "n": 35,
+      "greek": "γίγνεται, εἴ περ καί τις ἀπόπροθι πίονα οἶκον"
+    },
+    {
+      "n": 36,
+      "greek": "γαίῃ ἐν ἀλλοδαπῇ ναίει ἀπάνευθε τοκήων."
+    },
+    {
+      "n": 37,
+      "greek": "εἰ δʼ ἄγε τοι καὶ νόστον ἐμὸν πολυκηδέʼ ἐνίσπω,"
+    },
+    {
+      "n": 38,
+      "greek": "ὅν μοι Ζεὺς ἐφέηκεν ἀπὸ Τροίηθεν ἰόντι."
+    },
+    {
+      "n": 39,
+      "greek": "Ἰλιόθεν με φέρων ἄνεμος Κικόνεσσι πέλασσεν,"
+    },
+    {
+      "n": 40,
+      "greek": "Ἰσμάρῳ. ἔνθα δʼ ἐγὼ πόλιν ἔπραθον, ὤλεσα δʼ αὐτούς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "Ithaca itself lies close in to the mainland the furthest toward the gloom, but the others lie apart toward the Dawn and the sun—a rugged isle, but a good nurse of young men; and for myself no other thing can I see sweeter than one's own land. Of a truth Calypso, the beautiful goddess, sought to keep me by her"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "in her hollow caves, yearning that I should be her husband; and in like manner Circe would fain have held me back in her halls, the guileful lady of Aeaea, yearning that I should be her husband; but they could never persuade the heart within my breast. So true is it that naught is sweeter than a man's own land and his parents,"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "even though it be in a rich house that he dwells afar in a foreign land away from his parents. But come, let me tell thee also of my woeful home-coming, which Zeus laid upon me as I came from Troy. “From Ilios the wind bore me and brought me to the Cicones,"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "to Ismarus. There I sacked the city and slew the men; and from the city we took their wives and great store of treasure, and divided them among us, that so far as lay in me no man might go defrauded of an equal share. Then verily I gave command that we should flee with swift foot, but the others in their great folly did not hearken."
+    }
+  ]
+}

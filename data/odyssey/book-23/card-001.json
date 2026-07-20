@@ -1,0 +1,129 @@
+{
+  "book": 23,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "γρηῢς δʼ εἰς ὑπερῷʼ ἀνεβήσετο καγχαλόωσα,"
+    },
+    {
+      "n": 2,
+      "greek": "δεσποίνῃ ἐρέουσα φίλον πόσιν ἔνδον ἐόντα·"
+    },
+    {
+      "n": 3,
+      "greek": "γούνατα δʼ ἐρρώσαντο, πόδες δʼ ὑπερικταίνοντο."
+    },
+    {
+      "n": 4,
+      "greek": "στῆ δʼ ἄρʼ ὑπὲρ κεφαλῆς καί μιν πρὸς μῦθον ἔειπεν·"
+    },
+    {
+      "n": 5,
+      "greek": "ἔγρεο, Πηνελόπεια, φίλον τέκος, ὄφρα ἴδηαι"
+    },
+    {
+      "n": 6,
+      "greek": "ὀφθαλμοῖσι τεοῖσι τά τʼ ἔλδεαι ἤματα πάντα."
+    },
+    {
+      "n": 7,
+      "greek": "ἦλθʼ Ὀδυσεὺς καὶ οἶκον ἱκάνεται, ὀψέ περ ἐλθών."
+    },
+    {
+      "n": 8,
+      "greek": "μνηστῆρας δʼ ἔκτεινεν ἀγήνορας, οἵ θʼ ἑὸν οἶκον"
+    },
+    {
+      "n": 9,
+      "greek": "κήδεσκον καὶ κτήματʼ ἔδον βιόωντό τε παῖδα."
+    },
+    {
+      "n": 10,
+      "greek": "τὴν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 11,
+      "greek": "μαῖα φίλη, μάργην σε θεοὶ θέσαν, οἵ τε δύνανται"
+    },
+    {
+      "n": 12,
+      "greek": "ἄφρονα ποιῆσαι καὶ ἐπίφρονά περ μάλʼ ἐόντα,"
+    },
+    {
+      "n": 13,
+      "greek": "καί τε χαλιφρονέοντα σαοφροσύνης ἐπέβησαν·"
+    },
+    {
+      "n": 14,
+      "greek": "οἵ σέ περ ἔβλαψαν· πρὶν δὲ φρένας αἰσίμη ἦσθα."
+    },
+    {
+      "n": 15,
+      "greek": "τίπτε με λωβεύεις πολυπενθέα θυμὸν ἔχουσαν"
+    },
+    {
+      "n": 16,
+      "greek": "ταῦτα παρὲξ ἐρέουσα καὶ ἐξ ὕπνου μʼ ἀνεγείρεις"
+    },
+    {
+      "n": 17,
+      "greek": "ἡδέος, ὅς μʼ ἐπέδησε φίλα βλέφαρʼ ἀμφικαλύψας;"
+    },
+    {
+      "n": 18,
+      "greek": "οὐ γάρ πω τοιόνδε κατέδραθον, ἐξ οὗ Ὀδυσσεὺς"
+    },
+    {
+      "n": 19,
+      "greek": "ᾤχετʼ ἐποψόμενος Κακοΐλιον οὐκ ὀνομαστήν."
+    },
+    {
+      "n": 20,
+      "greek": "ἀλλʼ ἄγε νῦν κατάβηθι καὶ ἂψ ἔρχευ μέγαρόνδε."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "Then the old dame went up to the upper chamber, laughing aloud, to tell her mistress that her dear husband was in the house. Her knees moved nimbly, but her feet trotted along beneath her; and she stood above her lady's head, and spoke to her, and said:"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "“Awake, Penelope, dear child, that with thine own eyes thou mayest see what thou desirest all thy days. Odysseus is here, and has come home, late though his coming has been, and has slain the proud wooers who vexed his house, and devoured his substance, and oppressed his son.”"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "Then wise Penelope answered her: “Dear nurse, the gods have made thee mad, they who can make foolish even one who is full wise, and set the simple-minded in the paths of understanding; it is they that have marred thy wits, though heretofore thou wast sound of mind."
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "Why dost thou mock me, who have a heart full of sorrow, to tell me this wild tale, and dost rouse me out of slumber, the sweet slumber that bound me and enfolded my eyelids? For never yet have I slept so sound since the day when Odysseus went forth to see evil Ilios that should not be named."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "Nay come now, go down and back to the women's hall, for if any other of the women that are mine had come and told me this, and had roused me out of sleep, straightway would I have sent her back in sorry wise to return again to the hall, but to thee old age shall bring this profit.”"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 9,
+  "lineStart": 162,
+  "lineEnd": 181,
+  "lines": [
+    {
+      "n": 162,
+      "greek": "ἀλλʼ Ὀδυσεύς τε κύνες τε ἴδον, καί ῥʼ οὐχ ὑλάοντο"
+    },
+    {
+      "n": 163,
+      "greek": "κνυζηθμῷ δʼ ἑτέρωσε διὰ σταθμοῖο φόβηθεν."
+    },
+    {
+      "n": 164,
+      "greek": "ἡ δʼ ἄρʼ ἐπʼ ὀφρύσι νεῦσε· νόησε δὲ δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 165,
+      "greek": "ἐκ δʼ ἦλθεν μεγάροιο παρὲκ μέγα τειχίον αὐλῆς,"
+    },
+    {
+      "n": 166,
+      "greek": "στῆ δὲ πάροιθʼ αὐτῆς· τὸν δὲ προσέειπεν Ἀθήνη·"
+    },
+    {
+      "n": 167,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ."
+    },
+    {
+      "n": 168,
+      "greek": "ἤδη νῦν σῷ παιδὶ ἔπος φάο μηδʼ ἐπίκευθε,"
+    },
+    {
+      "n": 169,
+      "greek": "ὡς ἄν μνηστῆρσιν θάνατον καὶ κῆρʼ ἀραρόντε"
+    },
+    {
+      "n": 170,
+      "greek": "ἔρχησθον προτὶ ἄστυ περικλυτόν· οὐδʼ ἐγὼ αὐτὴ"
+    },
+    {
+      "n": 171,
+      "greek": "δηρὸν ἀπὸ σφῶϊν ἔσομαι μεμαυῖα μάχεσθαι."
+    },
+    {
+      "n": 172,
+      "greek": "ἦ καὶ χρυσείῃ ῥάβδῳ ἐπεμάσσατʼ Ἀθήνη."
+    },
+    {
+      "n": 173,
+      "greek": "φᾶρος μέν οἱ πρῶτον ἐϋπλυνὲς ἠδὲ χιτῶνα"
+    },
+    {
+      "n": 174,
+      "greek": "θῆκʼ ἀμφὶ στήθεσσι, δέμας δʼ ὤφελλε καὶ ἥβην."
+    },
+    {
+      "n": 175,
+      "greek": "ἂψ δὲ μελαγχροιὴς γένετο, γναθμοὶ δὲ τάνυσθεν,"
+    },
+    {
+      "n": 176,
+      "greek": "κυάνεαι δʼ ἐγένοντο γενειάδες ἀμφὶ γένειον."
+    },
+    {
+      "n": 177,
+      "greek": "ἡ μὲν ἄρʼ ὣς ἔρξασα πάλιν κίεν· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 178,
+      "greek": "ἤϊεν ἐς κλισίην· θάμβησε δέ μιν φίλος υἱός,"
+    },
+    {
+      "n": 179,
+      "greek": "ταρβήσας δʼ ἑτέρωσε βάλʼ ὄμματα, μὴ θεὸς εἴη,"
+    },
+    {
+      "n": 180,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 181,
+      "greek": "ἀλλοῖός μοι, ξεῖνε, φάνης νέον ἠὲ πάροιθεν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "and went forth from the hall, past the great wall of the court, and stood before her, and Athena spoke to him, saying: “Son of Laertes, sprung from Zeus, Odysseus of many devices, even now do thou reveal thy word to thy son, and hide it not, that when you two have planned death and fate for the wooers,"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "you may go to the famous city. Nor will I myself be long away from you, for I am eager for the battle.” With this, Athena touched him with her golden wand. A well-washed cloak and a tunic she first of all cast about his breast, and she increased his stature and his youthful bloom."
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "Once more he grew dark of color, and his cheeks filled out, and dark grew the beard about his chin. Then, when she had wrought thus, she departed, but Odysseus went into the hut. And his dear son marvelled, and, seized with fear, turned his eyes aside, lest it should be a god."
+    },
+    {
+      "lines": [
+        180,
+        181
+      ],
+      "text": "And he spoke, and addressed him with winged words: “Of other sort thou seemest to me now, stranger, than awhile ago, and other are the garments thou hast on, and thy color is no more the same. Verily thou art a god, one of those who hold broad heaven. Nay then, be gracious, that we may offer to thee acceptable sacrifices"
+    }
+  ]
+}

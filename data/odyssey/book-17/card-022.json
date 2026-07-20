@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "τοίῳ ὁποῖος ἔοι καὶ ὅτευ κεχρημένος ἔλθοι·"
+    },
+    {
+      "n": 422,
+      "greek": "ἦσαν δὲ δμῶες μάλα μυρίοι ἄλλα τε πολλὰ"
+    },
+    {
+      "n": 423,
+      "greek": "οἷσίν τʼ εὖ ζώουσι καὶ ἀφνειοὶ καλέονται."
+    },
+    {
+      "n": 424,
+      "greek": "ἀλλὰ Ζεὺς ἀλάπαξε Κρονίων—ἤθελε γάρ που—"
+    },
+    {
+      "n": 425,
+      "greek": "ὅς μʼ ἅμα ληϊστῆρσι πολυπλάγκτοισιν ἀνῆκεν"
+    },
+    {
+      "n": 426,
+      "greek": "Αἴγυπτόνδʼ ἰέναι, δολιχὴν ὁδόν, ὄφρʼ ἀπολοίμην."
+    },
+    {
+      "n": 427,
+      "greek": "στῆσα δʼ ἐν Αἰγύπτῳ ποταμῷ νέας ἀμφιελίσσας."
+    },
+    {
+      "n": 428,
+      "greek": "ἔνθʼ ἦ τοι μὲν ἐγὼ κελόμην ἐρίηρας ἑταίρους"
+    },
+    {
+      "n": 429,
+      "greek": "αὐτοῦ πὰρ νήεσσι μένειν καὶ νῆας ἔρυσθαι,"
+    },
+    {
+      "n": 430,
+      "greek": "ὀπτῆρας δὲ κατὰ σκοπιὰς ὤτρυνα νέεσθαι."
+    },
+    {
+      "n": 431,
+      "greek": "οἱ δʼ ὕβρει εἴξαντες, ἐπισπόμενοι μένεϊ σφῷ,"
+    },
+    {
+      "n": 432,
+      "greek": "αἶψα μάλʼ Αἰγυπτίων ἀνδρῶν περικαλλέας ἀγροὺς"
+    },
+    {
+      "n": 433,
+      "greek": "πόρθεον, ἐκ δὲ γυναῖκας ἄγον καὶ νήπια τέκνα,"
+    },
+    {
+      "n": 434,
+      "greek": "αὐτούς τʼ ἔκτεινον· τάχα δʼ ἐς πόλιν ἵκετʼ ἀϋτή."
+    },
+    {
+      "n": 435,
+      "greek": "οἱ δὲ βοῆς ἀΐοντες ἅμʼ ἠοῖ φαινομένηφιν"
+    },
+    {
+      "n": 436,
+      "greek": "ἦλθον· πλῆτο δὲ πᾶν πεδίον πεζῶν τε καὶ ἵππων"
+    },
+    {
+      "n": 437,
+      "greek": "χαλκοῦ τε στεροπῆς· ἐν δὲ Ζεὺς τερπικέραυνος"
+    },
+    {
+      "n": 438,
+      "greek": "φύζαν ἐμοῖς ἑτάροισι κακὴν βάλεν, οὐδέ τις ἔτλη"
+    },
+    {
+      "n": 439,
+      "greek": "στῆναι ἐναντίβιον· περὶ γὰρ κακὰ πάντοθεν ἔστη."
+    },
+    {
+      "n": 440,
+      "greek": "ἔνθʼ ἡμέων πολλοὺς μὲν ἀπέκτανον ὀξέϊ χαλκῷ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "who sent me forth with roaming pirates to go to Egypt, a far voyage, that I might meet my ruin; and in the river Aegyptus I moored my curved ships. Then verily I bade my trusty comrades to remain there by the ships and to guard the ships,"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "and I sent out scouts to go to places of outlook. But my comrades, yielding to wantonness and led on by their own might, straightway set about wasting the fair fields of the men of Egypt; and they carried off the women and little children, and slew the men; and the cry came quickly to the city."
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "Then, hearing the shouting, the people came forth at break of day, and the whole plain was filled with footmen and chariots and the flashing of bronze. And Zeus, who hurls the thunderbolt, cast an evil panic upon my comrades, and none had courage to take his stand and face the foe; for evil surrounded us on every side."
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "So then they slew many of us with the sharp bronze, and others they led up to their city alive, to work for them perforce. But they gave me to a friend who met them to take to Cyprus, even to Dmetor, son of Iasus, who ruled mightily over Cyprus; and from thence am I now come hither, sore distressed.”"
+    }
+  ]
+}

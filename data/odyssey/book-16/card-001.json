@@ -1,0 +1,129 @@
+{
+  "book": 16,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "τὼ δʼ αὖτʼ ἐν κλισίῃ Ὀδυσεὺς καὶ δῖος ὑφορβὸς"
+    },
+    {
+      "n": 2,
+      "greek": "ἐντύνοντο ἄριστον ἅμʼ ἠοῖ, κηαμένω πῦρ,"
+    },
+    {
+      "n": 3,
+      "greek": "ἔκπεμψάν τε νομῆας ἅμʼ ἀγρομένοισι σύεσσι·"
+    },
+    {
+      "n": 4,
+      "greek": "Τηλέμαχον δὲ περίσσαινον κύνες ὑλακόμωροι,"
+    },
+    {
+      "n": 5,
+      "greek": "οὐδʼ ὕλαον προσιόντα. νόησε δὲ δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 6,
+      "greek": "σαίνοντάς τε κύνας, περί τε κτύπος ἦλθε ποδοῖϊν."
+    },
+    {
+      "n": 7,
+      "greek": "αἶψα δʼ ἄρʼ Εὔμαιον ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 8,
+      "greek": "Εὔμαιʼ, ἦ μάλα τίς τοι ἐλεύσεται ἐνθάδʼ ἑταῖρος"
+    },
+    {
+      "n": 9,
+      "greek": "ἢ καὶ γνώριμος ἄλλος, ἐπεὶ κύνες οὐχ ὑλάουσιν,"
+    },
+    {
+      "n": 10,
+      "greek": "ἀλλὰ περισσαίνουσι· ποδῶν δʼ ὑπὸ δοῦπον ἀκούω."
+    },
+    {
+      "n": 11,
+      "greek": "οὔ πω πᾶν εἴρητο ἔπος, ὅτε οἱ φίλος υἱὸς"
+    },
+    {
+      "n": 12,
+      "greek": "ἔστη ἐνὶ προθύροισι. ταφὼν δʼ ἀνόρουσε συβώτης,"
+    },
+    {
+      "n": 13,
+      "greek": "ἐκ δʼ ἄρα οἱ χειρῶν πέσον ἄγγεα, τοῖς ἐπονεῖτο,"
+    },
+    {
+      "n": 14,
+      "greek": "κιρνὰς αἴθοπα οἶνον. ὁ δʼ ἀντίος ἦλθεν ἄνακτος,"
+    },
+    {
+      "n": 15,
+      "greek": "κύσσε δέ μιν κεφαλήν τε καὶ ἄμφω φάεα καλὰ"
+    },
+    {
+      "n": 16,
+      "greek": "χεῖράς τʼ ἀμφοτέρας· θαλερὸν δέ οἱ ἔκπεσε δάκρυ."
+    },
+    {
+      "n": 17,
+      "greek": "ὡς δὲ πατὴρ ὃν παῖδα φίλα φρονέων ἀγαπάζῃ"
+    },
+    {
+      "n": 18,
+      "greek": "ἐλθόντʼ ἐξ ἀπίης γαίης δεκάτῳ ἐνιαυτῷ,"
+    },
+    {
+      "n": 19,
+      "greek": "μοῦνον τηλύγετον, τῷ ἔπʼ ἄλγεα πολλὰ μογήσῃ,"
+    },
+    {
+      "n": 20,
+      "greek": "ὣς τότε Τηλέμαχον θεοειδέα δῖος ὑφορβὸς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "Meanwhile the two in the hut, Odysseus and the goodly swineherd, had kindled a fire, and were making ready their breakfast at dawn, and had sent forth the herdsmen with the droves of swine; but around Telemachus the baying hounds fawned,"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "and barked not as he drew near. And goodly Odysseus noted the fawning of the hounds, and the sound of footsteps fell upon his ears; and straightway he spoke to Eumaeus winged words: “Eumaeus, surely some comrade of thine will be coming, or at least some one thou knowest, for the hounds do not bark,"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "but fawn about him, and I hear the sound of footsteps.” Not yet was the word fully uttered, when his own dear son stood in the doorway. In amazement up sprang the swineherd, and from his hands the vessels fell with which he was busied as he mixed the flaming wine. And he went to meet his lord,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "and kissed his head and both his beautiful eyes and his two hands, and a big tear fell from him. And as a loving father greets his own dear son, who comes in the tenth year from a distant land—his only son and well-beloved, for whose sake he has borne much sorrow—"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "even so did the goodly swineherd then clasp in his arms godlike Telemachus, and kiss him all over as one escaped from death; and with wailing he addressed him with winged words: “Thou art come, Telemachus, sweet light of my eyes. I thought I should never see thee more after thou hadst gone in thy ship to Pylos."
+    }
+  ]
+}

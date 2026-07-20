@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "τῶν δʼ ἄλλων ἐμέ φημι πολὺ προφερέστερον εἶναι,"
+    },
+    {
+      "n": 222,
+      "greek": "ὅσσοι νῦν βροτοί εἰσιν ἐπὶ χθονὶ σῖτον ἔδοντες."
+    },
+    {
+      "n": 223,
+      "greek": "ἀνδράσι δὲ προτέροισιν ἐριζέμεν οὐκ ἐθελήσω,"
+    },
+    {
+      "n": 224,
+      "greek": "οὔθʼ Ἡρακλῆι οὔτʼ Εὐρύτῳ Οιχαλιῆι,"
+    },
+    {
+      "n": 225,
+      "greek": "οἵ ῥα καὶ ἀθανάτοισιν ἐρίζεσκον περὶ τόξων."
+    },
+    {
+      "n": 226,
+      "greek": "τῷ ῥα καὶ αἶψʼ ἔθανεν μέγας Εὔρυτος, οὐδʼ ἐπὶ γῆρας"
+    },
+    {
+      "n": 227,
+      "greek": "ἵκετʼ ἐνὶ μεγάροισι· χολωσάμενος γὰρ Ἀπόλλων"
+    },
+    {
+      "n": 228,
+      "greek": "ἔκτανεν, οὕνεκά μιν προκαλίζετο τοξάζεσθαι."
+    },
+    {
+      "n": 229,
+      "greek": "δουρὶ δʼ ἀκοντίζω ὅσον οὐκ ἄλλος τις ὀιστῷ."
+    },
+    {
+      "n": 230,
+      "greek": "οἴοισιν δείδοικα ποσὶν μή τίς με παρέλθῃ"
+    },
+    {
+      "n": 231,
+      "greek": "Φαιήκων· λίην γὰρ ἀεικελίως ἐδαμάσθην"
+    },
+    {
+      "n": 232,
+      "greek": "κύμασιν ἐν πολλοῖς, ἐπεὶ οὐ κομιδὴ κατὰ νῆα"
+    },
+    {
+      "n": 233,
+      "greek": "ἦεν ἐπηετανός· τῷ μοι φίλα γυῖα λέλυνται."
+    },
+    {
+      "n": 234,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ."
+    },
+    {
+      "n": 235,
+      "greek": "Ἀλκίνοος δέ μιν οἶος ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 236,
+      "greek": "ξεῖνʼ, ἐπεὶ οὐκ ἀχάριστα μεθʼ ἡμῖν ταῦτʼ ἀγορεύεις,"
+    },
+    {
+      "n": 237,
+      "greek": "ἀλλʼ ἐθέλεις ἀρετὴν σὴν φαινέμεν, ἥ τοι ὀπηδεῖ,"
+    },
+    {
+      "n": 238,
+      "greek": "χωόμενος ὅτι σʼ οὗτος ἀνὴρ ἐν ἀγῶνι παραστὰς"
+    },
+    {
+      "n": 239,
+      "greek": "νείκεσεν, ὡς ἂν σὴν ἀρετὴν βροτὸς οὔ τις ὄνοιτο,"
+    },
+    {
+      "n": 240,
+      "greek": "ὅς τις ἐπίσταιτο ᾗσι φρεσὶν ἄρτια βάζειν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "who strove even with the immortals in archery. Wherefore great Eurytus died soon, nor did old age come upon him in his halls, for Apollo waxed wroth and slew him, because he had challenged him to a contest with the bow. And with the spear I throw farther than any other man can shoot with an arrow."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "In the foot race alone I fear that someone of the Phaeacians may out strip me, for cruelly have I been broken amid the many waves, since there was in my ship no lasting store of provisions; therefore my limbs are loosened.” So he spoke and they were all hushed in silence;"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "but Alcinous alone answered him and said: “Stranger, since not ungraciously dost thou speak thus in our midst, but art minded to shew forth the prowess which waits upon thee, in anger that yonder man came up to thee in the lists and taunted thee in a way in which no mortal would make light of thy prowess,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "who knew in his heart how to speak fitly; come, now, hearken to my words, that thou mayest tell to another hero, when in thy halls thou art feasting with thy wife and children, and rememberest our skill, what feats"
+    }
+  ]
+}

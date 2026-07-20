@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ὅς ῥʼ ἑτάρους καμάτῳ ἁδηκότας ἠδὲ καὶ ὕπνῳ"
+    },
+    {
+      "n": 282,
+      "greek": "οὐκ ἐάᾳς γαίης ἐπιβήμεναι, ἔνθα κεν αὖτε"
+    },
+    {
+      "n": 283,
+      "greek": "νήσῳ ἐν ἀμφιρύτῃ λαρὸν τετυκοίμεθα δόρπον,"
+    },
+    {
+      "n": 284,
+      "greek": "ἀλλʼ αὔτως διὰ νύκτα θοὴν ἀλάλησθαι ἄνωγας"
+    },
+    {
+      "n": 285,
+      "greek": "νήσου ἀποπλαγχθέντας ἐν ἠεροειδέι πόντῳ."
+    },
+    {
+      "n": 286,
+      "greek": "ἐκ νυκτῶν δʼ ἄνεμοι χαλεποί, δηλήματα νηῶν,"
+    },
+    {
+      "n": 287,
+      "greek": "γίγνονται· πῇ κέν τις ὑπεκφύγοι αἰπὺν ὄλεθρον,"
+    },
+    {
+      "n": 288,
+      "greek": "ἤν πως ἐξαπίνης ἔλθῃ ἀνέμοιο θύελλα,"
+    },
+    {
+      "n": 289,
+      "greek": "ἢ Νότου ἢ Ζεφύροιο δυσαέος, οἵ τε μάλιστα"
+    },
+    {
+      "n": 290,
+      "greek": "νῆα διαρραίουσι θεῶν ἀέκητι ἀνάκτων."
+    },
+    {
+      "n": 291,
+      "greek": "ἀλλʼ ἦ τοι νῦν μὲν πειθώμεθα νυκτὶ μελαίνῃ"
+    },
+    {
+      "n": 292,
+      "greek": "δόρπον θʼ ὁπλισόμεσθα θοῇ παρὰ νηὶ μένοντες,"
+    },
+    {
+      "n": 293,
+      "greek": "ἠῶθεν δʼ ἀναβάντες ἐνήσομεν εὐρέι πόντῳ."
+    },
+    {
+      "n": 294,
+      "greek": "ὣς ἔφατʼ Εὐρύλοχος, ἐπὶ δʼ ᾔνεον ἄλλοι ἑταῖροι."
+    },
+    {
+      "n": 295,
+      "greek": "καὶ τότε δὴ γίγνωσκον ὃ δὴ κακὰ μήδετο δαίμων,"
+    },
+    {
+      "n": 296,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδων·"
+    },
+    {
+      "n": 297,
+      "greek": "Εὐρύλοχʼ, ἦ μάλα δή με βιάζετε μοῦνον ἐόντα."
+    },
+    {
+      "n": 298,
+      "greek": "ἀλλʼ ἄγε νῦν μοι πάντες ὀμόσσατε καρτερὸν ὅρκον·"
+    },
+    {
+      "n": 299,
+      "greek": "εἴ κέ τινʼ ἠὲ βοῶν ἀγέλην ἢ πῶυ μέγʼ οἰῶν"
+    },
+    {
+      "n": 300,
+      "greek": "εὕρωμεν, μή πού τις ἀτασθαλίῃσι κακῇσιν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "driven away from the island over the misty deep. It is from the night that fierce winds are born, wreckers of ships. How could one escape utter destruction, if haply there should suddenly come a blast of the South Wind or the blustering West Wind, which oftenest"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "wreck ships in despite of the sovereign gods? Nay, verily for this time let us yield to black night and make ready our supper, remaining by the swift ship, and in the morning we will go aboard, and put out into the broad sea.’ “So spoke Eurylochus, and the rest of my comrades gave assent."
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "Then verily I knew that some god was assuredly devising ill, and I spoke and addressed him with winged words: “‘Eurylochus, verily ye constrain me, who stand alone. But come now, do ye all swear to me a mighty oath, to the end that, if we haply find a herd of kine or a great flock of sheep,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "no man may slay either cow or sheep in the blind folly of his mind; but be content to eat the food which immortal Circe gave.’ “So I spoke; and they straightway swore that they would not, even as I bade them. But when they had sworn and made an end of the oath,"
+    }
+  ]
+}

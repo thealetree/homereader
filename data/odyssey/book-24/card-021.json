@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "οὐδʼ ἔτʼ ὀϊομένοισι, θεοὶ δέ σʼ ἀνήγαγον αὐτοί,"
+    },
+    {
+      "n": 402,
+      "greek": "οὖλέ τε καὶ μάλα χαῖρε, θεοὶ δέ τοι ὄλβια δοῖεν."
+    },
+    {
+      "n": 403,
+      "greek": "καί μοι τοῦτʼ ἀγόρευσον ἐτήτυμον, ὄφρʼ ἐῢ εἰδῶ,"
+    },
+    {
+      "n": 404,
+      "greek": "ἢ ἤδη σάφα οἶδε περίφρων Πηνελόπεια"
+    },
+    {
+      "n": 405,
+      "greek": "νοστήσαντά σε δεῦρʼ, ἦ ἄγγελον ὀτρύνωμεν."
+    },
+    {
+      "n": 406,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς"
+    },
+    {
+      "n": 407,
+      "greek": "ὦ γέρον, ἤδη οἶδε· τί σε χρὴ ταῦτα πένεσθαι;"
+    },
+    {
+      "n": 408,
+      "greek": "ὣς φάθʼ, ὁ δʼ αὖτις ἄρʼ ἕζετʼ ἐϋξέστου ἐπὶ δίφρου."
+    },
+    {
+      "n": 409,
+      "greek": "ὣς δʼ αὔτως παῖδες Δολίου κλυτὸν ἀμφʼ Ὀδυσῆα"
+    },
+    {
+      "n": 410,
+      "greek": "δεικανόωντʼ ἐπέεσσι καὶ ἐν χείρεσσι φύοντο,"
+    },
+    {
+      "n": 411,
+      "greek": "ἑξείης δʼ ἕζοντο παραὶ Δολίον, πατέρα σφόν."
+    },
+    {
+      "n": 412,
+      "greek": "ὣς οἱ μὲν περὶ δεῖπνον ἐνὶ μεγάροισι πένοντο·"
+    },
+    {
+      "n": 413,
+      "greek": "Ὄσσα δʼ ἄρʼ ἄγγελος ὦκα κατὰ πτόλιν ᾤχετο πάντη,"
+    },
+    {
+      "n": 414,
+      "greek": "μνηστήρων στυγερὸν θάνατον καὶ κῆρʼ ἐνέπουσα."
+    },
+    {
+      "n": 415,
+      "greek": "οἱ δʼ ἄρʼ ὁμῶς ἀΐοντες ἐφοίτων ἄλλοθεν ἄλλος"
+    },
+    {
+      "n": 416,
+      "greek": "μυχμῷ τε στοναχῇ τε δόμων προπάροιθʼ Ὀδυσῆος,"
+    },
+    {
+      "n": 417,
+      "greek": "ἐκ δὲ νέκυς οἴκων φόρεον καὶ θάπτον ἕκαστοι,"
+    },
+    {
+      "n": 418,
+      "greek": "τοὺς δʼ ἐξ ἀλλάων πολίων οἶκόνδε ἕκαστον"
+    },
+    {
+      "n": 419,
+      "greek": "πέμπον ἄγειν ἁλιεῦσι θοῇς ἐπὶ νηυσὶ τιθέντες·"
+    },
+    {
+      "n": 420,
+      "greek": "αὐτοὶ δʼ εἰς ἀγορὴν κίον ἀθρόοι, ἀχνύμενοι κῆρ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "that thou hast come back hither, or shall we send her a messenger?” Then Odysseus of many wiles answered him, and said: “Old man, she knows already; why shouldst thou be busied with this?” So he spoke, and the other sat down again on the polished chair. And even in like manner the sons of Dolius gathered around glorious Odysseus"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "and greeted him in speech, and clasped his hands. Then they sat down in order beside Dolius, their father. So they were busied with their meal in the halls; but meanwhile Rumor, the messenger, went swiftly throughout all the city, telling of the terrible death and fate of the wooers."
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "And the people heard it all at once, and gathered from every side with moanings and wailings before the palace of Odysseus. Forth from the halls they brought each his dead, and buried them; and those from other cities they sent each to his own home, placing them on swift ships for seamen to bear them,"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "but they themselves went together to the place of assembly, sad at heart. Now when they were assembled and met together Eupeithes arose and spoke among them, for comfortless grief for his son lay heavy on his heart, even for Antinous, the first man whom goodly Odysseus had slain."
+    }
+  ]
+}

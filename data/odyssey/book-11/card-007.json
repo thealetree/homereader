@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "ἔρχεσθαι δὴ ἔπειτα λαβὼν ἐυῆρες ἐρετμόν,"
+    },
+    {
+      "n": 122,
+      "greek": "εἰς ὅ κε τοὺς ἀφίκηαι οἳ οὐκ ἴσασι θάλασσαν"
+    },
+    {
+      "n": 123,
+      "greek": "ἀνέρες, οὐδέ θʼ ἅλεσσι μεμιγμένον εἶδαρ ἔδουσιν·"
+    },
+    {
+      "n": 124,
+      "greek": "οὐδʼ ἄρα τοί γʼ ἴσασι νέας φοινικοπαρῄους"
+    },
+    {
+      "n": 125,
+      "greek": "οὐδʼ ἐυήρεʼ ἐρετμά, τά τε πτερὰ νηυσὶ πέλονται."
+    },
+    {
+      "n": 126,
+      "greek": "σῆμα δέ τοι ἐρέω μάλʼ ἀριφραδές, οὐδέ σε λήσει·"
+    },
+    {
+      "n": 127,
+      "greek": "ὁππότε κεν δή τοι συμβλήμενος ἄλλος ὁδίτης"
+    },
+    {
+      "n": 128,
+      "greek": "φήῃ ἀθηρηλοιγὸν ἔχειν ἀνὰ φαιδίμῳ ὤμῳ,"
+    },
+    {
+      "n": 129,
+      "greek": "καὶ τότε δὴ γαίῃ πήξας ἐυῆρες ἐρετμόν,"
+    },
+    {
+      "n": 130,
+      "greek": "ῥέξας ἱερὰ καλὰ Ποσειδάωνι ἄνακτι,"
+    },
+    {
+      "n": 131,
+      "greek": "ἀρνειὸν ταῦρόν τε συῶν τʼ ἐπιβήτορα κάπρον,"
+    },
+    {
+      "n": 132,
+      "greek": "οἴκαδʼ ἀποστείχειν ἔρδειν θʼ ἱερᾶς ἑκατόμβας"
+    },
+    {
+      "n": 133,
+      "greek": "ἀθανάτοισι θεοῖσι, τοὶ οὐρανὸν εὐρὺν ἔχουσι,"
+    },
+    {
+      "n": 134,
+      "greek": "πᾶσι μάλʼ ἑξείης. θάνατος δέ τοι ἐξ ἁλὸς αὐτῷ"
+    },
+    {
+      "n": 135,
+      "greek": "ἀβληχρὸς μάλα τοῖος ἐλεύσεται, ὅς κέ σε πέφνῃ"
+    },
+    {
+      "n": 136,
+      "greek": "γήραι ὕπο λιπαρῷ ἀρημένον· ἀμφὶ δὲ λαοὶ"
+    },
+    {
+      "n": 137,
+      "greek": "ὄλβιοι ἔσσονται. τὰ δέ τοι νημερτέα εἴρω."
+    },
+    {
+      "n": 138,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 139,
+      "greek": "Τειρεσίη, τὰ μὲν ἄρ που ἐπέκλωσαν θεοὶ αὐτοί."
+    },
+    {
+      "n": 140,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "or of shapely oars that are as wings unto ships. And I will tell thee a sign right manifest, which will not escape thee. When another wayfarer, on meeting thee, shall say that thou hast a winnowing-fan on thy stout shoulder, then do thou fix in the earth thy shapely oar"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "and make goodly offerings to lord Poseidon—a ram, and a bull, and a boar that mates with sows—and depart for thy home and offer sacred hecatombs to the immortal gods who hold broad heaven, to each one in due order. And death shall come to thee thyself far from the sea,"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "a death so gentle, that shall lay thee low when thou art overcome with sleek old age, and thy people shall dwell in prosperity around thee. In this have I told thee sooth.’ “So he spoke, and I made answer and said: ‘Teiresias, of all this, I ween, the gods themselves have spun the thread."
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "But come, tell me this, and declare it truly. I see here the spirit of my dead mother; she sits in silence near the blood, and deigns not to look upon the face of her own son or to speak to him. Tell me, prince, how she may recognize that I am he?’"
+    }
+  ]
+}

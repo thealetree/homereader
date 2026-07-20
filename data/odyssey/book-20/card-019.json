@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ἀλλά μιν αἶψα, νέοι, δόμου ἐκπέμψασθε θύραζε"
+    },
+    {
+      "n": 362,
+      "greek": "εἰς ἀγορὴν ἔρχεσθαι, ἐπεὶ τάδε νυκτὶ ἐΐσκει."
+    },
+    {
+      "n": 363,
+      "greek": "τὸν δʼ αὖτε προσέειπε Θεοκλύμενος θεοειδής·"
+    },
+    {
+      "n": 364,
+      "greek": "Εὐρύμαχʼ, οὔ τί σʼ ἄνωγα ἐμοὶ πομπῆας ὀπάζειν·"
+    },
+    {
+      "n": 365,
+      "greek": "εἰσί μοι ὀφθαλμοί τε καὶ οὔατα καὶ πόδες ἄμφω"
+    },
+    {
+      "n": 366,
+      "greek": "καὶ νόος ἐν στήθεσσι τετυγμένος οὐδὲν ἀεικής."
+    },
+    {
+      "n": 367,
+      "greek": "τοῖς ἔξειμι θύραζε, ἐπεὶ νοέω κακὸν ὔμμιν"
+    },
+    {
+      "n": 368,
+      "greek": "ἐρχόμενον, τό κεν οὔ τις ὑπεκφύγοι οὐδʼ ἀλέαιτο"
+    },
+    {
+      "n": 369,
+      "greek": "μνηστήρων, οἳ δῶμα κάτʼ ἀντιθέου Ὀδυσῆος"
+    },
+    {
+      "n": 370,
+      "greek": "ἀνέρας ὑβρίζοντες ἀτάσθαλα μηχανάασθε."
+    },
+    {
+      "n": 371,
+      "greek": "ὣς εἰπὼν ἐξῆλθε δόμων εὖ ναιεταόντων,"
+    },
+    {
+      "n": 372,
+      "greek": "ἵκετο δʼ ἐς Πείραιον, ὅ μιν πρόφρων ὑπέδεκτο."
+    },
+    {
+      "n": 373,
+      "greek": "μνηστῆρες δʼ ἄρα πάντες ἐς ἀλλήλους ὁρόωντες"
+    },
+    {
+      "n": 374,
+      "greek": "Τηλέμαχον ἐρέθιζον, ἐπὶ ξείνοις γελόωντες·"
+    },
+    {
+      "n": 375,
+      "greek": "ὧδε δέ τις εἴπεσκε νέων ὑπερηνορεόντων·"
+    },
+    {
+      "n": 376,
+      "greek": "Τηλέμαχʼ, οὔ τις σεῖο κακοξεινώτερος ἄλλος·"
+    },
+    {
+      "n": 377,
+      "greek": "οἷον μέν τινα τοῦτον ἔχεις ἐπίμαστον ἀλήτην,"
+    },
+    {
+      "n": 378,
+      "greek": "σίτου καὶ οἴνου κεχρημένον, οὐδέ τι ἔργων"
+    },
+    {
+      "n": 379,
+      "greek": "ἔμπαιον οὐδὲ βίης, ἀλλʼ αὔτως ἄχθος ἀρούρης."
+    },
+    {
+      "n": 380,
+      "greek": "ἄλλος δʼ αὖτέ τις οὗτος ἀνέστη μαντεύεσθαι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "I have eyes and ears and my two feet, and a mind in my breast that is in no wise meanly fashioned. With these will I go forth out of doors, for I mark evil coming upon you which not one of the wooers may escape or avoid, of all you who in the house of godlike Odysseus"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "insult men and devise wicked folly.” So saying, he went forth from the stately halls and came to Piraeus, who received him with a ready heart. But all the wooers, looking at one another, sought to provoke Telemachus by laughing at his guests."
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "And thus would one of the proud youths speak: “Telemachus, no man is more unlucky in his guests than thou, seeing that thou keepest such a filthy vagabond as this man here, always wanting bread and wine, and skilled neither in the works of peace nor those of war, but a mere burden of the earth."
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "And this other fellow again stood up to prophesy. Nay, if thou wouldst hearken to me it would be better far: let us fling these strangers on board a benched ship, and send them to the Sicilians, whence they would bring thee in a fitting price.” So spake the wooers, but he paid no heed to their words."
+    }
+  ]
+}

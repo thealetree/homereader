@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 540,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "Κήτειοι κτείνοντο γυναίων εἵνεκα δώρων."
+    },
+    {
+      "n": 522,
+      "greek": "κεῖνον δὴ κάλλιστον ἴδον μετὰ Μέμνονα δῖον."
+    },
+    {
+      "n": 523,
+      "greek": "αὐτὰρ ὅτʼ εἰς ἵππον κατεβαίνομεν, ὃν κάμʼ Ἐπειός,"
+    },
+    {
+      "n": 524,
+      "greek": "Ἀργείων οἱ ἄριστοι, ἐμοὶ δʼ ἐπὶ πάντα τέταλτο,"
+    },
+    {
+      "n": 525,
+      "greek": "ἠμὲν ἀνακλῖναι πυκινὸν λόχον ἠδʼ ἐπιθεῖναι,"
+    },
+    {
+      "n": 526,
+      "greek": "ἔνθʼ ἄλλοι Δαναῶν ἡγήτορες ἠδὲ μέδοντες"
+    },
+    {
+      "n": 527,
+      "greek": "δάκρυά τʼ ὠμόργνυντο τρέμον θʼ ὑπὸ γυῖα ἑκάστου·"
+    },
+    {
+      "n": 528,
+      "greek": "κεῖνον δʼ οὔ ποτε πάμπαν ἐγὼν ἴδον ὀφθαλμοῖσιν"
+    },
+    {
+      "n": 529,
+      "greek": "οὔτʼ ὠχρήσαντα χρόα κάλλιμον οὔτε παρειῶν"
+    },
+    {
+      "n": 530,
+      "greek": "δάκρυ ὀμορξάμενον· ὁ δέ γε μάλα πόλλʼ ἱκέτευεν"
+    },
+    {
+      "n": 531,
+      "greek": "ἱππόθεν ἐξέμεναι, ξίφεος δʼ ἐπεμαίετο κώπην"
+    },
+    {
+      "n": 532,
+      "greek": "καὶ δόρυ χαλκοβαρές, κακὰ δὲ Τρώεσσι μενοίνα."
+    },
+    {
+      "n": 533,
+      "greek": "ἀλλʼ ὅτε δὴ Πριάμοιο πόλιν διεπέρσαμεν αἰπήν,"
+    },
+    {
+      "n": 534,
+      "greek": "μοῖραν καὶ γέρας ἐσθλὸν ἔχων ἐπὶ νηὸς ἔβαινεν"
+    },
+    {
+      "n": 535,
+      "greek": "ἀσκηθής, οὔτʼ ἂρ βεβλημένος ὀξέι χαλκῷ"
+    },
+    {
+      "n": 536,
+      "greek": "οὔτʼ αὐτοσχεδίην οὐτασμένος, οἷά τε πολλὰ"
+    },
+    {
+      "n": 537,
+      "greek": "γίγνεται ἐν πολέμῳ· ἐπιμὶξ δέ τε μαίνεται Ἄρης."
+    },
+    {
+      "n": 538,
+      "greek": "ὣς ἐφάμην, ψυχὴ δὲ ποδώκεος Αἰακίδαο"
+    },
+    {
+      "n": 539,
+      "greek": "φοίτα μακρὰ βιβᾶσα κατʼ ἀσφοδελὸν λειμῶνα,"
+    },
+    {
+      "n": 540,
+      "greek": "γηθοσύνη ὅ οἱ υἱὸν ἔφην ἀριδείκετον εἶναι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "both to open and to close the door of our stout-built ambush, then the other leaders and counsellors of the Danaans would wipe away tears from their eyes, and each man's limbs shook beneath him, but never did my eyes see his fair face grow pale at all, nor see him"
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "wiping tears from his cheeks; but he earnestly besought me to let him go forth from the horse, and kept handling his sword-hilt and his spear heavy with bronze, and was eager to work harm to the Trojans. But after we had sacked the lofty city of Priam, he went on board his ship with his share of the spoil and a goodly prize—"
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "all unscathed he was, neither smitten with the sharp spear nor wounded in close fight, as often befalls in war; for Ares rages confusedly.’ “So I spoke, and the spirit of the son of Aeacus departed with long strides over the field of asphodel,"
+    },
+    {
+      "lines": [
+        540,
+        540
+      ],
+      "text": "joyful in that I said that his son was preeminent. “And other spirits of those dead and gone stood sorrowing, and each asked of those dear to him. Alone of them all the spirit of Aias, son of Telamon, stood apart, still full of wrath for the victory"
+    }
+  ]
+}

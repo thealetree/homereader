@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ξεῖνʼ, ἦ τοι μὲν γαῖαν ἱκάνεις, ἣν ἐρεείνεις,"
+    },
+    {
+      "n": 282,
+      "greek": "ὑβρισταὶ δʼ αὐτὴν καὶ ἀτάσθαλοι ἄνδρες ἔχουσιν·"
+    },
+    {
+      "n": 283,
+      "greek": "δῶρα δʼ ἐτώσια ταῦτα χαρίζεο, μυρίʼ ὀπάζων·"
+    },
+    {
+      "n": 284,
+      "greek": "εἰ γάρ μιν ζωόν γʼ ἐκίχεις Ἰθάκης ἐνὶ δήμῳ,"
+    },
+    {
+      "n": 285,
+      "greek": "τῷ κέν σʼ εὖ δώροισιν ἀμειψάμενος ἀπέπεμψε"
+    },
+    {
+      "n": 286,
+      "greek": "καὶ ξενίῃ ἀγαθῇ ἡ γὰρ θέμις, ὅς τις ὑπάρξῃ."
+    },
+    {
+      "n": 287,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,"
+    },
+    {
+      "n": 288,
+      "greek": "πόστον δὴ ἔτος ἐστίν, ὅτε ξείνισσας ἐκεῖνον"
+    },
+    {
+      "n": 289,
+      "greek": "σὸν ξεῖνον δύστηνον, ἐμὸν παῖδʼ, εἴ ποτʼ ἔην γε,"
+    },
+    {
+      "n": 290,
+      "greek": "δύσμορον; ὅν που τῆλε φίλων καὶ πατρίδος αἴης"
+    },
+    {
+      "n": 291,
+      "greek": "ἠέ που ἐν πόντῳ φάγον ἰχθύες, ἢ ἐπὶ χέρσου"
+    },
+    {
+      "n": 292,
+      "greek": "θηρσὶ καὶ οἰωνοῖσιν ἕλωρ γένετʼ· οὐδέ ἑ μήτηρ"
+    },
+    {
+      "n": 293,
+      "greek": "κλαῦσε περιστείλασα πατήρ θʼ, οἵ μιν τεκόμεσθα·"
+    },
+    {
+      "n": 294,
+      "greek": "οὐδʼ ἄλοχος πολύδωρος, ἐχέφρων Πηνελόπεια,"
+    },
+    {
+      "n": 295,
+      "greek": "κώκυσʼ ἐν λεχέεσσιν ἑὸν πόσιν, ὡς ἐπεῴκει,"
+    },
+    {
+      "n": 296,
+      "greek": "ὀφθαλμοὺς καθελοῦσα· τὸ γὰρ γέρας ἐστὶ θανόντων."
+    },
+    {
+      "n": 297,
+      "greek": "καί μοι τοῦτʼ ἀγόρευσον ἐτήτυμον, ὄφρʼ ἐῢ εἰδῶ·"
+    },
+    {
+      "n": 298,
+      "greek": "τίς πόθεν εἶς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες;"
+    },
+    {
+      "n": 299,
+      "greek": "ποῦ δὲ νηῦς ἕστηκε θοή, ἥ σʼ ἤγαγε δεῦρο"
+    },
+    {
+      "n": 300,
+      "greek": "ἀντιθέους θʼ ἑτάρους; ἦ ἔμπορος εἰλήλουθας"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "then would he have sent thee on thy way with ample requital of gifts and good entertainment; for that is the due of him who begins the kindness But come, tell me this, and declare it truly. How many years have passed since thou didst entertain that guest, that hapless guest, my son—as sure as ever such a man there was—"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "my ill-starred son, whom far from his friends and his native land haply the fishes have devoured in the deep, or on the shore he has become the spoil of beasts and birds? Nor did his mother deck him for burial and weep over him, nor his father, we who gave him birth, no, nor did his wife, wooed with many gifts, constant Penelope,"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "bewail her own husband upon the bier, as was meet, when she had closed his eyes in death; though that is the due of the dead. And tell me this also truly, that I may know full well. Who art thou among men, and from whence? Where is thy city, and where thy parents? Where is the swift ship moored that brought thee hither"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "with thy godlike comrades? Or didst thou come as a passenger on another's ship, and did they depart when they had set thee on shore?” Then Odysseus of many wiles answered him, and said: “Then verily will I frankly tell thee all. I come from Alybas, where I have a glorious house,"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "book": 7,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 347,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "ὤτρυνον δʼ Ὀδυσῆα παριστάμεναι ἐπέεσσιν·"
+    },
+    {
+      "n": 342,
+      "greek": "ὄρσο κέων, ὦ ξεῖνε· πεποίηται δέ τοι εὐνή."
+    },
+    {
+      "n": 343,
+      "greek": "ὣς φάν, τῷ δʼ ἀσπαστὸν ἐείσατο κοιμηθῆναι."
+    },
+    {
+      "n": 344,
+      "greek": "ὣς ὁ μὲν ἔνθα καθεῦδε πολύτλας δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 345,
+      "greek": "τρητοῖς ἐν λεχέεσσιν ὑπʼ αἰθούσῃ ἐριδούπῳ·"
+    },
+    {
+      "n": 346,
+      "greek": "Ἀλκίνοος δʼ ἄρα λέκτο μυχῷ δόμου ὑψηλοῖο,"
+    },
+    {
+      "n": 347,
+      "greek": "πὰρ δὲ γυνὴ δέσποινα λέχος πόρσυνε καὶ εὐνήν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        347
+      ],
+      "text": "on the corded bedstead under the echoing portico. But Alcinous lay down in the inmost chamber of the lofty house, and beside him lay the lady his wife, who had strewn the couch."
+    }
+  ]
+}

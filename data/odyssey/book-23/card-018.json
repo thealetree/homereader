@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 18,
+  "lineStart": 342,
+  "lineEnd": 361,
+  "lines": [
+    {
+      "n": 342,
+      "greek": "τοῦτʼ ἄρα δεύτατον εἶπεν ἔπος, ὅτε οἱ γλυκὺς ὕπνος"
+    },
+    {
+      "n": 343,
+      "greek": "λυσιμελὴς ἐπόρουσε, λύων μελεδήματα θυμοῦ."
+    },
+    {
+      "n": 344,
+      "greek": "ἡ δʼ αὖτʼ ἄλλʼ ἐνόησε θεὰ γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 345,
+      "greek": "ὁππότε δή ῥʼ Ὀδυσῆα ἐέλπετο ὃν κατὰ θυμὸν"
+    },
+    {
+      "n": 346,
+      "greek": "εὐνῆς ἧς ἀλόχου ταρπήμεναι ἠδὲ καὶ ὕπνου,"
+    },
+    {
+      "n": 347,
+      "greek": "αὐτίκʼ ἀπʼ Ὠκεανοῦ χρυσόθρονον ἠριγένειαν"
+    },
+    {
+      "n": 348,
+      "greek": "ὦρσεν, ἵνʼ ἀνθρώποισι φόως φέροι· ὦρτο δʼ Ὀδυσσεὺς"
+    },
+    {
+      "n": 349,
+      "greek": "εὐνῆς ἐκ μαλακῆς, ἀλόχῳ δʼ ἐπὶ μῦθον ἔτελλεν·"
+    },
+    {
+      "n": 350,
+      "greek": "ὦ γύναι, ἤδη μὲν πολέων κεκορήμεθʼ ἀέθλων"
+    },
+    {
+      "n": 351,
+      "greek": "ἀμφοτέρω, σὺ μὲν ἐνθάδʼ ἐμὸν πολυκηδέα νόστον"
+    },
+    {
+      "n": 352,
+      "greek": "κλαίουσʼ. αὐτὰρ ἐμὲ Ζεὺς ἄλγεσι καὶ θεοὶ ἄλλοι"
+    },
+    {
+      "n": 353,
+      "greek": "ἱέμενον πεδάασκον ἐμῆς ἀπὸ πατρίδος αἴης·"
+    },
+    {
+      "n": 354,
+      "greek": "νῦν δʼ ἐπεὶ ἀμφοτέρω πολυήρατον ἱκόμεθʼ εὐνήν,"
+    },
+    {
+      "n": 355,
+      "greek": "κτήματα μὲν τά μοι ἔστι, κομιζέμεν ἐν μεγάροισι,"
+    },
+    {
+      "n": 356,
+      "greek": "μῆλα δʼ ἅ μοι μνηστῆρες ὑπερφίαλοι κατέκειραν,"
+    },
+    {
+      "n": 357,
+      "greek": "πολλὰ μὲν αὐτὸς ἐγὼ ληΐσσομαι, ἄλλα δʼ Ἀχαιοὶ"
+    },
+    {
+      "n": 358,
+      "greek": "δώσουσʼ, εἰς ὅ κε πάντας ἐνιπλήσωσιν ἐπαύλους."
+    },
+    {
+      "n": 359,
+      "greek": "ἀλλʼ ἦ τοι μὲν ἐγὼ πολυδένδρεον ἀγρὸν ἔπειμι,"
+    },
+    {
+      "n": 360,
+      "greek": "ὀψόμενος πατέρʼ ἐσθλόν, ὅ μοι πυκινῶς ἀκάχηται·"
+    },
+    {
+      "n": 361,
+      "greek": "σοὶ δέ, γύναι, τάδʼ ἐπιτέλλω, πινυτῇ περ ἐούσῃ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "When she judged that the heart of Odysseus had had its fill of dalliance with his wife and of sleep, straightway she roused from Oceanus golden-throned Dawn to bring light to men; and Odysseus rose from his soft couch, and gave charge to his wife, saying:"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "“Wife, by now have we had our fill of many trials, thou and I, thou here, mourning over my troublous journey home, while as for me, Zeus and the other gods bound me fast in sorrows far from my native land, all eager as I was to return. But now that we have both come to the couch of our desire,"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "do thou care for the wealth that I have within the halls; as for the flocks which the insolent wooers have wasted, I shall myself get me many as booty, and others will the Achaeans give, until they fill all my folds; but I verily will go to my well-wooded farm"
+    },
+    {
+      "lines": [
+        360,
+        361
+      ],
+      "text": "to see my noble father, who for my sake is sore distressed, and on thee, wife, do I lay this charge, wise though thou art. Straightway at the rising of the sun will report go abroad concerning the wooers whom I slew in the halls. Therefore go thou up to thy upper chamber with thy handmaids,"
+    }
+  ]
+}

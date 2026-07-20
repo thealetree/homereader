@@ -83,10 +83,13 @@ authoring pass validate this, and mismatches are flagged in `meta.drift`.
 
 ## Recurring epithets & formulae — running glossary
 
-Homer is formulaic. Translate each stock epithet/formula the **same way every
-time** it appears, so the reader hears a returning phrase. Add rows as new
-formulae appear. (Left column = literal rendering; keep interlinear consistent
-too.)
+Homer is formulaic. Key consistency to **Homer's own Greek**: when he repeats a
+formula, render it the same way every time so the reader hears the returning
+phrase; when he reaches for a *different* Greek word, use a different English
+word too — don't flatten distinct Greek into one English. Example from Book 1:
+Odysseus is ἀντίθεος ("godlike") at 1.21 but θεῖος ("divine") at 1.65, so the
+two are rendered differently. Add rows as new formulae appear. (Left column =
+literal rendering; keep interlinear consistent too.)
 
 | Greek | Literal rendering |
 |---|---|
@@ -107,6 +110,14 @@ too.)
 Whole-card prose (or verse), one string each. **Never bowdlerize** — Homer's
 violence, cruelty, and frankness survive in every style, including Storybook
 (the cozy-register-over-brutal-content contrast is deliberate satire).
+
+**Each card's stylized prose must stand alone.** Even though 20-line cards
+break mid-scene, write each rendering so it opens and closes as a complete
+unit — a proper opening sentence, a clean final stop. Do **not** use leading or
+trailing em-dashes (or any dangling punctuation) to bridge into the next card;
+a light narrative anchor at the start (e.g. "Then bright-eyed Athena spoke
+again") is preferred over a fragment. The line-by-line cribs are exempt — they
+are faithful per-line glosses and are inherently fragmentary.
 
 - **Elizabethan** — unrhymed iambic-pentameter blank verse in an Elizabethan
   register; period diction (thou/thee/hath) where natural, never stilted.

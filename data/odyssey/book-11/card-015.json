@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "καὶ Χλῶριν εἶδον περικαλλέα, τήν ποτε Νηλεὺς"
+    },
+    {
+      "n": 282,
+      "greek": "γῆμεν ἑὸν διὰ κάλλος, ἐπεὶ πόρε μυρία ἕδνα,"
+    },
+    {
+      "n": 283,
+      "greek": "ὁπλοτάτην κούρην Ἀμφίονος Ἰασίδαο,"
+    },
+    {
+      "n": 284,
+      "greek": "ὅς ποτʼ ἐν Ὀρχομενῷ Μινυείῳ ἶφι ἄνασσεν·"
+    },
+    {
+      "n": 285,
+      "greek": "ἡ δὲ Πύλου βασίλευε, τέκεν δέ οἱ ἀγλαὰ τέκνα,"
+    },
+    {
+      "n": 286,
+      "greek": "Νέστορά τε Χρόνιον τε Περικλύμενόν τʼ ἀγέρωχον."
+    },
+    {
+      "n": 287,
+      "greek": "τοῖσι δʼ ἐπʼ ἰφθίμην Πηρὼ τέκε, θαῦμα βροτοῖσι,"
+    },
+    {
+      "n": 288,
+      "greek": "τὴν πάντες μνώοντο περικτίται· οὐδʼ ἄρα Νηλεὺς"
+    },
+    {
+      "n": 289,
+      "greek": "τῷ ἐδίδου ὃς μὴ ἕλικας βόας εὐρυμετώπους"
+    },
+    {
+      "n": 290,
+      "greek": "ἐκ Φυλάκης ἐλάσειε βίης Ἰφικληείης"
+    },
+    {
+      "n": 291,
+      "greek": "ἀργαλέας· τὰς δʼ οἶος ὑπέσχετο μάντις ἀμύμων"
+    },
+    {
+      "n": 292,
+      "greek": "ἐξελάαν· χαλεπὴ δὲ θεοῦ κατὰ μοῖρα πέδησε,"
+    },
+    {
+      "n": 293,
+      "greek": "δεσμοί τʼ ἀργαλέοι καὶ βουκόλοι ἀγροιῶται."
+    },
+    {
+      "n": 294,
+      "greek": "ἀλλʼ ὅτε δὴ μῆνές τε καὶ ἡμέραι ἐξετελεῦντο"
+    },
+    {
+      "n": 295,
+      "greek": "ἂψ περιτελλομένου ἔτεος καὶ ἐπήλυθον ὧραι,"
+    },
+    {
+      "n": 296,
+      "greek": "καὶ τότε δή μιν ἔλυσε βίη Ἰφικληείη,"
+    },
+    {
+      "n": 297,
+      "greek": "θέσφατα πάντʼ εἰπόντα· Διὸς δʼ ἐτελείετο βουλή."
+    },
+    {
+      "n": 298,
+      "greek": "καὶ Λήδην εἶδον, τὴν Τυνδαρέου παράκοιτιν,"
+    },
+    {
+      "n": 299,
+      "greek": "ἥ ῥʼ ὑπὸ Τυνδαρέῳ κρατερόφρονε γείνατο παῖδε,"
+    },
+    {
+      "n": 300,
+      "greek": "Κάστορά θʼ ἱππόδαμον καὶ πὺξ ἀγαθὸν Πολυδεύκεα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "And she was queen of Pylos, and bore to her husband glorious children, Nestor, and Chromius, and lordly Periclymenus, and besides these she bore noble Pero, a wonder to men. Her all that dwelt about sought in marriage, but Neleus would give her to no man, save to him who"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "should drive from Phylace the kine of mighty Iphicles, sleek and broad of brow; and hard they were to drive. These the blameless seer alone undertook to drive off; but a grievous fate of the gods ensnared him, even hard bonds and the herdsmen of the field."
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "Howbeit when at length the months and the days were being brought to fulfillment, as the year rolled round, and the seasons came on, then verily mighty Iphicles released him, when he had told all the oracles; and the will of Zeus was fulfilled. “And I saw Lede, the wife of Tyndareus, who bore to Tyndareus two sons, stout of heart,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "Castor the tamer of horses, and the boxer Polydeuces. These two the earth, the giver of life, covers, albeit alive, and even in the world below they have honor from Zeus. One day they live in turn, and one day they are dead; and they have won honor like unto that of the gods."
+    }
+  ]
+}

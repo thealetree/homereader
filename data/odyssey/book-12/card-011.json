@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "ἀλλʼ ὅτε δὴ τὴν νῆσον ἐλείπομεν, αὐτίκʼ ἔπειτα"
+    },
+    {
+      "n": 202,
+      "greek": "καπνὸν καὶ μέγα κῦμα ἴδον καὶ δοῦπον ἄκουσα."
+    },
+    {
+      "n": 203,
+      "greek": "τῶν δʼ ἄρα δεισάντων ἐκ χειρῶν ἔπτατʼ ἐρετμά,"
+    },
+    {
+      "n": 204,
+      "greek": "βόμβησαν δʼ ἄρα πάντα κατὰ ῥόον· ἔσχετο δʼ αὐτοῦ"
+    },
+    {
+      "n": 205,
+      "greek": "νηῦς, ἐπεὶ οὐκέτʼ ἐρετμὰ προήκεα χερσὶν ἔπειγον."
+    },
+    {
+      "n": 206,
+      "greek": "αὐτὰρ ἐγὼ διὰ νηὸς ἰὼν ὤτρυνον ἑταίρους"
+    },
+    {
+      "n": 207,
+      "greek": "μειλιχίοις ἐπέεσσι παρασταδὸν ἄνδρα ἕκαστον·"
+    },
+    {
+      "n": 208,
+      "greek": "ὦ φίλοι, οὐ γάρ πώ τι κακῶν ἀδαήμονές εἰμεν·"
+    },
+    {
+      "n": 209,
+      "greek": "οὐ μὲν δὴ τόδε μεῖζον ἕπει κακόν, ἢ ὅτε Κύκλωψ"
+    },
+    {
+      "n": 210,
+      "greek": "εἴλει ἐνὶ σπῆι γλαφυρῷ κρατερῆφι βίηφιν·"
+    },
+    {
+      "n": 211,
+      "greek": "ἀλλὰ καὶ ἔνθεν ἐμῇ ἀρετῇ, βουλῇ τε νόῳ τε,"
+    },
+    {
+      "n": 212,
+      "greek": "ἐκφύγομεν, καί που τῶνδε μνήσεσθαι ὀίω."
+    },
+    {
+      "n": 213,
+      "greek": "νῦν δʼ ἄγεθʼ, ὡς ἂν ἐγὼ εἴπω, πειθώμεθα πάντες."
+    },
+    {
+      "n": 214,
+      "greek": "ὑμεῖς μὲν κώπῃσιν ἁλὸς ῥηγμῖνα βαθεῖαν"
+    },
+    {
+      "n": 215,
+      "greek": "τύπτετε κληίδεσσιν ἐφήμενοι, αἴ κέ ποθι Ζεὺς"
+    },
+    {
+      "n": 216,
+      "greek": "δώῃ τόνδε γʼ ὄλεθρον ὑπεκφυγέειν καὶ ἀλύξαι·"
+    },
+    {
+      "n": 217,
+      "greek": "σοὶ δέ, κυβερνῆθʼ, ὧδʼ ἐπιτέλλομαι· ἀλλʼ ἐνὶ θυμῷ"
+    },
+    {
+      "n": 218,
+      "greek": "βάλλευ, ἐπεὶ νηὸς γλαφυρῆς οἰήια νωμᾷς."
+    },
+    {
+      "n": 219,
+      "greek": "τούτου μὲν καπνοῦ καὶ κύματος ἐκτὸς ἔεργε"
+    },
+    {
+      "n": 220,
+      "greek": "νῆα, σὺ δὲ σκοπέλου ἐπιμαίεο, μή σε λάθῃσι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "the ship stood still where it was, when they no longer plied with their hands the tapering oars. But I went through the ship and cheered my men with gentle words, coming up to each man in turn: “‘Friends, hitherto we have been in no wise ignorant of sorrow; surely this evil that besets us now is no greater than when the Cyclops"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "penned us in his hollow cave by brutal strength; yet even thence we made our escape through my valor and counsel and wit; these dangers, too, methinks we shall some day remember. But now come, as I bid, let us all obey. Do you keep your seats on the benches"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "and smite with your oars the deep surf of the sea, in the hope that Zeus may grant us to escape and avoid this death. And to thee, steersman, I give this command, and do thou lay it to heart, since thou wieldest the steering oar of the hollow ship. From this smoke and surf keep"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "the ship well away and hug the cliff, lest, ere thou know it, the ship swerve off to the other side and thou cast us into destruction.’ “So I spoke, and they quickly hearkened to my words. But of Scylla I went not on to speak, a cureless bane, lest haply my comrades, seized with fear, should cease"
+    }
+  ]
+}

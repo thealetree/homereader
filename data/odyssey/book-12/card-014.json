@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "Σκύλλην τʼ, αὐτίκʼ ἔπειτα θεοῦ ἐς ἀμύμονα νῆσον"
+    },
+    {
+      "n": 262,
+      "greek": "ἱκόμεθʼ· ἔνθα δʼ ἔσαν καλαὶ βόες εὐρυμέτωποι,"
+    },
+    {
+      "n": 263,
+      "greek": "πολλὰ δὲ ἴφια μῆλʼ Ὑπερίονος Ἠελίοιο."
+    },
+    {
+      "n": 264,
+      "greek": "δὴ τότʼ ἐγὼν ἔτι πόντῳ ἐὼν ἐν νηὶ μελαίνῃ"
+    },
+    {
+      "n": 265,
+      "greek": "μυκηθμοῦ τʼ ἤκουσα βοῶν αὐλιζομενάων"
+    },
+    {
+      "n": 266,
+      "greek": "οἰῶν τε βληχήν· καί μοι ἔπος ἔμπεσε θυμῷ"
+    },
+    {
+      "n": 267,
+      "greek": "μάντηος ἀλαοῦ, Θηβαίου Τειρεσίαο,"
+    },
+    {
+      "n": 268,
+      "greek": "Κίρκης τʼ Αἰαίης, ἥ μοι μάλα πόλλʼ ἐπέτελλε"
+    },
+    {
+      "n": 269,
+      "greek": "νῆσον ἀλεύασθαι τερψιμβρότου Ἠελίοιο."
+    },
+    {
+      "n": 270,
+      "greek": "δὴ τότʼ ἐγὼν ἑτάροισι μετηύδων ἀχνύμενος κῆρ·"
+    },
+    {
+      "n": 271,
+      "greek": "κέκλυτέ μευ μύθων κακά περ πάσχοντες ἑταῖροι,"
+    },
+    {
+      "n": 272,
+      "greek": "ὄφρʼ ὑμῖν εἴπω μαντήια Τειρεσίαο"
+    },
+    {
+      "n": 273,
+      "greek": "Κίρκης τʼ Αἰαίης, ἥ μοι μάλα πόλλʼ ἐπέτελλε"
+    },
+    {
+      "n": 274,
+      "greek": "νῆσον ἀλεύασθαι τερψιμβρότου Ἠελίοιο·"
+    },
+    {
+      "n": 275,
+      "greek": "ἔνθα γὰρ αἰνότατον κακὸν ἔμμεναι ἄμμιν ἔφασκεν."
+    },
+    {
+      "n": 276,
+      "greek": "ἀλλὰ παρὲξ τὴν νῆσον ἐλαύνετε νῆα μέλαιναν."
+    },
+    {
+      "n": 277,
+      "greek": "ὣς ἐφάμην, τοῖσιν δὲ κατεκλάσθη φίλον ἦτορ."
+    },
+    {
+      "n": 278,
+      "greek": "αὐτίκα δʼ Εὐρύλοχος στυγερῷ μʼ ἠμείβετο μύθῳ·"
+    },
+    {
+      "n": 279,
+      "greek": "σχέτλιός εἰς, Ὀδυσεῦ· περί τοι μένος, οὐδέ τι γυῖα"
+    },
+    {
+      "n": 280,
+      "greek": "κάμνεις· ἦ ῥά νυ σοί γε σιδήρεα πάντα τέτυκται,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "I heard the lowing of the cattle that were being stalled and the bleating of the sheep, and upon my mind fell the words of the blind seer, Theban Teiresias, and of Aeaean Circe, who very straitly charged me to shun the island of Helios, who gives joy to mortals."
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "Then verily I spoke among my comrades, grieved at heart: “‘Hear my words, comrades, for all your evil plight, that I may tell you the oracles of Teiresias and of Aeaean Circe, who very straitly charged me to shun the island of Helios, who gives joy to mortals;"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "for there, she said, was our most terrible bane. Nay, row the black ship out past the island.’ “So I spoke, but their spirit was broken within them, and straightway Eurylochus answered me with hateful words: “‘Hardy art thou, Odysseus; thou hast strength beyond that of other men and thy limbs never"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "grow weary. Verily thou art wholly wrought of iron, seeing that thou sufferest not thy comrades, worn out with toil and drowsiness, to set foot on shore, where on this sea-girt isle we might once more make ready a savoury supper; but thou biddest us even as we are to wander on through the swift night,"
+    }
+  ]
+}

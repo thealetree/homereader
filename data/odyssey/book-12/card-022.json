@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "λῦσε κλύδων τρόπιος, τὴν δὲ ψιλὴν φέρε κῦμα,"
+    },
+    {
+      "n": 422,
+      "greek": "ἐκ δέ οἱ ἱστὸν ἄραξε ποτὶ τρόπιν. αὐτὰρ ἐπʼ αὐτῷ"
+    },
+    {
+      "n": 423,
+      "greek": "ἐπίτονος βέβλητο, βοὸς ῥινοῖο τετευχώς·"
+    },
+    {
+      "n": 424,
+      "greek": "τῷ ῥʼ ἄμφω συνέεργον, ὁμοῦ τρόπιν ἠδὲ καὶ ἱστόν,"
+    },
+    {
+      "n": 425,
+      "greek": "ἑζόμενος δʼ ἐπὶ τοῖς φερόμην ὀλοοῖς ἀνέμοισιν."
+    },
+    {
+      "n": 426,
+      "greek": "ἔνθʼ ἦ τοι Ζέφυρος μὲν ἐπαύσατο λαίλαπι θύων,"
+    },
+    {
+      "n": 427,
+      "greek": "ἦλθε δʼ ἐπὶ Νότος ὦκα, φέρων ἐμῷ ἄλγεα θυμῷ,"
+    },
+    {
+      "n": 428,
+      "greek": "ὄφρʼ ἔτι τὴν ὀλοὴν ἀναμετρήσαιμι Χάρυβδιν."
+    },
+    {
+      "n": 429,
+      "greek": "παννύχιος φερόμην, ἅμα δʼ ἠελίῳ ἀνιόντι"
+    },
+    {
+      "n": 430,
+      "greek": "ἦλθον ἐπὶ Σκύλλης σκόπελον δεινήν τε Χάρυβδιν."
+    },
+    {
+      "n": 431,
+      "greek": "ἡ μὲν ἀνερροίβδησε θαλάσσης ἁλμυρὸν ὕδωρ·"
+    },
+    {
+      "n": 432,
+      "greek": "αὐτὰρ ἐγὼ ποτὶ μακρὸν ἐρινεὸν ὑψόσʼ ἀερθείς,"
+    },
+    {
+      "n": 433,
+      "greek": "τῷ προσφὺς ἐχόμην ὡς νυκτερίς. οὐδέ πῃ εἶχον"
+    },
+    {
+      "n": 434,
+      "greek": "οὔτε στηρίξαι ποσὶν ἔμπεδον οὔτʼ ἐπιβῆναι·"
+    },
+    {
+      "n": 435,
+      "greek": "ῥίζαι γὰρ ἑκὰς εἶχον, ἀπήωροι δʼ ἔσαν ὄζοι,"
+    },
+    {
+      "n": 436,
+      "greek": "μακροί τε μεγάλοι τε, κατεσκίαον δὲ Χάρυβδιν."
+    },
+    {
+      "n": 437,
+      "greek": "νωλεμέως δʼ ἐχόμην, ὄφρʼ ἐξεμέσειεν ὀπίσσω"
+    },
+    {
+      "n": 438,
+      "greek": "ἱστὸν καὶ τρόπιν αὖτις· ἐελδομένῳ δέ μοι ἦλθον"
+    },
+    {
+      "n": 439,
+      "greek": "ὄψʼ· ἦμος δʼ ἐπὶ δόρπον ἀνὴρ ἀγορῆθεν ἀνέστη"
+    },
+    {
+      "n": 440,
+      "greek": "κρίνων νείκεα πολλὰ δικαζομένων αἰζηῶν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "and sitting on these was borne by the direful winds. “Then verily the West Wind ceased to blow tempestuously, and swiftly the South Wind came, bringing sorrow to my heart, that I might traverse again the way to baneful Charybdis. All night long was I borne, and at the rising of the sun"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "I came to the cliff of Scylla and to dread Charybdis. She verily sucked down the salt water of the sea, but I, springing up to the tall fig-tree, laid hold of it, and clung to it like a bat. Yet I could in no wise plant my feet firmly or climb upon the tree,"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "for its roots spread far below and its branches hung out of reach above, long and great, and overshadowed Charybdis. There I clung steadfastly until she should vomit forth mast and keel again, and to my joy they came at length. At the hour when a man rises from the assembly for his supper,"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "one that decides the many quarrels of young men that seek judgment, even at that hour those spars appeared from out Charybdis. And I let go hands and feet from above and plunged down into the waters out beyond the long spars, and sitting on these I rowed onward with my hands."
+    }
+  ]
+}

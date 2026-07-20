@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "αὐτὰρ ἐπεὶ κατὰ μῆρʼ ἐκάη καὶ σπλάγχνα πάσαντο,"
+    },
+    {
+      "n": 462,
+      "greek": "μίστυλλόν τʼ ἄρα τἆλλα καὶ ἀμφʼ ὀβελοῖσιν ἔπειραν,"
+    },
+    {
+      "n": 463,
+      "greek": "ὤπτων δʼ ἀκροπόρους ὀβελοὺς ἐν χερσὶν ἔχοντες."
+    },
+    {
+      "n": 464,
+      "greek": "τόφρα δὲ Τηλέμαχον λοῦσεν καλὴ Πολυκάστη,"
+    },
+    {
+      "n": 465,
+      "greek": "Νέστορος ὁπλοτάτη θυγάτηρ Νηληϊάδαο."
+    },
+    {
+      "n": 466,
+      "greek": "αὐτὰρ ἐπεὶ λοῦσέν τε καὶ ἔχρισεν λίπʼ ἐλαίῳ,"
+    },
+    {
+      "n": 467,
+      "greek": "ἀμφὶ δέ μιν φᾶρος καλὸν βάλεν ἠδὲ χιτῶνα,"
+    },
+    {
+      "n": 468,
+      "greek": "ἔκ ῥʼ ἀσαμίνθου βῆ δέμας ἀθανάτοισιν ὁμοῖος·"
+    },
+    {
+      "n": 469,
+      "greek": "πὰρ δʼ ὅ γε Νέστορʼ ἰὼν κατʼ ἄρʼ ἕζετο, ποιμένα λαῶν."
+    },
+    {
+      "n": 470,
+      "greek": "οἱ δʼ ἐπεὶ ὤπτησαν κρέʼ ὑπέρτερα καὶ ἐρύσαντο,"
+    },
+    {
+      "n": 471,
+      "greek": "δαίνυνθʼ ἑζόμενοι· ἐπὶ δʼ ἀνέρες ἐσθλοὶ ὄροντο"
+    },
+    {
+      "n": 472,
+      "greek": "οἶνον οἰνοχοεῦντες ἐνὶ χρυσέοις δεπάεσσιν."
+    },
+    {
+      "n": 473,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 474,
+      "greek": "τοῖσι δὲ μύθων ἦρχε Γερήνιος ἱππότα Νέστωρ·"
+    },
+    {
+      "n": 475,
+      "greek": "παῖδες ἐμοί, ἄγε Τηλεμάχῳ καλλίτριχας ἵππους"
+    },
+    {
+      "n": 476,
+      "greek": "ζεύξαθʼ ὑφʼ ἅρματʼ ἄγοντες, ἵνα πρήσσῃσιν ὁδοῖο."
+    },
+    {
+      "n": 477,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα τοῦ μάλα μὲν κλύον ἠδʼ ἐπίθοντο,"
+    },
+    {
+      "n": 478,
+      "greek": "καρπαλίμως δʼ ἔζευξαν ὑφʼ ἅρμασιν ὠκέας ἵππους."
+    },
+    {
+      "n": 479,
+      "greek": "ἐν δὲ γυνὴ ταμίη σῖτον καὶ οἶνον ἔθηκεν"
+    },
+    {
+      "n": 480,
+      "greek": "ὄψα τε, οἷα ἔδουσι διοτρεφέες βασιλῆες."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "the youngest daughter of Nestor, son of Neleus, bathed Telemachus. And when she had bathed him and anointed him richly with oil, and had cast about him a fair cloak and a tunic, forth from the bath he came in form like unto the immortals; and he went and sat down by Nestor, the shepherd of the people."
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "Now when they had roasted the outer flesh and had drawn it off the spits, they sat down and feasted, and worthy men waited on them, pouring wine into golden cups. But when they had put from them the desire of food and drink, the horseman, Nestor of Gerenia, was first to speak, saying:"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "“My sons, up, yoke for Telemachus horses with beautiful mane beneath the car, that he may get forward on his journey.” So he spoke, and they readily hearkened and obeyed; and quickly they yoked beneath the car the swift horses. And the housewife placed in the car bread and wine"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "and dainties, such as kings, fostered of Zeus, are wont to eat. Then Telemachus mounted the beautiful car, and Peisistratus, son of Nestor, a leader of men, mounted beside him, and took the reins in his hands. He touched the horses with the whip to start them, and nothing loath the pair sped on"
+    }
+  ]
+}

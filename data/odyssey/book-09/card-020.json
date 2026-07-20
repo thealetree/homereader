@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ἵσταντʼ· αὐτὰρ θάρσος ἐνέπνευσεν μέγα δαίμων."
+    },
+    {
+      "n": 382,
+      "greek": "οἱ μὲν μοχλὸν ἑλόντες ἐλάινον, ὀξὺν ἐπʼ ἄκρῳ,"
+    },
+    {
+      "n": 383,
+      "greek": "ὀφθαλμῷ ἐνέρεισαν· ἐγὼ δʼ ἐφύπερθεν ἐρεισθεὶς"
+    },
+    {
+      "n": 384,
+      "greek": "δίνεον, ὡς ὅτε τις τρυπῷ δόρυ νήιον ἀνὴρ"
+    },
+    {
+      "n": 385,
+      "greek": "τρυπάνῳ, οἱ δέ τʼ ἔνερθεν ὑποσσείουσιν ἱμάντι"
+    },
+    {
+      "n": 386,
+      "greek": "ἁψάμενοι ἑκάτερθε, τὸ δὲ τρέχει ἐμμενὲς αἰεί."
+    },
+    {
+      "n": 387,
+      "greek": "ὣς τοῦ ἐν ὀφθαλμῷ πυριήκεα μοχλὸν ἑλόντες"
+    },
+    {
+      "n": 388,
+      "greek": "δινέομεν, τὸν δʼ αἷμα περίρρεε θερμὸν ἐόντα."
+    },
+    {
+      "n": 389,
+      "greek": "πάντα δέ οἱ βλέφαρʼ ἀμφὶ καὶ ὀφρύας εὗσεν ἀυτμὴ"
+    },
+    {
+      "n": 390,
+      "greek": "γλήνης καιομένης, σφαραγεῦντο δέ οἱ πυρὶ ῥίζαι."
+    },
+    {
+      "n": 391,
+      "greek": "ὡς δʼ ὅτʼ ἀνὴρ χαλκεὺς πέλεκυν μέγαν ἠὲ σκέπαρνον"
+    },
+    {
+      "n": 392,
+      "greek": "εἰν ὕδατι ψυχρῷ βάπτῃ μεγάλα ἰάχοντα"
+    },
+    {
+      "n": 393,
+      "greek": "φαρμάσσων· τὸ γὰρ αὖτε σιδήρου γε κράτος ἐστίν"
+    },
+    {
+      "n": 394,
+      "greek": "ὣς τοῦ σίζʼ ὀφθαλμὸς ἐλαϊνέῳ περὶ μοχλῷ."
+    },
+    {
+      "n": 395,
+      "greek": "σμερδαλέον δὲ μέγʼ ᾤμωξεν, περὶ δʼ ἴαχε πέτρη,"
+    },
+    {
+      "n": 396,
+      "greek": "ἡμεῖς δὲ δείσαντες ἀπεσσύμεθʼ· αὐτὰρ ὁ μοχλὸν"
+    },
+    {
+      "n": 397,
+      "greek": "ἐξέρυσʼ ὀφθαλμοῖο πεφυρμένον αἵματι πολλῷ."
+    },
+    {
+      "n": 398,
+      "greek": "τὸν μὲν ἔπειτʼ ἔρριψεν ἀπὸ ἕο χερσὶν ἀλύων,"
+    },
+    {
+      "n": 399,
+      "greek": "αὐτὰρ ὁ Κύκλωπας μεγάλʼ ἤπυεν, οἵ ῥά μιν ἀμφὶς"
+    },
+    {
+      "n": 400,
+      "greek": "ᾤκεον ἐν σπήεσσι διʼ ἄκριας ἠνεμοέσσας."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "with a drill, while those below keep it spinning with the thong, which they lay hold of by either end, and the drill runs around unceasingly. Even so we took the fiery-pointed stake and whirled it around in his eye, and the blood flowed around the heated thing. And his eyelids wholly and his brows round about did the flame singe"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "as the eyeball burned, and its roots crackled in the fire. And as when a smith dips a great axe or an adze in cold water amid loud hissing to temper it—for therefrom comes the strength of iron—even so did his eye hiss round the stake of olive-wood."
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "Terribly then did he cry aloud, and the rock rang around; and we, seized with terror, shrank back, while he wrenched from his eye the stake, all befouled with blood, and flung it from him, wildly waving his arms. Then he called aloud to the Cyclopes, who"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "dwelt round about him in caves among the windy heights, and they heard his cry and came thronging from every side, and standing around the cave asked him what ailed him: “‘What so sore distress is thine, Polyphemus, that thou criest out thus through the immortal night, and makest us sleepless?"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 28,
+  "lineStart": 541,
+  "lineEnd": 560,
+  "lines": [
+    {
+      "n": 541,
+      "greek": "αὐτὰρ ἐπεὶ κλαίων τε κυλινδόμενός τε κορέσθην,"
+    },
+    {
+      "n": 542,
+      "greek": "δὴ τότε με προσέειπε γέρων ἅλιος νημερτής·"
+    },
+    {
+      "n": 543,
+      "greek": "μηκέτι, Ἀτρέος υἱέ, πολὺν χρόνον ἀσκελὲς οὕτω"
+    },
+    {
+      "n": 544,
+      "greek": "κλαῖʼ, ἐπεὶ οὐκ ἄνυσίν τινα δήομεν· ἀλλὰ τάχιστα"
+    },
+    {
+      "n": 545,
+      "greek": "πείρα ὅπως κεν δὴ σὴν πατρίδα γαῖαν ἵκηαι."
+    },
+    {
+      "n": 546,
+      "greek": "ἢ γάρ μιν ζωόν γε κιχήσεαι, ἤ κεν Ὀρέστης"
+    },
+    {
+      "n": 547,
+      "greek": "κτεῖνεν ὑποφθάμενος, σὺ δέ κεν τάφου ἀντιβολήσαις."
+    },
+    {
+      "n": 548,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐμοὶ κραδίη καὶ θυμὸς ἀγήνωρ"
+    },
+    {
+      "n": 549,
+      "greek": "αὖτις ἐνὶ στήθεσσι καὶ ἀχνυμένῳ περ ἰάνθη,"
+    },
+    {
+      "n": 550,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδων·"
+    },
+    {
+      "n": 551,
+      "greek": "τούτους μὲν δὴ οἶδα· σὺ δὲ τρίτον ἄνδρʼ ὀνόμαζε,"
+    },
+    {
+      "n": 552,
+      "greek": "ὅς τις ἔτι ζωὸς κατερύκεται εὐρέι πόντῳ"
+    },
+    {
+      "n": 553,
+      "greek": "ἠὲ θανών· ἐθέλω δὲ καὶ ἀχνύμενός περ ἀκοῦσαι."
+    },
+    {
+      "n": 554,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 555,
+      "greek": "υἱὸς Λαέρτεω, Ἰθάκῃ ἔνι οἰκία ναίων·"
+    },
+    {
+      "n": 556,
+      "greek": "τὸν δʼ ἴδον ἐν νήσῳ θαλερὸν κατὰ δάκρυ χέοντα,"
+    },
+    {
+      "n": 557,
+      "greek": "νύμφης ἐν μεγάροισι Καλυψοῦς, ἥ μιν ἀνάγκῃ"
+    },
+    {
+      "n": 558,
+      "greek": "ἴσχει· ὁ δʼ οὐ δύναται ἣν πατρίδα γαῖαν ἱκέσθαι·"
+    },
+    {
+      "n": 559,
+      "greek": "οὐ γάρ οἱ πάρα νῆες ἐπήρετμοι καὶ ἑταῖροι,"
+    },
+    {
+      "n": 560,
+      "greek": "οἵ κέν μιν πέμποιεν ἐπʼ εὐρέα νῶτα θαλάσσης."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        549
+      ],
+      "text": "strive that thou mayest come to thy native land, for either thou wilt find Aegisthus alive, or haply Orestes may have forestalled thee and slain him, and thou mayest chance upon his funeral feast.’ “So he spoke, and my heart and spirit were again warmed with comfort in my breast despite my grief,"
+    },
+    {
+      "lines": [
+        550,
+        554
+      ],
+      "text": "and I spoke, and addressed him with winged words: “‘Of these men now I know, but do thou name the third, who he is that still lives, and is held back upon the broad sea, or is haply dead. Fain would I hear, despite my grief.’ “So I spoke, and he straightway made answer, and said:"
+    },
+    {
+      "lines": [
+        555,
+        559
+      ],
+      "text": "‘It is the son of Laertes, whose home is in Ithaca. Him I saw in an island, shedding big tears, in the halls of the nymph Calypso, who keeps him there perforce, and he cannot come to his native land, for he has at hand no ships with oars and no comrades"
+    },
+    {
+      "lines": [
+        560,
+        560
+      ],
+      "text": "to send him on his way over the broad back of the sea. But for thyself, Menelaus, fostered of Zeus, it is not ordained that thou shouldst die and meet thy fate in horse-pasturing Argos, but to the Elysian plain and the bounds of the earth will the immortals convey thee, where dwells fair-haired Rhadamanthus,"
+    }
+  ]
+}

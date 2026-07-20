@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "εἱλόμεθʼ· αὐτοὶ δʼ αὖτε παρὰ ῥόον Ὠκεανοῖο"
+    },
+    {
+      "n": 22,
+      "greek": "ᾔομεν, ὄφρʼ ἐς χῶρον ἀφικόμεθʼ, ὃν φράσε Κίρκη."
+    },
+    {
+      "n": 23,
+      "greek": "ἔνθʼ ἱερήια μὲν Περιμήδης Εὐρύλοχός τε"
+    },
+    {
+      "n": 24,
+      "greek": "ἔσχον· ἐγὼ δʼ ἄορ ὀξὺ ἐρυσσάμενος παρὰ μηροῦ"
+    },
+    {
+      "n": 25,
+      "greek": "βόθρον ὄρυξʼ ὅσσον τε πυγούσιον ἔνθα καὶ ἔνθα,"
+    },
+    {
+      "n": 26,
+      "greek": "ἀμφʼ αὐτῷ δὲ χοὴν χεόμην πᾶσιν νεκύεσσι,"
+    },
+    {
+      "n": 27,
+      "greek": "πρῶτα μελικρήτῳ, μετέπειτα δὲ ἡδέι οἴνῳ,"
+    },
+    {
+      "n": 28,
+      "greek": "τὸ τρίτον αὖθʼ ὕδατι· ἐπὶ δʼ ἄλφιτα λευκὰ πάλυνον."
+    },
+    {
+      "n": 29,
+      "greek": "πολλὰ δὲ γουνούμην νεκύων ἀμενηνὰ κάρηνα,"
+    },
+    {
+      "n": 30,
+      "greek": "ἐλθὼν εἰς Ἰθάκην στεῖραν βοῦν, ἥ τις ἀρίστη,"
+    },
+    {
+      "n": 31,
+      "greek": "ῥέξειν ἐν μεγάροισι πυρήν τʼ ἐμπλησέμεν ἐσθλῶν,"
+    },
+    {
+      "n": 32,
+      "greek": "Τειρεσίῃ δʼ ἀπάνευθεν ὄιν ἱερευσέμεν οἴῳ"
+    },
+    {
+      "n": 33,
+      "greek": "παμμέλανʼ, ὃς μήλοισι μεταπρέπει ἡμετέροισι."
+    },
+    {
+      "n": 34,
+      "greek": "τοὺς δʼ ἐπεὶ εὐχωλῇσι λιτῇσί τε, ἔθνεα νεκρῶν,"
+    },
+    {
+      "n": 35,
+      "greek": "ἐλλισάμην, τὰ δὲ μῆλα λαβὼν ἀπεδειροτόμησα"
+    },
+    {
+      "n": 36,
+      "greek": "ἐς βόθρον, ῥέε δʼ αἷμα κελαινεφές· αἱ δʼ ἀγέροντο"
+    },
+    {
+      "n": 37,
+      "greek": "ψυχαὶ ὑπὲξ Ἐρέβευς νεκύων κατατεθνηώτων."
+    },
+    {
+      "n": 38,
+      "greek": "νύμφαι τʼ ἠίθεοί τε πολύτλητοί τε γέροντες"
+    },
+    {
+      "n": 39,
+      "greek": "παρθενικαί τʼ ἀταλαὶ νεοπενθέα θυμὸν ἔχουσαι,"
+    },
+    {
+      "n": 40,
+      "greek": "πολλοὶ δʼ οὐτάμενοι χαλκήρεσιν ἐγχείῃσιν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "and dug a pit of a cubit's length this way and that, and around it poured a libation to all the dead, first with milk and honey, thereafter with sweet wine, and in the third place with water, and I sprinkled thereon white barley meal. And I earnestly entreated the powerless heads of the dead,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "vowing that when I came to Ithaca I would sacrifice in my halls a barren heifer, the best I had, and pile the altar with goodly gifts, and to Teiresias alone would sacrifice separately a ram, wholly black, the goodliest of my flocks. But when with vows and prayers"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "I had made supplication to the tribes of the dead, I took the sheep and cut their throats over the pit, and the dark blood ran forth. Then there gathered from out of Erebus the spirits of those that are dead, brides, and unwedded youths, and toil-worn old men, and tender maidens with hearts yet new to sorrow,"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "and many, too, that had been wounded with bronze-tipped spears, men slain in fight, wearing their blood-stained armour. These came thronging in crowds about the pit from every side, with a wondrous cry; and pale fear seized me. Then I called to my comrades and bade them flay and burn"
+    }
+  ]
+}

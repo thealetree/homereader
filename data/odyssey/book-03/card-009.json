@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "σχέτλιος, ὅς ῥʼ ἔριν ὦρσε κακὴν ἔπι δεύτερον αὖτις."
+    },
+    {
+      "n": 162,
+      "greek": "οἱ μὲν ἀποστρέψαντες ἔβαν νέας ἀμφιελίσσας"
+    },
+    {
+      "n": 163,
+      "greek": "ἀμφʼ Ὀδυσῆα ἄνακτα δαΐφρονα, ποικιλομήτην,"
+    },
+    {
+      "n": 164,
+      "greek": "αὖτις ἐπʼ Ἀτρεΐδῃ Ἀγαμέμνονι ἦρα φέροντες·"
+    },
+    {
+      "n": 165,
+      "greek": "αὐτὰρ ἐγὼ σὺν νηυσὶν ἀολλέσιν, αἵ μοι ἕποντο,"
+    },
+    {
+      "n": 166,
+      "greek": "φεῦγον, ἐπεὶ γίγνωσκον, ὃ δὴ κακὰ μήδετο δαίμων."
+    },
+    {
+      "n": 167,
+      "greek": "φεῦγε δὲ Τυδέος υἱὸς ἀρήιος, ὦρσε δʼ ἑταίρους."
+    },
+    {
+      "n": 168,
+      "greek": "ὀψὲ δὲ δὴ μετὰ νῶι κίε ξανθὸς Μενέλαος,"
+    },
+    {
+      "n": 169,
+      "greek": "ἐν Λέσβῳ δʼ ἔκιχεν δολιχὸν πλόον ὁρμαίνοντας,"
+    },
+    {
+      "n": 170,
+      "greek": "ἢ καθύπερθε Χίοιο νεοίμεθα παιπαλοέσσης,"
+    },
+    {
+      "n": 171,
+      "greek": "νήσου ἔπι Ψυρίης, αὐτὴν ἐπʼ ἀριστέρʼ ἔχοντες,"
+    },
+    {
+      "n": 172,
+      "greek": "ἦ ὑπένερθε Χίοιο, παρʼ ἠνεμόεντα Μίμαντα."
+    },
+    {
+      "n": 173,
+      "greek": "ᾐτέομεν δὲ θεὸν φῆναι τέρας· αὐτὰρ ὅ γʼ ἡμῖν"
+    },
+    {
+      "n": 174,
+      "greek": "δεῖξε, καὶ ἠνώγει πέλαγος μέσον εἰς Εὔβοιαν"
+    },
+    {
+      "n": 175,
+      "greek": "τέμνειν, ὄφρα τάχιστα ὑπὲκ κακότητα φύγοιμεν."
+    },
+    {
+      "n": 176,
+      "greek": "ὦρτο δʼ ἐπὶ λιγὺς οὖρος ἀήμεναι· αἱ δὲ μάλʼ ὦκα"
+    },
+    {
+      "n": 177,
+      "greek": "ἰχθυόεντα κέλευθα διέδραμον, ἐς δὲ Γεραιστὸν"
+    },
+    {
+      "n": 178,
+      "greek": "ἐννύχιαι κατάγοντο· Ποσειδάωνι δὲ ταύρων"
+    },
+    {
+      "n": 179,
+      "greek": "πόλλʼ ἐπὶ μῆρʼ ἔθεμεν, πέλαγος μέγα μετρήσαντες."
+    },
+    {
+      "n": 180,
+      "greek": "τέτρατον ἦμαρ ἔην, ὅτʼ ἐν Ἄργεϊ νῆας ἐίσας"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "but I with the full company of ships that followed me fled on, for I knew that the god was devising evil. And the warlike son of Tydeus fled and urged on his men; and late upon our track came fair-haired Menelaus, and overtook us in Lesbos, as we were debating the long voyage,"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "whether we should sail to sea-ward of rugged Chios, toward the isle Psyria, keeping Chios itself on our left, or to land-ward of Chios past windy Mimas. So we asked the god to shew us a sign, and he shewed it us, and bade us cleave through the midst of the sea to Euboea,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "that we might the soonest escape from misery. And a shrill wind sprang up to blow, and the ships ran swiftly over the teeming ways, and at night put in to Geraestus. There on the altar of Poseidon we laid many thighs of bulls, thankful to have traversed the great sea."
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "It was the fourth day when in Argos the company of Diomedes, son of Tydeus, tamer of horses, stayed their shapely ships; but I held on toward Pylos, and the wind was not once quenched from the time when the god first sent it forth to blow. “Thus I came, dear child, without tidings, nor know I aught"
+    }
+  ]
+}

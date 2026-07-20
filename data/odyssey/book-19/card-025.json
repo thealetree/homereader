@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "τῇ δʼ ἑτέρῃ ἕθεν ἆσσον ἐρύσσατο φώνησέν τε."
+    },
+    {
+      "n": 482,
+      "greek": "μαῖα, τίη μʼ ἐθέλεις ὀλέσαι; σὺ δέ μʼ ἔτρεφες αὐτὴ"
+    },
+    {
+      "n": 483,
+      "greek": "τῷ σῷ ἐπὶ μαζῷ· νῦν δʼ ἄλγεα πολλὰ μογήσας"
+    },
+    {
+      "n": 484,
+      "greek": "ἤλυθον εἰκοστῷ ἔτεϊ ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 485,
+      "greek": "ἀλλʼ ἐπεὶ ἐφράσθης καί τοι θεὸς ἔμβαλε θυμῷ,"
+    },
+    {
+      "n": 486,
+      "greek": "σίγα, μή τίς τʼ ἄλλος ἐνὶ μεγάροισι πύθηται."
+    },
+    {
+      "n": 487,
+      "greek": "ὧδε γὰρ ἐξερέω, καὶ μὴν τετελεσμένον ἔσται·"
+    },
+    {
+      "n": 488,
+      "greek": "εἴ χʼ ὑπʼ ἐμοί γε θεὸς δαμάσῃ μνηστῆρας ἀγαυούς,"
+    },
+    {
+      "n": 489,
+      "greek": "οὐδὲ τροφοῦ οὔσης σεῦ ἀφέξομαι, ὁππότʼ ἂν ἄλλας"
+    },
+    {
+      "n": 490,
+      "greek": "δμῳὰς ἐν μεγάροισιν ἐμοῖς κτείνωμι γυναῖκας."
+    },
+    {
+      "n": 491,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Εὐρύκλεια·"
+    },
+    {
+      "n": 492,
+      "greek": "τέκνον ἐμόν, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων."
+    },
+    {
+      "n": 493,
+      "greek": "οἶσθα μὲν οἷον ἐμὸν μένος ἔμπεδον οὐδʼ ἐπιεικτόν,"
+    },
+    {
+      "n": 494,
+      "greek": "ἕξω δʼ ὡς ὅτε τις στερεὴ λίθος ἠὲ σίδηρος."
+    },
+    {
+      "n": 495,
+      "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·"
+    },
+    {
+      "n": 496,
+      "greek": "εἴ χʼ ὑπό σοι γε θεὸς δαμάσῃ μνηστῆρας ἀγαυούς,"
+    },
+    {
+      "n": 497,
+      "greek": "δὴ τότε τοι καταλέξω ἐνὶ μεγάροισι γυναῖκας,"
+    },
+    {
+      "n": 498,
+      "greek": "αἵ τέ σʼ ἀτιμάζουσι καὶ αἳ νηλείτιδές εἰσι."
+    },
+    {
+      "n": 499,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς"
+    },
+    {
+      "n": 500,
+      "greek": "μαῖα, τίη δὲ σὺ τὰς μυθήσεαι; οὐδέ τί σε χρή."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "But since thou hast found me out, and a god has put this in thy heart, be silent lest any other in the halls learn hereof. For thus will I speak out to thee, and verily it shall be brought to pass: if a god shall subdue the lordly wooers unto me, I will not spare thee, my nurse though thou art, when"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "I slay the other serving-women in my halls.” Then wise Eurycleia answered him: “My child, what a word has escaped the barrier of thy teeth! Thou knowest how firm my spirit is and unyielding: I shall be as close as hard stone or iron."
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "And another thing will I tell thee, and do thou lay it to heart. If a god shall subdue the lordly wooers unto thee, then will I name over to thee the women in thy halls, which ones dishonor thee, and which are guiltless.” Then Odysseus of many wiles answered her, and said:"
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "“Mother, why, pray, wilt thou speak of them? Thou needest not at all. Of myself will I mark them well, and come to know each one. Nay, keep the matter to thyself, and leave the issue to the gods.” So he spoke, and the old woman went forth through the hall to bring water for his feet, for all the first was spilled."
+    }
+  ]
+}

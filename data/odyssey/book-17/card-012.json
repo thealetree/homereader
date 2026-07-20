@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "ὃς πολλῇς φλιῇσι παραστὰς θλίψεται ὤμους,"
+    },
+    {
+      "n": 222,
+      "greek": "αἰτίζων ἀκόλους, οὐκ ἄορας οὐδὲ λέβητας·"
+    },
+    {
+      "n": 223,
+      "greek": "τόν κʼ εἴ μοι δοίης σταθμῶν ῥυτῆρα γενέσθαι"
+    },
+    {
+      "n": 224,
+      "greek": "σηκοκόρον τʼ ἔμεναι θαλλόν τʼ ἐρίφοισι φορῆναι,"
+    },
+    {
+      "n": 225,
+      "greek": "καί κεν ὀρὸν πίνων μεγάλην ἐπιγουνίδα θεῖτο."
+    },
+    {
+      "n": 226,
+      "greek": "ἀλλʼ ἐπεὶ οὖν δὴ ἔργα κάκʼ ἔμμαθεν, οὐκ ἐθελήσει"
+    },
+    {
+      "n": 227,
+      "greek": "ἔργον ἐποίχεσθαι, ἀλλὰ πτώσσων κατὰ δῆμον"
+    },
+    {
+      "n": 228,
+      "greek": "βούλεται αἰτίζων βόσκειν ἣν γαστέρʼ ἄναλτον."
+    },
+    {
+      "n": 229,
+      "greek": "ἀλλʼ ἔκ τοι ἐρέω, τὸ δὲ καὶ τετελεσμένον ἔσται·"
+    },
+    {
+      "n": 230,
+      "greek": "αἴ κʼ ἔλθῃ πρὸς δώματʼ Ὀδυσσῆος θείοιο,"
+    },
+    {
+      "n": 231,
+      "greek": "πολλά οἱ ἀμφὶ κάρη σφέλα ἀνδρῶν ἐκ παλαμάων"
+    },
+    {
+      "n": 232,
+      "greek": "πλευραὶ ἀποτρίψουσι δόμον κάτα βαλλομένοιο."
+    },
+    {
+      "n": 233,
+      "greek": "ὣς φάτο, καὶ παριὼν λὰξ ἔνθορεν ἀφραδίῃσιν"
+    },
+    {
+      "n": 234,
+      "greek": "ἰσχίῳ· οὐδέ μιν ἐκτὸς ἀταρπιτοῦ ἐστυφέλιξεν,"
+    },
+    {
+      "n": 235,
+      "greek": "ἀλλʼ ἔμενʼ ἀσφαλέως· ὁ δὲ μερμήριξεν Ὀδυσσεὺς"
+    },
+    {
+      "n": 236,
+      "greek": "ἠὲ μεταΐξας ῥοπάλῳ ἐκ θυμὸν ἕλοιτο,"
+    },
+    {
+      "n": 237,
+      "greek": "ἦ πρὸς γῆν ἐλάσειε κάρη ἀμφουδὶς ἀείρας."
+    },
+    {
+      "n": 238,
+      "greek": "ἀλλʼ ἐπετόλμησε, φρεσὶ δʼ ἔσχετο· τὸν δὲ συβώτης"
+    },
+    {
+      "n": 239,
+      "greek": "νείκεσʼ ἐσάντα ἰδών, μέγα δʼ εὔξατο χεῖρας ἀνασχών·"
+    },
+    {
+      "n": 240,
+      "greek": "νύμφαι κρηναῖαι, κοῦραι Διός, εἴ ποτʼ Ὀδυσσεὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "then by drinking whey he might get himself a sturdy thigh. But since he has learned only deeds of evil, he will not care to busy himself with work, but is minded rather to go skulking through the land, that by begging he may feed his insatiate belly. But I will speak out to thee, and this word shall verily be brought to pass."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "If he comes to the palace of divine Odysseus, many a footstool, hurled about his head by the hands of those that are men, shall be broken on his ribs as he is pelted through the house.” So he spoke, and as he passed he kicked Odysseus on the hip in his folly, yet he did not drive him from the path,"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "but he stood steadfast. And Odysseus pondered whether he should leap upon him and take his life with his staff, or seize him round about, and lift him up, and dash his head upon the ground. Yet he endured, and stayed him from his purpose. And the swineherd looked the man in the face, and rebuked him, and lifted up his hands, and prayed aloud:"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "“Nymphs of the fountain, daughters of Zeus, if ever Odysseus burned upon your altars pieces of the thighs of lambs or kids, wrapped in rich fat, fulfil for me this prayer; grant that he, my master, may come back, and that some god may guide him. Then would he scatter all the proud airs"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "ἀλλὰ τῷ, ὅς θʼ ἅμα νηὶ πολυκλήιδι θαμίζων,"
+    },
+    {
+      "n": 162,
+      "greek": "ἀρχὸς ναυτάων οἵ τε πρηκτῆρες ἔασιν,"
+    },
+    {
+      "n": 163,
+      "greek": "φόρτου τε μνήμων καὶ ἐπίσκοπος ᾖσιν ὁδαίων"
+    },
+    {
+      "n": 164,
+      "greek": "κερδέων θʼ ἁρπαλέων· οὐδʼ ἀθλητῆρι ἔοικας."
+    },
+    {
+      "n": 165,
+      "greek": "τὸν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 166,
+      "greek": "ξεῖνʼ, οὐ καλὸν ἔειπες· ἀτασθάλῳ ἀνδρὶ ἔοικας."
+    },
+    {
+      "n": 167,
+      "greek": "οὕτως οὐ πάντεσσι θεοὶ χαρίεντα διδοῦσιν"
+    },
+    {
+      "n": 168,
+      "greek": "ἀνδράσιν, οὔτε φυὴν οὔτʼ ἂρ φρένας οὔτʼ ἀγορητύν."
+    },
+    {
+      "n": 169,
+      "greek": "ἄλλος μὲν γάρ τʼ εἶδος ἀκιδνότερος πέλει ἀνήρ,"
+    },
+    {
+      "n": 170,
+      "greek": "ἀλλὰ θεὸς μορφὴν ἔπεσι στέφει, οἱ δέ τʼ ἐς αὐτὸν"
+    },
+    {
+      "n": 171,
+      "greek": "τερπόμενοι λεύσσουσιν· ὁ δʼ ἀσφαλέως ἀγορεύει"
+    },
+    {
+      "n": 172,
+      "greek": "αἰδοῖ μειλιχίῃ, μετὰ δὲ πρέπει ἀγρομένοισιν,"
+    },
+    {
+      "n": 173,
+      "greek": "ἐρχόμενον δʼ ἀνὰ ἄστυ θεὸν ὣς εἰσορόωσιν."
+    },
+    {
+      "n": 174,
+      "greek": "ἄλλος δʼ αὖ εἶδος μὲν ἀλίγκιος ἀθανάτοισιν,"
+    },
+    {
+      "n": 175,
+      "greek": "ἀλλʼ οὔ οἱ χάρις ἀμφιπεριστέφεται ἐπέεσσιν,"
+    },
+    {
+      "n": 176,
+      "greek": "ὡς καὶ σοὶ εἶδος μὲν ἀριπρεπές, οὐδέ κεν ἄλλως"
+    },
+    {
+      "n": 177,
+      "greek": "οὐδὲ θεὸς τεύξειε, νόον δʼ ἀποφώλιός ἐσσι."
+    },
+    {
+      "n": 178,
+      "greek": "ὤρινάς μοι θυμὸν ἐνὶ στήθεσσι φίλοισιν"
+    },
+    {
+      "n": 179,
+      "greek": "εἰπὼν οὐ κατὰ κόσμον. ἐγὼ δʼ οὐ νῆις ἀέθλων,"
+    },
+    {
+      "n": 180,
+      "greek": "ὡς σύ γε μυθεῖαι, ἀλλʼ ἐν πρώτοισιν ὀίω"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "Then with an angry glance from beneath his brows Odysseus of many wiles answered him: “Stranger, thou hast not spoken well; thou art as one blind with folly. So true is it that the gods do not give gracious gifts to all alike, not form nor mind nor eloquence. For one man is inferior in comeliness,"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "but the god sets a crown of beauty upon his words, and men look upon him with delight, and he speaks on unfalteringly with sweet modesty, and is conspicuous among the gathered people, and as he goes through the city men gaze upon him as upon a god. Another again is in comeliness like the immortals,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "but no crown of grace is set about his words. So, in thy case, thy comeliness is preeminent, nor could a god himself mend it, but in mind thou art stunted. Thou hast stirred the spirit in my breast by speaking thus unmannerly. I am not unskilled in sports"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "as thou pratest, nay, methinks I was among the first so long as I trusted in my youth and in my hands. But now I am bound by suffering and pains; for much have I endured in passing through wars of men and the grievous waves. But even so, though I have suffered much, I will make trial of the contests,"
+    }
+  ]
+}

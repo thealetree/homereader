@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "ὤϊξάν ῥα θύρας, ἐκ δʼ ἤϊον, ἄρχε δʼ Ὀδυσσεύς."
+    },
+    {
+      "n": 502,
+      "greek": "τοῖσι δʼ ἐπʼ ἀγχίμολον θυγάτηρ Διὸς ἦλθεν Ἀθήνη"
+    },
+    {
+      "n": 503,
+      "greek": "Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν."
+    },
+    {
+      "n": 504,
+      "greek": "τὴν μὲν ἰδὼν γήθησε πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 505,
+      "greek": "αἶψα δὲ Τηλέμαχον προσεφώνεεν ὃν φίλον υἱόν·"
+    },
+    {
+      "n": 506,
+      "greek": "Τηλέμαχʼ, ἤδη μὲν τόδε γʼ εἴσεαι αὐτὸς ἐπελθών,"
+    },
+    {
+      "n": 507,
+      "greek": "ἀνδρῶν μαρναμένων ἵνα τε κρίνονται ἄριστοι,"
+    },
+    {
+      "n": 508,
+      "greek": "μή τι καταισχύνειν πατέρων γένος, οἳ τὸ πάρος περ"
+    },
+    {
+      "n": 509,
+      "greek": "ἀλκῇ τʼ ἠνορέῃ τε κεκάσμεθα πᾶσαν ἐπʼ αἶαν."
+    },
+    {
+      "n": 510,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 511,
+      "greek": "ὄψεαι, αἴ κʼ ἐθέλῃσθα, πάτερ φίλε, τῷδʼ ἐπὶ θυμῷ"
+    },
+    {
+      "n": 512,
+      "greek": "οὔ τι καταισχύνοντα τεὸν γένος, ὡς ἀγορεύεις."
+    },
+    {
+      "n": 513,
+      "greek": "ὣς φάτο, Λαέρτης δʼ ἐχάρη καὶ μῦθον ἔειπε·"
+    },
+    {
+      "n": 514,
+      "greek": "τίς νύ μοι ἡμέρη ἥδε, θεοὶ φίλοι; ἦ μάλα χαίρω·"
+    },
+    {
+      "n": 515,
+      "greek": "υἱός θʼ υἱωνός τʼ ἀρετῆς πέρι δῆριν ἔχουσιν."
+    },
+    {
+      "n": 516,
+      "greek": "τὸν δὲ παρισταμένη προσέφη γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 517,
+      "greek": "ὦ Ἀρκεισιάδη, πάντων πολὺ φίλταθʼ ἑταίρων,"
+    },
+    {
+      "n": 518,
+      "greek": "εὐξάμενος κούρῃ γλαυκώπιδι καὶ Διὶ πατρί,"
+    },
+    {
+      "n": 519,
+      "greek": "αἶψα μαλʼ ἀμπεπαλὼν προΐει δολιχόσκιον ἔγχος."
+    },
+    {
+      "n": 520,
+      "greek": "ὣς φάτο, καί ῥʼ ἔμπνευσε μένος μέγα Παλλὰς Ἀθήνη"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "and straightway spoke to Telemachus, his dear son: “Telemachus, now shalt thou learn this—having thyself come to the place of battle, where the best warriors are put to the trial—to bring no disgrace upon the house of thy fathers, for we have ever excelled in strength and in valor over all the earth.”"
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "And wise Telemachus answered him: “Thou shalt see me, if thou wilt, dear father, in my present temper, bringing no disgrace upon thy house, even as thou sayest.” So said he, and Laertes was glad, and spoke, saying: “What a day is this for me, kind gods!"
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "Verily right glad am I: my son and my son's son are vying with one another in valor.” Then flashing-eyed Athena came near him and said: “Son of Arceisius, far the dearest of all my friends, make a prayer to the flashing-eyed maiden and to father Zeus, and then straightway raise aloft thy long spear, and hurl it.”"
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "So spoke Pallas Athena, and breathed into him great might. Then he prayed to the daughter of great Zeus, and straightway raised aloft his long spear, and hurled it, and smote Eupeithes through the helmet with cheek-piece of bronze. This stayed not the spear, but the bronze passed through,"
+    }
+  ]
+}

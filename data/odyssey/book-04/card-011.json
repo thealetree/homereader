@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "ἤντησʼ οὐδὲ ἴδον· περὶ δʼ ἄλλων φασὶ γενέσθαι"
+    },
+    {
+      "n": 202,
+      "greek": "Ἀντίλοχον, πέρι μὲν θείειν ταχὺν ἠδὲ μαχητήν."
+    },
+    {
+      "n": 203,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 204,
+      "greek": "ὦ φίλʼ, ἐπεὶ τόσα εἶπες, ὅσʼ ἂν πεπνυμένος ἀνὴρ"
+    },
+    {
+      "n": 205,
+      "greek": "εἴποι καὶ ῥέξειε, καὶ ὃς προγενέστερος εἴη·"
+    },
+    {
+      "n": 206,
+      "greek": "τοίου γὰρ καὶ πατρός, ὃ καὶ πεπνυμένα βάζεις,"
+    },
+    {
+      "n": 207,
+      "greek": "ῥεῖα δʼ ἀρίγνωτος γόνος ἀνέρος ᾧ τε Κρονίων"
+    },
+    {
+      "n": 208,
+      "greek": "ὄλβον ἐπικλώσῃ γαμέοντί τε γεινομένῳ τε,"
+    },
+    {
+      "n": 209,
+      "greek": "ὡς νῦν Νέστορι δῶκε διαμπερὲς ἤματα πάντα"
+    },
+    {
+      "n": 210,
+      "greek": "αὐτὸν μὲν λιπαρῶς γηρασκέμεν ἐν μεγάροισιν,"
+    },
+    {
+      "n": 211,
+      "greek": "υἱέας αὖ πινυτούς τε καὶ ἔγχεσιν εἶναι ἀρίστους."
+    },
+    {
+      "n": 212,
+      "greek": "ἡμεῖς δὲ κλαυθμὸν μὲν ἐάσομεν, ὃς πρὶν ἐτύχθη,"
+    },
+    {
+      "n": 213,
+      "greek": "δόρπου δʼ ἐξαῦτις μνησώμεθα, χερσὶ δʼ ἐφʼ ὕδωρ"
+    },
+    {
+      "n": 214,
+      "greek": "χευάντων. μῦθοι δὲ καὶ ἠῶθέν περ ἔσονται"
+    },
+    {
+      "n": 215,
+      "greek": "Τηλεμάχῳ καὶ ἐμοὶ διαειπέμεν ἀλλήλοισιν."
+    },
+    {
+      "n": 216,
+      "greek": "ὣς ἔφατʼ, Ἀσφαλίων δʼ ἄρʼ ὕδωρ ἐπὶ χεῖρας ἔχευεν,"
+    },
+    {
+      "n": 217,
+      "greek": "ὀτρηρὸς θεράπων Μενελάου κυδαλίμοιο."
+    },
+    {
+      "n": 218,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    },
+    {
+      "n": 219,
+      "greek": "ἔνθʼ αὖτʼ ἄλλʼ ἐνόησʼ Ἑλένη Διὸς ἐκγεγαυῖα·"
+    },
+    {
+      "n": 220,
+      "greek": "αὐτίκʼ ἄρʼ εἰς οἶνον βάλε φάρμακον, ἔνθεν ἔπινον,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "might say or do, even one that was older than thou; for from such a father art thou sprung, wherefore thou dost even speak wisely. Easily known is the seed of that man for whom the son of Cronos spins the thread of good fortune at marriage and at birth, even as now he has granted to Nestor throughout all his days continually that"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "he should himself reach a sleek old age in his halls, and that his sons in their turn should be wise and most valiant with the spear. But we will cease the weeping which but now was made, and let us once more think of our supper, and let them pour water over our hands. Tales there will be in the morning also"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "for Telemachus and me to tell to one another to the full.” So he spoke, and Asphalion poured water over their hands, the busy squire of glorious Menelaus. And they put forth their hands to the good cheer lying ready before them. Then Helen, daughter of Zeus, took other counsel."
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "Straightway she cast into the wine of which they were drinking a drug to quiet all pain and strife, and bring forgetfulness of every ill. Whoso should drink this down, when it is mingled in the bowl, would not in the course of that day let a tear fall down over his cheeks,"
+    }
+  ]
+}

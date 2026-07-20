@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "κείνῳ δʼ οὐκέτι νόστος ἐτήτυμος, ἀλλά οἱ ἤδη"
+    },
+    {
+      "n": 242,
+      "greek": "φράσσαντʼ ἀθάνατοι θάνατον καὶ κῆρα μέλαιναν."
+    },
+    {
+      "n": 243,
+      "greek": "νῦν δʼ ἐθέλω ἔπος ἄλλο μεταλλῆσαι καὶ ἐρέσθαι"
+    },
+    {
+      "n": 244,
+      "greek": "Νέστορʼ, ἐπεὶ περὶ οἶδε δίκας ἠδὲ φρόνιν ἄλλων·"
+    },
+    {
+      "n": 245,
+      "greek": "τρὶς γὰρ δή μίν φασιν ἀνάξασθαι γένεʼ ἀνδρῶν·"
+    },
+    {
+      "n": 246,
+      "greek": "ὥς τέ μοι ἀθάνατος ἰνδάλλεται εἰσοράασθαι."
+    },
+    {
+      "n": 247,
+      "greek": "ὦ Νέστορ Νηληϊάδη, σὺ δʼ ἀληθὲς ἐνίσπες·"
+    },
+    {
+      "n": 248,
+      "greek": "πῶς ἔθανʼ Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων;"
+    },
+    {
+      "n": 249,
+      "greek": "ποῦ Μενέλαος ἔην; τίνα δʼ αὐτῷ μήσατʼ ὄλεθρον"
+    },
+    {
+      "n": 250,
+      "greek": "Αἴγισθος δολόμητις, ἐπεὶ κτάνε πολλὸν ἀρείω;"
+    },
+    {
+      "n": 251,
+      "greek": "ἦ οὐκ Ἄργεος ἦεν Ἀχαιικοῦ, ἀλλά πῃ ἄλλῃ"
+    },
+    {
+      "n": 252,
+      "greek": "πλάζετʼ ἐπʼ ἀνθρώπους, ὁ δὲ θαρσήσας κατέπεφνε;"
+    },
+    {
+      "n": 253,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα Γερήνιος ἱππότα Νέστωρ·"
+    },
+    {
+      "n": 254,
+      "greek": "τοιγὰρ ἐγώ τοι, τέκνον, ἀληθέα πάντʼ ἀγορεύσω."
+    },
+    {
+      "n": 255,
+      "greek": "ἦ τοι μὲν τάδε καὐτὸς ὀίεαι, ὥς κεν ἐτύχθη,"
+    },
+    {
+      "n": 256,
+      "greek": "εἰ ζωόν γʼ Αἴγισθον ἐνὶ μεγάροισιν ἔτετμεν"
+    },
+    {
+      "n": 257,
+      "greek": "Ἀτρεΐδης Τροίηθεν ἰών, ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 258,
+      "greek": "τῶ κέ οἱ οὐδὲ θανόντι χυτὴν ἐπὶ γαῖαν ἔχευαν,"
+    },
+    {
+      "n": 259,
+      "greek": "ἀλλʼ ἄρα τόν γε κύνες τε καὶ οἰωνοὶ κατέδαψαν"
+    },
+    {
+      "n": 260,
+      "greek": "κείμενον ἐν πεδίῳ ἑκὰς ἄστεος, οὐδέ κέ τίς μιν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "for thrice, men say, has he been king for a generation of men, and like unto an immortal he seems to me to look upon. Nestor, son of Neleus, do thou tell me truly: how was the son of Atreus, wide-ruling Agamemnon, slain? Where was Menelaus? What death did"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "guileful Aegisthus plan for the king, since he slew a man mightier far than himself? Was Menelaus not in Achaean Argos, but wandering elsewhere among men, so that Aegisthus took heart and did the murderous deed?” Then the horseman, Nestor of Gerenia, answered him: “Then verily, my child, will I tell thee all the truth."
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "Lo, of thine own self thou dost guess how this matter would have fallen out, if the son of Atreus, fair-haired Menelaus, on his return from Troy had found Aegisthus in his halls alive. Then for him not even in death would they have piled the up-piled earth, but the dogs and birds would have torn him"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "as he lay on the plain far from the city, nor would any of the Achaean women have bewailed him; for monstrous was the deed he devised. We on our part abode there in Troy fulfilling our many toils; but he, at ease in a nook of horse-pasturing Argos, ever sought to beguile with words the wife of Agamemnon."
+    }
+  ]
+}

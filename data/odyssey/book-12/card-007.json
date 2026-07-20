@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "ἢν γὰρ δηθύνῃσθα κορυσσόμενος παρὰ πέτρῃ,"
+    },
+    {
+      "n": 122,
+      "greek": "δείδω, μή σʼ ἐξαῦτις ἐφορμηθεῖσα κίχῃσι"
+    },
+    {
+      "n": 123,
+      "greek": "τόσσῃσιν κεφαλῇσι, τόσους δʼ ἐκ φῶτας ἕληται."
+    },
+    {
+      "n": 124,
+      "greek": "ἀλλὰ μάλα σφοδρῶς ἐλάαν, βωστρεῖν δὲ Κράταιιν,"
+    },
+    {
+      "n": 125,
+      "greek": "μητέρα τῆς Σκύλλης, ἥ μιν τέκε πῆμα βροτοῖσιν·"
+    },
+    {
+      "n": 126,
+      "greek": "ἥ μιν ἔπειτʼ ἀποπαύσει ἐς ὕστερον ὁρμηθῆναι."
+    },
+    {
+      "n": 127,
+      "greek": "Θρινακίην δʼ ἐς νῆσον ἀφίξεαι· ἔνθα δὲ πολλαὶ"
+    },
+    {
+      "n": 128,
+      "greek": "βόσκοντʼ Ἠελίοιο βόες καὶ ἴφια μῆλα,"
+    },
+    {
+      "n": 129,
+      "greek": "ἑπτὰ βοῶν ἀγέλαι, τόσα δʼ οἰῶν πώεα καλά,"
+    },
+    {
+      "n": 130,
+      "greek": "πεντήκοντα δʼ ἕκαστα. γόνος δʼ οὐ γίγνεται αὐτῶν,"
+    },
+    {
+      "n": 131,
+      "greek": "οὐδέ ποτε φθινύθουσι. θεαὶ δʼ ἐπιποιμένες εἰσίν,"
+    },
+    {
+      "n": 132,
+      "greek": "νύμφαι ἐυπλόκαμοι, Φαέθουσά τε Λαμπετίη τε,"
+    },
+    {
+      "n": 133,
+      "greek": "ἃς τέκεν Ἠελίῳ Ὑπερίονι δῖα Νέαιρα."
+    },
+    {
+      "n": 134,
+      "greek": "τὰς μὲν ἄρα θρέψασα τεκοῦσά τε πότνια μήτηρ"
+    },
+    {
+      "n": 135,
+      "greek": "Θρινακίην ἐς νῆσον ἀπῴκισε τηλόθι ναίειν,"
+    },
+    {
+      "n": 136,
+      "greek": "μῆλα φυλασσέμεναι πατρώια καὶ ἕλικας βοῦς."
+    },
+    {
+      "n": 137,
+      "greek": "τὰς εἰ μέν κʼ ἀσινέας ἐάᾳς νόστου τε μέδηαι,"
+    },
+    {
+      "n": 138,
+      "greek": "ἦ τʼ ἂν ἔτʼ εἰς Ἰθάκην κακά περ πάσχοντες ἵκοισθε·"
+    },
+    {
+      "n": 139,
+      "greek": "εἰ δέ κε σίνηαι, τότε τοι τεκμαίρομʼ ὄλεθρον,"
+    },
+    {
+      "n": 140,
+      "greek": "νηί τε καὶ ἑτάροις· αὐτὸς δʼ εἴ πέρ κεν ἀλύξῃς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "the mother of Scylla, who bore her for a bane to mortals. Then will she keep her from darting forth again. “‘And thou wilt come to the isle Thrinacia. There in great numbers feed the kine of Helios and his goodly flocks, seven herds of kine and as many fair flocks of sheep,"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "and fifty in each. These bear no young, nor do they ever die, and goddesses are their shepherds, fair-tressed nymphs, Phaethusa and Lampetie, whom beautiful Neaera bore to Helios Hyperion. These their honored mother, when she had borne and reared them,"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "sent to the isle Thrinacia to dwell afar, and keep the flocks of their father and his sleek kine. If thou leavest these unharmed and heedest thy homeward way, verily ye may yet reach Ithaca, though in evil plight. But if thou harmest them, then I foretell ruin"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "for thy ship and for thy comrades, and even if thou shalt thyself escape, late shalt thou come home and in evil case, after losing all thy comrades.’ “So she spoke, and presently came golden-throned Dawn. Then the beautiful goddess departed up the island, but I went to the ship and roused my comrades"
+    }
+  ]
+}

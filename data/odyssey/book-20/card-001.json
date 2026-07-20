@@ -1,0 +1,129 @@
+{
+  "book": 20,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "αὐτὰρ ὁ ἐν προδόμῳ εὐνάζετο δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 2,
+      "greek": "κὰμ μὲν ἀδέψητον βοέην στόρεσʼ, αὐτὰρ ὕπερθε"
+    },
+    {
+      "n": 3,
+      "greek": "κώεα πόλλʼ ὀΐων, τοὺς ἱρεύεσκον Ἀχαιοί·"
+    },
+    {
+      "n": 4,
+      "greek": "Εὐρυνόμη δʼ ἄρʼ ἐπὶ χλαῖναν βάλε κοιμηθέντι."
+    },
+    {
+      "n": 5,
+      "greek": "ἔνθʼ Ὀδυσεὺς μνηστῆρσι κακὰ φρονέων ἐνὶ θυμῷ"
+    },
+    {
+      "n": 6,
+      "greek": "κεῖτʼ ἐγρηγορόων· ταὶ δʼ ἐκ μεγάροιο γυναῖκες"
+    },
+    {
+      "n": 7,
+      "greek": "ἤϊσαν, αἳ μνηστῆρσιν ἐμισγέσκοντο πάρος περ,"
+    },
+    {
+      "n": 8,
+      "greek": "ἀλλήλῃσι γέλω τε καὶ εὐφροσύνην παρέχουσαι."
+    },
+    {
+      "n": 9,
+      "greek": "τοῦ δʼ ὠρίνετο θυμὸς ἐνὶ στήθεσσι φίλοισι·"
+    },
+    {
+      "n": 10,
+      "greek": "πολλὰ δὲ μερμήριζε κατὰ φρένα καὶ κατὰ θυμόν,"
+    },
+    {
+      "n": 11,
+      "greek": "ἠὲ μεταΐξας θάνατον τεύξειεν ἑκάστῃ,"
+    },
+    {
+      "n": 12,
+      "greek": "ἦ ἔτʼ ἐῷ μνηστῆρσιν ὑπερφιάλοισι μιγῆναι"
+    },
+    {
+      "n": 13,
+      "greek": "ὕστατα καὶ πύματα, κραδίη δέ οἱ ἔνδον ὑλάκτει."
+    },
+    {
+      "n": 14,
+      "greek": "ὡς δὲ κύων ἀμαλῇσι περὶ σκυλάκεσσι βεβῶσα"
+    },
+    {
+      "n": 15,
+      "greek": "ἄνδρʼ ἀγνοιήσασʼ ὑλάει μέμονέν τε μάχεσθαι,"
+    },
+    {
+      "n": 16,
+      "greek": "ὥς ῥα τοῦ ἔνδον ὑλάκτει ἀγαιομένου κακὰ ἔργα·"
+    },
+    {
+      "n": 17,
+      "greek": "στῆθος δὲ πλήξας κραδίην ἠνίπαπε μύθῳ·"
+    },
+    {
+      "n": 18,
+      "greek": "τέτλαθι δή, κραδίη· καὶ κύντερον ἄλλο ποτʼ ἔτλης."
+    },
+    {
+      "n": 19,
+      "greek": "ἤματι τῷ ὅτε μοι μένος ἄσχετος ἤσθιε Κύκλωψ"
+    },
+    {
+      "n": 20,
+      "greek": "ἰφθίμους ἑτάρους· σὺ δʼ ἐτόλμας, ὄφρα σε μῆτις"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "But the goodly Odysseus lay down to sleep in the fore-hall of the house. On the ground he spread an undressed ox-hide and above it many fleeces of sheep, which the Achaeans were wont to slay, and Eurynome threw over him a cloak, when he had laid him down."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "There Odysseus, pondering in his heart evil for the wooers, lay sleepless. And the women came forth from the hall, those that had before been wont to lie with the wooers, making laughter and merriment among themselves. But the heart was stirred in his breast,"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "and much he debated in mind and heart, whether he should rush after them and deal death to each, or suffer them to lie with the insolent wooers for the last and latest time; and his heart growled within him. And as a bitch stands over her tender whelps"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "growling, when she sees a man she does not know, and is eager to fight, so his heart growled within him in his wrath at their evil deeds; but he smote his breast, and rebuked his heart, saying: “Endure, my heart; a worse thing even than this didst thou once endure on that day when the Cyclops, unrestrained in daring, devoured my"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "mighty comrades; but thou didst endure until craft got thee forth from the cave where thou thoughtest to die.” So he spoke, chiding the heart in his breast, and his heart remained bound within him to endure steadfastly; but he himself lay tossing this way and that."
+    }
+  ]
+}

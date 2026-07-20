@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "αἲ γάρ, Ζεῦ τε πάτερ καὶ Ἀθηναίη καὶ Ἄπολλον,"
+    },
+    {
+      "n": 342,
+      "greek": "τοῖος ἐών, οἷός ποτʼ ἐυκτιμένῃ ἐνὶ Λέσβῳ"
+    },
+    {
+      "n": 343,
+      "greek": "ἐξ ἔριδος Φιλομηλεΐδῃ ἐπάλαισεν ἀναστάς,"
+    },
+    {
+      "n": 344,
+      "greek": "κὰδ δʼ ἔβαλε κρατερῶς, κεχάροντο δὲ πάντες Ἀχαιοί,"
+    },
+    {
+      "n": 345,
+      "greek": "τοῖος ἐὼν μνηστῆρσιν ὁμιλήσειεν Ὀδυσσεύς·"
+    },
+    {
+      "n": 346,
+      "greek": "πάντες κʼ ὠκύμοροί τε γενοίατο πικρόγαμοί τε."
+    },
+    {
+      "n": 347,
+      "greek": "ταῦτα δʼ ἅ μʼ εἰρωτᾷς καὶ λίσσεαι, οὐκ ἂν ἐγώ γε"
+    },
+    {
+      "n": 348,
+      "greek": "ἄλλα παρὲξ εἴποιμι παρακλιδόν, οὐδʼ ἀπατήσω,"
+    },
+    {
+      "n": 349,
+      "greek": "ἀλλὰ τὰ μέν μοι ἔειπε γέρων ἅλιος νημερτής,"
+    },
+    {
+      "n": 350,
+      "greek": "τῶν οὐδέν τοι ἐγὼ κρύψω ἔπος οὐδʼ ἐπικεύσω."
+    },
+    {
+      "n": 351,
+      "greek": "Αἰγύπτῳ μʼ ἔτι δεῦρο θεοὶ μεμαῶτα νέεσθαι"
+    },
+    {
+      "n": 352,
+      "greek": "ἔσχον, ἐπεὶ οὔ σφιν ἔρεξα τεληέσσας ἑκατόμβας."
+    },
+    {
+      "n": 353,
+      "greek": "οἱ δʼ αἰεὶ βούλοντο θεοὶ μεμνῆσθαι ἐφετμέων."
+    },
+    {
+      "n": 354,
+      "greek": "νῆσος ἔπειτά τις ἔστι πολυκλύστῳ ἐνὶ πόντῳ"
+    },
+    {
+      "n": 355,
+      "greek": "Αἰγύπτου προπάροιθε, Φάρον δέ ἑ κικλήσκουσι,"
+    },
+    {
+      "n": 356,
+      "greek": "τόσσον ἄνευθʼ ὅσσον τε πανημερίη γλαφυρὴ νηῦς"
+    },
+    {
+      "n": 357,
+      "greek": "ἤνυσεν, ᾗ λιγὺς οὖρος ἐπιπνείῃσιν ὄπισθεν·"
+    },
+    {
+      "n": 358,
+      "greek": "ἐν δὲ λιμὴν ἐύορμος, ὅθεν τʼ ἀπὸ νῆας ἐίσας"
+    },
+    {
+      "n": 359,
+      "greek": "ἐς πόντον βάλλουσιν, ἀφυσσάμενοι μέλαν ὕδωρ."
+    },
+    {
+      "n": 360,
+      "greek": "ἔνθα μʼ ἐείκοσιν ἤματʼ ἔχον θεοί, οὐδέ ποτʼ οὖροι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "even in such strength Odysseus might come among the wooers; then should they all find swift destruction and bitterness in their wooing. But in this matter of which thou dost ask and beseech me, verily I will not swerve aside to speak of other things, nor will I deceive thee; but of all that the unerring old man of the sea told me"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "not one thing will I hide from thee or conceal. “In Egypt, eager though I was to journey hither, the gods still held me back, because I offered not to them hecatombs that bring fulfillment, and the gods ever wished that men should be mindful of their commands. Now there is an island in the surging sea"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "in front of Egypt, and men call it Pharos, distant as far as a hollow ship runs in a whole day when the shrill wind blows fair behind her. Therein is a harbor with good anchorage, whence men launch the shapely ships into the sea, when they have drawn supplies of black water."
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "There for twenty days the gods kept me, nor ever did the winds that blow over the deep spring up, which speed men's ships over the broad back of the sea. And now would all my stores have been spent and the strength of my men, had not one of the gods taken pity on me and saved me, even Eidothea,"
+    }
+  ]
+}

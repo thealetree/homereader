@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "αἴθʼ ὤφελλʼ ὁ ξεῖνος ἀλώμενος ἄλλοθʼ ὀλέσθαι"
+    },
+    {
+      "n": 402,
+      "greek": "πρὶν ἐλθεῖν· τῷ οὔ τι τόσον κέλαδον μετέθηκε."
+    },
+    {
+      "n": 403,
+      "greek": "νῦν δὲ περὶ πτωχῶν ἐριδαίνομεν, οὐδέ τι δαιτὸς"
+    },
+    {
+      "n": 404,
+      "greek": "ἐσθλῆς ἔσσεται ἦδος, ἐπεὶ τὰ χερείονα νικᾷ."
+    },
+    {
+      "n": 405,
+      "greek": "τοῖσι δὲ καὶ μετέειφʼ ἱερὴ ἲς Τηλεμάχοιο"
+    },
+    {
+      "n": 406,
+      "greek": "δαιμόνιοι, μαίνεσθε καὶ οὐκέτι κεύθετε θυμῷ"
+    },
+    {
+      "n": 407,
+      "greek": "βρωτὺν οὐδὲ ποτῆτα· θεῶν νύ τις ὔμμʼ ὀροθύνει."
+    },
+    {
+      "n": 408,
+      "greek": "ἀλλʼ εὖ δαισάμενοι κατακείετε οἴκαδʼ ἰόντες,"
+    },
+    {
+      "n": 409,
+      "greek": "ὁππότε θυμὸς ἄνωγε· διώκω δʼ οὔ τινʼ ἐγώ γε."
+    },
+    {
+      "n": 410,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ὀδὰξ ἐν χείλεσι φύντες"
+    },
+    {
+      "n": 411,
+      "greek": "Τηλέμαχον θαύμαζον, ὃ θαρσαλέως ἀγόρευε."
+    },
+    {
+      "n": 412,
+      "greek": "τοῖσιν δʼ Ἀμφίνομος ἀγορήσατο καὶ μετέειπε"
+    },
+    {
+      "n": 413,
+      "greek": "Νίσου φαίδιμος υἱός, Ἀρητιάδαο ἄνακτος·"
+    },
+    {
+      "n": 414,
+      "greek": "ὦ φίλοι, οὐκ ἂν δή τις ἐπὶ ῥηθέντι δικαίῳ"
+    },
+    {
+      "n": 415,
+      "greek": "ἀντιβίοις ἐπέεσσι καθαπτόμενος χαλεπαίνοι·"
+    },
+    {
+      "n": 416,
+      "greek": "μήτε τι τὸν ξεῖνον στυφελίζετε μήτε τινʼ ἄλλον"
+    },
+    {
+      "n": 417,
+      "greek": "δμώων, οἳ κατὰ δώματʼ Ὀδυσσῆος θείοιο."
+    },
+    {
+      "n": 418,
+      "greek": "ἀλλʼ ἄγετʼ, οἰνοχόος μὲν ἐπαρξάσθω δεπάεσσιν,"
+    },
+    {
+      "n": 419,
+      "greek": "ὄφρα σπείσαντες κατακείομεν οἴκαδʼ ἰόντες·"
+    },
+    {
+      "n": 420,
+      "greek": "τὸν ξεῖνον δὲ ἐῶμεν ἐνὶ μεγάροις Ὀδυσῆος"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "Then among them spoke the strong and mighty Telemachus: “Strange sirs, ye are mad, and no longer hide that ye have eaten and drunk; some god surely is moving you. Nay, now that you have well feasted, go to your homes and take your rest, when your spirits bid you. Yet do I drive no man forth.”"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "So he spoke, and they all bit their lips, and marvelled at Telemachus, that he spoke boldly. But Amphinomus spoke, and addressed them—he was son of the noble prince Nisus, son of Aretias: “Friends, no man in answer to what has been fairly spoken"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "would wax wroth and make reply with wrangling words. Abuse not any more this stranger nor any one of the slaves that are in the house of divine Odysseus. Nay, come, let the bearer pour drops for libation in the cups, that we may pour libations, and go home to take our rest. As for this stranger,"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "let us leave him in the halls of Odysseus to be cared for by Telemachus; for to his house has he come.” So said he, and the words that he spoke were pleasing to all. Then a bowl was mixed for them by the lord Mulius, a herald from Dulichium, who was squire to Amphinomus."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 8,
+  "lineStart": 142,
+  "lineEnd": 161,
+  "lines": [
+    {
+      "n": 142,
+      "greek": "πρῶτα μὲν οὖν λούσαντο καὶ ἀμφιέσαντο χιτῶνας,"
+    },
+    {
+      "n": 143,
+      "greek": "ὅπλισθεν δὲ γυναῖκες· ὁ δʼ εἵλετο θεῖος ἀοιδὸς"
+    },
+    {
+      "n": 144,
+      "greek": "φόρμιγγα γλαφυρήν, ἐν δέ σφισιν ἵμερον ὦρσε"
+    },
+    {
+      "n": 145,
+      "greek": "μολπῆς τε γλυκερῆς καὶ ἀμύμονος ὀρχηθμοῖο."
+    },
+    {
+      "n": 146,
+      "greek": "τοῖσιν δὲ μέγα δῶμα περιστεναχίζετο ποσσὶν"
+    },
+    {
+      "n": 147,
+      "greek": "ἀνδρῶν παιζόντων καλλιζώνων τε γυναικῶν."
+    },
+    {
+      "n": 148,
+      "greek": "ὧδε δέ τις εἴπεσκε δόμων ἔκτοσθεν ἀκούων·"
+    },
+    {
+      "n": 149,
+      "greek": "ἦ μάλα δή τις ἔγημε πολυμνήστην βασίλειαν·"
+    },
+    {
+      "n": 150,
+      "greek": "σχετλίη, οὐδʼ ἔτλη πόσιος οὗ κουριδίοιο"
+    },
+    {
+      "n": 151,
+      "greek": "εἴρυσθαι μέγα δῶμα διαμπερές, ἧος ἵκοιτο."
+    },
+    {
+      "n": 152,
+      "greek": "ὣς ἄρα τις εἴπεσκε, τὰ δʼ οὐκ ἴσαν ὡς ἐτέτυκτο."
+    },
+    {
+      "n": 153,
+      "greek": "αὐτὰρ Ὀδυσσῆα μεγαλήτορα ᾧ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 154,
+      "greek": "Εὐρυνόμη ταμίη λοῦσεν καὶ χρῖσεν ἐλαίῳ,"
+    },
+    {
+      "n": 155,
+      "greek": "ἀμφὶ δέ μιν φᾶρος καλὸν βάλεν ἠδὲ χιτῶνα·"
+    },
+    {
+      "n": 156,
+      "greek": "αὐτὰρ κὰκ κεφαλῆς κάλλος πολὺ χεῦεν Ἀθήνη"
+    },
+    {
+      "n": 157,
+      "greek": "μείζονά τʼ εἰσιδέειν καὶ πάσσονα· κὰδ δὲ κάρητος"
+    },
+    {
+      "n": 158,
+      "greek": "οὔλας ἧκε κόμας, ὑακινθίνῳ ἄνθει ὁμοίας."
+    },
+    {
+      "n": 159,
+      "greek": "ὡς δʼ ὅτε τις χρυσὸν περιχεύεται ἀργύρῳ ἀνὴρ"
+    },
+    {
+      "n": 160,
+      "greek": "ἴδρις, ὃν Ἥφαιστος δέδαεν καὶ Παλλὰς Ἀθήνη"
+    },
+    {
+      "n": 161,
+      "greek": "τέχνην παντοίην, χαρίεντα δὲ ἔργα τελείει·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "of sweet song and goodly dance. So the great hall resounded all about with the tread of dancing men and of fair-girdled women; and thus would one speak who heard the noise from without the house: “Aye, verily some one has wedded the queen wooed of many."
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "Cruel she was, nor had she the heart to keep the great house of her wedded husband to the end, even till he should come.” So they would say, but they knew not how these things were. Meanwhile the housewife Eurynome bathed the great-hearted Odysseus in his house, and anointed him with oil,"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "and cast about him a fair cloak and a tunic; and over his head Athena shed abundant beauty, making him taller to look upon and mightier, and from his head she made locks to flow in curls like the hyacinth flower. And as when a man overlays silver with gold,"
+    },
+    {
+      "lines": [
+        160,
+        161
+      ],
+      "text": "a cunning workman whom Hephaestus and Pallas Athena have taught all manner of craft, and full of grace is the work he produces, even so the goddess shed grace on his head and shoulders, and forth from the bath he came, in form like unto the immortals. Then he sat down again on the chair from which he had risen,"
+    }
+  ]
+}

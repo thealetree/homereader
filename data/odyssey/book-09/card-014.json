@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "οἴκαδε ἱέμενοι, ἄλλην ὁδὸν ἄλλα κέλευθα"
+    },
+    {
+      "n": 262,
+      "greek": "ἤλθομεν· οὕτω που Ζεὺς ἤθελε μητίσασθαι."
+    },
+    {
+      "n": 263,
+      "greek": "λαοὶ δʼ Ἀτρεΐδεω Ἀγαμέμνονος εὐχόμεθʼ εἶναι,"
+    },
+    {
+      "n": 264,
+      "greek": "τοῦ δὴ νῦν γε μέγιστον ὑπουράνιον κλέος ἐστί·"
+    },
+    {
+      "n": 265,
+      "greek": "τόσσην γὰρ διέπερσε πόλιν καὶ ἀπώλεσε λαοὺς"
+    },
+    {
+      "n": 266,
+      "greek": "πολλούς. ἡμεῖς δʼ αὖτε κιχανόμενοι τὰ σὰ γοῦνα"
+    },
+    {
+      "n": 267,
+      "greek": "ἱκόμεθʼ, εἴ τι πόροις ξεινήιον ἠὲ καὶ ἄλλως"
+    },
+    {
+      "n": 268,
+      "greek": "δοίης δωτίνην, ἥ τε ξείνων θέμις ἐστίν."
+    },
+    {
+      "n": 269,
+      "greek": "ἀλλʼ αἰδεῖο, φέριστε, θεούς· ἱκέται δέ τοί εἰμεν,"
+    },
+    {
+      "n": 270,
+      "greek": "Ζεὺς δʼ ἐπιτιμήτωρ ἱκετάων τε ξείνων τε,"
+    },
+    {
+      "n": 271,
+      "greek": "ξείνιος, ὃς ξείνοισιν ἅμʼ αἰδοίοισιν ὀπηδεῖ."
+    },
+    {
+      "n": 272,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμείβετο νηλέι θυμῷ·"
+    },
+    {
+      "n": 273,
+      "greek": "νήπιός εἰς, ὦ ξεῖνʼ, ἢ τηλόθεν εἰλήλουθας,"
+    },
+    {
+      "n": 274,
+      "greek": "ὅς με θεοὺς κέλεαι ἢ δειδίμεν ἢ ἀλέασθαι·"
+    },
+    {
+      "n": 275,
+      "greek": "οὐ γὰρ Κύκλωπες Διὸς αἰγιόχου ἀλέγουσιν"
+    },
+    {
+      "n": 276,
+      "greek": "οὐδὲ θεῶν μακάρων, ἐπεὶ ἦ πολὺ φέρτεροί εἰμεν·"
+    },
+    {
+      "n": 277,
+      "greek": "οὐδʼ ἂν ἐγὼ Διὸς ἔχθος ἀλευάμενος πεφιδοίμην"
+    },
+    {
+      "n": 278,
+      "greek": "οὔτε σεῦ οὔθʼ ἑτάρων, εἰ μὴ θυμός με κελεύοι."
+    },
+    {
+      "n": 279,
+      "greek": "ἀλλά μοι εἴφʼ ὅπῃ ἔσχες ἰὼν ἐυεργέα νῆα,"
+    },
+    {
+      "n": 280,
+      "greek": "ἤ που ἐπʼ ἐσχατιῆς, ἦ καὶ σχεδόν, ὄφρα δαείω."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "so great a city did he sack, and slew many people; but we on our part, thus visiting thee, have come as suppliants to thy knees, in the hope that thou wilt give us entertainment, or in other wise make some present, as is the due of strangers. Nay, mightiest one, reverence the gods; we are thy suppliants;"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "and Zeus is the avenger of suppliants and strangers—Zeus, the strangers' god—who ever attends upon reverend strangers.’ “So I spoke, and he straightway made answer with pitiless heart: ‘A fool art thou, stranger, or art come from afar, seeing that thou biddest me either to fear or to shun the gods."
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "For the Cyclopes reck not of Zeus, who bears the aegis, nor of the blessed gods, since verily we are better far than they. Nor would I, to shun the wrath of Zeus, spare either thee or thy comrades, unless my own heart should bid me. But tell me where thou didst moor thy well-wrought ship on thy coming."
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "Was it haply at a remote part of the land, or close by? I fain would know.’ “So he spoke, tempting me, but he trapped me not because of my great cunning; and I made answer again in crafty words: “‘My ship Poseidon, the earth-shaker, dashed to pieces, casting her upon the rocks at the border of your land;"
+    }
+  ]
+}

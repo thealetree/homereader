@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 36,
+  "lineStart": 701,
+  "lineEnd": 720,
+  "lines": [
+    {
+      "n": 701,
+      "greek": "οἴκαδε νισόμενον· ὁ δʼ ἔβη μετὰ πατρὸς ἀκουὴν"
+    },
+    {
+      "n": 702,
+      "greek": "ἐς Πύλον ἠγαθέην ἠδʼ ἐς Λακεδαίμονα δῖαν."
+    },
+    {
+      "n": 703,
+      "greek": "ὣς φάτο, τῆς δʼ αὐτοῦ λύτο γούνατα καὶ φίλον ἦτορ,"
+    },
+    {
+      "n": 704,
+      "greek": "δὴν δέ μιν ἀμφασίη ἐπέων λάβε· τὼ δέ οἱ ὄσσε"
+    },
+    {
+      "n": 705,
+      "greek": "δακρυόφι πλῆσθεν, θαλερὴ δέ οἱ ἔσχετο φωνή."
+    },
+    {
+      "n": 706,
+      "greek": "ὀψὲ δὲ δή μιν ἔπεσσιν ἀμειβομένη προσέειπε·"
+    },
+    {
+      "n": 707,
+      "greek": "κῆρυξ, τίπτε δέ μοι πάϊς οἴχεται; οὐδέ τί μιν χρεὼ"
+    },
+    {
+      "n": 708,
+      "greek": "νηῶν ὠκυπόρων ἐπιβαινέμεν, αἵ θʼ ἁλὸς ἵπποι"
+    },
+    {
+      "n": 709,
+      "greek": "ἀνδράσι γίγνονται, περόωσι δὲ πουλὺν ἐφʼ ὑγρήν."
+    },
+    {
+      "n": 710,
+      "greek": "ἦ ἵνα μηδʼ ὄνομʼ αὐτοῦ ἐν ἀνθρώποισι λίπηται;"
+    },
+    {
+      "n": 711,
+      "greek": "τὴν δʼ ἠμείβετʼ ἔπειτα Μέδων πεπνυμένα εἰδώς·"
+    },
+    {
+      "n": 712,
+      "greek": "οὐκ οἶδʼ ἤ τίς μιν θεὸς ὤρορεν, ἦε καὶ αὐτοῦ"
+    },
+    {
+      "n": 713,
+      "greek": "θυμὸς ἐφωρμήθη ἴμεν ἐς Πύλον, ὄφρα πύθηται"
+    },
+    {
+      "n": 714,
+      "greek": "πατρὸς ἑοῦ ἢ νόστον ἢ ὅν τινα πότμον ἐπέσπεν."
+    },
+    {
+      "n": 715,
+      "greek": "ὣς ἄρα φωνήσας ἀπέβη κατὰ δῶμʼ Ὀδυσῆος."
+    },
+    {
+      "n": 716,
+      "greek": "τὴν δʼ ἄχος ἀμφεχύθη θυμοφθόρον, οὐδʼ ἄρʼ ἔτʼ ἔτλη"
+    },
+    {
+      "n": 717,
+      "greek": "δίφρῳ ἐφέζεσθαι πολλῶν κατὰ οἶκον ἐόντων,"
+    },
+    {
+      "n": 718,
+      "greek": "ἀλλʼ ἄρʼ ἐπʼ οὐδοῦ ἷζε πολυκμήτου θαλάμοιο"
+    },
+    {
+      "n": 719,
+      "greek": "οἴκτρʼ ὀλοφυρομένη· περὶ δὲ δμῳαὶ μινύριζον"
+    },
+    {
+      "n": 720,
+      "greek": "πᾶσαι, ὅσαι κατὰ δώματʼ ἔσαν νέαι ἠδὲ παλαιαί."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        705,
+        709
+      ],
+      "text": "were filled with tears, and the flow of her voice was checked. But at last she made answer, and said to him: “Herald, why is my son gone? He had no need to go on board swift-faring ships, which serve men as horses of the deep, and cross over the wide waters of the sea."
+    },
+    {
+      "lines": [
+        710,
+        714
+      ],
+      "text": "Was it that not even his name should be left among men?” Then Medon, wise of heart, answered her: “I know not whether some god impelled him, or whether his own heart was moved to go to Pylos, that he might learn either of his father's return or what fate he had met.”"
+    },
+    {
+      "lines": [
+        715,
+        719
+      ],
+      "text": "So he spoke, and departed through the house of Odysseus, and on her fell a cloud of soul-consuming grief, and she had no more the heart to sit upon one of the many seats that were in the room, but down upon the threshold of her fair-wrought chamber she sank, moaning piteously, and round about her wailed her handmaids,"
+    },
+    {
+      "lines": [
+        720,
+        720
+      ],
+      "text": "even all that were in the house, both young and old. Among these with sobs of lamentation spoke Penelope: “Hear me, my friends, for to me the Olympian has given sorrow above all the women who were bred and born with me. For long since I lost my noble husband of the lion heart,"
+    }
+  ]
+}

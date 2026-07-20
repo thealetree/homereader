@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ἀλλʼ αὔτως ἀποβάντες ἐκείμεθα νηὸς ἅπαντες."
+    },
+    {
+      "n": 282,
+      "greek": "ἔνθʼ ἐμὲ μὲν γλυκὺς ὕπνος ἐπήλυθε κεκμηῶτα,"
+    },
+    {
+      "n": 283,
+      "greek": "οἱ δὲ χρήματʼ ἐμὰ γλαφυρῆς ἐκ νηὸς ἑλόντες"
+    },
+    {
+      "n": 284,
+      "greek": "κάτθεσαν, ἔνθα περ αὐτὸς ἐπὶ ψαμάθοισιν ἐκείμην."
+    },
+    {
+      "n": 285,
+      "greek": "οἱ δʼ ἐς Σιδονίην εὖ ναιομένην ἀναβάντες"
+    },
+    {
+      "n": 286,
+      "greek": "ᾤχοντʼ· αὐτὰρ ἐγὼ λιπόμην ἀκαχήμενος ἦτορ."
+    },
+    {
+      "n": 287,
+      "greek": "ὣς φάτο, μείδησεν δὲ θεὰ γλαυκῶπις Ἀθήνη,"
+    },
+    {
+      "n": 288,
+      "greek": "χειρί τέ μιν κατέρεξε· δέμας δʼ ἤϊκτο γυναικὶ"
+    },
+    {
+      "n": 289,
+      "greek": "καλῇ τε μεγάλῃ τε καὶ ἀγλαὰ ἔργα ἰδυίῃ·"
+    },
+    {
+      "n": 290,
+      "greek": "καί μιν φωνήσασʼ ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 291,
+      "greek": "κερδαλέος κʼ εἴη καὶ ἐπίκλοπος ὅς σε παρέλθοι"
+    },
+    {
+      "n": 292,
+      "greek": "ἐν πάντεσσι δόλοισι, καὶ εἰ θεὸς ἀντιάσειε."
+    },
+    {
+      "n": 293,
+      "greek": "σχέτλιε, ποικιλομῆτα, δόλων ἆτʼ, οὐκ ἄρʼ ἔμελλες,"
+    },
+    {
+      "n": 294,
+      "greek": "οὐδʼ ἐν σῇ περ ἐὼν γαίῃ, λήξειν ἀπατάων"
+    },
+    {
+      "n": 295,
+      "greek": "μύθων τε κλοπίων, οἵ τοι πεδόθεν φίλοι εἰσίν."
+    },
+    {
+      "n": 296,
+      "greek": "ἀλλʼ ἄγε, μηκέτι ταῦτα λεγώμεθα, εἰδότες ἄμφω"
+    },
+    {
+      "n": 297,
+      "greek": "κέρδεʼ, ἐπεὶ σὺ μέν ἐσσι βροτῶν ὄχʼ ἄριστος ἁπάντων"
+    },
+    {
+      "n": 298,
+      "greek": "βουλῇ καὶ μύθοισιν, ἐγὼ δʼ ἐν πᾶσι θεοῖσι"
+    },
+    {
+      "n": 299,
+      "greek": "μήτι τε κλέομαι καὶ κέρδεσιν· οὐδὲ σύ γʼ ἔγνως"
+    },
+    {
+      "n": 300,
+      "greek": "Παλλάδʼ Ἀθηναίην, κούρην Διός, ἥ τέ τοι αἰεὶ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "And they went on board, and departed for the well-peopled land of Sidon; but I was left here, my heart sore troubled.” So he spoke, and the goddess, flashing-eyed Athena, smiled, and stroked him with her hand, and changed herself to the form of a woman, comely and tall, and skilled in glorious handiwork."
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "And she spoke, and addressed him with winged words: “Cunning must he be and knavish, who would go beyond thee in all manner of guile, aye, though it were a god that met thee. Bold man, crafty in counsel, insatiate in deceit, not even in thine own land, it seems, wast thou to cease from guile"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "and deceitful tales, which thou lovest from the bottom of thine heart. But come, let us no longer talk of this, being both well versed in craft, since thou art far the best of all men in counsel and in speech, and I among all the gods am famed for wisdom and craft. Yet thou didst not know"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "Pallas Athena, daughter of Zeus, even me, who ever stand by thy side, and guard thee in all toils. Aye, and I made thee beloved by all the Phaeacians. And now am I come hither to weave a plan with thee, and to hide all the treasure, which the lordly Phaeacians"
+    }
+  ]
+}

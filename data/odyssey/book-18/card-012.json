@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "οἷον δὴ τόδε ἔργον ἐνὶ μεγάροισιν ἐτύχθη,"
+    },
+    {
+      "n": 222,
+      "greek": "ὃς τὸν ξεῖνον ἔασας ἀεικισθήμεναι οὕτως."
+    },
+    {
+      "n": 223,
+      "greek": "πῶς νῦν, εἴ τι ξεῖνος ἐν ἡμετέροισι δόμοισιν"
+    },
+    {
+      "n": 224,
+      "greek": "ἥμενος ὧδε πάθοι ῥυστακτύος ἐξ ἀλεγεινῆς;"
+    },
+    {
+      "n": 225,
+      "greek": "σοί κʼ αἶσχος λώβη τε μετʼ ἀνθρώποισι πέλοιτο."
+    },
+    {
+      "n": 226,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 227,
+      "greek": "μῆτερ ἐμή, τὸ μὲν οὔ σε νεμεσσῶμαι κεχολῶσθαι·"
+    },
+    {
+      "n": 228,
+      "greek": "αὐτὰρ ἐγὼ θυμῷ νοέω καὶ οἶδα ἕκαστα,"
+    },
+    {
+      "n": 229,
+      "greek": "ἐσθλά τε καὶ τὰ χέρεια· πάρος δʼ ἔτι νήπιος ἦα."
+    },
+    {
+      "n": 230,
+      "greek": "ἀλλά τοι οὐ δύναμαι πεπνυμένα πάντα νοῆσαι·"
+    },
+    {
+      "n": 231,
+      "greek": "ἐκ γάρ με πλήσσουσι παρήμενοι ἄλλοθεν ἄλλος"
+    },
+    {
+      "n": 232,
+      "greek": "οἵδε κακὰ φρονέοντες, ἐμοὶ δʼ οὐκ εἰσὶν ἀρωγοί."
+    },
+    {
+      "n": 233,
+      "greek": "οὐ μέν τοι ξείνου γε καὶ Ἴρου μῶλος ἐτύχθη"
+    },
+    {
+      "n": 234,
+      "greek": "μνηστήρων ἰότητι, βίῃ δʼ ὅ γε φέρτερος ἦεν."
+    },
+    {
+      "n": 235,
+      "greek": "αἲ γάρ, Ζεῦ τε πάτερ καὶ Ἀθηναίη καὶ Ἄπολλον,"
+    },
+    {
+      "n": 236,
+      "greek": "οὕτω νῦν μνηστῆρες ἐν ἡμετέροισι δόμοισι"
+    },
+    {
+      "n": 237,
+      "greek": "νεύοιεν κεφαλὰς δεδμημένοι, οἱ μὲν ἐν αὐλῇ,"
+    },
+    {
+      "n": 238,
+      "greek": "οἱ δʼ ἔντοσθε δόμοιο, λελῦτο δὲ γυῖα ἑκάστου,"
+    },
+    {
+      "n": 239,
+      "greek": "ὡς νῦν Ἶρος κεῖνος ἐπʼ αὐλείῃσι θύρῃσιν"
+    },
+    {
+      "n": 240,
+      "greek": "ἧσται νευστάζων κεφαλῇ, μεθύοντι ἐοικώς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "On thee, then, would fall shame and disgrace among men.” Then wise Telemachus answered her: “My mother, in this matter I take it not ill that thou art filled with anger. Yet of myself I know in my heart and understand each thing, the good and the evil, whereas heretofore I was but a child."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "But I am not able to plan all things wisely, for these men here thwart my will, keeping by me, one on this side and one on that, with evil purpose, and I have none to help me. Howbeit, I can tell thee, this battle between the stranger and Irus fell not out according to the mind of the wooers, but the stranger proved the better man."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "I would, O father Zeus, and Athena, and Apollo, that even now the wooers were thus subdued in our halls, and were hanging their heads, some in the court and some within the hall, and that each man's limbs were loosened, even as Irus now sits yonder by the gate of the court,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "hanging his head like a drunken man, and cannot stand erect upon his feet, or go home to whatsoever place he is wont to go, because his limbs are loosened.” Thus they spoke to one another. But Eurymachus addressed Penelope, and said:"
+    }
+  ]
+}

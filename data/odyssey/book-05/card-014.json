@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "μοχλοῖσιν δʼ ἄρα τήν γε κατείρυσεν εἰς ἅλα δῖαν."
+    },
+    {
+      "n": 262,
+      "greek": "τέτρατον ἦμαρ ἔην, καὶ τῷ τετέλεστο ἅπαντα·"
+    },
+    {
+      "n": 263,
+      "greek": "τῷ δʼ ἄρα πέμπτῳ πέμπʼ ἀπὸ νήσου δῖα Καλυψώ,"
+    },
+    {
+      "n": 264,
+      "greek": "εἵματά τʼ ἀμφιέσασα θυώδεα καὶ λούσασα."
+    },
+    {
+      "n": 265,
+      "greek": "ἐν δέ οἱ ἀσκὸν ἔθηκε θεὰ μέλανος οἴνοιο"
+    },
+    {
+      "n": 266,
+      "greek": "τὸν ἕτερον, ἕτερον δʼ ὕδατος μέγαν, ἐν δὲ καὶ ᾖα"
+    },
+    {
+      "n": 267,
+      "greek": "κωρύκῳ· ἐν δέ οἱ ὄψα τίθει μενοεικέα πολλά·"
+    },
+    {
+      "n": 268,
+      "greek": "οὖρον δὲ προέηκεν ἀπήμονά τε λιαρόν τε."
+    },
+    {
+      "n": 269,
+      "greek": "γηθόσυνος δʼ οὔρῳ πέτασʼ ἱστία δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 270,
+      "greek": "αὐτὰρ ὁ πηδαλίῳ ἰθύνετο τεχνηέντως"
+    },
+    {
+      "n": 271,
+      "greek": "ἥμενος, οὐδέ οἱ ὕπνος ἐπὶ βλεφάροισιν ἔπιπτεν"
+    },
+    {
+      "n": 272,
+      "greek": "Πληιάδας τʼ ἐσορῶντι καὶ ὀψὲ δύοντα Βοώτην"
+    },
+    {
+      "n": 273,
+      "greek": "Ἄρκτον θʼ, ἣν καὶ ἄμαξαν ἐπίκλησιν καλέουσιν,"
+    },
+    {
+      "n": 274,
+      "greek": "ἥ τʼ αὐτοῦ στρέφεται καί τʼ Ὠρίωνα δοκεύει,"
+    },
+    {
+      "n": 275,
+      "greek": "οἴη δʼ ἄμμορός ἐστι λοετρῶν Ὠκεανοῖο·"
+    },
+    {
+      "n": 276,
+      "greek": "τὴν γὰρ δή μιν ἄνωγε Καλυψώ, δῖα θεάων,"
+    },
+    {
+      "n": 277,
+      "greek": "ποντοπορευέμεναι ἐπʼ ἀριστερὰ χειρὸς ἔχοντα."
+    },
+    {
+      "n": 278,
+      "greek": "ἑπτὰ δὲ καὶ δέκα μὲν πλέεν ἤματα ποντοπορεύων,"
+    },
+    {
+      "n": 279,
+      "greek": "ὀκτωκαιδεκάτῃ δʼ ἐφάνη ὄρεα σκιόεντα"
+    },
+    {
+      "n": 280,
+      "greek": "γαίης Φαιήκων, ὅθι τʼ ἄγχιστον πέλεν αὐτῷ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "On the raft the goddess put a skin of dark wine, and another, a great one, of water, and provisions, too, in a wallet. Therein she put abundance of dainties to satisfy his heart, and she sent forth a gentle wind and warm. Gladly then did goodly Odysseus spread his sail to the breeze;"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "and he sat and guided his raft skilfully with the steering-oar, nor did sleep fall upon his eyelids, as he watched the Pleiads, and late-setting Bootes, and the Bear, which men also call the Wain, which ever circles where it is and watches Orion,"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "and alone has no part in the baths of Ocean. For this star Calypso, the beautiful goddess, had bidden him to keep on the left hand as he sailed over the sea. For seventeen days then he sailed over the sea, and on the eighteenth appeared the shadowy mountains"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "of the land of the Phaeacians, where it lay nearest to him; and it shewed like unto a shield in the misty deep. But the glorious Earth-shaker, as he came back from the Ethiopians, beheld him from afar, from the mountains of the Solymi: for Odysseus was seen of him sailing over the sea; and he waxed the more wroth in spirit,"
+    }
+  ]
+}

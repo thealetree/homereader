@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "θρήνεον· ἔνθα κεν οὔ τινʼ ἀδάκρυτόν γʼ ἐνόησας"
+    },
+    {
+      "n": 62,
+      "greek": "Ἀργείων· τοῖον γὰρ ὑπώρορε Μοῦσα λίγεια."
+    },
+    {
+      "n": 63,
+      "greek": "ἑπτὰ δὲ καὶ δέκα μέν σε ὁμῶς νύκτας τε καὶ ἦμαρ"
+    },
+    {
+      "n": 64,
+      "greek": "κλαίομεν ἀθάνατοί τε θεοὶ θνητοί τʼ ἄνθρωποι·"
+    },
+    {
+      "n": 65,
+      "greek": "ὀκτωκαιδεκάτῃ δʼ ἔδομεν πυρί, πολλὰ δέ σʼ ἀμφὶ"
+    },
+    {
+      "n": 66,
+      "greek": "μῆλα κατεκτάνομεν μάλα πίονα καὶ ἕλικας βοῦς."
+    },
+    {
+      "n": 67,
+      "greek": "καίεο δʼ ἔν τʼ ἐσθῆτι θεῶν καὶ ἀλείφατι πολλῷ"
+    },
+    {
+      "n": 68,
+      "greek": "καὶ μέλιτι γλυκερῷ· πολλοὶ δʼ ἥρωες Ἀχαιοὶ"
+    },
+    {
+      "n": 69,
+      "greek": "τεύχεσιν ἐρρώσαντο πυρὴν πέρι καιομένοιο,"
+    },
+    {
+      "n": 70,
+      "greek": "πεζοί θʼ ἱππῆές τε· πολὺς δʼ ὀρυμαγδὸς ὀρώρει"
+    },
+    {
+      "n": 71,
+      "greek": "αὐτὰρ ἐπεὶ δή σε φλὸξ ἤνυσεν Ἡφαίστοιο,"
+    },
+    {
+      "n": 72,
+      "greek": "ἠῶθεν δή τοι λέγομεν λεύκʼ ὀστέʼ, Ἀχιλλεῦ,"
+    },
+    {
+      "n": 73,
+      "greek": "οἴνῳ ἐν ἀκρήτῳ καὶ ἀλείφατι· δῶκε δὲ μήτηρ"
+    },
+    {
+      "n": 74,
+      "greek": "χρύσεον ἀμφιφορῆα· Διωνύσοιο δὲ δῶρον"
+    },
+    {
+      "n": 75,
+      "greek": "φάσκʼ ἔμεναι, ἔργον δὲ περικλυτοῦ Ἡφαίστοιο."
+    },
+    {
+      "n": 76,
+      "greek": "ἐν τῷ τοι κεῖται λεύκʼ ὀστέα, φαίδιμʼ Ἀχιλλεῦ,"
+    },
+    {
+      "n": 77,
+      "greek": "μίγδα δὲ Πατρόκλοιο Μενοιτιάδαο θανόντος,"
+    },
+    {
+      "n": 78,
+      "greek": "χωρὶς δʼ Ἀντιλόχοιο, τὸν ἔξοχα τῖες ἁπάντων"
+    },
+    {
+      "n": 79,
+      "greek": "τῶν ἄλλων ἑτάρων, μετὰ Πάτροκλόν γε θανόντα."
+    },
+    {
+      "n": 80,
+      "greek": "ἀμφʼ αὐτοῖσι δʼ ἔπειτα μέγαν καὶ ἀμύμονα τύμβον"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "and on the eighteenth we gave thee to the fire, and many well-fatted sheep we slew around thee and sleek kine. So thou wast burned in the raiment of the gods and in abundance of unguents and sweet honey; and many Achaean warriors moved in their armour about the pyre, when thou wast burning,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "both footmen and charioteers, and a great din arose. But when the flame of Hephaestus had made an end of thee, in the morning we gathered thy white bones, Achilles, and laid them in unmixed wine and unguents. Thy mother had given a two-handled, golden urn, and"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "said that it was the gift of Dionysus, and the handiwork of famed Hephaestus. In this lie thy white bones, glorious Achilles, and mingled with them the bones of the dead Patroclus, son of Menoetius, but apart lie those of Antilochus, whom thou didst honor above all the rest of thy comrades after the dead Patroclus."
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "And over them we heaped up a great and goodly tomb, we the mighty host of Argive spearmen, on a projecting headland by the broad Hellespont, that it might be seen from far over the sea both by men that now are and that shall be born hereafter."
+    }
+  ]
+}

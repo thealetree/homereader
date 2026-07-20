@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "Εὐρύμαχʼ, οὐδʼ εἴ μοι πατρώϊα πάντʼ ἀποδοῖτε,"
+    },
+    {
+      "n": 62,
+      "greek": "ὅσσα τε νῦν ὔμμʼ ἐστὶ καὶ εἴ ποθεν ἄλλʼ ἐπιθεῖτε,"
+    },
+    {
+      "n": 63,
+      "greek": "οὐδέ κεν ὣς ἔτι χεῖρας ἐμὰς λήξαιμι φόνοιο"
+    },
+    {
+      "n": 64,
+      "greek": "πρὶν πᾶσαν μνηστῆρας ὑπερβασίην ἀποτῖσαι."
+    },
+    {
+      "n": 65,
+      "greek": "νῦν ὑμῖν παράκειται ἐναντίον ἠὲ μάχεσθαι"
+    },
+    {
+      "n": 66,
+      "greek": "ἢ φεύγειν, ὅς κεν θάνατον καὶ κῆρας ἀλύξῃ·"
+    },
+    {
+      "n": 67,
+      "greek": "ἀλλά τινʼ οὐ φεύξεσθαι ὀΐομαι αἰπὺν ὄλεθρον."
+    },
+    {
+      "n": 68,
+      "greek": "ὣς φάτο, τῶν δʼ αὐτοῦ λύτο γούνατα καὶ φίλον ἦτορ."
+    },
+    {
+      "n": 69,
+      "greek": "τοῖσιν δʼ Εὐρύμαχος προσεφώνεε δεύτερον αὖτις·"
+    },
+    {
+      "n": 70,
+      "greek": "ὦ φίλοι, οὐ γὰρ σχήσει ἀνὴρ ὅδε χεῖρας ἀάπτους,"
+    },
+    {
+      "n": 71,
+      "greek": "ἀλλʼ ἐπεὶ ἔλλαβε τόξον ἐΰξοον ἠδὲ φαρέτρην,"
+    },
+    {
+      "n": 72,
+      "greek": "οὐδοῦ ἄπο ξεστοῦ τοξάσσεται, εἰς ὅ κε πάντας"
+    },
+    {
+      "n": 73,
+      "greek": "ἄμμε κατακτείνῃ· ἀλλὰ μνησώμεθα χάρμης."
+    },
+    {
+      "n": 74,
+      "greek": "φάσγανά τε σπάσσασθε καὶ ἀντίσχεσθε τραπέζας"
+    },
+    {
+      "n": 75,
+      "greek": "ἰῶν ὠκυμόρων· ἐπὶ δʼ αὐτῷ πάντες ἔχωμεν"
+    },
+    {
+      "n": 76,
+      "greek": "ἀθρόοι, εἴ κέ μιν οὐδοῦ ἀπώσομεν ἠδὲ θυράων,"
+    },
+    {
+      "n": 77,
+      "greek": "ἔλθωμεν δʼ ἀνὰ ἄστυ, βοὴ δʼ ὤκιστα γένοιτο·"
+    },
+    {
+      "n": 78,
+      "greek": "τῷ κε τάχʼ οὗτος ἀνὴρ νῦν ὕστατα τοξάσσαιτο."
+    },
+    {
+      "n": 79,
+      "greek": "ὣς ἄρα φωνήσας εἰρύσσατο φάσγανον ὀξὺ"
+    },
+    {
+      "n": 80,
+      "greek": "χάλκεον, ἀμφοτέρωθεν ἀκαχμένον, ἆλτο δʼ ἐπʼ αὐτῷ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "Now it lies before you to fight in open fight, or to flee, if any man may avoid death and the fates; but many a one, methinks, shall not escape from utter destruction.” So he spoke, and their knees were loosened where they stood, and their hearts melted; and Eurymachus spoke among them again a second time:"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "“Friends, for you see that this man will not stay his invincible hands, but now that he was got the polished bow and the quiver, will shoot from the smooth threshold until he slays us all, come, let us take thought of battle. Draw your swords, and hold the tables before you against"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "the arrows that bring swift death, and let us all have at him in a body, in the hope that we may thrust him from the threshold and the doorway, and go throughout the city, and so the alarm be swiftly raised; then should this fellow soon have shot his last.” So saying, he drew his sharp sword"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "of bronze, two-edged, and sprang upon Odysseus with a terrible cry, but at the same instant goodly Odysseus let fly an arrow, and struck him upon the breast beside the nipple, and fixed the swift shaft in his liver. And Eurymachus let the sword fall from his hand to the ground, and writhing over the table"
+    }
+  ]
+}

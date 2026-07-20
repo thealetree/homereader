@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "οὐδὲ θεῶν μακάρων· πέρι γὰρ δολόεντα τέτυκτο."
+    },
+    {
+      "n": 282,
+      "greek": "αὐτὰρ ἐπεὶ δὴ πάντα δόλον περὶ δέμνια χεῦεν,"
+    },
+    {
+      "n": 283,
+      "greek": "εἴσατʼ ἴμεν ἐς Λῆμνον, ἐυκτίμενον πτολίεθρον,"
+    },
+    {
+      "n": 284,
+      "greek": "ἥ οἱ γαιάων πολὺ φιλτάτη ἐστὶν ἁπασέων."
+    },
+    {
+      "n": 285,
+      "greek": "οὐδʼ ἀλαοσκοπιὴν εἶχε χρυσήνιος Ἄρης,"
+    },
+    {
+      "n": 286,
+      "greek": "ὡς ἴδεν Ἥφαιστον κλυτοτέχνην νόσφι κιόντα·"
+    },
+    {
+      "n": 287,
+      "greek": "βῆ δʼ ἰέναι πρὸς δῶμα περικλυτοῦ Ἡφαίστοιο"
+    },
+    {
+      "n": 288,
+      "greek": "ἰσχανόων φιλότητος ἐυστεφάνου Κυθερείης."
+    },
+    {
+      "n": 289,
+      "greek": "ἡ δὲ νέον παρὰ πατρὸς ἐρισθενέος Κρονίωνος"
+    },
+    {
+      "n": 290,
+      "greek": "ἐρχομένη κατʼ ἄρʼ ἕζεθʼ· ὁ δʼ εἴσω δώματος ᾔει,"
+    },
+    {
+      "n": 291,
+      "greek": "ἔν τʼ ἄρα οἱ φῦ χειρί, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    },
+    {
+      "n": 292,
+      "greek": "δεῦρο, φίλη, λέκτρονδε τραπείομεν εὐνηθέντες·"
+    },
+    {
+      "n": 293,
+      "greek": "οὐ γὰρ ἔθʼ Ἥφαιστος μεταδήμιος, ἀλλά που ἤδη"
+    },
+    {
+      "n": 294,
+      "greek": "οἴχεται ἐς Λῆμνον μετὰ Σίντιας ἀγριοφώνους."
+    },
+    {
+      "n": 295,
+      "greek": "ὣς φάτο, τῇ δʼ ἀσπαστὸν ἐείσατο κοιμηθῆναι."
+    },
+    {
+      "n": 296,
+      "greek": "τὼ δʼ ἐς δέμνια βάντε κατέδραθον· ἀμφὶ δὲ δεσμοὶ"
+    },
+    {
+      "n": 297,
+      "greek": "τεχνήεντες ἔχυντο πολύφρονος Ἡφαίστοιο,"
+    },
+    {
+      "n": 298,
+      "greek": "οὐδέ τι κινῆσαι μελέων ἦν οὐδʼ ἀναεῖραι."
+    },
+    {
+      "n": 299,
+      "greek": "καὶ τότε δὴ γίγνωσκον, ὅ τʼ οὐκέτι φυκτὰ πέλοντο."
+    },
+    {
+      "n": 300,
+      "greek": "ἀγχίμολον δέ σφʼ ἦλθε περικλυτὸς ἀμφιγυήεις,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "And no blind watch did Ares of the golden rein keep, when he saw Hephaestus, famed for his handicraft, departing, but he went his way to the house of famous Hephaestus, eager for the love of Cytherea of the fair crown. Now she had but newly come from the presence of her father, the mighty son of Cronos,"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "and had sat her down. And Ares came into the house and clasped her hand and spoke and addressed her: “Come, love, let us to bed and take our joy, couched together. For Hephaestus is no longer here in the land, but has now gone, I ween, to Lemnos, to visit the Sintians of savage speech.”"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "So he spoke, and a welcome thing it seemed to her to lie with him. So they two went to the couch, and lay them down to sleep, and about them clung the cunning bonds of the wise Hephaestus, nor could they in any wise stir their limbs or raise them up. Then at length they learned that there was no more escaping."
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "And near to them came the famous god of the two strong arms, having turned back before he reached the land of Lemnos; for Helius had kept watch for him and had brought him word. So he went to his house with a heavy heart, and stood at the gateway, and fierce anger seized him."
+    }
+  ]
+}

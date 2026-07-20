@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "καὶ τότε κουφότερον μετεφώνεε Φαιήκεσσιν·"
+    },
+    {
+      "n": 202,
+      "greek": "τοῦτον νῦν ἀφίκεσθε, νέοι. τάχα δʼ ὕστερον ἄλλον"
+    },
+    {
+      "n": 203,
+      "greek": "ἥσειν ἢ τοσσοῦτον ὀίομαι ἢ ἔτι μᾶσσον."
+    },
+    {
+      "n": 204,
+      "greek": "τῶν δʼ ἄλλων ὅτινα κραδίη θυμός τε κελεύει,"
+    },
+    {
+      "n": 205,
+      "greek": "δεῦρʼ ἄγε πειρηθήτω, ἐπεί μʼ ἐχολώσατε λίην,"
+    },
+    {
+      "n": 206,
+      "greek": "ἢ πὺξ ἠὲ πάλῃ ἢ καὶ ποσίν, οὔ τι μεγαίρω,"
+    },
+    {
+      "n": 207,
+      "greek": "πάντων Φαιήκων, πλήν γʼ αὐτοῦ Λαοδάμαντος."
+    },
+    {
+      "n": 208,
+      "greek": "ξεῖνος γάρ μοι ὅδʼ ἐστί· τίς ἂν φιλέοντι μάχοιτο;"
+    },
+    {
+      "n": 209,
+      "greek": "ἄφρων δὴ κεῖνός γε καὶ οὐτιδανὸς πέλει ἀνήρ,"
+    },
+    {
+      "n": 210,
+      "greek": "ὅς τις ξεινοδόκῳ ἔριδα προφέρηται ἀέθλων"
+    },
+    {
+      "n": 211,
+      "greek": "δήμῳ ἐν ἀλλοδαπῷ· ἕο δʼ αὐτοῦ πάντα κολούει."
+    },
+    {
+      "n": 212,
+      "greek": "τῶν δʼ ἄλλων οὔ πέρ τινʼ ἀναίνομαι οὐδʼ ἀθερίζω,"
+    },
+    {
+      "n": 213,
+      "greek": "ἀλλʼ ἐθέλω ἴδμεν καὶ πειρηθήμεναι ἄντην."
+    },
+    {
+      "n": 214,
+      "greek": "πάντα γὰρ οὐ κακός εἰμι, μετʼ ἀνδράσιν ὅσσοι ἄεθλοι·"
+    },
+    {
+      "n": 215,
+      "greek": "εὖ μὲν τόξον οἶδα ἐύξοον ἀμφαφάασθαι·"
+    },
+    {
+      "n": 216,
+      "greek": "πρῶτός κʼ ἄνδρα βάλοιμι ὀιστεύσας ἐν ὁμίλῳ"
+    },
+    {
+      "n": 217,
+      "greek": "ἀνδρῶν δυσμενέων, εἰ καὶ μάλα πολλοὶ ἑταῖροι"
+    },
+    {
+      "n": 218,
+      "greek": "ἄγχι παρασταῖεν καὶ τοξαζοίατο φωτῶν."
+    },
+    {
+      "n": 219,
+      "greek": "οἶος δή με Φιλοκτήτης ἀπεκαίνυτο τόξῳ"
+    },
+    {
+      "n": 220,
+      "greek": "δήμῳ ἔνι Τρώων, ὅτε τοξαζοίμεθʼ Ἀχαιοί."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "let him come hither and make trial—for ye have greatly angered me—be it in boxing or in wrestling, aye, or in running, I care not; let any one come of all the Phaeacians, save Laodamas alone. For he is my host, and who would quarrel with one that entertains him? Foolish is that man and worthless,"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "who challenges to a contest the host who receives him in a strange land; he does but mar his own fortunes. But of all the rest I refuse none, and make light of none, but am fain to know them, and make trial of them man to man. For in all things I am no weakling, even in all the contests that are practised among men."
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "Well do I know how to handle the polished bow, and ever would I be the first to shoot and smite my man in the throng of the foe, even though many comrades stood by me and were shooting at the men. Only Philoctetes excelled me with the bow"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "in the land of the Trojans, when we Achaeans shot. But of all others I declare that I am best by far, of all mortals that are now upon the earth and eat bread. Yet with men of former days I will not seek to vie, with Heracles or with Eurytus of Oechalia,"
+    }
+  ]
+}

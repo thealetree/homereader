@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "ἀλλʼ ἔπεσίν τε κακοῖσιν ἐνίσσομεν ἠδὲ βολῇσιν."
+    },
+    {
+      "n": 162,
+      "greek": "αὐτὰρ ὁ τῆος ἐτόλμα ἐνὶ μεγάροισιν ἑοῖσι"
+    },
+    {
+      "n": 163,
+      "greek": "βαλλόμενος καὶ ἐνισσόμενος τετληότι θυμῷ·"
+    },
+    {
+      "n": 164,
+      "greek": "ἀλλʼ ὅτε δή μιν ἔγειρε Διὸς νοός αἰγιόχοιο,"
+    },
+    {
+      "n": 165,
+      "greek": "σὺν μὲν Τηλεμάχῳ περικαλλέα τεύχεʼ ἀείρας"
+    },
+    {
+      "n": 166,
+      "greek": "ἐς θάλαμον κατέθηκε καὶ ἐκλήϊσεν ὀχῆας,"
+    },
+    {
+      "n": 167,
+      "greek": "αὐτὰρ ὁ ἣν ἄλοχον πολυκερδείῃσιν ἄνωγε"
+    },
+    {
+      "n": 168,
+      "greek": "τόξον μνηστήρεσσι θέμεν πολιόν τε σίδηρον,"
+    },
+    {
+      "n": 169,
+      "greek": "ἡμῖν αἰνομόροισιν ἀέθλια καὶ φόνου ἀρχήν."
+    },
+    {
+      "n": 170,
+      "greek": "οὐδέ τις ἡμείων δύνατο κρατεροῖο βιοῖο"
+    },
+    {
+      "n": 171,
+      "greek": "νευρὴν ἐντανύσαι, πολλὸν δʼ ἐπιδευέες ἦμεν."
+    },
+    {
+      "n": 172,
+      "greek": "ἀλλʼ ὅτε χεῖρας ἵκανεν Ὀδυσσῆος μέγα τόξον,"
+    },
+    {
+      "n": 173,
+      "greek": "ἔνθʼ ἡμεῖς μὲν πάντες ὁμοκλέομεν ἐπέεσσι"
+    },
+    {
+      "n": 174,
+      "greek": "τόξον μὴ δόμεναι, μηδʼ εἰ μάλα πολλʼ ἀγορεύοι·"
+    },
+    {
+      "n": 175,
+      "greek": "Τηλέμαχος δέ μιν οἶος ἐποτρύνων ἐκέλευσεν."
+    },
+    {
+      "n": 176,
+      "greek": "αὐτὰρ ὁ δέξατο χειρὶ πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 177,
+      "greek": "ῥηϊδίως δʼ ἐτάνυσσε βιόν, διὰ δʼ ἧκε σιδήρου,"
+    },
+    {
+      "n": 178,
+      "greek": "στῆ δʼ ἄρʼ ἐπʼ οὐδὸν ἰών, ταχέας δʼ ἐκχεύατʼ ὀϊστοὺς"
+    },
+    {
+      "n": 179,
+      "greek": "δεινὸν παπταίνων, βάλε δʼ Ἀντίνοον βασιλῆα."
+    },
+    {
+      "n": 180,
+      "greek": "αὐτὰρ ἔπειτʼ ἄλλοις ἐφίει βέλεα στονόεντα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "with the help of Telemachus he took all the beautiful arms and laid them away in the store-room and made fast the bolts. Then in his great cunning he bade his wife set before the wooers his bow and the grey iron to be a contest for us ill-fated men and the beginning of death."
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "And no man of us was able to stretch the string of the mighty bow; nay, we fell far short of that strength. But when the great bow came to the hands of Odysseus, then we all cried out aloud not to give him the bow, how much soever he might speak;"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "but Telemachus alone urged him on, and bade him take it. Then he took the bow in his hand, the much-enduring, goodly Odysseus, and with ease did he string it and send an arrow through the iron. Then he went and stood on the threshold, and poured out the swift arrows, glaring about him terribly, and smote king Antinous."
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "And thereafter upon the others he with sure aim let fly his shafts, fraught with groanings, and the men fell thick and fast. Then was it known that some god was their helper; for straightway rushing on through the halls in their fury they slew men left and right, and therefrom rose hideous groaning,"
+    }
+  ]
+}

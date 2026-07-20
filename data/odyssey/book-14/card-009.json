@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "τοῦδʼ αὐτοῦ λυκάβαντος ἐλεύσεται ἐνθάδʼ Ὀδυσσεύς."
+    },
+    {
+      "n": 162,
+      "greek": "τοῦ μὲν φθίνοντος μηνός, τοῦ δʼ ἱσταμένοιο,"
+    },
+    {
+      "n": 163,
+      "greek": "οἴκαδε νοστήσει, καὶ τίσεται ὅς τις ἐκείνου"
+    },
+    {
+      "n": 164,
+      "greek": "ἐνθάδʼ ἀτιμάζει ἄλοχον καὶ φαίδιμον υἱόν."
+    },
+    {
+      "n": 165,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 166,
+      "greek": "ὦ γέρον, οὔτʼ ἄρʼ ἐγὼν εὐαγγέλιον τόδε τίσω,"
+    },
+    {
+      "n": 167,
+      "greek": "οὔτʼ Ὀδυσεὺς ἔτι οἶκον ἐλεύσεται· ἀλλὰ ἕκηλος"
+    },
+    {
+      "n": 168,
+      "greek": "πῖνε, καὶ ἄλλα παρὲξ μεμνώμεθα, μηδέ με τούτων"
+    },
+    {
+      "n": 169,
+      "greek": "μίμνησκʼ· ἦ γὰρ θυμὸς ἐνὶ στήθεσσιν ἐμοῖσιν"
+    },
+    {
+      "n": 170,
+      "greek": "ἄχνυται, ὁππότε τις μνήσῃ κεδνοῖο ἄνακτος."
+    },
+    {
+      "n": 171,
+      "greek": "ἀλλʼ ἦ τοι ὅρκον μὲν ἐάσομεν, αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 172,
+      "greek": "ἔλθοι ὅπως μιν ἐγώ γʼ ἐθέλω καὶ Πηνελόπεια"
+    },
+    {
+      "n": 173,
+      "greek": "Λαέρτης θʼ ὁ γέρων καὶ Τηλέμαχος θεοειδής."
+    },
+    {
+      "n": 174,
+      "greek": "νῦν αὖ παιδὸς ἄλαστον ὀδύρομαι, ὃν τέκʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 175,
+      "greek": "Τηλεμάχου· τὸν ἐπεὶ θρέψαν θεοὶ ἔρνεϊ ἶσον,"
+    },
+    {
+      "n": 176,
+      "greek": "καί μιν ἔφην ἔσσεσθαι ἐν ἀνδράσιν οὔ τι χέρηα"
+    },
+    {
+      "n": 177,
+      "greek": "πατρὸς ἑοῖο φίλοιο, δέμας καὶ εἶδος ἀγητόν,"
+    },
+    {
+      "n": 178,
+      "greek": "τὸν δέ τις ἀθανάτων βλάψε φρένας ἔνδον ἐΐσας"
+    },
+    {
+      "n": 179,
+      "greek": "ἠέ τις ἀνθρώπων· ὁ δʼ ἔβη μετὰ πατρὸς ἀκουὴν"
+    },
+    {
+      "n": 180,
+      "greek": "ἐς Πύλον ἠγαθέην· τὸν δὲ μνηστῆρες ἀγαυοὶ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "To him then, swineherd Eumaeus, didst thou make answer, and say: “Old man, neither shall I, meseems, pay thee this reward for bearing good tidings, nor shall Odysseus ever come to his home. Nay, drink in peace, and let us turn our thoughts to other things, and do not thou recall this to my mind; for verily the heart in my breast"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "is grieved whenever any one makes mention of my good master. But as for thy oath, we will let it be; yet I would that Odysseus might come, even as I desire, I, and Penelope, and the old man Laertes, and godlike Telemachus. But now it is for his son that I grieve unceasingly,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "even for Telemachus, whom Odysseus begot. When the gods had made him grow like a sapling, and I thought that he would be among men no whit worse than his dear father, glorious in form and comeliness, then some one of the immortals marred the wise spirit within him, or haply some man, and he went"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "to sacred Pylos after tidings of his father. For him now the lordly wooers lie in wait on his homeward way, that the race of godlike Arceisius may perish out of Ithaca, and leave no name. But verily we will let him be; he may be taken, or he may escape, and the son of Cronos stretch forth his hand to guard him."
+    }
+  ]
+}

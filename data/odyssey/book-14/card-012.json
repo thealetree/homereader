@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "ἀνδρῶν δυσμενέων ὅ τέ μοι εἴξειε πόδεσσιν."
+    },
+    {
+      "n": 222,
+      "greek": "τοῖος ἔα ἐν πολέμῳ· ἔργον δέ μοι οὐ φίλον ἔσκεν"
+    },
+    {
+      "n": 223,
+      "greek": "οὐδʼ οἰκωφελίη, ἥ τε τρέφει ἀγλαὰ τέκνα,"
+    },
+    {
+      "n": 224,
+      "greek": "ἀλλά μοι αἰεὶ νῆες ἐπήρετμοι φίλαι ἦσαν"
+    },
+    {
+      "n": 225,
+      "greek": "καὶ πόλεμοι καὶ ἄκοντες ἐΰξεστοι καὶ ὀϊστοί,"
+    },
+    {
+      "n": 226,
+      "greek": "λυγρά, τά τʼ ἄλλοισίν γε καταριγηλὰ πέλονται."
+    },
+    {
+      "n": 227,
+      "greek": "αὐτὰρ ἐμοὶ τὰ φίλʼ ἔσκε τά που θεὸς ἐν φρεσὶ θῆκεν·"
+    },
+    {
+      "n": 228,
+      "greek": "ἄλλος γάρ τʼ ἄλλοισιν ἀνὴρ ἐπιτέρπεται ἔργοις."
+    },
+    {
+      "n": 229,
+      "greek": "πρὶν μὲν γὰρ Τροίης ἐπιβήμεναι υἷας Ἀχαιῶν"
+    },
+    {
+      "n": 230,
+      "greek": "εἰνάκις ἀνδράσιν ἦρξα καὶ ὠκυπόροισι νέεσσιν"
+    },
+    {
+      "n": 231,
+      "greek": "ἄνδρας ἐς ἀλλοδαπούς, καί μοι μάλα τύγχανε πολλά."
+    },
+    {
+      "n": 232,
+      "greek": "τῶν ἐξαιρεύμην μενοεικέα, πολλὰ δʼ ὀπίσσω"
+    },
+    {
+      "n": 233,
+      "greek": "λάγχανον· αἶψα δὲ οἶκος ὀφέλλετο, καί ῥα ἔπειτα"
+    },
+    {
+      "n": 234,
+      "greek": "δεινός τʼ αἰδοῖός τε μετὰ Κρήτεσσι τετύγμην."
+    },
+    {
+      "n": 235,
+      "greek": "ἀλλʼ ὅτε δὴ τήν γε στυγερὴν ὁδὸν εὐρύοπα Ζεὺς"
+    },
+    {
+      "n": 236,
+      "greek": "ἐφράσαθʼ, ἣ πολλῶν ἀνδρῶν ὑπὸ γούνατʼ ἔλυσε,"
+    },
+    {
+      "n": 237,
+      "greek": "δὴ τότʼ ἔμʼ ἤνωγον καὶ ἀγακλυτὸν Ἰδομενῆα"
+    },
+    {
+      "n": 238,
+      "greek": "νήεσσʼ ἡγήσασθαι ἐς Ἴλιον· οὐδέ τι μῆχος"
+    },
+    {
+      "n": 239,
+      "greek": "ἦεν ἀνήνασθαι, χαλεπὴ δʼ ἔχε δήμου φῆμις."
+    },
+    {
+      "n": 240,
+      "greek": "ἔνθα μὲν εἰνάετες πολεμίζομεν υἷες Ἀχαιῶν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "and wars, and polished spears, and arrows,—grievous things, whereat others are wont to shudder. But those things, I ween, were dear to me, which a god put in my heart; for different men take joy in different works. For before the sons of the Achaeans set foot on the land of Troy,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "I had nine times led warriors and swift-faring ships against foreign folk, and great spoil had ever fallen to my hands. Of this I would choose what pleased my mind, and much I afterwards obtained by lot. Thus my house straightway grew rich, and thereafter I became one feared and honored among the Cretans."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "“But when Zeus, whose voice is borne afar, devised that hateful journey which loosened the knees of many a warrior, then they bade me and glorious Idomeneus to lead the ships to Ilios, nor was there any way to refuse, for the voice of the people pressed hard upon us."
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "There for nine years we sons of the Achaeans warred, and in the tenth we sacked the city of Priam, and set out for home in our ships, and a god scattered the Achaeans. But for me, wretched man that I was, Zeus, the counsellor, devised evil. For a month only I remained, taking joy in my children,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "πὰρ δὲ κύνες, θήρεσσιν ἐοικότες αἰὲν ἴαυον"
+    },
+    {
+      "n": 22,
+      "greek": "τέσσαρες, οὓς ἔθρεψε συβώτης, ὄρχαμος ἀνδρῶν."
+    },
+    {
+      "n": 23,
+      "greek": "αὐτὸς δʼ ἀμφὶ πόδεσσιν ἑοῖς ἀράρισκε πέδιλα,"
+    },
+    {
+      "n": 24,
+      "greek": "τάμνων δέρμα βόειον ἐϋχροές· οἱ δὲ δὴ ἄλλοι"
+    },
+    {
+      "n": 25,
+      "greek": "ᾤχοντʼ ἄλλυδις ἄλλος ἅμʼ ἀγρομένοισι σύεσσιν,"
+    },
+    {
+      "n": 26,
+      "greek": "οἱ τρεῖς· τὸν δὲ τέταρτον ἀποπροέηκε πόλινδε"
+    },
+    {
+      "n": 27,
+      "greek": "σῦν ἀγέμεν μνηστῆρσιν ὑπερφιάλοισιν ἀνάγκῃ,"
+    },
+    {
+      "n": 28,
+      "greek": "ὄφρʼ ἱερεύσαντες κρειῶν κορεσαίατο θυμόν."
+    },
+    {
+      "n": 29,
+      "greek": "ἐξαπίνης δʼ Ὀδυσῆα ἴδον κύνες ὑλακόμωροι."
+    },
+    {
+      "n": 30,
+      "greek": "οἱ μὲν κεκλήγοντες ἐπέδραμον· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 31,
+      "greek": "ἕζετο κερδοσύνη, σκῆπτρον δέ οἱ ἔκπεσε χειρός."
+    },
+    {
+      "n": 32,
+      "greek": "ἔνθα κεν ᾧ πὰρ σταθμῷ ἀεικέλιον πάθεν ἄλγος·"
+    },
+    {
+      "n": 33,
+      "greek": "ἀλλὰ συβώτης ὦκα ποσὶ κραιπνοῖσι μετασπὼν"
+    },
+    {
+      "n": 34,
+      "greek": "ἔσσυτʼ ἀνὰ πρόθυρον, σκῦτος δέ οἱ ἔκπεσε χειρός."
+    },
+    {
+      "n": 35,
+      "greek": "τοὺς μὲν ὁμοκλήσας σεῦεν κύνας ἄλλυδις ἄλλον"
+    },
+    {
+      "n": 36,
+      "greek": "πυκνῇσιν λιθάδεσσιν· ὁ δὲ προσέειπεν ἄνακτα·"
+    },
+    {
+      "n": 37,
+      "greek": "ὦ γέρον, ἦ ὀλίγου σε κύνες διεδηλήσαντο"
+    },
+    {
+      "n": 38,
+      "greek": "ἐξαπίνης, καί κέν μοι ἐλεγχείην κατέχευας."
+    },
+    {
+      "n": 39,
+      "greek": "καὶ δέ μοι ἄλλα θεοὶ δόσαν ἄλγεά τε στοναχάς τε·"
+    },
+    {
+      "n": 40,
+      "greek": "ἀντιθέου γὰρ ἄνακτος ὀδυρόμενος καὶ ἀχεύων"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "had gone, three of them, one here one there, with the droves of swine; and the fourth he had sent to the city to drive perforce a boar to the insolent wooers, that they might slay it and satisfy their souls with meat. Suddenly then the baying hounds caught sight of Odysseus,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "and rushed upon him with loud barking, but Odysseus sat down in his cunning, and the staff fell from his hand. Then even in his own farmstead would he have suffered cruel hurt, but the swineherd with swift steps followed after them, and hastened through the gateway, and the hide fell from his hand."
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "He called aloud to the dogs, and drove them this way and that with a shower of stones, and spoke to his master, and said: “Old man, verily the dogs were like to have torn thee to pieces all of a sudden, and on me thou wouldest have shed reproach. Aye, and the gods have given me other griefs and sorrow."
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "It is for a godlike master that I mourn and grieve, as I abide here, and rear fat swine for other men to eat, while he haply in want of food wanders over the land and city of men of strange speech, if indeed he still lives and sees the light of the sun."
+    }
+  ]
+}

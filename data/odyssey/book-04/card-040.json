@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 40,
+  "lineStart": 781,
+  "lineEnd": 800,
+  "lines": [
+    {
+      "n": 781,
+      "greek": "ἐν δʼ ἱστόν τʼ ἐτίθεντο καὶ ἱστία νηὶ μελαίνῃ,"
+    },
+    {
+      "n": 782,
+      "greek": "ἠρτύναντο δʼ ἐρετμὰ τροποῖς ἐν δερματίνοισιν,"
+    },
+    {
+      "n": 783,
+      "greek": "πάντα κατὰ μοῖραν, ἀνά θʼ ἱστία λευκὰ πέτασσαν·"
+    },
+    {
+      "n": 784,
+      "greek": "τεύχεα δέ σφʼ ἤνεικαν ὑπέρθυμοι θεράποντες."
+    },
+    {
+      "n": 785,
+      "greek": "ὑψοῦ δʼ ἐν νοτίῳ τήν γʼ ὥρμισαν, ἐκ δʼ ἔβαν αὐτοί·"
+    },
+    {
+      "n": 786,
+      "greek": "ἔνθα δὲ δόρπον ἕλοντο, μένον δʼ ἐπὶ ἕσπερον ἐλθεῖν."
+    },
+    {
+      "n": 787,
+      "greek": "ἡ δʼ ὑπερωίῳ αὖθι περίφρων Πηνελόπεια"
+    },
+    {
+      "n": 788,
+      "greek": "κεῖτʼ ἄρʼ ἄσιτος, ἄπαστος ἐδητύος ἠδὲ ποτῆτος,"
+    },
+    {
+      "n": 789,
+      "greek": "ὁρμαίνουσʼ ἤ οἱ θάνατον φύγοι υἱὸς ἀμύμων,"
+    },
+    {
+      "n": 790,
+      "greek": "ἦ ὅ γʼ ὑπὸ μνηστῆρσιν ὑπερφιάλοισι δαμείη."
+    },
+    {
+      "n": 791,
+      "greek": "ὅσσα δὲ μερμήριξε λέων ἀνδρῶν ἐν ὁμίλῳ"
+    },
+    {
+      "n": 792,
+      "greek": "δείσας, ὁππότε μιν δόλιον περὶ κύκλον ἄγωσι,"
+    },
+    {
+      "n": 793,
+      "greek": "τόσσα μιν ὁρμαίνουσαν ἐπήλυθε νήδυμος ὕπνος·"
+    },
+    {
+      "n": 794,
+      "greek": "εὗδε δʼ ἀνακλινθεῖσα, λύθεν δέ οἱ ἅψεα πάντα."
+    },
+    {
+      "n": 795,
+      "greek": "ἔνθʼ αὖτʼ ἄλλʼ ἐνόησε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 796,
+      "greek": "εἴδωλον ποίησε, δέμας δʼ ἤικτο γυναικί,"
+    },
+    {
+      "n": 797,
+      "greek": "Ἰφθίμῃ, κούρῃ μεγαλήτορος Ἰκαρίοιο,"
+    },
+    {
+      "n": 798,
+      "greek": "τὴν Εὔμηλος ὄπυιε Φερῇς ἔνι οἰκία ναίων."
+    },
+    {
+      "n": 799,
+      "greek": "πέμπε δέ μιν πρὸς δώματʼ Ὀδυσσῆος θείοιο,"
+    },
+    {
+      "n": 800,
+      "greek": "ἧος Πηνελόπειαν ὀδυρομένην γοόωσαν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        785,
+        789
+      ],
+      "text": "Well out in the roadstead they moored the ship, and themselves disembarked. There then they took supper, and waited till evening should come. But she, the wise Penelope, lay there in her upper chamber, touching no food, tasting neither meat nor drink, pondering whether her peerless son would escape death,"
+    },
+    {
+      "lines": [
+        790,
+        794
+      ],
+      "text": "or be slain by the insolent wooers. And even as a lion is seized with fear and broods amid a throng of men, when they draw their crafty ring about him, so was she pondering when sweet sleep came upon her. And she sank back and slept, and all her joints relaxed."
+    },
+    {
+      "lines": [
+        795,
+        799
+      ],
+      "text": "Then the goddess, flashing-eyed Athena, took other counsel. She made a phantom, and likened it in form to a woman, Iphthime, daughter of great-hearted Icarius, whom Eumelus wedded, whose home was in Pherae. And she sent it to the house of divine Odysseus,"
+    },
+    {
+      "lines": [
+        800,
+        800
+      ],
+      "text": "to Penelope in the midst of her wailing and lamenting, to bid her cease from weeping and tearful lamentation. So into the chamber it passed by the thong of the bolt, and stood above her head, and spoke to her, and said: “Sleepest thou, Penelope, thy heart sore stricken?"
+    }
+  ]
+}

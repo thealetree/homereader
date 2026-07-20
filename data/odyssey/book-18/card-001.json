@@ -1,0 +1,129 @@
+{
+  "book": 18,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "ἦλθε δʼ ἐπὶ πτωχὸς πανδήμιος, ὃς κατὰ ἄστυ"
+    },
+    {
+      "n": 2,
+      "greek": "πτωχεύεσκʼ Ἰθάκης, μετὰ δʼ ἔπρεπε γαστέρι μάργῃ"
+    },
+    {
+      "n": 3,
+      "greek": "ἀζηχὲς φαγέμεν καὶ πιέμεν· οὐδέ οἱ ἦν ἲς"
+    },
+    {
+      "n": 4,
+      "greek": "οὐδὲ βίη, εἶδος δὲ μάλα μέγας ἦν ὁράασθαι."
+    },
+    {
+      "n": 5,
+      "greek": "Ἀρναῖος δʼ ὄνομʼ ἔσκε· τὸ γὰρ θέτο πότνια μήτηρ"
+    },
+    {
+      "n": 6,
+      "greek": "ἐκ γενετῆς· Ἶρον δὲ νέοι κίκλησκον ἅπαντες,"
+    },
+    {
+      "n": 7,
+      "greek": "οὕνεκʼ ἀπαγγέλλεσκε κιών, ὅτε πού τις ἀνώγοι·"
+    },
+    {
+      "n": 8,
+      "greek": "ὅς ῥʼ ἐλθὼν Ὀδυσῆα διώκετο οἷο δόμοιο,"
+    },
+    {
+      "n": 9,
+      "greek": "καί μιν νεικείων ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 10,
+      "greek": "εἶκε, γέρον, προθύρου, μὴ δὴ τάχα καὶ ποδὸς ἕλκῃ."
+    },
+    {
+      "n": 11,
+      "greek": "οὐκ ἀΐεις ὅτι δή μοι ἐπιλλίζουσιν ἅπαντες,"
+    },
+    {
+      "n": 12,
+      "greek": "ἑλκέμεναι δὲ κέλονται; ἐγὼ δʼ αἰσχύνομαι ἔμπης."
+    },
+    {
+      "n": 13,
+      "greek": "ἀλλʼ ἄνα, μὴ τάχα νῶϊν ἔρις καὶ χερσὶ γένηται."
+    },
+    {
+      "n": 14,
+      "greek": "τὸν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 15,
+      "greek": "δαιμόνιʼ, οὔτε τί σε ῥέζω κακὸν οὔτʼ ἀγορεύω,"
+    },
+    {
+      "n": 16,
+      "greek": "οὔτε τινὰ φθονέω δόμεναι καὶ πόλλʼ ἀνελόντα."
+    },
+    {
+      "n": 17,
+      "greek": "οὐδὸς δʼ ἀμφοτέρους ὅδε χείσεται, οὐδέ τί σε χρὴ"
+    },
+    {
+      "n": 18,
+      "greek": "ἀλλοτρίων φθονέειν· δοκέεις δέ μοι εἶναι ἀλήτης"
+    },
+    {
+      "n": 19,
+      "greek": "ὥς περ ἐγών, ὄλβον δὲ θεοὶ μέλλουσιν ὀπάζειν."
+    },
+    {
+      "n": 20,
+      "greek": "χερσὶ δὲ μή τι λίην προκαλίζεο, μή με χολώσῃς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "Now there came up a public beggar who was wont to beg through the town of Ithaca, and was known for his greedy belly, eating and drinking without end. No strength had he nor might, but in bulk was big indeed to look upon."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "Arnaeus was his name, for this name his honored mother had given him at his birth; but Irus all the young men called him, because he used to run on errands when anyone bade him. He came now, and was for driving Odysseus from his own house; and he began to revile him, and spoke winged words:"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "“Give way, old man, from the doorway, lest soon thou be even dragged out by the foot. Dost thou not see that all men are winking at me, and bidding me drag thee? Yet for myself, I am ashamed to do it. Nay, up with thee, lest our quarrel even come to blows.” Then with an angry glance from beneath his brows Odysseus of many wiles answered him:"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "“Good fellow, I harm thee not in deed or word, nor do I begrudge that any man should give thee, though the portion he took up were a large one. This threshold will hold us both, and thou hast no need to be jealous for the goods of other folk. Thou seemest to me to be a vagrant, even as I am; and as for happy fortune, it is the gods that are like to give us that."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "But with thy fists do not provoke me overmuch, lest thou anger me, and, old man though I am, I befoul thy breast and lips with blood. So should I have the greater peace tomorrow, for I deem not that thou shalt return a second time to the hall of Odysseus, son of Laertes.”"
+    }
+  ]
+}

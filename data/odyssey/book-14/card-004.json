@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "οἱ νέοι. ἦ γὰρ τοῦ γε θεοὶ κατὰ νόστον ἔδησαν,"
+    },
+    {
+      "n": 62,
+      "greek": "ὅς κεν ἔμʼ ἐνδυκέως ἐφίλει καὶ κτῆσιν ὄπασσεν,"
+    },
+    {
+      "n": 64,
+      "greek": "οἶκόν τε κλῆρόν τε πολυμνήστην τε γυναῖκα,"
+    },
+    {
+      "n": 63,
+      "greek": "οἷά τε ᾧ οἰκῆϊ ἄναξ εὔθυμος ἔδωκεν,"
+    },
+    {
+      "n": 65,
+      "greek": "ὅς οἱ πολλὰ κάμῃσι, θεὸς δʼ ἐπὶ ἔργον ἀέξῃ,"
+    },
+    {
+      "n": 66,
+      "greek": "ὡς καὶ ἐμοὶ τόδε ἔργον ἀέξεται, ᾧ ἐπιμίμνω."
+    },
+    {
+      "n": 67,
+      "greek": "τῷ κέ με πόλλʼ ὤνησεν ἄναξ, εἰ αὐτόθʼ ἐγήρα·"
+    },
+    {
+      "n": 68,
+      "greek": "ἀλλʼ ὄλεθʼ—ὡς ὤφελλʼ Ἑλένης ἀπὸ φῦλον ὀλέσθαι"
+    },
+    {
+      "n": 69,
+      "greek": "πρόχνυ, ἐπεὶ πολλῶν ἀνδρῶν ὑπὸ γούνατʼ ἔλυσε·"
+    },
+    {
+      "n": 70,
+      "greek": "καὶ γὰρ κεῖνος ἔβη Ἀγαμέμνονος εἵνεκα τιμῆς"
+    },
+    {
+      "n": 71,
+      "greek": "Ἴλιον εἰς εὔπωλον, ἵνα Τρώεσσι μάχοιτο."
+    },
+    {
+      "n": 72,
+      "greek": "ὣς εἰπὼν ζωστῆρι θοῶς συνέεργε χιτῶνα,"
+    },
+    {
+      "n": 73,
+      "greek": "βῆ δʼ ἴμεν ἐς συφεούς, ὅθι ἔθνεα ἔρχατο χοίρων."
+    },
+    {
+      "n": 74,
+      "greek": "ἔνθεν ἑλὼν δύʼ ἔνεικε καὶ ἀμφοτέρους ἱέρευσεν,"
+    },
+    {
+      "n": 75,
+      "greek": "εὗσέ τε μίστυλλέν τε καὶ ἀμφʼ ὀβελοῖσιν ἔπειρεν."
+    },
+    {
+      "n": 76,
+      "greek": "ὀπτήσας δʼ ἄρα πάντα φέρων παρέθηκʼ Ὀδυσῆϊ"
+    },
+    {
+      "n": 77,
+      "greek": "θέρμʼ αὐτοῖς ὀβελοῖσιν· ὁ δʼ ἄλφιτα λευκὰ πάλυνεν·"
+    },
+    {
+      "n": 78,
+      "greek": "ἐν δʼ ἄρα κισσυβίῳ κίρνη μελιηδέα οἶνον,"
+    },
+    {
+      "n": 79,
+      "greek": "αὐτὸς δʼ ἀντίον ἷζεν, ἐποτρύνων δὲ προσηύδα·"
+    },
+    {
+      "n": 80,
+      "greek": "ἔσθιε νῦν, ὦ ξεῖνε, τά τε δμώεσσι πάρεστι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "who has toiled much for him, and whose labour the god makes to prosper, even as this work of mine prospers, to which I give heed. Therefore would my master have richly rewarded me, if he had grown old here at home: but he perished—as I would all the kindred of Helen had perished in utter ruin, since she loosened the knees of many warriors."
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "For he too went forth to win recompense for Agamemnon to Ilios, famed for its horses, that he might fight with the Trojans.” So saying, he quickly bound up his tunic with his belt, and went to the sties, where the tribes of swine were penned. Choosing two from thence, he brought them in and slew them both,"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "and singed, and cut them up, and spitted them. Then, when he had roasted all, he brought and set it before Odysseus, hot upon the spits, and sprinkled over it white barley meal. Then in a bowl of ivy wood he mixed honey-sweet wine, and himself sat down over against Odysseus, and bade him to his food, and said:"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "“Eat now, stranger, such food as slaves have to offer, meat of young pigs; the fatted hogs the wooers eat, who reck not in their hearts of the wrath of the gods, nor have any pity. Verily the blessed gods love not reckless deeds, but they honor justice and the righteous deeds of men."
+    }
+  ]
+}

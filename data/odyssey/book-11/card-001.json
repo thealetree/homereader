@@ -1,0 +1,129 @@
+{
+  "book": 11,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐπὶ νῆα κατήλθομεν ἠδὲ θάλασσαν,"
+    },
+    {
+      "n": 2,
+      "greek": "νῆα μὲν ἂρ πάμπρωτον ἐρύσσαμεν εἰς ἅλα δῖαν,"
+    },
+    {
+      "n": 3,
+      "greek": "ἐν δʼ ἱστὸν τιθέμεσθα καὶ ἱστία νηὶ μελαίνῃ,"
+    },
+    {
+      "n": 4,
+      "greek": "ἐν δὲ τὰ μῆλα λαβόντες ἐβήσαμεν, ἂν δὲ καὶ αὐτοὶ"
+    },
+    {
+      "n": 5,
+      "greek": "βαίνομεν ἀχνύμενοι θαλερὸν κατὰ δάκρυ χέοντες."
+    },
+    {
+      "n": 6,
+      "greek": "ἡμῖν δʼ αὖ κατόπισθε νεὸς κυανοπρῴροιο"
+    },
+    {
+      "n": 7,
+      "greek": "ἴκμενον οὖρον ἵει πλησίστιον, ἐσθλὸν ἑταῖρον,"
+    },
+    {
+      "n": 8,
+      "greek": "Κίρκη εὐπλόκαμος, δεινὴ θεὸς αὐδήεσσα."
+    },
+    {
+      "n": 9,
+      "greek": "ἡμεῖς δʼ ὅπλα ἕκαστα πονησάμενοι κατὰ νῆα"
+    },
+    {
+      "n": 10,
+      "greek": "ἥμεθα· τὴν δʼ ἄνεμός τε κυβερνήτης τʼ ἴθυνε."
+    },
+    {
+      "n": 11,
+      "greek": "τῆς δὲ πανημερίης τέταθʼ ἱστία ποντοπορούσης·"
+    },
+    {
+      "n": 12,
+      "greek": "δύσετό τʼ ἠέλιος σκιόωντό τε πᾶσαι ἀγυιαί."
+    },
+    {
+      "n": 13,
+      "greek": "ἡ δʼ ἐς πείραθʼ ἵκανε βαθυρρόου Ὠκεανοῖο."
+    },
+    {
+      "n": 14,
+      "greek": "ἔνθα δὲ Κιμμερίων ἀνδρῶν δῆμός τε πόλις τε,"
+    },
+    {
+      "n": 15,
+      "greek": "ἠέρι καὶ νεφέλῃ κεκαλυμμένοι· οὐδέ ποτʼ αὐτοὺς"
+    },
+    {
+      "n": 16,
+      "greek": "ἠέλιος φαέθων καταδέρκεται ἀκτίνεσσιν,"
+    },
+    {
+      "n": 17,
+      "greek": "οὔθʼ ὁπότʼ ἂν στείχῃσι πρὸς οὐρανὸν ἀστερόεντα,"
+    },
+    {
+      "n": 18,
+      "greek": "οὔθʼ ὅτʼ ἂν ἂψ ἐπὶ γαῖαν ἀπʼ οὐρανόθεν προτράπηται,"
+    },
+    {
+      "n": 19,
+      "greek": "ἀλλʼ ἐπὶ νὺξ ὀλοὴ τέταται δειλοῖσι βροτοῖσι."
+    },
+    {
+      "n": 20,
+      "greek": "νῆα μὲν ἔνθʼ ἐλθόντες ἐκέλσαμεν, ἐκ δὲ τὰ μῆλα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "“But when we had come down to the ship and to the sea, first of all we drew the ship down to the bright sea, and set the mast and sail in the black ship, and took the sheep and put them aboard,"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "and ourselves embarked, sorrowing, and shedding big tears. And for our aid in the wake of our dark-prowed ship a fair wind that filled the sail, a goodly comrade, was sent by fair-tressed Circe, dread goddess of human speech. So when we had made fast all the tackling throughout the ship,"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "we sat down, and the wind and the helms man made straight her course. All the day long her sail was stretched as she sped over the sea; and the sun set and all the ways grew dark. “She came to deep-flowing Oceanus, that bounds the Earth, where is the land and city of the Cimmerians,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "wrapped in mist and cloud. Never does the bright sun look down on them with his rays either when he mounts the starry heaven or when he turns again to earth from heaven, but baneful night is spread over wretched mortals."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "Thither we came and beached our ship, and took out the sheep, and ourselves went beside the stream of Oceanus until we came to the place of which Circe had told us. “Here Perimedes and Eurylochus held the victims, while I drew my sharp sword from beside my thigh,"
+    }
+  ]
+}

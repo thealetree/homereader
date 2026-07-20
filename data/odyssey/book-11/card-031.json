@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 31,
+  "lineStart": 601,
+  "lineEnd": 620,
+  "lines": [
+    {
+      "n": 601,
+      "greek": "τὸν δὲ μετʼ εἰσενόησα βίην Ἡρακληείην,"
+    },
+    {
+      "n": 602,
+      "greek": "εἴδωλον· αὐτὸς δὲ μετʼ ἀθανάτοισι θεοῖσι"
+    },
+    {
+      "n": 603,
+      "greek": "τέρπεται ἐν θαλίῃς καὶ ἔχει καλλίσφυρον Ἥβην,"
+    },
+    {
+      "n": 604,
+      "greek": "παῖδα Διὸς μεγάλοιο καὶ Ἥρης χρυσοπεδίλου."
+    },
+    {
+      "n": 605,
+      "greek": "ἀμφὶ δέ μιν κλαγγὴ νεκύων ἦν οἰωνῶν ὥς,"
+    },
+    {
+      "n": 606,
+      "greek": "πάντοσʼ ἀτυζομένων· ὁ δʼ ἐρεμνῇ νυκτὶ ἐοικώς,"
+    },
+    {
+      "n": 607,
+      "greek": "γυμνὸν τόξον ἔχων καὶ ἐπὶ νευρῆφιν ὀιστόν,"
+    },
+    {
+      "n": 608,
+      "greek": "δεινὸν παπταίνων, αἰεὶ βαλέοντι ἐοικώς."
+    },
+    {
+      "n": 609,
+      "greek": "σμερδαλέος δέ οἱ ἀμφὶ περὶ στήθεσσιν ἀορτὴρ"
+    },
+    {
+      "n": 610,
+      "greek": "χρύσεος ἦν τελαμών, ἵνα θέσκελα ἔργα τέτυκτο,"
+    },
+    {
+      "n": 611,
+      "greek": "ἄρκτοι τʼ ἀγρότεροί τε σύες χαροποί τε λέοντες,"
+    },
+    {
+      "n": 612,
+      "greek": "ὑσμῖναί τε μάχαι τε φόνοι τʼ ἀνδροκτασίαι τε."
+    },
+    {
+      "n": 613,
+      "greek": "μὴ τεχνησάμενος μηδʼ ἄλλο τι τεχνήσαιτο,"
+    },
+    {
+      "n": 614,
+      "greek": "ὃς κεῖνον τελαμῶνα ἑῇ ἐγκάτθετο τέχνῃ."
+    },
+    {
+      "n": 615,
+      "greek": "ἔγνω δʼ αὖτʼ ἔμʼ ἐκεῖνος, ἐπεὶ ἴδεν ὀφθαλμοῖσιν,"
+    },
+    {
+      "n": 616,
+      "greek": "καί μʼ ὀλοφυρόμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 617,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 618,
+      "greek": "ἆ δείλʼ, ἦ τινὰ καὶ σὺ κακὸν μόρον ἡγηλάζεις,"
+    },
+    {
+      "n": 619,
+      "greek": "ὅν περ ἐγὼν ὀχέεσκον ὑπʼ αὐγὰς ἠελίοιο."
+    },
+    {
+      "n": 620,
+      "greek": "Ζηνὸς μὲν πάϊς ἦα Κρονίονος, αὐτὰρ ὀιζὺν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        605,
+        609
+      ],
+      "text": "About him rose a clamor from the dead, as of birds flying everywhere in terror; and he like dark night, with his bow bare and with arrow on the string, glared about him terribly, like one in act to shoot. Awful was the belt about his breast,"
+    },
+    {
+      "lines": [
+        610,
+        614
+      ],
+      "text": "a baldric of gold, whereon wondrous things were fashioned, bears and wild boars, and lions with flashing eyes, and conflicts, and battles, and murders, and slayings of men. May he never have designed, or hereafter design such another, even he who stored up in his craft the device of that belt."
+    },
+    {
+      "lines": [
+        615,
+        619
+      ],
+      "text": "He in turn knew me when his eyes beheld me, and weeping spoke to me winged words: “‘Son of Laertes, sprung from Zeus, Odysseus of many devices, ah, wretched man, dost thou, too, drag out an evil lot such as I once bore beneath the rays of the sun?"
+    },
+    {
+      "lines": [
+        620,
+        620
+      ],
+      "text": "I was the son of Zeus, son of Cronos, but I had woe beyond measure; for to a man far worse than I was I made subject, and he laid on me hard labours. Yea, he once sent me hither to fetch the hound of Hades, for he could devise for me no other task mightier than this."
+    }
+  ]
+}

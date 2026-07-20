@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 15,
+  "lineStart": 282,
+  "lineEnd": 301,
+  "lines": [
+    {
+      "n": 282,
+      "greek": "ἀβληχρὸς μάλα τοῖος ἐλεύσεται, ὅς κέ με πέφνῃ"
+    },
+    {
+      "n": 283,
+      "greek": "γήρα’ ὕπο λιπαρῷ ἀρημένον· ἀμφὶ δὲ λαοὶ"
+    },
+    {
+      "n": 284,
+      "greek": "ὄλβιοι ἔσσονται· τὰ δέ μοι φάτο πάντα τελεῖσθαι."
+    },
+    {
+      "n": 285,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 286,
+      "greek": "εἰ μὲν δὴ γῆράς γε θεοὶ τελέουσιν ἄρειον,"
+    },
+    {
+      "n": 287,
+      "greek": "ἐλπωρή τοι ἔπειτα κακῶν ὑπάλυξιν ἔσεσθαι."
+    },
+    {
+      "n": 288,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον·"
+    },
+    {
+      "n": 289,
+      "greek": "τόφρα δʼ ἄρʼ Εὐρυνόμη τε ἰδὲ τροφὸς ἔντυον εὐνὴν"
+    },
+    {
+      "n": 290,
+      "greek": "ἐσθῆτος μαλακῆς, δαΐδων ὕπο λαμπομενάων."
+    },
+    {
+      "n": 291,
+      "greek": "αὐτὰρ ἐπεὶ στόρεσαν πυκινὸν λέχος ἐγκονέουσαι,"
+    },
+    {
+      "n": 292,
+      "greek": "γρηῢς μὲν κείουσα πάλιν οἶκόνδε βεβήκει,"
+    },
+    {
+      "n": 293,
+      "greek": "τοῖσιν δʼ Εὐρυνόμη θαλαμηπόλος ἡγεμόνευεν"
+    },
+    {
+      "n": 294,
+      "greek": "ἐρχομένοισι λέχοσδε, δάος μετὰ χερσὶν ἔχουσα·"
+    },
+    {
+      "n": 295,
+      "greek": "ἐς θάλαμον δʼ ἀγαγοῦσα πάλιν κίεν. οἱ μὲν ἔπειτα"
+    },
+    {
+      "n": 296,
+      "greek": "ἀσπάσιοι λέκτροιο παλαιοῦ θεσμὸν ἵκοντο·"
+    },
+    {
+      "n": 297,
+      "greek": "αὐτὰρ Τηλέμαχος καὶ βουκόλος ἠδὲ συβώτης"
+    },
+    {
+      "n": 298,
+      "greek": "παῦσαν ἄρʼ ὀρχηθμοῖο πόδας, παῦσαν δὲ γυναῖκας,"
+    },
+    {
+      "n": 299,
+      "greek": "αὐτοὶ δʼ εὐνάζοντο κατὰ μέγαρα σκιόεντα."
+    },
+    {
+      "n": 300,
+      "greek": "τὼ δʼ ἐπεὶ οὖν φιλότητος ἐταρπήτην ἐρατεινῆς,"
+    },
+    {
+      "n": 301,
+      "greek": "τερπέσθην μύθοισι, πρὸς ἀλλήλους ἐνέποντε,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "Then wise Penelope answered him: “If verily the gods are to bring about for thee a happier old age, there is hope then that thou wilt find an escape from evil.” Thus they spoke to one another; and meanwhile Eurynome and the nurse made ready the bed"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "of soft coverlets by the light of blazing torches. But when they had busily spread the stout-built bedstead, the old nurse went back to her chamber to lie down, and Eurynome, the maiden of the bedchamber, led them on their way to the couch with a torch in her hands;"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "and when she had led them to the bridal chamber, she went back. And they then gladly came to the place of the couch that was theirs of old. But Telemachus and the neatherd and the swineherd stayed their feet from dancing, and stayed the women, and themselves lay down to sleep throughout the shadowy halls."
+    },
+    {
+      "lines": [
+        300,
+        301
+      ],
+      "text": "But when the two had had their fill of the joy of love, they took delight in tales, speaking each to the other. She, the fair lady, told of all that she had endured in the halls, looking upon the destructive throng of the wooers, who for her sake"
+    }
+  ]
+}

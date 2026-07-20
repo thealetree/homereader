@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "ἦε φιλόξεινοι καί σφιν νόος ἐστὶ θεουδής;"
+    },
+    {
+      "n": 122,
+      "greek": "ὥς τέ με κουράων ἀμφήλυθε θῆλυς ἀυτή·"
+    },
+    {
+      "n": 123,
+      "greek": "νυμφάων, αἳ ἔχουσʼ ὀρέων αἰπεινὰ κάρηνα"
+    },
+    {
+      "n": 124,
+      "greek": "καὶ πηγὰς ποταμῶν καὶ πίσεα ποιήεντα."
+    },
+    {
+      "n": 125,
+      "greek": "ἦ νύ που ἀνθρώπων εἰμὶ σχεδὸν αὐδηέντων;"
+    },
+    {
+      "n": 126,
+      "greek": "ἀλλʼ ἄγʼ ἐγὼν αὐτὸς πειρήσομαι ἠδὲ ἴδωμαι."
+    },
+    {
+      "n": 127,
+      "greek": "ὣς εἰπὼν θάμνων ὑπεδύσετο δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 128,
+      "greek": "ἐκ πυκινῆς δʼ ὕλης πτόρθον κλάσε χειρὶ παχείῃ"
+    },
+    {
+      "n": 129,
+      "greek": "φύλλων, ὡς ῥύσαιτο περὶ χροῒ μήδεα φωτός."
+    },
+    {
+      "n": 130,
+      "greek": "βῆ δʼ ἴμεν ὥς τε λέων ὀρεσίτροφος ἀλκὶ πεποιθώς,"
+    },
+    {
+      "n": 131,
+      "greek": "ὅς τʼ εἶσʼ ὑόμενος καὶ ἀήμενος, ἐν δέ οἱ ὄσσε"
+    },
+    {
+      "n": 132,
+      "greek": "δαίεται· αὐτὰρ ὁ βουσὶ μετέρχεται ἢ ὀίεσσιν"
+    },
+    {
+      "n": 133,
+      "greek": "ἠὲ μετʼ ἀγροτέρας ἐλάφους· κέλεται δέ ἑ γαστὴρ"
+    },
+    {
+      "n": 134,
+      "greek": "μήλων πειρήσοντα καὶ ἐς πυκινὸν δόμον ἐλθεῖν·"
+    },
+    {
+      "n": 135,
+      "greek": "ὣς Ὀδυσεὺς κούρῃσιν ἐυπλοκάμοισιν ἔμελλε"
+    },
+    {
+      "n": 136,
+      "greek": "μίξεσθαι, γυμνός περ ἐών· χρειὼ γὰρ ἵκανε."
+    },
+    {
+      "n": 137,
+      "greek": "σμερδαλέος δʼ αὐτῇσι φάνη κεκακωμένος ἅλμῃ,"
+    },
+    {
+      "n": 138,
+      "greek": "τρέσσαν δʼ ἄλλυδις ἄλλη ἐπʼ ἠιόνας προὐχούσας·"
+    },
+    {
+      "n": 139,
+      "greek": "οἴη δʼ Ἀλκινόου θυγάτηρ μένε· τῇ γὰρ Ἀθήνη"
+    },
+    {
+      "n": 140,
+      "greek": "θάρσος ἐνὶ φρεσὶ θῆκε καὶ ἐκ δέος εἵλετο γυίων."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "Can it be that I am somewhere near men of human speech? Nay, I will myself make trial and see.” So saying the goodly Odysseus came forth from beneath the bushes, and with his stout hand he broke from the thick wood a leafy branch, that he might hold it about him and hide therewith his nakedness."
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "Forth he came like a mountain-nurtured lion trusting in his might, who goes forth, beaten with rain and wind, but his two eyes are ablaze: into the midst of the kine he goes, or of the sheep, or on the track of the wild deer, and his belly bids him go even into the close-built fold, to make an attack upon the flocks."
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "Even so Odysseus was about to enter the company of the fair-tressed maidens, naked though he was, for need had come upon him. But terrible did he seem to them, all befouled with brine, and they shrank in fear, one here, one there, along the jutting sand-spits. Alone the daughter of Alcinous kept her place, for"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "in her heart Athena put courage, and took fear from her limbs. She fled not, but stood and faced him; and Odysseus pondered whether he should clasp the knees of the fair-faced maid, and make his prayer, or whether, standing apart as he was, he should beseech her with gentle words, in hope that she might show him the city and give him raiment."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "book": 10,
+  "card": 29,
+  "lineStart": 562,
+  "lineEnd": 574,
+  "lines": [
+    {
+      "n": 562,
+      "greek": "φάσθε νύ που οἶκόνδε φίλην ἐς πατρίδα γαῖαν"
+    },
+    {
+      "n": 563,
+      "greek": "ἔρχεσθʼ· ἄλλην δʼ ἧμιν ὁδὸν τεκμήρατο Κίρκη,"
+    },
+    {
+      "n": 564,
+      "greek": "εἰς Ἀίδαο δόμους καὶ ἐπαινῆς Περσεφονείης"
+    },
+    {
+      "n": 565,
+      "greek": "ψυχῇ χρησομένους Θηβαίου Τειρεσίαο."
+    },
+    {
+      "n": 566,
+      "greek": "ὣς ἐφάμην, τοῖσιν δὲ κατεκλάσθη φίλον ἦτορ,"
+    },
+    {
+      "n": 567,
+      "greek": "ἑζόμενοι δὲ κατʼ αὖθι γόων τίλλοντό τε χαίτας·"
+    },
+    {
+      "n": 568,
+      "greek": "ἀλλʼ οὐ γάρ τις πρῆξις ἐγίγνετο μυρομένοισιν."
+    },
+    {
+      "n": 569,
+      "greek": "ἀλλʼ ὅτε δή ῥʼ ἐπὶ νῆα θοὴν καὶ θῖνα θαλάσσης"
+    },
+    {
+      "n": 570,
+      "greek": "ᾔομεν ἀχνύμενοι θαλερὸν κατὰ δάκρυ χέοντες,"
+    },
+    {
+      "n": 571,
+      "greek": "τόφρα δʼ ἄρʼ οἰχομένη Κίρκη παρὰ νηὶ μελαίνῃ"
+    },
+    {
+      "n": 572,
+      "greek": "ἀρνειὸν κατέδησεν ὄιν θῆλύν τε μέλαιναν,"
+    },
+    {
+      "n": 573,
+      "greek": "ῥεῖα παρεξελθοῦσα· τίς ἂν θεὸν οὐκ ἐθέλοντα"
+    },
+    {
+      "n": 574,
+      "greek": "ὀφθαλμοῖσιν ἴδοιτʼ ἢ ἔνθʼ ἢ ἔνθα κιόντα;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        565,
+        569
+      ],
+      "text": "to consult the spirit of Theban Teiresias.’ “So I spoke, and their spirit was broken within them, and sitting down right where they were, they wept and tore their hair. But no good came of their lamenting. “But when we were on our way to the swift ship and the shore of the sea,"
+    },
+    {
+      "lines": [
+        570,
+        574
+      ],
+      "text": "sorrowing and shedding big tears, meanwhile Circe had gone forth and made fast beside the black ship a ram and a black ewe, for easily had she passed us by. Who with his eyes could behold a god against his will, whether going to or fro?"
+    }
+  ]
+}

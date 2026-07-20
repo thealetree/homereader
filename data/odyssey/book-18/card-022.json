@@ -1,0 +1,53 @@
+{
+  "book": 18,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 428,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "Τηλεμάχῳ μελέμεν· τοῦ γὰρ φίλον ἵκετο δῶμα."
+    },
+    {
+      "n": 422,
+      "greek": "ὣς φάτο, τοῖσι δὲ πᾶσιν ἑαδότα μῦθον ἔειπε."
+    },
+    {
+      "n": 423,
+      "greek": "τοῖσιν δὲ κρητῆρα κεράσσατο Μούλιος ἥρως,"
+    },
+    {
+      "n": 424,
+      "greek": "κῆρυξ Δουλιχιεύς· θεράπων δʼ ἦν Ἀμφινόμοιο·"
+    },
+    {
+      "n": 425,
+      "greek": "νώμησεν δʼ ἄρα πᾶσιν ἐπισταδόν· οἱ δὲ θεοῖσι"
+    },
+    {
+      "n": 426,
+      "greek": "σπείσαντες μακάρεσσι πίον μελιηδέα οἶνον."
+    },
+    {
+      "n": 427,
+      "greek": "αὐτὰρ ἐπεὶ σπεῖσάν τʼ ἔπιόν θʼ ὅσον ἤθελε θυμός,"
+    },
+    {
+      "n": 428,
+      "greek": "βάν ῥʼ ἴμεναι κείοντες ἑὰ πρὸς δώμαθʼ ἕκαστος."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        428
+      ],
+      "text": "And he served out to all, coming up to each in turn; and they made libations to the blessed gods, and drank the honey-sweet wine. Then when they had made libations and had drunk to their heart's content, they went their way, each man to his own house, to take their rest."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 10,
+  "lineStart": 182,
+  "lineEnd": 201,
+  "lines": [
+    {
+      "n": 182,
+      "greek": "ὀχθήσας ἄλοχον προσεφώνεε κεδνὰ ἰδυῖαν·"
+    },
+    {
+      "n": 183,
+      "greek": "ὦ γύναι, ἦ μάλα τοῦτο ἔπος θυμαλγὲς ἔειπες·"
+    },
+    {
+      "n": 184,
+      "greek": "τίς δέ μοι ἄλλοσε θῆκε λέχος; χαλεπὸν δέ κεν εἴη"
+    },
+    {
+      "n": 185,
+      "greek": "καὶ μάλʼ ἐπισταμένῳ, ὅτε μὴ θεὸς αὐτὸς ἐπελθὼν"
+    },
+    {
+      "n": 186,
+      "greek": "ῥηϊδίως ἐθέλων θείη ἄλλῃ ἐνὶ χώρῃ."
+    },
+    {
+      "n": 187,
+      "greek": "ἀνδρῶν δʼ οὔ κέν τις ζωὸς βροτός, οὐδὲ μάλʼ ἡβῶν,"
+    },
+    {
+      "n": 188,
+      "greek": "ῥεῖα μετοχλίσσειεν, ἐπεὶ μέγα σῆμα τέτυκται"
+    },
+    {
+      "n": 189,
+      "greek": "ἐν λέχει ἀσκητῷ· τὸ δʼ ἐγὼ κάμον οὐδέ τις ἄλλος."
+    },
+    {
+      "n": 190,
+      "greek": "θάμνος ἔφυ τανύφυλλος ἐλαίης ἕρκεος ἐντός,"
+    },
+    {
+      "n": 191,
+      "greek": "ἀκμηνὸς θαλέθων· πάχετος δʼ ἦν ἠΰτε κίων."
+    },
+    {
+      "n": 192,
+      "greek": "τῷ δʼ ἐγὼ ἀμφιβαλὼν θάλαμον δέμον, ὄφρʼ ἐτέλεσσα,"
+    },
+    {
+      "n": 193,
+      "greek": "πυκνῇσιν λιθάδεσσι, καὶ εὖ καθύπερθεν ἔρεψα,"
+    },
+    {
+      "n": 194,
+      "greek": "κολλητὰς δʼ ἐπέθηκα θύρας, πυκινῶς ἀραρυίας."
+    },
+    {
+      "n": 195,
+      "greek": "καὶ τότʼ ἔπειτʼ ἀπέκοψα κόμην τανυφύλλου ἐλαίης,"
+    },
+    {
+      "n": 196,
+      "greek": "κορμὸν δʼ ἐκ ῥίζης προταμὼν ἀμφέξεσα χαλκῷ"
+    },
+    {
+      "n": 197,
+      "greek": "εὖ καὶ ἐπισταμένως, καὶ ἐπὶ στάθμην ἴθυνα,"
+    },
+    {
+      "n": 198,
+      "greek": "ἑρμῖνʼ ἀσκήσας, τέτρηνα δὲ πάντα τερέτρῳ."
+    },
+    {
+      "n": 199,
+      "greek": "ἐκ δὲ τοῦ ἀρχόμενος λέχος ἔξεον, ὄφρʼ ἐτέλεσσα,"
+    },
+    {
+      "n": 200,
+      "greek": "δαιδάλλων χρυσῷ τε καὶ ἀργύρῳ ἠδʼ ἐλέφαντι·"
+    },
+    {
+      "n": 201,
+      "greek": "ἐκ δʼ ἐτάνυσσα ἱμάντα βοὸς φοίνικι φαεινόν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "though never so skilled, unless a god himself should come and easily by his will set it in another place. But of men there is no mortal that lives, be he never so young and strong, who could easily pry it from its place, for a great token is wrought in the fashioned bed, and it was I that built it and none other."
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "A bush of long-leafed olive was growing within the court, strong and vigorous, and girth it was like a pillar. Round about this I built my chamber, till I had finished it, with close-set stones, and I roofed it over well, and added to it jointed doors, close-fitting."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "Thereafter I cut away the leafy branches of the long-leafed olive, and, trimming the trunk from the root, I smoothed it around with the adze well and cunningly, and made it straight to the line, thus fashioning the bed-post; and I bored it all with the augur. Beginning with this I hewed out my bed, till I had finished it,"
+    },
+    {
+      "lines": [
+        200,
+        201
+      ],
+      "text": "inlaying it with gold and silver and ivory, and I stretched on it a thong of ox-hide, bright with purple. Thus do I declare to thee this token; but I know not, woman, whether my bedstead is still fast in its place, or whether by now some man has cut from beneath the olive stump, and set the bedstead elsewhere.”"
+    }
+  ]
+}

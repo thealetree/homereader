@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "αἱ δʼ ἀπὸ μὲν σῖτον πολὺν ᾕρεον ἠδὲ τραπέζας"
+    },
+    {
+      "n": 62,
+      "greek": "καὶ δέπα, ἔνθεν ἄρʼ ἄνδρες ὑπερμενέοντες ἔπινον·"
+    },
+    {
+      "n": 63,
+      "greek": "πῦρ δʼ ἀπὸ λαμπτήρων χαμάδις βάλον, ἄλλα δʼ ἐπʼ αὐτῶν"
+    },
+    {
+      "n": 64,
+      "greek": "νήησαν ξύλα πολλά, φόως ἔμεν ἠδὲ θέρεσθαι."
+    },
+    {
+      "n": 65,
+      "greek": "ἡ δʼ Ὀδυσῆʼ ἐνένιπε Μελανθὼ δεύτερον αὖτις·"
+    },
+    {
+      "n": 66,
+      "greek": "ξεῖνʼ, ἔτι καὶ νῦν ἐνθάδʼ ἀνιήσεις διὰ νύκτα"
+    },
+    {
+      "n": 67,
+      "greek": "δινεύων κατὰ οἶκον, ὀπιπεύσεις δὲ γυναῖκας;"
+    },
+    {
+      "n": 68,
+      "greek": "ἀλλʼ ἔξελθε θύραζε, τάλαν, καὶ δαιτὸς ὄνησο·"
+    },
+    {
+      "n": 69,
+      "greek": "ἢ τάχα καὶ δαλῷ βεβλημένος εἶσθα θύραζε."
+    },
+    {
+      "n": 70,
+      "greek": "τὴν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 71,
+      "greek": "δαιμονίη, τί μοι ὧδʼ ἐπέχεις κεκοτηότι θυμῷ;"
+    },
+    {
+      "n": 72,
+      "greek": "ἦ ὅτι δὴ ῥυπόω, κακὰ δὲ χροῒ εἵματα εἷμαι,"
+    },
+    {
+      "n": 73,
+      "greek": "πτωχεύω δʼ ἀνὰ δῆμον; ἀναγκαίη γὰρ ἐπείγει."
+    },
+    {
+      "n": 74,
+      "greek": "τοιοῦτοι πτωχοὶ καὶ ἀλήμονες ἄνδρες ἔασι"
+    },
+    {
+      "n": 75,
+      "greek": "καὶ γὰρ ἐγώ ποτε οἶκον ἐν ἀνθρώποισιν ἔναιον"
+    },
+    {
+      "n": 76,
+      "greek": "ὄλβιος ἀφνειὸν καὶ πολλάκι δόσκον ἀλήτῃ,"
+    },
+    {
+      "n": 77,
+      "greek": "τοίῳ ὁποῖος ἔοι καὶ ὅτευ κεχρημένος ἔλθοι·"
+    },
+    {
+      "n": 78,
+      "greek": "ἦσαν δὲ δμῶες μάλα μυρίοι, ἄλλα τε πολλὰ"
+    },
+    {
+      "n": 79,
+      "greek": "οἷσίν τʼ εὖ ζώουσι καὶ ἀφνειοὶ καλέονται."
+    },
+    {
+      "n": 80,
+      "greek": "ἀλλὰ Ζεὺς ἀλάπαξε Κρονίων· ἤθελε γάρ που·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "But Melantho began again a second time to rate Odysseus, saying: “Stranger, wilt thou even now still be a plague to us through the night, roaming through the house, and wilt thou spy upon the women? Nay, get thee forth, thou wretch, and be content with thy supper, or straightway shalt thou even be smitten with a torch, and so go forth.”"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "Then with an angry glance from beneath his brows Odysseus of many wiles answered her: “Good woman, why, pray, dost thou thus assail me with angry heart? Is it because I am foul and wear mean raiment on my body, and beg through the land? Aye, for necessity compels me. Of such sort are beggars and vagabond folk."
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "For I too once dwelt in a house of my own among men, a rich man in a wealthy house, and full often I gave gifts to a wanderer, whosoever he was and with whatsoever need he came. Slaves too I had past counting and all other things in abundance whereby men live well and are reputed wealthy."
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "But Zeus, son of Cronos, brought all to naught; so, I ween, was his good pleasure. Wherefore, woman, beware lest thou too some day lose all the glory whereby thou now hast excellence among the handmaids; lest perchance thy mistress wax wroth and be angry with thee, or Odysseus come home; for there is yet room for hope."
+    }
+  ]
+}

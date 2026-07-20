@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ἀλλʼ ὅτε τόσσον ἀπῆμεν ὅσον τε γέγωνε βοήσας,"
+    },
+    {
+      "n": 182,
+      "greek": "ῥίμφα διώκοντες, τὰς δʼ οὐ λάθεν ὠκύαλος νηῦς"
+    },
+    {
+      "n": 183,
+      "greek": "ἐγγύθεν ὀρνυμένη, λιγυρὴν δʼ ἔντυνον ἀοιδήν·"
+    },
+    {
+      "n": 184,
+      "greek": "δεῦρʼ ἄγʼ ἰών, πολύαινʼ Ὀδυσεῦ, μέγα κῦδος Ἀχαιῶν,"
+    },
+    {
+      "n": 185,
+      "greek": "νῆα κατάστησον, ἵνα νωιτέρην ὄπ ἀκούσῃς."
+    },
+    {
+      "n": 186,
+      "greek": "οὐ γάρ πώ τις τῇδε παρήλασε νηὶ μελαίνῃ,"
+    },
+    {
+      "n": 187,
+      "greek": "πρίν γʼ ἡμέων μελίγηρυν ἀπὸ στομάτων ὄπʼ ἀκοῦσαι,"
+    },
+    {
+      "n": 188,
+      "greek": "ἀλλʼ ὅ γε τερψάμενος νεῖται καὶ πλείονα εἰδώς."
+    },
+    {
+      "n": 189,
+      "greek": "ἴδμεν γάρ τοι πάνθʼ ὅσʼ ἐνὶ Τροίῃ εὐρείῃ"
+    },
+    {
+      "n": 190,
+      "greek": "Ἀργεῖοι Τρῶές τε θεῶν ἰότητι μόγησαν,"
+    },
+    {
+      "n": 191,
+      "greek": "ἴδμεν δʼ, ὅσσα γένηται ἐπὶ χθονὶ πουλυβοτείρῃ."
+    },
+    {
+      "n": 192,
+      "greek": "ὣς φάσαν ἱεῖσαι ὄπα κάλλιμον· αὐτὰρ ἐμὸν κῆρ"
+    },
+    {
+      "n": 193,
+      "greek": "ἤθελʼ ἀκουέμεναι, λῦσαί τʼ ἐκέλευον ἑταίρους"
+    },
+    {
+      "n": 194,
+      "greek": "ὀφρύσι νευστάζων· οἱ δὲ προπεσόντες ἔρεσσον."
+    },
+    {
+      "n": 195,
+      "greek": "αὐτίκα δʼ ἀνστάντες Περιμήδης Εὐρύλοχός τε"
+    },
+    {
+      "n": 196,
+      "greek": "πλείοσί μʼ ἐν δεσμοῖσι δέον μᾶλλόν τε πίεζον."
+    },
+    {
+      "n": 197,
+      "greek": "αὐτὰρ ἐπεὶ δὴ τάς γε παρήλασαν, οὐδʼ ἔτʼ ἔπειτα"
+    },
+    {
+      "n": 198,
+      "greek": "φθογγῆς Σειρήνων ἠκούομεν οὐδέ τʼ ἀοιδῆς,"
+    },
+    {
+      "n": 199,
+      "greek": "αἶψʼ ἀπὸ κηρὸν ἕλοντο ἐμοὶ ἐρίηρες ἑταῖροι,"
+    },
+    {
+      "n": 200,
+      "greek": "ὅν σφιν ἐπʼ ὠσὶν ἄλειψʼ, ἐμέ τʼ ἐκ δεσμῶν ἀνέλυσαν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "stay thy ship that thou mayest listen to the voice of us two. For never yet has any man rowed past this isle in his black ship until he has heard the sweet voice from our lips. Nay, he has joy of it, and goes his way a wiser man. For we know all the toils that in wide Troy"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "the Argives and Trojans endured through the will of the gods, and we know all things that come to pass upon the fruitful earth.’ “So they spoke, sending forth their beautiful voice, and my heart was fain to listen, and I bade my comrades loose me, nodding to them with my brows; but they fell to their oars and rowed on."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "And presently Perimedes and Eurylochus arose and bound me with yet more bonds and drew them tighter. But when they had rowed past the Sirens, and we could no more hear their voice or their song, then straightway my trusty comrades took away the"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "wax with which I had anointed their ears and loosed me from my bonds. “But when we had left the island, I presently saw smoke and a great billow, and heard a booming. Then from the hands of my men in their terror the oars flew, and splashed one and all in the swirl, and"
+    }
+  ]
+}

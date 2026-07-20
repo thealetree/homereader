@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "εἰ γάρ τίς μʼ ἄλλη γε γυναικῶν, αἵ μοι ἔασι,"
+    },
+    {
+      "n": 22,
+      "greek": "ταῦτʼ ἐλθοῦσʼ ἤγγειλε καὶ ἐξ ὕπνου ἀνέγειρεν,"
+    },
+    {
+      "n": 23,
+      "greek": "τῷ κε τάχα στυγερῶς μιν ἐγὼν ἀπέπεμψα νέεσθαι"
+    },
+    {
+      "n": 24,
+      "greek": "αὖτις ἔσω μέγαρον· σὲ δὲ τοῦτό γε γῆρας ὀνήσει."
+    },
+    {
+      "n": 25,
+      "greek": "τὴν δʼ αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·"
+    },
+    {
+      "n": 26,
+      "greek": "οὔ τί σε λωβεύω, τέκνον φίλον, ἀλλʼ ἔτυμόν τοι"
+    },
+    {
+      "n": 27,
+      "greek": "ἦλθʼ Ὀδυσεὺς καὶ οἶκον ἱκάνεται, ὡς ἀγορεύω,"
+    },
+    {
+      "n": 28,
+      "greek": "ὁ ξεῖνος, τὸν πάντες ἀτίμων ἐν μεγάροισι."
+    },
+    {
+      "n": 29,
+      "greek": "Τηλέμαχος δʼ ἄρα μιν πάλαι ᾔδεεν ἔνδον ἐόντα,"
+    },
+    {
+      "n": 30,
+      "greek": "ἀλλὰ σαοφροσύνῃσι νοήματα πατρὸς ἔκευθεν,"
+    },
+    {
+      "n": 31,
+      "greek": "ὄφρʼ ἀνδρῶν τίσαιτο βίην ὑπερηνορεόντων."
+    },
+    {
+      "n": 32,
+      "greek": "ὣς ἔφαθʼ, ἡ δʼ ἐχάρη καὶ ἀπὸ λέκτροιο θοροῦσα"
+    },
+    {
+      "n": 33,
+      "greek": "γρηῒ περιπλέχθη, βλεφάρων δʼ ἀπὸ δάκρυον ἧκεν·"
+    },
+    {
+      "n": 34,
+      "greek": "καί μιν φωνήσασʼ ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 35,
+      "greek": "εἰ δʼ ἄγε δή μοι, μαῖα φίλη, νημερτὲς ἐνίσπες,"
+    },
+    {
+      "n": 36,
+      "greek": "εἰ ἐτεὸν δὴ οἶκον ἱκάνεται, ὡς ἀγορεύεις,"
+    },
+    {
+      "n": 37,
+      "greek": "ὅππως δὴ μνηστῆρσιν ἀναιδέσι χεῖρας ἐφῆκε"
+    },
+    {
+      "n": 38,
+      "greek": "μοῦνος ἐών, οἱ δʼ αἰὲν ἀολλέες ἔνδον ἔμιμνον."
+    },
+    {
+      "n": 39,
+      "greek": "τὴν δʼ αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·"
+    },
+    {
+      "n": 40,
+      "greek": "οὐκ ἴδον, οὐ πυθόμην, ἀλλὰ στόνον οἶον ἄκουσα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "Then the dear nurse Eurycleia answered her: “I mock thee not, dear child, but in very truth Odysseus is here, and has come home, even as I tell thee. He is that stranger to whom all men did dishonor in the halls. But Telemachus long ago knew that he was here,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "yet in his prudence he hid the purpose of his father, till he should take vengeance on the violence of overweening men.” So she spoke, and Penelope was glad, and she leapt from her bed and flung her arms about the old woman and let the tears fall from her eyelids; and she spoke, and addressed her with winged words:"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "“Come now, dear nurse, I pray thee tell me truly, if verily he has come home, as thou sayest, how he put forth his hands upon the shameless wooers, all alone as he was, while they remained always in a body in the house.” Then the dear nurse Eurycleia answered her:"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "“I saw not, I asked not; only I heard the groaning of men that were being slain. As for us women, we sat terror-stricken in the innermost part of our well-built chambers, and the close-fitting doors shut us in, until the hour when thy son Telemachus called me from the hall, for his father had sent him forth to call me."
+    }
+  ]
+}

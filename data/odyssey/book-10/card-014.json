@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγὼ περὶ μὲν ξίφος ἀργυρόηλον"
+    },
+    {
+      "n": 262,
+      "greek": "ὤμοιιν βαλόμην, μέγα χάλκεον, ἀμφὶ δὲ τόξα·"
+    },
+    {
+      "n": 263,
+      "greek": "τὸν δʼ ἂψ ἠνώγεα αὐτὴν ὁδὸν ἡγήσασθαι."
+    },
+    {
+      "n": 264,
+      "greek": "αὐτὰρ ὅ γʼ ἀμφοτέρῃσι λαβὼν ἐλλίσσετο γούνων"
+    },
+    {
+      "n": 265,
+      "greek": "καί μʼ ὀλοφυρόμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 266,
+      "greek": "μή μʼ ἄγε κεῖσʼ ἀέκοντα, διοτρεφές, ἀλλὰ λίπʼ αὐτοῦ."
+    },
+    {
+      "n": 267,
+      "greek": "οἶδα γάρ, ὡς οὔτʼ αὐτὸς ἐλεύσεαι οὔτε τινʼ ἄλλον"
+    },
+    {
+      "n": 268,
+      "greek": "ἄξεις σῶν ἑτάρων. ἀλλὰ ξὺν τοίσδεσι θᾶσσον"
+    },
+    {
+      "n": 269,
+      "greek": "φεύγωμεν· ἔτι γάρ κεν ἀλύξαιμεν κακὸν ἦμαρ."
+    },
+    {
+      "n": 270,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 271,
+      "greek": "Εὐρύλοχʼ, ἦ τοι μὲν σὺ μένʼ αὐτοῦ τῷδʼ ἐνὶ χώρῳ"
+    },
+    {
+      "n": 272,
+      "greek": "ἔσθων καὶ πίνων κοίλῃ παρὰ νηὶ μελαίνῃ·"
+    },
+    {
+      "n": 273,
+      "greek": "αὐτὰρ ἐγὼν εἶμι, κρατερὴ δέ μοι ἔπλετʼ ἀνάγκη."
+    },
+    {
+      "n": 274,
+      "greek": "ὣς εἰπὼν παρὰ νηὸς ἀνήιον ἠδὲ θαλάσσης."
+    },
+    {
+      "n": 275,
+      "greek": "ἀλλʼ ὅτε δὴ ἄρʼ ἔμελλον ἰὼν ἱερὰς ἀνὰ βήσσας"
+    },
+    {
+      "n": 276,
+      "greek": "Κίρκης ἵξεσθαι πολυφαρμάκου ἐς μέγα δῶμα,"
+    },
+    {
+      "n": 277,
+      "greek": "ἔνθα μοι Ἑρμείας χρυσόρραπις ἀντεβόλησεν"
+    },
+    {
+      "n": 278,
+      "greek": "ἐρχομένῳ πρὸς δῶμα, νεηνίῃ ἀνδρὶ ἐοικώς,"
+    },
+    {
+      "n": 279,
+      "greek": "πρῶτον ὑπηνήτῃ, τοῦ περ χαριεστάτη ἥβη·"
+    },
+    {
+      "n": 280,
+      "greek": "ἔν τʼ ἄρα μοι φῦ χειρί, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "and with wailing he spoke to me winged words: “‘Lead me not thither against my will, O thou fostered of Zeus, but leave me here. For I know that thou wilt neither come back thyself, nor bring anyone of thy comrades. Nay, with these that are here let us flee with all speed, for still we may haply escape the evil day.’"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "“So he spoke, but I answered him, and said:‘Eurylochus, do thou stay here in this place, eating and drinking by the hollow, black ship; but I will go, for strong necessity is laid upon me.’ “So saying, I went up from the ship and the sea."
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "But when, as I went through the sacred glades, I was about to come to the great house of the sorceress, Circe, then Hermes, of the golden wand, met me as I went toward the house, in the likeness of a young man with the first down upon his lip, in whom the charm of youth is fairest."
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "He clasped my hand, and spoke, and addressed me: “‘Whither now again, hapless man, dost thou go alone through the hills, knowing naught of the country? Lo, thy comrades yonder in the house of Circe are penned like swine in close-barred sties. And art thou come to release them? Nay, I tell thee, thou shalt not"
+    }
+  ]
+}

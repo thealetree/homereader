@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "αὐτὰρ ὅ γʼ εἴσω ἴεν καὶ ὑπέρβη λάϊνον οὐδόν."
+    },
+    {
+      "n": 42,
+      "greek": "τῷ δʼ ἕδρης ἐπιόντι πατὴρ ὑπόειξεν Ὀδυσσεύς·"
+    },
+    {
+      "n": 43,
+      "greek": "Τηλέμαχος δʼ ἑτέρωθεν ἐρήτυε φώνησέν τε·"
+    },
+    {
+      "n": 44,
+      "greek": "ἧσʼ, ὦ ξεῖνʼ· ἡμεῖς δὲ καὶ ἄλλοθι δήομεν ἕδρην"
+    },
+    {
+      "n": 45,
+      "greek": "σταθμῷ ἐν ἡμετέρῳ· πάρα δʼ ἀνὴρ ὃς καταθήσει."
+    },
+    {
+      "n": 46,
+      "greek": "ὣς φάθʼ, ὁ δʼ αὖτις ἰὼν κατʼ ἄρʼ ἕζετο· τῷ δὲ συβώτης."
+    },
+    {
+      "n": 47,
+      "greek": "χεῦεν ὕπο χλωρὰς ῥῶπας καὶ κῶας ὕπερθεν·"
+    },
+    {
+      "n": 48,
+      "greek": "ἔνθα καθέζετʼ ἔπειτα Ὀδυσσῆος φίλος υἱός."
+    },
+    {
+      "n": 49,
+      "greek": "τοῖσιν δʼ αὖ κρειῶν πίνακας παρέθηκε συβώτης"
+    },
+    {
+      "n": 50,
+      "greek": "ὀπταλέων, ἅ ῥα τῇ προτέρῃ ὑπέλειπον ἔδοντες,"
+    },
+    {
+      "n": 51,
+      "greek": "σῖτον δʼ ἐσσυμένως παρενήνεεν ἐν κανέοισιν,"
+    },
+    {
+      "n": 52,
+      "greek": "ἐν δʼ ἄρα κισσυβίῳ κίρνη μελιηδέα οἶνον·"
+    },
+    {
+      "n": 53,
+      "greek": "αὐτὸς δʼ ἀντίον ἷζεν Ὀδυσσῆος θείοιο."
+    },
+    {
+      "n": 54,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    },
+    {
+      "n": 55,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 56,
+      "greek": "δὴ τότε Τηλέμαχος προσεφώνεε δῖον ὑφορβόν·"
+    },
+    {
+      "n": 57,
+      "greek": "ἄττα, πόθεν τοι ξεῖνος ὅδʼ ἵκετο; πῶς δέ ἑ ναῦται"
+    },
+    {
+      "n": 58,
+      "greek": "ἤγαγον εἰς Ἰθάκην; τίνες ἔμμεναι εὐχετόωντο;"
+    },
+    {
+      "n": 59,
+      "greek": "οὐ μὲν γάρ τί ἑ πεζὸν ὀΐομαι ἐνθάδʼ ἱκέσθαι."
+    },
+    {
+      "n": 60,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "in our farmstead. There is a man here who will set us one.” So he spoke, and Odysseus went back and sat down again, and for Telemachus the swineherd strewed green brushwood beneath and a fleece above it, and there the dear son of Odysseus sat down. Then the swineherd set before them platters"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "of roast meats, which they had left at their meal the day before, and quickly heaped up bread in baskets, and mixed in a bowl of ivy wood honey-sweet wine, and himself sat down over against divine Odysseus. So they put forth their hands to the good cheer lying ready before them."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "But when they had put from them the desire of food and drink, Telemachus spoke to the goodly swineherd, and said: “Father, from whence did this stranger come to thee? How did sailors bring him to Ithaca? Who did they declare themselves to be? For nowise, methinks, did he come hither on foot.”"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "To him then, swineherd Eumaeus, didst thou make answer, and say: “Then verily, my child, I will tell thee all the truth. From broad Crete he declares that he has birth, and he says that he has wandered roaming through many cities of mortals; so has a god spun for him this lot."
+    }
+  ]
+}

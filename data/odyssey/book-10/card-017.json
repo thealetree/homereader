@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ὣς φάτʼ, ἐγὼ δʼ ἄορ ὀξὺ ἐρυσσάμενος παρὰ μηροῦ"
+    },
+    {
+      "n": 322,
+      "greek": "Κίρκῃ ἐπήιξα ὥς τε κτάμεναι μενεαίνων."
+    },
+    {
+      "n": 323,
+      "greek": "ἡ δὲ μέγα ἰάχουσα ὑπέδραμε καὶ λάβε γούνων,"
+    },
+    {
+      "n": 324,
+      "greek": "καί μʼ ὀλοφυρομένη ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 325,
+      "greek": "τίς πόθεν εἰς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες;"
+    },
+    {
+      "n": 326,
+      "greek": "θαῦμά μʼ ἔχει ὡς οὔ τι πιὼν τάδε φάρμακʼ ἐθέλχθης·"
+    },
+    {
+      "n": 327,
+      "greek": "οὐδὲ γὰρ οὐδέ τις ἄλλος ἀνὴρ τάδε φάρμακʼ ἀνέτλη,"
+    },
+    {
+      "n": 328,
+      "greek": "ὅς κε πίῃ καὶ πρῶτον ἀμείψεται ἕρκος ὀδόντων."
+    },
+    {
+      "n": 329,
+      "greek": "σοὶ δέ τις ἐν στήθεσσιν ἀκήλητος νόος ἐστίν."
+    },
+    {
+      "n": 330,
+      "greek": "ἦ σύ γʼ Ὀδυσσεύς ἐσσι πολύτροπος, ὅν τέ μοι αἰεὶ"
+    },
+    {
+      "n": 331,
+      "greek": "φάσκεν ἐλεύσεσθαι χρυσόρραπις ἀργεϊφόντης,"
+    },
+    {
+      "n": 332,
+      "greek": "ἐκ Τροίης ἀνιόντα θοῇ σὺν νηὶ μελαίνῃ."
+    },
+    {
+      "n": 333,
+      "greek": "ἀλλʼ ἄγε δὴ κολεῷ μὲν ἄορ θέο, νῶι δʼ ἔπειτα"
+    },
+    {
+      "n": 334,
+      "greek": "εὐνῆς ἡμετέρης ἐπιβείομεν, ὄφρα μιγέντε"
+    },
+    {
+      "n": 335,
+      "greek": "εὐνῇ καὶ φιλότητι πεποίθομεν ἀλλήλοισιν."
+    },
+    {
+      "n": 336,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 337,
+      "greek": "ὦ Κίρκη, πῶς γάρ με κέλεαι σοὶ ἤπιον εἶναι,"
+    },
+    {
+      "n": 338,
+      "greek": "ἥ μοι σῦς μὲν ἔθηκας ἐνὶ μεγάροισιν ἑταίρους,"
+    },
+    {
+      "n": 339,
+      "greek": "αὐτὸν δʼ ἐνθάδʼ ἔχουσα δολοφρονέουσα κελεύεις"
+    },
+    {
+      "n": 340,
+      "greek": "ἐς θάλαμόν τʼ ἰέναι καὶ σῆς ἐπιβήμεναι εὐνῆς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "“‘Who art thou among men, and from whence? Where is thy city, and where thy parents? Amazement holds me that thou hast drunk this charm and wast in no wise bewitched. For no man else soever hath withstood this charm, when once he has drunk it, and it has passed the barrier of his teeth. Nay, but the mind in thy breast is one not to be beguiled."
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "Surely thou art Odysseus, the man of ready device, who Argeiphontes of the golden wand ever said to me would come hither on his way home from Troy with his swift, black ship. Nay, come, put up thy sword in its sheath, and let us two then go up into my bed, that couched together"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "in love we may put trust in each other.’ “So she spoke, but I answered her, and said:‘Circe, how canst thou bid me be gentle to thee, who hast turned my comrades into swine in thy halls, and now keepest me here, and with guileful purpose biddest me"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "go to thy chamber, and go up into thy bed, that when thou hast me stripped thou mayest render me a weakling and unmanned? Nay, verily, it is not I that shall be fain to go up into thy bed, unless thou, goddess, wilt consent to swear a mighty oath that thou wilt not plot against me any fresh mischief to my hurt.’"
+    }
+  ]
+}

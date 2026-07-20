@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 61,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "κτεινομένων· ἡμεῖς δὲ μυχῷ θαλάμων εὐπήκτων"
+    },
+    {
+      "n": 42,
+      "greek": "ἥμεθʼ ἀτυζόμεναι, σανίδες δʼ ἔχον εὖ ἀραρυῖαι,"
+    },
+    {
+      "n": 43,
+      "greek": "πρίν γʼ ὅτε δή με σὸς υἱὸς ἀπὸ μεγάροιο κάλεσσε"
+    },
+    {
+      "n": 44,
+      "greek": "Τηλέμαχος· τὸν γάρ ῥα πατὴρ προέηκε καλέσσαι."
+    },
+    {
+      "n": 45,
+      "greek": "εὗρον ἔπειτʼ Ὀδυσῆα μετὰ κταμένοισι νέκυσσιν"
+    },
+    {
+      "n": 46,
+      "greek": "ἑσταόθʼ· οἱ δέ μιν ἀμφί, κραταίπεδον οὖδας ἔχοντες,"
+    },
+    {
+      "n": 47,
+      "greek": "κείατʼ ἐπʼ ἀλλήλοισιν· ἰδοῦσά κε θυμὸν ἰάνθης."
+    },
+    {
+      "n": 48,
+      "greek": "νῦν δʼ οἱ μὲν δὴ πάντες ἐπʼ αὐλείῃσι θύρῃσιν"
+    },
+    {
+      "n": 50,
+      "greek": "ἀθρόοι, αὐτὰρ ὁ δῶμα θεειοῦται περικαλλές,"
+    },
+    {
+      "n": 51,
+      "greek": "πῦρ μέγα κηάμενος· σὲ δέ με προέηκε καλέσσαι."
+    },
+    {
+      "n": 52,
+      "greek": "ἀλλʼ ἕπευ, ὄφρα σφῶϊν ἐϋφροσύνης ἐπιβῆτον"
+    },
+    {
+      "n": 53,
+      "greek": "ἀμφοτέρω φίλον ἦτορ, ἐπεὶ κακὰ πολλὰ πέποσθε."
+    },
+    {
+      "n": 54,
+      "greek": "νῦν δʼ ἤδη τόδε μακρὸν ἐέλδωρ ἐκτετέλεσται·"
+    },
+    {
+      "n": 55,
+      "greek": "ἦλθε μὲν αὐτὸς ζωὸς ἐφέστιος, εὗρε δὲ καὶ σὲ"
+    },
+    {
+      "n": 56,
+      "greek": "καὶ παῖδʼ ἐν μεγάροισι· κακῶς δʼ οἵ πέρ μιν ἔρεζον"
+    },
+    {
+      "n": 57,
+      "greek": "μνηστῆρες, τοὺς πάντας ἐτίσατο ᾧ ἐνὶ οἴκῳ."
+    },
+    {
+      "n": 58,
+      "greek": "τὴν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 59,
+      "greek": "μαῖα φίλη, μή πω μέγʼ ἐπεύχεο καγχαλόωσα."
+    },
+    {
+      "n": 60,
+      "greek": "οἶσθα γὰρ ὥς κʼ ἀσπαστὸς ἐνὶ μεγάροισι φανείη"
+    },
+    {
+      "n": 61,
+      "greek": "πᾶσι, μάλιστα δʼ ἐμοί τε καὶ υἱέϊ, τὸν τεκόμεσθα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "Then I found Odysseus standing among the bodies of the slain, and they, stretched all around him on the hard floor, lay one upon the other; the sight would have warmed thy heart with cheer. And now the bodies are all gathered together at the gates of the court,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "but he is purging the fair house with sulphur, and has kindled a great fire, and sent me forth to call thee. Nay, come with me, that the hearts of you two may enter into joy, for you have suffered many woes. But now at length has this thy long desire been fulfilled:"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "he has come himself, alive to his own hearth, and he has found both thee and his son in the halls; while as for those, even the wooers, who wrought him evil, on them has he taken vengeance one and all in his house.” Then wise Penelope answered her: “Dear nurse, boast not yet loudly over them with laughter."
+    },
+    {
+      "lines": [
+        60,
+        61
+      ],
+      "text": "Thou knowest how welcome the sight of him in the halls would be to all, but above all to me and to his son, born of us two. But this is no true tale, as thou tellest it; nay, some one of the immortals has slain the lordly wooers in wrath at their grievous insolence and their evil deeds."
+    }
+  ]
+}

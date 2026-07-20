@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "ὑμεῖς δʼ εἰσορόῳτε θεοὶ πᾶσαί τε θέαιναι,"
+    },
+    {
+      "n": 342,
+      "greek": "αὐτὰρ ἐγὼν εὕδοιμι παρὰ χρυσέῃ Ἀφροδίτῃ."
+    },
+    {
+      "n": 343,
+      "greek": "ὣς ἔφατʼ, ἐν δὲ γέλως ὦρτʼ ἀθανάτοισι θεοῖσιν."
+    },
+    {
+      "n": 344,
+      "greek": "οὐδὲ Ποσειδάωνα γέλως ἔχε, λίσσετο δʼ αἰεὶ"
+    },
+    {
+      "n": 345,
+      "greek": "Ἥφαιστον κλυτοεργὸν ὅπως λύσειεν Ἄρηα."
+    },
+    {
+      "n": 346,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 347,
+      "greek": "λῦσον· ἐγὼ δέ τοι αὐτὸν ὑπίσχομαι, ὡς σὺ κελεύεις,"
+    },
+    {
+      "n": 348,
+      "greek": "τίσειν αἴσιμα πάντα μετʼ ἀθανάτοισι θεοῖσιν."
+    },
+    {
+      "n": 349,
+      "greek": "τὸν δʼ αὖτε προσέειπε περικλυτὸς ἀμφιγυήεις·"
+    },
+    {
+      "n": 350,
+      "greek": "μή με, Ποσείδαον γαιήοχε, ταῦτα κέλευε·"
+    },
+    {
+      "n": 351,
+      "greek": "δειλαί τοι δειλῶν γε καὶ ἐγγύαι ἐγγυάασθαι."
+    },
+    {
+      "n": 352,
+      "greek": "πῶς ἂν ἐγώ σε δέοιμι μετʼ ἀθανάτοισι θεοῖσιν,"
+    },
+    {
+      "n": 353,
+      "greek": "εἴ κεν Ἄρης οἴχοιτο χρέος καὶ δεσμὸν ἀλύξας;"
+    },
+    {
+      "n": 354,
+      "greek": "τὸν δʼ αὖτε προσέειπε Ποσειδάων ἐνοσίχθων·"
+    },
+    {
+      "n": 355,
+      "greek": "Ἥφαιστʼ, εἴ περ γάρ κεν Ἄρης χρεῖος ὑπαλύξας"
+    },
+    {
+      "n": 356,
+      "greek": "οἴχηται φεύγων, αὐτός τοι ἐγὼ τάδε τίσω."
+    },
+    {
+      "n": 357,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα περικλυτὸς ἀμφιγυήεις·"
+    },
+    {
+      "n": 358,
+      "greek": "οὐκ ἔστʼ οὐδὲ ἔοικε τεὸν ἔπος ἀρνήσασθαι."
+    },
+    {
+      "n": 359,
+      "greek": "ὣς εἰπὼν δεσμὸν ἀνίει μένος Ἡφαίστοιο."
+    },
+    {
+      "n": 360,
+      "greek": "τὼ δʼ ἐπεὶ ἐκ δεσμοῖο λύθεν, κρατεροῦ περ ἐόντος,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "Hephaestus, the famous craftsman, to set Ares free; and he spoke, and addressed him with winged words: “Loose him, and I promise, as thou biddest me, that he shall himself pay thee all that is right in the presence of the immortal gods.” Then the famous god of the two strong arms answered him:"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "“Ask not this of me, Poseidon, thou earth-enfolder. A sorry thing to be sure of is the surety for a sorry knave. How could I put thee in bonds among the immortal gods, if Ares should avoid both the debt and the bonds and depart?” Then again Poseidon, the earth-shaker, answered him:"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "“Hephaestus, even if Ares shall avoid the debt and flee away, I will myself pay thee this.” Then the famous god of the two strong arms answered him: “It may not be that I should say thee nay, nor were it seemly.” So saying the mighty Hephaestus loosed the bonds"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "and the two, when they were freed from that bond so strong, sprang up straightway. And Ares departed to Thrace, but she, the laughter-loving Aphrodite, went to Cyprus, to Paphos, where is her demesne and fragrant altar. There the Graces bathed her and anointed her with"
+    }
+  ]
+}

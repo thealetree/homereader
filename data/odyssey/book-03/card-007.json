@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "ἤθελʼ, ἐπεὶ μάλα πολλὸν ἐνίκα δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 122,
+      "greek": "παντοίοισι δόλοισι, πατὴρ τεός, εἰ ἐτεόν γε"
+    },
+    {
+      "n": 123,
+      "greek": "κείνου ἔκγονός ἐσσι· σέβας μʼ ἔχει εἰσορόωντα."
+    },
+    {
+      "n": 124,
+      "greek": "ἦ τοι γὰρ μῦθοί γε ἐοικότες, οὐδέ κε φαίης"
+    },
+    {
+      "n": 125,
+      "greek": "ἄνδρα νεώτερον ὧδε ἐοικότα μυθήσασθαι."
+    },
+    {
+      "n": 126,
+      "greek": "ἔνθʼ ἦ τοι ἧος μὲν ἐγὼ καὶ δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 127,
+      "greek": "οὔτε ποτʼ εἰν ἀγορῇ δίχʼ ἐβάζομεν οὔτʼ ἐνὶ βουλῇ,"
+    },
+    {
+      "n": 128,
+      "greek": "ἀλλʼ ἕνα θυμὸν ἔχοντε νόῳ καὶ ἐπίφρονι βουλῇ"
+    },
+    {
+      "n": 129,
+      "greek": "φραζόμεθʼ Ἀργείοισιν ὅπως ὄχʼ ἄριστα γένοιτο."
+    },
+    {
+      "n": 130,
+      "greek": "αὐτὰρ ἐπεὶ Πριάμοιο πόλιν διεπέρσαμεν αἰπήν,"
+    },
+    {
+      "n": 131,
+      "greek": "βῆμεν δʼ ἐν νήεσσι, θεὸς δʼ ἐκέδασσεν Ἀχαιούς,"
+    },
+    {
+      "n": 132,
+      "greek": "καὶ τότε δὴ Ζεὺς λυγρὸν ἐνὶ φρεσὶ μήδετο νόστον"
+    },
+    {
+      "n": 133,
+      "greek": "Ἀργείοις, ἐπεὶ οὔ τι νοήμονες οὐδὲ δίκαιοι"
+    },
+    {
+      "n": 134,
+      "greek": "πάντες ἔσαν· τῶ σφεων πολέες κακὸν οἶτον ἐπέσπον"
+    },
+    {
+      "n": 135,
+      "greek": "μήνιος ἐξ ὀλοῆς γλαυκώπιδος ὀβριμοπάτρης."
+    },
+    {
+      "n": 136,
+      "greek": "ἥ τʼ ἔριν Ἀτρεΐδῃσι μετʼ ἀμφοτέροισιν ἔθηκε."
+    },
+    {
+      "n": 137,
+      "greek": "τὼ δὲ καλεσσαμένω ἀγορὴν ἐς πάντας Ἀχαιούς,"
+    },
+    {
+      "n": 138,
+      "greek": "μάψ, ἀτὰρ οὐ κατὰ κόσμον, ἐς ἠέλιον καταδύντα,"
+    },
+    {
+      "n": 139,
+      "greek": "οἱ ἦλθον οἴνῳ βεβαρηότες υἷες Ἀχαιῶν,"
+    },
+    {
+      "n": 140,
+      "greek": "μῦθον μυθείσθην, τοῦ εἵνεκα λαὸν ἄγειραν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "that a younger man would speak so like him. Now all the time that we were there goodly Odysseus and I never spoke at variance either in the assembly or in the council, but being of one mind advised the Argives with wisdom and shrewd counsel how all might be for the best."
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "But when we had sacked the lofty city of Priam, and had gone away in our ships, and a god had scattered the Achaeans, then, even then, Zeus planned in his heart a woeful return for the Argives, for in no wise prudent or just were all. Wherefore many of them met an evil fate"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "through the fell wrath of the flashing-eyed goddess, the daughter of the mighty sire, for she caused strife between the two sons of Atreus. Now these two called to an assembly all the Achaeans, recklessly and in no due order, at set of sun—and they came heavy with wine, the sons of the Achaeans,—"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "and they spoke their word, and told wherefore they had gathered the host together. Then in truth Menelaus bade all the Achaeans think of their return over the broad back of the sea, but in no wise did he please Agamemnon, for he was fain to hold back the host and to offer holy hecatombs,"
+    }
+  ]
+}

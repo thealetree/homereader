@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "καί οἱ ἐγὼ χάλκειον ἄορ καὶ δίπλακα δῶκα"
+    },
+    {
+      "n": 242,
+      "greek": "καλὴν πορφυρέην καὶ τερμιόεντα χιτῶνα,"
+    },
+    {
+      "n": 243,
+      "greek": "αἰδοίως δʼ ἀπέπεμπον ἐϋσσέλμου ἐπὶ νηός."
+    },
+    {
+      "n": 244,
+      "greek": "καὶ μέν οἱ κῆρυξ ὀλίγον προγενέστερος αὐτοῦ"
+    },
+    {
+      "n": 245,
+      "greek": "εἵπετο· καὶ τόν τοι μυθήσομαι, οἷος ἔην περ."
+    },
+    {
+      "n": 246,
+      "greek": "γυρὸς ἐν ὤμοισιν, μελανόχροος, οὐλοκάρηνος,"
+    },
+    {
+      "n": 247,
+      "greek": "Εὐρυβάτης δʼ ὄνομʼ ἔσκε· τίεν δέ μιν ἔξοχον ἄλλων"
+    },
+    {
+      "n": 248,
+      "greek": "ὧν ἑτάρων Ὀδυσεύς, ὅτι οἱ φρεσὶν ἄρτια ᾔδη."
+    },
+    {
+      "n": 249,
+      "greek": "ὣς φάτο, τῇ δʼ ἔτι μᾶλλον ὑφʼ ἵμερον ὦρσε γόοιο,"
+    },
+    {
+      "n": 250,
+      "greek": "σήματʼ ἀναγνούσῃ τά οἱ ἔμπεδα πέφραδʼ Ὀδυσσεύς."
+    },
+    {
+      "n": 251,
+      "greek": "ἡ δʼ ἐπεὶ οὖν τάρφθη πολυδακρύτοιο γόοιο."
+    },
+    {
+      "n": 252,
+      "greek": "καὶ τότε μιν μύθοισιν ἀμειβομένη προσέειπε·"
+    },
+    {
+      "n": 253,
+      "greek": "νῦν μὲν δή μοι, ξεῖνε, πάρος περ ἐὼν ἐλεεινός,"
+    },
+    {
+      "n": 254,
+      "greek": "ἐν μεγάροισιν ἐμοῖσι φίλος τʼ ἔσῃ αἰδοῖός τε·"
+    },
+    {
+      "n": 255,
+      "greek": "αὐτὴ γὰρ τάδε εἵματʼ ἐγὼ πόρον, οἷʼ ἀγορεύεις,"
+    },
+    {
+      "n": 256,
+      "greek": "πτύξασʼ ἐκ θαλάμου, περόνην τʼ ἐπέθηκα φαεινὴν"
+    },
+    {
+      "n": 257,
+      "greek": "κείνῳ ἄγαλμʼ ἔμεναι· τὸν δʼ οὐχ ὑποδέξομαι αὖτις"
+    },
+    {
+      "n": 258,
+      "greek": "οἴκαδε νοστήσαντα φίλην ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 259,
+      "greek": "τῷ ῥα κακῇ αἴσῃ κοίλης ἐπὶ νηὸς Ὀδυσσεὺς"
+    },
+    {
+      "n": 260,
+      "greek": "ᾤχετʼ ἐποψόμενος Κακοΐλιον οὐκ ὀνομαστήν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "attended him, a little older than he, and I will tell thee of him too, what manner of man he was. He was round-shouldered, dark of skin, and curly-haired, and his name was Eurybates; and Odysseus honored him above his other comrades, because he was like-minded with himself.” So he spoke, and in her heart aroused yet more the desire of weeping,"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "as she recognized the sure tokens that Odysseus told her. But she, when she had had her fill of tearful wailing, made answer and said to him: “Now verily, stranger, though before thou wast pitied, shalt thou be dear and honored in my halls,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "for it was I that gave him this raiment, since thou describest it thus, and folded it, and brought it forth from the store-room, and added thereto the shining brooch to be a thing of joy to him. But my husband I shall never welcome back, returning home to his dear native land. Wherefore it was with an evil fate that Odysseus"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "went forth in the hollow ship to see evil Ilios, that should never be named.” Then Odysseus of many wiles answered her, and said: “Honored wife of Odysseus, son of Laertes, mar not now thy fair face any more, nor waste thy heart at all in weeping for thy husband. I count it indeed no blame in thee;"
+    }
+  ]
+}

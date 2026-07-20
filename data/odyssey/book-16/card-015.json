@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 15,
+  "lineStart": 282,
+  "lineEnd": 301,
+  "lines": [
+    {
+      "n": 282,
+      "greek": "ὁππότε κεν πολύβουλος ἐνὶ φρεσὶ θῇσιν Ἀθήνη,"
+    },
+    {
+      "n": 283,
+      "greek": "νεύσω μέν τοι ἐγὼ κεφαλῇ, σὺ δʼ ἔπειτα νοήσας"
+    },
+    {
+      "n": 284,
+      "greek": "ὅσσα τοι ἐν μεγάροισιν Ἀρήϊα τεύχεα κεῖται"
+    },
+    {
+      "n": 285,
+      "greek": "ἐς μυχὸν ὑψηλοῦ θαλάμου καταθεῖναι ἀείρας"
+    },
+    {
+      "n": 286,
+      "greek": "πάντα μάλʼ· αὐτὰρ μνηστῆρας μαλακοῖς ἐπέεσσι"
+    },
+    {
+      "n": 287,
+      "greek": "παρφάσθαι, ὅτε κέν σε μεταλλῶσιν ποθέοντες·"
+    },
+    {
+      "n": 288,
+      "greek": "ἐκ καπνοῦ κατέθηκʼ, ἐπεὶ οὐκέτι τοῖσιν ἐῴκει"
+    },
+    {
+      "n": 289,
+      "greek": "οἷά ποτε Τροίηνδε κιὼν κατέλειπεν Ὀδυσσεύς,"
+    },
+    {
+      "n": 290,
+      "greek": "ἀλλὰ κατῄκισται, ὅσσον πυρὸς ἵκετʼ ἀϋτμή."
+    },
+    {
+      "n": 291,
+      "greek": "πρὸς δʼ ἔτι καὶ τόδε μεῖζον ἐνὶ φρεσὶ θῆκε Κρονίων,"
+    },
+    {
+      "n": 292,
+      "greek": "μή πως οἰνωθέντες, ἔριν στήσαντες ἐν ὑμῖν,"
+    },
+    {
+      "n": 293,
+      "greek": "ἀλλήλους τρώσητε καταισχύνητέ τε δαῖτα"
+    },
+    {
+      "n": 294,
+      "greek": "καὶ μνηστύν· αὐτὸς γὰρ ἐφέλκεται ἄνδρα σίδηρος."
+    },
+    {
+      "n": 295,
+      "greek": "νῶϊν δʼ οἴοισιν δύο φάσγανα καὶ δύο δοῦρε"
+    },
+    {
+      "n": 296,
+      "greek": "καλλιπέειν καὶ δοιὰ βοάγρια χερσὶν ἑλέσθαι,"
+    },
+    {
+      "n": 297,
+      "greek": "ὡς ἂν ἐπιθύσαντες ἑλοίμεθα· τοὺς δέ κʼ ἔπειτα"
+    },
+    {
+      "n": 298,
+      "greek": "Παλλὰς Ἀθηναίη θέλξει καὶ μητίετα Ζεύς."
+    },
+    {
+      "n": 299,
+      "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·"
+    },
+    {
+      "n": 300,
+      "greek": "εἰ ἐτεόν γʼ ἐμός ἐσσι καὶ αἵματος ἡμετέροιο,"
+    },
+    {
+      "n": 301,
+      "greek": "μή τις ἔπειτʼ Ὀδυσῆος ἀκουσάτω ἔνδον ἐόντος,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "and lay them away one and all in the secret place of the lofty store-room. And as for the wooers, when they miss the arms and question thee, do thou beguile them with gentle words, saying: “‘Out of the smoke have I laid them, since they are no longer like those which of old Odysseus left behind him when he went forth to Troy,"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "but are all befouled so far as the breath of the fire has reached them. And furthermore this greater fear has the son of Cronos put in my heart, lest haply, when heated with wine, you may set a quarrel afoot among you and wound one another, and so bring shame on your feast and on your wooing. For of itself does the iron draw a man to it.’"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "“But for us two alone do thou leave behind two swords and two spears, and two ox-hide shields for us to grasp, that we may rush upon them and seize them; while as for the wooers, Pallas Athena and Zeus, the counsellor, will beguile them. And another thing will I tell thee, and do thou lay it to heart."
+    },
+    {
+      "lines": [
+        300,
+        301
+      ],
+      "text": "If in truth thou art my son and of our blood, then let no one hear that Odysseus is at home; neither let Laertes know it, nor the swineherd, nor any of the household, nor Penelope herself; but by ourselves thou and I will learn the temper of the women."
+    }
+  ]
+}

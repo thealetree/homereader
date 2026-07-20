@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 10,
+  "lineStart": 182,
+  "lineEnd": 201,
+  "lines": [
+    {
+      "n": 182,
+      "greek": "ἄλλα δὲ εἵματʼ ἔχεις, καί τοι χρὼς οὐκέθʼ ὁμοῖος."
+    },
+    {
+      "n": 183,
+      "greek": "ἦ μάλα τις θεός ἐσσι, τοὶ οὐρανὸν εὐρὺν ἔχουσιν·"
+    },
+    {
+      "n": 184,
+      "greek": "ἀλλʼ ἵληθʼ, ἵνα τοι κεχαρισμένα δώομεν ἱρὰ"
+    },
+    {
+      "n": 185,
+      "greek": "ἠδὲ χρύσεα δῶρα, τετυγμένα· φείδεο δʼ ἡμέων"
+    },
+    {
+      "n": 186,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 187,
+      "greek": "οὔ τίς τοι θεός εἰμι· τί μʼ ἀθανάτοισιν ἐΐσκεις;"
+    },
+    {
+      "n": 188,
+      "greek": "ἀλλὰ πατὴρ τεός εἰμι, τοῦ εἵνεκα σὺ στεναχίζων"
+    },
+    {
+      "n": 189,
+      "greek": "πάσχεις ἄλγεα πολλά, βίας ὑποδέγμενος ἀνδρῶν."
+    },
+    {
+      "n": 190,
+      "greek": "ὣς ἄρα φωνήσας υἱὸν κύσε, κὰδ δὲ παρειῶν"
+    },
+    {
+      "n": 191,
+      "greek": "δάκρυον ἧκε χαμᾶζε· πάρος δʼ ἔχε νωλεμὲς αἰεί."
+    },
+    {
+      "n": 192,
+      "greek": "Τηλέμαχος δʼ, οὐ γάρ πω ἐπείθετο ὃν πατέρʼ εἶναι,"
+    },
+    {
+      "n": 193,
+      "greek": "ἐξαῦτίς μιν ἔπεσσιν ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 194,
+      "greek": "οὐ σύ γʼ Ὀδυσσεύς ἐσσι, πατὴρ ἐμός, ἀλλά με δαίμων"
+    },
+    {
+      "n": 195,
+      "greek": "θέλγει, ὄφρʼ ἔτι μᾶλλον ὀδυρόμενος στεναχίζω."
+    },
+    {
+      "n": 196,
+      "greek": "οὐ γάρ πως ἂν θνητὸς ἀνὴρ τάδε μηχανόῳτο"
+    },
+    {
+      "n": 197,
+      "greek": "ᾧ αὐτοῦ γε νόῳ, ὅτε μὴ θεὸς αὐτὸς ἐπελθὼν"
+    },
+    {
+      "n": 198,
+      "greek": "ῥηϊδίως ἐθέλων θείη νέον ἠὲ γέροντα."
+    },
+    {
+      "n": 199,
+      "greek": "ἦ γάρ τοι νέον ἦσθα γέρων καὶ ἀεικέα ἕσσο·"
+    },
+    {
+      "n": 200,
+      "greek": "νῦν δὲ θεοῖσιν ἔοικας, οἳ οὐρανὸν εὐρὺν ἔχουσι."
+    },
+    {
+      "n": 201,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "and golden gifts, finely wrought; but do thou spare us.” Then the much-enduring, goodly Odysseus answered him: “Be sure I am no god; why dost thou liken me to the immortals? Nay, I am thy father, for whose sake thou dost with groaning endure many griefs, and submittest to the violence of men.”"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "So saying, he kissed his son, and from his cheeks let fall a tear to earth, but before he ever steadfastly held them back. Howbeit Telemachus—for he did not yet believe that it was his father—again answered, and spoke to him, saying: “Thou verily art not my father Odysseus, but some god"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "beguiles me, that I may weep and groan yet more. For nowise could a mortal man contrive this by his own wit, unless a god were himself to come to him, and easily by his will make him young or old. For verily but now thou wast an old man and meanly clad,"
+    },
+    {
+      "lines": [
+        200,
+        201
+      ],
+      "text": "whereas now thou art like the gods, who hold broad heaven.” Then Odysseus of many wiles answered him, and said: “Telemachus, it beseems thee not to wonder overmuch that thy father is in the house, or to be amazed. For thou mayest be sure no other Odysseus will ever come hither;"
+    }
+  ]
+}

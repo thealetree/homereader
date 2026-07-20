@@ -1,0 +1,129 @@
+{
+  "book": 13,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ,"
+    },
+    {
+      "n": 2,
+      "greek": "κηληθμῷ δʼ ἔσχοντο κατὰ μέγαρα σκιόεντα."
+    },
+    {
+      "n": 3,
+      "greek": "τὸν δʼ αὖτʼ Ἀλκίνοος ἀπαμείβετο φώνησέν τε·"
+    },
+    {
+      "n": 4,
+      "greek": "ὦ Ὀδυσεῦ, ἐπεὶ ἵκευ ἐμὸν ποτὶ χαλκοβατὲς δῶ,"
+    },
+    {
+      "n": 5,
+      "greek": "ὑψερεφές, τῷ σʼ οὔ τι παλιμπλαγχθέντα γʼ ὀΐω"
+    },
+    {
+      "n": 6,
+      "greek": "ἂψ ἀπονοστήσειν, εἰ καὶ μάλα πολλὰ πέπονθας."
+    },
+    {
+      "n": 7,
+      "greek": "ὑμέων δʼ ἀνδρὶ ἑκάστῳ ἐφιέμενος τάδε εἴρω,"
+    },
+    {
+      "n": 8,
+      "greek": "ὅσσοι ἐνὶ μεγάροισι γερούσιον αἴθοπα οἶνον"
+    },
+    {
+      "n": 9,
+      "greek": "αἰεὶ πίνετʼ ἐμοῖσιν, ἀκουάζεσθε δʼ ἀοιδοῦ."
+    },
+    {
+      "n": 10,
+      "greek": "εἵματα μὲν δὴ ξείνῳ ἐϋξέστῃ ἐνὶ χηλῷ"
+    },
+    {
+      "n": 11,
+      "greek": "κεῖται καὶ χρυσὸς πολυδαίδαλος ἄλλα τε πάντα"
+    },
+    {
+      "n": 12,
+      "greek": "δῶρʼ, ὅσα Φαιήκων βουληφόροι ἐνθάδʼ ἔνεικαν·"
+    },
+    {
+      "n": 13,
+      "greek": "ἀλλʼ ἄγε οἱ δῶμεν τρίποδα μέγαν ἠδὲ λέβητα"
+    },
+    {
+      "n": 14,
+      "greek": "ἀνδρακάς· ἡμεῖς δʼ αὖτε ἀγειρόμενοι κατὰ δῆμον"
+    },
+    {
+      "n": 15,
+      "greek": "τισόμεθʼ· ἀργαλέον γὰρ ἕνα προικὸς χαρίσασθαι."
+    },
+    {
+      "n": 16,
+      "greek": "ὣς ἔφατʼ Ἀλκίνοος, τοῖσιν δʼ ἐπιὴνδανε μῦθος."
+    },
+    {
+      "n": 17,
+      "greek": "οἱ μὲν κακκείοντες ἔβαν οἶκόνδε ἕκαστος,"
+    },
+    {
+      "n": 18,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 19,
+      "greek": "νῆάδʼ ἐπεσσεύοντο, φέρον δʼ εὐήνορα χαλκόν."
+    },
+    {
+      "n": 20,
+      "greek": "καὶ τὰ μὲν εὖ κατέθηχʼ ἱερὸν μένος Ἀλκινόοιο,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "So he spoke, and they were all hushed in silence, and were spellbound throughout the shadowy halls. And Alcinous again answered him, and said: “Odysseus, since thou hast come to my"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "high-roofed house with floor of brass, thou shalt not, methinks, be driven back, and return with baffled purpose, even though thou hast suffered much. And to each man of you that in my halls are ever wont to drink the flaming wine of the elders, and to listen to the minstrel, I speak, and give this charge."
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "Raiment for the stranger lies already stored in the polished chest, with gold curiously wrought and all the other gifts which the counsellors of the Phaeacians brought hither. But, come now, let us give him a great tripod and a cauldron, each man of us, and we in turn will gather the cost from among the people,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "and repay ourselves. It were hard for one man to give freely, without requital.” So spake Alcinous, and his word was pleasing to them. They then went, each man to his house, to take their rest; but as soon as early Dawn appeared, the rosy-fingered, they hastened to the ship and brought the bronze, that gives strength to men."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "And the strong and mighty Alcinous went himself throughout the ship, and carefully stowed the gifts beneath the benches, that they might not hinder any of the crew at their rowing, when they busily plied the oars. Then they went to the house of Alcinous, and prepared a feast. And for them the strong and mighty Alcinous sacrificed a bull"
+    }
+  ]
+}

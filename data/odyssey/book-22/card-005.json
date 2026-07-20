@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "σμερδαλέα ἰάχων· ὁ δʼ ἁμαρτῆ δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 82,
+      "greek": "ἰὸν ἀποπροίει, βάλε δὲ στῆθος παρὰ μαζόν,"
+    },
+    {
+      "n": 83,
+      "greek": "ἐν δέ οἱ ἥπατι πῆξε θοὸν βέλος· ἐκ δʼ ἄρα χειρὸς"
+    },
+    {
+      "n": 84,
+      "greek": "φάσγανον ἧκε χαμᾶζε, περιρρηδὴς δὲ τραπέζῃ"
+    },
+    {
+      "n": 85,
+      "greek": "κάππεσεν ἰδνωθείς, ἀπὸ δʼ εἴδατα χεῦεν ἔραζε"
+    },
+    {
+      "n": 86,
+      "greek": "καὶ δέπας ἀμφικύπελλον· ὁ δὲ χθόνα τύπτε μετώπῳ"
+    },
+    {
+      "n": 87,
+      "greek": "θυμῷ ἀνιάζων, ποσὶ δὲ θρόνον ἀμφοτέροισι"
+    },
+    {
+      "n": 88,
+      "greek": "λακτίζων ἐτίνασσε· κατʼ ὀφθαλμῶν δʼ ἔχυτʼ ἀχλύς."
+    },
+    {
+      "n": 89,
+      "greek": "Ἀμφίνομος δʼ Ὀδυσῆος ἐείσατο κυδαλίμοιο"
+    },
+    {
+      "n": 90,
+      "greek": "ἀντίος ἀΐξας, εἴρυτο δὲ φάσγανον ὀξύ,"
+    },
+    {
+      "n": 91,
+      "greek": "εἴ πώς οἱ εἴξειε θυράων. ἀλλʼ ἄρα μιν φθῆ"
+    },
+    {
+      "n": 92,
+      "greek": "Τηλέμαχος κατόπισθε βαλὼν χαλκήρεϊ δουρὶ"
+    },
+    {
+      "n": 93,
+      "greek": "ὤμων μεσσηγύς, διὰ δὲ στήθεσφιν ἔλασσεν·"
+    },
+    {
+      "n": 94,
+      "greek": "δούπησεν δὲ πεσών, χθόνα δʼ ἤλασε παντὶ μετώπῳ."
+    },
+    {
+      "n": 95,
+      "greek": "Τηλέμαχος δʼ ἀπόρουσε, λιπὼν δολιχόσκιον ἔγχος"
+    },
+    {
+      "n": 96,
+      "greek": "αὐτοῦ ἐν Ἀμφινόμῳ· περὶ γὰρ δίε μή τις Ἀχαιῶν"
+    },
+    {
+      "n": 97,
+      "greek": "ἔγχος ἀνελκόμενον δολιχόσκιον ἢ ἐλάσειε"
+    },
+    {
+      "n": 98,
+      "greek": "φασγάνῳ ἀΐξας ἠὲ προπρηνέα τύψας."
+    },
+    {
+      "n": 99,
+      "greek": "βῆ δὲ θέειν, μάλα δʼ ὦκα φίλον πατέρʼ εἰσαφίκανεν,"
+    },
+    {
+      "n": 100,
+      "greek": "ἀγχοῦ δʼ ἱστάμενος ἔπεα πτερόεντα προσηύδα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "he bowed and fell, and spilt upon the floor the food and the two-handled cup. With his brow he beat the earth in agony of soul, and with both his feet he spurned and shook the chair, and a mist was shed over his eyes. Then Amphinomus made at glorious Odysseus,"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "rushing straight upon him, and had drawn his sharp sword, in hope that Odysseus might give way before him from the door. But Telemachus was too quick for him, and cast, and smote him from behind with his bronze-tipped spear between the shoulders, and drove it through his breast; and he fell with a thud, and struck the ground full with his forehead."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "But Telemachus sprang back, leaving the long spear where it was, fixed in Amphinomus, for he greatly feared lest, as he sought to draw forth the long spear, one of the Achaeans might rush upon him and stab with his sword, or deal him a blow as he stooped over the corpse. So he started to run, and came quickly to his dear father,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "and standing by his side spoke to him winged words: “Father, now will I bring thee a shield and two spears and a helmet all of bronze, well fitted to the temples, and when I come back I will arm myself, and will give armour likewise to the swineherd and yon neatherd; for it is better to be clothed in armour.”"
+    }
+  ]
+}

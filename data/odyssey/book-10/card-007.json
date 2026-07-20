@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "οἵ ῥʼ ἀπὸ πετράων ἀνδραχθέσι χερμαδίοισιν"
+    },
+    {
+      "n": 122,
+      "greek": "βάλλον· ἄφαρ δὲ κακὸς κόναβος κατὰ νῆας ὀρώρει"
+    },
+    {
+      "n": 123,
+      "greek": "ἀνδρῶν τʼ ὀλλυμένων νηῶν θʼ ἅμα ἀγνυμενάων·"
+    },
+    {
+      "n": 124,
+      "greek": "ἰχθῦς δʼ ὣς πείροντες ἀτερπέα δαῖτα φέροντο."
+    },
+    {
+      "n": 125,
+      "greek": "ὄφρʼ οἱ τοὺς ὄλεκον λιμένος πολυβενθέος ἐντός,"
+    },
+    {
+      "n": 126,
+      "greek": "τόφρα δʼ ἐγὼ ξίφος ὀξὺ ἐρυσσάμενος παρὰ μηροῦ"
+    },
+    {
+      "n": 127,
+      "greek": "τῷ ἀπὸ πείσματʼ ἔκοψα νεὸς κυανοπρῴροιο."
+    },
+    {
+      "n": 128,
+      "greek": "αἶψα δʼ ἐμοῖς ἑτάροισιν ἐποτρύνας ἐκέλευσα"
+    },
+    {
+      "n": 129,
+      "greek": "ἐμβαλέειν κώπῃς, ἵνʼ ὑπὲκ κακότητα φύγοιμεν·"
+    },
+    {
+      "n": 130,
+      "greek": "οἱ δʼ ἅλα πάντες ἀνέρριψαν, δείσαντες ὄλεθρον."
+    },
+    {
+      "n": 131,
+      "greek": "ἀσπασίως δʼ ἐς πόντον ἐπηρεφέας φύγε πέτρας"
+    },
+    {
+      "n": 132,
+      "greek": "νηῦς ἐμή· αὐτὰρ αἱ ἄλλαι ἀολλέες αὐτόθʼ ὄλοντο."
+    },
+    {
+      "n": 133,
+      "greek": "ἔνθεν δὲ προτέρω πλέομεν ἀκαχήμενοι ἦτορ,"
+    },
+    {
+      "n": 134,
+      "greek": "ἄσμενοι ἐκ θανάτοιο, φίλους ὀλέσαντες ἑταίρους."
+    },
+    {
+      "n": 135,
+      "greek": "Αἰαίην δʼ ἐς νῆσον ἀφικόμεθʼ· ἔνθα δʼ ἔναιε"
+    },
+    {
+      "n": 136,
+      "greek": "Κίρκη ἐυπλόκαμος, δεινὴ θεὸς αὐδήεσσα,"
+    },
+    {
+      "n": 137,
+      "greek": "αὐτοκασιγνήτη ὀλοόφρονος Αἰήταο·"
+    },
+    {
+      "n": 138,
+      "greek": "ἄμφω δʼ ἐκγεγάτην φαεσιμβρότου Ἠελίοιο"
+    },
+    {
+      "n": 139,
+      "greek": "μητρός τʼ ἐκ Πέρσης, τὴν Ὠκεανὸς τέκε παῖδα."
+    },
+    {
+      "n": 140,
+      "greek": "ἔνθα δʼ ἐπʼ ἀκτῆς νηὶ κατηγαγόμεσθα σιωπῇ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "Now while they were slaying those within the deep harbor, I meanwhile drew my sharp sword from beside my thigh, and cut therewith the cables of my dark-prowed ship; and quickly calling to my comrades bade them fall to their oars, that we might escape from out our evil plight."
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "And they all tossed the sea with their oar-blades in fear of death, and joyfully seaward, away from the beetling cliffs, my ship sped on; but all those other ships were lost together there. “Thence we sailed on, grieved at heart, glad to have escaped death, though we had lost our dear comrades;"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "and we came to the isle of Aeaea, where dwelt fair-tressed Circe, a dread goddess of human speech, own sister to Aeetes of baneful mind; and both are sprung from Helius, who gives light to mortals, and from Perse, their mother, whom Oceanus begot."
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "Here we put in to shore with our ship in silence, into a harbor where ships may lie, and some god guided us. Then we disembarked, and lay there for two days and two nights, eating our hearts for weariness and sorrow. But when fair-tressed Dawn brought to its birth the third day,"
+    }
+  ]
+}

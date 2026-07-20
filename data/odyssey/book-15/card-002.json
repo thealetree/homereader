@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "κείνου βούλεται οἶκον ὀφέλλειν ὅς κεν ὀπυίῃ,"
+    },
+    {
+      "n": 22,
+      "greek": "παίδων δὲ προτέρων καὶ κουριδίοιο φίλοιο"
+    },
+    {
+      "n": 23,
+      "greek": "οὐκέτι μέμνηται τεθνηκότος οὐδὲ μεταλλᾷ."
+    },
+    {
+      "n": 24,
+      "greek": "ἀλλὰ σύ γʼ ἐλθὼν αὐτὸς ἐπιτρέψειας ἕκαστα"
+    },
+    {
+      "n": 25,
+      "greek": "δμῳάων ἥ τίς τοι ἀρίστη φαίνεται εἶναι,"
+    },
+    {
+      "n": 26,
+      "greek": "εἰς ὅ κέ τοι φήνωσι θεοὶ κυδρὴν παράκοιτιν."
+    },
+    {
+      "n": 27,
+      "greek": "ἄλλο δέ τοί τι ἔπος ἐρέω, σὺ δὲ σύνθεο θυμῷ."
+    },
+    {
+      "n": 28,
+      "greek": "μνηστήρων σʼ ἐπιτηδὲς ἀριστῆες λοχόωσιν"
+    },
+    {
+      "n": 29,
+      "greek": "ἐν πορθμῷ Ἰθάκης τε Σάμοιό τε παιπαλοέσσης."
+    },
+    {
+      "n": 30,
+      "greek": "ἱέμενοι κτεῖναι, πρὶν πατρίδα γαῖαν ἱκέσθαι."
+    },
+    {
+      "n": 31,
+      "greek": "ἀλλὰ τά γʼ οὐκ ὀΐω· πρὶν καί τινα γαῖα καθέξει"
+    },
+    {
+      "n": 32,
+      "greek": "ἀνδρῶν μνηστήρων, οἵ τοι βίοτον κατέδουσιν."
+    },
+    {
+      "n": 33,
+      "greek": "ἀλλὰ ἑκὰς νήσων ἀπέχειν εὐεργέα νῆα,"
+    },
+    {
+      "n": 34,
+      "greek": "νυκτὶ δʼ ὁμῶς πλείειν· πέμψει δέ τοι οὖρον ὄπισθεν"
+    },
+    {
+      "n": 35,
+      "greek": "ἀθανάτων ὅς τίς σε φυλάσσει τε ῥύεταί τε."
+    },
+    {
+      "n": 36,
+      "greek": "αὐτὰρ ἐπὴν πρώτην ἀκτὴν Ἰθάκης ἀφίκηαι,"
+    },
+    {
+      "n": 37,
+      "greek": "νῆα μὲν ἐς πόλιν ὀτρῦναι καὶ πάντας ἑταίρους,"
+    },
+    {
+      "n": 38,
+      "greek": "αὐτὸς δὲ πρώτιστα συβώτην εἰσαφικέσθαι,"
+    },
+    {
+      "n": 39,
+      "greek": "ὅς τοι ὑῶν ἐπίουρος, ὁμῶς δέ τοι ἤπια οἶδεν."
+    },
+    {
+      "n": 40,
+      "greek": "ἔνθα δὲ νύκτʼ ἀέσαι· τὸν δʼ ὀτρῦναι πόλιν εἴσω"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "of the handmaids seems to thee the best, until the gods shall show thee a noble bride. And another thing will I tell thee, and do thou lay it to heart. The best men of the wooers lie in wait for thee of set purpose in the strait between Ithaca and rugged Samos,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "eager to slay thee before thou comest to thy native land. But methinks this shall not be; ere that shall the earth cover many a one of the wooers that devour thy substance. But do thou keep thy well-built ship far from the islands, and sail by night as well as by day, and that"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "one of the immortals, who keeps and guards thee, will send a fair breeze in thy wake. But when thou hast reached the nearest shore of Ithaca, send thy ship and all thy comrades on to the city, but thyself go first of all to the swineherd who keeps thy swine, and withal has a kindly heart toward thee."
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "There do thou spend the night, and bid him to go to the city to bear word to wise Penelope that she has thee safe, and thou art come from Pylos.” So saying, she departed to high Olympus. But Telemachus woke the son of Nestor out of sweet sleep,"
+    }
+  ]
+}

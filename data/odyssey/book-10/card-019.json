@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ἔς ῥʼ ἀσάμινθον ἕσασα λόʼ ἐκ τρίποδος μεγάλοιο,"
+    },
+    {
+      "n": 362,
+      "greek": "θυμῆρες κεράσασα, κατὰ κρατός τε καὶ ὤμων,"
+    },
+    {
+      "n": 363,
+      "greek": "ὄφρα μοι ἐκ κάματον θυμοφθόρον εἵλετο γυίων."
+    },
+    {
+      "n": 364,
+      "greek": "αὐτὰρ ἐπεὶ λοῦσέν τε καὶ ἔχρισεν λίπʼ ἐλαίῳ,"
+    },
+    {
+      "n": 365,
+      "greek": "ἀμφὶ δέ με χλαῖναν καλὴν βάλεν ἠδὲ χιτῶνα,"
+    },
+    {
+      "n": 366,
+      "greek": "εἷσε δέ μʼ εἰσαγαγοῦσα ἐπὶ θρόνου ἀργυροήλου"
+    },
+    {
+      "n": 367,
+      "greek": "καλοῦ δαιδαλέου, ὑπὸ δὲ θρῆνυς ποσὶν ἦεν·"
+    },
+    {
+      "n": 368,
+      "greek": "χέρνιβα δʼ ἀμφίπολος προχόῳ ἐπέχευε φέρουσα"
+    },
+    {
+      "n": 369,
+      "greek": "καλῇ χρυσείῃ, ὑπὲρ ἀργυρέοιο λέβητος,"
+    },
+    {
+      "n": 370,
+      "greek": "νίψασθαι· παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν."
+    },
+    {
+      "n": 371,
+      "greek": "σῖτον δʼ αἰδοίη ταμίη παρέθηκε φέρουσα,"
+    },
+    {
+      "n": 372,
+      "greek": "εἴδατα πόλλʼ ἐπιθεῖσα, χαριζομένη παρεόντων."
+    },
+    {
+      "n": 373,
+      "greek": "ἐσθέμεναι δʼ ἐκέλευεν· ἐμῷ δʼ οὐχ ἥνδανε θυμῷ,"
+    },
+    {
+      "n": 374,
+      "greek": "ἀλλʼ ἥμην ἀλλοφρονέων, κακὰ δʼ ὄσσετο θυμός."
+    },
+    {
+      "n": 375,
+      "greek": "Κίρκη δʼ ὡς ἐνόησεν ἔμʼ ἥμενον οὐδʼ ἐπὶ σίτῳ"
+    },
+    {
+      "n": 376,
+      "greek": "χεῖρας ἰάλλοντα, κρατερὸν δέ με πένθος ἔχοντα,"
+    },
+    {
+      "n": 377,
+      "greek": "ἄγχι παρισταμένη ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 378,
+      "greek": "τίφθʼ οὕτως, Ὀδυσεῦ, κατʼ ἄρʼ ἕζεαι ἶσος ἀναύδῳ,"
+    },
+    {
+      "n": 379,
+      "greek": "θυμὸν ἔδων, βρώμης δʼ οὐχ ἅπτεαι οὐδὲ ποτῆτος;"
+    },
+    {
+      "n": 380,
+      "greek": "ἦ τινά που δόλον ἄλλον ὀίεαι· οὐδέ τί σε χρὴ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "and had cast about me a fair cloak and a tunic, she brought me into the hall, and made me sit upon a silver-studded chair—a beautiful chair, richly wrought, and beneath was a foot-stool for the feet. Then a handmaid brought water for the hands in a fair pitcher of gold, and poured it over a silver basin"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "for me to wash, and beside me drew up a polished table. And the grave housewife brought and set before me bread, and therewith meats in abundance, granting freely of her store. Then she bade me eat, but my heart inclined not thereto. Rather, I sat with other thoughts, and my spirit boded ill."
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "“Now when Circe noted that I sat thus, and did not put forth my hands to the food, but was burdened with sore grief, she came close to me, and spoke winged words: “‘Why, Odysseus, dost thou sit thus like one that is dumb, eating thy heart, and dost not touch food or drink?"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "Dost thou haply forbode some other guile? Nay, thou needest in no wise fear, for already have I sworn a mighty oath to do thee no harm.’ “So she spoke, but I answered her, and said:‘Circe, what man that is right-minded could bring himself to taste of food or drink,"
+    }
+  ]
+}

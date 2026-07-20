@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "κεῖσʼ ἐξορμήσασα καὶ ἐς κακὸν ἄμμε βάλῃσθα."
+    },
+    {
+      "n": 222,
+      "greek": "ὣς ἐφάμην, οἱ δʼ ὦκα ἐμοῖς ἐπέεσσι πίθοντο."
+    },
+    {
+      "n": 223,
+      "greek": "Σκύλλην δʼ οὐκέτʼ ἐμυθεόμην, ἄπρηκτον ἀνίην,"
+    },
+    {
+      "n": 224,
+      "greek": "μή πώς μοι δείσαντες ἀπολλήξειαν ἑταῖροι"
+    },
+    {
+      "n": 225,
+      "greek": "εἰρεσίης, ἐντὸς δὲ πυκάζοιεν σφέας αὐτούς."
+    },
+    {
+      "n": 226,
+      "greek": "καὶ τότε δὴ Κίρκης μὲν ἐφημοσύνης ἀλεγεινῆς"
+    },
+    {
+      "n": 227,
+      "greek": "λανθανόμην, ἐπεὶ οὔ τί μʼ ἀνώγει θωρήσσεσθαι·"
+    },
+    {
+      "n": 228,
+      "greek": "αὐτὰρ ἐγὼ καταδὺς κλυτὰ τεύχεα καὶ δύο δοῦρε"
+    },
+    {
+      "n": 229,
+      "greek": "μάκρʼ ἐν χερσὶν ἑλὼν εἰς ἴκρια νηὸς ἔβαινον"
+    },
+    {
+      "n": 230,
+      "greek": "πρῴρης· ἔνθεν γάρ μιν ἐδέγμην πρῶτα φανεῖσθαι"
+    },
+    {
+      "n": 231,
+      "greek": "Σκύλλην πετραίην, ἥ μοι φέρε πῆμʼ ἑτάροισιν."
+    },
+    {
+      "n": 232,
+      "greek": "οὐδέ πῃ ἀθρῆσαι δυνάμην, ἔκαμον δέ μοι ὄσσε"
+    },
+    {
+      "n": 233,
+      "greek": "πάντῃ παπταίνοντι πρὸς ἠεροειδέα πέτρην."
+    },
+    {
+      "n": 234,
+      "greek": "ἡμεῖς μὲν στεινωπὸν ἀνεπλέομεν γοόωντες·"
+    },
+    {
+      "n": 235,
+      "greek": "ἔνθεν μὲν Σκύλλη, ἑτέρωθι δὲ δῖα Χάρυβδις"
+    },
+    {
+      "n": 236,
+      "greek": "δεινὸν ἀνερροίβδησε θαλάσσης ἁλμυρὸν ὕδωρ."
+    },
+    {
+      "n": 237,
+      "greek": "ἦ τοι ὅτʼ ἐξεμέσειε, λέβης ὣς ἐν πυρὶ πολλῷ"
+    },
+    {
+      "n": 238,
+      "greek": "πᾶσʼ ἀναμορμύρεσκε κυκωμένη, ὑψόσε δʼ ἄχνη"
+    },
+    {
+      "n": 239,
+      "greek": "ἄκροισι σκοπέλοισιν ἐπʼ ἀμφοτέροισιν ἔπιπτεν·"
+    },
+    {
+      "n": 240,
+      "greek": "ἀλλʼ ὅτʼ ἀναβρόξειε θαλάσσης ἁλμυρὸν ὕδωρ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "from rowing and huddle together in the hold. Then verily I forgot the hard command of Circe, whereas she bade me in no wise to arm myself; but when I had put on my glorious armour and grasped in my hand two long spears, I went to the fore-deck of the ship,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "whence I deemed that Scylla of the rock would first be seen, who was to bring ruin upon my comrades. But nowhere could I descry her, and my eyes grew weary as I gazed everywhere toward the misty rock. “We then sailed on up the narrow strait with wailing."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "For on one side lay Scylla and on the other divine Charybdis terribly sucked down the salt water of the sea. Verily whenever she belched it forth, like a cauldron on a great fire she would seethe and bubble in utter turmoil, and high over head the spray would fall on the tops of both the cliffs."
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "But as often as she sucked down the salt water of the sea, within she could all be seen in utter turmoil, and round about the rock roared terribly, while beneath the earth appeared black with sand; and pale fear seized my men. So we looked toward her and feared destruction;"
+    }
+  ]
+}

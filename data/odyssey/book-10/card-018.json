@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "ὄφρα με γυμνωθέντα κακὸν καὶ ἀνήνορα θήῃς."
+    },
+    {
+      "n": 342,
+      "greek": "οὐδʼ ἂν ἐγώ γʼ ἐθέλοιμι τεῆς ἐπιβήμεναι εὐνῆς,"
+    },
+    {
+      "n": 343,
+      "greek": "εἰ μή μοι τλαίης γε, θεά, μέγαν ὅρκον ὀμόσσαι"
+    },
+    {
+      "n": 344,
+      "greek": "μή τί μοι αὐτῷ πῆμα κακὸν βουλευσέμεν ἄλλο."
+    },
+    {
+      "n": 345,
+      "greek": "ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀπώμνυεν, ὡς ἐκέλευον."
+    },
+    {
+      "n": 346,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ὄμοσέν τε τελεύτησέν τε τὸν ὅρκον,"
+    },
+    {
+      "n": 347,
+      "greek": "καὶ τότʼ ἐγὼ Κίρκης ἐπέβην περικαλλέος εὐνῆς."
+    },
+    {
+      "n": 348,
+      "greek": "ἀμφίπολοι δʼ ἄρα τέως μὲν ἐνὶ μεγάροισι πένοντο"
+    },
+    {
+      "n": 349,
+      "greek": "τέσσαρες, αἵ οἱ δῶμα κάτα δρήστειραι ἔασι·"
+    },
+    {
+      "n": 350,
+      "greek": "γίγνονται δʼ ἄρα ταί γʼ ἔκ τε κρηνέων ἀπό τʼ ἀλσέων"
+    },
+    {
+      "n": 351,
+      "greek": "ἔκ θʼ ἱερῶν ποταμῶν, οἵ τʼ εἰς ἅλαδε προρέουσι."
+    },
+    {
+      "n": 352,
+      "greek": "τάων ἡ μὲν ἔβαλλε θρόνοις ἔνι ῥήγεα καλὰ"
+    },
+    {
+      "n": 353,
+      "greek": "πορφύρεα καθύπερθʼ, ὑπένερθε δὲ λῖθʼ ὑπέβαλλεν·"
+    },
+    {
+      "n": 354,
+      "greek": "ἡ δʼ ἑτέρη προπάροιθε θρόνων ἐτίταινε τραπέζας"
+    },
+    {
+      "n": 355,
+      "greek": "ἀργυρέας, ἐπὶ δέ σφι τίθει χρύσεια κάνεια·"
+    },
+    {
+      "n": 356,
+      "greek": "ἡ δὲ τρίτη κρητῆρι μελίφρονα οἶνον ἐκίρνα"
+    },
+    {
+      "n": 357,
+      "greek": "ἡδὺν ἐν ἀργυρέῳ, νέμε δὲ χρύσεια κύπελλα·"
+    },
+    {
+      "n": 358,
+      "greek": "ἡ δὲ τετάρτη ὕδωρ ἐφόρει καὶ πῦρ ἀνέκαιε"
+    },
+    {
+      "n": 359,
+      "greek": "πολλὸν ὑπὸ τρίποδι μεγάλῳ· ἰαίνετο δʼ ὕδωρ."
+    },
+    {
+      "n": 360,
+      "greek": "αὐτὰρ ἐπεὶ δὴ ζέσσεν ὕδωρ ἐνὶ ἤνοπι χαλκῷ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "“So I spoke, and she straightway swore the oath to do me no harm, as I bade her. But when she had sworn, and made an end of the oath, then I went up to the beautiful bed of Circe. “But her handmaids meanwhile were busied in the halls, four maidens who are her serving-women in the house."
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "Children are they of the springs and groves, and of the sacred rivers that flow forth to the sea, and of them one threw upon chairs fair rugs of purple above, and spread beneath them a linen cloth; another drew up before the chairs tables"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "of silver, and set upon them golden baskets; and the third mixed sweet, honey-hearted wine in a bowl of silver, and served out golden cups; and the fourth brought water, and kindled a great fire beneath a large cauldron, and the water grew warm."
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "But when the water boiled in the bright bronze, she set me in a bath, and bathed me with water from out the great cauldron, mixing it to my liking, and pouring it over my head and shoulders, till she took from my limbs soul-consuming weariness. But when she had bathed me, and anointed me richly with oil,"
+    }
+  ]
+}

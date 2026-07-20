@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ἥμενοι ἐν μέσσοισιν ἀκούσαμεν ὡς ἐβόησας."
+    },
+    {
+      "n": 282,
+      "greek": "νῶι μὲν ἀμφοτέρω μενεήναμεν ὁρμηθέντε"
+    },
+    {
+      "n": 283,
+      "greek": "ἢ ἐξελθέμεναι, ἢ ἔνδοθεν αἶψʼ ὑπακοῦσαι·"
+    },
+    {
+      "n": 284,
+      "greek": "ἀλλʼ Ὀδυσεὺς κατέρυκε καὶ ἔσχεθεν ἱεμένω περ."
+    },
+    {
+      "n": 285,
+      "greek": "ἔνθʼ ἄλλοι μὲν πάντες ἀκὴν ἔσαν υἷες Ἀχαιῶν,"
+    },
+    {
+      "n": 286,
+      "greek": "Ἄντικλος δὲ σέ γʼ οἶος ἀμείψασθαι ἐπέεσσιν"
+    },
+    {
+      "n": 287,
+      "greek": "ἤθελεν. ἀλλʼ Ὀδυσεὺς ἐπὶ μάστακα χερσὶ πίεζεν"
+    },
+    {
+      "n": 288,
+      "greek": "νωλεμέως κρατερῇσι, σάωσε δὲ πάντας Ἀχαιούς·"
+    },
+    {
+      "n": 289,
+      "greek": "τόφρα δʼ ἔχʼ, ὄφρα σε νόσφιν ἀπήγαγε Παλλὰς Ἀθήνη."
+    },
+    {
+      "n": 290,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 291,
+      "greek": "Ἀτρεΐδη Μενέλαε διοτρεφές, ὄρχαμε λαῶν,"
+    },
+    {
+      "n": 292,
+      "greek": "ἄλγιον· οὐ γάρ οἵ τι τάδʼ ἤρκεσε λυγρὸν ὄλεθρον,"
+    },
+    {
+      "n": 293,
+      "greek": "οὐδʼ εἴ οἱ κραδίη γε σιδηρέη ἔνδοθεν ἦεν."
+    },
+    {
+      "n": 294,
+      "greek": "ἀλλʼ ἄγετʼ εἰς εὐνὴν τράπεθʼ ἡμέας, ὄφρα καὶ ἤδη"
+    },
+    {
+      "n": 295,
+      "greek": "ὕπνῳ ὕπο γλυκερῷ ταρπώμεθα κοιμηθέντες."
+    },
+    {
+      "n": 296,
+      "greek": "ὣς ἔφατʼ, Ἀργείη δʼ Ἑλένη δμῳῇσι κέλευσεν"
+    },
+    {
+      "n": 297,
+      "greek": "δέμνιʼ ὑπʼ αἰθούσῃ θέμεναι καὶ ῥήγεα καλὰ"
+    },
+    {
+      "n": 298,
+      "greek": "πορφύρεʼ ἐμβαλέειν στορέσαι τʼ ἐφύπερθε τάπητας,"
+    },
+    {
+      "n": 299,
+      "greek": "χλαίνας τʼ ἐνθέμεναι οὔλας καθύπερθεν ἕσασθαι."
+    },
+    {
+      "n": 300,
+      "greek": "αἱ δʼ ἴσαν ἐκ μεγάροιο δάος μετὰ χερσὶν ἔχουσαι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "Then all the other sons of the Achaeans held their peace, but Anticlus alone was fain to speak and answer thee; but Odysseus firmly closed his mouth with strong hands, and saved all the Achaeans, and held him thus until Pallas Athena led thee away.”"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "Then wise Telemachus answered him: “Menelaus, son of Atreus, fostered of Zeus, leader of hosts, all the more grievous is it; for in no wise did this ward off from him woeful destruction, nay, not though the heart within him had been of iron. But come, send us to bed, that lulled now"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "by sweet sleep we may rest and take our joy.” Thus he spoke, and Argive Helen bade her handmaids place bedsteads beneath the portico, and to lay on them fair purple blankets, and to spread there over coverlets, and on these to put fleecy cloaks for clothing."
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "But the maids went forth from the hall with torches in their hands and strewed the couch, and a herald led forth the guests. So they slept there in the fore-hall of the palace, the prince Telemachus and the glorious son of Nestor; but the son of Atreus slept in the inmost chamber of the lofty house,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "ἂψ ἀναχωρήσειν, ὅτε δὴ καὶ ὀνείδεα βάζεις."
+    },
+    {
+      "n": 462,
+      "greek": "ὣς ἄρʼ ἔφη, καὶ θρῆνυν ἑλὼν βάλε δεξιὸν ὦμον,"
+    },
+    {
+      "n": 463,
+      "greek": "πρυμνότατον κατὰ νῶτον· ὁ δʼ ἐστάθη ἠΰτε πέτρη"
+    },
+    {
+      "n": 464,
+      "greek": "ἔμπεδον, οὐδʼ ἄρα μιν σφῆλεν βέλος Ἀντινόοιο,"
+    },
+    {
+      "n": 465,
+      "greek": "ἀλλʼ ἀκέων κίνησε κάρη, κακὰ βυσσοδομεύων."
+    },
+    {
+      "n": 466,
+      "greek": "ἂψ δʼ ὅ γʼ ἐπʼ οὐδὸν ἰὼν κατʼ ἄρʼ ἕζετο, κὰδ δʼ ἄρα πήρην"
+    },
+    {
+      "n": 467,
+      "greek": "θῆκεν ἐϋπλείην, μετὰ δὲ μνηστῆρσιν ἔειπε·"
+    },
+    {
+      "n": 468,
+      "greek": "κέκλυτέ μευ, μνηστῆρες ἀγακλειτῆς βασιλείης,"
+    },
+    {
+      "n": 469,
+      "greek": "ὄφρʼ εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει."
+    },
+    {
+      "n": 470,
+      "greek": "οὐ μὰν οὔτʼ ἄχος ἐστὶ μετὰ φρεσὶν οὔτε τι πένθος,"
+    },
+    {
+      "n": 471,
+      "greek": "ὁππότʼ ἀνὴρ περὶ οἷσι μαχειόμενος κτεάτεσσι"
+    },
+    {
+      "n": 472,
+      "greek": "βλήεται, ἢ περὶ βουσὶν ἢ ἀργεννῇς ὀΐεσσιν·"
+    },
+    {
+      "n": 473,
+      "greek": "αὐτὰρ ἔμʼ Ἀντίνοος βάλε γαστέρος εἵνεκα λυγρῆς,"
+    },
+    {
+      "n": 474,
+      "greek": "οὐλομένης, ἣ πολλὰ κάκʼ ἀνθρώποισι δίδωσιν."
+    },
+    {
+      "n": 475,
+      "greek": "ἀλλʼ εἴ που πτωχῶν γε θεοὶ καὶ Ἐρινύες εἰσίν,"
+    },
+    {
+      "n": 476,
+      "greek": "Ἀντίνοον πρὸ γάμοιο τέλος θανάτοιο κιχείη."
+    },
+    {
+      "n": 477,
+      "greek": "τὸν δʼ αὖτʼ Ἀντίνοος προσέφη, Εὐπείθεος υἱός·"
+    },
+    {
+      "n": 478,
+      "greek": "ἔσθιʼ ἕκηλος, ξεῖνε, καθήμενος, ἢ ἄπιθʼ ἄλλῃ,"
+    },
+    {
+      "n": 479,
+      "greek": "μή σε νέοι διὰ δώματʼ ἐρύσσωσʼ, οἷʼ ἀγορεύεις,"
+    },
+    {
+      "n": 480,
+      "greek": "ἢ ποδὸς ἢ καὶ χειρός, ἀποδρύψωσι δὲ πάντα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "but he shook his head in silence, pondering evil in the deep of his heart. Then back to the threshold he went and sat down, and down he laid his well-filled wallet; and he spoke among the wooers: “Hear me, wooers of the glorious queen, that I may say what the heart in my breast bids me."
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "Verily there is no pain of heart nor any grief when a man is smitten while fighting for his own possessions, whether for his cattle or for his white sheep; but Antinous has smitten me for my wretched belly's sake, an accursed plague that brings many evils upon men."
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "Ah, if for beggars there are gods and avengers, may the doom of death come upon Antinous before his marriage.” Then Antinous, son of Eupeithes, answered him: “Sit still, and eat, stranger, or go elsewhere; lest the young men drag thee"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "by hand or foot through the house for words like these, and strip off all thy skin.” So he spoke, but they all were filled with exceeding indignation, and thus would one of the proud youths speak: “Antinous, thou didst not well to strike the wretched wanderer. Doomed man that thou art, what if haply he be some god come down from heaven!"
+    }
+  ]
+}

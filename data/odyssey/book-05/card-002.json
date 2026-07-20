@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη νεφεληγερέτα Ζεύς·"
+    },
+    {
+      "n": 22,
+      "greek": "τέκνον ἐμόν, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων."
+    },
+    {
+      "n": 23,
+      "greek": "οὐ γὰρ δὴ τοῦτον μὲν ἐβούλευσας νόον αὐτή,"
+    },
+    {
+      "n": 24,
+      "greek": "ὡς ἦ τοι κείνους Ὀδυσεὺς ἀποτίσεται ἐλθών;"
+    },
+    {
+      "n": 25,
+      "greek": "Τηλέμαχον δὲ σὺ πέμψον ἐπισταμένως, δύνασαι γάρ,"
+    },
+    {
+      "n": 26,
+      "greek": "ὥς κε μάλʼ ἀσκηθὴς ἣν πατρίδα γαῖαν ἵκηται,"
+    },
+    {
+      "n": 27,
+      "greek": "μνηστῆρες δʼ ἐν νηὶ· παλιμπετὲς ἀπονέωνται."
+    },
+    {
+      "n": 28,
+      "greek": "ἦ ῥα καὶ Ἑρμείαν, υἱὸν φίλον, ἀντίον ηὔδα·"
+    },
+    {
+      "n": 29,
+      "greek": "Ἑρμεία, σὺ γὰρ αὖτε τά τʼ ἄλλα περ ἄγγελός ἐσσι,"
+    },
+    {
+      "n": 30,
+      "greek": "νύμφῃ ἐυπλοκάμῳ εἰπεῖν νημερτέα βουλήν,"
+    },
+    {
+      "n": 31,
+      "greek": "νόστον Ὀδυσσῆος ταλασίφρονος, ὥς κε νέηται"
+    },
+    {
+      "n": 32,
+      "greek": "οὔτε θεῶν πομπῇ οὔτε θνητῶν ἀνθρώπων·"
+    },
+    {
+      "n": 33,
+      "greek": "ἀλλʼ ὅ γʼ ἐπὶ σχεδίης πολυδέσμου πήματα πάσχων"
+    },
+    {
+      "n": 34,
+      "greek": "ἤματί κʼ εἰκοστῷ Σχερίην ἐρίβωλον ἵκοιτο,"
+    },
+    {
+      "n": 35,
+      "greek": "Φαιήκων ἐς γαῖαν, οἳ ἀγχίθεοι γεγάασιν,"
+    },
+    {
+      "n": 36,
+      "greek": "οἵ κέν μιν περὶ κῆρι θεὸν ὣς τιμήσουσιν,"
+    },
+    {
+      "n": 37,
+      "greek": "πέμψουσιν δʼ ἐν νηὶ φίλην ἐς πατρίδα γαῖαν,"
+    },
+    {
+      "n": 38,
+      "greek": "χαλκόν τε χρυσόν τε ἅλις ἐσθῆτά τε δόντες,"
+    },
+    {
+      "n": 39,
+      "greek": "πόλλʼ, ὅσʼ ἂν οὐδέ ποτε Τροίης ἐξήρατʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 40,
+      "greek": "εἴ περ ἀπήμων ἦλθε, λαχὼν ἀπὸ ληίδος αἶσαν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "But concerning Telemachus, do thou guide him in thy wisdom, for thou canst, that all unscathed he may reach his native land, and the wooers may come back in their ship baffled in their purpose.” He spoke, and said to Hermes, his dear son:“Hermes, do thou now, seeing that thou art at other times our messenger,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "declare to the fair-tressed nymph our fixed resolve, even the return of Odysseus of the steadfast heart, that he may return with guidance neither of gods nor of mortal men, but that on a stoutly-bound raft, suffering woes, he may come on the twentieth day to deep-soiled Scheria,"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "the land of the Phaeacians, who are near of kin to the gods. These shall heartily shew him all honor, as if he were a god, and shall send him in a ship to his dear native land, after giving him stores of bronze and gold and raiment, more than Odysseus would ever have won for himself from Troy,"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "if he had returned unscathed with his due share of the spoil. For in this wise it is his fate to see his friends, and reach his high-roofed house and his native land.” So he spoke, and the messenger, Argeiphontes, failed not to hearken. Straightway he bound beneath his feet his beautiful sandals,"
+    }
+  ]
+}

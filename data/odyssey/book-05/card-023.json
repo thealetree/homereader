@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "ἀλλʼ ὅτε δὴ ποταμοῖο κατὰ στόμα καλλιρόοιο"
+    },
+    {
+      "n": 442,
+      "greek": "ἷξε νέων, τῇ δή οἱ ἐείσατο χῶρος ἄριστος,"
+    },
+    {
+      "n": 443,
+      "greek": "λεῖος πετράων, καὶ ἐπὶ σκέπας ἦν ἀνέμοιο,"
+    },
+    {
+      "n": 444,
+      "greek": "ἔγνω δὲ προρέοντα καὶ εὔξατο ὃν κατὰ θυμόν·"
+    },
+    {
+      "n": 445,
+      "greek": "κλῦθι, ἄναξ, ὅτις ἐσσί· πολύλλιστον δέ σʼ ἱκάνω,"
+    },
+    {
+      "n": 446,
+      "greek": "φεύγων ἐκ πόντοιο Ποσειδάωνος ἐνιπάς."
+    },
+    {
+      "n": 447,
+      "greek": "αἰδοῖος μέν τʼ ἐστὶ καὶ ἀθανάτοισι θεοῖσιν"
+    },
+    {
+      "n": 448,
+      "greek": "ἀνδρῶν ὅς τις ἵκηται ἀλώμενος, ὡς καὶ ἐγὼ νῦν"
+    },
+    {
+      "n": 449,
+      "greek": "σόν τε ῥόον σά τε γούναθʼ ἱκάνω πολλὰ μογήσας."
+    },
+    {
+      "n": 450,
+      "greek": "ἀλλʼ ἐλέαιρε, ἄναξ· ἱκέτης δέ τοι εὔχομαι εἶναι."
+    },
+    {
+      "n": 451,
+      "greek": "ὣς φάθʼ, ὁ δʼ αὐτίκα παῦσεν ἑὸν ῥόον, ἔσχε δὲ κῦμα,"
+    },
+    {
+      "n": 452,
+      "greek": "πρόσθε δέ οἱ ποίησε γαλήνην, τὸν δʼ ἐσάωσεν"
+    },
+    {
+      "n": 453,
+      "greek": "ἐς ποταμοῦ προχοάς. ὁ δʼ ἄρʼ ἄμφω γούνατʼ ἔκαμψε"
+    },
+    {
+      "n": 454,
+      "greek": "χεῖράς τε στιβαράς. ἁλὶ γὰρ δέδμητο φίλον κῆρ."
+    },
+    {
+      "n": 455,
+      "greek": "ᾤδεε δὲ χρόα πάντα, θάλασσα δὲ κήκιε πολλὴ"
+    },
+    {
+      "n": 456,
+      "greek": "ἂν στόμα τε ῥῖνάς θʼ· ὁ δʼ ἄρʼ ἄπνευστος καὶ ἄναυδος"
+    },
+    {
+      "n": 457,
+      "greek": "κεῖτʼ ὀλιγηπελέων, κάματος δέ μιν αἰνὸς ἵκανεν."
+    },
+    {
+      "n": 458,
+      "greek": "ἀλλʼ ὅτε δή ῥʼ ἄμπνυτο καὶ ἐς φρένα θυμὸς ἀγέρθη,"
+    },
+    {
+      "n": 459,
+      "greek": "καὶ τότε δὴ κρήδεμνον ἀπὸ ἕο λῦσε θεοῖο."
+    },
+    {
+      "n": 460,
+      "greek": "καὶ τὸ μὲν ἐς ποταμὸν ἁλιμυρήεντα μεθῆκεν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "“Hear me, O king, whosoever thou art. As to one greatly longed-for do I come to thee, seeking to escape from out the sea from the threats of Poseidon. Reverend even in the eyes of the immortal gods is that man who comes as a wanderer, even as I have now come to thy stream and to thy knees, after many toils."
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "Nay, pity me, O king, for I declare that I am thy suppliant.” So he spoke, and the god straightway stayed his stream, and checked the waves, and made a calm before him, and brought him safely to the mouth of the river. And he let his two knees bend and his strong hands fall, for his spirit was crushed by the sea."
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "And all his flesh was swollen, and sea water flowed in streams up through his mouth and nostrils. So he lay breathless and speechless, with scarce strength to move; for terrible weariness had come upon him. But when he revived, and his spirit returned again into his breast, then he loosed from him the veil of the goddess and let it fall into the river that murmured seaward;"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "and the great wave bore it back down the stream, and straightway Ino received it in her hands. But Odysseus, going back from the river, sank down in the reeds and kissed the earth, the giver of grain; and deeply moved he spoke to his own mighty spirit:"
+    }
+  ]
+}

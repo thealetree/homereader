@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "μνάσθω ἐέδνοισιν διζήμενος· ἡ δέ κʼ ἔπειτα"
+    },
+    {
+      "n": 162,
+      "greek": "γήμαιθʼ ὅς κε πλεῖστα πόροι καὶ μόρσιμος ἔλθοι."
+    },
+    {
+      "n": 163,
+      "greek": "ὣς ἄρʼ ἐφώνησεν καὶ ἀπὸ ἕο τόξον ἔθηκε,"
+    },
+    {
+      "n": 164,
+      "greek": "κλίνας κολλητῇσιν ἐϋξέστῃς σανίδεσσιν,"
+    },
+    {
+      "n": 165,
+      "greek": "αὐτοῦ δʼ ὠκὺ βέλος καλῇ προσέκλινε κορώνῃ,"
+    },
+    {
+      "n": 166,
+      "greek": "ἂψ δʼ αὖτις κατʼ ἄρ ἕζετʼ ἐπὶ θρόνου ἔνθεν ἀνέστη."
+    },
+    {
+      "n": 167,
+      "greek": "Ἀντίνοος δʼ ἐνένιπεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    },
+    {
+      "n": 168,
+      "greek": "Λειῶδες, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων,"
+    },
+    {
+      "n": 169,
+      "greek": "δεινόν τʼ ἀργαλέον τε, —νεμεσσῶμαι δέ τʼ ἀκούων—"
+    },
+    {
+      "n": 170,
+      "greek": "εἰ δὴ τοῦτό γε τόξον ἀριστῆας κεκαδήσει"
+    },
+    {
+      "n": 171,
+      "greek": "θυμοῦ καὶ ψυχῆς, ἐπεὶ οὐ δύνασαι σὺ τανύσσαι."
+    },
+    {
+      "n": 172,
+      "greek": "οὐ γάρ τοί σέ γε τοῖον ἐγείνατο πότνια μήτηρ"
+    },
+    {
+      "n": 173,
+      "greek": "οἷόν τε ῥυτῆρα βιοῦ τʼ ἔμεναι καὶ ὀϊστῶν·"
+    },
+    {
+      "n": 174,
+      "greek": "ἀλλʼ ἄλλοι τανύουσι τάχα μνηστῆρες ἀγαυοί."
+    },
+    {
+      "n": 175,
+      "greek": "ὣς φάτο, καί ῥʼ ἐκέλευσε Μελάνθιον, αἰπόλον αἰγῶν·"
+    },
+    {
+      "n": 176,
+      "greek": "ἄγρει δή, πῦρ κῆον ἐνὶ μεγάροισι, Μελανθεῦ,"
+    },
+    {
+      "n": 177,
+      "greek": "πὰρ δὲ τίθει δίφρον τε μέγαν καὶ κῶας ἐπʼ αὐτοῦ,"
+    },
+    {
+      "n": 178,
+      "greek": "ἐκ δὲ στέατος ἔνεικε μέγαν τροχὸν ἔνδον ἐόντος,"
+    },
+    {
+      "n": 179,
+      "greek": "ὄφρα νέοι θάλποντες, ἐπιχρίοντες ἀλοιφῇ,"
+    },
+    {
+      "n": 180,
+      "greek": "τόξου πειρώμεσθα καὶ ἐκτελέωμεν ἄεθλον."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "and hard by he leaned the swift arrow against the fair bow-tip, and then sat down on the seat from which he had risen. But Antinous rebuked him, and spoke, and addressed him: “Leiodes, what a word has escaped the barrier of thy teeth, a dread word and grievous! I am angered to hear it,"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "if forsooth this bow is to rob princes of spirit and of life, because thou art not able to string it. For, I tell thee, thy honored mother did not bear thee of such strength as to draw a bow and shoot arrows; but others of the lordly wooers will soon string it.”"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "So he spoke, and called to Melanthius, the goatherd: “Come now, light a fire in the hall, Melanthius; and set by it a great seat with a fleece upon it, and bring forth a great cake of the fat that is within, that we youths may warm the bow, and anoint it with fat,"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "and so make trial of it, and end the contest.” So he spoke, and Melanthius straightway rekindled the unwearied fire, and brought and placed by it a great seat with a fleece upon it, and he brought forth a great cake of the fat that was within. Therewith the youths warmed the bow, and made trial of it, but they could not"
+    }
+  ]
+}

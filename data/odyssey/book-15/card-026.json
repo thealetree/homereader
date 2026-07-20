@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 502,
+      "greek": "τοῖσι δὲ Τηλέμαχος πεπνυμένος ἤρχετο μύθων·"
+    },
+    {
+      "n": 503,
+      "greek": "ὑμεῖς μὲν νῦν ἄστυδʼ ἐλαύνετε νῆα μέλαιναν,"
+    },
+    {
+      "n": 504,
+      "greek": "αὐτὰρ ἐγὼν ἀγροὺς ἐπιείσομαι ἠδὲ βοτῆρας·"
+    },
+    {
+      "n": 505,
+      "greek": "ἑσπέριος δʼ εἰς ἄστυ ἰδὼν ἐμὰ ἔργα κάτειμι."
+    },
+    {
+      "n": 506,
+      "greek": "ἠῶθεν δέ κεν ὔμμιν ὁδοιπόριον παραθείμην,"
+    },
+    {
+      "n": 507,
+      "greek": "δαῖτʼ ἀγαθὴν κρειῶν τε καὶ οἴνου ἡδυπότοιο."
+    },
+    {
+      "n": 508,
+      "greek": "τὸν δʼ αὖτε προσέειπε Θεοκλύμενος θεοειδής·"
+    },
+    {
+      "n": 509,
+      "greek": "πῆ γὰρ ἐγώ, φίλε τέκνον, ἴω; τεῦ δώμαθʼ ἵκωμαι"
+    },
+    {
+      "n": 510,
+      "greek": "ἀνδρῶν οἳ κραναὴν Ἰθάκην κάτα κοιρανέουσιν;"
+    },
+    {
+      "n": 511,
+      "greek": "ἦ ἰθὺς σῆς μητρὸς ἴω καὶ σοῖο δόμοιο;"
+    },
+    {
+      "n": 512,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 513,
+      "greek": "ἄλλως μέν σʼ ἂν ἐγώ γε καὶ ἡμέτερόνδε κελοίμην"
+    },
+    {
+      "n": 514,
+      "greek": "ἔρχεσθʼ· οὐ γάρ τι ξενίων ποθή· ἀλλὰ σοὶ αὐτῷ"
+    },
+    {
+      "n": 515,
+      "greek": "χεῖρον, ἐπεί τοι ἐγὼ μὲν ἀπέσσομαι, οὐδέ σε μήτηρ"
+    },
+    {
+      "n": 516,
+      "greek": "ὄψεται· οὐ μὲν γάρ τι θαμὰ μνηστῆρσʼ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 517,
+      "greek": "φαίνεται, ἀλλʼ ἀπὸ τῶν ὑπερωΐῳ ἱστὸν ὑφαίνει."
+    },
+    {
+      "n": 518,
+      "greek": "ἀλλά τοι ἄλλον φῶτα πιφαύσκομαι ὅν κεν ἵκοιο,"
+    },
+    {
+      "n": 519,
+      "greek": "Εὐρύμαχον, Πολύβοιο δαΐφρονος ἀγλαὸν υἱόν,"
+    },
+    {
+      "n": 520,
+      "greek": "τὸν νῦν ἶσα θεῷ Ἰθακήσιοι εἰσορόωσι·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "and at evening will come to the city when I have looked over my lands. And in the morning I will set before you, as wages for your journey, a good feast of flesh and sweet wine.” Then godlike Theoclymenus answered him: “Whither shall I go, dear child? To whose house shall I come"
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "of those who rule in rocky Ithaca? Or shall I go straight to thy mother's house and thine?” Then wise Telemachus answered him: “Were things otherwise, I should bid thee go even to our house, for there is in no wise lack of entertainment for strangers, but"
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "it would be worse for thyself, since I shall be away, and my mother will not see thee. For she does not often appear before the wooers in the house, but apart from them weaves at her loom in an upper chamber. But I will tell thee of another man to whom thou mayest go, Eurymachus, glorious son of wise Polybus,"
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "whom now the men of Ithaca look upon as on a god. For he is by far the best man, and is most eager to marry my mother and to have the honor of Odysseus. Nevertheless Olympian Zeus, who dwells in the sky, knows this, whether or not before marriage he will fulfil for them the evil day.”"
+    }
+  ]
+}

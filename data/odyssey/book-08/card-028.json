@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 28,
+  "lineStart": 541,
+  "lineEnd": 560,
+  "lines": [
+    {
+      "n": 541,
+      "greek": "ὁ ξεῖνος· μάλα πού μιν ἄχος φρένας ἀμφιβέβηκεν."
+    },
+    {
+      "n": 542,
+      "greek": "ἀλλʼ ἄγʼ ὁ μὲν σχεθέτω, ἵνʼ ὁμῶς τερπώμεθα πάντες,"
+    },
+    {
+      "n": 543,
+      "greek": "ξεινοδόκοι καὶ ξεῖνος, ἐπεὶ πολὺ κάλλιον οὕτως·"
+    },
+    {
+      "n": 544,
+      "greek": "εἵνεκα γὰρ ξείνοιο τάδʼ αἰδοίοιο τέτυκται,"
+    },
+    {
+      "n": 545,
+      "greek": "πομπὴ καὶ φίλα δῶρα, τά οἱ δίδομεν φιλέοντες."
+    },
+    {
+      "n": 546,
+      "greek": "ἀντὶ κασιγνήτου ξεῖνός θʼ ἱκέτης τε τέτυκται"
+    },
+    {
+      "n": 547,
+      "greek": "ἀνέρι, ὅς τʼ ὀλίγον περ ἐπιψαύῃ πραπίδεσσι."
+    },
+    {
+      "n": 548,
+      "greek": "τῷ νῦν μηδὲ σὺ κεῦθε νοήμασι κερδαλέοισιν"
+    },
+    {
+      "n": 549,
+      "greek": "ὅττι κέ σʼ εἴρωμαι· φάσθαι δέ σε κάλλιόν ἐστιν."
+    },
+    {
+      "n": 550,
+      "greek": "εἴπʼ ὄνομʼ ὅττι σε κεῖθι κάλεον μήτηρ τε πατήρ τε"
+    },
+    {
+      "n": 551,
+      "greek": "ἄλλοι θʼ οἳ κατὰ ἄστυ καὶ οἳ περιναιετάουσιν."
+    },
+    {
+      "n": 552,
+      "greek": "οὐ μὲν γάρ τις πάμπαν ἀνώνυμός ἐστʼ ἀνθρώπων,"
+    },
+    {
+      "n": 553,
+      "greek": "οὐ κακὸς οὐδὲ μὲν ἐσθλός, ἐπὴν τὰ πρῶτα γένηται,"
+    },
+    {
+      "n": 554,
+      "greek": "ἀλλʼ ἐπὶ πᾶσι τίθενται, ἐπεί κε τέκωσι, τοκῆες."
+    },
+    {
+      "n": 555,
+      "greek": "εἰπὲ δέ μοι γαῖάν τε· τεὴν δῆμόν τε πόλιν τε,"
+    },
+    {
+      "n": 556,
+      "greek": "ὄφρα σε τῇ πέμπωσι τιτυσκόμεναι φρεσὶ νῆες·"
+    },
+    {
+      "n": 557,
+      "greek": "οὐ γὰρ Φαιήκεσσι κυβερνητῆρες ἔασιν,"
+    },
+    {
+      "n": 558,
+      "greek": "οὐδέ τι πηδάλιʼ ἔστι, τά τʼ ἄλλαι νῆες ἔχουσιν·"
+    },
+    {
+      "n": 559,
+      "greek": "ἀλλʼ αὐταὶ ἴσασι νοήματα καὶ φρένας ἀνδρῶν,"
+    },
+    {
+      "n": 560,
+      "greek": "καὶ πάντων ἴσασι πόλιας καὶ πίονας ἀγροὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        549
+      ],
+      "text": "his sending and the gifts of friendship which we give him of our love. Dear as a brother is the stranger and the suppliant to a man whose wits have never so short a range. Therefore do not thou longer hide with crafty thought whatever I shall ask thee;to speak out plainly is the better course."
+    },
+    {
+      "lines": [
+        550,
+        554
+      ],
+      "text": "Tell me the name by which they were wont to call thee in thy home, even thy mother and thy father and other folk besides, thy townsmen and the dwellers round about. For there is no one of all mankind who is nameless, be he base man or noble, when once he has been born, but parents bestow names on all when they give them birth."
+    },
+    {
+      "lines": [
+        555,
+        559
+      ],
+      "text": "And tell me thy country, thy people, and thy city, that our ships may convey thee thither, discerning the course by their wits. For the Phaeacians have no pilots, nor steering-oars such as other ships have, but their ships of themselves understand the thoughts and minds of men,"
+    },
+    {
+      "lines": [
+        560,
+        560
+      ],
+      "text": "and they know the cities and rich fields of all peoples, and most swiftly do they cross over the gulf of the sea, hidden in mist and cloud, nor ever have they fear of harm or ruin. Yet this story I once heard thus told by my father"
+    }
+  ]
+}

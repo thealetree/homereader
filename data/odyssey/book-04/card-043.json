@@ -1,0 +1,49 @@
+{
+  "book": 4,
+  "card": 43,
+  "lineStart": 841,
+  "lineEnd": 847,
+  "lines": [
+    {
+      "n": 841,
+      "greek": "ὥς οἱ ἐναργὲς ὄνειρον ἐπέσσυτο νυκτὸς ἀμολγῷ."
+    },
+    {
+      "n": 842,
+      "greek": "μνηστῆρες δʼ ἀναβάντες ἐπέπλεον ὑγρὰ κέλευθα"
+    },
+    {
+      "n": 843,
+      "greek": "Τηλεμάχῳ φόνον αἰπὺν ἐνὶ φρεσὶν ὁρμαίνοντες."
+    },
+    {
+      "n": 844,
+      "greek": "ἔστι δέ τις νῆσος μέσσῃ ἁλὶ πετρήεσσα,"
+    },
+    {
+      "n": 845,
+      "greek": "μεσσηγὺς Ἰθάκης τε Σάμοιό τε παιπαλοέσσης,"
+    },
+    {
+      "n": 846,
+      "greek": "Ἀστερίς, οὐ μεγάλη· λιμένες δʼ ἔνι ναύλοχοι αὐτῇ"
+    },
+    {
+      "n": 847,
+      "greek": "ἀμφίδυμοι· τῇ τόν γε μένον λοχόωντες Ἀχαιοί."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        845,
+        847
+      ],
+      "text": "midway between Ithaca and rugged Samos, Asteris, of no great size, but therein is a harbor where ships may lie, with an entrance on either side. There it was that the Achaeans tarried, lying in wait for Telemachus."
+    }
+  ]
+}

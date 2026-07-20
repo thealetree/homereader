@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "ἣ δὴ καὶ Διὸς εὔχετʼ ἐν ἀγκοίνῃσιν ἰαῦσαι,"
+    },
+    {
+      "n": 262,
+      "greek": "καί ῥʼ ἔτεκεν δύο παῖδʼ, Ἀμφίονά τε Ζῆθόν τε,"
+    },
+    {
+      "n": 263,
+      "greek": "οἳ πρῶτοι Θήβης ἕδος ἔκτισαν ἑπταπύλοιο,"
+    },
+    {
+      "n": 264,
+      "greek": "πύργωσάν τʼ, ἐπεὶ οὐ μὲν ἀπύργωτόν γʼ ἐδύναντο"
+    },
+    {
+      "n": 265,
+      "greek": "ναιέμεν εὐρύχορον Θήβην, κρατερώ περ ἐόντε."
+    },
+    {
+      "n": 266,
+      "greek": "τὴν δὲ μετʼ Ἀλκμήνην ἴδον, Ἀμφιτρύωνος ἄκοιτιν,"
+    },
+    {
+      "n": 267,
+      "greek": "ἥ ῥʼ Ἡρακλῆα θρασυμέμνονα θυμολέοντα"
+    },
+    {
+      "n": 268,
+      "greek": "γείνατʼ ἐν ἀγκοίνῃσι Διὸς μεγάλοιο μιγεῖσα·"
+    },
+    {
+      "n": 269,
+      "greek": "καὶ Μεγάρην, Κρείοντος ὑπερθύμοιο θύγατρα,"
+    },
+    {
+      "n": 270,
+      "greek": "τὴν ἔχεν Ἀμφιτρύωνος υἱὸς μένος αἰὲν ἀτειρής."
+    },
+    {
+      "n": 271,
+      "greek": "μητέρα τʼ Οἰδιπόδαο ἴδον, καλὴν Ἐπικάστην,"
+    },
+    {
+      "n": 272,
+      "greek": "ἣ μέγα ἔργον ἔρεξεν ἀιδρείῃσι νόοιο"
+    },
+    {
+      "n": 273,
+      "greek": "γημαμένη ᾧ υἷι· ὁ δʼ ὃν πατέρʼ ἐξεναρίξας"
+    },
+    {
+      "n": 274,
+      "greek": "γῆμεν· ἄφαρ δʼ ἀνάπυστα θεοὶ θέσαν ἀνθρώποισιν."
+    },
+    {
+      "n": 275,
+      "greek": "ἀλλʼ ὁ μὲν ἐν Θήβῃ πολυηράτῳ ἄλγεα πάσχων"
+    },
+    {
+      "n": 276,
+      "greek": "Καδμείων ἤνασσε θεῶν ὀλοὰς διὰ βουλάς·"
+    },
+    {
+      "n": 277,
+      "greek": "ἡ δʼ ἔβη εἰς Ἀίδαο πυλάρταο κρατεροῖο,"
+    },
+    {
+      "n": 278,
+      "greek": "ἁψαμένη βρόχον αἰπὺν ἀφʼ ὑψηλοῖο μελάθρου,"
+    },
+    {
+      "n": 279,
+      "greek": "ᾧ ἄχεϊ σχομένη· τῷ δʼ ἄλγεα κάλλιπʼ ὀπίσσω"
+    },
+    {
+      "n": 280,
+      "greek": "πολλὰ μάλʼ, ὅσσα τε μητρὸς Ἐρινύες ἐκτελέουσιν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "dwell in spacious Thebe unfenced, how mighty soever they were. “And after her I saw Alcmene, wife of Amphitryon, who lay in the arms of great Zeus, and bore Heracles, staunch in fight, the lion-hearted. And Megara I saw, daughter of Creon, high-of-heart,"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "whom the son of Amphitryon, ever stubborn in might, had to wife. “And I saw the mother of Oedipodes, fair Epicaste, who wrought a monstrous deed in ignorance of mind, in that she wedded her own son, and he, when he had slain his own father, wedded her, and straightway the gods made these things known among men."
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "Howbeit he abode as lord of the Cadmeans in lovely Thebe, suffering woes through the baneful counsels of the gods, but she went down to the house of Hades, the strong warder. She made fast a noose on high from a lofty beam, overpowered by her sorrow, but for him she left behind woes"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "full many, even all that the Avengers of a mother bring to pass. “And I saw beauteous Chloris, whom once Neleus wedded because of her beauty, when he had brought countless gifts of wooing. Youngest daughter was she of Amphion, son of Iasus, who once ruled mightily in Orchomenus of the Minyae."
+    }
+  ]
+}

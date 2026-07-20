@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "βάντες ἀπέπλειον, πῦρ ἐν κλισίῃσι βαλόντες,"
+    },
+    {
+      "n": 502,
+      "greek": "Ἀργεῖοι, τοὶ δʼ ἤδη ἀγακλυτὸν ἀμφʼ Ὀδυσῆα"
+    },
+    {
+      "n": 503,
+      "greek": "ἥατʼ ἐνὶ Τρώων ἀγορῇ κεκαλυμμένοι ἵππῳ·"
+    },
+    {
+      "n": 504,
+      "greek": "αὐτοὶ γάρ μιν Τρῶες ἐς ἀκρόπολιν ἐρύσαντο."
+    },
+    {
+      "n": 505,
+      "greek": "ὣς ὁ μὲν ἑστήκει, τοὶ δʼ ἄκριτα πόλλʼ ἀγόρευον"
+    },
+    {
+      "n": 506,
+      "greek": "ἥμενοι ἀμφʼ αὐτόν· τρίχα δέ σφισιν ἥνδανε βουλή,"
+    },
+    {
+      "n": 507,
+      "greek": "ἠὲ διαπλῆξαι κοῖλον δόρυ νηλέι χαλκῷ,"
+    },
+    {
+      "n": 508,
+      "greek": "ἢ κατὰ πετράων βαλέειν ἐρύσαντας ἐπʼ ἄκρης,"
+    },
+    {
+      "n": 509,
+      "greek": "ἢ ἐάαν μέγʼ ἄγαλμα θεῶν θελκτήριον εἶναι,"
+    },
+    {
+      "n": 510,
+      "greek": "τῇ περ δὴ καὶ ἔπειτα τελευτήσεσθαι ἔμελλεν·"
+    },
+    {
+      "n": 511,
+      "greek": "αἶσα γὰρ ἦν ἀπολέσθαι, ἐπὴν πόλις ἀμφικαλύψῃ"
+    },
+    {
+      "n": 512,
+      "greek": "δουράτεον μέγαν ἵππον, ὅθʼ ἥατο πάντες ἄριστοι"
+    },
+    {
+      "n": 513,
+      "greek": "Ἀργείων Τρώεσσι φόνον καὶ κῆρα φέροντες."
+    },
+    {
+      "n": 514,
+      "greek": "ἤειδεν δʼ ὡς ἄστυ διέπραθον υἷες Ἀχαιῶν"
+    },
+    {
+      "n": 515,
+      "greek": "ἱππόθεν ἐκχύμενοι, κοῖλον λόχον ἐκπρολιπόντες."
+    },
+    {
+      "n": 516,
+      "greek": "ἄλλον δʼ ἄλλῃ ἄειδε πόλιν κεραϊζέμεν αἰπήν,"
+    },
+    {
+      "n": 517,
+      "greek": "αὐτὰρ Ὀδυσσῆα προτὶ δώματα Δηιφόβοιο"
+    },
+    {
+      "n": 518,
+      "greek": "βήμεναι, ἠύτʼ Ἄρηα σὺν ἀντιθέῳ Μενελάῳ."
+    },
+    {
+      "n": 519,
+      "greek": "κεῖθι δὴ αἰνότατον πόλεμον φάτο τολμήσαντα"
+    },
+    {
+      "n": 520,
+      "greek": "νικῆσαι καὶ ἔπειτα διὰ μεγάθυμον Ἀθήνην."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "So there it stood, while the people talked long as they sat about it, and could form no resolve. Nay, in three ways did counsel find favour in their minds: either to cleave the hollow timber with the pitiless bronze, or to drag it to the height and cast it down the rocks, or to let it stand as a great offering to propitiate the gods,"
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "even as in the end it was to be brought to pass; for it was their fate to perish when their city should enclose the great horse of wood, wherein were sitting all the best of the Argives, bearing to the Trojans death and fate. And he sang how the sons of the Achaeans"
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "poured forth from the horse and, leaving their hollow ambush, sacked the city. Of the others he sang how in divers ways they wasted the lofty city, but of Odysseus, how he went like Ares to the house of Deiphobus together with godlike Menelaus. There it was, he said, that Odysseus braved the most terrible fight"
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "and in the end conquered by the aid of great-hearted Athena. This song the famous minstrel sang. But the heart of Odysseus was melted and tears wet his cheeks beneath his eyelids. And as a woman wails and flings herself about her dear husband, who has fallen in front of his city and his people,"
+    }
+  ]
+}

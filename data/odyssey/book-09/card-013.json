@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "ὄβριμον· οὐκ ἂν τόν γε δύω καὶ εἴκοσʼ ἄμαξαι"
+    },
+    {
+      "n": 242,
+      "greek": "ἐσθλαὶ τετράκυκλοι ἀπʼ οὔδεος ὀχλίσσειαν·"
+    },
+    {
+      "n": 243,
+      "greek": "τόσσην ἠλίβατον πέτρην ἐπέθηκε θύρῃσιν."
+    },
+    {
+      "n": 244,
+      "greek": "ἑζόμενος δʼ ἤμελγεν ὄις καὶ μηκάδας αἶγας,"
+    },
+    {
+      "n": 245,
+      "greek": "πάντα κατὰ μοῖραν, καὶ ὑπʼ ἔμβρυον ἧκεν ἑκάστῃ."
+    },
+    {
+      "n": 246,
+      "greek": "αὐτίκα δʼ ἥμισυ μὲν θρέψας λευκοῖο γάλακτος"
+    },
+    {
+      "n": 247,
+      "greek": "πλεκτοῖς ἐν ταλάροισιν ἀμησάμενος κατέθηκεν,"
+    },
+    {
+      "n": 248,
+      "greek": "ἥμισυ δʼ αὖτʼ ἔστησεν ἐν ἄγγεσιν, ὄφρα οἱ εἴη"
+    },
+    {
+      "n": 249,
+      "greek": "πίνειν αἰνυμένῳ καί οἱ ποτιδόρπιον εἴη."
+    },
+    {
+      "n": 250,
+      "greek": "αὐτὰρ ἐπεὶ δὴ σπεῦσε πονησάμενος τὰ ἃ ἔργα,"
+    },
+    {
+      "n": 251,
+      "greek": "καὶ τότε πῦρ ἀνέκαιε καὶ εἴσιδεν, εἴρετο δʼ ἡμέας·"
+    },
+    {
+      "n": 252,
+      "greek": "ὦ ξεῖνοι, τίνες ἐστέ; πόθεν πλεῖθʼ ὑγρὰ κέλευθα;"
+    },
+    {
+      "n": 253,
+      "greek": "ἦ τι κατὰ πρῆξιν ἦ μαψιδίως ἀλάλησθε,"
+    },
+    {
+      "n": 254,
+      "greek": "οἷά τε ληιστῆρες, ὑπεὶρ ἅλα, τοί τʼ ἀλόωνται"
+    },
+    {
+      "n": 255,
+      "greek": "ψυχὰς παρθέμενοι κακὸν ἀλλοδαποῖσι φέροντες;"
+    },
+    {
+      "n": 256,
+      "greek": "ὣς ἔφαθʼ, ἡμῖν δʼ αὖτε κατεκλάσθη φίλον ἦτορ,"
+    },
+    {
+      "n": 257,
+      "greek": "δεισάντων φθόγγον τε βαρὺν αὐτόν τε πέλωρον."
+    },
+    {
+      "n": 258,
+      "greek": "ἀλλὰ καὶ ὥς μιν ἔπεσσιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 259,
+      "greek": "ἡμεῖς τοι Τροίηθεν ἀποπλαγχθέντες Ἀχαιοὶ"
+    },
+    {
+      "n": 260,
+      "greek": "παντοίοις ἀνέμοισιν ὑπὲρ μέγα λαῖτμα θαλάσσης,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "all in turn, and beneath each dam he placed her young. Then presently he curdled half the white milk, and gathered it in wicker baskets and laid it away, and the other half he set in vessels that he might have it to take and drink, and that it might serve him for supper."
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "But when he had busily performed his tasks, then he rekindled the fire, and caught sight of us, and asked: “‘Strangers, who are ye? Whence do ye sail over the watery ways? Is it on some business, or do ye wander at random over the sea, even as pirates, who wander,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "hazarding their lives and bringing evil to men of other lands?’ “So he spoke, and in our breasts our spirit was broken for terror of his deep voice and monstrous self; yet even so I made answer and spoke to him, saying: “‘We, thou must know, are from Troy, Achaeans, driven wandering"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "by all manner of winds over the great gulf of the sea. Seeking our home, we have come by another way, by other paths; so, I ween, Zeus was pleased to devise. And we declare that we are the men of Agamemnon, son of Atreus, whose fame is now mightiest under heaven,"
+    }
+  ]
+}

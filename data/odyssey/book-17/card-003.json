@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ἦλθες, Τηλέμαχε, γλυκερὸν φάος. οὔ σʼ ἔτʼ ἐγώ γε"
+    },
+    {
+      "n": 42,
+      "greek": "ὄψεσθαι ἐφάμην, ἐπεὶ ᾤχεο νηῒ Πύλονδε"
+    },
+    {
+      "n": 43,
+      "greek": "λάθρη, ἐμεῦ ἀέκητι, φίλου μετὰ πατρὸς ἀκουήν."
+    },
+    {
+      "n": 44,
+      "greek": "ἀλλʼ ἄγε μοι κατάλεξον ὅπως ἤντησας ὀπωπῆς."
+    },
+    {
+      "n": 45,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 46,
+      "greek": "μῆτερ ἐμή, μή μοι γόον ὄρνυθι μηδέ μοι ἦτορ"
+    },
+    {
+      "n": 47,
+      "greek": "ἐν στήθεσσιν ὄρινε φυγόντι περ αἰπὺν ὄλεθρον·"
+    },
+    {
+      "n": 48,
+      "greek": "ἀλλʼ ὑδρηναμένη, καθαρὰ χροῒ εἵμαθʼ ἑλοῦσα,"
+    },
+    {
+      "n": 49,
+      "greek": "εἰς ὑπερῷʼ ἀναβᾶσα σὺν ἀμφιπόλοισι γυναιξὶν"
+    },
+    {
+      "n": 50,
+      "greek": "εὔχεο πᾶσι θεοῖσι τεληέσσας ἑκατόμβας"
+    },
+    {
+      "n": 51,
+      "greek": "ῥέξειν, αἴ κέ ποθι Ζεὺς ἄντιτα ἔργα τελέσσῃ."
+    },
+    {
+      "n": 52,
+      "greek": "αὐτὰρ ἐγὼν ἀγορὴν ἐσελεύσομαι, ὄφρα καλέσσω"
+    },
+    {
+      "n": 53,
+      "greek": "ξεῖνον, ὅτις μοι κεῖθεν ἅμʼ ἕσπετο δεῦρο κιόντι."
+    },
+    {
+      "n": 54,
+      "greek": "τὸν μὲν ἐγὼ προὔπεμψα σὺν ἀντιθέοις ἑτάροισι,"
+    },
+    {
+      "n": 55,
+      "greek": "Πείραιον δέ μιν ἠνώγεα προτὶ οἶκον ἄγοντα"
+    },
+    {
+      "n": 56,
+      "greek": "ἐνδυκέως φιλέειν καὶ τιέμεν, εἰς ὅ κεν ἔλθω."
+    },
+    {
+      "n": 57,
+      "greek": "ὣς ἄρʼ ἐφώνησεν, τῇ δʼ ἄπτερος ἔπλετο μῦθος."
+    },
+    {
+      "n": 58,
+      "greek": "ἡ δʼ ὑδρηναμένη, καθαρὰ χροῒ εἵμαθʼ ἑλοῦσα,"
+    },
+    {
+      "n": 59,
+      "greek": "εὔχετο πᾶσι θεοῖσι τεληέσσας ἑκατόμβας"
+    },
+    {
+      "n": 60,
+      "greek": "ῥέξειν, αἴ κέ ποθι Ζεὺς ἄντιτα ἔργα τελέσσῃ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "Then wise Telemachus answered her:“My mother, stir not lamentation, I pray thee, nor rouse the heart in my breast, seeing that I am escaped from utter destruction. Nay, bathe thyself, and take clean raiment for thy body, and then, going to thy upper chamber with thy handmaids,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "vow to all the gods that thou wilt offer hecatombs that bring fulfillment, in the hope that Zeus may some day bring deeds of requital to pass. But I will go to the place of assembly that I may bid to our house a stranger who followed me from Pylos on my way hither. Him I sent forward with my godlike comrades,"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "and I bade Peiraeus take him home and give him kindly welcome, and show him honor until I should come.” So he spoke, but her word remained unwinged. Then she bathed and took clean raiment for her body, and vowed to all the gods that she would offer hecatombs"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "that bring fulfillment, in the hope that Zeus would some day bring deeds of requital to pass. But Telemachus thereafter went forth through the hall with his spear in his hand, and with him went two swift hounds. And wondrous was the grace that Athena shed upon him, and all the people marvelled at him as he came."
+    }
+  ]
+}

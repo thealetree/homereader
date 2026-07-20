@@ -1,0 +1,103 @@
+{
+  "book": 3,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 497,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "ἂν δʼ ἄρα Τηλέμαχος περικαλλέα βήσετο δίφρον·"
+    },
+    {
+      "n": 482,
+      "greek": "πὰρ δʼ ἄρα Νεστορίδης Πεισίστρατος, ὄρχαμος ἀνδρῶν,"
+    },
+    {
+      "n": 483,
+      "greek": "ἐς δίφρον τʼ ἀνέβαινε καὶ ἡνία λάζετο χερσί,"
+    },
+    {
+      "n": 484,
+      "greek": "μάστιξεν δʼ ἐλάαν, τὼ δʼ οὐκ ἀέκοντε πετέσθην"
+    },
+    {
+      "n": 485,
+      "greek": "ἐς πεδίον, λιπέτην δὲ Πύλου αἰπὺ πτολίεθρον."
+    },
+    {
+      "n": 486,
+      "greek": "οἱ δὲ πανημέριοι σεῖον ζυγὸν ἀμφὶς ἔχοντες."
+    },
+    {
+      "n": 487,
+      "greek": "δύσετό τʼ ἠέλιος σκιόωντό τε πᾶσαι ἀγυιαί,"
+    },
+    {
+      "n": 488,
+      "greek": "ἐς Φηρὰς δʼ ἵκοντο Διοκλῆος ποτὶ δῶμα,"
+    },
+    {
+      "n": 489,
+      "greek": "υἱέος Ὀρτιλόχοιο, τὸν Ἀλφειὸς τέκε παῖδα."
+    },
+    {
+      "n": 490,
+      "greek": "ἔνθα δὲ νύκτʼ ἄεσαν, ὁ δὲ τοῖς πὰρ ξείνια θῆκεν."
+    },
+    {
+      "n": 491,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 492,
+      "greek": "ἵππους τε ζεύγνυντʼ ἀνά θʼ ἅρματα ποικίλʼ ἔβαινον·"
+    },
+    {
+      "n": 493,
+      "greek": "ἐκ δʼ ἔλασαν προθύροιο καὶ αἰθούσης ἐριδούπου·"
+    },
+    {
+      "n": 494,
+      "greek": "μάστιξεν δʼ ἐλάαν, τὼ δʼ οὐκ ἀέκοντε πετέσθην."
+    },
+    {
+      "n": 495,
+      "greek": "ἷξον δʼ ἐς πεδίον πυρηφόρον, ἔνθα δʼ ἔπειτα"
+    },
+    {
+      "n": 496,
+      "greek": "ἦνον ὁδόν· τοῖον γὰρ ὑπέκφερον ὠκέες ἵπποι."
+    },
+    {
+      "n": 497,
+      "greek": "δύσετό τʼ ἠέλιος σκιόωντό τε πᾶσαι ἀγυιαί."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "to the plain, and left the steep citadel of Pylos. So all day long they shook the yoke which they bore about their necks. Now the sun set and all the ways grew dark. And they came to Pherae, to the house of Diocles, son of Ortilochus, whom Alpheus begot."
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "There they spent the night, and before them he set the entertainment due to strangers. So soon as early Dawn appeared, the rosy-fingered, they yoked the horses and mounted the inlaid car, and drove forth from the gateway and the echoing portico. Then Peisistratus touched the horses with the whip to start them, and nothing loath the pair sped onward."
+    },
+    {
+      "lines": [
+        495,
+        497
+      ],
+      "text": "So they came to the wheat-bearing plain, and thereafter pressed on toward their journey's end, so well did their swift horses bear them on. And the sun set and all the ways grew dark."
+    }
+  ]
+}

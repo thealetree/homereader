@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ἀμφὶ δʼ ἄρα πτωχοὺς κακοείμονας ἠγερέθοντο."
+    },
+    {
+      "n": 42,
+      "greek": "τοῖσιν δʼ Ἀντίνοος μετέφη, Εὐπείθεος υἱός·"
+    },
+    {
+      "n": 43,
+      "greek": "κέκλυτέ μευ, μνηστῆρες ἀγήνορες, ὄφρα τι εἴπω."
+    },
+    {
+      "n": 44,
+      "greek": "γαστέρες αἵδʼ αἰγῶν κέατʼ ἐν πυρί, τὰς ἐπὶ δόρπῳ"
+    },
+    {
+      "n": 45,
+      "greek": "κατθέμεθα κνίσης τε καὶ αἵματος ἐμπλήσαντες·"
+    },
+    {
+      "n": 46,
+      "greek": "ὁππότερος δέ κε νικήσῃ κρείσσων τε γένηται,"
+    },
+    {
+      "n": 47,
+      "greek": "τάων ἥν κʼ ἐθέλῃσιν ἀναστὰς αὐτὸς ἑλέσθω·"
+    },
+    {
+      "n": 48,
+      "greek": "αἰεὶ αὖθʼ ἡμῖν μεταδαίσεται, οὐδέ τινʼ ἄλλον"
+    },
+    {
+      "n": 49,
+      "greek": "πτωχὸν ἔσω μίσγεσθαι ἐάσομεν αἰτήσοντα."
+    },
+    {
+      "n": 50,
+      "greek": "ὣς ἔφατʼ Ἀντίνοος, τοῖσιν δʼ ἐπιήνδανε μῦθος."
+    },
+    {
+      "n": 51,
+      "greek": "τοῖς δὲ δολοφρονέων μετέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 52,
+      "greek": "ὦ φίλοι, οὔ πως ἔστι νεωτέρῳ ἀνδρὶ μάχεσθαι"
+    },
+    {
+      "n": 53,
+      "greek": "ἄνδρα γέροντα, δύῃ ἀρημένον· ἀλλά με γαστὴρ"
+    },
+    {
+      "n": 54,
+      "greek": "ὀτρύνει κακοεργός, ἵνα πληγῇσι δαμείω."
+    },
+    {
+      "n": 55,
+      "greek": "ἀλλʼ ἄγε νῦν μοι πάντες ὀμόσσατε καρτερὸν ὅρκον,"
+    },
+    {
+      "n": 56,
+      "greek": "μή τις ἐπʼ Ἴρῳ ἦρα φέρων ἐμὲ χειρὶ βαρείῃ"
+    },
+    {
+      "n": 57,
+      "greek": "πλήξῃ ἀτασθάλλων, τούτῳ δέ με ἶφι δαμάσσῃ."
+    },
+    {
+      "n": 58,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀπώμνυον ὡς ἐκέλευεν."
+    },
+    {
+      "n": 59,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ὄμοσάν τε τελεύτησάν τε τὸν ὅρκον,"
+    },
+    {
+      "n": 60,
+      "greek": "τοῖς δʼ αὖτις μετέειφʼ ἱερὴ ἲς Τηλεμάχοιο·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "we set there for supper, when we had filled them with fat and blood. Now whichever of the two wins and proves himself the better man, let him rise and choose for himself which one of these he will. And furthermore he shall always feast with us, nor will we suffer any other beggar to join our company and beg of us.”"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "So spoke Antinous, and his word was pleasing to them. Then with crafty mind Odysseus of many wiles spoke among them: “Friends, in no wise may an old man that is overcome with woe fight with a younger. Howbeit my belly, that worker of evil, urges me on, that I may be overcome by his blows."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "But come now, do you all swear to me a mighty oath, to the end that no man, doing a favour to Irus, may deal me a foul blow with heavy hand, and so by violence subdue me to this fellow.” So he spoke, and they all gave the oath not to smite him, even as he bade. But when they had sworn and made an end of the oath,"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "among them spoke again the strong and mighty Telemachus: “Stranger, if thy heart and thy proud spirit bid thee beat off this fellow, then fear not thou any man of all the Achaeans, for whoso strikes thee shall have to fight with more than thou. Thy host am I, and the princes assent hereto,"
+    }
+  ]
+}

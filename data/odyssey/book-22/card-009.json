@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "βῆ δʼ αὖτις θάλαμόνδε Μελάνθιος, αἰπόλος αἰγῶν,"
+    },
+    {
+      "n": 162,
+      "greek": "οἴσων τεύχεα καλά. νόησε δὲ δῖος ὑφορβός,"
+    },
+    {
+      "n": 163,
+      "greek": "αἶψα δʼ Ὀδυσσῆα προσεφώνεεν ἐγγὺς ἐόντα·"
+    },
+    {
+      "n": 164,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 165,
+      "greek": "κεῖνος δʼ αὖτʼ ἀΐδηλος ἀνήρ, ὃν ὀϊόμεθʼ αὐτοί,"
+    },
+    {
+      "n": 166,
+      "greek": "ἔρχεται ἐς θάλαμον· σὺ δέ μοι νημερτὲς ἐνίσπες,"
+    },
+    {
+      "n": 167,
+      "greek": "ἤ μιν ἀποκτείνω, αἴ κε κρείσσων γε γένωμαι,"
+    },
+    {
+      "n": 168,
+      "greek": "ἦε σοὶ ἐνθάδʼ ἄγω, ἵνʼ ὑπερβασίας ἀποτίσῃ"
+    },
+    {
+      "n": 169,
+      "greek": "πολλάς, ὅσσας οὗτος ἐμήσατο σῷ ἐνὶ οἴκῳ."
+    },
+    {
+      "n": 170,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 171,
+      "greek": "ἦ τοι ἐγὼ καὶ Τηλέμαχος μνηστῆρας ἀγαυοὺς"
+    },
+    {
+      "n": 172,
+      "greek": "σχήσομεν ἔντοσθεν μεγάρων, μάλα περ μεμαῶτας."
+    },
+    {
+      "n": 173,
+      "greek": "σφῶϊ δʼ ἀποστρέψαντε πόδας καὶ χεῖρας ὕπερθεν"
+    },
+    {
+      "n": 174,
+      "greek": "ἐς θάλαμον βαλέειν, σανίδας δʼ ἐκδῆσαι ὄπισθε,"
+    },
+    {
+      "n": 175,
+      "greek": "σειρὴν δὲ πλεκτὴν ἐξ αὐτοῦ πειρήναντε"
+    },
+    {
+      "n": 176,
+      "greek": "κίονʼ ἀνʼ ὑψηλὴν ἐρύσαι πελάσαι τε δοκοῖσιν,"
+    },
+    {
+      "n": 177,
+      "greek": "ὥς κεν δηθὰ ζωὸς ἐὼν χαλέπʼ ἄλγεα πάσχῃ·"
+    },
+    {
+      "n": 178,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα τοῦ μάλα μὲν κλύον ἠδʼ ἐπίθοντο,"
+    },
+    {
+      "n": 179,
+      "greek": "βὰν δʼ ἴμεν ἐς θάλαμον, λαθέτην δέ μιν ἔνδον ἐόντα."
+    },
+    {
+      "n": 180,
+      "greek": "ἦ τοι ὁ μὲν θαλάμοιο μυχὸν κάτα τεύχεʼ ἐρεύνα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "yonder again is the pestilent fellow, whom we ourselves suspect, going to the store-room. But do thou tell me truly, shall I slay him, if I prove the better man, or shall I bring him hither to thee, that the fellow may pay for the many crimes that he has planned in thy house?”"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "Then Odysseus of many wiles answered him and said: “Verily I and Telemachus will keep the lordly wooers within the hall, how fierce soever they be, but do you two bend behind him his feet and his arms above, and cast him into the store-room, and tie boards behind his back;"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "then make fast to his body a twisted rope, and hoist him up the tall pillar, till you bring him near the roof-beams, that he may keep alive long, and suffer grievous torment.” So he spoke, and they readily hearkened and obeyed. Forth they went to the store-room, unseen of him who was within."
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "He truly was seeking for armour in the innermost part of the store-room, and the two lay in wait, standing on either side of the door-posts. And when Melanthius, the goatherd, was about to pass over the threshold, bearing in one hand a goodly helm, and in the other a broad old shield, flecked with rust—"
+    }
+  ]
+}

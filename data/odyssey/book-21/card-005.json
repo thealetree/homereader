@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "τόξον μνηστήρεσσι θέμεν πολιόν τε σίδηρον."
+    },
+    {
+      "n": 82,
+      "greek": "δακρύσας δʼ Εὔμαιος ἐδέξατο καὶ κατέθηκε·"
+    },
+    {
+      "n": 83,
+      "greek": "κλαῖε δὲ βουκόλος ἄλλοθʼ, ἐπεὶ ἴδε τόξον ἄνακτος."
+    },
+    {
+      "n": 84,
+      "greek": "Ἀντίνοος δʼ ἐνένιπεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    },
+    {
+      "n": 85,
+      "greek": "νήπιοι ἀγροιῶται, ἐφημέρια φρονέοντες,"
+    },
+    {
+      "n": 86,
+      "greek": "ἆ δειλώ, τί νυ δάκρυ κατείβετον ἠδὲ γυναικὶ"
+    },
+    {
+      "n": 87,
+      "greek": "θυμὸν ἐνὶ στήθεσσιν ὀρίνετον; ᾗ τε καὶ ἄλλως"
+    },
+    {
+      "n": 88,
+      "greek": "κεῖται ἐν ἄλγεσι θυμός, ἐπεὶ φίλον ὤλεσʼ ἀκοίτην."
+    },
+    {
+      "n": 89,
+      "greek": "ἀλλʼ ἀκέων δαίνυσθε καθήμενοι, ἠὲ θύραζε"
+    },
+    {
+      "n": 90,
+      "greek": "κλαίετον ἐξελθόντε, κατʼ αὐτόθι τόξα λιπόντε,"
+    },
+    {
+      "n": 91,
+      "greek": "μνηστήρεσσιν ἄεθλον ἀάατον· οὐ γὰρ ὀΐω"
+    },
+    {
+      "n": 92,
+      "greek": "ῥηϊδίως τόδε τόξον ἐΰξοον ἐντανύεσθαι."
+    },
+    {
+      "n": 93,
+      "greek": "οὐ γάρ τις μέτα τοῖος ἀνὴρ ἐν τοίσδεσι πᾶσιν"
+    },
+    {
+      "n": 94,
+      "greek": "οἷος Ὀδυσσεὺς ἔσκεν· ἐγὼ δέ μιν αὐτὸς ὄπωπα,"
+    },
+    {
+      "n": 95,
+      "greek": "καὶ γὰρ μνήμων εἰμί, πάϊς δʼ ἔτι νήπιος ἦα."
+    },
+    {
+      "n": 96,
+      "greek": "ὣς φάτο, τῷ δʼ ἄρα θυμὸς ἐνὶ στήθεσσιν ἐώλπει"
+    },
+    {
+      "n": 97,
+      "greek": "νευρὴν ἐντανύσειν διοϊστεύσειν τε σιδήρου."
+    },
+    {
+      "n": 98,
+      "greek": "ἦ τοι ὀϊστοῦ γε πρῶτος γεύσεσθαι ἔμελλεν"
+    },
+    {
+      "n": 99,
+      "greek": "ἐκ χειρῶν Ὀδυσῆος ἀμύμονος, ὃν τότʼ ἀτίμα"
+    },
+    {
+      "n": 100,
+      "greek": "ἥμενος ἐν μεγάροις, ἐπὶ δʼ ὤρνυε πάντας ἑταίρους."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "“Foolish boors, who mind only the things of the day! Wretched pair, why now do you shed tears, and trouble the soul in the breast of the lady, whose heart even as it is lies low in pain, seeing that she has lost her dear husband? Nay, sit and feast in silence,"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "or else go forth and weep, and leave the bow here behind as a decisive contest for the wooers; for not easily, methinks, is this polished bow to be strung. For there is no man among all these here such as Odysseus was, and I myself saw him."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "For I remember him, though I was still but a child.” So he spoke, but the heart in his breast hoped that he would string the bow and shoot an arrow through the iron. Yet verily he was to be the first to taste of an arrow from the hands of noble Odysseus, whom then he,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "as he sat in the halls, was dishonoring, and urging on all his comrades. Then among them spoke the strong and mighty Telemachus: “Lo now, of a truth Zeus, son of Cronos, has made me witless. My dear mother, for all that she is wise, declares that she will follow another lord, forsaking this house;"
+    }
+  ]
+}

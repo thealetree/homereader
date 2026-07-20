@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 8,
+  "lineStart": 142,
+  "lineEnd": 161,
+  "lines": [
+    {
+      "n": 142,
+      "greek": "αὐτὰρ νῦν, ἐξ οὗ σύ γε ᾤχεο νηῒ Πύλονδε,"
+    },
+    {
+      "n": 143,
+      "greek": "οὔ πω μίν φασιν φαγέμεν καὶ πιέμεν αὔτως,"
+    },
+    {
+      "n": 144,
+      "greek": "οὐδʼ ἐπὶ ἔργα ἰδεῖν, ἀλλὰ στοναχῇ τε γόῳ τε"
+    },
+    {
+      "n": 145,
+      "greek": "ἧσται ὀδυρόμενος, φθινύθει δʼ ἀμφʼ ὀστεόφι χρώς."
+    },
+    {
+      "n": 146,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 147,
+      "greek": "ἄλγιον, ἀλλʼ ἔμπης μιν ἐάσομεν, ἀχνύμενοί περ·"
+    },
+    {
+      "n": 148,
+      "greek": "εἰ γὰρ πως εἴη αὐτάγρετα πάντα βροτοῖσι,"
+    },
+    {
+      "n": 149,
+      "greek": "πρῶτόν κεν τοῦ πατρὸς ἑλοίμεθα νόστιμον ἦμαρ."
+    },
+    {
+      "n": 150,
+      "greek": "ἀλλὰ σύ γʼ ἀγγείλας ὀπίσω κίε, μηδὲ κατʼ ἀγροὺς"
+    },
+    {
+      "n": 151,
+      "greek": "πλάζεσθαι μετʼ ἐκεῖνον· ἀτὰρ πρὸς μητέρα εἰπεῖν"
+    },
+    {
+      "n": 152,
+      "greek": "ἀμφίπολον ταμίην ὀτρυνέμεν ὅττι τάχιστα"
+    },
+    {
+      "n": 153,
+      "greek": "κρύβδην· κείνη γὰρ κεν ἀπαγγείλειε γέροντι."
+    },
+    {
+      "n": 154,
+      "greek": "ἦ ῥα καὶ ὦρσε συφορβόν· ὁ δʼ εἵλετο χερσὶ πέδιλα,"
+    },
+    {
+      "n": 155,
+      "greek": "δησάμενος δʼ ὑπὸ ποσσὶ πόλινδʼ ἴεν. οὐδʼ ἄρʼ Ἀθήνην"
+    },
+    {
+      "n": 156,
+      "greek": "λῆθεν ἀπὸ σταθμοῖο κιὼν Εὔμαιος ὑφορβός,"
+    },
+    {
+      "n": 157,
+      "greek": "ἀλλʼ ἥ γε σχεδὸν ἦλθε· δέμας δʼ ἤϊκτο γυναικὶ"
+    },
+    {
+      "n": 158,
+      "greek": "καλῇ τε μεγάλῃ τε καὶ ἀγλαὰ ἔργα ἰδυίῃ."
+    },
+    {
+      "n": 159,
+      "greek": "στῆ δὲ κατʼ ἀντίθυρον κλισίης Ὀδυσῆϊ φανεῖσα·"
+    },
+    {
+      "n": 160,
+      "greek": "οὐδʼ ἄρα Τηλέμαχος ἴδεν ἀντίον οὐδʼ ἐνόησεν,"
+    },
+    {
+      "n": 161,
+      "greek": "οὐ γὰρ πω πάντεσσι θεοὶ φαίνονται ἐναργεῖς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "he sits and weeps, and the flesh wastes from off his bones.” Then wise Telemachus answered him: “'Tis the sadder; but none the less we will let him be, despite our sorrow; for if in any wise all things might be had by mortals for the wishing, we should choose first of all the day of my father's return."
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "No, do thou come back, when thou hast given thy message, and wander not over the fields in search of Laertes; but did my mother with all speed send forth her handmaid, the housewife, secretly, for she might bear word to the old man.” With this he roused the swineherd, and he took his sandals in his hands"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "and bound them beneath his feet and went forth to the city. Nor was Athena unaware that the swineherd Eumaeus was gone from the farmstead, but she drew near in the likeness of a woman, comely and tall, and skilled in glorious handiwork. And she stood over against the door of the hut, shewing herself to Odysseus,"
+    },
+    {
+      "lines": [
+        160,
+        161
+      ],
+      "text": "but Telemachus did not see her before him, or notice her; for in no wise do the gods appear in manifest presence to all. But Odysseus saw her, and the hounds, and they barked not, but with whining slunk in fear to the further side of the farmstead. The she made a sign with her brows, and goodly Odysseus perceived it,"
+    }
+  ]
+}

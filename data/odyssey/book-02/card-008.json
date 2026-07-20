@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "εἰ δʼ ὑμῖν δοκέει τόδε λωίτερον καὶ ἄμεινον"
+    },
+    {
+      "n": 142,
+      "greek": "ἔμμεναι, ἀνδρὸς ἑνὸς βίοτον νήποινον ὀλέσθαι,"
+    },
+    {
+      "n": 143,
+      "greek": "κείρετʼ· ἐγὼ δὲ θεοὺς ἐπιβώσομαι αἰὲν ἐόντας,"
+    },
+    {
+      "n": 144,
+      "greek": "αἴ κέ ποθι Ζεὺς δῷσι παλίντιτα ἔργα γενέσθαι."
+    },
+    {
+      "n": 145,
+      "greek": "νήποινοί κεν ἔπειτα δόμων ἔντοσθεν ὄλοισθε."
+    },
+    {
+      "n": 146,
+      "greek": "ὣς φάτο Τηλέμαχος, τῷ δʼ αἰετὼ εὐρύοπα Ζεὺς"
+    },
+    {
+      "n": 147,
+      "greek": "ὑψόθεν ἐκ κορυφῆς ὄρεος προέηκε πέτεσθαι."
+    },
+    {
+      "n": 148,
+      "greek": "τὼ δʼ ἕως μέν ῥʼ ἐπέτοντο μετὰ πνοιῇς ἀνέμοιο"
+    },
+    {
+      "n": 149,
+      "greek": "πλησίω ἀλλήλοισι τιταινομένω πτερύγεσσιν·"
+    },
+    {
+      "n": 150,
+      "greek": "ἀλλʼ ὅτε δὴ μέσσην ἀγορὴν πολύφημον ἱκέσθην,"
+    },
+    {
+      "n": 151,
+      "greek": "ἔνθʼ ἐπιδινηθέντε τιναξάσθην πτερὰ πυκνά,"
+    },
+    {
+      "n": 152,
+      "greek": "ἐς δʼ ἰδέτην πάντων κεφαλάς, ὄσσοντο δʼ ὄλεθρον·"
+    },
+    {
+      "n": 153,
+      "greek": "δρυψαμένω δʼ ὀνύχεσσι παρειὰς ἀμφί τε δειρὰς"
+    },
+    {
+      "n": 154,
+      "greek": "δεξιὼ ἤιξαν διά τʼ οἰκία καὶ πόλιν αὐτῶν."
+    },
+    {
+      "n": 155,
+      "greek": "θάμβησαν δʼ ὄρνιθας, ἐπεὶ ἴδον ὀφθαλμοῖσιν·"
+    },
+    {
+      "n": 156,
+      "greek": "ὥρμηναν δʼ ἀνὰ θυμὸν ἅ περ τελέεσθαι ἔμελλον."
+    },
+    {
+      "n": 157,
+      "greek": "τοῖσι δὲ καὶ μετέειπε γέρων ἥρως Ἁλιθέρσης"
+    },
+    {
+      "n": 158,
+      "greek": "Μαστορίδης· ὁ γὰρ οἶος ὁμηλικίην ἐκέκαστο"
+    },
+    {
+      "n": 159,
+      "greek": "ὄρνιθας γνῶναι καὶ ἐναίσιμα μυθήσασθαι·"
+    },
+    {
+      "n": 160,
+      "greek": "ὅ σφιν ἐὺ φρονέων ἀγορήσατο καὶ μετέειπε·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "Without atonement then should ye perish within my halls.” So spoke Telemachus, and in answer Zeus, whose voice is borne afar, sent forth two eagles, flying from on high, from a mountain peak. For a time they flew swift as the blasts of the wind side by side with wings outspread;"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "but when they reached the middle of the many-voiced assembly, then they wheeled about, flapping their wings rapidly, and down on the heads of all they looked, and death was in their glare. Then they tore with their talons one another's cheeks and necks on either side, and darted away to the right across the houses and the city of the men."
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "But they were seized with wonder at the birds when their eyes beheld them, and pondered in their hearts on what was to come to pass. Then among them spoke the old lord Halitherses, son of Mastor, for he surpassed all men of his day in knowledge of birds and in uttering words of fate."
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "He with good intent addressed their assembly, and spoke among them: “Hearken now to me, men of Ithaca, to the word that I shall say; and to the wooers especially do I declare and announce these things, since on them a great woe is rolling. For Odysseus shall not long be away from his friends, but even now, methinks,"
+    }
+  ]
+}

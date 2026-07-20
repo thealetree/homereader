@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "ὥς κεν Φαιήκεσσι φίλος πάντεσσι γένοιτο"
+    },
+    {
+      "n": 22,
+      "greek": "δεινός τʼ αἰδοῖός τε καὶ ἐκτελέσειεν ἀέθλους"
+    },
+    {
+      "n": 23,
+      "greek": "πολλούς, τοὺς Φαίηκες ἐπειρήσαντʼ Ὀδυσῆος."
+    },
+    {
+      "n": 24,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἤγερθεν ὁμηγερέες τʼ ἐγένοντο,"
+    },
+    {
+      "n": 25,
+      "greek": "τοῖσιν δʼ Ἀλκίνοος ἀγορήσατο καὶ μετέειπε·"
+    },
+    {
+      "n": 26,
+      "greek": "κέκλυτε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες,"
+    },
+    {
+      "n": 27,
+      "greek": "ὄφρʼ εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει."
+    },
+    {
+      "n": 28,
+      "greek": "ξεῖνος ὅδʼ, οὐκ οἶδʼ ὅς τις, ἀλώμενος ἵκετʼ ἐμὸν δῶ,"
+    },
+    {
+      "n": 29,
+      "greek": "ἠὲ πρὸς ἠοίων ἦ ἑσπερίων ἀνθρώπων·"
+    },
+    {
+      "n": 30,
+      "greek": "πομπὴν δʼ ὀτρύνει, καὶ λίσσεται ἔμπεδον εἶναι."
+    },
+    {
+      "n": 31,
+      "greek": "ἡμεῖς δʼ, ὡς τὸ πάρος περ, ἐποτρυνώμεθα πομπήν."
+    },
+    {
+      "n": 32,
+      "greek": "οὐδὲ γὰρ οὐδέ τις ἄλλος, ὅτις κʼ ἐμὰ δώμαθʼ ἵκηται,"
+    },
+    {
+      "n": 33,
+      "greek": "ἐνθάδʼ ὀδυρόμενος δηρὸν μένει εἵνεκα πομπῆς."
+    },
+    {
+      "n": 34,
+      "greek": "ἀλλʼ ἄγε νῆα μέλαιναν ἐρύσσομεν εἰς ἅλα δῖαν"
+    },
+    {
+      "n": 35,
+      "greek": "πρωτόπλοον, κούρω δὲ δύω καὶ πεντήκοντα"
+    },
+    {
+      "n": 36,
+      "greek": "κρινάσθων κατὰ δῆμον, ὅσοι πάρος εἰσὶν ἄριστοι."
+    },
+    {
+      "n": 37,
+      "greek": "δησάμενοι δʼ ἐὺ πάντες ἐπὶ κληῖσιν ἐρετμὰ"
+    },
+    {
+      "n": 38,
+      "greek": "ἔκβητʼ· αὐτὰρ ἔπειτα θοὴν ἀλεγύνετε δαῖτα"
+    },
+    {
+      "n": 39,
+      "greek": "ἡμέτερόνδʼ ἐλθόντες· ἐγὼ δʼ ἐὺ πᾶσι παρέξω."
+    },
+    {
+      "n": 40,
+      "greek": "κούροισιν μὲν ταῦτʼ ἐπιτέλλομαι· αὐτὰρ οἱ ἄλλοι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "Alcinous addressed their assembly and spoke among them: “Hearken to me, leaders and counsellors of the Phaeacians, that I may speak what the heart in my breast bids me. This stranger—I know not who he is—has come to my house in his wanderings, whether from men of the east or of the west."
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "He urges that he be sent on his way, and prays for assurance, and let us on our part, as of old we were wont, speed on his sending; for verily no man soever who comes to my house, abides here long in sorrow for lack of sending. Nay come, let us draw a black ship down to the bright sea"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "for her first voyage, and let men choose two and fifty youths from out the people, even those that have heretofore been the best. And when you have all duly lashed the oars to the thole-pins, go ashore, and then go your way to my house, and prepare a feast with speed; and I will provide bountifully for all."
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "To the youths this is my command, but do you others, the sceptred kings, come to my fair palace, that we may entertain yon stranger in the halls; and let no man say me nay. And summon hither the divine minstrel, Demodocus; for to him above all others has the god granted skill in song,"
+    }
+  ]
+}

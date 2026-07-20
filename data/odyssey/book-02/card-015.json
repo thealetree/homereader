@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "τῶ νῦν μνηστήρων μὲν ἔα βουλήν τε νόον τε"
+    },
+    {
+      "n": 282,
+      "greek": "ἀφραδέων, ἐπεὶ οὔ τι νοήμονες οὐδὲ δίκαιοι·"
+    },
+    {
+      "n": 283,
+      "greek": "οὐδέ τι ἴσασιν θάνατον καὶ κῆρα μέλαιναν,"
+    },
+    {
+      "n": 284,
+      "greek": "ὃς δή σφι σχεδόν ἐστιν, ἐπʼ ἤματι πάντας ὀλέσθαι."
+    },
+    {
+      "n": 285,
+      "greek": "σοὶ δʼ ὁδὸς οὐκέτι δηρὸν ἀπέσσεται ἣν σὺ μενοινᾷς·"
+    },
+    {
+      "n": 286,
+      "greek": "τοῖος γάρ τοι ἑταῖρος ἐγὼ πατρώιός εἰμι,"
+    },
+    {
+      "n": 287,
+      "greek": "ὅς τοι νῆα θοὴν στελέω καὶ ἅμʼ ἕψομαι αὐτός."
+    },
+    {
+      "n": 288,
+      "greek": "ἀλλὰ σὺ μὲν πρὸς δώματʼ ἰὼν μνηστῆρσιν ὁμίλει,"
+    },
+    {
+      "n": 289,
+      "greek": "ὅπλισσόν τʼ ἤια καὶ ἄγγεσιν ἄρσον ἅπαντα,"
+    },
+    {
+      "n": 290,
+      "greek": "οἶνον ἐν ἀμφιφορεῦσι, καὶ ἄλφιτα, μυελὸν ἀνδρῶν,"
+    },
+    {
+      "n": 291,
+      "greek": "δέρμασιν ἐν πυκινοῖσιν· ἐγὼ δʼ ἀνὰ δῆμον ἑταίρους"
+    },
+    {
+      "n": 292,
+      "greek": "αἶψʼ ἐθελοντῆρας συλλέξομαι. εἰσὶ δὲ νῆες"
+    },
+    {
+      "n": 293,
+      "greek": "πολλαὶ ἐν ἀμφιάλῳ Ἰθάκῃ, νέαι ἠδὲ παλαιαί·"
+    },
+    {
+      "n": 294,
+      "greek": "τάων μέν τοι ἐγὼν ἐπιόψομαι ἥ τις ἀρίστη,"
+    },
+    {
+      "n": 295,
+      "greek": "ὦκα δʼ ἐφοπλίσσαντες ἐνήσομεν εὐρέι πόντῳ."
+    },
+    {
+      "n": 296,
+      "greek": "ὣς φάτʼ Ἀθηναίη κούρη Διός· οὐδʼ ἄρʼ ἔτι δὴν"
+    },
+    {
+      "n": 297,
+      "greek": "Τηλέμαχος παρέμιμνεν, ἐπεὶ θεοῦ ἔκλυεν αὐδήν."
+    },
+    {
+      "n": 298,
+      "greek": "βῆ δʼ ἰέναι πρὸς δῶμα, φίλον τετιημένος ἦτορ,"
+    },
+    {
+      "n": 299,
+      "greek": "εὗρε δʼ ἄρα μνηστῆρας ἀγήνορας ἐν μεγάροισιν,"
+    },
+    {
+      "n": 300,
+      "greek": "αἶγας ἀνιεμένους σιάλους θʼ εὕοντας ἐν αὐλῇ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "But for thyself, the journey on which thy heart is set shall not be long delayed, so true a friend of thy father's house am I, who will equip for thee a swift ship, and myself go with thee. But go thou now to the house and join the company of the wooers; make ready stores, and bestow all in vessels—"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "wine in jars, and barley meal, the marrow of men, in stout skins;—but I, going through the town, will quickly gather comrades that go willingly. And ships there are full many in sea-girt Ithaca, both new and old; of these will I choose out for thee the one that is best,"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "and quickly will we make her ready and launch her on the broad deep.” So spoke Athena, daughter of Zeus, nor did Telemachus tarry long after he had heard the voice of the goddess, but went his way to the house, his heart heavy within him. He found there the proud wooers in the halls,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "flaying goats and singeing swine in the court. And Antinous with a laugh came straight to Telemachus, and clasped his hand, and spoke, and addressed him: “Telemachus, thou braggart, unrestrained in daring, let no more any evil deed or word be in thy heart."
+    }
+  ]
+}

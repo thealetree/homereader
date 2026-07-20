@@ -1,0 +1,45 @@
+{
+  "book": 9,
+  "card": 29,
+  "lineStart": 561,
+  "lineEnd": 566,
+  "lines": [
+    {
+      "n": 561,
+      "greek": "δὴ τότʼ ἐγὼν ἑτάροισιν ἐποτρύνας ἐκέλευσα"
+    },
+    {
+      "n": 562,
+      "greek": "αὐτούς τʼ ἀμβαίνειν ἀνά τε πρυμνήσια λῦσαι·"
+    },
+    {
+      "n": 563,
+      "greek": "οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον,"
+    },
+    {
+      "n": 564,
+      "greek": "ἑξῆς δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς."
+    },
+    {
+      "n": 565,
+      "greek": "ἔνθεν δὲ προτέρω πλέομεν ἀκαχήμενοι ἦτορ,"
+    },
+    {
+      "n": 566,
+      "greek": "ἄσμενοι ἐκ θανάτοιο, φίλους ὀλέσαντες ἑταίρους."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        565,
+        566
+      ],
+      "text": "“Thence we sailed on, grieved at heart, glad to have escaped death, though we had lost our dear comrades."
+    }
+  ]
+}

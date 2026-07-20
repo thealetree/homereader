@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐμοί γε κατεκλάσθη φίλον ἦτορ,"
+    },
+    {
+      "n": 482,
+      "greek": "οὕνεκά μʼ αὖτις ἄνωγεν ἐπʼ ἠεροειδέα πόντον"
+    },
+    {
+      "n": 483,
+      "greek": "Αἴγυπτόνδʼ ἰέναι, δολιχὴν ὁδὸν ἀργαλέην τε."
+    },
+    {
+      "n": 484,
+      "greek": "ἀλλὰ καὶ ὣς μύθοισιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 485,
+      "greek": "ταῦτα μὲν οὕτω δὴ τελέω, γέρον, ὡς σὺ κελεύεις."
+    },
+    {
+      "n": 486,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,"
+    },
+    {
+      "n": 487,
+      "greek": "ἢ πάντες σὺν νηυσὶν ἀπήμονες ἦλθον Ἀχαιοί,"
+    },
+    {
+      "n": 488,
+      "greek": "οὓς Νέστωρ καὶ ἐγὼ λίπομεν Τροίηθεν ἰόντες,"
+    },
+    {
+      "n": 489,
+      "greek": "ἦέ τις ὤλετʼ ὀλέθρῳ ἀδευκέι ἧς ἐπὶ νηὸς"
+    },
+    {
+      "n": 490,
+      "greek": "ἠὲ φίλων ἐν χερσίν, ἐπεὶ πόλεμον τολύπευσεν."
+    },
+    {
+      "n": 491,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 492,
+      "greek": "Ἀτρεΐδη, τί με ταῦτα διείρεαι; οὐδέ τί σε χρὴ"
+    },
+    {
+      "n": 493,
+      "greek": "ἴδμεναι, οὐδὲ δαῆναι ἐμὸν νόον· οὐδέ σέ φημι"
+    },
+    {
+      "n": 494,
+      "greek": "δὴν ἄκλαυτον ἔσεσθαι, ἐπὴν ἐὺ πάντα πύθηαι."
+    },
+    {
+      "n": 495,
+      "greek": "πολλοὶ μὲν γὰρ τῶν γε δάμεν, πολλοὶ δὲ λίποντο·"
+    },
+    {
+      "n": 496,
+      "greek": "ἀρχοὶ δʼ αὖ δύο μοῦνοι Ἀχαιῶν χαλκοχιτώνων"
+    },
+    {
+      "n": 497,
+      "greek": "ἐν νόστῳ ἀπόλοντο· μάχῃ δέ τε καὶ σὺ παρῆσθα."
+    },
+    {
+      "n": 498,
+      "greek": "εἷς δʼ ἔτι που ζωὸς κατερύκεται εὐρέι πόντῳ."
+    },
+    {
+      "n": 499,
+      "greek": "Αἴας μὲν μετὰ νηυσὶ δάμη δολιχηρέτμοισι."
+    },
+    {
+      "n": 500,
+      "greek": "Γυρῇσίν μιν πρῶτα Ποσειδάων ἐπέλασσεν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "“‘All this will I perform, old man, even as thou dost bid. But come now, tell me this, and declare it truly. Did all the Achaeans return unscathed in their ships, all those whom Nestor and I left, as we set out from Troy? Or did any perish by a cruel death on board his ship,"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "or in the arms of his friends, when he had wound up the skein of war?’ “So I spoke, and he straightway made answer, and said: ‘Son of Atreus, why dost thou question me of this? In no wise does it behove thee to know, or to learn my mind; nor, methinks, wilt thou long be free from tears, when thou hast heard all aright."
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "For many of them were slain, and many were left; but two chieftains alone of the brazen-coated Achaeans perished on their homeward way ( as for the fighting, thou thyself wast there), and one, I ween, still lives, and is held back on the broad deep. “‘Aias truly was lost amid his long-oared ships."
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "Upon the great rocks of Gyrae Poseidon at first drove him, but saved him from the sea; and he would have escaped his doom, hated of Athena though he was, had he not uttered a boastful word in great blindness of heart. He declared that it was in spite of the gods that he had escaped the great gulf of the sea;"
+    }
+  ]
+}

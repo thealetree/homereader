@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 540,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "ἥ τε θαμὰ τρωπῶσα χέει πολυηχέα φωνήν,"
+    },
+    {
+      "n": 522,
+      "greek": "παῖδʼ ὀλοφυρομένη Ἴτυλον φίλον, ὅν ποτε χαλκῷ"
+    },
+    {
+      "n": 523,
+      "greek": "κτεῖνε διʼ ἀφραδίας, κοῦρον Ζήθοιο ἄνακτος,"
+    },
+    {
+      "n": 524,
+      "greek": "ὣς καὶ ἐμοὶ δίχα θυμὸς ὀρώρεται ἔνθα καὶ ἔνθα,"
+    },
+    {
+      "n": 525,
+      "greek": "ἠὲ μένω παρὰ παιδὶ καὶ ἔμπεδα πάντα φυλάσσω,"
+    },
+    {
+      "n": 526,
+      "greek": "κτῆσιν ἐμήν, δμῶάς τε καὶ ὑψερεφὲς μέγα δῶμα,"
+    },
+    {
+      "n": 527,
+      "greek": "εὐνήν τʼ αἰδομένη πόσιος δήμοιό τε φῆμιν,"
+    },
+    {
+      "n": 528,
+      "greek": "ἦ ἤδη ἅμʼ ἕπωμαι Ἀχαιῶν ὅς τις ἄριστος"
+    },
+    {
+      "n": 529,
+      "greek": "μνᾶται ἐνὶ μεγάροισι, πορὼν ἀπερείσια ἕδνα."
+    },
+    {
+      "n": 530,
+      "greek": "παῖς δʼ ἐμὸς ἧος ἔην ἔτι νήπιος ἠδὲ χαλίφρων,"
+    },
+    {
+      "n": 531,
+      "greek": "γήμασθʼ οὔ μʼ εἴα πόσιος κατὰ δῶμα λιποῦσαν·"
+    },
+    {
+      "n": 532,
+      "greek": "νῦν δʼ ὅτε δὴ μέγας ἐστὶ καὶ ἥβης μέτρον ἱκάνει,"
+    },
+    {
+      "n": 533,
+      "greek": "καὶ δή μʼ ἀρᾶται πάλιν ἐλθέμεν ἐκ μεγάροιο,"
+    },
+    {
+      "n": 534,
+      "greek": "κτήσιος ἀσχαλόων, τήν οἱ κατέδουσιν Ἀχαιοί."
+    },
+    {
+      "n": 535,
+      "greek": "ἀλλʼ ἄγε μοι τὸν ὄνειρον ὑπόκριναι καὶ ἄκουσον."
+    },
+    {
+      "n": 536,
+      "greek": "χῆνές μοι κατὰ οἶκον ἐείκοσι πυρὸν ἔδουσιν"
+    },
+    {
+      "n": 537,
+      "greek": "ἐξ ὕδατος, καί τέ σφιν ἰαίνομαι εἰσορόωσα·"
+    },
+    {
+      "n": 538,
+      "greek": "ἐλθὼν δʼ ἐξ ὄρεος μέγας αἰετὸς ἀγκυλοχείλης"
+    },
+    {
+      "n": 539,
+      "greek": "πᾶσι κατʼ αὐχένας ἦξε καὶ ἔκτανεν· οἱ δʼ ἐκέχυντο"
+    },
+    {
+      "n": 540,
+      "greek": "ἀθρόοι ἐν μεγάροις, ὁ δʼ ἐς αἰθέρα δῖαν ἀέρθη."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "whether to abide with my son and keep all things safe, my possessions, my slaves, and my great, high-roofed house, respecting the bed of my husband and the voice of the people, or to go now with him whosoever is best of the Achaeans, who woos me in the halls and offers bride-gifts past counting."
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "Furthermore my son, so long as he was a child and slack of wit, would not suffer me to marry and leave the house of my husband; but now that he is grown and has reached the bounds of manhood, lo, he even prays me to go back again from these halls, being vexed for his substance that the Achaeans devour to his cost."
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "But come now, hear this dream of mine, and interpret it for me. Twenty geese I have in the house that come forth from the water and eat wheat, and my heart warms with joy as I watch them. But forth from the mountain there came a great eagle with crooked beak and broke all their necks and killed them; and they lay strewn"
+    },
+    {
+      "lines": [
+        540,
+        540
+      ],
+      "text": "in a heap in the halls, while he was borne aloft to the bright sky. Now for my part I wept and wailed, in a dream though it was, and round me thronged the fair-tressed Achaean women, as I grieved piteously because the eagle had slain my geese. Then back he came and perched upon a projecting roof-beam,"
+    }
+  ]
+}

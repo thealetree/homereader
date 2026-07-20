@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "οὐκέτʼ ἔπειτʼ ἐθέλουσιν ἐναίσιμα ἐργάζεσθαι·"
+    },
+    {
+      "n": 322,
+      "greek": "ἥμισυ γάρ τʼ ἀρετῆς ἀποαίνυται εὐρύοπα Ζεὺς"
+    },
+    {
+      "n": 323,
+      "greek": "ἀνέρος, εὖτʼ ἄν μιν κατὰ δούλιον ἦμαρ ἕλῃσιν."
+    },
+    {
+      "n": 324,
+      "greek": "ὣς εἰπὼν εἰσῆλθε δόμους εὖ ναιετάοντας,"
+    },
+    {
+      "n": 325,
+      "greek": "βῆ δʼ ἰθὺς μεγάροιο μετὰ μνηστῆρας ἀγαυούς."
+    },
+    {
+      "n": 326,
+      "greek": "Ἄργον δʼ αὖ κατὰ μοῖρʼ ἔλαβεν μέλανος θανάτοιο,"
+    },
+    {
+      "n": 327,
+      "greek": "αὐτίκʼ ἰδόντʼ Ὀδυσῆα ἐεικοστῷ ἐνιαυτῷ."
+    },
+    {
+      "n": 328,
+      "greek": "τὸν δὲ πολὺ πρῶτος ἴδε Τηλέμαχος θεοειδὴς"
+    },
+    {
+      "n": 329,
+      "greek": "ἐρχόμενον κατὰ δῶμα συβώτην, ὦκα δʼ ἔπειτα"
+    },
+    {
+      "n": 330,
+      "greek": "νεῦσʼ ἐπὶ οἷ καλέσας· ὁ δὲ παπτήνας ἕλε δίφρον"
+    },
+    {
+      "n": 331,
+      "greek": "κείμενον, ἔνθα τε δαιτρὸς ἐφίζεσκε κρέα πολλὰ"
+    },
+    {
+      "n": 332,
+      "greek": "δαιόμενος μνηστῆρσι δόμον κάτα δαινυμένοισι·"
+    },
+    {
+      "n": 333,
+      "greek": "τὸν κατέθηκε φέρων πρὸς Τηλεμάχοιο τράπεζαν"
+    },
+    {
+      "n": 334,
+      "greek": "ἀντίον, ἔνθα δʼ ἄρʼ αὐτὸς ἐφέζετο· τῷ δʼ ἄρα κῆρυξ"
+    },
+    {
+      "n": 335,
+      "greek": "μοῖραν ἑλὼν ἐτίθει κανέου τʼ ἐκ σῖτον ἀείρας."
+    },
+    {
+      "n": 336,
+      "greek": "ἀγχίμολον δὲ μετʼ αὐτὸν ἐδύσετο δώματʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 337,
+      "greek": "πτωχῷ λευγαλέῳ ἐναλίγκιος ἠδὲ γέροντι,"
+    },
+    {
+      "n": 338,
+      "greek": "σκηπτόμενος· τὰ δὲ λυγρὰ περὶ χροΐ εἵματα ἕστο."
+    },
+    {
+      "n": 339,
+      "greek": "ἷζε δʼ ἐπὶ μελίνου οὐδοῦ ἔντοσθε θυράων,"
+    },
+    {
+      "n": 340,
+      "greek": "κλινάμενος σταθμῷ κυπαρισσίνῳ, ὅν ποτε τέκτων"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "and went straight to the hall to join the company of the lordly wooers. But as for Argos, the fate of black death seized him straightway when he had seen Odysseus in the twentieth year. Now as the swineherd came through the hall godlike Telemachus was far the first to see him, and quickly"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "with a nod he called him and to his side. And Eumaeus looked about him and took a stool that lay near, on which the carver was wont to sit when carving for the wooers the many joints of meat, as they feasted in the hall. This he took and placed at the table of Telemachus, over against him, and there sat down himself. And a herald"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "took a portion of meat and set it before him, and bread from out the basket. Night after him Odysseus entered the palace in the likeness of a woeful and aged beggar, leaning on a staff, and miserable was the raiment that he wore about his body. He sat down upon the ashen threshold within the doorway,"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "leaning against a post of cypress wood, which of old a carpenter had skilfully planed, and made straight to the line. Then Telemachus called the swineherd to him, and, taking a whole loaf from out the beautiful basket, and all the meat his hands could hold in their grasp, spoke to him saying:"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "ἐν δʼ αὐτὴ φᾶρος θῆκεν καλόν τε χιτῶνα,"
+    },
+    {
+      "n": 442,
+      "greek": "καί μιν φωνήσασʼ ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 443,
+      "greek": "αὐτὸς νῦν ἴδε πῶμα, θοῶς δʼ ἐπὶ δεσμὸν ἴηλον,"
+    },
+    {
+      "n": 444,
+      "greek": "μή τίς τοι καθʼ ὁδὸν δηλήσεται, ὁππότʼ ἂν αὖτε"
+    },
+    {
+      "n": 445,
+      "greek": "εὕδῃσθα γλυκὺν ὕπνον ἰὼν ἐν νηὶ μελαίνῃ."
+    },
+    {
+      "n": 446,
+      "greek": "αὐτὰρ ἐπεὶ τό γʼ ἄκουσε πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 447,
+      "greek": "αὐτίκʼ ἐπήρτυε πῶμα, θοῶς δʼ ἐπὶ δεσμὸν ἴηλεν"
+    },
+    {
+      "n": 448,
+      "greek": "ποικίλον, ὅν ποτέ μιν δέδαε φρεσὶ πότνια Κίρκη·"
+    },
+    {
+      "n": 449,
+      "greek": "αὐτόδιον δʼ ἄρα μιν ταμίη λούσασθαι ἀνώγει"
+    },
+    {
+      "n": 450,
+      "greek": "ἔς ῥʼ ἀσάμινθον βάνθʼ· ὁ δʼ ἄρ ἀσπασίως ἴδε θυμῷ"
+    },
+    {
+      "n": 451,
+      "greek": "θερμὰ λοέτρʼ, ἐπεὶ οὔ τι κομιζόμενός γε θάμιζεν,"
+    },
+    {
+      "n": 452,
+      "greek": "ἐπεὶ δὴ λίπε δῶμα Καλυψοῦς ἠυκόμοιο."
+    },
+    {
+      "n": 453,
+      "greek": "τόφρα δέ οἱ κομιδή γε θεῷ ὣς ἔμπεδος ἦεν."
+    },
+    {
+      "n": 454,
+      "greek": "τὸν δʼ ἐπεὶ οὖν δμῳαὶ λοῦσαν καὶ χρῖσαν ἐλαίῳ,"
+    },
+    {
+      "n": 455,
+      "greek": "ἀμφὶ δέ μιν χλαῖναν καλὴν βάλον ἠδὲ χιτῶνα,"
+    },
+    {
+      "n": 456,
+      "greek": "ἔκ ῥʼ ἀσαμίνθου βὰς ἄνδρας μέτα οἰνοποτῆρας"
+    },
+    {
+      "n": 457,
+      "greek": "ἤιε· Ναυσικάα δὲ θεῶν ἄπο κάλλος ἔχουσα"
+    },
+    {
+      "n": 458,
+      "greek": "στῆ ῥα παρὰ σταθμὸν τέγεος πύκα ποιητοῖο,"
+    },
+    {
+      "n": 459,
+      "greek": "θαύμαζεν δʼ Ὀδυσῆα ἐν ὀφθαλμοῖσιν ὁρῶσα,"
+    },
+    {
+      "n": 460,
+      "greek": "καί μιν φωνήσασʼ ἔπεα πτερόεντα προσηύδα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "thou art lying in sweet sleep, as thou farest in the black ship.” Now when the much-enduring goodly Odysseus heard these words, he straightway fitted on the lid, and quickly cast a cord upon it—a cunning knot, which queenly Circe once had taught him. Then forthwith the housewife bade him"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "go to the bath and bathe; and his heart was glad when he saw the warm bath, for he had not been wont to have such tendance from the time that he left the house of faired-haired Calypso, but until then he had tendance continually as a god. Now when the handmaids had bathed him and anointed him with oil,"
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "and had cast about him a fair cloak and a tunic, he came forth from the bath, and went to join the men at their wine. And Nausicaa, gifted with beauty by the gods, stood by the door-post of the well-built hall, and she marvelled at Odysseus, as her eyes beheld him,"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "and she spoke, and addressed him with winged words: “Farewell, stranger, and hereafter even in thy own native land mayest thou remember me, for to me first thou owest the price of thy life.” Then Odysseus of many wiles answered her:“Nausicaa, daughter of great-hearted Alcinous,"
+    }
+  ]
+}

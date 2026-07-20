@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "ἔσσετʼ ἐπʼ ἀνθρώπους, χαλεπὴν δέ τε φῆμιν ὀπάσσει"
+    },
+    {
+      "n": 202,
+      "greek": "θηλυτέρῃσι γυναιξί, καὶ ἥ κʼ εὐεργὸς ἔῃσιν."
+    },
+    {
+      "n": 203,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    },
+    {
+      "n": 204,
+      "greek": "ἑσταότʼ εἰν Ἀΐδαο δόμοις, ὑπὸ κεύθεσι γαίης·"
+    },
+    {
+      "n": 205,
+      "greek": "οἱ δʼ ἐπεὶ ἐκ πόλιος κατέβαν, τάχα δʼ ἀγρὸν ἵκοντο"
+    },
+    {
+      "n": 206,
+      "greek": "καλὸν Λαέρταο τετυγμένον, ὅν ῥά ποτʼ αὐτὸς"
+    },
+    {
+      "n": 207,
+      "greek": "Λαέρτης κτεάτισσεν, ἐπεὶ μάλα πόλλʼ ἐμόγησεν."
+    },
+    {
+      "n": 208,
+      "greek": "ἔνθα οἱ οἶκος ἔην, περὶ δὲ κλίσιον θέε πάντη,"
+    },
+    {
+      "n": 209,
+      "greek": "ἐν τῷ σιτέσκοντο καὶ ἵζανον ἠδὲ ἴαυον"
+    },
+    {
+      "n": 210,
+      "greek": "δμῶες ἀναγκαῖοι, τοί οἱ φίλα ἐργάζοντο."
+    },
+    {
+      "n": 211,
+      "greek": "ἐν δὲ γυνὴ Σικελὴ γρηῢς πέλεν, ἥ ῥα γέροντα"
+    },
+    {
+      "n": 212,
+      "greek": "ἐνδυκέως κομέεσκεν ἐπʼ ἀγροῦ, νόσφι πόληος."
+    },
+    {
+      "n": 213,
+      "greek": "ἔνθʼ Ὀδυσεὺς δμώεσσι καὶ υἱέϊ μῦθον ἔειπεν·"
+    },
+    {
+      "n": 214,
+      "greek": "ὑμεῖς μὲν νῦν ἔλθετʼ ἐϋκτίμενον δόμον εἴσω,"
+    },
+    {
+      "n": 215,
+      "greek": "δεῖπνον δʼ αἶψα συῶν ἱερεύσατε ὅς τις ἄριστος·"
+    },
+    {
+      "n": 216,
+      "greek": "αὐτὰρ ἐγὼ πατρὸς πειρήσομαι ἡμετέροιο,"
+    },
+    {
+      "n": 217,
+      "greek": "αἴ κέ μʼ ἐπιγνώῃ καὶ φράσσεται ὀφθαλμοῖσιν,"
+    },
+    {
+      "n": 218,
+      "greek": "ἦέ κεν ἀγνοιῇσι, πολὺν χρόνον ἀμφὶς ἐόντα."
+    },
+    {
+      "n": 219,
+      "greek": "ὣς εἰπὼν δμώεσσιν ἀρήϊα τεύχεʼ ἔδωκεν."
+    },
+    {
+      "n": 220,
+      "greek": "οἱ μὲν ἔπειτα δόμονδε θοῶς κίον, αὐτὰρ Ὀδυσσεὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "But Odysseus and his men, when they had gone down from the city, quickly came to the fair and well-ordered farm of Laertes, which he had won for himself in days past, and much had he toiled for it. There was his house, and all about it ran the sheds in which ate, and sat, and slept"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "the servants that were bondsmen, that did his pleasure; but within it was an old Sicilian woman, who tended the old man with kindly care there at the farm, far from the city. Then Odysseus spoke to the servants and to his son, saying: “Do you now go within the well-built house,"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "and straightway slay for dinner the best of the swine; but I will make trial of my father, and see whether he will recognize me and know me by sight, or whether he will fail to know me, since I have been gone so long a time.” So saying, he gave to the slaves his battle-gear."
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "They thereafter went quickly to the house; but Odysseus drew near to the fruitful vineyard in his quest. Now he did not find Dolius as he went down into the great orchard, nor any of his slaves or of his sons, but as it chanced"
+    }
+  ]
+}

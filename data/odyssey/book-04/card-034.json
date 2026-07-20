@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 34,
+  "lineStart": 661,
+  "lineEnd": 680,
+  "lines": [
+    {
+      "n": 661,
+      "greek": "ἀχνύμενος· μένεος δὲ μέγα φρένες ἀμφιμέλαιναι"
+    },
+    {
+      "n": 662,
+      "greek": "πίμπλαντʼ, ὄσσε δέ οἱ πυρὶ λαμπετόωντι ἐίκτην·"
+    },
+    {
+      "n": 663,
+      "greek": "ὢ πόποι, ἦ μέγα ἔργον ὑπερφιάλως ἐτελέσθη"
+    },
+    {
+      "n": 664,
+      "greek": "Τηλεμάχῳ ὁδὸς ἥδε· φάμεν δέ οἱ οὐ τελέεσθαι."
+    },
+    {
+      "n": 665,
+      "greek": "ἐκ τοσσῶνδʼ ἀέκητι νέος πάϊς οἴχεται αὔτως"
+    },
+    {
+      "n": 666,
+      "greek": "νῆα ἐρυσσάμενος, κρίνας τʼ ἀνὰ δῆμον ἀρίστους."
+    },
+    {
+      "n": 667,
+      "greek": "ἄρξει καὶ προτέρω κακὸν ἔμμεναι· ἀλλά οἱ αὐτῷ"
+    },
+    {
+      "n": 668,
+      "greek": "Ζεὺς ὀλέσειε βίην, πρὶν ἥβης μέτρον ἱκέσθαι."
+    },
+    {
+      "n": 669,
+      "greek": "ἀλλʼ ἄγε μοι δότε νῆα θοὴν καὶ εἴκοσʼ ἑταίρους,"
+    },
+    {
+      "n": 670,
+      "greek": "ὄφρα μιν αὐτὸν ἰόντα λοχήσομαι ἠδὲ φυλάξω"
+    },
+    {
+      "n": 671,
+      "greek": "ἐν πορθμῷ Ἰθάκης τε Σάμοιό τε παιπαλοέσσης,"
+    },
+    {
+      "n": 672,
+      "greek": "ὡς ἂν ἐπισμυγερῶς ναυτίλλεται εἵνεκα πατρός."
+    },
+    {
+      "n": 673,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπῄνεον ἠδʼ ἐκέλευον."
+    },
+    {
+      "n": 674,
+      "greek": "αὐτίκʼ ἔπειτʼ ἀνστάντες ἔβαν δόμον εἰς Ὀδυσῆος."
+    },
+    {
+      "n": 675,
+      "greek": "οὐδʼ ἄρα Πηνελόπεια πολὺν χρόνον ἦεν ἄπυστος"
+    },
+    {
+      "n": 676,
+      "greek": "μύθων, οὓς μνηστῆρες ἐνὶ φρεσὶ βυσσοδόμευον·"
+    },
+    {
+      "n": 677,
+      "greek": "κῆρυξ γάρ οἱ ἔειπε Μέδων, ὃς ἐπεύθετο βουλὰς"
+    },
+    {
+      "n": 678,
+      "greek": "αὐλῆς ἐκτὸς ἐών· οἱ δʼ ἔνδοθι μῆτιν ὕφαινον."
+    },
+    {
+      "n": 679,
+      "greek": "βῆ δʼ ἴμεν ἀγγελέων διὰ δώματα Πηνελοπείῃ·"
+    },
+    {
+      "n": 680,
+      "greek": "τὸν δὲ κατʼ οὐδοῦ βάντα προσηύδα Πηνελόπεια·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        665,
+        669
+      ],
+      "text": "Forth in despite of all of us here the lad is gone without more ado, launching a ship, and choosing the best men in the land. He will begin by and by to be our bane; but to his own undoing may Zeus destroy his might before ever he reaches the measure of manhood. But come, give me a swift ship and twenty men,"
+    },
+    {
+      "lines": [
+        670,
+        674
+      ],
+      "text": "that I may watch in ambush for him as he passes in the strait between Ithaca and rugged Samos. Thus shall his voyaging in search of his father come to a sorry end.” So he spoke, and they all praised his words, and bade him act. And straightway they rose up and went to the house of Odysseus."
+    },
+    {
+      "lines": [
+        675,
+        679
+      ],
+      "text": "Now Penelope was no long time without knowledge of the plans which the wooers were plotting in the deep of their hearts; for the herald Medon told her, who heard their counsel as he stood without the court and they within were weaving their plot. So he went through the hall to bear the tidings to Penelope;"
+    },
+    {
+      "lines": [
+        680,
+        680
+      ],
+      "text": "and as he stepped across the threshold Penelope spoke to him and said: “Herald, why have the lordly wooers sent thee forth? Was it to tell the handmaids of divine Odysseus to cease from their tasks, and make ready a feast for them? Never wooing any more, nor consorting together elsewhere,"
+    }
+  ]
+}

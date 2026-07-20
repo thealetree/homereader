@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "οὔτε μιν Ἠέλιος φαέθων ἀκτῖσιν ἔβαλλεν,"
+    },
+    {
+      "n": 442,
+      "greek": "οὔτʼ ὄμβρος περάασκε διαμπερές· ὣς ἄρα πυκνὴ"
+    },
+    {
+      "n": 443,
+      "greek": "ἦεν, ἀτὰρ φύλλων ἐνέην χύσις ἤλιθα πολλή."
+    },
+    {
+      "n": 444,
+      "greek": "τὸν δʼ ἀνδρῶν τε κυνῶν τε περὶ κτύπος ἦλθε ποδοῖϊν,"
+    },
+    {
+      "n": 445,
+      "greek": "ὡς ἐπάγοντες ἐπῇσαν· ὁ δʼ ἀντίος ἐκ ξυλόχοιο"
+    },
+    {
+      "n": 446,
+      "greek": "φρίξας εὖ λοφιήν, πῦρ δʼ ὀφθαλμοῖσι δεδορκώς,"
+    },
+    {
+      "n": 447,
+      "greek": "στῆ ῥʼ αὐτῶν σχεδόθεν· ὁ δʼ ἄρα πρώτιστος Ὀδυσσεὺς"
+    },
+    {
+      "n": 448,
+      "greek": "ἔσσυτʼ ἀνασχόμενος δολιχὸν δόρυ χειρὶ παχείῃ,"
+    },
+    {
+      "n": 449,
+      "greek": "οὐτάμεναι μεμαώς· ὁ δέ μιν φθάμενος ἔλασεν σῦς"
+    },
+    {
+      "n": 450,
+      "greek": "γουνὸς ὕπερ, πολλὸν δὲ διήφυσε σαρκὸς ὀδόντι"
+    },
+    {
+      "n": 451,
+      "greek": "λικριφὶς ἀΐξας, οὐδʼ ὀστέον ἵκετο φωτός."
+    },
+    {
+      "n": 452,
+      "greek": "τὸν δʼ Ὀδυσεὺς οὔτησε τυχὼν κατὰ δεξιὸν ὦμον,"
+    },
+    {
+      "n": 453,
+      "greek": "ἀντικρὺ δὲ διῆλθε φαεινοῦ δουρὸς ἀκωκή·"
+    },
+    {
+      "n": 454,
+      "greek": "κὰδ δʼ ἔπεσʼ ἐν κονίῃσι μακών, ἀπὸ δʼ ἔπτατο θυμός."
+    },
+    {
+      "n": 455,
+      "greek": "τὸν μὲν ἄρʼ Αὐτολύκου παῖδες φίλοι ἀμφεπένοντο,"
+    },
+    {
+      "n": 456,
+      "greek": "ὠτειλὴν δʼ Ὀδυσῆος ἀμύμονος ἀντιθέοιο"
+    },
+    {
+      "n": 457,
+      "greek": "δῆσαν ἐπισταμένως, ἐπαοιδῇ δʼ αἷμα κελαινὸν"
+    },
+    {
+      "n": 458,
+      "greek": "ἔσχεθον, αἶψα δʼ ἵκοντο φίλου πρὸς δώματα πατρός."
+    },
+    {
+      "n": 459,
+      "greek": "τὸν μὲν ἄρʼ Αὐτόλυκός τε καὶ υἱέες Αὐτολύκοιο"
+    },
+    {
+      "n": 460,
+      "greek": "εὖ ἰησάμενοι ἠδʼ ἀγλαὰ δῶρα πορόντες"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "as they pressed on in the chase, and forth from his lair he came against them with bristling back and eyes flashing fire, and stood there at bay close before them. Then first of all Odysseus rushed on, holding his long spear on high in his stout hand, eager to smite him; but the boar was too quick for him and struck him"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "above the knee, charging upon him sideways, and with his tusk tore a long gash in the flesh, but did not reach the bone of the man. But Odysseus with sure aim smote him on the right shoulder, and clear through went the point of the bright spear, and the boar fell in the dust with a cry, and his life flew from him."
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "Then the dear sons of Autolycus busied themselves with the carcase, and the wound of noble, god-like Odysseus they bound up skilfully, and checked the black blood with a charm, and straightway returned to the house of their dear father. And when Autolycus and the sons of Autolycus"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "had fully healed him, and had given him glorious gifts, they quickly sent him back with joy to his native land, to Ithaca. Then his father and his honored mother rejoiced at his return, and asked him all the story, how he got his wound; and he told them all the truth,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "αἰετὸς ἀργὴν χῆνα φέρων ὀνύχεσσι πέλωρον,"
+    },
+    {
+      "n": 162,
+      "greek": "ἥμερον ἐξ αὐλῆς· οἱ δʼ ἰΰζοντες ἕποντο"
+    },
+    {
+      "n": 163,
+      "greek": "ἀνέρες ἠδὲ γυναῖκες· ὁ δέ σφισιν ἐγγύθεν ἐλθὼν"
+    },
+    {
+      "n": 164,
+      "greek": "δεξιὸς ἤϊξε πρόσθʼ ἵππων· οἱ δὲ ἰδόντες"
+    },
+    {
+      "n": 165,
+      "greek": "γήθησαν, καὶ πᾶσιν ἐνὶ φρεσὶ θυμὸς ἰάνθη."
+    },
+    {
+      "n": 166,
+      "greek": "τοῖσι δὲ Νεστορίδης Πεισίστρατος ἤρχετο μύθων·"
+    },
+    {
+      "n": 167,
+      "greek": "φράζεο δή, Μενέλαε διοτρεφές, ὄρχαμε λαῶν,"
+    },
+    {
+      "n": 168,
+      "greek": "ἢ νῶϊν τόδʼ ἔφηνε θεὸς τέρας ἦε σοὶ αὐτῷ."
+    },
+    {
+      "n": 169,
+      "greek": "ὣς φάτο, μερμήριξε δʼ ἀρηΐφιλος Μενέλαος,"
+    },
+    {
+      "n": 170,
+      "greek": "ὅππως οἱ κατὰ μοῖραν ὑποκρίναιτο νοήσας."
+    },
+    {
+      "n": 171,
+      "greek": "τὸν δʼ Ἑλένη τανύπεπλος ὑποφθαμένη φάτο μῦθον·"
+    },
+    {
+      "n": 172,
+      "greek": "κλῦτέ μευ· αὐτὰρ ἐγὼ μαντεύσομαι, ὡς ἐνὶ θυμῷ"
+    },
+    {
+      "n": 173,
+      "greek": "ἀθάνατοι βάλλουσι καὶ ὡς τελέεσθαι ὀΐω."
+    },
+    {
+      "n": 174,
+      "greek": "ὡς ὅδε χῆνʼ ἥρπαξʼ ἀτιταλλομένην ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 175,
+      "greek": "ἐλθὼν ἐξ ὄρεος, ὅθι οἱ γενεή τε τόκος τε,"
+    },
+    {
+      "n": 176,
+      "greek": "ὣς Ὀδυσεὺς κακὰ πολλὰ παθὼν καὶ πόλλʼ ἐπαληθεὶς"
+    },
+    {
+      "n": 177,
+      "greek": "οἴκαδε νοστήσει καὶ τίσεται· ἠὲ καὶ ἤδη"
+    },
+    {
+      "n": 178,
+      "greek": "οἴκοι, ἀτὰρ μνηστῆρσι κακὸν πάντεσσι φυτεύει."
+    },
+    {
+      "n": 179,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 180,
+      "greek": "οὕτω νῦν Ζεὺς θείη, ἐρίγδουπος πόσις Ἥρης·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "they were glad as they saw it, and the hearts in the breasts of all were cheered. And among them Peisistratus, son of Nestor, was first to speak: “Consider, Menelaus, fostered of Zeus, leader of hosts, whether it was for us two that the god showed this sign, or for thyself.” so he spoke, and Menelaus, dear to Ares, pondered"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "how he might with understanding interpret the sign aright. But long-robed Helen took the word from him, and said: “Hear me, and I will prophesy as the immortals put it into my heart, and as I think it will be brought to pass. Even as this eagle came"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "from the mountain, where are his kin, and where he was born, and snatched up the goose that was bred in the house, even so shall Odysseus return to his home after many toils and many wanderings, and shall take vengeance; or even now he is at home, and is sowing the seeds of evil for all the wooers.” Then again wise Telemachus answered her:"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "“So may Zeus grant, the loud-thundering lord of Here; then will I even there ever pray to thee, as to a god.” He spoke, and touched the two horses with the lash, and they sped swiftly toward the plain, coursing eagerly through the city. So all day long they shook the yoke they bore about their necks."
+    }
+  ]
+}

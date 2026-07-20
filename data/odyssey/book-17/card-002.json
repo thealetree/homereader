@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "ὥστʼ ἐπιτειλαμένῳ σημάντορι πάντα πιθέσθαι."
+    },
+    {
+      "n": 22,
+      "greek": "ἀλλʼ ἔρχευ· ἐμὲ δʼ ἄξει ἀνὴρ ὅδε, τὸν σὺ κελεύεις,"
+    },
+    {
+      "n": 23,
+      "greek": "αὐτίκʼ ἐπεί κε πυρὸς θερέω ἀλέη τε γένηται."
+    },
+    {
+      "n": 24,
+      "greek": "αἰνῶς γὰρ τάδε εἵματʼ ἔχω κακά· μή με δαμάσσῃ"
+    },
+    {
+      "n": 25,
+      "greek": "στίβη ὑπηοίη· ἕκαθεν δέ τε ἄστυ φάτʼ εἶναι."
+    },
+    {
+      "n": 26,
+      "greek": "ὣς φάτο, Τηλέμαχος δὲ διὰ σταθμοῖο βεβήκει,"
+    },
+    {
+      "n": 27,
+      "greek": "κραιπνὰ ποσὶ προβιβάς, κακὰ δὲ μνηστῆρσι φύτευεν."
+    },
+    {
+      "n": 28,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἵκανε δόμους εὖ ναιετάοντας,"
+    },
+    {
+      "n": 29,
+      "greek": "ἔγχος μέν ῥʼ ἔστησε φέρων πρὸς κίονα μακρήν,"
+    },
+    {
+      "n": 30,
+      "greek": "αὐτὸς δʼ εἴσω ἴεν καὶ ὑπέρβη λάϊνον οὐδόν."
+    },
+    {
+      "n": 31,
+      "greek": "τὸν δὲ πολὺ πρώτη εἶδε τροφὸς Εὐρύκλεια,"
+    },
+    {
+      "n": 32,
+      "greek": "κώεα καστορνῦσα θρόνοις ἔνι δαιδαλέοισι,"
+    },
+    {
+      "n": 33,
+      "greek": "δακρύσασα δʼ ἔπειτʼ ἰθὺς κίεν· ἀμφὶ δʼ ἄρʼ ἄλλαι"
+    },
+    {
+      "n": 34,
+      "greek": "δμῳαὶ Ὀδυσσῆος ταλασίφρονος ἠγερέθοντο,"
+    },
+    {
+      "n": 35,
+      "greek": "καὶ κύνεον ἀγαπαζόμεναι κεφαλήν τε καὶ ὤμους."
+    },
+    {
+      "n": 36,
+      "greek": "ἡ δʼ ἴεν ἐκ θαλάμοιο περίφρων Πηνελόπεια,"
+    },
+    {
+      "n": 37,
+      "greek": "Ἀρτέμιδι ἰκέλη ἠὲ χρυσέῃ Ἀφροδίτῃ,"
+    },
+    {
+      "n": 38,
+      "greek": "ἀμφὶ δὲ παιδὶ φίλῳ βάλε πήχεε δακρύσασα,"
+    },
+    {
+      "n": 39,
+      "greek": "κύσσε δέ μιν κεφαλήν τε καὶ ἄμφω φάεα καλά,"
+    },
+    {
+      "n": 40,
+      "greek": "καί ῥʼ ὀλοφυρομένη ἔπεα πτερόεντα προσηύδα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "the morning frost may overcome me; and ye say it is far to the city.” So he spoke, and Telemachus passed out through the farmstead with rapid strides, and was sowing the seeds of evil for the wooers. But when he came to the stately house he set his spear in place, leaning it against a tall pillar,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "and himself went in and crossed the threshold of stone. Him the nurse Eurycleia was far the first to see, as she was spreading fleeces on the richly-wrought chairs. With a burst of tears she came straight toward him, and round about them gathered the other maids of Odysseus of the steadfast heart,"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "and they kissed his head and shoulders in loving welcome. Then forth from her chamber came wise Penelope, like unto Artemis or golden Aphrodite, and bursting into tears she flung her arms about her dear son, and kissed his head and both his beautiful eyes;"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "and with wailing she spoke to him winged words: “Thou art come, Telemachus, sweet light of my eyes; I thought I should never see thee more after thou hadst gone in thy ship to Pylos—secretly, and in my despite, to seek tidings of thy dear father. Come, then, tell me what sight thou hadst of him.”"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "κνυζώσω δέ τοι ὄσσε πάρος περικαλλέʼ ἐόντε,"
+    },
+    {
+      "n": 402,
+      "greek": "ὡς ἂν ἀεικέλιος πᾶσι μνηστῆρσι φανήῃς"
+    },
+    {
+      "n": 403,
+      "greek": "σῇ τʼ ἀλόχῳ καὶ παιδί, τὸν ἐν μεγάροισιν ἔλειπες."
+    },
+    {
+      "n": 404,
+      "greek": "αὐτὸς δὲ πρώτιστα συβώτην εἰσαφικέσθαι,"
+    },
+    {
+      "n": 405,
+      "greek": "ὅς τοι ὑῶν ἐπίουρος, ὁμῶς δέ τοι ἤπια οἶδε,"
+    },
+    {
+      "n": 406,
+      "greek": "παῖδά τε σὸν φιλέει καὶ ἐχέφρονα Πηνελόπειαν."
+    },
+    {
+      "n": 407,
+      "greek": "δήεις τόν γε σύεσσι παρήμενον· αἱ δὲ νέμονται"
+    },
+    {
+      "n": 408,
+      "greek": "πὰρ Κόρακος πέτρῃ ἐπί τε κρήνῃ Ἀρεθούσῃ,"
+    },
+    {
+      "n": 409,
+      "greek": "ἔσθουσαι βάλανον μενοεικέα καὶ μέλαν ὕδωρ"
+    },
+    {
+      "n": 410,
+      "greek": "πίνουσαι, τά θʼ ὕεσσι τρέφει τεθαλυῖαν ἀλοιφήν."
+    },
+    {
+      "n": 411,
+      "greek": "ἔνθα μένειν καὶ πάντα παρήμενος ἐξερέεσθαι,"
+    },
+    {
+      "n": 412,
+      "greek": "ὄφρʼ ἂν ἐγὼν ἔλθω Σπάρτην ἐς καλλιγύναικα"
+    },
+    {
+      "n": 413,
+      "greek": "Τηλέμαχον καλέουσα, τεὸν φίλον υἱόν, Ὀδυσσεῦ·"
+    },
+    {
+      "n": 414,
+      "greek": "ὅς τοι ἐς εὐρύχορον Λακεδαίμονα πὰρ Μενέλαον"
+    },
+    {
+      "n": 415,
+      "greek": "ᾤχετο πευσόμενος μετὰ σὸν κλέος, εἴ που ἔτʼ εἴης."
+    },
+    {
+      "n": 416,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 417,
+      "greek": "τίπτε τʼ ἄρʼ οὔ οἱ ἔειπες, ἐνὶ φρεσὶ πάντα ἰδυῖα;"
+    },
+    {
+      "n": 418,
+      "greek": "ἦ ἵνα που καὶ κεῖνος ἀλώμενος ἄλγεα πάσχῃ"
+    },
+    {
+      "n": 419,
+      "greek": "πόντον ἐπʼ ἀτρύγετον· βίοτον δέ οἱ ἄλλοι ἔδουσι;"
+    },
+    {
+      "n": 420,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα θεὰ γλαυκῶπις Ἀθήνη·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "to the swineherd who keeps thy swine, and withal has a kindly heart towards thee, and loves thy son and constant Penelope. Thou wilt find him abiding by the swine, and they are feeding by the rock of Corax and the spring Arethusa, eating acorns to their heart's content and"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "drinking the black water, things which cause the rich flesh of swine to wax fat. There do thou stay, and sitting by his side question him of all things, while I go to Sparta, the land of fair women, to summon thence Telemachus, thy dear son, Odysseus, who went to spacious Lacedaemon to the house of Menelaus,"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "to seek tidings of thee, if thou wast still anywhere alive.” Then Odysseus of many wiles answered her: “Why then, I pray thee, didst thou not tell him, thou whose mind knows all things? Nay, was it haply that he too might suffer woes, wandering over the unresting sea, and that others might devour his substance?”"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "Then the goddess, flashing-eyed Athena, answered him: “Nay verily, not for him be thy heart overmuch troubled. It was I that guided him, that he might win good report by going thither, and he has no toil, but sits in peace in the palace of the son of Atreus, and good cheer past telling is before him."
+    }
+  ]
+}

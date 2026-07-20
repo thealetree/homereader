@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "ὡς ἐμοί, ὅττι τε τοῖον ἐόντʼ ἀγαθοῖσι γεραίρεις."
+    },
+    {
+      "n": 442,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 443,
+      "greek": "ἔσθιε, δαιμόνιε ξείνων, καὶ τέρπεο τοῖσδε,"
+    },
+    {
+      "n": 444,
+      "greek": "οἷα πάρεστι· θεὸς δὲ τὸ μὲν δώσει, τὸ δʼ ἐάσει,"
+    },
+    {
+      "n": 445,
+      "greek": "ὅττι κεν ᾧ θυμῷ ἐθέλῃ· δύναται γὰρ ἅπαντα."
+    },
+    {
+      "n": 446,
+      "greek": "ἦ ῥα καὶ ἄργματα θῦσε θεοῖς αἰειγενέτῃσι,"
+    },
+    {
+      "n": 447,
+      "greek": "σπείσας δʼ αἴθοπα οἶνον Ὀδυσσῆϊ πτολιπόρθῳ"
+    },
+    {
+      "n": 448,
+      "greek": "ἐν χείρεσσιν ἔθηκεν· ὁ δʼ ἕζετο ᾗ παρὰ μοίρῃ."
+    },
+    {
+      "n": 449,
+      "greek": "σῖτον δέ σφιν ἔνειμε Μεσαύλιος, ὅν ῥα συβώτης"
+    },
+    {
+      "n": 450,
+      "greek": "αὐτὸς κτήσατο οἶος ἀποιχομένοιο ἄνακτος,"
+    },
+    {
+      "n": 451,
+      "greek": "νόσφιν δεσποίνης καὶ Λαέρταο γέροντος·"
+    },
+    {
+      "n": 452,
+      "greek": "πὰρ δʼ ἄρα μιν Ταφίων πρίατο κτεάτεσσιν ἑοῖσιν."
+    },
+    {
+      "n": 453,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    },
+    {
+      "n": 454,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 455,
+      "greek": "σῖτον μέν σφιν ἀφεῖλε Μεσαύλιος, οἱ δʼ ἐπὶ κοῖτον"
+    },
+    {
+      "n": 456,
+      "greek": "σίτου καὶ κρειῶν κεκορημένοι ἐσσεύοντο."
+    },
+    {
+      "n": 457,
+      "greek": "νὺξ δʼ ἄρʼ ἐπῆλθε κακὴ σκοτομήνιος, ὗε δʼ ἄρα Ζεὺς"
+    },
+    {
+      "n": 458,
+      "greek": "πάννυχος, αὐτὰρ ἄη Ζέφυρος μέγας αἰὲν ἔφυδρος."
+    },
+    {
+      "n": 459,
+      "greek": "τοῖς δʼ Ὀδυσεὺς μετέειπε, συβώτεω πειρητίζων,"
+    },
+    {
+      "n": 460,
+      "greek": "εἴ πώς οἱ ἐκδὺς χλαῖναν πόροι, ἤ τινʼ ἑταίρων"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "even as seems good to his heart; for he can do all things.” He spoke, and sacrificed the firstling pieces to the gods that are for ever, and, when he had made libations of the flaming wine, he placed the cup in the hands of Odysseus, the sacker of cities, and took his seat by his own portion. And bread was served to them by Mesaulius, whom the swineherd"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "had gotten by himself alone, while his master was gone, without the knowledge of his mistress or the old Laertes, buying him of the Taphians with his own goods. So they put forth their hands to the good cheer lying ready before them. But when they had put from them the desire of food and drink,"
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "Mesaulius took away the food, and they were fain to go to their rest, sated with bread and meat. Now the night came on, foul and without a moon, and Zeus rained the whole night through, and the West Wind, ever the rainy wind, blew strong. Then Odysseus spoke among them, making trial of the swineherd,"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "to see whether he would strip off his own cloak and give it him, or bid some other of his comrades to do so, since he cared for him so greatly: “Hear me now, Eumaeus and all the rest of you, his men, with a wish in my heart will I tell a tale; for the wine bids me, befooling wine, which sets one, even though he be right wise, to singing"
+    }
+  ]
+}

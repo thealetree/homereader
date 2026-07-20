@@ -1,0 +1,129 @@
+{
+  "book": 3,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "Ἠέλιος δʼ ἀνόρουσε, λιπὼν περικαλλέα λίμνην,"
+    },
+    {
+      "n": 2,
+      "greek": "οὐρανὸν ἐς πολύχαλκον, ἵνʼ ἀθανάτοισι φαείνοι"
+    },
+    {
+      "n": 3,
+      "greek": "καὶ θνητοῖσι βροτοῖσιν ἐπὶ ζείδωρον ἄρουραν·"
+    },
+    {
+      "n": 4,
+      "greek": "οἱ δὲ Πύλον, Νηλῆος ἐυκτίμενον πτολίεθρον,"
+    },
+    {
+      "n": 5,
+      "greek": "ἷξον· τοὶ δʼ ἐπὶ θινὶ θαλάσσης ἱερὰ ῥέζον,"
+    },
+    {
+      "n": 6,
+      "greek": "ταύρους παμμέλανας, ἐνοσίχθονι κυανοχαίτῃ."
+    },
+    {
+      "n": 7,
+      "greek": "ἐννέα δʼ ἕδραι ἔσαν, πεντακόσιοι δʼ ἐν ἑκάστῃ"
+    },
+    {
+      "n": 8,
+      "greek": "ἥατο καὶ προύχοντο ἑκάστοθι ἐννέα ταύρους."
+    },
+    {
+      "n": 9,
+      "greek": "εὖθʼ οἱ σπλάγχνα πάσαντο, θεῷ δʼ ἐπὶ μηρίʼ ἔκαιον,"
+    },
+    {
+      "n": 10,
+      "greek": "οἱ δʼ ἰθὺς κατάγοντο ἰδʼ ἱστία νηὸς ἐίσης"
+    },
+    {
+      "n": 11,
+      "greek": "στεῖλαν ἀείραντες, τὴν δʼ ὥρμισαν, ἐκ δʼ ἔβαν αὐτοί·"
+    },
+    {
+      "n": 12,
+      "greek": "ἐκ δʼ ἄρα Τηλέμαχος νηὸς βαῖνʼ, ἦρχε δʼ Ἀθήνη."
+    },
+    {
+      "n": 13,
+      "greek": "τὸν προτέρη προσέειπε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 14,
+      "greek": "Τηλέμαχʼ, οὐ μέν σε χρὴ ἔτʼ αἰδοῦς, οὐδʼ ἠβαιόν·"
+    },
+    {
+      "n": 15,
+      "greek": "τοὔνεκα γὰρ καὶ πόντον ἐπέπλως, ὄφρα πύθηαι"
+    },
+    {
+      "n": 16,
+      "greek": "πατρός, ὅπου κύθε γαῖα καὶ ὅν τινα πότμον ἐπέσπεν."
+    },
+    {
+      "n": 17,
+      "greek": "ἀλλʼ ἄγε νῦν ἰθὺς κίε Νέστορος ἱπποδάμοιο·"
+    },
+    {
+      "n": 18,
+      "greek": "εἴδομεν ἥν τινα μῆτιν ἐνὶ στήθεσσι κέκευθε."
+    },
+    {
+      "n": 19,
+      "greek": "λίσσεσθαι δέ μιν αὐτός, ὅπως νημερτέα εἴπῃ·"
+    },
+    {
+      "n": 20,
+      "greek": "ψεῦδος δʼ οὐκ ἐρέει· μάλα γὰρ πεπνυμένος ἐστί."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "And now the sun, leaving the beauteous mere, sprang up into the brazen heaven to give light to the immortals and to mortal men on the earth, the giver of grain; and they came to Pylos, the well-built citadel of Neleus."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "Here the townsfolk on the shore of the sea were offering sacrifice of black bulls to the dark-haired Earth-shaker. Nine companies there were, and five hundred men sat in each, and in each they held nine bulls ready for sacrifice. Now when they had tasted the inner parts and were burning the thigh-pieces to the god,"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "the others put straight in to the shore, and hauled up and furled the sail of the shapely ship, and moored her, and themselves stepped forth. Forth too from the ship stepped Telemachus, and Athena led the way. And the goddess, flashing-eyed Athena, spake first to him, and said: “Telemachus, no longer hast thou need to feel shame, no, not a whit."
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "For to this end hast thou sailed over the sea, that thou mightest seek tidings of thy father,—where the earth covered him, and what fate he met. But come now, go straightway to Nestor, tamer of horses; let us learn what counsel he keepeth hid in his breast. And do thou beseech him thyself that he may tell thee the very truth."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "A lie will he not utter, for he is wise indeed.” Then wise Telemachus answered her: “Mentor, how shall I go, and how shall I greet him? I am as yet all unversed in subtle speech, and moreover a young man has shame to question an elder.”"
+    }
+  ]
+}

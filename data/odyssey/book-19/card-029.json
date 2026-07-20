@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 29,
+  "lineStart": 561,
+  "lineEnd": 580,
+  "lines": [
+    {
+      "n": 561,
+      "greek": "γίγνοντʼ, οὐδέ τι πάντα τελείεται ἀνθρώποισι."
+    },
+    {
+      "n": 562,
+      "greek": "δοιαὶ γάρ τε πύλαι ἀμενηνῶν εἰσὶν ὀνείρων·"
+    },
+    {
+      "n": 563,
+      "greek": "αἱ μὲν γὰρ κεράεσσι τετεύχαται, αἱ δʼ ἐλέφαντι·"
+    },
+    {
+      "n": 564,
+      "greek": "τῶν οἳ μέν κʼ ἔλθωσι διὰ πριστοῦ ἐλέφαντος,"
+    },
+    {
+      "n": 565,
+      "greek": "οἵ ῥʼ ἐλεφαίρονται, ἔπεʼ ἀκράαντα φέροντες·"
+    },
+    {
+      "n": 566,
+      "greek": "οἱ δὲ διὰ ξεστῶν κεράων ἔλθωσι θύραζε,"
+    },
+    {
+      "n": 567,
+      "greek": "οἵ ῥʼ ἔτυμα κραίνουσι, βροτῶν ὅτε κέν τις ἴδηται."
+    },
+    {
+      "n": 568,
+      "greek": "ἀλλʼ ἐμοὶ οὐκ ἐντεῦθεν ὀΐομαι αἰνὸν ὄνειρον"
+    },
+    {
+      "n": 569,
+      "greek": "ἐλθέμεν· ἦ κʼ ἀσπαστὸν ἐμοὶ καὶ παιδὶ γένοιτο."
+    },
+    {
+      "n": 570,
+      "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·"
+    },
+    {
+      "n": 571,
+      "greek": "ἥδε δὴ ἠὼς εἶσι δυσώνυμος, ἥ μʼ Ὀδυσῆος"
+    },
+    {
+      "n": 572,
+      "greek": "οἴκου ἀποσχήσει· νῦν γὰρ καταθήσω ἄεθλον,"
+    },
+    {
+      "n": 573,
+      "greek": "τοὺς πελέκεας, τοὺς κεῖνος ἐνὶ μεγάροισιν ἑοῖσιν"
+    },
+    {
+      "n": 574,
+      "greek": "ἵστασχʼ ἑξείης, δρυόχους ὥς, δώδεκα πάντας·"
+    },
+    {
+      "n": 575,
+      "greek": "στὰς δʼ ὅ γε πολλὸν ἄνευθε διαρρίπτασκεν ὀϊστόν."
+    },
+    {
+      "n": 576,
+      "greek": "νῦν δὲ μνηστήρεσσιν ἄεθλον τοῦτον ἐφήσω·"
+    },
+    {
+      "n": 577,
+      "greek": "ὃς δέ κε ῥηΐτατʼ ἐντανύσῃ βιὸν ἐν παλάμῃσι"
+    },
+    {
+      "n": 578,
+      "greek": "καὶ διοϊστεύσῃ πελέκεων δυοκαίδεκα πάντων,"
+    },
+    {
+      "n": 579,
+      "greek": "τῷ κεν ἅμʼ ἑσποίμην, νοσφισσαμένη τόδε δῶμα"
+    },
+    {
+      "n": 580,
+      "greek": "κουρίδιον, μάλα καλόν, ἐνίπλειον βιότοιο·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        565,
+        569
+      ],
+      "text": "deceive men, bringing words that find no fulfillment. But those that come forth through the gate of polished horn bring true issues to pass, when any mortal sees them. But in my case it was not from thence, methinks, that my strange dream came. Ah, truly it would then have been welcome to me and to my son."
+    },
+    {
+      "lines": [
+        570,
+        574
+      ],
+      "text": "But another thing will I tell thee, and do thou lay it to heart. Even now is coming on this morn of evil name which is to cut me off from the house of Odysseus; for now I shall appoint for a contest those axes which he was wont to set up in line in his halls, like props of a ship that is building, twelve in all,"
+    },
+    {
+      "lines": [
+        575,
+        579
+      ],
+      "text": "and he would stand afar off and shoot an arrow through them. Now then I shall set this contest before the wooers: whosoever shall most easily string the bow in his hands, and shoot an arrow through all twelve axes, with him will I go and forsake this house"
+    },
+    {
+      "lines": [
+        580,
+        580
+      ],
+      "text": "of my wedded life, a house most fair and filled with livelihood, which, methinks, I shall ever remember even in my dreams.” Then Odysseus of many wiles answered her, and said: “Honored wife of Odysseus, son of Laertes, no longer now do thou put off this contest in thy halls;"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "τὸν δέ τοι ἀργαλέον θήσει θεός· οὐ γὰρ ὀίω"
+    },
+    {
+      "n": 102,
+      "greek": "λήσειν ἐννοσίγαιον, ὅ τοι κότον ἔνθετο θυμῷ"
+    },
+    {
+      "n": 103,
+      "greek": "χωόμενος ὅτι οἱ υἱὸν φίλον ἐξαλάωσας."
+    },
+    {
+      "n": 104,
+      "greek": "ἀλλʼ ἔτι μέν κε καὶ ὣς κακά περ πάσχοντες ἵκοισθε,"
+    },
+    {
+      "n": 105,
+      "greek": "αἴ κʼ ἐθέλῃς σὸν θυμὸν ἐρυκακέειν καὶ ἑταίρων,"
+    },
+    {
+      "n": 106,
+      "greek": "ὁππότε κε πρῶτον πελάσῃς ἐυεργέα νῆα"
+    },
+    {
+      "n": 107,
+      "greek": "Θρινακίῃ νήσῳ, προφυγὼν ἰοειδέα πόντον,"
+    },
+    {
+      "n": 108,
+      "greek": "βοσκομένας δʼ εὕρητε βόας καὶ ἴφια μῆλα"
+    },
+    {
+      "n": 109,
+      "greek": "Ἠελίου, ὃς πάντʼ ἐφορᾷ καὶ πάντʼ ἐπακούει."
+    },
+    {
+      "n": 110,
+      "greek": "τὰς εἰ μέν κʼ ἀσινέας ἐάᾳς νόστου τε μέδηαι,"
+    },
+    {
+      "n": 111,
+      "greek": "καί κεν ἔτʼ εἰς Ἰθάκην κακά περ πάσχοντες ἵκοισθε·"
+    },
+    {
+      "n": 112,
+      "greek": "εἰ δέ κε σίνηαι, τότε τοι τεκμαίρομʼ ὄλεθρον,"
+    },
+    {
+      "n": 113,
+      "greek": "νηί τε καὶ ἑτάροις. αὐτὸς δʼ εἴ πέρ κεν ἀλύξῃς,"
+    },
+    {
+      "n": 114,
+      "greek": "ὀψὲ κακῶς νεῖαι, ὀλέσας ἄπο πάντας ἑταίρους,"
+    },
+    {
+      "n": 115,
+      "greek": "νηὸς ἐπʼ ἀλλοτρίης· δήεις δʼ ἐν πήματα οἴκῳ,"
+    },
+    {
+      "n": 116,
+      "greek": "ἄνδρας ὑπερφιάλους, οἵ τοι βίοτον κατέδουσι"
+    },
+    {
+      "n": 117,
+      "greek": "μνώμενοι ἀντιθέην ἄλοχον καὶ ἕδνα διδόντες."
+    },
+    {
+      "n": 118,
+      "greek": "ἀλλʼ ἦ τοι κείνων γε βίας ἀποτίσεαι ἐλθών·"
+    },
+    {
+      "n": 119,
+      "greek": "αὐτὰρ ἐπὴν μνηστῆρας ἐνὶ μεγάροισι τεοῖσι"
+    },
+    {
+      "n": 120,
+      "greek": "κτείνῃς ἠὲ δόλῳ ἢ ἀμφαδὸν ὀξέι χαλκῷ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "if thou wilt curb thine own spirit and that of thy comrades, as soon as thou shalt bring thy well-built ship to the island Thrinacia, escaping from the violet sea, and ye find grazing there the kine and goodly flocks of Helios, who over sees and overhears all things."
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "If thou leavest these unharmed and heedest thy homeward way, verily ye may yet reach Ithaca, though in evil plight. But if thou harmest them, then I foresee ruin for thy ship and thy comrades, and even if thou shalt thyself escape, late shalt thou come home and in evil case, after losing all thy comrades,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "in a ship that is another's, and thou shalt find woes in thy house—proud men that devour thy livelihood, wooing thy godlike wife, and offering wooers' gifts. Yet verily on their violent deeds shalt thou take vengeance when thou comest. But when thou hast slain the wooers in thy halls,"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "whether by guile or openly with the sharp sword, then do thou go forth, taking a shapely oar, until thou comest to men that know naught of the sea and eat not of food mingled with salt, aye, and they know naught of ships with purple cheeks,"
+    }
+  ]
+}

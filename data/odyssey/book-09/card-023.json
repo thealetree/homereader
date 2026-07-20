@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "τειρόμενος πάντων ὀίων ἐπεμαίετο νῶτα"
+    },
+    {
+      "n": 442,
+      "greek": "ὀρθῶν ἑσταότων· τὸ δὲ νήπιος οὐκ ἐνόησεν,"
+    },
+    {
+      "n": 443,
+      "greek": "ὥς οἱ ὑπʼ εἰροπόκων ὀίων στέρνοισι δέδεντο."
+    },
+    {
+      "n": 444,
+      "greek": "ὕστατος ἀρνειὸς μήλων ἔστειχε θύραζε"
+    },
+    {
+      "n": 445,
+      "greek": "λάχνῳ στεινόμενος καὶ ἐμοὶ πυκινὰ φρονέοντι."
+    },
+    {
+      "n": 446,
+      "greek": "τὸν δʼ ἐπιμασσάμενος προσέφη κρατερὸς Πολύφημος·"
+    },
+    {
+      "n": 447,
+      "greek": "κριὲ πέπον, τί μοι ὧδε διὰ σπέος ἔσσυο μήλων"
+    },
+    {
+      "n": 448,
+      "greek": "ὕστατος; οὔ τι πάρος γε λελειμμένος ἔρχεαι οἰῶν,"
+    },
+    {
+      "n": 449,
+      "greek": "ἀλλὰ πολὺ πρῶτος νέμεαι τέρενʼ ἄνθεα ποίης"
+    },
+    {
+      "n": 450,
+      "greek": "μακρὰ βιβάς, πρῶτος δὲ ῥοὰς ποταμῶν ἀφικάνεις,"
+    },
+    {
+      "n": 451,
+      "greek": "πρῶτος δὲ σταθμόνδε λιλαίεαι ἀπονέεσθαι"
+    },
+    {
+      "n": 452,
+      "greek": "ἑσπέριος· νῦν αὖτε πανύστατος. ἦ σύ γʼ ἄνακτος"
+    },
+    {
+      "n": 453,
+      "greek": "ὀφθαλμὸν ποθέεις, τὸν ἀνὴρ κακὸς ἐξαλάωσε"
+    },
+    {
+      "n": 454,
+      "greek": "σὺν λυγροῖς ἑτάροισι δαμασσάμενος φρένας οἴνῳ,"
+    },
+    {
+      "n": 455,
+      "greek": "Οὖτις, ὃν οὔ πώ φημι πεφυγμένον εἶναι ὄλεθρον."
+    },
+    {
+      "n": 456,
+      "greek": "εἰ δὴ ὁμοφρονέοις ποτιφωνήεις τε γένοιο"
+    },
+    {
+      "n": 457,
+      "greek": "εἰπεῖν ὅππῃ κεῖνος ἐμὸν μένος ἠλασκάζει·"
+    },
+    {
+      "n": 458,
+      "greek": "τῷ κέ οἱ ἐγκέφαλός γε διὰ σπέος ἄλλυδις ἄλλῃ"
+    },
+    {
+      "n": 459,
+      "greek": "θεινομένου ῥαίοιτο πρὸς οὔδεϊ, κὰδ δέ κʼ ἐμὸν κῆρ"
+    },
+    {
+      "n": 460,
+      "greek": "λωφήσειε κακῶν, τά μοι οὐτιδανὸς πόρεν Οὖτις."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "burdened with the weight of his fleece and my cunning self. And mighty Polyphemus, as he felt along his back, spoke to him, saying: “‘Good ram, why pray is it that thou goest forth thus through the cave the last of the flock? Thou hast not heretofore been wont to lag behind the sheep, but wast ever far the first to feed on the tender bloom of the grass,"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "moving with long strides, and ever the first didst reach the streams of the river, and the first didst long to return to the fold at evening. But now thou art last of all. Surely thou art sorrowing for the eye of thy master, which an evil man blinded along with his miserable fellows, when he had overpowered my wits with wine,"
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "even Noman, who, I tell thee, has not yet escaped destruction. If only thou couldst feel as I do, and couldst get thee power of speech to tell me where he skulks away from my wrath, then should his brains be dashed on the ground here and there throughout the cave, when I had smitten him, and my heart"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "should be lightened of the woes which good-for-naught Noman has brought me.’ “So saying, he sent the ram forth from him. And when we had gone a little way from the cave and the court, I first loosed myself from under the ram and set my comrades free. Speedily then we drove off those long-shanked sheep, rich with fat,"
+    }
+  ]
+}

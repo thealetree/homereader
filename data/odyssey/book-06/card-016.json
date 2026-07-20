@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "νήπιος· οὐ μὲν γάρ τι ἐοικότα τοῖσι τέτυκται"
+    },
+    {
+      "n": 302,
+      "greek": "δώματα Φαιήκων, οἷος δόμος Ἀλκινόοιο"
+    },
+    {
+      "n": 303,
+      "greek": "ἥρωος. ἀλλʼ ὁπότʼ ἄν σε δόμοι κεκύθωσι καὶ αὐλή,"
+    },
+    {
+      "n": 304,
+      "greek": "ὦκα μάλα μεγάροιο διελθέμεν, ὄφρʼ ἂν ἵκηαι"
+    },
+    {
+      "n": 305,
+      "greek": "μητέρʼ ἐμήν· ἡ δʼ ἧσται ἐπʼ ἐσχάρῃ ἐν πυρὸς αὐγῇ,"
+    },
+    {
+      "n": 306,
+      "greek": "ἠλάκατα στρωφῶσʼ ἁλιπόρφυρα, θαῦμα ἰδέσθαι,"
+    },
+    {
+      "n": 307,
+      "greek": "κίονι κεκλιμένη· δμωαὶ δέ οἱ εἵατʼ ὄπισθεν."
+    },
+    {
+      "n": 308,
+      "greek": "ἔνθα δὲ πατρὸς ἐμοῖο θρόνος ποτικέκλιται αὐτῇ,"
+    },
+    {
+      "n": 309,
+      "greek": "τῷ ὅ γε οἰνοποτάζει ἐφήμενος ἀθάνατος ὥς."
+    },
+    {
+      "n": 310,
+      "greek": "τὸν παραμειψάμενος μητρὸς περὶ γούνασι χεῖρας"
+    },
+    {
+      "n": 311,
+      "greek": "βάλλειν ἡμετέρης, ἵνα νόστιμον ἦμαρ ἴδηαι"
+    },
+    {
+      "n": 312,
+      "greek": "χαίρων καρπαλίμως, εἰ καὶ μάλα τηλόθεν ἐσσί."
+    },
+    {
+      "n": 313,
+      "greek": "εἴ κέν τοι κείνη γε φίλα φρονέῃσʼ ἐνὶ θυμῷ,"
+    },
+    {
+      "n": 314,
+      "greek": "ἐλπωρή τοι ἔπειτα φίλους τʼ ἰδέειν καὶ ἱκέσθαι"
+    },
+    {
+      "n": 315,
+      "greek": "οἶκον ἐυκτίμενον καὶ σὴν ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 316,
+      "greek": "ὣς ἄρα φωνήσασʼ ἵμασεν μάστιγι φαεινῇ"
+    },
+    {
+      "n": 317,
+      "greek": "ἡμιόνους· αἱ δʼ ὦκα λίπον ποταμοῖο ῥέεθρα."
+    },
+    {
+      "n": 318,
+      "greek": "αἱ δʼ ἐὺ μὲν τρώχων, ἐὺ δὲ πλίσσοντο πόδεσσιν·"
+    },
+    {
+      "n": 319,
+      "greek": "ἡ δὲ μάλʼ ἡνιόχευεν, ὅπως ἅμʼ ἑποίατο πεζοὶ"
+    },
+    {
+      "n": 320,
+      "greek": "ἀμφίπολοί τʼ Ὀδυσεύς τε, νόῳ δʼ ἐπέβαλλεν ἱμάσθλην."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "to my mother, who sits at the hearth in the light of the fire, spinning the purple yarn, a wonder to behold, leaning against a pillar, and her handmaids sit behind her. There, too, leaning against the selfsame pillar, is set the throne of my father, whereon he sits and quaffs his wine, like unto an immortal."
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "Him pass thou by, and cast thy hands about my mother's knees, that thou mayest quickly see with rejoicing the day of thy return, though thou art come from never so far. If in her sight thou dost win favour, then there is hope that thou wilt see thy friends, and return"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "to thy well-built house and unto thy native land.” So saying, she smote the mules with the shining whip, and they quickly left the streams of the river. Well did they trot, well did they ply their ambling feet, and she drove with care that"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "the maidens and Odysseus might follow on foot, and with judgment did she ply the lash. Then the sun set, and they came to the glorious grove, sacred to Athena. There Odysseus sat him down, and straightway prayed to the daughter of great Zeus: “Hear me, child of aegis-bearing Zeus, unwearied one.Hearken now to my prayer, since aforetime thou didst not hearken when I was smitten, what time the glorious Earth-shaker smote me. Grant that I may come to the Phaeacians as one to be welcomed and to be pitied.” So he spoke in prayer, and Pallas Athena heard him; but she did not yet appear to him face to face, for she feared"
+    }
+  ]
+}

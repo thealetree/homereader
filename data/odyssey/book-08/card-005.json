@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "χρησόμενος· τότε γάρ ῥα κυλίνδετο πήματος ἀρχὴ"
+    },
+    {
+      "n": 82,
+      "greek": "Τρωσί τε καὶ Δαναοῖσι Διὸς μεγάλου διὰ βουλάς."
+    },
+    {
+      "n": 83,
+      "greek": "ταῦτʼ ἄρʼ ἀοιδὸς ἄειδε περικλυτός· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 84,
+      "greek": "πορφύρεον μέγα φᾶρος ἑλὼν χερσὶ στιβαρῇσι"
+    },
+    {
+      "n": 85,
+      "greek": "κὰκ κεφαλῆς εἴρυσσε, κάλυψε δὲ καλὰ πρόσωπα·"
+    },
+    {
+      "n": 86,
+      "greek": "αἴδετο γὰρ Φαίηκας ὑπʼ ὀφρύσι δάκρυα λείβων."
+    },
+    {
+      "n": 87,
+      "greek": "ἦ τοι ὅτε λήξειεν ἀείδων θεῖος ἀοιδός,"
+    },
+    {
+      "n": 88,
+      "greek": "δάκρυ ὀμορξάμενος κεφαλῆς ἄπο φᾶρος ἕλεσκε"
+    },
+    {
+      "n": 89,
+      "greek": "καὶ δέπας ἀμφικύπελλον ἑλὼν σπείσασκε θεοῖσιν·"
+    },
+    {
+      "n": 90,
+      "greek": "αὐτὰρ ὅτʼ ἂψ ἄρχοιτο καὶ ὀτρύνειαν ἀείδειν"
+    },
+    {
+      "n": 91,
+      "greek": "Φαιήκων οἱ ἄριστοι, ἐπεὶ τέρποντʼ ἐπέεσσιν,"
+    },
+    {
+      "n": 92,
+      "greek": "ἂψ Ὀδυσεὺς κατὰ κρᾶτα καλυψάμενος γοάασκεν."
+    },
+    {
+      "n": 93,
+      "greek": "ἔνθʼ ἄλλους μὲν πάντας ἐλάνθανε δάκρυα λείβων,"
+    },
+    {
+      "n": 94,
+      "greek": "Ἀλκίνοος δέ μιν οἶος ἐπεφράσατʼ ἠδʼ ἐνόησεν"
+    },
+    {
+      "n": 95,
+      "greek": "ἥμενος ἄγχʼ αὐτοῦ, βαρὺ δὲ στενάχοντος ἄκουσεν."
+    },
+    {
+      "n": 96,
+      "greek": "αἶψα δὲ Φαιήκεσσι φιληρέτμοισι μετηύδα·"
+    },
+    {
+      "n": 97,
+      "greek": "κέκλυτε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες."
+    },
+    {
+      "n": 98,
+      "greek": "ἤδη μὲν δαιτὸς κεκορήμεθα θυμὸν ἐίσης"
+    },
+    {
+      "n": 99,
+      "greek": "φόρμιγγός θʼ, ἣ δαιτὶ συνήορός ἐστι θαλείῃ·"
+    },
+    {
+      "n": 100,
+      "greek": "νῦν δʼ ἐξέλθωμεν καὶ ἀέθλων πειρηθῶμεν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "and drew it down over his head, and hid his comely face; for he had shame of the Phaeacians as he let fall tears from beneath his eyebrows. Yea, and as often as the divine minstrel ceased his singing, Odysseus would wipe away his tears and draw the cloak from off his head, and taking the two-handled cup would pour libations to the gods."
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "But as often as he began again, and the nobles of the Phaeacians bade him sing, because they took pleasure in his lay, Odysseus would again cover his head and moan. Now from all the rest he concealed the tears that he shed, but Alcinous alone marked him and took heed,"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "for he sat by him, and heard him groaning heavily. And straightway he spoke among the Phaeacians, lovers of the oar: “Hear me, ye leaders and counsellors of the Phaeacians, already have we satisfied our hearts with the equal banquet and with the lyre, which is the companion of the rich feast."
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "But now let us go forth, and make trial of all manner of games, that yon stranger may tell his friends, when he returns home, how far we excel other men in boxing and wrestling and leaping and in speed of foot.” So saying, he led the way, and they followed him."
+    }
+  ]
+}

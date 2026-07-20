@@ -1,0 +1,80 @@
+{
+  "book": 12,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 453,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "τῆμος δὴ τά γε δοῦρα Χαρύβδιος ἐξεφαάνθη."
+    },
+    {
+      "n": 442,
+      "greek": "ἧκα δʼ ἐγὼ καθύπερθε πόδας καὶ χεῖρε φέρεσθαι,"
+    },
+    {
+      "n": 443,
+      "greek": "μέσσῳ δʼ ἐνδούπησα παρὲξ περιμήκεα δοῦρα,"
+    },
+    {
+      "n": 444,
+      "greek": "ἑζόμενος δʼ ἐπὶ τοῖσι διήρεσα χερσὶν ἐμῇσι."
+    },
+    {
+      "n": 445,
+      "greek": "Σκύλλην δʼ οὐκέτʼ ἔασε πατὴρ ἀνδρῶν τε θεῶν τε"
+    },
+    {
+      "n": 446,
+      "greek": "εἰσιδέειν· οὐ γάρ κεν ὑπέκφυγον αἰπὺν ὄλεθρον."
+    },
+    {
+      "n": 447,
+      "greek": "ἔνθεν δʼ ἐννῆμαρ φερόμην, δεκάτῃ δέ με νυκτὶ"
+    },
+    {
+      "n": 448,
+      "greek": "νῆσον ἐς Ὠγυγίην πέλασαν θεοί, ἔνθα Καλυψὼ"
+    },
+    {
+      "n": 449,
+      "greek": "ναίει ἐυπλόκαμος, δεινὴ θεὸς αὐδήεσσα,"
+    },
+    {
+      "n": 450,
+      "greek": "ἥ μʼ ἐφίλει τʼ ἐκόμει τε. τί τοι τάδε μυθολογεύω;"
+    },
+    {
+      "n": 451,
+      "greek": "ἤδη γάρ τοι χθιζὸς ἐμυθεόμην ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 452,
+      "greek": "σοί τε καὶ ἰφθίμῃ ἀλόχῳ· ἐχθρὸν δέ μοί ἐστιν"
+    },
+    {
+      "n": 453,
+      "greek": "αὖτις ἀριζήλως εἰρημένα μυθολογεύειν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "But as for Scylla, the father of gods and men did not suffer her again to catch sight of me, else should I never have escaped utter destruction. “Thence for nine days was I borne, and on the tenth night the gods brought me to Ogygia, where the fair-tressed Calypso dwells, dread goddess of human speech,"
+    },
+    {
+      "lines": [
+        450,
+        453
+      ],
+      "text": "who gave me welcome and tendance. But why should I tell thee this tale? For it was but yesterday that I told it in thy hall to thyself and to thy noble wife. It is an irksome thing, meseems, to tell again a plain-told tale.”"
+    }
+  ]
+}

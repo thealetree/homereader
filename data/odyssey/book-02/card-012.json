@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "νοστήσας δὴ ἔπειτα φίλην ἐς πατρίδα γαῖαν"
+    },
+    {
+      "n": 222,
+      "greek": "σῆμά τέ οἱ χεύω καὶ ἐπὶ κτέρεα κτερεΐξω"
+    },
+    {
+      "n": 223,
+      "greek": "πολλὰ μάλʼ, ὅσσα ἔοικε, καὶ ἀνέρι μητέρα δώσω."
+    },
+    {
+      "n": 224,
+      "greek": "ἦ τοι ὅ γʼ ὣς εἰπὼν κατʼ ἄρʼ ἕζετο, τοῖσι δʼ ἀνέστη"
+    },
+    {
+      "n": 225,
+      "greek": "Μέντωρ, ὅς ῥʼ Ὀδυσῆος ἀμύμονος ἦεν ἑταῖρος,"
+    },
+    {
+      "n": 226,
+      "greek": "καί οἱ ἰὼν ἐν νηυσὶν ἐπέτρεπεν οἶκον ἅπαντα,"
+    },
+    {
+      "n": 227,
+      "greek": "πείθεσθαί τε γέροντι καὶ ἔμπεδα πάντα φυλάσσειν·"
+    },
+    {
+      "n": 228,
+      "greek": "ὅ σφιν ἐὺ φρονέων ἀγορήσατο καὶ μετέειπεν·"
+    },
+    {
+      "n": 229,
+      "greek": "κέκλυτε δὴ νῦν μευ, Ἰθακήσιοι, ὅττι κεν εἴπω·"
+    },
+    {
+      "n": 230,
+      "greek": "μή τις ἔτι πρόφρων ἀγανὸς καὶ ἤπιος ἔστω"
+    },
+    {
+      "n": 231,
+      "greek": "σκηπτοῦχος βασιλεύς, μηδὲ φρεσὶν αἴσιμα εἰδώς,"
+    },
+    {
+      "n": 232,
+      "greek": "ἀλλʼ αἰεὶ χαλεπός τʼ εἴη καὶ αἴσυλα ῥέζοι·"
+    },
+    {
+      "n": 233,
+      "greek": "ὡς οὔ τις μέμνηται Ὀδυσσῆος θείοιο"
+    },
+    {
+      "n": 234,
+      "greek": "λαῶν οἷσιν ἄνασσε, πατὴρ δʼ ὣς ἤπιος ἦεν."
+    },
+    {
+      "n": 235,
+      "greek": "ἀλλʼ ἦ τοι μνηστῆρας ἀγήνορας οὔ τι μεγαίρω"
+    },
+    {
+      "n": 236,
+      "greek": "ἔρδειν ἔργα βίαια κακορραφίῃσι νόοιο·"
+    },
+    {
+      "n": 237,
+      "greek": "σφὰς γὰρ παρθέμενοι κεφαλὰς κατέδουσι βιαίως"
+    },
+    {
+      "n": 238,
+      "greek": "οἶκον Ὀδυσσῆος, τὸν δʼ οὐκέτι φασὶ νέεσθαι."
+    },
+    {
+      "n": 239,
+      "greek": "νῦν δʼ ἄλλῳ δήμῳ νεμεσίζομαι, οἷον ἅπαντες"
+    },
+    {
+      "n": 240,
+      "greek": "ἧσθʼ ἄνεῳ, ἀτὰρ οὔ τι καθαπτόμενοι ἐπέεσσι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "Mentor, who was a comrade of noble Odysseus. To him, on departing with his ships, Odysseus had given all his house in charge, that it should obey the old man and that he should keep all things safe. He with good intent addressed their assembly, and spoke among them: “Hearken now to me, men of Ithaca, to the word that I shall say."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "Never henceforth let sceptred king with a ready heart be kind and gentle, nor let him heed righteousness in his heart, but let him ever be harsh and work unrighteousness, seeing that no one remembers divine Odysseus of the people whose lord he was; yet gentle was he as a father."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "But of a truth I begrudge not the proud wooers that they work deeds of violence in the evil contrivings of their minds, for it is at the hazard of their own lives that they violently devour the house of Odysseus, who, they say, will no more return. Nay, rather it is with the rest of the folk that I am wroth, that ye all"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "sit thus in silence, and utter no word of rebuke to make the wooers cease, though ye are many and they but few.” Then Leocritus, son of Euenor, answered him:“Mentor, thou mischief-maker, thou wanderer in thy wits, what hast thou said, bidding men make us cease? Nay, it were a hard thing"
+    }
+  ]
+}

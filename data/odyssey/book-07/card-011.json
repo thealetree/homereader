@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "αἰεὶ γὰρ τὸ πάρος γε θεοὶ φαίνονται ἐναργεῖς"
+    },
+    {
+      "n": 202,
+      "greek": "ἡμῖν, εὖτʼ ἔρδωμεν ἀγακλειτὰς ἑκατόμβας,"
+    },
+    {
+      "n": 203,
+      "greek": "δαίνυνταί τε παρʼ ἄμμι καθήμενοι ἔνθα περ ἡμεῖς."
+    },
+    {
+      "n": 204,
+      "greek": "εἰ δʼ ἄρα τις καὶ μοῦνος ἰὼν ξύμβληται ὁδίτης,"
+    },
+    {
+      "n": 205,
+      "greek": "οὔ τι κατακρύπτουσιν, ἐπεί σφισιν ἐγγύθεν εἰμέν,"
+    },
+    {
+      "n": 206,
+      "greek": "ὥς περ Κύκλωπές τε καὶ ἄγρια φῦλα Γιγάντων."
+    },
+    {
+      "n": 207,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 208,
+      "greek": "Ἀλκίνοʼ, ἄλλο τί τοι μελέτω φρεσίν· οὐ γὰρ ἐγώ γε"
+    },
+    {
+      "n": 209,
+      "greek": "ἀθανάτοισιν ἔοικα, τοὶ οὐρανὸν εὐρὺν ἔχουσιν,"
+    },
+    {
+      "n": 210,
+      "greek": "οὐ δέμας οὐδὲ φυήν, ἀλλὰ θνητοῖσι βροτοῖσιν."
+    },
+    {
+      "n": 211,
+      "greek": "οὕς τινας ὑμεῖς ἴστε μάλιστʼ ὀχέοντας ὀιζὺν"
+    },
+    {
+      "n": 212,
+      "greek": "ἀνθρώπων, τοῖσίν κεν ἐν ἄλγεσιν ἰσωσαίμην."
+    },
+    {
+      "n": 213,
+      "greek": "καὶ δʼ ἔτι κεν καὶ μᾶλλον ἐγὼ κακὰ μυθησαίμην,"
+    },
+    {
+      "n": 214,
+      "greek": "ὅσσα γε δὴ ξύμπαντα θεῶν ἰότητι μόγησα."
+    },
+    {
+      "n": 215,
+      "greek": "ἀλλʼ ἐμὲ μὲν δορπῆσαι ἐάσατε κηδόμενόν περ·"
+    },
+    {
+      "n": 216,
+      "greek": "οὐ γάρ τι στυγερῇ ἐπὶ γαστέρι κύντερον ἄλλο"
+    },
+    {
+      "n": 217,
+      "greek": "ἔπλετο, ἥ τʼ ἐκέλευσεν ἕο μνήσασθαι ἀνάγκῃ"
+    },
+    {
+      "n": 218,
+      "greek": "καὶ μάλα τειρόμενον καὶ ἐνὶ φρεσὶ πένθος ἔχοντα,"
+    },
+    {
+      "n": 219,
+      "greek": "ὡς καὶ ἐγὼ πένθος μὲν ἔχω φρεσίν, ἡ δὲ μάλʼ αἰεὶ"
+    },
+    {
+      "n": 220,
+      "greek": "ἐσθέμεναι κέλεται καὶ πινέμεν, ἐκ δέ με πάντων"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "they use no concealment, for we are of near kin to them, as are the Cyclopes and the wild tribes of the Giants.” Then Odysseus of many wiles answered him, and said: “Alcinous, far from thee be that thought; for I am not like the immortals, who hold broad heaven,"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "either in stature or in form, but like mortal men. Whomsoever ye know among men who bear greatest burden of woe, to them might I liken myself in my sorrows. Yea, and I could tell a yet longer tale of all the evils which I have endured by the will of the gods."
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "But as for me, suffer me now to eat, despite my grief; for there is nothing more shameless than a hateful belly, which bids a man perforce take thought thereof, be he never so sore distressed and laden with grief at heart, even as I, too, am laden with grief at heart, yet ever does my belly"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "bid me eat and drink, and makes me forget all that I have suffered, and commands me to eat my fill. But do ye make haste at break of day, that ye may set me, hapless one, on the soil of my native land, even after my many woes. Yea, let life leave me, when I have seen once more"
+    }
+  ]
+}

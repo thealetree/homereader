@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "χρυσείῳ δέπαϊ· δειδισκόμενος δὲ προσηύδα"
+    },
+    {
+      "n": 42,
+      "greek": "Παλλάδʼ Ἀθηναίην κούρην Διὸς αἰγιόχοιο·"
+    },
+    {
+      "n": 43,
+      "greek": "εὔχεο νῦν, ὦ ξεῖνε, Ποσειδάωνι ἄνακτι·"
+    },
+    {
+      "n": 44,
+      "greek": "τοῦ γὰρ καὶ δαίτης ἠντήσατε δεῦρο μολόντες."
+    },
+    {
+      "n": 45,
+      "greek": "αὐτὰρ ἐπὴν σπείσῃς τε καὶ εὔξεαι, ἣ θέμις ἐστί,"
+    },
+    {
+      "n": 46,
+      "greek": "δὸς καὶ τούτῳ ἔπειτα δέπας μελιηδέος οἴνου"
+    },
+    {
+      "n": 47,
+      "greek": "σπεῖσαι, ἐπεὶ καὶ τοῦτον ὀίομαι ἀθανάτοισιν"
+    },
+    {
+      "n": 48,
+      "greek": "εὔχεσθαι· πάντες δὲ θεῶν χατέουσʼ ἄνθρωποι."
+    },
+    {
+      "n": 49,
+      "greek": "ἀλλὰ νεώτερός ἐστιν, ὁμηλικίη δʼ ἐμοὶ αὐτῷ·"
+    },
+    {
+      "n": 50,
+      "greek": "τοὔνεκα σοὶ προτέρῳ δώσω χρύσειον ἄλεισον."
+    },
+    {
+      "n": 51,
+      "greek": "ὣς εἰπὼν ἐν χειρὶ τίθει δέπας ἡδέος οἴνου·"
+    },
+    {
+      "n": 52,
+      "greek": "χαῖρε δʼ Ἀθηναίη πεπνυμένῳ ἀνδρὶ δικαίῳ,"
+    },
+    {
+      "n": 53,
+      "greek": "οὕνεκα οἷ προτέρῃ δῶκε χρύσειον ἄλεισον·"
+    },
+    {
+      "n": 54,
+      "greek": "αὐτίκα δʼ εὔχετο πολλὰ Ποσειδάωνι ἄνακτι·"
+    },
+    {
+      "n": 55,
+      "greek": "κλῦθι, Ποσείδαον γαιήοχε, μηδὲ μεγήρῃς"
+    },
+    {
+      "n": 56,
+      "greek": "ἡμῖν εὐχομένοισι τελευτῆσαι τάδε ἔργα."
+    },
+    {
+      "n": 57,
+      "greek": "Νέστορι μὲν πρώτιστα καὶ υἱάσι κῦδος ὄπαζε,"
+    },
+    {
+      "n": 58,
+      "greek": "αὐτὰρ ἔπειτʼ ἄλλοισι δίδου χαρίεσσαν ἀμοιβὴν"
+    },
+    {
+      "n": 59,
+      "greek": "σύμπασιν Πυλίοισιν ἀγακλειτῆς ἑκατόμβης."
+    },
+    {
+      "n": 60,
+      "greek": "δὸς δʼ ἔτι Τηλέμαχον καὶ ἐμὲ πρήξαντα νέεσθαι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "And when thou hast poured libations and hast prayed, as is fitting, then give thy friend also the cup of honey-sweet wine that he may pour, since he too, I ween, prays to the immortals; for all men have need of the gods. Howbeit he is the younger, of like age with myself,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "wherefore to thee first will I give the golden cup.” So he spake, and placed in her hand the cup of sweet wine. But Pallas Athena rejoiced at the man's wisdom and judgment, in that to her first he gave the golden cup; and straightway she prayed earnestly to the lord Poseidon:"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "“Hear me, Poseidon, thou Earth-enfolder, and grudge not in answer to our prayer to bring these deeds to fulfillment. To Nestor, first of all, and to his sons vouchsafe renown, and then do thou grant to the rest gracious requital for this glorious hecatomb, even to all the men of Pylos;"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "and grant furthermore that Telemachus and I may return when we have accomplished all that for which we came hither with our swift black ship.” Thus she prayed, and was herself fulfilling all. Then she gave Telemachus the fair two-handled cup, and in like manner the dear son of Odysseus prayed."
+    }
+  ]
+}

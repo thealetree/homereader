@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "οἴμας μοῦσʼ ἐδίδαξε, φίλησε δὲ φῦλον ἀοιδῶν."
+    },
+    {
+      "n": 482,
+      "greek": "ὣς ἄρʼ ἔφη, κῆρυξ δὲ φέρων ἐν χερσὶν ἔθηκεν"
+    },
+    {
+      "n": 483,
+      "greek": "ἥρῳ Δημοδόκῳ· ὁ δʼ ἐδέξατο, χαῖρε δὲ θυμῷ."
+    },
+    {
+      "n": 484,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    },
+    {
+      "n": 485,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 486,
+      "greek": "δὴ τότε Δημόδοκον προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 487,
+      "greek": "Δημόδοκʼ, ἔξοχα δή σε βροτῶν αἰνίζομʼ ἁπάντων."
+    },
+    {
+      "n": 488,
+      "greek": "ἢ σέ γε μοῦσʼ ἐδίδαξε, Διὸς πάϊς, ἢ σέ γʼ Ἀπόλλων·"
+    },
+    {
+      "n": 489,
+      "greek": "λίην γὰρ κατὰ κόσμον Ἀχαιῶν οἶτον ἀείδεις,"
+    },
+    {
+      "n": 490,
+      "greek": "ὅσσʼ ἔρξαν τʼ ἔπαθόν τε καὶ ὅσσʼ ἐμόγησαν Ἀχαιοί,"
+    },
+    {
+      "n": 491,
+      "greek": "ὥς τέ που ἢ αὐτὸς παρεὼν ἢ ἄλλου ἀκούσας."
+    },
+    {
+      "n": 492,
+      "greek": "ἀλλʼ ἄγε δὴ μετάβηθι καὶ ἵππου κόσμον ἄεισον"
+    },
+    {
+      "n": 493,
+      "greek": "δουρατέου, τὸν Ἐπειὸς ἐποίησεν σὺν Ἀθήνῃ,"
+    },
+    {
+      "n": 494,
+      "greek": "ὅν ποτʼ ἐς ἀκρόπολιν δόλον ἤγαγε δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 495,
+      "greek": "ἀνδρῶν ἐμπλήσας οἵ ῥʼ Ἴλιον ἐξαλάπαξαν."
+    },
+    {
+      "n": 496,
+      "greek": "αἴ κεν δή μοι ταῦτα κατὰ μοῖραν καταλέξῃς,"
+    },
+    {
+      "n": 497,
+      "greek": "αὐτίκʼ ἐγὼ πᾶσιν μυθήσομαι ἀνθρώποισιν,"
+    },
+    {
+      "n": 498,
+      "greek": "ὡς ἄρα τοι πρόφρων θεὸς ὤπασε θέσπιν ἀοιδήν."
+    },
+    {
+      "n": 499,
+      "greek": "ὣς φάθʼ, ὁ δʼ ὁρμηθεὶς θεοῦ ἤρχετο, φαῖνε δʼ ἀοιδήν,"
+    },
+    {
+      "n": 500,
+      "greek": "ἔνθεν ἑλὼν ὡς οἱ μὲν ἐυσσέλμων ἐπὶ νηῶν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "But when they had put from them the desire of food and drink, then to Demodocus said Odysseus of many wiles: “Demodocus, verily above all mortal men do I praise thee, whether it was the Muse, the daughter of Zeus, that taught thee, or Apollo; for well and truly dost thou sing of the fate of the Achaeans,"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "all that they wrought and suffered, and all the toils they endured, as though haply thou hadst thyself been present, or hadst heard the tale from another. But come now, change thy theme, and sing of the building of the horse of wood, which Epeius made with Athena's help, the horse which once Odysseus led up into the citadel as a thing of guile,"
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "when he had filled it with the men who sacked Ilios. If thou dost indeed tell me this tale aright, I will declare to all mankind that the god has of a ready heart granted thee the gift of divine song.” So he spoke, and the minstrel, moved by the god, began, and let his song be heard,"
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "taking up the tale where the Argives had embarked on their benched ships and were sailing away, after casting fire on their huts, while those others led by glorious Odysseus were now sitting in the place of assembly of the Trojans, hidden in the horse; for the Trojans had themselves dragged it to the citadel."
+    }
+  ]
+}

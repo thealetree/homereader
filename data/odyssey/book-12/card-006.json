@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "τὸν δʼ ἕτερον σκόπελον χθαμαλώτερον ὄψει, Ὀδυσσεῦ."
+    },
+    {
+      "n": 102,
+      "greek": "πλησίον ἀλλήλων· καί κεν διοϊστεύσειας."
+    },
+    {
+      "n": 103,
+      "greek": "τῷ δʼ ἐν ἐρινεὸς ἔστι μέγας, φύλλοισι τεθηλώς·"
+    },
+    {
+      "n": 104,
+      "greek": "τῷ δʼ ὑπὸ δῖα Χάρυβδις ἀναρροιβδεῖ μέλαν ὕδωρ."
+    },
+    {
+      "n": 105,
+      "greek": "τρὶς μὲν γάρ τʼ ἀνίησιν ἐπʼ ἤματι, τρὶς δʼ ἀναροιβδεῖ"
+    },
+    {
+      "n": 106,
+      "greek": "δεινόν· μὴ σύ γε κεῖθι τύχοις, ὅτε ῥοιβδήσειεν·"
+    },
+    {
+      "n": 107,
+      "greek": "οὐ γάρ κεν ῥύσαιτό σʼ ὑπὲκ κακοῦ οὐδʼ ἐνοσίχθων."
+    },
+    {
+      "n": 108,
+      "greek": "ἀλλὰ μάλα Σκύλλης σκοπέλῳ πεπλημένος ὦκα"
+    },
+    {
+      "n": 109,
+      "greek": "νῆα παρὲξ ἐλάαν, ἐπεὶ ἦ πολὺ φέρτερόν ἐστιν"
+    },
+    {
+      "n": 110,
+      "greek": "ἓξ ἑτάρους ἐν νηὶ ποθήμεναι ἢ ἅμα πάντας."
+    },
+    {
+      "n": 111,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 112,
+      "greek": "εἰ δʼ ἄγε δή μοι τοῦτο, θεά, νημερτὲς ἐνίσπες,"
+    },
+    {
+      "n": 113,
+      "greek": "εἴ πως τὴν ὀλοὴν μὲν ὑπεκπροφύγοιμι Χάρυβδιν,"
+    },
+    {
+      "n": 114,
+      "greek": "τὴν δέ κʼ ἀμυναίμην, ὅτε μοι σίνοιτό γʼ ἑταίρους."
+    },
+    {
+      "n": 115,
+      "greek": "ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀμείβετο δῖα θεάων·"
+    },
+    {
+      "n": 116,
+      "greek": "σχέτλιε, καὶ δὴ αὖ τοι πολεμήια ἔργα μέμηλε"
+    },
+    {
+      "n": 117,
+      "greek": "καὶ πόνος· οὐδὲ θεοῖσιν ὑπείξεαι ἀθανάτοισιν;"
+    },
+    {
+      "n": 118,
+      "greek": "ἡ δέ τοι οὐ θνητή, ἀλλʼ ἀθάνατον κακόν ἐστι,"
+    },
+    {
+      "n": 119,
+      "greek": "δεινόν τʼ ἀργαλέον τε καὶ ἄγριον οὐδὲ μαχητόν·"
+    },
+    {
+      "n": 120,
+      "greek": "οὐδέ τις ἔστʼ ἀλκή· φυγέειν κάρτιστον ἀπʼ αὐτῆς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "Thrice a day she belches it forth, and thrice she sucks it down terribly. Mayest thou not be there when she sucks it down, for no one could save thee from ruin, no, not the Earth-shaker. Nay, draw very close to Scylla's cliff, and drive thy ship past quickly; for it is better far"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "to mourn six comrades in thy ship than all together.’ “So she spoke, but I made answer and said:‘Come, I pray thee, goddess, tell me this thing truly, if in any wise I might escape from fell Charybids, and ward off that other, when she works harm to my comrades.’"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "“So I spoke, and the beautiful goddess answered and said: ‘Rash man, lo, now again thy heart is set on the deeds of war and on toil. Wilt thou not yield even to the immortal gods? She is not mortal, but an immortal bane, dread, and dire, and fierce, and not to be fought with;"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "there is no defence; to flee from her is bravest. For if thou tarriest to arm thyself by the cliff, I fear lest she may again dart forth and attack thee with as many heads and seize as many men as before. Nay, row past with all thy might, and call upon Crataiis,"
+    }
+  ]
+}

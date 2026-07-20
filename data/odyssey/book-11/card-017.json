@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "Φαίδρην τε Πρόκριν τε ἴδον καλήν τʼ Ἀριάδνην,"
+    },
+    {
+      "n": 322,
+      "greek": "κούρην Μίνωος ὀλοόφρονος, ἥν ποτε Θησεὺς"
+    },
+    {
+      "n": 323,
+      "greek": "ἐκ Κρήτης ἐς γουνὸν Ἀθηνάων ἱεράων"
+    },
+    {
+      "n": 324,
+      "greek": "ἦγε μέν, οὐδʼ ἀπόνητο· πάρος δέ μιν Ἄρτεμις ἔκτα"
+    },
+    {
+      "n": 325,
+      "greek": "Δίῃ ἐν ἀμφιρύτῃ Διονύσου μαρτυρίῃσιν."
+    },
+    {
+      "n": 326,
+      "greek": "Μαῖράν τε Κλυμένην τε ἴδον στυγερήν τʼ Ἐριφύλην,"
+    },
+    {
+      "n": 327,
+      "greek": "ἣ χρυσὸν φίλου ἀνδρὸς ἐδέξατο τιμήεντα."
+    },
+    {
+      "n": 328,
+      "greek": "πάσας δʼ οὐκ ἂν ἐγὼ μυθήσομαι οὐδʼ ὀνομήνω,"
+    },
+    {
+      "n": 329,
+      "greek": "ὅσσας ἡρώων ἀλόχους ἴδον ἠδὲ θύγατρας·"
+    },
+    {
+      "n": 330,
+      "greek": "πρὶν γάρ κεν καὶ νὺξ φθῖτʼ ἄμβροτος. ἀλλὰ καὶ ὥρη"
+    },
+    {
+      "n": 331,
+      "greek": "εὕδειν, ἢ ἐπὶ νῆα θοὴν ἐλθόντʼ ἐς ἑταίρους"
+    },
+    {
+      "n": 332,
+      "greek": "ἢ αὐτοῦ· πομπὴ δὲ θεοῖς ὑμῖν τε μελήσει."
+    },
+    {
+      "n": 333,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ,"
+    },
+    {
+      "n": 334,
+      "greek": "κηληθμῷ δʼ ἔσχοντο κατὰ μέγαρα σκιόεντα."
+    },
+    {
+      "n": 335,
+      "greek": "τοῖσιν δʼ Ἀρήτη λευκώλενος ἤρχετο μύθων."
+    },
+    {
+      "n": 336,
+      "greek": "Φαίηκες, πῶς ὔμμιν ἀνὴρ ὅδε φαίνεται εἶναι"
+    },
+    {
+      "n": 337,
+      "greek": "εἶδός τε μέγεθός τε ἰδὲ φρένας ἔνδον ἐίσας;"
+    },
+    {
+      "n": 338,
+      "greek": "ξεῖνος δʼ αὖτʼ ἐμός ἐστιν, ἕκαστος δʼ ἔμμορε τιμῆς·"
+    },
+    {
+      "n": 339,
+      "greek": "τῷ μὴ ἐπειγόμενοι ἀποπέμπετε, μηδὲ τὰ δῶρα"
+    },
+    {
+      "n": 340,
+      "greek": "οὕτω χρηίζοντι κολούετε· πολλὰ γὰρ ὑμῖν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "in sea-girt Dia because of the witness of Dionysus. “And Maera and Clymene I saw, and hateful Eriphyle, who took precious gold as the price of the life of her own lord. But I cannot tell or name all the wives and daughters of heroes that I saw;"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "ere that immortal night would wane. Nay, it is now time to sleep, either when I have gone to the swift ship and the crew, or here. My sending shall rest with the gods, and with you.” So he spoke, and they were all hushed in silence, and were held spell-bound throughout the shadowy halls."
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "Then among them white-armed Arete was the first to speak: “Phaeacians, how seems this man to you for comeliness and stature, and for the balanced spirit within him? And moreover he is my guest, though each of you has a share in this honor. Wherefore be not in haste to send him away, nor"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "stint your gifts to one in such need; for many are the treasures which lie stored in your halls by the favour of the gods.” Then among them spoke also the old lord Echeneus, who was an elder among the Phaeacians:“Friends, verily not wide of the mark or of our own thought"
+    }
+  ]
+}

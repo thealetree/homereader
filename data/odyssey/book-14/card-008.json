@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "οἶκον, ὅθι πρῶτον γενόμην καί μʼ ἔτρεφον αὐτοί."
+    },
+    {
+      "n": 142,
+      "greek": "οὐδέ νυ τῶν ἔτι τόσσον ὀδύρομαι, ἱέμενός περ"
+    },
+    {
+      "n": 143,
+      "greek": "ὀφθαλμοῖσιν ἰδέσθαι ἐὼν ἐν πατρίδι γαίῃ·"
+    },
+    {
+      "n": 144,
+      "greek": "ἀλλά μʼ Ὀδυσσῆος πόθος αἴνυται οἰχομένοιο."
+    },
+    {
+      "n": 145,
+      "greek": "τὸν μὲν ἐγών, ὦ ξεῖνε, καὶ οὐ παρεόντʼ ὀνομάζειν"
+    },
+    {
+      "n": 146,
+      "greek": "αἰδέομαι· πέρι γάρ μʼ ἐφίλει καὶ κήδετο θυμῷ·"
+    },
+    {
+      "n": 147,
+      "greek": "ἀλλά μιν ἠθεῖον καλέω καὶ νόσφιν ἐόντα."
+    },
+    {
+      "n": 148,
+      "greek": "τὸν δʼ αὖτε προσέειπε πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 149,
+      "greek": "ὦ φίλʼ, ἐπειδὴ πάμπαν ἀναίνεαι, οὐδʼ ἔτι φῇσθα"
+    },
+    {
+      "n": 150,
+      "greek": "κεῖνον ἐλεύσεσθαι, θυμὸς δέ τοι αἰὲν ἄπιστος·"
+    },
+    {
+      "n": 151,
+      "greek": "ἀλλʼ ἐγὼ οὐκ αὔτως μυθήσομαι, ἀλλὰ σὺν ὅρκῳ,"
+    },
+    {
+      "n": 152,
+      "greek": "ὡς νεῖται Ὀδυσεύς· εὐαγγέλιον δέ μοι ἔστω"
+    },
+    {
+      "n": 153,
+      "greek": "αὐτίκʼ, ἐπεί κεν κεῖνος ἰὼν τὰ ἃ δώμαθʼ ἵκηται·"
+    },
+    {
+      "n": 154,
+      "greek": "ἕσσαι με χλαῖνάν τε χιτῶνά τε, εἵματα καλά·"
+    },
+    {
+      "n": 155,
+      "greek": "πρὶν δέ κε, καὶ μάλα περ κεχρημένος, οὔ τι δεχοίμην."
+    },
+    {
+      "n": 156,
+      "greek": "ἐχθρὸς γάρ μοι κεῖνος ὁμῶς Ἀΐδαο πύλῃσι"
+    },
+    {
+      "n": 157,
+      "greek": "γίγνεται, ὃς πενίῃ εἴκων ἀπατήλια βάζει."
+    },
+    {
+      "n": 158,
+      "greek": "ἴστω νῦν Ζεὺς πρῶτα θεῶν, ξενίη τε τράπεζα,"
+    },
+    {
+      "n": 159,
+      "greek": "ἱστίη τʼ Ὀδυσῆος ἀμύμονος, ἣν ἀφικάνω·"
+    },
+    {
+      "n": 160,
+      "greek": "ἦ μέν τοι τάδε πάντα τελείεται ὡς ἀγορεύω."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "His name, stranger, absent though he is, I speak with awe, for greatly did he love me and care for me at heart; but I call him my lord beloved, for all he is not here.” Then the much-enduring, goodly Odysseus answered him: “Friend, since thou dost utterly make denial, and declarest"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "that he will never come again, and thy heart is ever unbelieving, therefore will I tell thee, not at random but with an oath, that Odysseus shall return. And let me have a reward for bearing good tidings, as soon as he shall come, and reach his home; clothe me in a cloak and tunic, goodly raiment."
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "But ere that, how sore soever my need, I will accept naught; for hateful in my eyes as the gates of Hades is that man, who, yielding to stress of poverty, tells a deceitful tale. Now be my witness Zeus, above all gods, and this hospitable board, and the hearth of noble Odysseus to which I am come,"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "that verily all these things shall be brought to pass even as I tell thee. In the course of this self-same day Odysseus shall come hither, as the old moon wanes, and the new appears. He shall return, and take vengeance on all those who here dishonor his wife and his glorious son.”"
+    }
+  ]
+}

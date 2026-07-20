@@ -1,0 +1,129 @@
+{
+  "book": 21,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "τῇ δʼ ἄρʼ ἐπὶ φρεσὶ θῆκε θεὰ γλαυκῶπις Ἀθήνη,"
+    },
+    {
+      "n": 2,
+      "greek": "κούρῃ Ἰκαρίοιο, περίφρονι Πηνελοπείῃ,"
+    },
+    {
+      "n": 3,
+      "greek": "τόξον μνηστήρεσσι θέμεν πολιόν τε σίδηρον"
+    },
+    {
+      "n": 4,
+      "greek": "ἐν μεγάροις Ὀδυσῆος, ἀέθλια καὶ φόνου ἀρχήν."
+    },
+    {
+      "n": 5,
+      "greek": "κλίμακα δʼ ὑψηλὴν προσεβήσετο οἷο δόμοιο,"
+    },
+    {
+      "n": 6,
+      "greek": "εἵλετο δὲ κληῗδʼ εὐκαμπέα χειρὶ παχείῃ"
+    },
+    {
+      "n": 7,
+      "greek": "καλὴν χαλκείην· κώπη δʼ ἐλέφαντος ἐπῆεν."
+    },
+    {
+      "n": 8,
+      "greek": "βῆ δʼ ἴμεναι θάλαμόνδε σὺν ἀμφιπόλοισι γυναιξὶν"
+    },
+    {
+      "n": 9,
+      "greek": "ἔσχατον· ἔνθα δέ οἱ κειμήλια κεῖτο ἄνακτος,"
+    },
+    {
+      "n": 10,
+      "greek": "χαλκός τε χρυσός τε πολύκμητός τε σίδηρος."
+    },
+    {
+      "n": 11,
+      "greek": "ἔνθα δὲ τόξον κεῖτο παλίντονον ἠδὲ φαρέτρη"
+    },
+    {
+      "n": 12,
+      "greek": "ἰοδόκος, πολλοὶ δʼ ἔνεσαν στονόεντες ὀϊστοί,"
+    },
+    {
+      "n": 13,
+      "greek": "δῶρα τά οἱ ξεῖνος Λακεδαίμονι δῶκε τυχήσας"
+    },
+    {
+      "n": 14,
+      "greek": "Ἴφιτος Εὐρυτίδης, ἐπιείκελος ἀθανάτοισι."
+    },
+    {
+      "n": 15,
+      "greek": "τὼ δʼ ἐν Μεσσήνῃ ξυμβλήτην ἀλλήλοιϊν"
+    },
+    {
+      "n": 16,
+      "greek": "οἴκῳ ἐν Ὀρτιλόχοιο δαΐφρονος. ἦ τοι Ὀδυσσεὺς"
+    },
+    {
+      "n": 17,
+      "greek": "ἦλθε μετὰ χρεῖος, τό ῥά οἱ πᾶς δῆμος ὄφελλε·"
+    },
+    {
+      "n": 18,
+      "greek": "μῆλα γὰρ ἐξ Ἰθάκης Μεσσήνιοι ἄνδρες ἄειραν"
+    },
+    {
+      "n": 19,
+      "greek": "νηυσὶ πολυκλήϊσι τριηκόσιʼ ἠδὲ νομῆας."
+    },
+    {
+      "n": 20,
+      "greek": "τῶν ἕνεκʼ ἐξεσίην πολλὴν ὁδὸν ἦλθεν Ὀδυσσεὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "But the goddess, flashing-eyed Athena, put it into the heart of the daughter of Icarius, wise Penelope, to set before the wooers in the halls of Odysseus the bow and the gray iron, to be a contest and the beginning of death."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "She climbed the high stairway to her chamber, and took the bent key in her strong hand—a goodly key of bronze, and on it was a handle of ivory. And she went her way with her handmaidens to a store-room, far remote, where lay the treasures of her lord,"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "bronze and gold and iron, wrought with toil. And there lay the back-bent bow and the quiver that held the arrows, and many arrows were in it, fraught with groanings—gifts which a friend of Odysseus had given him when he met him once in Lacedaemon, even Iphitus, son of Eurytus, a man like unto the immortals."
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "They two had met one another in Messene in the house of wise Ortilochus. Odysseus verily had come to collect a debt which the whole people owed him, for the men of Messene had lifted from Ithaca in their benched ships three hundred sheep and the shepherds with them."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "It was on an embassy in quest of these that Odysseus had come a far journey, while he was but a youth; for his father and the other elders had sent him forth. And Iphitus, on his part, had come in search of twelve brood mares, which he had lost, with sturdy mules at the teat; but to him thereafter did they bring death and doom,"
+    }
+  ]
+}

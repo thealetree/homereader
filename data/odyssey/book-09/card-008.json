@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "κρήνη ὑπὸ σπείους· περὶ δʼ αἴγειροι πεφύασιν."
+    },
+    {
+      "n": 142,
+      "greek": "ἔνθα κατεπλέομεν, καί τις θεὸς ἡγεμόνευεν"
+    },
+    {
+      "n": 143,
+      "greek": "νύκτα διʼ ὀρφναίην, οὐδὲ προυφαίνετʼ ἰδέσθαι·"
+    },
+    {
+      "n": 144,
+      "greek": "ἀὴρ γὰρ περὶ νηυσὶ βαθεῖʼ ἦν, οὐδὲ σελήνη"
+    },
+    {
+      "n": 145,
+      "greek": "οὐρανόθεν προύφαινε, κατείχετο δὲ νεφέεσσιν."
+    },
+    {
+      "n": 146,
+      "greek": "ἔνθʼ οὔ τις τὴν νῆσον ἐσέδρακεν ὀφθαλμοῖσιν,"
+    },
+    {
+      "n": 147,
+      "greek": "οὔτʼ οὖν κύματα μακρὰ κυλινδόμενα προτὶ χέρσον"
+    },
+    {
+      "n": 148,
+      "greek": "εἰσίδομεν, πρὶν νῆας ἐυσσέλμους ἐπικέλσαι."
+    },
+    {
+      "n": 149,
+      "greek": "κελσάσῃσι δὲ νηυσὶ καθείλομεν ἱστία πάντα,"
+    },
+    {
+      "n": 150,
+      "greek": "ἐκ δὲ καὶ αὐτοὶ βῆμεν ἐπὶ ῥηγμῖνι θαλάσσης·"
+    },
+    {
+      "n": 151,
+      "greek": "ἔνθα δʼ ἀποβρίξαντες ἐμείναμεν Ἠῶ δῖαν."
+    },
+    {
+      "n": 152,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 153,
+      "greek": "νῆσον θαυμάζοντες ἐδινεόμεσθα κατʼ αὐτήν."
+    },
+    {
+      "n": 154,
+      "greek": "ὦρσαν δὲ νύμφαι, κοῦραι Διὸς αἰγιόχοιο,"
+    },
+    {
+      "n": 155,
+      "greek": "αἶγας ὀρεσκῴους, ἵνα δειπνήσειαν ἑταῖροι."
+    },
+    {
+      "n": 156,
+      "greek": "αὐτίκα καμπύλα τόξα καὶ αἰγανέας δολιχαύλους"
+    },
+    {
+      "n": 157,
+      "greek": "εἱλόμεθʼ ἐκ νηῶν, διὰ δὲ τρίχα κοσμηθέντες"
+    },
+    {
+      "n": 158,
+      "greek": "βάλλομεν· αἶψα δʼ ἔδωκε θεὸς μενοεικέα θήρην."
+    },
+    {
+      "n": 159,
+      "greek": "νῆες μέν μοι ἕποντο δυώδεκα, ἐς δὲ ἑκάστην"
+    },
+    {
+      "n": 160,
+      "greek": "ἐννέα λάγχανον αἶγες· ἐμοὶ δὲ δέκʼ ἔξελον οἴῳ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "showed no light from heaven, but was shut in by clouds. Then no man's eyes beheld that island, nor did we see the long waves rolling on the beach, until we ran our well-benched ships on shore. And when we had beached the ships we lowered all the sails"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "and ourselves went forth on the shore of the sea, and there we fell asleep and waited for the bright Dawn. “As soon as early Dawn appeared, the rosy-fingered, we roamed throughout the isle marvelling at it; and the nymphs, the daughters of Zeus who bears the aegis, roused"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "the mountain goats, that my comrades might have whereof to make their meal. Straightway we took from the ships our curved bows and long javelins, and arrayed in three bands we fell to smiting; and the god soon gave us game to satisfy our hearts. The ships that followed me were twelve, and to each"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "nine goats fell by lot, but for me alone they chose out ten. “So then all day long till set of sun we sat feasting on abundant flesh and sweet wine. For not yet was the red wine spent from out our ships, but some was still left; for abundant store"
+    }
+  ]
+}

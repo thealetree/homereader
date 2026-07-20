@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "εἰ μὲν δὴ μετὰ τοῖσι θυοσκόος εὔχεαι εἶναι,"
+    },
+    {
+      "n": 322,
+      "greek": "πολλάκι που μέλλεις ἀρήμεναι ἐν μεγάροισι"
+    },
+    {
+      "n": 323,
+      "greek": "τηλοῦ ἐμοὶ νόστοιο τέλος γλυκεροῖο γενέσθαι,"
+    },
+    {
+      "n": 324,
+      "greek": "σοὶ δʼ ἄλοχόν τε φίλην σπέσθαι καὶ τέκνα τεκέσθαι·"
+    },
+    {
+      "n": 325,
+      "greek": "τῷ οὐκ ἂν θάνατόν γε δυσηλεγέα προφύγοισθα."
+    },
+    {
+      "n": 326,
+      "greek": "ὣς ἄρα φωνήσας ξίφος εἵλετο χειρὶ παχείῃ"
+    },
+    {
+      "n": 327,
+      "greek": "κείμενον, ὅ ῥʼ Ἀγέλαος ἀποπροέηκε χαμᾶζε"
+    },
+    {
+      "n": 328,
+      "greek": "κτεινόμενος· τῷ τόν γε κατʼ αὐχένα μέσσον ἔλασσε."
+    },
+    {
+      "n": 329,
+      "greek": "φθεγγομένου δʼ ἄρα τοῦ γε κάρη κονίῃσιν ἐμίχθη."
+    },
+    {
+      "n": 330,
+      "greek": "Τερπιάδης δʼ ἔτʼ ἀοιδὸς ἀλύσκανε κῆρα μέλαιναν,"
+    },
+    {
+      "n": 331,
+      "greek": "Φήμιος, ὅς ῥʼ ἤειδε μετὰ μνηστῆρσιν ἀνάγκῃ."
+    },
+    {
+      "n": 332,
+      "greek": "ἔστη δʼ ἐν χείρεσσίν ἔχων φόρμιγγα λίγειαν"
+    },
+    {
+      "n": 333,
+      "greek": "ἄγχι παρʼ ὀρσοθύρην· δίχα δὲ φρεσὶ μερμήριζεν,"
+    },
+    {
+      "n": 334,
+      "greek": "ἢ ἐκδὺς μεγάροιο Διὸς μεγάλου ποτὶ βωμὸν"
+    },
+    {
+      "n": 335,
+      "greek": "ἑρκείου ἵζοιτο τετυγμένον, ἔνθʼ ἄρα πολλὰ"
+    },
+    {
+      "n": 336,
+      "greek": "Λαέρτης Ὀδυσεύς τε βοῶν ἐπὶ μηρίʼ ἔκηαν,"
+    },
+    {
+      "n": 337,
+      "greek": "ἦ γούνων λίσσοιτο προσαΐξας Ὀδυσῆα."
+    },
+    {
+      "n": 338,
+      "greek": "ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι,"
+    },
+    {
+      "n": 339,
+      "greek": "γούνων ἅψασθαι Λαερτιάδεω Ὀδυσῆος."
+    },
+    {
+      "n": 340,
+      "greek": "ἦ τοι ὁ φόρμιγγα γλαφυρὴν κατέθηκε χαμᾶζε"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "wherefore thou shalt not escape grievous death.” So saying, he seized in his strong hand a sword that lay near, which Agelaus had let fall to the ground when he was slain, and with this he smote him full upon the neck. And even while he was yet speaking his head was mingled with the dust."
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "Now the son of Terpes, the minstrel, was still seeking to escape black fate, even Phemius, who sang perforce among the wooers. He stood with the clear-toned lyre in his hands near the postern door, and he was divided in mind whether he should slip out from the hall"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "and sit down by the well-built altar of great Zeus, the God of the court, whereon Laertes and Odysseus had burned many things of oxen, or whether he should rush forward and clasp the knees of Odysseus in prayer. And as he pondered this seemed to him the better course, to clasp the knees of Odysseus, son of Laertes."
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "So he laid the hollow lyre on the ground between the mixing-bowl and the silver-studded chair, and himself rushed forward and clasped Odysseus by the knees, and made entreaty to him, and spoke winged words: “By thy knees I beseech thee, Odysseus, and do thou respect me and have pity;"
+    }
+  ]
+}

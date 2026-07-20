@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "αὖτις ὑποστρέψας πρὶν Λήμνου γαῖαν ἱκέσθαι·"
+    },
+    {
+      "n": 302,
+      "greek": "Ἠέλιος γάρ οἱ σκοπιὴν ἔχεν εἶπέ τε μῦθον."
+    },
+    {
+      "n": 303,
+      "greek": "βῆ δʼ ἴμεναι πρὸς δῶμα φίλον τετιημένος ἦτορ·"
+    },
+    {
+      "n": 304,
+      "greek": "ἔστη δʼ ἐν προθύροισι, χόλος δέ μιν ἄγριος ᾕρει·"
+    },
+    {
+      "n": 305,
+      "greek": "σμερδαλέον δʼ ἐβόησε, γέγωνέ τε πᾶσι θεοῖσιν·"
+    },
+    {
+      "n": 306,
+      "greek": "Ζεῦ πάτερ ἠδʼ ἄλλοι μάκαρες θεοὶ αἰὲν ἐόντες,"
+    },
+    {
+      "n": 307,
+      "greek": "δεῦθʼ, ἵνα ἔργα γελαστὰ καὶ οὐκ ἐπιεικτὰ ἴδησθε,"
+    },
+    {
+      "n": 308,
+      "greek": "ὡς ἐμὲ χωλὸν ἐόντα Διὸς θυγάτηρ Ἀφροδίτη"
+    },
+    {
+      "n": 309,
+      "greek": "αἰὲν ἀτιμάζει, φιλέει δʼ ἀίδηλον Ἄρηα,"
+    },
+    {
+      "n": 310,
+      "greek": "οὕνεχʼ ὁ μὲν καλός τε καὶ ἀρτίπος, αὐτὰρ ἐγώ γε"
+    },
+    {
+      "n": 311,
+      "greek": "ἠπεδανὸς γενόμην. ἀτὰρ οὔ τί μοι αἴτιος ἄλλος,"
+    },
+    {
+      "n": 312,
+      "greek": "ἀλλὰ τοκῆε δύω, τὼ μὴ γείνασθαι ὄφελλον."
+    },
+    {
+      "n": 313,
+      "greek": "ἀλλʼ ὄψεσθʼ, ἵνα τώ γε καθεύδετον ἐν φιλότητι"
+    },
+    {
+      "n": 314,
+      "greek": "εἰς ἐμὰ δέμνια βάντες, ἐγὼ δʼ ὁρόων ἀκάχημαι."
+    },
+    {
+      "n": 315,
+      "greek": "οὐ μέν σφεας ἔτʼ ἔολπα μίνυνθά γε κειέμεν οὕτως"
+    },
+    {
+      "n": 316,
+      "greek": "καὶ μάλα περ φιλέοντε· τάχʼ οὐκ ἐθελήσετον ἄμφω"
+    },
+    {
+      "n": 317,
+      "greek": "εὕδειν· ἀλλά σφωε δόλος καὶ δεσμὸς ἐρύξει,"
+    },
+    {
+      "n": 318,
+      "greek": "εἰς ὅ κέ μοι μάλα πάντα πατὴρ ἀποδῷσιν ἔεδνα,"
+    },
+    {
+      "n": 319,
+      "greek": "ὅσσα οἱ ἐγγυάλιξα κυνώπιδος εἵνεκα κούρης,"
+    },
+    {
+      "n": 320,
+      "greek": "οὕνεκά οἱ καλὴ θυγάτηρ, ἀτὰρ οὐκ ἐχέθυμος."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "And terribly he cried out and called to all the gods: “Father Zeus, and ye other blessed gods that are forever, come hither that ye may see a laughable matter and a monstrous, even how Aphrodite, daughter of Zeus, scorns me for that I am lame and loves destructive Ares"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "because he is comely and strong of limb, whereas I was born misshapen. Yet for this is none other to blame but my two parents—would they had never begotten me! But ye shall see where these two have gone up into my bed and sleep together in love; and I am troubled at the sight."
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "Yet, methinks, they will not wish to lie longer thus, no, not for a moment, how loving soever they are. Soon shall both lose their desire to sleep; but the snare and the bonds shall hold them until her father pays back to me all the gifts of wooing that I gave him for the sake of his shameless girl;"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "for his daughter is fair but bridles not her passion.” So he spoke and the gods gathered to the house of the brazen floor. Poseidon came, the earth-enfolder, and the helper Hermes came, and the lord Apollo, the archer god. Now the goddesses abode for shame each in her own house,"
+    }
+  ]
+}

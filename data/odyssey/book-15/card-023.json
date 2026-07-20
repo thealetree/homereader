@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "ὑμετέρων ἑτάρων, ξυμβλήμενος ἢ ἐν ἀγυιῇ,"
+    },
+    {
+      "n": 442,
+      "greek": "ἤ που ἐπὶ κρήνῃ· μή τις ποτὶ δῶμα γέροντι"
+    },
+    {
+      "n": 443,
+      "greek": "ἐλθὼν ἐξείπῃ, ὁ δʼ ὀϊσάμενος καταδήσῃ"
+    },
+    {
+      "n": 444,
+      "greek": "δεσμῷ ἐν ἀργαλέῳ, ὑμῖν δʼ ἐπιφράσσετʼ ὄλεθρον."
+    },
+    {
+      "n": 445,
+      "greek": "ἀλλʼ ἔχετʼ ἐν φρεσὶ μῦθον, ἐπείγετε δʼ ὦνον ὁδαίων."
+    },
+    {
+      "n": 446,
+      "greek": "ἀλλʼ ὅτε κεν δὴ νηῦς πλείη βιότοιο γένηται,"
+    },
+    {
+      "n": 447,
+      "greek": "ἀγγελίη μοι ἔπειτα θοῶς ἐς δώμαθʼ ἱκέσθω·"
+    },
+    {
+      "n": 448,
+      "greek": "οἴσω γὰρ καὶ χρυσόν, ὅτις χʼ ὑποχείριος ἔλθῃ·"
+    },
+    {
+      "n": 449,
+      "greek": "καὶ δέ κεν ἄλλʼ ἐπίβαθρον ἐγὼν ἐθέλουσά γε δοίην."
+    },
+    {
+      "n": 450,
+      "greek": "παῖδα γὰρ ἀνδρὸς ἑῆος ἐνὶ μεγάροις ἀτιτάλλω,"
+    },
+    {
+      "n": 451,
+      "greek": "κερδαλέον δὴ τοῖον, ἅμα τροχόωντα θύραζε·"
+    },
+    {
+      "n": 452,
+      "greek": "τόν κεν ἄγοιμʼ ἐπὶ νηός, ὁ δʼ ὑμῖν μυρίον ὦνον"
+    },
+    {
+      "n": 453,
+      "greek": "ἄλφοι, ὅπῃ περάσητε κατʼ ἀλλοθρόους ἀνθρώπους."
+    },
+    {
+      "n": 454,
+      "greek": "ἡ μὲν ἄρʼ ὣς εἰποῦσʼ ἀπέβη πρὸς δώματα καλά,"
+    },
+    {
+      "n": 455,
+      "greek": "οἱ δʼ ἐνιαυτὸν ἅπαντα παρʼ ἡμῖν αὖθι μένοντες"
+    },
+    {
+      "n": 456,
+      "greek": "ἐν νηῒ γλαφυρῇ βίοτον πολὺν ἐμπολόωντο."
+    },
+    {
+      "n": 457,
+      "greek": "ἀλλʼ ὅτε δὴ κοίλη νηῦς ἤχθετο τοῖσι νέεσθαι,"
+    },
+    {
+      "n": 458,
+      "greek": "καὶ τότʼ ἄρʼ ἄγγελον ἧκαν, ὃς ἀγγείλειε γυναικί."
+    },
+    {
+      "n": 459,
+      "greek": "ἤλυθʼ ἀνὴρ πολύϊδρις ἐμοῦ πρὸς δώματα πατρὸς"
+    },
+    {
+      "n": 460,
+      "greek": "χρύσεον ὅρμον ἔχων, μετὰ δʼ ἠλέκτροισιν ἔερτο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "Nay, keep my words in mind, and speed the barter of your wares. But, when your ship is laden with goods, let a message come quickly to me at the palace; for I will also bring whatever gold comes under my hand. Aye, and I would gladly give another thing for my passage."
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "There is a child of my noble master, whose nurse I am in the palace, such a cunning child, who ever runs abroad with me. Him would I bring on board, and he would fetch you a vast price, wherever you might take him for sale among men of strange speech.’ “So saying, she departed to the fair palace."
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "And they remained there in our land a full year, and got by trade much substance in their hollow ship. But when their hollow ship was laden for their return, then they sent a messenger to bear tidings to the woman. There came a man, well versed in guile, to my father's house"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "with a necklace of gold, and with amber beads was it strung between. This the maidens in the hall and my honored mother were handling, and were gazing on it, and were offering him their price; but he nodded to the woman in silence. Then verily when he had nodded to her, he went his way to the hollow ship,"
+    }
+  ]
+}

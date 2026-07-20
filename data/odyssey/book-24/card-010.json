@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ἄντα τιτυσκόμενος· τοὶ δʼ ἀγχιστῖνοι ἔπιπτον."
+    },
+    {
+      "n": 182,
+      "greek": "γνωτὸν δʼ ἦν ὅ ῥά τίς σφι θεῶν ἐπιτάρροθος ἦεν·"
+    },
+    {
+      "n": 183,
+      "greek": "αὐτίκα γὰρ κατὰ δώματʼ ἐπισπόμενοι μένεϊ σφῷ"
+    },
+    {
+      "n": 184,
+      "greek": "κτεῖνον ἐπιστροφάδην, τῶν δὲ στόνος ὤρνυτʼ ἀεικὴς"
+    },
+    {
+      "n": 185,
+      "greek": "κράτων τυπτομένων, δάπεδον δʼ ἅπαν αἵματι θῦεν."
+    },
+    {
+      "n": 186,
+      "greek": "ὣς ἡμεῖς, Ἀγάμεμνον, ἀπωλόμεθʼ, ὧν ἔτι καὶ νῦν"
+    },
+    {
+      "n": 187,
+      "greek": "σώματʼ ἀκηδέα κεῖται ἐνὶ μεγάροις Ὀδυσῆος·"
+    },
+    {
+      "n": 188,
+      "greek": "οὐ γάρ πω ἴσασι φίλοι κατὰ δώμαθʼ ἑκάστου,"
+    },
+    {
+      "n": 189,
+      "greek": "οἵ κʼ ἀπονίψαντες μέλανα βρότον ἐξ ὠτειλέων"
+    },
+    {
+      "n": 190,
+      "greek": "κατθέμενοι γοάοιεν· ὃ γὰρ γέρας ἐστὶ θανόντων."
+    },
+    {
+      "n": 191,
+      "greek": "τὸν δʼ αὖτε ψυχὴ προσεφώνεεν Ἀτρεΐδαο·"
+    },
+    {
+      "n": 192,
+      "greek": "ὄλβιε Λαέρταο πάϊ, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 193,
+      "greek": "ἦ ἄρα σὺν μεγάλῃ ἀρετῇ ἐκτήσω ἄκοιτιν."
+    },
+    {
+      "n": 194,
+      "greek": "ὡς ἀγαθαὶ φρένες ἦσαν ἀμύμονι Πηνελοπείῃ,"
+    },
+    {
+      "n": 195,
+      "greek": "κούρῃ Ἰκαρίου· ὡς εὖ μέμνητʼ Ὀδυσῆος,"
+    },
+    {
+      "n": 196,
+      "greek": "ἀνδρὸς κουριδίου· τῷ οἱ κλέος οὔ ποτʼ ὀλεῖται"
+    },
+    {
+      "n": 197,
+      "greek": "ἧς ἀρετῆς, τεύξουσι δʼ ἐπιχθονίοισιν ἀοιδὴν"
+    },
+    {
+      "n": 198,
+      "greek": "ἀθάνατοι χαρίεσσαν ἐχέφρονι Πηνελοπείῃ,"
+    },
+    {
+      "n": 199,
+      "greek": "οὐχ ὡς Τυνδαρέου κούρη κακὰ μήσατο ἔργα,"
+    },
+    {
+      "n": 200,
+      "greek": "κουρίδιον κτείνασα πόσιν, στυγερὴ δέ τʼ ἀοιδὴ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "as heads were smitten, and all the floor swam with blood. Thus we perished, Agamemnon, and even now our bodies still lie uncared-for in the halls of Odysseus; for our friends in each man's home know naught as yet—our friends who might wash the black blood from our wounds"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "and lay our bodies out with wailing; for that is the due of the dead.” Then the spirit of the son of Atreus answered him: “Happy son of Laertes, Odysseus of many devices, of a truth full of all excellence was the wife thou didst win, so good of understanding was peerless Penelope,"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "daughter of Icarius, in that she was loyally mindful of Odysseus, her wedded husband. Therefore the fame of her virtue shall never perish, but the immortals shall make among men on earth a pleasant song in honor of constant Penelope. Not on this wise did the daughter of Tyndareus devise evil deeds"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "and slay her wedded husband, and hateful shall the song regarding her be among men, and evil repute doth she bring upon all womankind, even upon her that doeth uprightly.” Thus the two spoke to one another, as they stood in the house of Hades beneath the depths of the earth."
+    }
+  ]
+}

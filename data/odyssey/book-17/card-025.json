@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ὑπερφιάλως νεμέσησαν·"
+    },
+    {
+      "n": 482,
+      "greek": "ὧδε δέ τις εἴπεσκε νέων ὑπερηνορεόντων·"
+    },
+    {
+      "n": 483,
+      "greek": "Ἀντίνοʼ, οὐ μὲν κάλʼ ἔβαλες δύστηνον ἀλήτην,"
+    },
+    {
+      "n": 484,
+      "greek": "οὐλόμενʼ, εἰ δή πού τις ἐπουράνιος θεός ἐστιν."
+    },
+    {
+      "n": 485,
+      "greek": "καί τε θεοὶ ξείνοισιν ἐοικότες ἀλλοδαποῖσι,"
+    },
+    {
+      "n": 486,
+      "greek": "παντοῖοι τελέθοντες, ἐπιστρωφῶσι πόληας,"
+    },
+    {
+      "n": 487,
+      "greek": "ἀνθρώπων ὕβριν τε καὶ εὐνομίην ἐφορῶντες."
+    },
+    {
+      "n": 488,
+      "greek": "ὣς ἄρʼ ἔφαν μνηστῆρες, ὁ δʼ οὐκ ἐμπάζετο μύθων."
+    },
+    {
+      "n": 489,
+      "greek": "Τηλέμαχος δʼ ἐν μὲν κραδίῃ μέγα πένθος ἄεξε"
+    },
+    {
+      "n": 490,
+      "greek": "βλημένου, οὐδʼ ἄρα δάκρυ χαμαὶ βάλεν ἐκ βλεφάροιϊν,"
+    },
+    {
+      "n": 491,
+      "greek": "ἀλλʼ ἀκέων κίνησε κάρη, κακὰ βυσσοδομεύων."
+    },
+    {
+      "n": 492,
+      "greek": "τοῦ δʼ ὡς οὖν ἤκουσε περίφρων Πηνελόπεια"
+    },
+    {
+      "n": 493,
+      "greek": "βλημένου ἐν μεγάρῳ, μετʼ ἄρα δμῳῇσιν ἔειπεν·"
+    },
+    {
+      "n": 494,
+      "greek": "αἴθʼ οὕτως αὐτόν σε βάλοι κλυτότοξος Ἀπόλλων."
+    },
+    {
+      "n": 495,
+      "greek": "τὴν δʼ αὖτʼ Εὐρυνόμη ταμίη πρὸς μῦθον ἔειπεν·"
+    },
+    {
+      "n": 496,
+      "greek": "εἰ γὰρ ἐπʼ ἀρῇσιν τέλος ἡμετέρῃσι γένοιτο·"
+    },
+    {
+      "n": 497,
+      "greek": "οὐκ ἄν τις τούτων γε ἐΰθρονον Ἠῶ ἵκοιτο."
+    },
+    {
+      "n": 498,
+      "greek": "τὴν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 499,
+      "greek": "μαῖʼ, ἐχθροὶ μὲν πάντες, ἐπεὶ κακὰ μηχανόωνται·"
+    },
+    {
+      "n": 500,
+      "greek": "Ἀντίνοος δὲ μάλιστα μελαίνῃ κηρὶ ἔοικε."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "Aye, and the gods in the guise of strangers from afar put on all manner of shapes, and visit the cities, beholding the violence and the righteousness of men.” So spoke the wooers, but Antinous paid no heed to their words. And Telemachus nursed in his heart great grief"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "for the smiting, though he let no tear fall from his eyelids to the ground; but he shook his head in silence, pondering evil in the deep of his heart. Howbeit when wise Penelope heard of the man's being smitten in the hall, she spoke among her handmaids, and said: “Even so may thine own self be smitten by the famed archer Apollo.”"
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "And again the housewife Eurynome said to her: “Would that fulfillment might be granted to our prayers. So should not one of these men come to the fair-throned Dawn.” And wise Penelope answered her: “Nurse, enemies are they all, for they devise evil."
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "But Antinous more than all is like black fate. Some wretched stranger roams through the house, begging alms of the men, for want compels him, and all the others filled his wallet and gave him gifts, but Antinous flung a footstool and smote him at the base of the right shoulder.”"
+    }
+  ]
+}

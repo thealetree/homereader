@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "εὗρεν ἔπειτʼ Ὀδυσῆα μετὰ κταμένοισι νέκυσσιν,"
+    },
+    {
+      "n": 402,
+      "greek": "αἵματι καὶ λύθρῳ πεπαλαγμένον ὥστε λέοντα,"
+    },
+    {
+      "n": 403,
+      "greek": "ὅς ῥά τε βεβρωκὼς βοὸς ἔρχεται ἀγραύλοιο·"
+    },
+    {
+      "n": 404,
+      "greek": "πᾶν δʼ ἄρα οἱ στῆθός τε παρήϊά τʼ ἀμφοτέρωθεν"
+    },
+    {
+      "n": 405,
+      "greek": "αἱματόεντα πέλει, δεινὸς δʼ εἰς ὦπα ἰδέσθαι·"
+    },
+    {
+      "n": 406,
+      "greek": "ὣς Ὀδυσεὺς πεπάλακτο πόδας καὶ χεῖρας ὕπερθεν."
+    },
+    {
+      "n": 407,
+      "greek": "ἡ δʼ ὡς οὖν νέκυάς τε καὶ ἄσπετον εἴσιδεν αἷμα,"
+    },
+    {
+      "n": 408,
+      "greek": "ἴθυσέν ῥʼ ὀλολύξαι, ἐπεὶ μέγα εἴσιδεν ἔργον·"
+    },
+    {
+      "n": 409,
+      "greek": "ἀλλʼ Ὀδυσεὺς κατέρυκε καὶ ἔσχεθεν ἱεμένην περ,"
+    },
+    {
+      "n": 410,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 411,
+      "greek": "ἐν θυμῷ, γρηῦ, χαῖρε καὶ ἴσχεο μηδʼ ὀλόλυζε·"
+    },
+    {
+      "n": 412,
+      "greek": "οὐχ ὁσίη κταμένοισιν ἐπʼ ἀνδράσιν εὐχετάασθαι."
+    },
+    {
+      "n": 413,
+      "greek": "τούσδε δὲ μοῖρʼ ἐδάμασσε θεῶν καὶ σχέτλια ἔργα·"
+    },
+    {
+      "n": 414,
+      "greek": "οὔ τινα γὰρ τίεσκον ἐπιχθονίων ἀνθρώπων,"
+    },
+    {
+      "n": 415,
+      "greek": "οὐ κακὸν οὐδὲ μὲν ἐσθλόν, ὅτις σφέας εἰσαφίκοιτο·"
+    },
+    {
+      "n": 416,
+      "greek": "τῷ καὶ ἀτασθαλίῃσιν ἀεικέα πότμον ἐπέσπον."
+    },
+    {
+      "n": 417,
+      "greek": "ἀλλʼ ἄγε μοι σὺ γυναῖκας ἐνὶ μεγάροις κατάλεξον,"
+    },
+    {
+      "n": 418,
+      "greek": "αἵ τέ μʼ ἀτιμάζουσι καὶ αἳ νηλείτιδές εἰσιν."
+    },
+    {
+      "n": 419,
+      "greek": "τὸν δʼ αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·"
+    },
+    {
+      "n": 420,
+      "greek": "τοιγὰρ ἐγώ τοι, τέκνον, ἀληθείην καταλέξω."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "are stained with blood, and he is terrible to look upon; even so was Odysseus befouled, his feet and his hands above. But she, when she beheld the corpses and the great welter of blood, made ready to utter loud cries of joy, seeing what a deed had been wrought. But Odysseus stayed and checked her in her eagerness,"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "and spoke and addressed her with winged words: “In thine own heart rejoice, old dame, but refrain thyself and cry not out aloud: an unholy thing is it to boast over slain men. These men here has the fate of the gods destroyed and their own reckless deeds, for they honored no one of men upon the earth,"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "were he evil or good, whosoever came among them; wherefore by their wanton folly they brought on themselves a shameful death. But come, name thou over to me the women in the halls, which ones dishonor me and which are guiltless.” Then the dear nurse Eurycleia answered him:"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "“Then verily, my child, will I tell thee all the truth. Fifty women servants hast thou in the halls, women that we have taught to do their work, to card the wool and bear the lot of slaves. Of these twelve in all have set their feet in the way of shamelessness,"
+    }
+  ]
+}

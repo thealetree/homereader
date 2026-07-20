@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 29,
+  "lineStart": 561,
+  "lineEnd": 580,
+  "lines": [
+    {
+      "n": 561,
+      "greek": "ἀνθρώπων, καὶ λαῖτμα τάχισθʼ ἁλὸς ἐκπερόωσιν"
+    },
+    {
+      "n": 562,
+      "greek": "ἠέρι καὶ νεφέλῃ κεκαλυμμέναι· οὐδέ ποτέ σφιν"
+    },
+    {
+      "n": 563,
+      "greek": "οὔτε τι πημανθῆναι ἔπι δέος οὔτʼ ἀπολέσθαι."
+    },
+    {
+      "n": 564,
+      "greek": "ἀλλὰ τόδʼ ὥς ποτε πατρὸς ἐγὼν εἰπόντος ἄκουσα"
+    },
+    {
+      "n": 565,
+      "greek": "Ναυσιθόου, ὃς ἔφασκε Ποσειδάωνʼ ἀγάσασθαι"
+    },
+    {
+      "n": 566,
+      "greek": "ἡμῖν, οὕνεκα πομποὶ ἀπήμονές εἰμεν ἁπάντων."
+    },
+    {
+      "n": 567,
+      "greek": "φῆ ποτὲ Φαιήκων ἀνδρῶν ἐυεργέα νῆα"
+    },
+    {
+      "n": 568,
+      "greek": "ἐκ πομπῆς ἀνιοῦσαν ἐν ἠεροειδέι πόντῳ"
+    },
+    {
+      "n": 569,
+      "greek": "ῥαισέμεναι, μέγα δʼ ἧμιν ὄρος πόλει ἀμφικαλύψειν."
+    },
+    {
+      "n": 570,
+      "greek": "ὣς ἀγόρευʼ ὁ γέρων· τὰ δέ κεν θεὸς ἢ τελέσειεν"
+    },
+    {
+      "n": 571,
+      "greek": "ἤ κʼ ἀτέλεστʼ εἴη, ὥς οἱ φίλον ἔπλετο θυμῷ·"
+    },
+    {
+      "n": 572,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,"
+    },
+    {
+      "n": 573,
+      "greek": "ὅππῃ ἀπεπλάγχθης τε καὶ ἅς τινας ἵκεο χώρας"
+    },
+    {
+      "n": 574,
+      "greek": "ἀνθρώπων, αὐτούς τε πόλιάς τʼ ἐὺ ναιετοώσας,"
+    },
+    {
+      "n": 575,
+      "greek": "ἠμὲν ὅσοι χαλεποί τε καὶ ἄγριοι οὐδὲ δίκαιοι,"
+    },
+    {
+      "n": 576,
+      "greek": "οἵ τε φιλόξεινοι, καί σφιν νόος ἐστὶ θεουδής."
+    },
+    {
+      "n": 577,
+      "greek": "εἰπὲ δʼ ὅ τι κλαίεις καὶ ὀδύρεαι ἔνδοθι θυμῷ"
+    },
+    {
+      "n": 578,
+      "greek": "Ἀργείων Δαναῶν ἠδʼ Ἰλίου οἶτον ἀκούων."
+    },
+    {
+      "n": 579,
+      "greek": "τὸν δὲ θεοὶ μὲν τεῦξαν, ἐπεκλώσαντο δʼ ὄλεθρον"
+    },
+    {
+      "n": 580,
+      "greek": "ἀνθρώποις, ἵνα ᾖσι καὶ ἐσσομένοισιν ἀοιδή."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        565,
+        569
+      ],
+      "text": "Nausithous, who was wont to say that Poseidon was wroth with us because we give safe convoy to all men. He said that someday, as a well-built ship of the Phaeacians was returning from a convoy over the misty deep, Poseidon would smite her and would fling a great mountain about our city."
+    },
+    {
+      "lines": [
+        570,
+        574
+      ],
+      "text": "So that old man spoke, and these things the god will haply bring to pass, or will leave unfulfilled, as may be his good pleasure. But come, now, tell me this and declare it truly: whither thou hast wandered and to what countries of men thou hast come; tell me of the people and of their well-built cities,"
+    },
+    {
+      "lines": [
+        575,
+        579
+      ],
+      "text": "both of those who are cruel and wild and unjust, and of those who love strangers and fear the gods in their thoughts. And tell me why thou dost weep and wail in spirit as thou hearest the doom of the Argive Danaans and of Ilios. This the gods wrought, and spun the skein of ruin"
+    },
+    {
+      "lines": [
+        580,
+        580
+      ],
+      "text": "for men, that there might be a song for those yet to be born. Did some kinsman of thine fall before Ilios, some good, true man, thy daughter's husband or thy wife's father, such as are nearest to one after one's own kin and blood? Or was it haply some comrade dear to thy heart,"
+    }
+  ]
+}

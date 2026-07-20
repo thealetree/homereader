@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "πὰρ δʼ ἔβαλον ζειάς, ἀνὰ δὲ κρῖ λευκὸν ἔμιξαν,"
+    },
+    {
+      "n": 42,
+      "greek": "ἅρματα δʼ ἔκλιναν πρὸς ἐνώπια παμφανόωντα,"
+    },
+    {
+      "n": 43,
+      "greek": "αὐτοὺς δʼ εἰσῆγον θεῖον δόμον. οἱ δὲ ἰδόντες"
+    },
+    {
+      "n": 44,
+      "greek": "θαύμαζον κατὰ δῶμα διοτρεφέος βασιλῆος·"
+    },
+    {
+      "n": 45,
+      "greek": "ὥς τε γὰρ ἠελίου αἴγλη πέλεν ἠὲ σελήνης"
+    },
+    {
+      "n": 46,
+      "greek": "δῶμα καθʼ ὑψερεφὲς Μενελάου κυδαλίμοιο."
+    },
+    {
+      "n": 47,
+      "greek": "αὐτὰρ ἐπεὶ τάρπησαν ὁρώμενοι ὀφθαλμοῖσιν,"
+    },
+    {
+      "n": 48,
+      "greek": "ἔς ῥʼ ἀσαμίνθους βάντες ἐυξέστας λούσαντο."
+    },
+    {
+      "n": 49,
+      "greek": "τοὺς δʼ ἐπεὶ οὖν δμῳαὶ λοῦσαν καὶ χρῖσαν ἐλαίῳ,"
+    },
+    {
+      "n": 50,
+      "greek": "ἀμφὶ δʼ ἄρα χλαίνας οὔλας βάλον ἠδὲ χιτῶνας,"
+    },
+    {
+      "n": 51,
+      "greek": "ἔς ῥα θρόνους ἕζοντο παρʼ Ἀτρεΐδην Μενέλαον."
+    },
+    {
+      "n": 52,
+      "greek": "χέρνιβα δʼ ἀμφίπολος προχόῳ ἐπέχευε φέρουσα"
+    },
+    {
+      "n": 53,
+      "greek": "καλῇ χρυσείῃ ὑπὲρ ἀργυρέοιο λέβητος,"
+    },
+    {
+      "n": 54,
+      "greek": "νίψασθαι· παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν."
+    },
+    {
+      "n": 55,
+      "greek": "σῖτον δʼ αἰδοίη ταμίη παρέθηκε φέρουσα,"
+    },
+    {
+      "n": 56,
+      "greek": "εἴδατα πόλλʼ ἐπιθεῖσα, χαριζομένη παρεόντων."
+    },
+    {
+      "n": 57,
+      "greek": "δαιτρὸς δὲ κρειῶν πίνακας παρέθηκεν ἀείρας"
+    },
+    {
+      "n": 58,
+      "greek": "παντοίων, παρὰ δέ σφι τίθει χρύσεια κύπελλα."
+    },
+    {
+      "n": 59,
+      "greek": "τὼ καὶ δεικνύμενος προσέφη ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 60,
+      "greek": "σίτου θʼ ἅπτεσθον καὶ χαίρετον. αὐτὰρ ἔπειτα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "for there was a gleam as of sun or moon over the high-roofed house of glorious Menelaus. But when they had satisfied their eyes with gazing they went into the polished baths and bathed. And when the maids had bathed them and anointed them with oil,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "and had cast about them fleecy cloaks and tunics, they sat down on chairs beside Menelaus, son of Atreus. Then a handmaid brought water for the hands in a fair pitcher of gold, and poured it over a silver basin for them to wash, and beside them drew up a polished table."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "And the grave housewife brought and set before them bread, and therewith dainties in abundance, giving freely of her store. And a carver lifted up and placed before them platters of all manner of meats, and set by them golden goblets. Then fair-haired Menelaus greeted the two and said:"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "“Take of the food, and be glad, and then when you have supped, we will ask you who among men you are; for in you two the breed of your sires is not lost, but ye are of the breed of men that are sceptred kings, fostered of Zeus; for base churls could not beget such sons as you.”"
+    }
+  ]
+}

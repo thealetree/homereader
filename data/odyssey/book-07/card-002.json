@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "στῆ δὲ πρόσθʼ αὐτοῦ, ὁ δʼ ἀνείρετο δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 22,
+      "greek": "ὦ τέκος, οὐκ ἄν μοι δόμον ἀνέρος ἡγήσαιο"
+    },
+    {
+      "n": 23,
+      "greek": "Ἀλκινόου, ὃς τοῖσδε μετʼ ἀνθρώποισι ἀνάσσει;"
+    },
+    {
+      "n": 24,
+      "greek": "καὶ γὰρ ἐγὼ ξεῖνος ταλαπείριος ἐνθάδʼ ἱκάνω"
+    },
+    {
+      "n": 25,
+      "greek": "τηλόθεν ἐξ ἀπίης γαίης· τῷ οὔ τινα οἶδα"
+    },
+    {
+      "n": 26,
+      "greek": "ἀνθρώπων, οἳ τήνδε πόλιν καὶ γαῖαν ἔχουσιν."
+    },
+    {
+      "n": 27,
+      "greek": "τὸν δʼ αὖτε προσέειπε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 28,
+      "greek": "τοιγὰρ ἐγώ τοι, ξεῖνε πάτερ, δόμον, ὅν με κελεύεις,"
+    },
+    {
+      "n": 29,
+      "greek": "δείξω, ἐπεί μοι πατρὸς ἀμύμονος ἐγγύθι ναίει."
+    },
+    {
+      "n": 30,
+      "greek": "ἀλλʼ ἴθι σιγῇ τοῖον, ἐγὼ δʼ ὁδὸν ἡγεμονεύσω,"
+    },
+    {
+      "n": 31,
+      "greek": "μηδέ τινʼ ἀνθρώπων προτιόσσεο μηδʼ ἐρέεινε."
+    },
+    {
+      "n": 32,
+      "greek": "οὐ γὰρ ξείνους οἵδε μάλʼ ἀνθρώπους ἀνέχονται,"
+    },
+    {
+      "n": 33,
+      "greek": "οὐδʼ ἀγαπαζόμενοι φιλέουσʼ ὅς κʼ ἄλλοθεν ἔλθῃ."
+    },
+    {
+      "n": 34,
+      "greek": "νηυσὶ θοῇσιν τοί γε πεποιθότες ὠκείῃσι"
+    },
+    {
+      "n": 35,
+      "greek": "λαῖτμα μέγʼ ἐκπερόωσιν, ἐπεί σφισι δῶκʼ ἐνοσίχθων·"
+    },
+    {
+      "n": 36,
+      "greek": "τῶν νέες ὠκεῖαι ὡς εἰ πτερὸν ἠὲ νόημα."
+    },
+    {
+      "n": 37,
+      "greek": "ὣς ἄρα φωνήσασʼ ἡγήσατο Παλλὰς Ἀθήνη"
+    },
+    {
+      "n": 38,
+      "greek": "καρπαλίμως· ὁ δʼ ἔπειτα μετʼ ἴχνια βαῖνε θεοῖο."
+    },
+    {
+      "n": 39,
+      "greek": "τὸν δʼ ἄρα Φαίηκες ναυσικλυτοὶ οὐκ ἐνόησαν"
+    },
+    {
+      "n": 40,
+      "greek": "ἐρχόμενον κατὰ ἄστυ διὰ σφέας· οὐ γὰρ Ἀθήνη"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "from afar, from a distant country; wherefore I know no one of the people who possess this city and land.” Then the goddess, flashing-eyed Athena, answered him: “Then verily, Sir stranger, I will shew thee the palace as thou dost bid me, for it lies hard by the house of my own noble father."
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "Only go thou quietly, and I will lead the way. But turn not thine eyes upon any man nor question any, for the men here endure not stranger-folk, nor do they give kindly welcome to him who comes from another land. They, indeed, trusting in the speed of their swift ships,"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "cross over the great gulf of the sea, for this the Earth-shaker has granted them; and their ships are swift as a bird on the wing or as a thought.” So speaking, Pallas Athena led the way quickly, and he followed in the footsteps of the goddess."
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "And as he went through the city in the midst of them, the Phaeacians, famed for their ships, took no heed of him, for fair-tressed Athena, the dread goddess, would not suffer it, but shed about him a wondrous mist, for her heart was kind toward him. And Odysseus marvelled at the harbors and the stately ships, at the meeting-places where the heroes themselves gathered, and the walls, long and"
+    }
+  ]
+}

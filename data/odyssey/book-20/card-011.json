@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "Ζεῦ πάτερ, οὔ τις σεῖο θεῶν ὀλοώτερος ἄλλος·"
+    },
+    {
+      "n": 202,
+      "greek": "οὐκ ἐλεαίρεις ἄνδρας, ἐπὴν δὴ γείνεαι αὐτός,"
+    },
+    {
+      "n": 203,
+      "greek": "μισγέμεναι κακότητι καὶ ἄλγεσι λευγαλέοισιν."
+    },
+    {
+      "n": 204,
+      "greek": "ἴδιον, ὡς ἐνόησα, δεδάκρυνται δέ μοι ὄσσε"
+    },
+    {
+      "n": 205,
+      "greek": "μνησαμένῳ Ὀδυσῆος, ἐπεὶ καὶ κεῖνον ὀΐω"
+    },
+    {
+      "n": 206,
+      "greek": "τοιάδε λαίφεʼ ἔχοντα κατʼ ἀνθρώπους ἀλάλησθαι,"
+    },
+    {
+      "n": 207,
+      "greek": "εἴ που ἔτι ζώει καὶ ὁρᾷ φάος ἠελίοιο."
+    },
+    {
+      "n": 208,
+      "greek": "εἰ δʼ ἤδη τέθνηκε καὶ εἰν Ἀΐδαο δόμοισιν,"
+    },
+    {
+      "n": 209,
+      "greek": "ὤ μοι ἔπειτʼ Ὀδυσῆος ἀμύμονος, ὅς μʼ ἐπὶ βουσὶν"
+    },
+    {
+      "n": 210,
+      "greek": "εἷσʼ ἔτι τυτθὸν ἐόντα Κεφαλλήνων ἐνὶ δήμῳ."
+    },
+    {
+      "n": 211,
+      "greek": "νῦν δʼ αἱ μὲν γίγνονται ἀθέσφατοι, οὐδέ κεν ἄλλως"
+    },
+    {
+      "n": 212,
+      "greek": "ἀνδρί γʼ ὑποσταχύοιτο βοῶν γένος εὐρυμετώπων·"
+    },
+    {
+      "n": 213,
+      "greek": "τὰς δʼ ἄλλοι με κέλονται ἀγινέμεναί σφισιν αὐτοῖς"
+    },
+    {
+      "n": 214,
+      "greek": "ἔδμεναι· οὐδέ τι παιδὸς ἐνὶ μεγάροις ἀλέγουσιν,"
+    },
+    {
+      "n": 215,
+      "greek": "οὐδʼ ὄπιδα τρομέουσι θεῶν· μεμάασι γὰρ ἤδη"
+    },
+    {
+      "n": 216,
+      "greek": "κτήματα δάσσασθαι δὴν οἰχομένοιο ἄνακτος."
+    },
+    {
+      "n": 217,
+      "greek": "αὐτὰρ ἐμοὶ τόδε θυμὸς ἐνὶ στήθεσσι φίλοισι"
+    },
+    {
+      "n": 218,
+      "greek": "πόλλʼ ἐπιδινεῖται· μάλα μὲν κακὸν υἷος ἐόντος"
+    },
+    {
+      "n": 219,
+      "greek": "ἄλλων δῆμον ἱκέσθαι ἰόντʼ αὐτῇσι βόεσσιν,"
+    },
+    {
+      "n": 220,
+      "greek": "ἄνδρας ἐς ἀλλοδαπούς· τὸ δὲ ῥίγιον, αὖθι μένοντα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "as I think of Odysseus; for he, too, I ween, is clothed in such rags and is a wanderer among men, if indeed he still lives and beholds the light of the sun. But if he is already dead and in the house of Hades, then woe is me for blameless Odysseus, who"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "set me over his cattle, when I was yet a boy, in the land of the Cephallenians And now these wax past counting; in no other wise could the breed of broad-browed cattle yield better increase for a mortal man. But strangers bid me drive these now for themselves to eat, and they care nothing for the son in the house,"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "nor do they tremble at the wrath of the gods, for they are eager now to divide among themselves the possessions of our lord that has long been gone. Now, as for myself, the heart in my breast keeps revolving this matter: a very evil thing it is, while the son lives, to depart along with my cattle and go to a land of strangers,"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "even to an alien folk; but this is worse still, to remain here and suffer woes in charge of cattle that are given over to others. Aye, verily, long ago would I have fled and come to some other of the proud kings, for now things are no more to be borne; but still I think of that hapless one, if perchance he might come back I know not whence,"
+    }
+  ]
+}

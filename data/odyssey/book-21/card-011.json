@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "ὡς ἔλθοι μὲν κεῖνος ἀνήρ, ἀγάγοι δέ ἑ δαίμων·"
+    },
+    {
+      "n": 202,
+      "greek": "γνοίης χʼ οἵη ἐμὴ δύναμις καὶ χεῖρες ἕπονται."
+    },
+    {
+      "n": 203,
+      "greek": "ὣς δʼ αὔτως Εὔμαιος ἐπεύχετο πᾶσι θεοῖσι"
+    },
+    {
+      "n": 204,
+      "greek": "νοστῆσαι Ὀδυσῆα πολύφρονα ὅνδε δόμονδε."
+    },
+    {
+      "n": 205,
+      "greek": "αὐτὰρ ἐπεὶ δὴ τῶν γε νόον νημερτέʼ ἀνέγνω,"
+    },
+    {
+      "n": 206,
+      "greek": "ἐξαῦτίς σφε ἔπεσσιν ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 207,
+      "greek": "ἔνδον μὲν δὴ ὅδʼ αὐτὸς ἐγώ, κακὰ πολλὰ μογήσας"
+    },
+    {
+      "n": 208,
+      "greek": "ἤλυθον εἰκοστῷ ἔτεϊ ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 209,
+      "greek": "γιγνώσκω δʼ ὡς σφῶϊν ἐελδομένοισιν ἱκάνω"
+    },
+    {
+      "n": 210,
+      "greek": "οἴοισι δμώων· τῶν δʼ ἄλλων οὔ τευ ἄκουσα"
+    },
+    {
+      "n": 211,
+      "greek": "εὐξαμένου ἐμὲ αὖτις ὑπότροπον οἴκαδʼ ἱκέσθαι."
+    },
+    {
+      "n": 212,
+      "greek": "σφῶϊν δʼ, ὡς ἔσεταί περ, ἀληθείην καταλέξω."
+    },
+    {
+      "n": 213,
+      "greek": "εἴ χʼ ὑπʼ ἐμοί γε θεὸς δαμάσῃ μνηστῆρας ἀγαυούς,"
+    },
+    {
+      "n": 214,
+      "greek": "ἄξομαι ἀμφοτέροις ἀλόχους καὶ κτήματʼ ὀπάσσω"
+    },
+    {
+      "n": 215,
+      "greek": "οἰκία τʼ ἐγγὺς ἐμεῖο τετυγμένα· καί μοι ἔπειτα"
+    },
+    {
+      "n": 216,
+      "greek": "Τηλεμάχου ἑτάρω τε κασιγνήτω τε ἔσεσθον."
+    },
+    {
+      "n": 217,
+      "greek": "εἰ δʼ ἄγε δή, καὶ σῆμα ἀριφραδὲς ἄλλο τι δείξω,"
+    },
+    {
+      "n": 218,
+      "greek": "ὄφρα μʼ ἐῢ γνῶτον πιστωθῆτόν τʼ ἐνὶ θυμῷ,"
+    },
+    {
+      "n": 219,
+      "greek": "οὐλήν, τήν ποτέ με σῦς ἤλασε λευκῷ ὀδόντι"
+    },
+    {
+      "n": 220,
+      "greek": "Παρνησόνδʼ ἐλθόντα σὺν υἱάσιν Αὐτολύκοιο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "But when he knew with certainty the mind of these, he made answer, and spoke to them again, saying: “At home now in truth am I here before you, my very self. After many grievous toils I am come in the twentieth year to my native land. And I know that by you two"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "alone of all my thralls is my coming desired, but of the rest have I heard not one praying that I might come back again to my home. But to you two will I tell the truth, even as it shall be. If a god shall subdue the lordly wooers unto me, I will bring you each a wife, and will give you possessions"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "and a house built near my own, and thereafter you two shall be in my eyes friends and brothers of Telemachus. Nay, come, more than this, I will shew you also a manifest sign, that you may know me well and be assured in heart, even the scar of the wound which long ago a boar dealt me with his white tusk,"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "when I went to Parnassus with the sons of Autolycus.” So saying, he drew aside the rags from the great scar. And when the two had seen it, and had marked each thing well, they flung their arms about wise Odysseus, and wept; and they kissed his head and shoulders in loving welcome."
+    }
+  ]
+}

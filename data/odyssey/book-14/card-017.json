@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ἔνθʼ Ὀδυσῆος ἐγὼ πυθόμην· κεῖνος γὰρ ἔφασκε"
+    },
+    {
+      "n": 322,
+      "greek": "ξεινίσαι ἠδὲ φιλῆσαι ἰόντʼ ἐς πατρίδα γαῖαν,"
+    },
+    {
+      "n": 323,
+      "greek": "καί μοι κτήματʼ ἔδειξεν ὅσα ξυναγείρατʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 324,
+      "greek": "χαλκόν τε χρυσόν τε πολύκμητόν τε σίδηρον."
+    },
+    {
+      "n": 325,
+      "greek": "καί νύ ἐς δεκάτην γενεὴν ἕτερόν γʼ ἔτι βόσκοι·"
+    },
+    {
+      "n": 326,
+      "greek": "τόσσα οἱ ἐν μεγάροις κειμήλια κεῖτο ἄνακτος."
+    },
+    {
+      "n": 327,
+      "greek": "τὸν δʼ ἐς Δωδώνην φάτο βήμεναι, ὄφρα θεοῖο"
+    },
+    {
+      "n": 328,
+      "greek": "ἐκ δρυὸς ὑψικόμοιο Διὸς βουλὴν ἐπακούσαι,"
+    },
+    {
+      "n": 329,
+      "greek": "ὅππως νοστήσειʼ Ἰθάκης ἐς πίονα δῆμον"
+    },
+    {
+      "n": 330,
+      "greek": "ἤδη δὴν ἀπεών, ἢ ἀμφαδὸν ἦε κρυφηδόν."
+    },
+    {
+      "n": 331,
+      "greek": "ὤμοσε δὲ πρὸς ἔμʼ αὐτόν, ἀποσπένδων ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 332,
+      "greek": "νῆα κατειρύσθαι καὶ ἐπαρτέας ἔμμεν ἑταίρους,"
+    },
+    {
+      "n": 333,
+      "greek": "οἳ δή μιν πέμψουσι φίλην ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 334,
+      "greek": "ἀλλʼ ἐμὲ πρὶν ἀπέπεμψε· τύχησε γὰρ ἐρχομένη νηῦς"
+    },
+    {
+      "n": 335,
+      "greek": "ἀνδρῶν Θεσπρωτῶν ἐς Δουλίχιον πολύπυρον."
+    },
+    {
+      "n": 336,
+      "greek": "ἔνθʼ ὅ γέ μʼ ἠνώγει πέμψαι βασιλῆϊ Ἀκάστῳ"
+    },
+    {
+      "n": 337,
+      "greek": "ἐνδυκέως· τοῖσιν δὲ κακὴ φρεσὶν ἥνδανε βουλὴ"
+    },
+    {
+      "n": 338,
+      "greek": "ἀμφʼ ἐμοί, ὄφρʼ ἔτι πάγχυ δύης ἐπὶ πῆμα γενοίμην."
+    },
+    {
+      "n": 339,
+      "greek": "ἀλλʼ ὅτε γαίης πολλὸν ἀπέπλω ποντοπόρος νηῦς,"
+    },
+    {
+      "n": 340,
+      "greek": "αὐτίκα δούλιον ἦμαρ ἐμοὶ περιμηχανόωντο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "verily unto the tenth generation would it feed his children after him, so great was the wealth that lay stored for him in the halls of the king. But Odysseus, he said, had gone to Dodona, to hear the will of Zeus from the high-crested oak of the god, even how he might return to the rich land of Ithaca"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "after so long an absence, whether openly or in secret. And moreover he swore in my own presence, as he poured libations in his house, that the ship was launched, and the men ready, who were to convey him to his dear native land. But me he sent forth first, for a ship"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "of the Thesprotians chanced to be setting out for Dulichium, rich in wheat. Thither he bade them to convey me with kindly care, to king Acastus. But an evil counsel regarding me found favour in their hearts, that I might even yet be brought into utter misery. When the sea-faring ship had sailed far from the land,"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "they presently sought to bring about for me the day of slavery. They stripped me of my garments, my cloak and tunic, and clothed me in other raiment, a vile ragged cloak and tunic, even the tattered garments which thou seest before thine eyes; and at evening they reached the tilled fields of clear-seen Ithaca."
+    }
+  ]
+}

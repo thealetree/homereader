@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "βὰν δʼ ἴμεναι διὰ δῶμα, λύθεν δʼ ὑπὸ γυῖα ἑκάστης"
+    },
+    {
+      "n": 342,
+      "greek": "ταρβοσύνῃ· φὰν γάρ μιν ἀληθέα μυθήσασθαι."
+    },
+    {
+      "n": 343,
+      "greek": "αὐτὰρ ὁ πὰρ λαμπτῆρσι φαείνων αἰθομένοισιν"
+    },
+    {
+      "n": 344,
+      "greek": "ἑστήκειν ἐς πάντας ὁρώμενος· ἄλλα δέ οἱ κῆρ"
+    },
+    {
+      "n": 345,
+      "greek": "ὥρμαινε φρεσὶν ᾗσιν, ἅ ῥʼ οὐκ ἀτέλεστα γένοντο."
+    },
+    {
+      "n": 346,
+      "greek": "μνηστῆρας δʼ οὐ πάμπαν ἀγήνορας εἴα Ἀθήνη"
+    },
+    {
+      "n": 347,
+      "greek": "λώβης ἴσχεσθαι θυμαλγέος, ὄφρʼ ἔτι μᾶλλον"
+    },
+    {
+      "n": 348,
+      "greek": "δύη ἄχος κραδίην Λαερτιάδεω Ὀδυσῆος."
+    },
+    {
+      "n": 349,
+      "greek": "τοῖσιν δʼ Εὐρύμαχος, Πολύβου πάϊς, ἦρχʼ ἀγορεύειν,"
+    },
+    {
+      "n": 350,
+      "greek": "κερτομέων Ὀδυσῆα· γέλω δʼ ἑτάροισιν ἔτευχε."
+    },
+    {
+      "n": 351,
+      "greek": "κέκλυτέ μευ, μνηστῆρες ἀγακλειτῆς βασιλείης,"
+    },
+    {
+      "n": 352,
+      "greek": "ὄφρʼ εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει."
+    },
+    {
+      "n": 353,
+      "greek": "οὐκ ἀθεεὶ ὅδʼ ἀνὴρ Ὀδυσήϊον ἐς δόμον ἵκει·"
+    },
+    {
+      "n": 354,
+      "greek": "ἔμπης μοι δοκέει δαίδων σέλας ἔμμεναι αὐτοῦ"
+    },
+    {
+      "n": 355,
+      "greek": "κὰκ κεφαλῆς, ἐπεὶ οὔ οἱ ἔνι τρίχες οὐδʼ ἠβαιαί."
+    },
+    {
+      "n": 356,
+      "greek": "ἦ ῥʼ, ἅμα τε προσέειπεν Ὀδυσσῆα πτολίπορθον·"
+    },
+    {
+      "n": 357,
+      "greek": "ξεῖνʼ, ἦ ἄρ κʼ ἐθέλοις θητευέμεν, εἴ σʼ ἀνελοίμην,"
+    },
+    {
+      "n": 358,
+      "greek": "ἀγροῦ ἐπʼ ἐσχατιῆς—μισθὸς δέ τοι ἄρκιος ἔσται—"
+    },
+    {
+      "n": 359,
+      "greek": "αἱμασιάς τε λέγων καὶ δένδρεα μακρὰ φυτεύων;"
+    },
+    {
+      "n": 360,
+      "greek": "ἔνθα κʼ ἐγὼ σῖτον μὲν ἐπηετανὸν παρέχοιμι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "Yet other things was the heart within him pondering—things that were not to be unfulfilled. But Athena would in no wise suffer the proud wooers to abstain from bitter outrage, that pain might sink yet deeper into the heart of Odysseus, son of Laertes. So among them Eurymachus, son of Polybus, began to speak,"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "jeering at Odysseus, and making mirth for his companions: “Hear me, wooers of the glorious queen, that I may say what the heart in my breast bids me. Not without the will of the gods has this man come to the palace of Odysseus; in any case there is a glare of torches from him—"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "from his head, for there is no hair on it, no, not a trace.” Therewith he called to Odysseus, sacker of cities: “Stranger, wouldest thou have a mind to serve for hire, if I should take thee into service on an outlying farm—thy pay shall be assured thee—gathering stones for walls, and planting tall trees?"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "There would I provide thee with food the year through, and clothe thee with raiment and give thee sandals for thy feet. But since thou hast learned only deeds of evil, thou wilt not care to busy thyself with work, but art minded rather to go skulking through the land, that thou mayest have wherewith to feed thy insatiate belly.”"
+    }
+  ]
+}

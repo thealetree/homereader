@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ἀλλὰ μάλʼ ὑβρίξεις, καί τοι νόος ἐστὶν ἀπηνής·"
+    },
+    {
+      "n": 382,
+      "greek": "καί πού τις δοκέεις μέγας ἔμμεναι ἠδὲ κραταιός,"
+    },
+    {
+      "n": 383,
+      "greek": "οὕνεκα πὰρ παύροισι καὶ οὐκ ἀγαθοῖσιν ὁμιλεῖς."
+    },
+    {
+      "n": 384,
+      "greek": "εἰ δʼ Ὀδυσεὺς ἔλθοι καὶ ἵκοιτʼ ἐς πατρίδα γαῖαν,"
+    },
+    {
+      "n": 385,
+      "greek": "αἶψά κέ τοι τὰ θύρετρα, καὶ εὐρέα περ μάλʼ ἐόντα,"
+    },
+    {
+      "n": 386,
+      "greek": "φεύγοντι στείνοιτο διὲκ προθύροιο θύραζε."
+    },
+    {
+      "n": 387,
+      "greek": "ὣς ἔφατʼ, Εὐρύμαχος δʼ ἐχολώσατο κηρόθι μᾶλλον,"
+    },
+    {
+      "n": 388,
+      "greek": "καί μιν ὑπόδρα ἰδὼν ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 389,
+      "greek": "ἆ δείλʼ, ἦ τάχα τοι τελέω κακόν, οἷʼ ἀγορεύεις"
+    },
+    {
+      "n": 390,
+      "greek": "θαρσαλέως πολλοῖσι μετʼ ἀνδράσιν, οὐδέ τι θυμῷ"
+    },
+    {
+      "n": 391,
+      "greek": "ταρβεῖς· ἦ ῥά σε οἶνος ἔχει φρένας, ἤ νύ τοι αἰεὶ"
+    },
+    {
+      "n": 392,
+      "greek": "τοιοῦτος νόος ἐστίν· ὃ καὶ μεταμώνια βάζεις."
+    },
+    {
+      "n": 393,
+      "greek": "ἦ ἀλύεις, ὅτι Ἶρον ἐνίκησας τὸν ἀλήτην;"
+    },
+    {
+      "n": 394,
+      "greek": "ὣς ἄρα φωνήσας σφέλας ἔλλαβεν· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 395,
+      "greek": "Ἀμφινόμου πρὸς γοῦνα καθέζετο Δουλιχιῆος,"
+    },
+    {
+      "n": 396,
+      "greek": "Εὐρύμαχον δείσας· ὁ δʼ ἄρʼ οἰνοχόον βάλε χεῖρα"
+    },
+    {
+      "n": 397,
+      "greek": "δεξιτερήν· πρόχοος δὲ χαμαὶ βόμβησε πεσοῦσα,"
+    },
+    {
+      "n": 398,
+      "greek": "αὐτὰρ ὅ γʼ οἰμώξας πέσεν ὕπτιος ἐν κονίῃσι."
+    },
+    {
+      "n": 399,
+      "greek": "μνηστῆρες δʼ ὁμάδησαν ἀνὰ μέγαρα σκιόεντα,"
+    },
+    {
+      "n": 400,
+      "greek": "ὧδε δέ τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄλλον·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "soon would yonder doors, right wide though they are, prove all too narrow for thee in thy flight out through the doorway.” So he spoke, and Eurymachus waxed the more wroth at heart, and with an angry glance from beneath his brows spoke to him winged words: “Wretch, presently will I work thee evil, that thou pratest thus,"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "unabashed in the presence of many lords, and hast no fear at heart. Surely wine has mastered thy wits, or else thy mind is ever thus, that thou dost babble idly. Art thou beside thyself because thou hast beaten that vagrant Irus?” So saying, he seized a footstool, but Odysseus"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "sat down at the knees of Amphinomus of Dulichium, in fear of Eurymachus. And so Eurymachus struck a cup-bearer on the right hand, and the wine-jug fell to the ground with a clang, and the bearer groaned, and fell backwards in the dust. Then the wooers broke into uproar throughout the shadowy halls,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "and thus would one man speak with a glance at his neighbor: “Would that yon stranger had perished elsewhere on his wanderings or ever he came hither; then should he never have brought among us all this tumult. But now we are brawling about beggars, nor shall there be any joy in our rich feast, since worse things prevail.”"
+    }
+  ]
+}

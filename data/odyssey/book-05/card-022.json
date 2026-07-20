@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "ἠέ τί μοι καὶ κῆτος ἐπισσεύῃ μέγα δαίμων"
+    },
+    {
+      "n": 422,
+      "greek": "ἐξ ἁλός, οἷά τε πολλὰ τρέφει κλυτὸς Ἀμφιτρίτη·"
+    },
+    {
+      "n": 423,
+      "greek": "οἶδα γάρ, ὥς μοι ὀδώδυσται κλυτὸς ἐννοσίγαιος."
+    },
+    {
+      "n": 424,
+      "greek": "ἧος ὁ ταῦθʼ ὥρμαινε κατὰ φρένα καὶ κατὰ θυμόν,"
+    },
+    {
+      "n": 425,
+      "greek": "τόφρα δέ μιν μέγα κῦμα φέρε τρηχεῖαν ἐπʼ ἀκτήν."
+    },
+    {
+      "n": 426,
+      "greek": "ἔνθα κʼ ἀπὸ ῥινοὺς δρύφθη, σὺν δʼ ὀστέʼ ἀράχθη,"
+    },
+    {
+      "n": 427,
+      "greek": "εἰ μὴ ἐπὶ φρεσὶ θῆκε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 428,
+      "greek": "ἀμφοτέρῃσι δὲ χερσὶν ἐπεσσύμενος λάβε πέτρης,"
+    },
+    {
+      "n": 429,
+      "greek": "τῆς ἔχετο στενάχων, ἧος μέγα κῦμα παρῆλθε."
+    },
+    {
+      "n": 430,
+      "greek": "καὶ τὸ μὲν ὣς ὑπάλυξε, παλιρρόθιον δέ μιν αὖτις"
+    },
+    {
+      "n": 431,
+      "greek": "πλῆξεν ἐπεσσύμενον, τηλοῦ δέ μιν ἔμβαλε πόντῳ."
+    },
+    {
+      "n": 432,
+      "greek": "ὡς δʼ ὅτε πουλύποδος θαλάμης ἐξελκομένοιο"
+    },
+    {
+      "n": 433,
+      "greek": "πρὸς κοτυληδονόφιν πυκιναὶ λάιγγες ἔχονται,"
+    },
+    {
+      "n": 434,
+      "greek": "ὣς τοῦ πρὸς πέτρῃσι θρασειάων ἀπὸ χειρῶν"
+    },
+    {
+      "n": 435,
+      "greek": "ῥινοὶ ἀπέδρυφθεν· τὸν δὲ μέγα κῦμα κάλυψεν."
+    },
+    {
+      "n": 436,
+      "greek": "ἔνθα κε δὴ δύστηνος ὑπὲρ μόρον ὤλετʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 437,
+      "greek": "εἰ μὴ ἐπιφροσύνην δῶκε γλαυκῶπις Ἀθήνη."
+    },
+    {
+      "n": 438,
+      "greek": "κύματος ἐξαναδύς, τά τʼ ἐρεύγεται ἤπειρόνδε,"
+    },
+    {
+      "n": 439,
+      "greek": "νῆχε παρέξ, ἐς γαῖαν ὁρώμενος, εἴ που ἐφεύροι"
+    },
+    {
+      "n": 440,
+      "greek": "ἠιόνας τε παραπλῆγας λιμένας τε θαλάσσης."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "a great wave bore him against the rugged shore. There would his skin have been stripped off and his bones broken, had not the goddess, flashing-eyed Athena, put a thought in his mind. On he rushed and seized the rock with both hands, and clung to it, groaning, until the great wave went by."
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "Thus then did he escape this wave, but in its backward flow it once more rushed upon him and smote him, and flung him far out in the sea. And just as, when a cuttlefish is dragged from its hole, many pebbles cling to its suckers, even so from his strong hands"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "were bits of skin stripped off against the rocks; and the great wave covered him. Then verily would hapless Odysseus have perished beyond his fate, had not flashing-eyed Athena given him prudence. Making his way forth from the surge where it belched upon the shore, he swam outside, looking ever toward the land in hope to find"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "shelving beaches and harbors of the sea. But when, as he swam, he came to the mouth of a fair-flowing river, where seemed to him the best place, since it was smooth of stones, and besides there was shelter from the wind, he knew the river as he flowed forth, and prayed to him in his heart:"
+    }
+  ]
+}

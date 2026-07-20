@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ἀλλʼ ὅτε δὴ Κρήτην μὲν ἐλείπομεν, οὐδέ τις ἄλλη"
+    },
+    {
+      "n": 302,
+      "greek": "φαίνετο γαιάων, ἀλλʼ οὐρανὸς ἠδὲ θάλασσα,"
+    },
+    {
+      "n": 303,
+      "greek": "δὴ τότε κυανέην νεφέλην ἔστησε Κρονίων"
+    },
+    {
+      "n": 304,
+      "greek": "νηὸς ὕπερ γλαφυρῆς, ἤχλυσε δὲ πόντος ὑπʼ αὐτῆς."
+    },
+    {
+      "n": 305,
+      "greek": "Ζεὺς δʼ ἄμυδις βρόντησε καὶ ἔμβαλε νηῒ κεραυνόν·"
+    },
+    {
+      "n": 306,
+      "greek": "ἡ δʼ ἐλελίχθη πᾶσα Διὸς πληγεῖσα κεραυνῷ,"
+    },
+    {
+      "n": 307,
+      "greek": "ἐν δὲ θεείου πλῆτο· πέσον δʼ ἐκ νηὸς ἅπαντες."
+    },
+    {
+      "n": 308,
+      "greek": "οἱ δὲ κορώνῃσιν ἴκελοι περὶ νῆα μέλαιναν"
+    },
+    {
+      "n": 309,
+      "greek": "κύμασιν ἐμφορέοντο· θεὸς δʼ ἀποαίνυτο νόστον."
+    },
+    {
+      "n": 310,
+      "greek": "αὐτὰρ ἐμοὶ Ζεὺς αὐτός, ἔχοντί περ ἄλγεα θυμῷ,"
+    },
+    {
+      "n": 311,
+      "greek": "ἱστὸν ἀμαιμάκετον νηὸς κυανοπρῴροιο"
+    },
+    {
+      "n": 312,
+      "greek": "ἐν χείρεσσιν ἔθηκεν, ὅπως ἔτι πῆμα φύγοιμι."
+    },
+    {
+      "n": 313,
+      "greek": "τῷ ῥα περιπλεχθεὶς φερόμην ὀλοοῖς ἀνέμοισιν."
+    },
+    {
+      "n": 314,
+      "greek": "ἐννῆμαρ φερόμην, δεκάτῃ δέ με νυκτὶ μελαίνῃ"
+    },
+    {
+      "n": 315,
+      "greek": "γαίῃ Θεσπρωτῶν πέλασεν μέγα κῦμα κυλίνδον."
+    },
+    {
+      "n": 316,
+      "greek": "ἔνθα με Θεσπρωτῶν βασιλεὺς ἐκομίσσατο Φείδων"
+    },
+    {
+      "n": 317,
+      "greek": "ἥρως ἀπριάτην· τοῦ γὰρ φίλος υἱὸς ἐπελθὼν"
+    },
+    {
+      "n": 318,
+      "greek": "αἴθρῳ καὶ καμάτῳ δεδμημένον ἦγεν ἐς οἶκον,"
+    },
+    {
+      "n": 319,
+      "greek": "χειρὸς ἀναστήσας, ὄφρʼ ἵκετο δώματα πατρός·"
+    },
+    {
+      "n": 320,
+      "greek": "ἀμφὶ δέ με χλαῖνάν τε χιτῶνά τε εἵματα ἕσσεν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "then verily the son of Cronos set a black cloud above the hollow ship, and the sea grew dark beneath it. Therewith Zeus thundered, and hurled his bolt upon the ship, and she quivered from stem to stern, smitten by the bolt of Zeus, and was filled with sulphurous smoke, and all the crew fell from out the ship. Like sea-crows they were borne on the waves about the black ship, and the god took from them their returning."
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "But as for me, Zeus himself when my heart was compassed with woe, put into my hands the tossing mast of the dark-prowed ship, that I might again escape destruction. Around this I clung, and was borne by the direful winds. For nine days I was borne, but on the tenth black night"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "the great rolling wave brought me to the land of the Thesprotians. There the king of the Thesprotians, lord Pheidon, took me in, and asked no ransom, for his dear son came upon me, overcome as I was with cold and weariness, and raised me by the hand, and led me until he came to his father's palace;"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "and he clothed me in a cloak and tunic, as raiment. “There I learned of Odysseus, for the king said that he had entertained him, and given him welcome on his way to his native land. And he showed me all the treasure that Odysseus had gathered, bronze, and gold, and iron, wrought with toil;"
+    }
+  ]
+}

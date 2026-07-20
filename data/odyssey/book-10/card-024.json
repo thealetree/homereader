@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 24,
+  "lineStart": 462,
+  "lineEnd": 481,
+  "lines": [
+    {
+      "n": 462,
+      "greek": "οἷον ὅτε πρώτιστον ἐλείπετε πατρίδα γαῖαν"
+    },
+    {
+      "n": 463,
+      "greek": "τρηχείης Ἰθάκης. νῦν δʼ ἀσκελέες καὶ ἄθυμοι,"
+    },
+    {
+      "n": 464,
+      "greek": "αἰὲν ἄλης χαλεπῆς μεμνημένοι, οὐδέ ποθʼ ὕμιν"
+    },
+    {
+      "n": 465,
+      "greek": "θυμὸς ἐν εὐφροσύνῃ, ἐπεὶ ἦ μάλα πολλὰ πέποσθε."
+    },
+    {
+      "n": 466,
+      "greek": "ὣς ἔφαθʼ, ἡμῖν δʼ αὖτʼ ἐπεπείθετο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 467,
+      "greek": "ἔνθα μὲν ἤματα πάντα τελεσφόρον εἰς ἐνιαυτὸν"
+    },
+    {
+      "n": 468,
+      "greek": "ἥμεθα δαινύμενοι κρέα τʼ ἄσπετα καὶ μέθυ ἡδύ·"
+    },
+    {
+      "n": 469,
+      "greek": "ἀλλʼ ὅτε δή ῥʼ ἐνιαυτὸς ἔην, περὶ δʼ ἔτραπον ὧραι"
+    },
+    {
+      "n": 470,
+      "greek": "μηνῶν φθινόντων, περὶ δʼ ἤματα μακρὰ τελέσθη,"
+    },
+    {
+      "n": 471,
+      "greek": "καὶ τότε μʼ ἐκκαλέσαντες ἔφαν ἐρίηρες ἑταῖροι·"
+    },
+    {
+      "n": 472,
+      "greek": "δαιμόνιʼ, ἤδη νῦν μιμνήσκεο πατρίδος αἴης,"
+    },
+    {
+      "n": 473,
+      "greek": "εἴ τοι θέσφατόν ἐστι σαωθῆναι καὶ ἱκέσθαι"
+    },
+    {
+      "n": 474,
+      "greek": "οἶκον ἐς ὑψόροφον καὶ σὴν ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 475,
+      "greek": "ὣς ἔφαν, αὐτὰρ ἐμοί γʼ ἐπεπείθετο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 476,
+      "greek": "ὣς τότε μὲν πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα"
+    },
+    {
+      "n": 477,
+      "greek": "ἥμεθα, δαινύμενοι κρέα τʼ ἄσπετα καὶ μέθυ ἡδύ·"
+    },
+    {
+      "n": 478,
+      "greek": "ἦμος δʼ ἠέλιος κατέδυ καὶ ἐπὶ κνέφας ἦλθεν,"
+    },
+    {
+      "n": 479,
+      "greek": "οἱ μὲν κοιμήσαντο κατὰ μέγαρα σκιόεντα."
+    },
+    {
+      "n": 480,
+      "greek": "αὐτὰρ ἐγὼ Κίρκης ἐπιβὰς περικαλλέος εὐνῆς"
+    },
+    {
+      "n": 481,
+      "greek": "γούνων ἐλλιτάνευσα, θεὰ δέ μευ ἔκλυεν αὐδῆς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "hearts ever joyful, for verily ye have suffered much.’ “So she spoke, and our proud hearts consented. So there day after day for a full year we abode, feasting on abundant flesh and sweet wine. But when a year was gone and the seasons turned,"
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "as the months waned and the long days were brought in their course, then my trusty comrades called me forth, and said: “‘Strange man, bethink thee now at last of thy native land, if it is fated for thee to be saved, and to reach thy high-roofed house and thy native land.’"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "“So they spoke, and my proud heart consented. So then all day long till set of sun we sat feasting on abundant flesh and sweet wine. But when the sun set and darkness came on, they lay down to sleep throughout the shadowy halls,"
+    },
+    {
+      "lines": [
+        480,
+        481
+      ],
+      "text": "but I went up to the beautiful bed of Circe, and besought her by her knees; and the goddess heard my voice, and I spoke, and addressed her with winged words: “‘Circe, fulfil for me the promise which thou gavest to send me home; for my spirit is now eager to be gone,"
+    }
+  ]
+}

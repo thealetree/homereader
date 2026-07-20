@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ἆ δειλὲ ξείνων, ἦ μοι μάλα θυμὸν ὄρινας"
+    },
+    {
+      "n": 362,
+      "greek": "ταῦτα ἕκαστα λέγων, ὅσα δὴ πάθες ἠδʼ ὅσʼ ἀλήθης."
+    },
+    {
+      "n": 363,
+      "greek": "ἀλλὰ τά γʼ οὐ κατὰ κόσμον ὀΐομαι, οὐδέ με πείσεις"
+    },
+    {
+      "n": 364,
+      "greek": "εἰπὼν ἀμφʼ Ὀδυσῆϊ· τί σε χρὴ τοῖον ἐόντα"
+    },
+    {
+      "n": 365,
+      "greek": "μαψιδίως ψεύδεσθαι; ἐγὼ δʼ εὖ οἶδα καὶ αὐτὸς"
+    },
+    {
+      "n": 366,
+      "greek": "νόστον ἐμοῖο ἄνακτος, ὅ τʼ ἤχθετο πᾶσι θεοῖσι"
+    },
+    {
+      "n": 367,
+      "greek": "πάγχυ μάλʼ, ὅττι μιν οὔ τι μετὰ Τρώεσσι δάμασσαν"
+    },
+    {
+      "n": 368,
+      "greek": "ἠὲ φίλων ἐν χερσίν, ἐπεὶ πόλεμον τολύπευσε."
+    },
+    {
+      "n": 369,
+      "greek": "τῷ κέν οἱ τύμβον μὲν ἐποίησαν Παναχαιοί,"
+    },
+    {
+      "n": 370,
+      "greek": "ἠδέ κε καὶ ᾧ παιδὶ μέγα κλέος ἤρατʼ ὀπίσσω"
+    },
+    {
+      "n": 371,
+      "greek": "νῦν δέ μιν ἀκλειῶς ἅρπυιαι ἀνηρείψαντο."
+    },
+    {
+      "n": 372,
+      "greek": "αὐτὰρ ἐγὼ παρʼ ὕεσσιν ἀπότροπος· οὐδὲ πόλινδε"
+    },
+    {
+      "n": 373,
+      "greek": "ἔρχομαι, εἰ μή πού τι περίφρων Πηνελόπεια"
+    },
+    {
+      "n": 374,
+      "greek": "ἐλθέμεν ὀτρύνῃσιν, ὅτʼ ἀγγελίη ποθὲν ἔλθῃ."
+    },
+    {
+      "n": 375,
+      "greek": "ἀλλʼ οἱ μὲν τὰ ἕκαστα παρήμενοι ἐξερέουσιν,"
+    },
+    {
+      "n": 376,
+      "greek": "ἠμὲν οἳ ἄχνυνται δὴν οἰχομένοιο ἄνακτος,"
+    },
+    {
+      "n": 377,
+      "greek": "ἠδʼ οἳ χαίρουσιν βίοτον νήποινον ἔδοντες·"
+    },
+    {
+      "n": 378,
+      "greek": "ἀλλʼ ἐμοὶ οὐ φίλον ἐστὶ μεταλλῆσαι καὶ ἐρέσθαι,"
+    },
+    {
+      "n": 379,
+      "greek": "ἐξ οὗ δή μʼ Αἰτωλὸς ἀνὴρ ἐξήπαφε μύθῳ,"
+    },
+    {
+      "n": 380,
+      "greek": "ὅς ῥʼ ἄνδρα κτείνας, πολλὴν ἐπὶ γαῖαν ἀληθείς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "lie to no purpose? Nay, of myself I know well regarding the return of my master, that he was utterly hated of all the gods, in that they did not slay him among the Trojans, or in the arms of his friends, when he had wound up the skein of war. Then would the whole host of the Achaeans have made him a tomb,"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "and for his son too he would have won great glory in days to come. But as it is the spirits of the storm have swept him away, and left no tidings. I, for my part, dwell aloof with the swine, nor do I go to the city, unless haply wise Penelope bids me thither, when tidings come to her from anywhere."
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "Then men sit around him that comes, and question him closely, both those that grieve for their lord, that has long been gone, and those who rejoice, as they devour his substance without atonement. But I care not to ask or enquire, since the time when an Aetolian beguiled me with his story,"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "one that had killed a man, and after wandering over the wide earth came to my house, and I gave him kindly welcome. He said that he had seen Odysseus among the Cretans at the house of Idomeneus, mending his ships which storms had shattered. And he said that he would come either by summer or by harvest-time,"
+    }
+  ]
+}

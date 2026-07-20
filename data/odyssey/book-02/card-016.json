@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "Ἀντίνοος δʼ ἰθὺς γελάσας κίε Τηλεμάχοιο,"
+    },
+    {
+      "n": 302,
+      "greek": "ἔν τʼ ἄρα οἱ φῦ χειρί, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    },
+    {
+      "n": 303,
+      "greek": "Τηλέμαχʼ ὑψαγόρη, μένος ἄσχετε, μή τί τοι ἄλλο"
+    },
+    {
+      "n": 304,
+      "greek": "ἐν στήθεσσι κακὸν μελέτω ἔργον τε ἔπος τε,"
+    },
+    {
+      "n": 305,
+      "greek": "ἀλλά μοι ἐσθιέμεν καὶ πινέμεν, ὡς τὸ πάρος περ."
+    },
+    {
+      "n": 306,
+      "greek": "ταῦτα δέ τοι μάλα πάντα τελευτήσουσιν Ἀχαιοί,"
+    },
+    {
+      "n": 307,
+      "greek": "νῆα καὶ ἐξαίτους ἐρέτας, ἵνα θᾶσσον ἵκηαι"
+    },
+    {
+      "n": 308,
+      "greek": "ἐς Πύλον ἠγαθέην μετʼ ἀγαυοῦ πατρὸς ἀκουήν."
+    },
+    {
+      "n": 309,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 310,
+      "greek": "Ἀντίνοʼ, οὔ πως ἔστιν ὑπερφιάλοισι μεθʼ ὑμῖν"
+    },
+    {
+      "n": 311,
+      "greek": "δαίνυσθαί τʼ ἀκέοντα καὶ εὐφραίνεσθαι ἕκηλον."
+    },
+    {
+      "n": 312,
+      "greek": "ἦ οὐχ ἅλις ὡς τὸ πάροιθεν ἐκείρετε πολλὰ καὶ ἐσθλὰ"
+    },
+    {
+      "n": 313,
+      "greek": "κτήματʼ ἐμά, μνηστῆρες, ἐγὼ δʼ ἔτι νήπιος ἦα;"
+    },
+    {
+      "n": 314,
+      "greek": "νῦν δʼ ὅτε δὴ μέγας εἰμὶ καὶ ἄλλων μῦθον ἀκούων"
+    },
+    {
+      "n": 315,
+      "greek": "πυνθάνομαι, καὶ δή μοι ἀέξεται ἔνδοθι θυμός,"
+    },
+    {
+      "n": 316,
+      "greek": "πειρήσω, ὥς κʼ ὔμμι κακὰς ἐπὶ κῆρας ἰήλω,"
+    },
+    {
+      "n": 317,
+      "greek": "ἠὲ Πύλονδʼ ἐλθών, ἢ αὐτοῦ τῷδʼ ἐνὶ δήμῳ."
+    },
+    {
+      "n": 318,
+      "greek": "εἶμι μέν, οὐδʼ ἁλίη ὁδὸς ἔσσεται ἣν ἀγορεύω,"
+    },
+    {
+      "n": 319,
+      "greek": "ἔμπορος· οὐ γὰρ νηὸς ἐπήβολος οὐδʼ ἐρετάων"
+    },
+    {
+      "n": 320,
+      "greek": "γίγνομαι· ὥς νύ που ὔμμιν ἐείσατο κέρδιον εἶναι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "Nay, I bid thee, eat and drink even as before. All these things the Achaeans will surely provide for thee—the ship and chosen oarsmen—that with speed thou mayest go to sacred Pylos to seek for tidings of thy noble father.” Then wise Telemachus answered him:"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "“Antinous, in no wise is it possible for me in your overweening company to sit at meat quietly and to make merry with an easy mind. Is it not enough, ye wooers, that in time past ye wasted many goodly possessions of mine, while I was still a child? But now that I am grown,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "and gain knowledge by hearing the words of others, yea and my spirit waxes within me, I will try how I may hurl forth upon your evil fates, either going to Pylos or here in this land. For go I will, nor shall the journey be in vain whereof I speak, though I voyage in another's ship, since I may not be master of ship or oarsmen."
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "So, I ween, it seemed to you to be more to your profit.” He spoke, and snatched his hand from the hand of Antinous without more ado, and the wooers were busy with the feast throughout the hall. They mocked and jeered at him in their talk; and thus would one of the proud youths speak:"
+    }
+  ]
+}

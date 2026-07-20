@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "οὕνεκα δεῦρʼ ἱκόμεσθα θοῇ σὺν νηὶ μελαίνῃ."
+    },
+    {
+      "n": 62,
+      "greek": "ὣς ἄρʼ ἔπειτʼ ἠρᾶτο καὶ αὐτὴ πάντα τελεύτα."
+    },
+    {
+      "n": 63,
+      "greek": "δῶκε δὲ Τηλεμάχῳ καλὸν δέπας ἀμφικύπελλον·"
+    },
+    {
+      "n": 64,
+      "greek": "ὣς δʼ αὔτως ἠρᾶτο Ὀδυσσῆος φίλος υἱός."
+    },
+    {
+      "n": 65,
+      "greek": "οἱ δʼ ἐπεὶ ὤπτησαν κρέʼ ὑπέρτερα καὶ ἐρύσαντο,"
+    },
+    {
+      "n": 66,
+      "greek": "μοίρας δασσάμενοι δαίνυντʼ ἐρικυδέα δαῖτα."
+    },
+    {
+      "n": 67,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 68,
+      "greek": "τοῖς ἄρα μύθων ἦρχε Γερήνιος ἱππότα Νέστωρ·"
+    },
+    {
+      "n": 69,
+      "greek": "νῦν δὴ κάλλιόν ἐστι μεταλλῆσαι καὶ ἐρέσθαι"
+    },
+    {
+      "n": 70,
+      "greek": "ξείνους, οἱ τινές εἰσιν, ἐπεὶ τάρπησαν ἐδωδῆς."
+    },
+    {
+      "n": 71,
+      "greek": "ὦ ξεῖνοι, τίνες ἐστέ; πόθεν πλεῖθʼ ὑγρὰ κέλευθα;"
+    },
+    {
+      "n": 72,
+      "greek": "ἤ τι κατὰ πρῆξιν ἦ μαψιδίως ἀλάλησθε"
+    },
+    {
+      "n": 73,
+      "greek": "οἷά τε ληιστῆρες ὑπεὶρ ἅλα, τοί τʼ ἀλόωνται"
+    },
+    {
+      "n": 74,
+      "greek": "ψυχὰς παρθέμενοι κακὸν ἀλλοδαποῖσι φέροντες;"
+    },
+    {
+      "n": 75,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα"
+    },
+    {
+      "n": 76,
+      "greek": "θαρσήσας· αὐτὴ γὰρ ἐνὶ φρεσὶ θάρσος Ἀθήνη"
+    },
+    {
+      "n": 77,
+      "greek": "θῆχʼ, ἵνα μιν περὶ πατρὸς ἀποιχομένοιο ἔροιτο"
+    },
+    {
+      "n": 78,
+      "greek": "ἠδʼ ἵνα μιν κλέος ἐσθλὸν ἐν ἀνθρώποισιν ἔχῃσιν·"
+    },
+    {
+      "n": 79,
+      "greek": "ὦ Νέστορ Νηληϊάδη, μέγα κῦδος Ἀχαιῶν,"
+    },
+    {
+      "n": 80,
+      "greek": "εἴρεαι ὁππόθεν εἰμέν· ἐγὼ δέ κέ τοι καταλέξω."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "Then when they had roasted the outer flesh and drawn it off the spits, they divided the portions and feasted a glorious feast. But when they had put from them the desire of food and drink, the horseman, Nestor of Gerenia, spoke first among them: “Now verily is it seemlier to ask and enquire"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "of the strangers who they are, since now they have had their joy of food. Strangers, who are ye? Whence do ye sail over the watery ways? Is it on some business, or do ye wander at random over the sea, even as pirates, who wander hazarding their lives and bringing evil to men of other lands?”"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "Then wise Telemachus took courage, and made answer, for Athena herself put courage in his heart, that he might ask about his father that was gone, and that good report might be his among men: “Nestor, son of Neleus, great glory of the Achaeans,"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "thou askest whence we are, and I will surely tell thee. We have come from Ithaca that is below Neion; but this business whereof I speak is mine own, and concerns not the people. I come after the wide-spread rumor of my father, if haply I may hear of it, even of goodly Odysseus of the steadfast heart, who once, men say,"
+    }
+  ]
+}

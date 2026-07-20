@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "οὔ τι διατρίβω μητρὸς γάμον, ἀλλὰ κελεύω"
+    },
+    {
+      "n": 342,
+      "greek": "γήμασθʼ ᾧ κʼ ἐθέλῃ, ποτὶ δʼ ἄσπετα δῶρα δίδωμι."
+    },
+    {
+      "n": 343,
+      "greek": "αἰδέομαι δʼ ἀέκουσαν ἀπὸ μεγάροιο δίεσθαι"
+    },
+    {
+      "n": 344,
+      "greek": "μύθῳ ἀναγκαίῳ· μὴ τοῦτο θεὸς τελέσειεν."
+    },
+    {
+      "n": 345,
+      "greek": "ὣς φάτο Τηλέμαχος· μνηστῆρσι δὲ Παλλὰς Ἀθήνη"
+    },
+    {
+      "n": 346,
+      "greek": "ἄσβεστον γέλω ὦρσε, παρέπλαγξεν δὲ νόημα."
+    },
+    {
+      "n": 347,
+      "greek": "οἱ δʼ ἤδη γναθμοῖσι γελοίων ἀλλοτρίοισιν,"
+    },
+    {
+      "n": 348,
+      "greek": "αἱμοφόρυκτα δὲ δὴ κρέα ἤσθιον· ὄσσε δʼ ἄρα σφέων"
+    },
+    {
+      "n": 349,
+      "greek": "δακρυόφιν πίμπλαντο, γόον δʼ ὠΐετο θυμός."
+    },
+    {
+      "n": 350,
+      "greek": "τοῖσι δὲ καὶ μετέειπε Θεοκλύμενος θεοειδής·"
+    },
+    {
+      "n": 351,
+      "greek": "ἆ δειλοί, τί κακὸν τόδε πάσχετε; νυκτὶ μὲν ὑμέων"
+    },
+    {
+      "n": 352,
+      "greek": "εἰλύαται κεφαλαί τε πρόσωπά τε νέρθε τε γοῦνα."
+    },
+    {
+      "n": 353,
+      "greek": "οἰμωγὴ δὲ δέδηε, δεδάκρυνται δὲ παρειαί,"
+    },
+    {
+      "n": 354,
+      "greek": "αἵματι δʼ ἐρράδαται τοῖχοι καλαί τε μεσόδμαι·"
+    },
+    {
+      "n": 355,
+      "greek": "εἰδώλων δὲ πλέον πρόθυρον, πλείη δὲ καὶ αὐλή,"
+    },
+    {
+      "n": 356,
+      "greek": "ἱεμένων Ἔρεβόσδε ὑπὸ ζόφον· ἠέλιος δὲ"
+    },
+    {
+      "n": 357,
+      "greek": "οὐρανοῦ ἐξαπόλωλε, κακὴ δʼ ἐπιδέδρομεν ἀχλύς."
+    },
+    {
+      "n": 358,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπʼ αὐτῷ ἡδὺ γέλασσαν."
+    },
+    {
+      "n": 359,
+      "greek": "τοῖσιν δʼ Εὐρύμαχος, Πολύβου πάϊς, ἦρχʼ ἀγορεύειν·"
+    },
+    {
+      "n": 360,
+      "greek": "ἀφραίνει ξεῖνος νέον ἄλλοθεν εἰληλουθώς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "So spoke Telemachus, but among the wooers Pallas Athena roused unquenchable laughter, and turned their wits awry. And now they laughed with alien lips, and all bedabbled with blood was the flesh they ate, and their eyes were filled with tears and their spirits set on wailing."
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "Then among them spoke godlike Theoclymenus: “Ah, wretched men, what evil is this that you suffer? Shrouded in night are your heads and your faces and your knees beneath you; kindled is the sound of wailing, bathed in tears are your cheeks, and sprinkled with blood are the walls and the fair rafters."
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "And full of ghosts is the porch and full the court, of ghosts that hasten down to Erebus beneath the darkness, and the sun has perished out of heaven and an evil mist hovers over all.” So he spoke, but they all laughed merrily at him. And among them Eurymachus, son of Polybus, was the first to speak:"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "“Mad is the stranger that has newly come from abroad. Quick, ye youths, convey him forth out of doors to go his way to the place of assembly, since here he finds it like night.” Then godlike Theoclymenus answered him: “Eurymachus, in no wise do I bid thee give me guides for my way."
+    }
+  ]
+}

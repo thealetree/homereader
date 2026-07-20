@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "τὼ δʼ ἔσταν ἑκάτερθε παρὰ σταθμοῖσι μένοντε."
+    },
+    {
+      "n": 182,
+      "greek": "εὖθʼ ὑπὲρ οὐδὸν ἔβαινε Μελάνθιος, αἰπόλος αἰγῶν,"
+    },
+    {
+      "n": 183,
+      "greek": "τῇ ἑτέρῃ μὲν χειρὶ φέρων καλὴν τρυφάλειαν,"
+    },
+    {
+      "n": 184,
+      "greek": "τῇ δʼ ἑτέρῃ σάκος εὐρὺ γέρον, πεπαλαγμένον ἄζῃ,"
+    },
+    {
+      "n": 185,
+      "greek": "Λαέρτεω ἥρωος, ὃ κουρίζων φορέεσκε·"
+    },
+    {
+      "n": 186,
+      "greek": "δὴ τότε γʼ ἤδη κεῖτο, ῥαφαὶ δὲ λέλυντο ἱμάντων·"
+    },
+    {
+      "n": 187,
+      "greek": "τὼ δʼ ἄρʼ ἐπαΐξανθʼ ἑλέτην ἔρυσάν τέ μιν εἴσω"
+    },
+    {
+      "n": 188,
+      "greek": "κουρίξ, ἐν δαπέδῳ δὲ χαμαὶ βάλον ἀχνύμενον κῆρ,"
+    },
+    {
+      "n": 189,
+      "greek": "σὺν δὲ πόδας χεῖράς τε δέον θυμαλγέϊ δεσμῷ"
+    },
+    {
+      "n": 190,
+      "greek": "εὖ μάλʼ ἀποστρέψαντε διαμπερές, ὡς ἐκέλευσεν"
+    },
+    {
+      "n": 191,
+      "greek": "υἱὸς Λαέρταο, πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 192,
+      "greek": "σειρὴν δὲ πλεκτὴν ἐξ αὐτοῦ πειρήναντε"
+    },
+    {
+      "n": 193,
+      "greek": "κίονʼ ἀνʼ ὑψηλὴν ἔρυσαν πέλασάν τε δοκοῖσι."
+    },
+    {
+      "n": 194,
+      "greek": "τὸν δʼ ἐπικερτομέων προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 195,
+      "greek": "νῦν μὲν δὴ μάλα πάγχυ, Μελάνθιε, νύκτα φυλάξεις,"
+    },
+    {
+      "n": 196,
+      "greek": "εὐνῇ ἔνι μαλακῇ καταλέγμενος, ὥς σε ἔοικεν·"
+    },
+    {
+      "n": 197,
+      "greek": "οὐδέ σέ γʼ ἠριγένεια παρʼ Ὠκεανοῖο ῥοάων"
+    },
+    {
+      "n": 198,
+      "greek": "λήσει ἐπερχομένη χρυσόθρονος, ἡνίκʼ ἀγινεῖς"
+    },
+    {
+      "n": 199,
+      "greek": "αἶγας μνηστήρεσσι δόμον κάτα δαῖτα πένεσθαι."
+    },
+    {
+      "n": 200,
+      "greek": "ὣς ὁ μὲν αὖθι λέλειπτο, ταθεὶς ὀλοῷ ἐνὶ δεσμῷ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "the shield of lord Laertes, which he was wont to bear in his youth, but now it was laid by, and the seams of its straps were loosened—then the two sprang upon him and seized him. They dragged him in by the hair, and flung him down on the ground in sore terror, and bound his feet and hands with galling bonds,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "binding them firmly behind his back, as the son of Laertes bade them, the much enduring, goodly Odysseus; and they made fast to his body a twisted rope, and hoisted him up the tall pillar, till they brought him near the roof-beams. Then didst thou mock him, swineherd Eumaeus, and say:"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "“Now verily, Melanthius, shalt thou watch the whole night through, lying on a soft bed, as befits thee, nor shalt thou fail to mark the early Dawn, golden-throned, as she comes forth from the streams of Oceanus, at the hour when thou art wont to drive thy she-goats for the wooers, to prepare a feast in the halls.”"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "So he was left there, stretched in the direful bond, but the two put on their armour, and closed the bright door, and went to Odysseus, the wise and crafty-minded. There they stood, breathing fury, those on the threshold but four, while those within the hall were many and brave."
+    }
+  ]
+}

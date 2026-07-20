@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 42,
+      "greek": "σίγα καὶ κατὰ σὸν νόον ἴσχανε μηδʼ ἐρέεινε·"
+    },
+    {
+      "n": 43,
+      "greek": "αὕτη τοι δίκη ἐστὶ θεῶν, οἳ Ὄλυμπον ἔχουσιν."
+    },
+    {
+      "n": 44,
+      "greek": "ἀλλὰ σὺ μὲν κατάλεξαι, ἐγὼ δʼ ὑπολείψομαι αὐτοῦ,"
+    },
+    {
+      "n": 45,
+      "greek": "ὄφρα κʼ ἔτι δμῳὰς καὶ μητέρα σὴν ἐρεθίζω·"
+    },
+    {
+      "n": 46,
+      "greek": "ἡ δέ μʼ ὀδυρομένη εἰρήσεται ἀμφὶς ἕκαστα."
+    },
+    {
+      "n": 47,
+      "greek": "ὣς φάτο, Τηλέμαχος δὲ διὲκ μεγάροιο βεβήκει"
+    },
+    {
+      "n": 48,
+      "greek": "κείων ἐς θάλαμον, δαΐδων ὕπο λαμπομενάων,"
+    },
+    {
+      "n": 49,
+      "greek": "ἔνθα πάρος κοιμᾶθʼ, ὅτε μιν γλυκὺς ὕπνος ἱκάνοι·"
+    },
+    {
+      "n": 50,
+      "greek": "ἔνθʼ ἄρα καὶ τότʼ ἔλεκτο καὶ Ἠῶ δῖαν ἔμιμνεν."
+    },
+    {
+      "n": 51,
+      "greek": "αὐτὰρ ὁ ἐν μεγάρῳ ὑπελείπετο δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 52,
+      "greek": "μνηστήρεσσι φόνον σὺν Ἀθήνῃ μερμηρίζων."
+    },
+    {
+      "n": 53,
+      "greek": "ἡ δʼ ἴεν ἐκ θαλάμοιο περίφρων Πηνελόπεια,"
+    },
+    {
+      "n": 54,
+      "greek": "Ἀρτέμιδι ἰκέλη ἠὲ χρυσέῃ Ἀφροδίτῃ."
+    },
+    {
+      "n": 55,
+      "greek": "τῇ παρὰ μὲν κλισίην πυρὶ κάτθεσαν, ἔνθʼ ἄρʼ ἐφῖζε,"
+    },
+    {
+      "n": 56,
+      "greek": "δινωτὴν ἐλέφαντι καὶ ἀργύρῳ· ἥν ποτε τέκτων"
+    },
+    {
+      "n": 57,
+      "greek": "ποίησʼ Ἰκμάλιος, καὶ ὑπὸ θρῆνυν ποσὶν ἧκε"
+    },
+    {
+      "n": 58,
+      "greek": "προσφυέʼ ἐξ αὐτῆς, ὅθʼ ἐπὶ μέγα βάλλετο κῶας."
+    },
+    {
+      "n": 59,
+      "greek": "ἔνθα καθέζετʼ ἔπειτα περίφρων Πηνελόπεια."
+    },
+    {
+      "n": 60,
+      "greek": "ἦλθον δὲ δμῳαὶ λευκώλενοι ἐκ μεγάροιο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "that I may stir yet more the minds of the maids and of thy mother; and she with weeping shall ask me of each thing separately.” So he spoke, and Telemachus went forth through the hall by the light of blazing torches to go to his chamber to lie down, where he had heretofore been wont to rest, when sweet sleep came upon him."
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "There now too he lay down and waited for the bright Dawn. But goodly Odysseus was left behind in the hall, planning with Athena's aid the slaying of the wooers. Then wise Penelope came forth from her chamber like unto Artemis or golden Aphrodite,"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "and for her they set by the fire, where she was wont to sit, a chair inlaid with spirals of ivory and silver, which of old the craftsman Icmalius had made, and had set beneath it a foot-stool for the feet, that was part of the chair, and upon it a great fleece was wont to be laid. On this then wise Penelope sat down,"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "and the white-armed maids came forth from the women's hall. These began to take away the abundant food, the tables, and the cups from which the lordly men had been drinking, and they cast the embers from the braziers on to the floor, and piled upon the braziers fresh logs in abundance, to give light and warmth."
+    }
+  ]
+}

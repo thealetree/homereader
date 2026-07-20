@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "οὔ τί σʼ ἀτιμάζουσι θεοί· χαλεπὸν δέ κεν εἴη"
+    },
+    {
+      "n": 142,
+      "greek": "πρεσβύτατον καὶ ἄριστον ἀτιμίῃσιν ἰάλλειν."
+    },
+    {
+      "n": 143,
+      "greek": "ἀνδρῶν δʼ εἴ πέρ τίς σε βίῃ καὶ κάρτεϊ εἴκων"
+    },
+    {
+      "n": 144,
+      "greek": "οὔ τι τίει. σοὶ δʼ ἐστὶ καὶ ἐξοπίσω τίσις αἰεί."
+    },
+    {
+      "n": 145,
+      "greek": "ἔρξον ὅπως ἐθέλεις καί τοι φίλον ἔπλετο θυμῷ."
+    },
+    {
+      "n": 146,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα Ποσειδάων ἐνοσίχθων·"
+    },
+    {
+      "n": 147,
+      "greek": "αἶψά κʼ ἐγὼν ἔρξαιμι, κελαινεφές, ὡς ἀγορεύεις·"
+    },
+    {
+      "n": 148,
+      "greek": "ἀλλὰ σὸν αἰεὶ θυμὸν ὀπίζομαι ἠδʼ ἀλεείνω."
+    },
+    {
+      "n": 149,
+      "greek": "νῦν αὖ Φαιήκων ἐθέλω περικαλλέα νῆα,"
+    },
+    {
+      "n": 150,
+      "greek": "ἐκ πομπῆς ἀνιοῦσαν, ἐν ἠεροειδέϊ πόντῳ"
+    },
+    {
+      "n": 151,
+      "greek": "ῥαῖσαι, ἵνʼ ἤδη σχῶνται, ἀπολλήξωσι δὲ πομπῆς"
+    },
+    {
+      "n": 152,
+      "greek": "ἀνθρώπων, μέγα δέ σφιν ὄρος πόλει ἀμφικαλύψαι."
+    },
+    {
+      "n": 153,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη νεφεληγερέτα Ζεύς·"
+    },
+    {
+      "n": 154,
+      "greek": "ὢ πέπον, ὡς μὲν ἐμῷ θυμῷ δοκεῖ εἶναι ἄριστα,"
+    },
+    {
+      "n": 155,
+      "greek": "ὁππότε κεν δὴ πάντες ἐλαυνομένην προΐδωνται"
+    },
+    {
+      "n": 156,
+      "greek": "λαοὶ ἀπὸ πτόλιος, θεῖναι λίθον ἐγγύθι γαίης"
+    },
+    {
+      "n": 157,
+      "greek": "νηῒ θοῇ ἴκελον, ἵνα θαυμάζωσιν ἅπαντες"
+    },
+    {
+      "n": 158,
+      "greek": "ἄνθρωποι, μέγα δέ σφιν ὄρος πόλει ἀμφικαλύψαι."
+    },
+    {
+      "n": 159,
+      "greek": "αὐτὰρ ἐπεὶ τό γʼ ἄκουσε Ποσειδάων ἐνοσίχθων,"
+    },
+    {
+      "n": 160,
+      "greek": "βῆ ῥʼ ἴμεν ἐς Σχερίην, ὅθι Φαίηκες γεγάασιν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "Do as thou wilt, and as is thy good pleasure.” Then Poseidon, the earth-shaker, answered him: “Straightway should I have done as thou sayest, thou god of the dark clouds, but I ever dread and avoid thy wrath. But now I am minded to smite the fair ship of the Phaeacians,"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "as she comes back from his convoy on the misty deep, that hereafter they may desist and cease from giving convoy to men, and to fling a great mountain about their city.” Then Zeus, the cloud-gatherer, answered him and said: “Lazy one, hear what seems best in my sight."
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "When all the people are looking forth from the city upon her as she speeds on her way, then do thou turn her to stone hard by the land—a stone in the shape of a swift ship, that all men may marvel; and do thou fling a great mountain about their city.” Now when Poseidon, the earth-shaker, heard this"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "he went his way to Scheria, where the Phaeacians dwell, and there he waited. And she drew close to shore, the seafaring ship, speeding swiftly on her way. Then near her came the Earth-shaker and turned her to stone, and rooted her fast beneath by a blow of the flat of his hand, and then he was gone."
+    }
+  ]
+}

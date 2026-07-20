@@ -1,0 +1,129 @@
+{
+  "book": 14,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "αὐτὰρ ὁ ἐκ λιμένος προσέβη τρηχεῖαν ἀταρπὸν"
+    },
+    {
+      "n": 2,
+      "greek": "χῶρον ἀνʼ ὑλήεντα διʼ ἄκριας, ᾗ οἱ Ἀθήνη"
+    },
+    {
+      "n": 3,
+      "greek": "πέφραδε δῖον ὑφορβόν, ὅ οἱ βιότοιο μάλιστα"
+    },
+    {
+      "n": 4,
+      "greek": "κήδετο οἰκήων, οὓς κτήσατο δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 5,
+      "greek": "τὸν δʼ ἄρʼ ἐνὶ προδόμῳ εὗρʼ ἥμενον, ἔνθα οἱ αὐλὴ"
+    },
+    {
+      "n": 6,
+      "greek": "ὑψηλὴ δέδμητο, περισκέπτῳ ἐνὶ χώρῳ,"
+    },
+    {
+      "n": 7,
+      "greek": "καλή τε μεγάλη τε, περίδρομος· ἥν ῥα συβώτης"
+    },
+    {
+      "n": 8,
+      "greek": "αὐτὸς δείμαθʼ ὕεσσιν ἀποιχομένοιο ἄνακτος,"
+    },
+    {
+      "n": 9,
+      "greek": "νόσφιν δεσποίνης καὶ Λαέρταο γέροντος,"
+    },
+    {
+      "n": 10,
+      "greek": "ῥυτοῖσιν λάεσσι καὶ ἐθρίγκωσεν ἀχέρδῳ·"
+    },
+    {
+      "n": 11,
+      "greek": "σταυροὺς δʼ ἐκτὸς ἔλασσε διαμπερὲς ἔνθα καὶ ἔνθα,"
+    },
+    {
+      "n": 12,
+      "greek": "πυκνοὺς καὶ θαμέας, τὸ μέλαν δρυὸς ἀμφικεάσσας·"
+    },
+    {
+      "n": 13,
+      "greek": "ἔντοσθεν δʼ αὐλῆς συφεοὺς δυοκαίδεκα ποίει"
+    },
+    {
+      "n": 14,
+      "greek": "πλησίον ἀλλήλων, εὐνὰς συσίν· ἐν δὲ ἑκάστῳ"
+    },
+    {
+      "n": 15,
+      "greek": "πεντήκοντα σύες χαμαιευνάδες ἐρχατόωντο,"
+    },
+    {
+      "n": 16,
+      "greek": "θήλειαι τοκάδες· τοὶ δʼ ἄρσενες ἐκτὸς ἴαυον,"
+    },
+    {
+      "n": 17,
+      "greek": "πολλὸν παυρότεροι· τοὺς γὰρ μινύθεσκον ἔδοντες"
+    },
+    {
+      "n": 18,
+      "greek": "ἀντίθεοι μνηστῆρες, ἐπεὶ προΐαλλε συβώτης"
+    },
+    {
+      "n": 19,
+      "greek": "αἰεὶ ζατρεφέων σιάλων τὸν ἄριστον ἁπάντων·"
+    },
+    {
+      "n": 20,
+      "greek": "οἱ δὲ τριηκόσιοί τε καὶ ἑξήκοντα πέλοντο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "But Odysseus went forth from the harbor by the rough path up over the woodland and through the heights to the place where Athena had shewed him that he should find the goodly swineherd, who cared for his substance above all the slaves that goodly Odysseus had gotten."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "He found him sitting in the fore-hall of his house, where his court was built high in a place of wide outlook, a great and goodly court with an open space around it. This the swineherd had himself built for the swine of his master, that was gone, without the knowledge of his mistress and the old man Laertes."
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "With huge stones had he built it, and set on it a coping of thorn. Without he had driven stakes the whole length, this way and that, huge stakes, set close together, which he had made by splitting an oak to the black core; and within the court he had made twelve sties close by one another, as beds for the swine, and in each one"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "were penned fifty wallowing swine, females for breeding; but the boars slept without. These were far fewer in numbers, for on them the godlike wooers feasted, and lessened them, for the swineherd ever sent in the best of all the fatted hogs,"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "which numbered three hundred and sixty. By these ever slept four dogs, savage as wild beasts, which the swineherd had reared, a leader of men. But he himself was fitting boots about his feet, cutting an ox-hide of good color, while the others"
+    }
+  ]
+}

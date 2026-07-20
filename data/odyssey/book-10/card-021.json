@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 402,
+      "greek": "ἔρχεο νῦν ἐπὶ νῆα θοὴν καὶ θῖνα θαλάσσης."
+    },
+    {
+      "n": 403,
+      "greek": "νῆα μὲν ἂρ πάμπρωτον ἐρύσσατε ἤπειρόνδε,"
+    },
+    {
+      "n": 404,
+      "greek": "κτήματα δʼ ἐν σπήεσσι πελάσσατε ὅπλα τε πάντα·"
+    },
+    {
+      "n": 405,
+      "greek": "αὐτὸς δʼ ἂψ ἰέναι καὶ ἄγειν ἐρίηρας ἑταίρους."
+    },
+    {
+      "n": 406,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐμοί γʼ ἐπεπείθετο θυμὸς ἀγήνωρ,"
+    },
+    {
+      "n": 407,
+      "greek": "βῆν δʼ ἰέναι ἐπὶ νῆα θοὴν καὶ θῖνα θαλάσσης."
+    },
+    {
+      "n": 408,
+      "greek": "εὗρον ἔπειτʼ ἐπὶ νηὶ θοῇ ἐρίηρας ἑταίρους"
+    },
+    {
+      "n": 409,
+      "greek": "οἴκτρʼ ὀλοφυρομένους, θαλερὸν κατὰ δάκρυ χέοντας."
+    },
+    {
+      "n": 410,
+      "greek": "ὡς δʼ ὅτʼ ἂν ἄγραυλοι πόριες περὶ βοῦς ἀγελαίας,"
+    },
+    {
+      "n": 411,
+      "greek": "ἐλθούσας ἐς κόπρον, ἐπὴν βοτάνης κορέσωνται,"
+    },
+    {
+      "n": 412,
+      "greek": "πᾶσαι ἅμα σκαίρουσιν ἐναντίαι· οὐδʼ ἔτι σηκοὶ"
+    },
+    {
+      "n": 413,
+      "greek": "ἴσχουσʼ, ἀλλʼ ἁδινὸν μυκώμεναι ἀμφιθέουσι·"
+    },
+    {
+      "n": 414,
+      "greek": "μητέρας· ὣς ἔμʼ ἐκεῖνοι ἐπεὶ ἴδον ὀφθαλμοῖσι,"
+    },
+    {
+      "n": 415,
+      "greek": "δακρυόεντες ἔχυντο· δόκησε δʼ ἄρα σφίσι θυμὸς"
+    },
+    {
+      "n": 416,
+      "greek": "ὣς ἔμεν, ὡς εἰ πατρίδʼ ἱκοίατο καὶ πόλιν αὐτὴν"
+    },
+    {
+      "n": 417,
+      "greek": "τρηχείης Ἰθάκης, ἵνα τʼ ἔτραφεν ἠδʼ ἐγένοντο."
+    },
+    {
+      "n": 418,
+      "greek": "καί μʼ ὀλοφυρόμενοι ἔπεα πτερόεντα προσηύδων·"
+    },
+    {
+      "n": 419,
+      "greek": "σοὶ μὲν νοστήσαντι, διοτρεφές, ὣς ἐχάρημεν,"
+    },
+    {
+      "n": 420,
+      "greek": "ὡς εἴ τʼ εἰς Ἰθάκην ἀφικοίμεθα πατρίδα γαῖαν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "Then come back thyself, and bring thy trusty comrades.’ “So she spoke, and my proud heart consented. I went my way to the swift ship and the shore of the sea, and there I found my trusty comrades by the swift ship, wailing piteously, shedding big tears."
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "And as when calves in a farmstead sport about the droves of cows returning to the yard, when they have had their fill of grazing—all together they frisk before them, and the pens no longer hold them, but with constant lowing they run about their mothers—so those men, when their eyes beheld me,"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "thronged about me weeping, and it seemed to their hearts as though they had got to their native land, and the very city of rugged Ithaca, where they were bred and born. And with wailing they spoke to me winged words: “‘At thy return, O thou fostered of Zeus, we are as glad"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "as though we had returned to Ithaca, our native land. But come, tell the fate of the others, our comrades.’ “So they spoke, and I answered them with gentle words: ‘First of all let us draw the ship up on the land, and store our goods and all the tackling in caves."
+    }
+  ]
+}

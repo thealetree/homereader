@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "τούτων σοι φθονέοιμι καὶ οἰκτρότερʼ ἄλλʼ ἀγορεύειν,"
+    },
+    {
+      "n": 382,
+      "greek": "κήδεʼ ἐμῶν ἑτάρων, οἳ δὴ μετόπισθεν ὄλοντο,"
+    },
+    {
+      "n": 383,
+      "greek": "οἳ Τρώων μὲν ὑπεξέφυγον στονόεσσαν ἀυτήν,"
+    },
+    {
+      "n": 384,
+      "greek": "ἐν νόστῳ δʼ ἀπόλοντο κακῆς ἰότητι γυναικός."
+    },
+    {
+      "n": 385,
+      "greek": "αὐτὰρ ἐπεὶ ψυχὰς μὲν ἀπεσκέδασʼ ἄλλυδις ἄλλῃ"
+    },
+    {
+      "n": 386,
+      "greek": "ἁγνὴ Περσεφόνεια γυναικῶν θηλυτεράων,"
+    },
+    {
+      "n": 387,
+      "greek": "ἦλθε δʼ ἐπὶ ψυχὴ Ἀγαμέμνονος Ἀτρεΐδαο"
+    },
+    {
+      "n": 388,
+      "greek": "ἀχνυμένη· περὶ δʼ ἄλλαι ἀγηγέραθʼ, ὅσσοι ἅμʼ αὐτῷ"
+    },
+    {
+      "n": 389,
+      "greek": "οἴκῳ ἐν Αἰγίσθοιο θάνον καὶ πότμον ἐπέσπον."
+    },
+    {
+      "n": 390,
+      "greek": "ἔγνω δʼ αἶψʼ ἔμʼ ἐκεῖνος, ἐπεὶ πίεν αἷμα κελαινόν·"
+    },
+    {
+      "n": 391,
+      "greek": "κλαῖε δʼ ὅ γε λιγέως, θαλερὸν κατὰ δάκρυον εἴβων,"
+    },
+    {
+      "n": 392,
+      "greek": "πιτνὰς εἰς ἐμὲ χεῖρας, ὀρέξασθαι μενεαίνων·"
+    },
+    {
+      "n": 393,
+      "greek": "ἀλλʼ οὐ γάρ οἱ ἔτʼ ἦν ἲς ἔμπεδος οὐδέ τι κῖκυς,"
+    },
+    {
+      "n": 394,
+      "greek": "οἵη περ πάρος ἔσκεν ἐνὶ γναμπτοῖσι μέλεσσι."
+    },
+    {
+      "n": 395,
+      "greek": "τὸν μὲν ἐγὼ δάκρυσα ἰδὼν ἐλέησά τε θυμῷ,"
+    },
+    {
+      "n": 396,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδων·"
+    },
+    {
+      "n": 397,
+      "greek": "Ἀτρεΐδη κύδιστε, ἄναξ ἀνδρῶν Ἀγάμεμνον,"
+    },
+    {
+      "n": 398,
+      "greek": "τίς νύ σε κὴρ ἐδάμασσε τανηλεγέος θανάτοιο;"
+    },
+    {
+      "n": 399,
+      "greek": "ἦε σέ γʼ ἐν νήεσσι Ποσειδάων ἐδάμασσεν"
+    },
+    {
+      "n": 400,
+      "greek": "ὄρσας ἀργαλέων ἀνέμων ἀμέγαρτον ἀυτμήν;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "“When then holy Persephone had scattered this way and that the spirits of the women, there came up the spirit of Agamemnon, son of Atreus, sorrowing; and round about him others were gathered, spirits of all those who were slain with him in the house of Aegisthus, and met their fate."
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "He knew me straightway, when he had drunk the dark blood, and he wept aloud, and shed big tears, and stretched forth his hands toward me eager to reach me. But no longer had he aught of strength or might remaining such as of old was in his supple limbs."
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "“When I saw him I wept, and my heart had compassion on him, and I spoke, and addressed him with winged words: ‘Most glorious son of Atreus, king of men, Agamemnon, what fate of grievous death overcame thee? Did Poseidon smite thee on board thy ships,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "when he had roused a furious blast of cruel winds? Or did foemen work thee harm on the land, while thou wast cutting off their cattle and fair flocks of sheep, or wast fighting to win their city and their women?’ “So I spoke, and he straightway made answer and said:"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "Φοίβου Ἀπόλλωνος. ὁ δέ μοι πόρεν ἀγλαὰ δῶρα·"
+    },
+    {
+      "n": 202,
+      "greek": "χρυσοῦ μέν μοι ἔδωκʼ ἐυεργέος ἑπτὰ τάλαντα,"
+    },
+    {
+      "n": 203,
+      "greek": "δῶκε δέ μοι κρητῆρα πανάργυρον, αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 204,
+      "greek": "οἶνον ἐν ἀμφιφορεῦσι δυώδεκα πᾶσιν ἀφύσσας"
+    },
+    {
+      "n": 205,
+      "greek": "ἡδὺν ἀκηράσιον, θεῖον ποτόν· οὐδέ τις αὐτὸν"
+    },
+    {
+      "n": 206,
+      "greek": "ἠείδη δμώων οὐδʼ ἀμφιπόλων ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 207,
+      "greek": "ἀλλʼ αὐτὸς ἄλοχός τε φίλη ταμίη τε μίʼ οἴη."
+    },
+    {
+      "n": 208,
+      "greek": "τὸν δʼ ὅτε πίνοιεν μελιηδέα οἶνον ἐρυθρόν,"
+    },
+    {
+      "n": 209,
+      "greek": "ἓν δέπας ἐμπλήσας ὕδατος ἀνὰ εἴκοσι μέτρα"
+    },
+    {
+      "n": 210,
+      "greek": "χεῦʼ, ὀδμὴ δʼ ἡδεῖα ἀπὸ κρητῆρος ὀδώδει"
+    },
+    {
+      "n": 211,
+      "greek": "θεσπεσίη· τότʼ ἂν οὔ τοι ἀποσχέσθαι φίλον ἦεν."
+    },
+    {
+      "n": 212,
+      "greek": "τοῦ φέρον ἐμπλήσας ἀσκὸν μέγαν, ἐν δὲ καὶ ᾖα"
+    },
+    {
+      "n": 213,
+      "greek": "κωρύκῳ· αὐτίκα γάρ μοι ὀίσατο θυμὸς ἀγήνωρ"
+    },
+    {
+      "n": 214,
+      "greek": "ἄνδρʼ ἐπελεύσεσθαι μεγάλην ἐπιειμένον ἀλκήν,"
+    },
+    {
+      "n": 215,
+      "greek": "ἄγριον, οὔτε δίκας ἐὺ εἰδότα οὔτε θέμιστας."
+    },
+    {
+      "n": 216,
+      "greek": "καρπαλίμως δʼ εἰς ἄντρον ἀφικόμεθʼ, οὐδέ μιν ἔνδον"
+    },
+    {
+      "n": 217,
+      "greek": "εὕρομεν, ἀλλʼ ἐνόμευε νομὸν κάτα πίονα μῆλα."
+    },
+    {
+      "n": 218,
+      "greek": "ἐλθόντες δʼ εἰς ἄντρον ἐθηεύμεσθα ἕκαστα."
+    },
+    {
+      "n": 219,
+      "greek": "ταρσοὶ μὲν τυρῶν βρῖθον, στείνοντο δὲ σηκοὶ"
+    },
+    {
+      "n": 220,
+      "greek": "ἀρνῶν ἠδʼ ἐρίφων· διακεκριμέναι δὲ ἕκασται"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "wine sweet and unmixed, a drink divine. Not one of his slaves nor of the maids in his halls knew thereof, but himself and his dear wife, and one house-dame only. And as often as they drank that honey-sweet red wine he would fill one cup and pour it into twenty measures of water,"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "and a smell would rise from the mixing-bowl marvellously sweet; then verily would one not choose to hold back. With this wine I filled and took with me a great skin, and also provision in a scrip; for my proud spirit had a foreboding that presently a man would come to me clothed in great might,"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "a savage man that knew naught of justice or of law. “Speedily we came to the cave, nor did we find him within, but he was pasturing his fat flocks in the fields. So we entered the cave and gazed in wonder at all things there. The crates were laden with cheeses, and the pens were crowded"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "with lambs and kids. Each kind was penned separately: by themselves the firstlings, by themselves the later lambs, and by themselves again the newly weaned. And with whey were swimming all the well-wrought vessels, the milk-pails and the bowls into which he milked. Then my comrades spoke and besought me first of all"
+    }
+  ]
+}

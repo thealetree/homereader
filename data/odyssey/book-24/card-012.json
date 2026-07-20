@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "ἆσσον ἴεν πολυκάρπου ἀλωῆς πειρητίζων."
+    },
+    {
+      "n": 222,
+      "greek": "οὐδʼ εὗρεν Δολίον, μέγαν ὄρχατον ἐσκαταβαίνων,"
+    },
+    {
+      "n": 223,
+      "greek": "οὐδέ τινα δμώων οὐδʼ υἱῶν· ἀλλʼ ἄρα τοί γε"
+    },
+    {
+      "n": 224,
+      "greek": "αἱμασιὰς λέξοντες ἀλωῆς ἔμμεναι ἕρκος"
+    },
+    {
+      "n": 225,
+      "greek": "ᾤχοντʼ, αὐτὰρ ὁ τοῖσι γέρων ὁδὸν ἡγεμόνευε."
+    },
+    {
+      "n": 226,
+      "greek": "τὸν δʼ οἶον πατέρʼ εὗρεν ἐϋκτιμένῃ ἐν ἀλωῇ,"
+    },
+    {
+      "n": 227,
+      "greek": "λιστρεύοντα φυτόν· ῥυπόωντα δὲ ἕστο χιτῶνα"
+    },
+    {
+      "n": 228,
+      "greek": "ῥαπτὸν ἀεικέλιον, περὶ δὲ κνήμῃσι βοείας"
+    },
+    {
+      "n": 229,
+      "greek": "κνημῖδας ῥαπτὰς δέδετο, γραπτῦς ἀλεείνων,"
+    },
+    {
+      "n": 230,
+      "greek": "χειρῖδάς τʼ ἐπὶ χερσὶ βάτων ἕνεκʼ· αὐτὰρ ὕπερθεν"
+    },
+    {
+      "n": 231,
+      "greek": "αἰγείην κυνέην κεφαλῇ ἔχε, πένθος ἀέξων."
+    },
+    {
+      "n": 232,
+      "greek": "τὸν δʼ ὡς οὖν ἐνόησε πολύτλας δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 233,
+      "greek": "γήραϊ τειρόμενον, μέγα δὲ φρεσὶ πένθος ἔχοντα,"
+    },
+    {
+      "n": 234,
+      "greek": "στὰς ἄρʼ ὑπὸ βλωθρὴν ὄγχνην κατὰ δάκρυον εἶβε."
+    },
+    {
+      "n": 235,
+      "greek": "μερμήριξε δʼ ἔπειτα κατὰ φρένα καὶ κατὰ θυμὸν"
+    },
+    {
+      "n": 236,
+      "greek": "κύσσαι καὶ περιφῦναι ἑὸν πατέρʼ, ἠδὲ ἕκαστα"
+    },
+    {
+      "n": 237,
+      "greek": "εἰπεῖν, ὡς ἔλθοι καὶ ἵκοιτʼ ἐς πατρίδα γαῖαν,"
+    },
+    {
+      "n": 238,
+      "greek": "ἦ πρῶτʼ ἐξερέοιτο ἕκαστά τε πειρήσαιτο."
+    },
+    {
+      "n": 239,
+      "greek": "ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι,"
+    },
+    {
+      "n": 240,
+      "greek": "πρῶτον κερτομίοις ἐπέεσσιν πειρηθῆναι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "they had gone to gather stones for the vineyard wall, and the old man was their leader. But he found his father alone in the well-ordered vineyard, digging about a plant; and he was clothed in a foul tunic, patched and wretched, and about his shins he had bound stitched greaves of ox-hide to guard against scratches,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "and he wore gloves upon his hands because of the thorns, and on his head a goatskin cap; and he nursed his sorrow. Now when the much-enduring, goodly Odysseus saw him, worn with old age and laden with great grief at heart, he stood still beneath a tall pear tree, and shed tears."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "Then he debated in mind and heart whether to kiss and embrace his father, and tell him all, how he had returned and come to his native land, or whether he should first question him, and prove him in each thing. And, as he pondered, this seemed to him the better course,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "to prove him first with mocking words. So with this in mind the goodly Odysseus went straight toward him. He verily was holding his head down, digging about a plant, and his glorious son came up to him, and addressed him, saying: “Old man, no lack of skill hast thou to tend"
+    }
+  ]
+}

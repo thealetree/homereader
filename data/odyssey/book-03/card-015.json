@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "πηδάλιον μετὰ χερσὶ θεούσης νηὸς ἔχοντα,"
+    },
+    {
+      "n": 282,
+      "greek": "Φρόντιν Ὀνητορίδην, ὃς ἐκαίνυτο φῦλʼ ἀνθρώπων"
+    },
+    {
+      "n": 283,
+      "greek": "νῆα κυβερνῆσαι, ὁπότε σπέρχοιεν ἄελλαι."
+    },
+    {
+      "n": 284,
+      "greek": "ὣς ὁ μὲν ἔνθα κατέσχετʼ, ἐπειγόμενός περ ὁδοῖο,"
+    },
+    {
+      "n": 285,
+      "greek": "ὄφρʼ ἕταρον θάπτοι καὶ ἐπὶ κτέρεα κτερίσειεν."
+    },
+    {
+      "n": 286,
+      "greek": "ἀλλʼ ὅτε δὴ καὶ κεῖνος ἰὼν ἐπὶ οἴνοπα πόντον"
+    },
+    {
+      "n": 287,
+      "greek": "ἐν νηυσὶ γλαφυρῇσι Μαλειάων ὄρος αἰπὺ"
+    },
+    {
+      "n": 288,
+      "greek": "ἷξε θέων, τότε δὴ στυγερὴν ὁδὸν εὐρύοπα Ζεὺς"
+    },
+    {
+      "n": 289,
+      "greek": "ἐφράσατο, λιγέων δʼ ἀνέμων ἐπʼ ἀυτμένα χεῦε,"
+    },
+    {
+      "n": 290,
+      "greek": "κύματά τε τροφέοντο πελώρια, ἶσα ὄρεσσιν."
+    },
+    {
+      "n": 291,
+      "greek": "ἔνθα διατμήξας τὰς μὲν Κρήτῃ ἐπέλασσεν,"
+    },
+    {
+      "n": 292,
+      "greek": "ἧχι Κύδωνες ἔναιον Ἰαρδάνου ἀμφὶ ῥέεθρα."
+    },
+    {
+      "n": 293,
+      "greek": "ἔστι δέ τις λισσὴ αἰπεῖά τε εἰς ἅλα πέτρη"
+    },
+    {
+      "n": 294,
+      "greek": "ἐσχατιῇ Γόρτυνος ἐν ἠεροειδέι πόντῳ·"
+    },
+    {
+      "n": 295,
+      "greek": "ἔνθα Νότος μέγα κῦμα ποτὶ σκαιὸν ῥίον ὠθεῖ,"
+    },
+    {
+      "n": 296,
+      "greek": "ἐς Φαιστόν, μικρὸς δὲ λίθος μέγα κῦμʼ ἀποέργει."
+    },
+    {
+      "n": 297,
+      "greek": "αἱ μὲν ἄρʼ ἔνθʼ ἦλθον, σπουδῇ δʼ ἤλυξαν ὄλεθρον"
+    },
+    {
+      "n": 298,
+      "greek": "ἄνδρες, ἀτὰρ νῆάς γε ποτὶ σπιλάδεσσιν ἔαξαν"
+    },
+    {
+      "n": 299,
+      "greek": "κύματʼ· ἀτὰρ τὰς πέντε νέας κυανοπρῳρείους"
+    },
+    {
+      "n": 300,
+      "greek": "Αἰγύπτῳ ἐπέλασσε φέρων ἄνεμός τε καὶ ὕδωρ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "that he might bury his comrade and over him pay funeral rites. But when he in his turn, as he passed over the wine-dark sea in the hollow ships, reached in swift course the steep height of Malea, then verily Zeus, whose voice is borne afar, planned for him a hateful path and poured upon him the blasts of shrill winds,"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "and the waves were swollen to huge size, like unto mountains. Then, parting his ships in twain, he brought some to Crete, where the Cydonians dwelt about the streams of Iardanus. Now there is a smooth cliff, sheer towards the sea, on the border of Gortyn in the misty deep,"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "where the Southwest Wind drives the great wave against the headland on the left toward Phaestus, and a little rock holds back a great wave. Thither came some of his ships, and the men with much ado escaped destruction, howbeit the ships the waves dashed to pieces against the reef. But the five other dark-prowed ships"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "the wind, as it bore them, and the wave brought to Egypt. So he was wandering there with his ships among men of strange speech, gathering much livelihood and gold; but meanwhile Aegisthus devised this woeful work at home."
+    }
+  ]
+}

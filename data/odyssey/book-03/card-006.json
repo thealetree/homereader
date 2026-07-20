@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "τῶν νῦν μοι μνῆσαι, καί μοι νημερτὲς ἐνίσπες."
+    },
+    {
+      "n": 102,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα Γερήνιος ἱππότα Νέστωρ·"
+    },
+    {
+      "n": 103,
+      "greek": "ὦ φίλʼ, ἐπεί μʼ ἔμνησας ὀιζύος, ἣν ἐν ἐκείνῳ"
+    },
+    {
+      "n": 104,
+      "greek": "δήμῳ ἀνέτλημεν μένος ἄσχετοι υἷες Ἀχαιῶν,"
+    },
+    {
+      "n": 105,
+      "greek": "ἠμὲν ὅσα ξὺν νηυσὶν ἐπʼ ἠεροειδέα πόντον"
+    },
+    {
+      "n": 106,
+      "greek": "πλαζόμενοι κατὰ ληίδʼ, ὅπῃ ἄρξειεν Ἀχιλλεύς,"
+    },
+    {
+      "n": 107,
+      "greek": "ἠδʼ ὅσα καὶ περὶ ἄστυ μέγα Πριάμοιο ἄνακτος"
+    },
+    {
+      "n": 108,
+      "greek": "μαρνάμεθʼ· ἔνθα δʼ ἔπειτα κατέκταθεν ὅσσοι ἄριστοι."
+    },
+    {
+      "n": 109,
+      "greek": "ἔνθα μὲν Αἴας κεῖται ἀρήιος, ἔνθα δʼ Ἀχιλλεύς,"
+    },
+    {
+      "n": 110,
+      "greek": "ἔνθα δὲ Πάτροκλος, θεόφιν μήστωρ ἀτάλαντος,"
+    },
+    {
+      "n": 111,
+      "greek": "ἔνθα δʼ ἐμὸς φίλος υἱός, ἅμα κρατερὸς καὶ ἀμύμων,"
+    },
+    {
+      "n": 112,
+      "greek": "Ἀντίλοχος, πέρι μὲν θείειν ταχὺς ἠδὲ μαχητής·"
+    },
+    {
+      "n": 113,
+      "greek": "ἄλλα τε πόλλʼ ἐπὶ τοῖς πάθομεν κακά· τίς κεν ἐκεῖνα"
+    },
+    {
+      "n": 114,
+      "greek": "πάντα γε μυθήσαιτο καταθνητῶν ἀνθρώπων;"
+    },
+    {
+      "n": 115,
+      "greek": "οὐδʼ εἰ πεντάετές γε καὶ ἑξάετες παραμίμνων"
+    },
+    {
+      "n": 116,
+      "greek": "ἐξερέοις ὅσα κεῖθι πάθον κακὰ δῖοι Ἀχαιοί·"
+    },
+    {
+      "n": 117,
+      "greek": "πρίν κεν ἀνιηθεὶς σὴν πατρίδα γαῖαν ἵκοιο."
+    },
+    {
+      "n": 118,
+      "greek": "εἰνάετες γάρ σφιν κακὰ ῥάπτομεν ἀμφιέποντες"
+    },
+    {
+      "n": 119,
+      "greek": "παντοίοισι δόλοισι, μόγις δʼ ἐτέλεσσε Κρονίων."
+    },
+    {
+      "n": 120,
+      "greek": "ἔνθʼ οὔ τίς ποτε μῆτιν ὁμοιωθήμεναι ἄντην"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "all that we endured on shipboard, as we roamed after booty over the misty deep whithersoever Achilles led; and all our fightings around the great city of king Priam;—lo, there all our best were slain. There lies warlike Aias, there Achilles,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "there Patroclus, the peer of the gods in counsel; and there my own dear son, strong alike and peerless, Antilochus, pre-eminent in speed of foot and as a warrior. Aye, and many other ills we suffered besides these; who of mortal men could tell them all?"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "Nay, if for five years' space or six years' space thou wert to abide here, and ask of all the woes which the goodly Achaeans endured there, thou wouldest grow weary ere the end and get thee back to thy native land. For nine years' space were we busied plotting their ruin with all manner of wiles; and hardly did the son of Cronos bring it to pass."
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "There no man ventured to vie with him in counsel, since goodly Odysseus far excelled in all manner of wiles,—thy father, if indeed thou art his son. Amazement holds me as I look on thee, for verily thy speech is like his; nor would one think"
+    }
+  ]
+}

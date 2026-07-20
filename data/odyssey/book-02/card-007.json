@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "τάων οὔ τις ὁμοῖα νοήματα Πηνελοπείῃ"
+    },
+    {
+      "n": 122,
+      "greek": "ᾔδη· ἀτὰρ μὲν τοῦτό γʼ ἐναίσιμον οὐκ ἐνόησε."
+    },
+    {
+      "n": 123,
+      "greek": "τόφρα γὰρ οὖν βίοτόν τε τεὸν καὶ κτήματʼ ἔδονται,"
+    },
+    {
+      "n": 124,
+      "greek": "ὄφρα κε κείνη τοῦτον ἔχῃ νόον, ὅν τινά οἱ νῦν"
+    },
+    {
+      "n": 125,
+      "greek": "ἐν στήθεσσι τιθεῖσι θεοί. μέγα μὲν κλέος αὐτῇ"
+    },
+    {
+      "n": 126,
+      "greek": "ποιεῖτʼ, αὐτὰρ σοί γε ποθὴν πολέος βιότοιο."
+    },
+    {
+      "n": 127,
+      "greek": "ἡμεῖς δʼ οὔτʼ ἐπὶ ἔργα πάρος γʼ ἴμεν οὔτε πῃ ἄλλῃ,"
+    },
+    {
+      "n": 128,
+      "greek": "πρίν γʼ αὐτὴν γήμασθαι Ἀχαιῶν ᾧ κʼ ἐθέλῃσι."
+    },
+    {
+      "n": 129,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 130,
+      "greek": "Ἀντίνοʼ, οὔ πως ἔστι δόμων ἀέκουσαν ἀπῶσαι"
+    },
+    {
+      "n": 131,
+      "greek": "ἥ μʼ ἔτεχʼ, ἥ μʼ ἔθρεψε· πατὴρ δʼ ἐμὸς ἄλλοθι γαίης,"
+    },
+    {
+      "n": 132,
+      "greek": "ζώει ὅ γʼ ἦ τέθνηκε· κακὸν δέ με πόλλʼ ἀποτίνειν"
+    },
+    {
+      "n": 133,
+      "greek": "Ἰκαρίῳ, αἴ κʼ αὐτὸς ἑκὼν ἀπὸ μητέρα πέμψω."
+    },
+    {
+      "n": 134,
+      "greek": "ἐκ γὰρ τοῦ πατρὸς κακὰ πείσομαι, ἄλλα δὲ δαίμων"
+    },
+    {
+      "n": 135,
+      "greek": "δώσει, ἐπεὶ μήτηρ στυγερὰς ἀρήσετʼ ἐρινῦς"
+    },
+    {
+      "n": 136,
+      "greek": "οἴκου ἀπερχομένη· νέμεσις δέ μοι ἐξ ἀνθρώπων"
+    },
+    {
+      "n": 137,
+      "greek": "ἔσσεται· ὣς οὐ τοῦτον ἐγώ ποτε μῦθον ἐνίψω."
+    },
+    {
+      "n": 138,
+      "greek": "ὑμέτερος δʼ εἰ μὲν θυμὸς νεμεσίζεται αὐτῶν,"
+    },
+    {
+      "n": 139,
+      "greek": "ἔξιτέ μοι μεγάρων, ἄλλας δʼ ἀλεγύνετε δαῖτας"
+    },
+    {
+      "n": 140,
+      "greek": "ὑμὰ κτήματʼ ἔδοντες ἀμειβόμενοι κατὰ οἴκους."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "the gods now put in her heart. Great fame she brings on herself, but on thee regret for thy much substance. For us, we will go neither to our lands nor else whither, until she marries that one of the Achaeans whom she will.” Then wise Telemachus answered him, and said:"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "“Antinous, in no wise may I thrust forth from the house against her will her that bore me and reared me; and, as for my father, he is in some other land, whether he be alive or dead. An evil thing it were for me to pay back a great price to Icarius, as I must, if of my own will I send my mother away. For from her father's hand shall I suffer evil, and heaven"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "will send other ills besides, for my mother as she leaves the house will invoke the dread Avengers; and I shall have blame, too, from men. Therefore will I never speak this word. And for you, if your own heart is wroth here at, get you forth from my halls and prepare you other feasts,"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "eating your own substance and changing from house to house. But if this seems in your eyes to be a better and more profitable thing, that one man's livelihood should be ruined without atonement, waste ye it. But I will call upon the gods that are forever, if haply Zeus may grant that deeds of requital may be wrought."
+    }
+  ]
+}

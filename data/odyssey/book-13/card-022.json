@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "μὴ δή τοι κεῖνός γε λίην ἐνθύμιος ἔστω."
+    },
+    {
+      "n": 422,
+      "greek": "αὐτή μιν πόμπευον, ἵνα κλέος ἐσθλὸν ἄροιτο"
+    },
+    {
+      "n": 423,
+      "greek": "κεῖσʼ ἐλθών· ἀτὰρ οὔ τινʼ ἔχει πόνον, ἀλλὰ ἕκηλος"
+    },
+    {
+      "n": 424,
+      "greek": "ἧσται ἐν Ἀτρεΐδαο δόμοις, παρὰ δʼ ἄσπετα κεῖται."
+    },
+    {
+      "n": 425,
+      "greek": "ἦ μέν μιν λοχόωσι νέοι σὺν νηῒ μελαίνῃ,"
+    },
+    {
+      "n": 426,
+      "greek": "ἱέμενοι κτεῖναι, πρὶν πατρίδα γαῖαν ἱκέσθαι·"
+    },
+    {
+      "n": 427,
+      "greek": "ἀλλὰ τά γʼ οὐκ ὀΐω, πρὶν καί τινα γαῖα καθέξει"
+    },
+    {
+      "n": 428,
+      "greek": "ἀνδρῶν μνηστήρων, οἵ τοι βίοτον κατέδουσιν."
+    },
+    {
+      "n": 429,
+      "greek": "ὣς ἄρα μιν φαμένη ῥάβδῳ ἐπεμάσσατʼ Ἀθήνη."
+    },
+    {
+      "n": 430,
+      "greek": "κάρψεν μὲν χρόα καλὸν ἐνὶ γναμπτοῖσι μέλεσσι,"
+    },
+    {
+      "n": 431,
+      "greek": "ξανθὰς δʼ ἐκ κεφαλῆς ὄλεσε τρίχας, ἀμφὶ δὲ δέρμα"
+    },
+    {
+      "n": 432,
+      "greek": "πάντεσσιν μελέεσσι παλαιοῦ θῆκε γέροντος,"
+    },
+    {
+      "n": 433,
+      "greek": "κνύζωσεν δέ οἱ ὄσσε πάρος περικαλλέʼ ἐόντε·"
+    },
+    {
+      "n": 434,
+      "greek": "ἀμφὶ δέ μιν ῥάκος ἄλλο κακὸν βάλεν ἠδὲ χιτῶνα,"
+    },
+    {
+      "n": 435,
+      "greek": "ῥωγαλέα ῥυπόωντα, κακῷ μεμορυγμένα καπνῷ·"
+    },
+    {
+      "n": 436,
+      "greek": "ἀμφὶ δέ μιν μέγα δέρμα ταχείης ἕσσʼ ἐλάφοιο,"
+    },
+    {
+      "n": 437,
+      "greek": "ψιλόν· δῶκε δέ οἱ σκῆπτρον καὶ ἀεικέα πήρην,"
+    },
+    {
+      "n": 438,
+      "greek": "πυκνὰ ῥωγαλέην· ἐν δὲ στρόφος ἦεν ἀορτήρ."
+    },
+    {
+      "n": 439,
+      "greek": "τώ γʼ ὣς βουλεύσαντε διέτμαγεν. ἡ μὲν ἔπειτα"
+    },
+    {
+      "n": 440,
+      "greek": "ἐς Λακεδαίμονα δῖαν ἔβη μετὰ παῖδʼ Ὀδυσῆος."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "Truly young men in a black ship lie in wait for him, eager to slay him before he comes to his native land, but methinks this shall not be. Ere that shall the earth cover many a one of the wooers that devour thy substance.” So saying, Athena touched him with her wand."
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "She withered the fair flesh on his supple limbs, and destroyed the flaxen hair from off his head, and about all his limbs she put the skin of an aged old man. And she dimmed his two eyes that were before so beautiful, and clothed him in other raiment,"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "a vile ragged cloak and a tunic, tattered garments and foul, begrimed with filthy smoke. And about him she cast the great skin of a swift hind, stripped of the hair, and she gave him a staff, and a miserable wallet, full of holes, slung by a twisted cord. So when the two had thus taken counsel together, they parted; and thereupon the goddess"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "went to goodly Lacedaemon to fetch the son of Odysseus."
+    }
+  ]
+}

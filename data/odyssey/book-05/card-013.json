@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "αὐτὰρ ἐπεὶ δὴ δεῖξʼ, ὅθι δένδρεα μακρὰ πεφύκει,"
+    },
+    {
+      "n": 242,
+      "greek": "ἡ μὲν ἔβη πρὸς δῶμα Καλυψώ, δῖα θεάων,"
+    },
+    {
+      "n": 243,
+      "greek": "αὐτὰρ ὁ τάμνετο δοῦρα· θοῶς δέ οἱ ἤνυτο ἔργον."
+    },
+    {
+      "n": 244,
+      "greek": "εἴκοσι δʼ ἔκβαλε πάντα, πελέκκησεν δʼ ἄρα χαλκῷ,"
+    },
+    {
+      "n": 245,
+      "greek": "ξέσσε δʼ ἐπισταμένως καὶ ἐπὶ στάθμην ἴθυνεν."
+    },
+    {
+      "n": 246,
+      "greek": "τόφρα δʼ ἔνεικε τέρετρα Καλυψώ, δῖα θεάων·"
+    },
+    {
+      "n": 247,
+      "greek": "τέτρηνεν δʼ ἄρα πάντα καὶ ἥρμοσεν ἀλλήλοισιν,"
+    },
+    {
+      "n": 248,
+      "greek": "γόμφοισιν δʼ ἄρα τήν γε καὶ ἁρμονίῃσιν ἄρασσεν."
+    },
+    {
+      "n": 249,
+      "greek": "ὅσσον τίς τʼ ἔδαφος νηὸς τορνώσεται ἀνὴρ"
+    },
+    {
+      "n": 250,
+      "greek": "φορτίδος εὐρείης, ἐὺ εἰδὼς τεκτοσυνάων,"
+    },
+    {
+      "n": 251,
+      "greek": "τόσσον ἔπʼ εὐρεῖαν σχεδίην ποιήσατʼ Ὀδυσσεύς."
+    },
+    {
+      "n": 252,
+      "greek": "ἴκρια δὲ στήσας, ἀραρὼν θαμέσι σταμίνεσσι,"
+    },
+    {
+      "n": 253,
+      "greek": "ποίει· ἀτὰρ μακρῇσιν ἐπηγκενίδεσσι τελεύτα."
+    },
+    {
+      "n": 254,
+      "greek": "ἐν δʼ ἱστὸν ποίει καὶ ἐπίκριον ἄρμενον αὐτῷ·"
+    },
+    {
+      "n": 255,
+      "greek": "πρὸς δʼ ἄρα πηδάλιον ποιήσατο, ὄφρʼ ἰθύνοι."
+    },
+    {
+      "n": 256,
+      "greek": "φράξε δέ μιν ῥίπεσσι διαμπερὲς οἰσυΐνῃσι"
+    },
+    {
+      "n": 257,
+      "greek": "κύματος εἶλαρ ἔμεν· πολλὴν δʼ ἐπεχεύατο ὕλην."
+    },
+    {
+      "n": 258,
+      "greek": "τόφρα δὲ φάρεʼ ἔνεικε Καλυψώ, δῖα θεάων,"
+    },
+    {
+      "n": 259,
+      "greek": "ἱστία ποιήσασθαι· ὁ δʼ εὖ τεχνήσατο καὶ τά."
+    },
+    {
+      "n": 260,
+      "greek": "ἐν δʼ ὑπέρας τε κάλους τε πόδας τʼ ἐνέδησεν ἐν αὐτῇ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "then he cunningly smoothed them all and made them straight to the line. Meanwhile Calypso, the beautiful goddess, brought him augers; and he bored all the pieces and fitted them to one another, and with pegs and morticings did he hammer it together. Wide as a man well-skilled in carpentry marks out the curve of the hull of a freight-ship,"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "broad of beam, even so wide did Odysseus make his raft. And he set up the deck-beams, bolting them to the close-set ribs, and laboured on; and he finished the raft with long gunwales. In it he set a mast and a yard-arm, fitted to it,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "and furthermore made him a steering-oar, wherewith to steer. Then he fenced in the whole from stem to stern with willow withes to be a defence against the wave, and strewed much brush thereon. Meanwhile Calypso, the beautiful goddess, brought him cloth to make him a sail, and he fashioned that too with skill."
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "And he made fast in the raft braces and halyards and sheets, and then with levers forced it down into the bright sea. Now the fourth day came and all his work was done. And on the fifth the beautiful Calypso sent him on his way from the island after she had bathed him and clothed him in fragrant raiment."
+    }
+  ]
+}

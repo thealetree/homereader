@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 29,
+  "lineStart": 561,
+  "lineEnd": 580,
+  "lines": [
+    {
+      "n": 561,
+      "greek": "ἀλλʼ ἄγε δεῦρο, ἄναξ, ἵνʼ ἔπος καὶ μῦθον ἀκούσῃς"
+    },
+    {
+      "n": 562,
+      "greek": "ἡμέτερον· δάμασον δὲ μένος καὶ ἀγήνορα θυμόν."
+    },
+    {
+      "n": 563,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ οὐδὲν ἀμείβετο, βῆ δὲ μετʼ ἄλλας"
+    },
+    {
+      "n": 564,
+      "greek": "ψυχὰς εἰς Ἔρεβος νεκύων κατατεθνηώτων."
+    },
+    {
+      "n": 565,
+      "greek": "ἔνθα χʼ ὅμως προσέφη κεχολωμένος, ἤ κεν ἐγὼ τόν·"
+    },
+    {
+      "n": 566,
+      "greek": "ἀλλά μοι ἤθελε θυμὸς ἐνὶ στήθεσσι φίλοισι"
+    },
+    {
+      "n": 567,
+      "greek": "τῶν ἄλλων ψυχὰς ἰδέειν κατατεθνηώτων."
+    },
+    {
+      "n": 568,
+      "greek": "ἔνθʼ ἦ τοι Μίνωα ἴδον, Διὸς ἀγλαὸν υἱόν,"
+    },
+    {
+      "n": 569,
+      "greek": "χρύσεον σκῆπτρον ἔχοντα, θεμιστεύοντα νέκυσσιν,"
+    },
+    {
+      "n": 570,
+      "greek": "ἥμενον, οἱ δέ μιν ἀμφὶ δίκας εἴροντο ἄνακτα,"
+    },
+    {
+      "n": 571,
+      "greek": "ἥμενοι ἑσταότες τε κατʼ εὐρυπυλὲς Ἄϊδος δῶ."
+    },
+    {
+      "n": 572,
+      "greek": "τὸν δὲ μετʼ Ὠρίωνα πελώριον εἰσενόησα"
+    },
+    {
+      "n": 573,
+      "greek": "θῆρας ὁμοῦ εἰλεῦντα κατʼ ἀσφοδελὸν λειμῶνα,"
+    },
+    {
+      "n": 574,
+      "greek": "τοὺς αὐτὸς κατέπεφνεν ἐν οἰοπόλοισιν ὄρεσσι"
+    },
+    {
+      "n": 575,
+      "greek": "χερσὶν ἔχων ῥόπαλον παγχάλκεον, αἰὲν ἀαγές."
+    },
+    {
+      "n": 576,
+      "greek": "καὶ Τιτυὸν εἶδον, Γαίης ἐρικυδέος υἱόν,"
+    },
+    {
+      "n": 577,
+      "greek": "κείμενον ἐν δαπέδῳ· ὁ δʼ ἐπʼ ἐννέα κεῖτο πέλεθρα,"
+    },
+    {
+      "n": 578,
+      "greek": "γῦπε δέ μιν ἑκάτερθε παρημένω ἧπαρ ἔκειρον,"
+    },
+    {
+      "n": 579,
+      "greek": "δέρτρον ἔσω δύνοντες, ὁ δʼ οὐκ ἀπαμύνετο χερσί·"
+    },
+    {
+      "n": 580,
+      "greek": "Λητὼ γὰρ ἕλκησε, Διὸς κυδρὴν παράκοιτιν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        565,
+        569
+      ],
+      "text": "Then would he nevertheless have spoken to me for all his wrath, or I to him, but the heart in my breast was fain to see the spirits of those others that are dead. “There then I saw Minos, the glorious son of Zeus, golden sceptre in hand, giving judgment to the dead"
+    },
+    {
+      "lines": [
+        570,
+        574
+      ],
+      "text": "from his seat, while they sat and stood about the king through the wide-gated house of Hades, and asked of him judgment. “And after him I marked huge Orion driving together over the field of asphodel wild beasts which he himself had slain on the lonely hills,"
+    },
+    {
+      "lines": [
+        575,
+        579
+      ],
+      "text": "and in his hands he held a club all of bronze, ever unbroken. “And I saw Tityos, son of glorious Gaea, lying on the ground. Over nine roods he stretched, and two vultures sat, one on either side, and tore his liver, plunging their beaks into his bowels, nor could he beat them off with his hands."
+    },
+    {
+      "lines": [
+        580,
+        580
+      ],
+      "text": "For he had offered violence to Leto, the glorious wife of Zeus, as she went toward Pytho through Panopeus with its lovely lawns. “Aye, and I saw Tantalus in violent torment, standing in a pool, and the water came nigh unto his chin. He seemed as one athirst, but could not take and drink;"
+    }
+  ]
+}

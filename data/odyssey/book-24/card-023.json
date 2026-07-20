@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "ἔσταν δʼ ἐν μέσσοισι· τάφος δʼ ἕλεν ἄνδρα ἕκαστον."
+    },
+    {
+      "n": 442,
+      "greek": "τοῖσι δὲ καὶ μετέειπε Μέδων πεπνυμένα εἰδώς·"
+    },
+    {
+      "n": 443,
+      "greek": "κέκλυτε δὴ νῦν μευ, Ἰθακήσιοι· οὐ γὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 444,
+      "greek": "ἀθανάτων ἀέκητι θεῶν τάδʼ ἐμήσατο ἔργα·"
+    },
+    {
+      "n": 445,
+      "greek": "αὐτὸς ἐγὼν εἶδον θεὸν ἄμβροτον, ὅς ῥʼ Ὀδυσῆϊ"
+    },
+    {
+      "n": 446,
+      "greek": "ἐγγύθεν ἑστήκει καὶ Μέντορι πάντα ἐῴκει."
+    },
+    {
+      "n": 447,
+      "greek": "ἀθάνατος δὲ θεὸς τοτὲ μὲν προπάροιθʼ Ὀδυσῆος"
+    },
+    {
+      "n": 448,
+      "greek": "φαίνετο θαρσύνων, τοτὲ δὲ μνηστῆρας ὀρίνων"
+    },
+    {
+      "n": 449,
+      "greek": "θῦνε κατὰ μέγαρον· τοὶ δʼ ἀγχιστῖνοι ἔπιπτον."
+    },
+    {
+      "n": 450,
+      "greek": "ὣς φάτο, τοὺς δʼ ἄρα πάντας ὑπὸ χλωρὸν δέος ᾕρει."
+    },
+    {
+      "n": 451,
+      "greek": "τοῖσι δὲ καὶ μετέειπε γέρων ἥρως Ἁλιθέρσης"
+    },
+    {
+      "n": 452,
+      "greek": "Μαστορίδης· ὁ γὰρ οἶος ὅρα πρόσσω καὶ ὀπίσσω·"
+    },
+    {
+      "n": 453,
+      "greek": "ὅ σφιν ἐϋφρονέων ἀγορήσατο καὶ μετέειπε·"
+    },
+    {
+      "n": 454,
+      "greek": "κέκλυτε δὴ νῦν μευ, Ἰθακήσιοι, ὅττι κεν εἴπω·"
+    },
+    {
+      "n": 455,
+      "greek": "ὑμετέρῃ κακότητι, φίλοι, τάδε ἔργα γένοντο·"
+    },
+    {
+      "n": 456,
+      "greek": "οὐ γὰρ ἐμοὶ πείθεσθʼ, οὐ Μέντορι ποιμένι λαῶν,"
+    },
+    {
+      "n": 457,
+      "greek": "ὑμετέρους παῖδας καταπαυέμεν ἀφροσυνάων,"
+    },
+    {
+      "n": 458,
+      "greek": "οἳ μέγα ἔργον ἔρεξαν ἀτασθαλίῃσι κακῇσι,"
+    },
+    {
+      "n": 459,
+      "greek": "κτήματα κείροντες καὶ ἀτιμάζοντες ἄκοιτιν"
+    },
+    {
+      "n": 460,
+      "greek": "ἀνδρὸς ἀριστῆος· τὸν δʼ οὐκέτι φάντο νέεσθαι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "Nay, I myself saw an immortal god, who stood close beside Odysseus, and seemed in all things like unto Mentor. Yet as an immortal god now in front of Odysseus would he appear, heartening him, and now again would rage through the hall, scaring the wooers; and they fell thick and fast.”"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "So he spoke, and thereat pale fear seized them all. Then among them spoke the old lord Halitherses, son of Mastor, for he alone saw before and after: he with good intent addressed their assembly, and said: “Hearken now to me, men of Ithaca, to the word that I shall say."
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "Through your own cowardice, friends, have these deeds been brought to pass, for you would not obey me, nor Mentor, shepherd of the people, to make your sons cease from their folly. They wrought a monstrous deed in their blind and wanton wickedness, wasting the wealth and dishonoring the wife"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "of a prince, who, they said, would never more return. Now then be it thus; and do you hearken to me, as I bid. Let us not go forth, lest haply many a one shall find a bane which he has brought upon himself.” So he spoke, but they sprang up with loud cries, more than half of them, but the rest remained together in their seats;"
+    }
+  ]
+}

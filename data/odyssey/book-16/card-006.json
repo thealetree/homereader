@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 6,
+  "lineStart": 102,
+  "lineEnd": 121,
+  "lines": [
+    {
+      "n": 102,
+      "greek": "αὐτίκʼ ἔπειτʼ ἀπʼ ἐμεῖο κάρη τάμοι ἀλλότριος φώς,"
+    },
+    {
+      "n": 103,
+      "greek": "εἰ μὴ ἐγὼ κείνοισι κακὸν πάντεσσι γενοίμην,"
+    },
+    {
+      "n": 104,
+      "greek": "ἐλθὼν ἐς μέγαρον Λαερτιάδεω Ὀδυσῆος."
+    },
+    {
+      "n": 105,
+      "greek": "εἰ δʼ αὖ με πληθυῖ δαμασαίατο μοῦνον ἐόντα,"
+    },
+    {
+      "n": 106,
+      "greek": "βουλοίμην κʼ ἐν ἐμοῖσι κατακτάμενος μεγάροισι"
+    },
+    {
+      "n": 107,
+      "greek": "τεθνάμεν ἢ τάδε γʼ αἰὲν ἀεικέα ἔργʼ ὁράασθαι,"
+    },
+    {
+      "n": 108,
+      "greek": "ξείνους τε στυφελιζομένους δμῳάς τε γυναῖκας"
+    },
+    {
+      "n": 109,
+      "greek": "ῥυστάζοντας ἀεικελίως κατὰ δώματα καλά,"
+    },
+    {
+      "n": 110,
+      "greek": "καὶ οἶνον διαφυσσόμενον, καὶ σῖτον ἔδοντας"
+    },
+    {
+      "n": 111,
+      "greek": "μὰψ αὔτως, ἀτέλεστον, ἀνηνύστῳ ἐπὶ ἔργῳ."
+    },
+    {
+      "n": 112,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 113,
+      "greek": "τοιγὰρ ἐγώ τοι, ξεῖνε, μάλʼ ἀτρεκέως ἀγορεύσω."
+    },
+    {
+      "n": 114,
+      "greek": "οὔτε τί μοι πᾶς δῆμος ἀπεχθόμενος χαλεπαίνει,"
+    },
+    {
+      "n": 115,
+      "greek": "οὔτε κασιγνήτοις ἐπιμέμφομαι, οἷσί περ ἀνὴρ"
+    },
+    {
+      "n": 116,
+      "greek": "μαρναμένοισι πέποιθε, καὶ εἰ μέγα νεῖκος ὄρηται."
+    },
+    {
+      "n": 117,
+      "greek": "ὧδε γὰρ ἡμετέρην γενεὴν μούνωσε Κρονίων·"
+    },
+    {
+      "n": 118,
+      "greek": "μοῦνον Λαέρτην Ἀρκείσιος υἱὸν ἔτικτε,"
+    },
+    {
+      "n": 119,
+      "greek": "μοῦνον δʼ αὖτʼ Ὀδυσῆα πατὴρ τέκεν· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 120,
+      "greek": "μοῦνον ἔμʼ ἐν μεγάροισι τεκὼν λίπεν οὐδʼ ἀπόνητο."
+    },
+    {
+      "n": 121,
+      "greek": "τῷ νῦν δυσμενέες μάλα μυρίοι εἴσʼ ἐνὶ οἴκῳ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "But if they should overwhelm me by their numbers, alone as I was, far rather would I die, slain in my own halls, than behold continually these shameful deeds, strangers mishandled, and men dragging the handmaidens in shameful fashion through the fair halls,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "and wine drawn to waste, and men devouring my bread all heedlessly, without limit, with no end to the business.” And wise Telemachus answered him: “Then verily, stranger, I will frankly tell thee all. Neither do the people at large bear me any grudge or hatred,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "nor have I cause to blame brothers, in whose fighting a man trusts, even if a great strife arise. For in this wise has the son of Cronos made our house to run in but a single line. As his only son did Arceisius beget Laertes, as his only son again did his father beget Odysseus, and Odysseus"
+    },
+    {
+      "lines": [
+        120,
+        121
+      ],
+      "text": "begot me as his only son, and left me in his halls, and had no joy of me. Therefore it is that foes past counting are now in the house; for all the princes who hold sway over the islands—Dulichium, and Same, and wooded Zacynthus—and those who lord it over rocky Ithaca,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "ἠδʼ ὅσσοι μετόπισθε ποτὶ ζόφον ἠερόεντα."
+    },
+    {
+      "n": 242,
+      "greek": "ἦ τοι μὲν τρηχεῖα καὶ οὐχ ἱππήλατός ἐστιν,"
+    },
+    {
+      "n": 243,
+      "greek": "οὐδὲ λίην λυπρή, ἀτὰρ οὐδʼ εὐρεῖα τέτυκται."
+    },
+    {
+      "n": 244,
+      "greek": "ἐν μὲν γάρ οἱ σῖτος ἀθέσφατος, ἐν δέ τε οἶνος"
+    },
+    {
+      "n": 245,
+      "greek": "γίγνεται· αἰεὶ δʼ ὄμβρος ἔχει τεθαλυῖά τʼ ἐέρση·"
+    },
+    {
+      "n": 246,
+      "greek": "αἰγίβοτος δʼ ἀγαθὴ καὶ βούβοτος· ἔστι μὲν ὕλη"
+    },
+    {
+      "n": 247,
+      "greek": "παντοίη, ἐν δʼ ἀρδμοὶ ἐπηετανοὶ παρέασι."
+    },
+    {
+      "n": 248,
+      "greek": "τῷ τοι, ξεῖνʼ, Ἰθάκης γε καὶ ἐς Τροίην ὄνομʼ ἵκει,"
+    },
+    {
+      "n": 249,
+      "greek": "τήν περ τηλοῦ φασὶν Ἀχαιΐδος ἔμμεναι αἴης."
+    },
+    {
+      "n": 250,
+      "greek": "ὣς φάτο, γήθησεν δὲ πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 251,
+      "greek": "χαίρων ᾗ γαίῃ πατρωΐῃ, ὥς οἱ ἔειπε"
+    },
+    {
+      "n": 252,
+      "greek": "Παλλὰς Ἀθηναίη, κούρη Διὸς, αἰγιόχοιο·"
+    },
+    {
+      "n": 253,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 254,
+      "greek": "οὐδʼ ὅ γʼ ἀληθέα εἶπε, πάλιν δʼ ὅ γε λάζετο μῦθον,"
+    },
+    {
+      "n": 255,
+      "greek": "αἰεὶ ἐνὶ στήθεσσι νόον πολυκερδέα νωμῶν·"
+    },
+    {
+      "n": 256,
+      "greek": "πυνθανόμην Ἰθάκης γε καὶ ἐν Κρήτῃ εὐρείῃ,"
+    },
+    {
+      "n": 257,
+      "greek": "τηλοῦ ὑπὲρ πόντου· νῦν δʼ εἰλήλουθα καὶ αὐτὸς"
+    },
+    {
+      "n": 258,
+      "greek": "χρήμασι σὺν τοίσδεσσι· λιπὼν δʼ ἔτι παισὶ τοσαῦτα"
+    },
+    {
+      "n": 259,
+      "greek": "φεύγω, ἐπεὶ φίλον υἷα κατέκτανον Ἰδομενῆος,"
+    },
+    {
+      "n": 260,
+      "greek": "Ὀρσίλοχον πόδας ὠκύν, ὃς ἐν Κρήτῃ εὐρείῃ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "and the rain never fails it, nor the rich dew. It is a good land for pasturing goats and kine; there are trees of every sort, and in it also pools for watering that fail not the year through. Therefore, stranger, the name of Ithaca has reached even to the land of Troy which, they say, is far from this land of Achaea.”"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "So she spake, and the much-enduring, goodly Odysseus was glad, and rejoiced in his land, the land of his fathers, as he heard the word of Pallas Athena, daughter of Zeus, who bears the aegis; and he spoke, and addressed her with winged words; yet he spoke not the truth, but checked the word ere it was uttered,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "ever revolving in his breast thoughts of great cunning: “I heard of Ithaca, even in broad Crete, far over the sea; and now have I myself come hither with these my goods. And I left as much more with my children, when I fled the land, after I had slain the dear son of Idomeneus,"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "Orsilochus, swift of foot, who in broad Crete surpassed in fleetness all men that live by toil. Now he would have robbed me of all that booty of Troy, for which I had borne grief of heart, passing through wars of men and the grievous waves,"
+    }
+  ]
+}

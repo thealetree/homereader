@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "Ζηνός τε βροντῇ· φάτο γὰρ τίσασθαι ἀλείτας."
+    },
+    {
+      "n": 122,
+      "greek": "αἱ δʼ ἄλλαι δμῳαὶ κατὰ δώματα κάλʼ Ὀδυσῆος"
+    },
+    {
+      "n": 123,
+      "greek": "ἀγρόμεναι ἀνέκαιον ἐπʼ ἐσχάρῃ ἀκάματον πῦρ."
+    },
+    {
+      "n": 124,
+      "greek": "Τηλέμαχος δʼ εὐνῆθεν ἀνίστατο, ἰσόθεος φώς,"
+    },
+    {
+      "n": 125,
+      "greek": "εἵματα ἑσσάμενος· περὶ δὲ ξίφος ὀξὺ θέτʼ ὤμῳ·"
+    },
+    {
+      "n": 126,
+      "greek": "ποσσὶ δʼ ὑπὸ λιπαροῖσιν ἐδήσατο καλὰ πέδιλα,"
+    },
+    {
+      "n": 127,
+      "greek": "εἵλετο δʼ ἄλκιμον ἔγχος, ἀκαχμένον ὀξέι· χαλκῷ·"
+    },
+    {
+      "n": 128,
+      "greek": "στῆ δʼ ἄρʼ ἐπʼ οὐδὸν ἰών, πρὸς δʼ Εὐρύκλειαν ἔειπε·"
+    },
+    {
+      "n": 129,
+      "greek": "μαῖα φίλη, τὸν ξεῖνον ἐτιμήσασθʼ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 130,
+      "greek": "εὐνῇ καὶ σίτῳ, ἦ αὔτως κεῖται ἀκηδής;"
+    },
+    {
+      "n": 131,
+      "greek": "τοιαύτη γὰρ ἐμὴ μήτηρ, πινυτή περ ἐοῦσα·"
+    },
+    {
+      "n": 132,
+      "greek": "ἐμπλήγδην ἕτερόν γε τίει μερόπων ἀνθρώπων"
+    },
+    {
+      "n": 133,
+      "greek": "χείρονα, τὸν δέ τʼ ἀρείονʼ ἀτιμήσασʼ ἀποπέμπει."
+    },
+    {
+      "n": 134,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Εὐρύκλεια·"
+    },
+    {
+      "n": 135,
+      "greek": "οὐκ ἄν μιν νῦν, τέκνον, ἀναίτιον αἰτιόῳο."
+    },
+    {
+      "n": 136,
+      "greek": "οἶνον μὲν γὰρ πῖνε καθήμενος, ὄφρʼ ἔθελʼ αὐτός,"
+    },
+    {
+      "n": 137,
+      "greek": "σίτου δʼ οὐκέτʼ ἔφη πεινήμεναι· εἴρετο γάρ μιν."
+    },
+    {
+      "n": 138,
+      "greek": "ἀλλʼ ὅτε δὴ κοίτοιο καὶ ὕπνου μιμνήσκοιτο,"
+    },
+    {
+      "n": 139,
+      "greek": "ἡ μὲν δέμνιʼ ἄνωγεν ὑποστορέσαι δμῳῇσιν,"
+    },
+    {
+      "n": 140,
+      "greek": "αὐτὰρ ὅ γʼ, ὥς τις πάμπαν ὀϊζυρὸς καὶ ἄποτμος,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "and put on his clothing. He slung his sharp sword about his shoulder, and beneath his shining feet he bound his fair sandals; and he took his mighty spear, tipped with sharp bronze, and went and stood upon the threshold, and spoke to Eurycleia: “Dear nurse, have ye honored the stranger in our house"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "with bed and food, or does he lie all uncared for? For such is my mother's way, wise though she is: in wondrous fashion she honours one of mortal men, though he be the worse, while the better she sends unhonored away.” Then wise Eurycleia answered him:"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "“In this matter, child, thou shouldest not blame her, who is without blame. He sat here and drank wine as long as he would, but for food he said he had no more hunger, for she asked him. But when he bethought him of rest and sleep, she bade the maidens strew his bed."
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "But he, as one wholly wretched and hapless, would not sleep on a bed and under blankets, but on an undressed ox-hide and fleeces of sheep he slept in the fore-hall, and we flung over him a cloak.” So she spoke, and Telemachus went forth through the hall"
+    }
+  ]
+}

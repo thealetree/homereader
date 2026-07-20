@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "τῇ δὲ Ποσειδάων ἐμίγη καὶ ἐγείνατο παῖδα"
+    },
+    {
+      "n": 62,
+      "greek": "Ναυσίθοον μεγάθυμον, ὃς ἐν Φαίηξιν ἄνασσε·"
+    },
+    {
+      "n": 63,
+      "greek": "Ναυσίθοος δʼ ἔτεκεν Ῥηξήνορά τʼ Ἀλκίνοόν τε."
+    },
+    {
+      "n": 64,
+      "greek": "τὸν μὲν ἄκουρον ἐόντα βάλʼ ἀργυρότοξος Ἀπόλλων"
+    },
+    {
+      "n": 65,
+      "greek": "νυμφίον ἐν μεγάρῳ, μίαν οἴην παῖδα λιπόντα"
+    },
+    {
+      "n": 66,
+      "greek": "Ἀρήτην· τὴν δʼ Ἀλκίνοος ποιήσατʼ ἄκοιτιν,"
+    },
+    {
+      "n": 67,
+      "greek": "καί μιν ἔτισʼ, ὡς οὔ τις ἐπὶ χθονὶ τίεται ἄλλη,"
+    },
+    {
+      "n": 68,
+      "greek": "ὅσσαι νῦν γε γυναῖκες ὑπʼ ἀνδράσιν οἶκον ἔχουσιν."
+    },
+    {
+      "n": 69,
+      "greek": "ὣς κείνη περὶ κῆρι τετίμηταί τε καὶ ἔστιν"
+    },
+    {
+      "n": 70,
+      "greek": "ἔκ τε φίλων παίδων ἔκ τʼ αὐτοῦ Ἀλκινόοιο"
+    },
+    {
+      "n": 71,
+      "greek": "καὶ λαῶν, οἵ μίν ῥα θεὸν ὣς εἰσορόωντες"
+    },
+    {
+      "n": 72,
+      "greek": "δειδέχαται μύθοισιν, ὅτε στείχῃσʼ ἀνὰ ἄστυ."
+    },
+    {
+      "n": 73,
+      "greek": "οὐ μὲν γάρ τι νόου γε καὶ αὐτὴ δεύεται ἐσθλοῦ·"
+    },
+    {
+      "n": 74,
+      "greek": "ᾗσι τʼ ἐὺ φρονέῃσι καὶ ἀνδράσι νείκεα λύει."
+    },
+    {
+      "n": 75,
+      "greek": "εἴ κέν τοι κείνη γε φίλα φρονέῃσʼ ἐνὶ θυμῷ,"
+    },
+    {
+      "n": 76,
+      "greek": "ἐλπωρή τοι ἔπειτα φίλους τʼ ἰδέειν καὶ ἱκέσθαι"
+    },
+    {
+      "n": 77,
+      "greek": "οἶκον ἐς ὑψόροφον καὶ σὴν ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 78,
+      "greek": "ὣς ἄρα φωνήσασʼ ἀπέβη γλαυκῶπις Ἀθήνη"
+    },
+    {
+      "n": 79,
+      "greek": "πόντον ἐπʼ ἀτρύγετον, λίπε δὲ Σχερίην ἐρατεινήν,"
+    },
+    {
+      "n": 80,
+      "greek": "ἵκετο δʼ ἐς Μαραθῶνα καὶ εὐρυάγυιαν Ἀθήνην,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "in his hall, a bridegroom though he was, and he left only one daughter, Arete. Her Alcinous made his wife, and honored her as no other woman on earth is honored, of all those who in these days direct their households in subjection to their husbands; so heartily is she honored,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "and has ever been, by her children and by Alcinous himself and by the people, who look upon her as upon a goddess, and greet her as she goes through the city. For she of herself is no wise lacking in good understanding, and for the women to whom she has good will she makes an end of strife even among their husbands."
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "If in her sight thou dost win favour, then there is hope that thou wilt see thy friends, and return to thy high-roofed house and unto thy native land.” So saying, flashing-eyed Athena departed over the unresting sea, and left lovely Scheria."
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "She came to Marathon and broad-wayed Athens, and entered the well-built house of Erectheus; but Odysseus went to the glorious palace of Alcinous. There he stood, and his heart pondered much before he reached the threshold of bronze; for there was a gleam as of sun or moon"
+    }
+  ]
+}

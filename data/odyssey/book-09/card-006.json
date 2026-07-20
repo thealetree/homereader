@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "σπερχομένους νηῶν ἐπιβαινέμεν ὠκειάων,"
+    },
+    {
+      "n": 102,
+      "greek": "μή πώς τις λωτοῖο φαγὼν νόστοιο λάθηται."
+    },
+    {
+      "n": 103,
+      "greek": "οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον,"
+    },
+    {
+      "n": 104,
+      "greek": "ἑξῆς δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς."
+    },
+    {
+      "n": 105,
+      "greek": "ἔνθεν δὲ προτέρω πλέομεν ἀκαχήμενοι ἦτορ·"
+    },
+    {
+      "n": 106,
+      "greek": "Κυκλώπων δʼ ἐς γαῖαν ὑπερφιάλων ἀθεμίστων"
+    },
+    {
+      "n": 107,
+      "greek": "ἱκόμεθʼ, οἵ ῥα θεοῖσι πεποιθότες ἀθανάτοισιν"
+    },
+    {
+      "n": 108,
+      "greek": "οὔτε φυτεύουσιν χερσὶν φυτὸν οὔτʼ ἀρόωσιν,"
+    },
+    {
+      "n": 109,
+      "greek": "ἀλλὰ τά γʼ ἄσπαρτα καὶ ἀνήροτα πάντα φύονται,"
+    },
+    {
+      "n": 110,
+      "greek": "πυροὶ καὶ κριθαὶ ἠδʼ ἄμπελοι, αἵ τε φέρουσιν"
+    },
+    {
+      "n": 111,
+      "greek": "οἶνον ἐριστάφυλον, καί σφιν Διὸς ὄμβρος ἀέξει."
+    },
+    {
+      "n": 112,
+      "greek": "τοῖσιν δʼ οὔτʼ ἀγοραὶ βουληφόροι οὔτε θέμιστες,"
+    },
+    {
+      "n": 113,
+      "greek": "ἀλλʼ οἵ γʼ ὑψηλῶν ὀρέων ναίουσι κάρηνα"
+    },
+    {
+      "n": 114,
+      "greek": "ἐν σπέσσι γλαφυροῖσι, θεμιστεύει δὲ ἕκαστος"
+    },
+    {
+      "n": 115,
+      "greek": "παίδων ἠδʼ ἀλόχων, οὐδʼ ἀλλήλων ἀλέγουσιν."
+    },
+    {
+      "n": 116,
+      "greek": "νῆσος ἔπειτα λάχεια παρὲκ λιμένος τετάνυσται,"
+    },
+    {
+      "n": 117,
+      "greek": "γαίης Κυκλώπων οὔτε σχεδὸν οὔτʼ ἀποτηλοῦ,"
+    },
+    {
+      "n": 118,
+      "greek": "ὑλήεσσʼ· ἐν δʼ αἶγες ἀπειρέσιαι γεγάασιν"
+    },
+    {
+      "n": 119,
+      "greek": "ἄγριαι· οὐ μὲν γὰρ πάτος ἀνθρώπων ἀπερύκει,"
+    },
+    {
+      "n": 120,
+      "greek": "οὐδέ μιν εἰσοιχνεῦσι κυνηγέται, οἵ τε καθʼ ὕλην"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "“Thence we sailed on, grieved at heart, and we came to the land of the Cyclopes, an overweening and lawless folk, who, trusting in the immortal gods, plant nothing with their hands nor plough; but all these things spring up for them without sowing or ploughing,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "wheat, and barley, and vines, which bear the rich clusters of wine, and the rain of Zeus gives them increase. Neither assemblies for council have they, nor appointed laws, but they dwell on the peaks of lofty mountains in hollow caves, and each one is lawgiver"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "to his children and his wives, and they reck nothing one of another. “Now there is a level isle that stretches aslant outside the harbor, neither close to the shore of the land of the Cyclopes, nor yet far off, a wooded isle. Therein live wild goats innumerable, for the tread of men scares them not away,"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "nor are hunters wont to come thither, men who endure toils in the woodland as they course over the peaks of the mountains. Neither with flocks is it held, nor with ploughed lands, but unsown and untilled all the days it knows naught of men, but feeds the bleating goats."
+    }
+  ]
+}

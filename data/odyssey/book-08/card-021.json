@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν,"
+    },
+    {
+      "n": 402,
+      "greek": "τοιγὰρ ἐγὼ τὸν ξεῖνον ἀρέσσομαι, ὡς σὺ κελεύεις."
+    },
+    {
+      "n": 403,
+      "greek": "δώσω οἱ τόδʼ ἄορ παγχάλκεον, ᾧ ἔπι κώπη"
+    },
+    {
+      "n": 404,
+      "greek": "ἀργυρέη, κολεὸν δὲ νεοπρίστου ἐλέφαντος"
+    },
+    {
+      "n": 405,
+      "greek": "ἀμφιδεδίνηται· πολέος δέ οἱ ἄξιον ἔσται."
+    },
+    {
+      "n": 406,
+      "greek": "ὣς εἰπὼν ἐν χερσὶ τίθει ξίφος ἀργυρόηλον"
+    },
+    {
+      "n": 407,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 408,
+      "greek": "χαῖρε, πάτερ ὦ ξεῖνε· ἔπος δʼ εἴ πέρ τι βέβακται"
+    },
+    {
+      "n": 409,
+      "greek": "δεινόν, ἄφαρ τὸ φέροιεν ἀναρπάξασαι ἄελλαι."
+    },
+    {
+      "n": 410,
+      "greek": "σοὶ δὲ θεοὶ ἄλοχόν τʼ ἰδέειν καὶ πατρίδʼ ἱκέσθαι"
+    },
+    {
+      "n": 411,
+      "greek": "δοῖεν, ἐπεὶ δὴ δηθὰ φίλων ἄπο πήματα πάσχεις."
+    },
+    {
+      "n": 412,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 413,
+      "greek": "καὶ σὺ φίλος μάλα χαῖρε, θεοὶ δέ τοι ὄλβια δοῖεν."
+    },
+    {
+      "n": 414,
+      "greek": "μηδέ τι τοι ξίφεός γε ποθὴ μετόπισθε γένοιτο"
+    },
+    {
+      "n": 415,
+      "greek": "τούτου, ὃ δή μοι δῶκας ἀρεσσάμενος ἐπέεσσιν."
+    },
+    {
+      "n": 416,
+      "greek": "ἦ ῥα καὶ ἀμφʼ ὤμοισι θέτο ξίφος ἀργυρόηλον."
+    },
+    {
+      "n": 417,
+      "greek": "δύσετό τʼ ἠέλιος, καὶ τῷ κλυτὰ δῶρα παρῆεν."
+    },
+    {
+      "n": 418,
+      "greek": "καὶ τά γʼ ἐς Ἀλκινόοιο φέρον κήρυκες ἀγαυοί·"
+    },
+    {
+      "n": 419,
+      "greek": "δεξάμενοι δʼ ἄρα παῖδες ἀμύμονος Ἀλκινόοιο"
+    },
+    {
+      "n": 420,
+      "greek": "μητρὶ παρʼ αἰδοίῃ ἔθεσαν περικαλλέα δῶρα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "is wrought about it; and it shall be to him a thing of great worth.” So saying, he put into his hands the silver-studded sword, and spoke, and addressed him with winged words: “Hail, Sir stranger; but if any word has been spoken that was harsh, may the storm-winds straightway snatch it and bear it away."
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "And for thyself, may the gods grant thee to see thy wife, and to come to thy native land, for long time hast thou been suffering woes far from thy friends.” And Odysseus of many wiles answered him: “All hail to thee, too, friend; and may the gods grant thee happiness, and mayest thou never hereafter miss"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "this sword which thou hast given me, making amends with gentle speech.” He spoke, and about his shoulders hung the silver-studded sword. And the sun set, and the glorious gifts were brought him. These the lordly heralds bore to the palace of Alcinous, and the sons of peerless Alcinous"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "took the beautiful gifts and set them before their honored mother. And the strong and mighty Alcinous led the way, and they came in and sat down on the high seats. Then to Arete spoke the mighty Alcinous: “Bring hither, wife, a goodly chest, the best thou hast,"
+    }
+  ]
+}

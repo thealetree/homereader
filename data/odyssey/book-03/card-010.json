@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "Τυδεΐδεω ἕταροι Διομήδεος ἱπποδάμοιο"
+    },
+    {
+      "n": 182,
+      "greek": "ἵστασαν· αὐτὰρ ἐγώ γε Πύλονδʼ ἔχον, οὐδέ ποτʼ ἔσβη"
+    },
+    {
+      "n": 183,
+      "greek": "οὖρος, ἐπεὶ δὴ πρῶτα θεὸς προέηκεν ἀῆναι."
+    },
+    {
+      "n": 184,
+      "greek": "ὣς ἦλθον, φίλε τέκνον, ἀπευθής, οὐδέ τι οἶδα"
+    },
+    {
+      "n": 185,
+      "greek": "κείνων, οἵ τʼ ἐσάωθεν Ἀχαιῶν οἵ τʼ ἀπόλοντο."
+    },
+    {
+      "n": 186,
+      "greek": "ὅσσα δʼ ἐνὶ μεγάροισι καθήμενος ἡμετέροισι"
+    },
+    {
+      "n": 187,
+      "greek": "πεύθομαι, ἣ θέμις ἐστί, δαήσεαι, οὐδέ σε κεύσω."
+    },
+    {
+      "n": 188,
+      "greek": "εὖ μὲν Μυρμιδόνας φάσʼ ἐλθέμεν ἐγχεσιμώρους,"
+    },
+    {
+      "n": 189,
+      "greek": "οὓς ἄγʼ Ἀχιλλῆος μεγαθύμου φαίδιμος υἱός,"
+    },
+    {
+      "n": 190,
+      "greek": "εὖ δὲ Φιλοκτήτην, Ποιάντιον ἀγλαὸν υἱόν."
+    },
+    {
+      "n": 191,
+      "greek": "πάντας δʼ Ἰδομενεὺς Κρήτην εἰσήγαγʼ ἑταίρους,"
+    },
+    {
+      "n": 192,
+      "greek": "οἳ φύγον ἐκ πολέμου, πόντος δέ οἱ οὔ τινʼ ἀπηύρα."
+    },
+    {
+      "n": 193,
+      "greek": "Ἀτρεΐδην δὲ καὶ αὐτοὶ ἀκούετε, νόσφιν ἐόντες,"
+    },
+    {
+      "n": 194,
+      "greek": "ὥς τʼ ἦλθʼ, ὥς τʼ Αἴγισθος ἐμήσατο λυγρὸν ὄλεθρον."
+    },
+    {
+      "n": 195,
+      "greek": "ἀλλʼ ἦ τοι κεῖνος μὲν ἐπισμυγερῶς ἀπέτισεν·"
+    },
+    {
+      "n": 196,
+      "greek": "ὡς ἀγαθὸν καὶ παῖδα καταφθιμένοιο λιπέσθαι"
+    },
+    {
+      "n": 197,
+      "greek": "ἀνδρός, ἐπεὶ καὶ κεῖνος ἐτίσατο πατροφονῆα,"
+    },
+    {
+      "n": 198,
+      "greek": "Αἴγισθον δολόμητιν, ὅ οἱ πατέρα κλυτὸν ἔκτα."
+    },
+    {
+      "n": 199,
+      "greek": "καὶ σὺ φίλος, μάλα γάρ σʼ ὁρόω καλόν τε μέγαν τε,"
+    },
+    {
+      "n": 200,
+      "greek": "ἄλκιμος ἔσσʼ, ἵνα τίς σε καὶ ὀψιγόνων ἐὺ εἴπῃ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "of those others, who of the Achaeans were saved, and who were lost. But what tidings I have heard as I abide in our halls thou shalt hear, as is right, nor will I hide it from thee. Safely, they say, came the Myrmidons that rage with the spear, whom the famous son of great-hearted Achilles led;"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "and safely Philoctetes, the glorious son of Poias. All his company, too, did Idomeneus bring to Crete, all who escaped the war, and the sea robbed him of none. But of the son of Atreus you have yourselves heard, far off though you are, how he came, and how Aegisthus devised for him a woeful doom."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "Yet verily he paid the reckoning therefor in terrible wise, so good a thing is it that a son be left behind a man at his death, since that son took vengeance on his father's slayer, the guileful Aegisthus, for that he slew his glorious father. Thou, too, friend, for I see thou art a comely man and tall,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "be thou valiant, that many an one among men yet to be born may praise thee.” Then wise Telemachus answered him: “Nestor, son of Neleus, great glory of the Achaeans, yea verily that son took vengeance, and the Achaeans shall spread his fame abroad, that men who are yet to be may hear thereof."
+    }
+  ]
+}

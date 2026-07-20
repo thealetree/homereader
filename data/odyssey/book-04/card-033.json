@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 33,
+  "lineStart": 641,
+  "lineEnd": 660,
+  "lines": [
+    {
+      "n": 641,
+      "greek": "τὸν δʼ αὖτʼ Ἀντίνοος προσέφη Εὐπείθεος υἱός·"
+    },
+    {
+      "n": 642,
+      "greek": "νημερτές μοι ἔνισπε, πότʼ ᾤχετο καὶ τίνες αὐτῷ"
+    },
+    {
+      "n": 643,
+      "greek": "κοῦροι ἕποντʼ; Ἰθάκης ἐξαίρετοι, ἦ ἑοὶ αὐτοῦ"
+    },
+    {
+      "n": 644,
+      "greek": "θῆτές τε δμῶές τε; δύναιτό κε καὶ τὸ τελέσσαι."
+    },
+    {
+      "n": 645,
+      "greek": "καί μοι τοῦτʼ ἀγόρευσον ἐτήτυμον, ὄφρʼ ἐὺ εἰδῶ,"
+    },
+    {
+      "n": 646,
+      "greek": "ἤ σε βίῃ ἀέκοντος ἀπηύρα νῆα μέλαιναν,"
+    },
+    {
+      "n": 647,
+      "greek": "ἦε ἑκών οἱ δῶκας, ἐπεὶ προσπτύξατο μύθῳ."
+    },
+    {
+      "n": 648,
+      "greek": "τὸν δʼ υἱὸς Φρονίοιο Νοήμων ἀντίον ηὔδα·"
+    },
+    {
+      "n": 649,
+      "greek": "αὐτὸς ἑκών οἱ δῶκα· τί κεν ῥέξειε καὶ ἄλλος,"
+    },
+    {
+      "n": 650,
+      "greek": "ὁππότʼ ἀνὴρ τοιοῦτος ἔχων μελεδήματα θυμῷ"
+    },
+    {
+      "n": 651,
+      "greek": "αἰτίζῃ; χαλεπόν κεν ἀνήνασθαι δόσιν εἴη."
+    },
+    {
+      "n": 652,
+      "greek": "κοῦροι δʼ, οἳ κατὰ δῆμον ἀριστεύουσι μεθʼ ἡμέας,"
+    },
+    {
+      "n": 653,
+      "greek": "οἵ οἱ ἕποντʼ· ἐν δʼ ἀρχὸν ἐγὼ βαίνοντʼ ἐνόησα"
+    },
+    {
+      "n": 654,
+      "greek": "Μέντορα, ἠὲ θεόν, τῷ δʼ αὐτῷ πάντα ἐῴκει."
+    },
+    {
+      "n": 655,
+      "greek": "ἀλλὰ τὸ θαυμάζω· ἴδον ἐνθάδε Μέντορα δῖον"
+    },
+    {
+      "n": 656,
+      "greek": "χθιζὸν ὑπηοῖον, τότε δʼ ἔμβη νηὶ Πύλονδε."
+    },
+    {
+      "n": 657,
+      "greek": "ὣς ἄρα φωνήσας ἀπέβη πρὸς δώματα πατρός,"
+    },
+    {
+      "n": 658,
+      "greek": "τοῖσιν δʼ ἀμφοτέροισιν ἀγάσσατο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 659,
+      "greek": "μνηστῆρας δʼ ἄμυδις κάθισαν καὶ παῦσαν ἀέθλων."
+    },
+    {
+      "n": 660,
+      "greek": "τοῖσιν δʼ Ἀντίνοος μετέφη Εὐπείθεος υἱός,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        645,
+        649
+      ],
+      "text": "And tell me this truly, that I may know full well. Was it perforce and against thy will that he took from thee the black ship? or didst thou give it him freely of thine own will, because he besought thee?” Then Noemon, son of Phronius, answered him:“I myself freely gave it him. What else could any man do,"
+    },
+    {
+      "lines": [
+        650,
+        654
+      ],
+      "text": "when a man like him, his heart laden with care, makes entreaty? Hard it were to deny the gift. The youths that are the noblest in the land after ourselves, even these have gone with him; and among them I noted one going on board as their leader, Mentor, or a god, who was in all things like unto Mentor."
+    },
+    {
+      "lines": [
+        655,
+        659
+      ],
+      "text": "But at this I marvel. I saw goodly Mentor here yesterday at early dawn; but at that time he embarked for Pylos.” So saying he departed to his father's house, but of those two the proud hearts were angered. The wooers they straightway made to sit down and cease from their games;"
+    },
+    {
+      "lines": [
+        660,
+        660
+      ],
+      "text": "and among them spoke Antinous, son of Eupeithes, in displeasure; and with rage was his black heart wholly filled, and his eyes were like blazing fire. “Out upon him, verily a proud deed has been insolently brought to pass by Telemachus, even this journey, and we deemed that he would never see it accomplished."
+    }
+  ]
+}

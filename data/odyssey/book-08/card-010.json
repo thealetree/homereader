@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ἔμμεναι, ὄφρʼ ἥβῃ τε πεποίθεα χερσί τʼ ἐμῇσι."
+    },
+    {
+      "n": 182,
+      "greek": "νῦν δʼ ἔχομαι κακότητι καὶ ἄλγεσι· πολλὰ γὰρ ἔτλην"
+    },
+    {
+      "n": 183,
+      "greek": "ἀνδρῶν τε πτολέμους ἀλεγεινά τε κύματα πείρων."
+    },
+    {
+      "n": 184,
+      "greek": "ἀλλὰ καὶ ὥς, κακὰ πολλὰ παθών, πειρήσομʼ ἀέθλων·"
+    },
+    {
+      "n": 185,
+      "greek": "θυμοδακὴς γὰρ μῦθος, ἐπώτρυνας δέ με εἰπών."
+    },
+    {
+      "n": 186,
+      "greek": "ἦ ῥα καὶ αὐτῷ φάρει ἀναΐξας λάβε δίσκον"
+    },
+    {
+      "n": 187,
+      "greek": "μείζονα καὶ πάχετον, στιβαρώτερον οὐκ ὀλίγον περ"
+    },
+    {
+      "n": 188,
+      "greek": "ἢ οἵῳ Φαίηκες ἐδίσκεον ἀλλήλοισι."
+    },
+    {
+      "n": 189,
+      "greek": "τόν ῥα περιστρέψας ἧκε στιβαρῆς ἀπὸ χειρός,"
+    },
+    {
+      "n": 190,
+      "greek": "βόμβησεν δὲ λίθος· κατὰ δʼ ἔπτηξαν ποτὶ γαίῃ"
+    },
+    {
+      "n": 191,
+      "greek": "Φαίηκες δολιχήρετμοι, ναυσίκλυτοι ἄνδρες,"
+    },
+    {
+      "n": 192,
+      "greek": "λᾶος ὑπὸ ῥιπῆς· ὁ δʼ ὑπέρπτατο σήματα πάντων"
+    },
+    {
+      "n": 193,
+      "greek": "ῥίμφα θέων ἀπὸ χειρός. ἔθηκε δὲ τέρματʼ Ἀθήνη"
+    },
+    {
+      "n": 194,
+      "greek": "ἀνδρὶ δέμας ἐικυῖα, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 195,
+      "greek": "καί κʼ ἀλαός τοι, ξεῖνε, διακρίνειε τὸ σῆμα"
+    },
+    {
+      "n": 196,
+      "greek": "ἀμφαφόων, ἐπεὶ οὔ τι μεμιγμένον ἐστὶν ὁμίλῳ,"
+    },
+    {
+      "n": 197,
+      "greek": "ἀλλὰ πολὺ πρῶτον. σὺ δὲ θάρσει τόνδε γʼ ἄεθλον·"
+    },
+    {
+      "n": 198,
+      "greek": "οὔ τις Φαιήκων τόδε γʼ ἵξεται, οὐδʼ ὑπερήσει."
+    },
+    {
+      "n": 199,
+      "greek": "ὣς φάτο, γήθησεν δὲ πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 200,
+      "greek": "χαὶρων, οὕνεχʼ ἑταῖρον ἐνηέα λεῦσσʼ ἐν ἀγῶνι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "for thy word has stung me to the heart, and thou hast provoked me with thy speech.” He spoke, and, leaping up with his cloak about him as it was, seized a discus larger than the rest and thick, no little heavier than those with which the Phaeacians were wont to contend one with another. This with a whirl he sent from his stout hand,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "and the stone hummed as it flew; and down they crouched to the earth, the Phaeacians of the long oars, men famed for their ships, beneath the rush of the stone. Past the marks of all it flew, speeding lightly from his hand, and Athena, in the likeness of a man, set the mark, and she spoke and addressed him:"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "“Even a blind man, stranger, could distinguish this mark, groping for it with his hands, for it is in nowise confused with the throng of the others, but is far the first. Be thou of good cheer for this bout at least: no one of the Phaeacians will reach this, or cast beyond it.” So she spoke, and the much-enduring goodly Odysseus was glad,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "rejoicing that he saw a true friend in the lists. Then with a lighter heart he spoke among the Phaeacians: “Reach this now, young men; and presently, methinks, I will send another after it, as far or even further. Of the rest, if any man's heart and spirit bid him,"
+    }
+  ]
+}

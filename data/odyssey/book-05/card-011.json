@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "αὐτὰρ ἐπεὶ τάρπησαν ἐδητύος ἠδὲ ποτῆτος,"
+    },
+    {
+      "n": 202,
+      "greek": "τοῖς ἄρα μύθων ἦρχε Καλυψώ, δῖα θεάων·"
+    },
+    {
+      "n": 203,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 204,
+      "greek": "οὕτω δὴ οἶκόνδε φίλην ἐς πατρίδα γαῖαν"
+    },
+    {
+      "n": 205,
+      "greek": "αὐτίκα νῦν ἐθέλεις ἰέναι; σὺ δὲ χαῖρε καὶ ἔμπης."
+    },
+    {
+      "n": 206,
+      "greek": "εἴ γε μὲν εἰδείης σῇσι φρεσὶν ὅσσα τοι αἶσα"
+    },
+    {
+      "n": 207,
+      "greek": "κήδεʼ ἀναπλῆσαι, πρὶν πατρίδα γαῖαν ἱκέσθαι,"
+    },
+    {
+      "n": 208,
+      "greek": "ἐνθάδε κʼ αὖθι μένων σὺν ἐμοὶ τόδε δῶμα φυλάσσοις"
+    },
+    {
+      "n": 209,
+      "greek": "ἀθάνατός τʼ εἴης, ἱμειρόμενός περ ἰδέσθαι"
+    },
+    {
+      "n": 210,
+      "greek": "σὴν ἄλοχον, τῆς τʼ αἰὲν ἐέλδεαι ἤματα πάντα."
+    },
+    {
+      "n": 211,
+      "greek": "οὐ μέν θην κείνης γε χερείων εὔχομαι εἶναι,"
+    },
+    {
+      "n": 212,
+      "greek": "οὐ δέμας οὐδὲ φυήν, ἐπεὶ οὔ πως οὐδὲ ἔοικεν"
+    },
+    {
+      "n": 213,
+      "greek": "θνητὰς ἀθανάτῃσι δέμας καὶ εἶδος ἐρίζειν."
+    },
+    {
+      "n": 214,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 215,
+      "greek": "πότνα θεά, μή μοι τόδε χώεο· οἶδα καὶ αὐτὸς"
+    },
+    {
+      "n": 216,
+      "greek": "πάντα μάλʼ, οὕνεκα σεῖο περίφρων Πηνελόπεια"
+    },
+    {
+      "n": 217,
+      "greek": "εἶδος ἀκιδνοτέρη μέγεθός τʼ εἰσάντα ἰδέσθαι·"
+    },
+    {
+      "n": 218,
+      "greek": "ἡ μὲν γὰρ βροτός ἐστι, σὺ δʼ ἀθάνατος καὶ ἀγήρως."
+    },
+    {
+      "n": 219,
+      "greek": "ἀλλὰ καὶ ὣς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα"
+    },
+    {
+      "n": 220,
+      "greek": "οἴκαδέ τʼ ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "would'st thou then fare now forthwith home to thy dear native land! Yet, even so fare thee well. Howbeit if in thy heart thou knewest all the measure of woe it is thy fate to fulfil before thou comest to thy native land thou wouldest abide here and keep this house with me, and wouldest be immortal, for all thy desire to see"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "thy wife for whom thou longest day by day. Surely not inferior to her do I declare myself to be either in form or stature, for in no wise is it seemly that mortal women should vie with immortals in form or comeliness.” Then Odysseus of many wiles answered her, and said:"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "“Mighty goddess, be not wroth with me for this. I know full well of myself that wise Penelope is meaner to look upon than thou in comeliness and in stature, for she is a mortal, while thou art immortal and ageless. But even so I wish and long day by day"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "to reach my home, and to see the day of my return. And if again some god shall smite me on the wine-dark sea, I will endure it, having in my breast a heart that endures affliction. For ere this I have suffered much and toiled much amid the waves and in war; let this also be added unto that.”"
+    }
+  ]
+}

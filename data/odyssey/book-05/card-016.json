@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ἥ μʼ ἔφατʼ ἐν πόντῳ, πρὶν πατρίδα γαῖαν ἱκέσθαι,"
+    },
+    {
+      "n": 302,
+      "greek": "ἄλγεʼ ἀναπλήσειν· τὰ δὲ δὴ νῦν πάντα τελεῖται."
+    },
+    {
+      "n": 303,
+      "greek": "οἵοισιν νεφέεσσι περιστέφει οὐρανὸν εὐρὺν"
+    },
+    {
+      "n": 304,
+      "greek": "Ζεύς, ἐτάραξε δὲ πόντον, ἐπισπέρχουσι δʼ ἄελλαι"
+    },
+    {
+      "n": 305,
+      "greek": "παντοίων ἀνέμων. νῦν μοι σῶς αἰπὺς ὄλεθρος."
+    },
+    {
+      "n": 306,
+      "greek": "τρὶς μάκαρες Δαναοὶ καὶ τετράκις, οἳ τότʼ ὄλοντο"
+    },
+    {
+      "n": 307,
+      "greek": "Τροίῃ ἐν εὐρείῃ χάριν Ἀτρεΐδῃσι φέροντες."
+    },
+    {
+      "n": 308,
+      "greek": "ὡς δὴ ἐγώ γʼ ὄφελον θανέειν καὶ πότμον ἐπισπεῖν"
+    },
+    {
+      "n": 309,
+      "greek": "ἤματι τῷ ὅτε μοι πλεῖστοι χαλκήρεα δοῦρα"
+    },
+    {
+      "n": 310,
+      "greek": "Τρῶες ἐπέρριψαν περὶ Πηλεΐωνι θανόντι."
+    },
+    {
+      "n": 311,
+      "greek": "τῷ κʼ ἔλαχον κτερέων, καί μευ κλέος ἦγον Ἀχαιοί·"
+    },
+    {
+      "n": 312,
+      "greek": "νῦν δέ λευγαλέῳ θανάτῳ εἵμαρτο ἁλῶναι."
+    },
+    {
+      "n": 313,
+      "greek": "ὣς ἄρα μιν εἰπόντʼ ἔλασεν μέγα κῦμα κατʼ ἄκρης"
+    },
+    {
+      "n": 314,
+      "greek": "δεινὸν ἐπεσσύμενον, περὶ δὲ σχεδίην ἐλέλιξε."
+    },
+    {
+      "n": 315,
+      "greek": "τῆλε δʼ ἀπὸ σχεδίης αὐτὸς πέσε, πηδάλιον δὲ"
+    },
+    {
+      "n": 316,
+      "greek": "ἐκ χειρῶν προέηκε· μέσον δέ οἱ ἱστὸν ἔαξεν"
+    },
+    {
+      "n": 317,
+      "greek": "δεινὴ μισγομένων ἀνέμων ἐλθοῦσα θύελλα,"
+    },
+    {
+      "n": 318,
+      "greek": "τηλοῦ δὲ σπεῖρον καὶ ἐπίκριον ἔμπεσε πόντῳ."
+    },
+    {
+      "n": 319,
+      "greek": "τὸν δʼ ἄρʼ ὑπόβρυχα θῆκε πολὺν χρόνον, οὐδʼ ἐδυνάσθη"
+    },
+    {
+      "n": 320,
+      "greek": "αἶψα μάλʼ ἀνσχεθέειν μεγάλου ὑπὸ κύματος ὁρμῆς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "of all manner of winds sweep upon me; now is my utter destruction sure. Thrice blessed those Danaans, aye, four times blessed, who of old perished in the wide land of Troy, doing the pleasure of the sons of Atreus. Even so would that I had died and met my fate on that day when the throngs"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "of the Trojans hurled upon me bronze-tipped spears, fighting around the body of the dead son of Peleus. Then should I have got funeral rites, and the Achaeans would have spread my fame, but now by a miserable death was it appointed me to be cut off.” Even as thus he spoke the great wave smote him from on high, rushing upon him with terrible might, and around it whirled his raft."
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "Far from the raft he fell, and let fall the steering-oar from his hand; but his mast was broken in the midst by the fierce blast of tumultuous winds that came upon it, and far in the sea sail and yardarm fell. As for him, long time did the wave hold him in the depths, nor could he"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "rise at once from beneath the onrush of the mighty wave, for the garments which beautiful Calypso had given him weighed him down. At length, however, he came up, and spat forth from his mouth the bitter brine which flowed in streams from his head. Yet even so he did not forget his raft, in evil case though he was,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "βουσὶν ἐπʼ ἀλλοτρίῃσι καθήμενον ἄλγεα πάσχειν."
+    },
+    {
+      "n": 222,
+      "greek": "καί κεν δὴ πάλαι ἄλλον ὑπερμενέων βασιλήων"
+    },
+    {
+      "n": 223,
+      "greek": "ἐξικόμην φεύγων, ἐπεὶ οὐκέτʼ ἀνεκτὰ πέλονται·"
+    },
+    {
+      "n": 224,
+      "greek": "ἀλλʼ ἔτι τὸν δύστηνον ὀΐομαι, εἴ ποθεν ἐλθὼν"
+    },
+    {
+      "n": 225,
+      "greek": "ἀνδρῶν μνηστήρων σκέδασιν κατὰ δώματα θείῃ."
+    },
+    {
+      "n": 226,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 227,
+      "greek": "βουκόλʼ, ἐπεὶ οὔτε κακῷ οὔτʼ ἄφρονι φωτὶ ἔοικας,"
+    },
+    {
+      "n": 228,
+      "greek": "γιγνώσκω δὲ καὶ αὐτὸς ὅ τοι πινυτὴ φρένας ἵκει,"
+    },
+    {
+      "n": 229,
+      "greek": "τοὔνεκά τοι ἐρέω καὶ ἐπὶ μέγαν ὅρκον ὀμοῦμαι·"
+    },
+    {
+      "n": 230,
+      "greek": "ἴστω νῦν Ζεὺς πρῶτα θεῶν ξενίη τε τράπεζα"
+    },
+    {
+      "n": 231,
+      "greek": "ἱστίη τʼ Ὀδυσῆος ἀμύμονος, ἣν ἀφικάνω,"
+    },
+    {
+      "n": 232,
+      "greek": "ἦ σέθεν ἐνθάδʼ ἐόντος ἐλεύσεται οἴκαδʼ Ὀδυσσεύς·"
+    },
+    {
+      "n": 233,
+      "greek": "σοῖσιν δʼ ὀφθαλμοῖσιν ἐπόψεαι, αἴ κʼ ἐθέλῃσθα,"
+    },
+    {
+      "n": 234,
+      "greek": "κτεινομένους μνηστῆρας, οἳ ἐνθάδε κοιρανέουσιν."
+    },
+    {
+      "n": 235,
+      "greek": "τὸν δʼ αὖτε προσέειπε βοῶν ἐπιβουκόλος ἀνήρ·"
+    },
+    {
+      "n": 236,
+      "greek": "αἲ γὰρ τοῦτο, ξεῖνε, ἔπος τελέσειε Κρονίων·"
+    },
+    {
+      "n": 237,
+      "greek": "γνοίης χʼ οἵη ἐμὴ δύναμις καὶ χεῖρες ἕπονται."
+    },
+    {
+      "n": 238,
+      "greek": "ὣς δʼ αὔτως Εὔμαιος ἐπεύξατο πᾶσι θεοῖσι"
+    },
+    {
+      "n": 239,
+      "greek": "νοστῆσαι Ὀδυσῆα πολύφρονα ὅνδε δόμονδε."
+    },
+    {
+      "n": 240,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "and make a scattering of the wooers in his house.” Then Odysseus of many wiles answered him, and said: “Neatherd, since thou seemest to be neither an evil man nor a witless, and I see for myself that thou hast gotten an understanding heart, therefore will I speak out and swear a great oath to confirm my words."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "Now be my witness Zeus above all gods, and this hospitable board, and the hearth of noble Odysseus to which I am come, that verily while thou art here Odysseus shall come home, and thou shalt see with thine eyes, if thou wilt, the slaying of the wooers, who lord it here.”"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "Then the herdsman of the cattle answered him: “Ah, stranger, I would that the son of Cronos might fulfil this word of thine! Then shouldest thou know what manner of might is mine, and how my hands obey.” And even in like manner did Eumaeus pray to all the gods that wise Odysseus might come back to his own home."
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "Thus they spoke to one another, but the wooers meanwhile were plotting death and fate for Telemachus; howbeit there came to them a bird on their left, an eagle of lofty flight, clutching a timid dove. Then Amphinomus spoke in their assembly, and said:"
+    }
+  ]
+}

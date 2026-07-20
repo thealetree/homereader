@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "μνηστῆρας δʼ ὤτρυνε Δαμαστορίδης Ἀγέλαος,"
+    },
+    {
+      "n": 242,
+      "greek": "Εὐρύνομός τε καὶ Ἀμφιμέδων Δημοπτόλεμός τε,"
+    },
+    {
+      "n": 243,
+      "greek": "Πείσανδρός τε Πολυκτορίδης Πόλυβός τε δαΐφρων·"
+    },
+    {
+      "n": 244,
+      "greek": "οἱ γὰρ μνηστήρων ἀρετῇ ἔσαν ἔξοχʼ ἄριστοι,"
+    },
+    {
+      "n": 245,
+      "greek": "ὅσσοι ἔτʼ ἔζωον περί τε ψυχέων ἐμάχοντο·"
+    },
+    {
+      "n": 246,
+      "greek": "τοὺς δʼ ἤδη ἐδάμασσε βιὸς καὶ ταρφέες ἰοί."
+    },
+    {
+      "n": 247,
+      "greek": "τοῖς δʼ Ἀγέλεως μετέειπεν, ἔπος πάντεσσι πιφαύσκων·"
+    },
+    {
+      "n": 248,
+      "greek": "ὦ φίλοι, ἤδη σχήσει ἀνὴρ ὅδε χεῖρας ἀάπτους·"
+    },
+    {
+      "n": 249,
+      "greek": "καὶ δή οἱ Μέντωρ μὲν ἔβη κενὰ εὔγματα εἰπών,"
+    },
+    {
+      "n": 250,
+      "greek": "οἱ δʼ οἶοι λείπονται ἐπὶ πρώτῃσι θύρῃσι."
+    },
+    {
+      "n": 251,
+      "greek": "τῷ νῦν μὴ ἅμα πάντες ἐφίετε δούρατα μακρά,"
+    },
+    {
+      "n": 252,
+      "greek": "ἀλλʼ ἄγεθʼ οἱ ἓξ πρῶτον ἀκοντίσατʼ, αἴ κέ ποθι Ζεὺς"
+    },
+    {
+      "n": 253,
+      "greek": "δώῃ Ὀδυσσῆα βλῆσθαι καὶ κῦδος ἀρέσθαι."
+    },
+    {
+      "n": 254,
+      "greek": "τῶν δʼ ἄλλων οὐ κῆδος, ἐπὴν οὗτός γε πέσῃσιν."
+    },
+    {
+      "n": 255,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀκόντισαν ὡς ἐκέλευεν,"
+    },
+    {
+      "n": 256,
+      "greek": "ἱέμενοι· τὰ δὲ πάντα ἐτώσια θῆκεν Ἀθήνη,"
+    },
+    {
+      "n": 257,
+      "greek": "τῶν ἄλλος μὲν σταθμὸν ἐϋσταθέος μεγάροιο"
+    },
+    {
+      "n": 258,
+      "greek": "βεβλήκει, ἄλλος δὲ θύρην πυκινῶς ἀραρυῖαν·"
+    },
+    {
+      "n": 259,
+      "greek": "ἄλλου δʼ ἐν τοίχῳ μελίη πέσε χαλκοβάρεια."
+    },
+    {
+      "n": 260,
+      "greek": "αὐτὰρ ἐπεὶ δὴ δούρατʼ ἀλεύαντο μνηστήρων,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "who still lived and fought for their lives; but the rest the bow and the swiftly-falling arrows had by now laid low. But Agelaus spoke among them, and declared his word to all: “Friends, now at length will this man stay his invincible hands. Lo, Mentor has gone from him, and has but uttered empty boasts,"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "and they are left alone there at the outer doors. Therefore hurl not now upon them your long spears all at once, but come, do you six throw first in the hope that Zeus may grant that Odysseus be struck, and that we win glory. Of the rest there is no care, once he shall have fallen.”"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "So he spoke, and they all hurled their spears, as he bade, eagerly; but Athena made all vain. One man smote the door-post of the well-built hall, another the close-fitting door, another's ashen spear, heavy with bronze, struck upon the wall."
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "But when they had avoided the spears of the wooers, first among them spoke the much-enduring goodly Odysseus: “Friends, now I give the word that we too cast our spears into the throng of the wooers, who are minded to slay us in addition to their former wrongs.”"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 540,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "ἦ τοι ὁ μὲν χαίρων ἐπεβήσετο πατρίδος αἴης"
+    },
+    {
+      "n": 522,
+      "greek": "καὶ κύνει ἁπτόμενος ἣν πατρίδα· πολλὰ δʼ ἀπʼ αὐτοῦ"
+    },
+    {
+      "n": 523,
+      "greek": "δάκρυα θερμὰ χέοντʼ, ἐπεὶ ἀσπασίως ἴδε γαῖαν."
+    },
+    {
+      "n": 524,
+      "greek": "τὸν δʼ ἄρʼ ἀπὸ σκοπιῆς εἶδε σκοπός, ὅν ῥα καθεῖσεν"
+    },
+    {
+      "n": 525,
+      "greek": "Αἴγισθος δολόμητις ἄγων, ὑπὸ δʼ ἔσχετο μισθὸν"
+    },
+    {
+      "n": 526,
+      "greek": "χρυσοῦ δοιὰ τάλαντα· φύλασσε δʼ ὅ γʼ εἰς ἐνιαυτόν,"
+    },
+    {
+      "n": 527,
+      "greek": "μή ἑ λάθοι παριών, μνήσαιτο δὲ θούριδος ἀλκῆς."
+    },
+    {
+      "n": 528,
+      "greek": "βῆ δʼ ἴμεν ἀγγελέων πρὸς δώματα ποιμένι λαῶν."
+    },
+    {
+      "n": 529,
+      "greek": "αὐτίκα δʼ Αἴγισθος δολίην ἐφράσσατο τέχνην·"
+    },
+    {
+      "n": 530,
+      "greek": "κρινάμενος κατὰ δῆμον ἐείκοσι φῶτας ἀρίστους"
+    },
+    {
+      "n": 531,
+      "greek": "εἷσε λόχον, ἑτέρωθι δʼ ἀνώγει δαῖτα πένεσθαι."
+    },
+    {
+      "n": 532,
+      "greek": "αὐτὰρ ὁ βῆ καλέων Ἀγαμέμνονα, ποιμένα λαῶν"
+    },
+    {
+      "n": 533,
+      "greek": "ἵπποισιν καὶ ὄχεσφιν, ἀεικέα μερμηρίζων."
+    },
+    {
+      "n": 534,
+      "greek": "τὸν δʼ οὐκ εἰδότʼ ὄλεθρον ἀνήγαγε καὶ κατέπεφνεν"
+    },
+    {
+      "n": 535,
+      "greek": "δειπνίσσας, ὥς τίς τε κατέκτανε βοῦν ἐπὶ φάτνῃ."
+    },
+    {
+      "n": 536,
+      "greek": "οὐδέ τις Ἀτρεΐδεω ἑτάρων λίπεθʼ οἵ οἱ ἕποντο,"
+    },
+    {
+      "n": 537,
+      "greek": "οὐδέ τις Αἰγίσθου, ἀλλʼ ἔκταθεν ἐν μεγάροισιν."
+    },
+    {
+      "n": 538,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐμοί γε κατεκλάσθη φίλον ἦτορ,"
+    },
+    {
+      "n": 539,
+      "greek": "κλαῖον δʼ ἐν ψαμάθοισι καθήμενος, οὐδέ νύ μοι κῆρ"
+    },
+    {
+      "n": 540,
+      "greek": "ἤθελʼ ἔτι ζώειν καὶ ὁρᾶν φάος ἠελίοιο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "guileful Aegisthus took and set there, promising him as a reward two talents of gold; and he had been keeping guard for a year, lest Agamemnon should pass by him unseen, and be mindful of his furious might. So he went to the palace to bear the tidings to the shepherd of the people, and Aegisthus straightway planned a treacherous device."
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "He chose out twenty men, the best in the land, and set them to lie in wait, but on the further side of the hall he bade prepare a feast. Then he went with chariot and horses to summon Agamemnon, shepherd of the people, his mind pondering a dastardly deed. So he brought him up all unaware of his doom,"
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "and when he had feasted him he slew him, as one slays an ox at the stall. And not one of the comrades of the son of Atreus was left, of all that followed him, nor one of the men of Aegisthus, but they were all slain in the halls.’ “So he spoke, and my spirit was broken within me, and I wept, as I sat on the sands, nor had my heart"
+    },
+    {
+      "lines": [
+        540,
+        540
+      ],
+      "text": "any longer desire to live and to behold the light of the sun. But when I had had my fill of weeping and writhing, then the unerring old man of the sea said to me: “‘No more, son of Atreus, do thou weep long time thus without ceasing, for in it we shall find no help. Nay, rather, with all the speed thou canst,"
+    }
+  ]
+}

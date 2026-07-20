@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ὃς λαὸν ἤγειρα· μάλιστα δέ μʼ ἄλγος ἱκάνει."
+    },
+    {
+      "n": 42,
+      "greek": "οὔτε τινʼ ἀγγελίην στρατοῦ ἔκλυον ἐρχομένοιο,"
+    },
+    {
+      "n": 43,
+      "greek": "ἥν χʼ ὑμῖν σάφα εἴπω, ὅτε πρότερός γε πυθοίμην,"
+    },
+    {
+      "n": 44,
+      "greek": "οὔτε τι δήμιον ἄλλο πιφαύσκομαι οὐδʼ ἀγορεύω,"
+    },
+    {
+      "n": 45,
+      "greek": "ἀλλʼ ἐμὸν αὐτοῦ χρεῖος, ὅ μοι κακὰ ἔμπεσεν οἴκῳ"
+    },
+    {
+      "n": 46,
+      "greek": "δοιά· τὸ μὲν πατέρʼ ἐσθλὸν ἀπώλεσα, ὅς ποτʼ ἐν ὑμῖν"
+    },
+    {
+      "n": 47,
+      "greek": "τοίσδεσσιν βασίλευε, πατὴρ δʼ ὣς ἤπιος ἦεν·"
+    },
+    {
+      "n": 48,
+      "greek": "νῦν δʼ αὖ καὶ πολὺ μεῖζον, ὃ δὴ τάχα οἶκον ἅπαντα"
+    },
+    {
+      "n": 49,
+      "greek": "πάγχυ διαρραίσει, βίοτον δʼ ἀπὸ πάμπαν ὀλέσσει."
+    },
+    {
+      "n": 50,
+      "greek": "μητέρι μοι μνηστῆρες ἐπέχραον οὐκ ἐθελούσῃ,"
+    },
+    {
+      "n": 51,
+      "greek": "τῶν ἀνδρῶν φίλοι υἷες, οἳ ἐνθάδε γʼ εἰσὶν ἄριστοι,"
+    },
+    {
+      "n": 52,
+      "greek": "οἳ πατρὸς μὲν ἐς οἶκον ἀπερρίγασι νέεσθαι"
+    },
+    {
+      "n": 53,
+      "greek": "Ἰκαρίου, ὥς κʼ αὐτὸς ἐεδνώσαιτο θύγατρα,"
+    },
+    {
+      "n": 54,
+      "greek": "δοίη δʼ ᾧ κʼ ἐθέλοι καί οἱ κεχαρισμένος ἔλθοι·"
+    },
+    {
+      "n": 55,
+      "greek": "οἱ δʼ εἰς ἡμέτερον πωλεύμενοι ἤματα πάντα,"
+    },
+    {
+      "n": 56,
+      "greek": "βοῦς ἱερεύοντες καὶ ὄις καὶ πίονας αἶγας"
+    },
+    {
+      "n": 57,
+      "greek": "εἰλαπινάζουσιν πίνουσί τε αἴθοπα οἶνον"
+    },
+    {
+      "n": 58,
+      "greek": "μαψιδίως· τὰ δὲ πολλὰ κατάνεται. οὐ γὰρ ἔπʼ ἀνήρ,"
+    },
+    {
+      "n": 59,
+      "greek": "οἷος Ὀδυσσεὺς ἔσκεν, ἀρὴν ἀπὸ οἴκου ἀμῦναι."
+    },
+    {
+      "n": 60,
+      "greek": "ἡμεῖς δʼ οὔ νύ τι τοῖοι ἀμυνέμεν· ἦ καὶ ἔπειτα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "Nay, it is mine own need, for that evil has fallen upon my house in two-fold wise. First, I have lost my noble sire who was once king among you here, and was gentle as a father; and now there is come an evil yet greater far, which will presently altogether destroy my house and ruin all my livelihood."
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "My mother have wooers beset against her will, the sons of those men who are here the noblest. They shrink from going to the house of her father, Icarius, that he may himself exact the bride-gifts for his daughter, and give her to whom he will, even to him who meets his favour,"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "but thronging our house day after day they slay our oxen and sheep and fat goats, and keep revel, and drink the sparkling wine recklessly; and havoc is made of all this wealth. For there is no man here, such as Odysseus was, to ward off ruin from the house."
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "As for me, I am no-wise such as he to ward it off. Nay verily, even if I try I shall be found a weakling and one knowing naught of valor. Yet truly I would defend myself, if I had but the power; for now deeds past all enduring have been wrought, and past all that is seemly has my house been destroyed. Take shame upon yourselves,"
+    }
+  ]
+}

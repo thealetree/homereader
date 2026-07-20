@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "οὔ τι μάλʼ ἀρτίφρων, ἐπεὶ οὐ τόλμησεν ἕκαστα"
+    },
+    {
+      "n": 262,
+      "greek": "εἰπεῖν ἠδʼ ἐπακοῦσαι ἐμὸν ἔπος, ὡς ἐρέεινον"
+    },
+    {
+      "n": 263,
+      "greek": "ἀμφὶ ξείνῳ ἐμῷ, ἤ που ζώει τε καὶ ἔστιν"
+    },
+    {
+      "n": 264,
+      "greek": "ἦ ἤδη τέθνηκε καὶ εἰν Ἀΐδαο δόμοισιν."
+    },
+    {
+      "n": 265,
+      "greek": "ἐκ γάρ τοι ἐρέω, σὺ δὲ σύνθεο καί μευ ἄκουσον·"
+    },
+    {
+      "n": 266,
+      "greek": "ἄνδρα ποτʼ ἐξείνισσα φίλῃ ἐνὶ πατρίδι γαίῃ"
+    },
+    {
+      "n": 267,
+      "greek": "ἡμέτερόνδʼ ἐλθόντα, καὶ οὔ πω τις βροτὸς ἄλλος"
+    },
+    {
+      "n": 268,
+      "greek": "ξείνων τηλεδαπῶν φιλίων ἐμὸν ἵκετο δῶμα·"
+    },
+    {
+      "n": 269,
+      "greek": "εὔχετο δʼ ἐξ Ἰθάκης γένος ἔμμεναι, αὐτὰρ ἔφασκε"
+    },
+    {
+      "n": 270,
+      "greek": "Λαέρτην Ἀρκεισιάδην πατέρʼ ἔμμεναι αὐτῷ."
+    },
+    {
+      "n": 271,
+      "greek": "τὸν μὲν ἐγὼ πρὸς δώματʼ ἄγων ἐῢ ἐξείνισσα,"
+    },
+    {
+      "n": 272,
+      "greek": "ἐνδυκέως φιλέων, πολλῶν κατὰ οἶκον ἐόντων,"
+    },
+    {
+      "n": 273,
+      "greek": "καί οἱ δῶρα πόρον ξεινήϊα, οἷα ἐῴκει."
+    },
+    {
+      "n": 274,
+      "greek": "χρυσοῦ μέν οἱ δῶκʼ εὐεργέος ἑπτὰ τάλαντα,"
+    },
+    {
+      "n": 275,
+      "greek": "δῶκα δέ οἱ κρητῆρα πανάργυρον ἀνθεμόεντα,"
+    },
+    {
+      "n": 276,
+      "greek": "δώδεκα δʼ ἁπλοΐδας χλαίνας, τόσσους δὲ τάπητας,"
+    },
+    {
+      "n": 277,
+      "greek": "τόσσα δὲ φάρεα καλά, τόσους δʼ ἐπὶ τοῖσι χιτῶνας,"
+    },
+    {
+      "n": 278,
+      "greek": "χωρὶς δʼ αὖτε γυναῖκας, ἀμύμονα ἔργα ἰδυίας,"
+    },
+    {
+      "n": 279,
+      "greek": "τέσσαρας εἰδαλίμας, ἃς ἤθελεν αὐτὸς ἑλέσθαι."
+    },
+    {
+      "n": 280,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα πατὴρ κατὰ δάκρυον εἴβων·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "For I will tell thee, and do thou give heed and hearken. I once entertained in my dear native land a man that came to our house, and never did any man beside of strangers that dwell afar come to my house a more welcome guest. He declared that by lineage he came from Ithaca, and said"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "that his own father was Laertes, son of Arceisius. So I took him to the house and gave him entertainment with kindly welcome of the rich store that was within, and I gave him gifts of friendship, such as are meet. Of well-wrought gold"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "I gave him seven talents, and a mixing-bowl all of silver, embossed with flowers, and twelve cloaks of single fold, and as many coverlets, and as many fair mantles, and as many tunics besides, and furthermore women, skilled in goodly handiwork, four comely women, whom he himself was minded to choose.”"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "Then his father answered him, weeping: “Stranger, verily thou art come to the country of which thou dost ask, but wanton and reckless men now possess it. And all in vain didst thou bestow those gifts, the countless gifts thou gavest. For if thou hadst found him yet alive in the land of Ithaca,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "τοὶ δʼ αὖτʼ ἀμφʼ Ὀδυσῆα δαΐφρονα ποικιλομήτην,"
+    },
+    {
+      "n": 282,
+      "greek": "μνηστήρων ἐς ὅμιλον ἀκόντισαν ὀξέα δοῦρα."
+    },
+    {
+      "n": 283,
+      "greek": "ἔνθʼ αὖτʼ Εὐρυδάμαντα βάλε πτολίπορθος Ὀδυσσεύς,"
+    },
+    {
+      "n": 284,
+      "greek": "Ἀμφιμέδοντα δὲ Τηλέμαχος, Πόλυβον δὲ συβώτης·"
+    },
+    {
+      "n": 285,
+      "greek": "Κτήσιππον δʼ ἄρʼ ἔπειτα βοῶν ἐπιβουκόλος ἀνὴρ"
+    },
+    {
+      "n": 286,
+      "greek": "βεβλήκει πρὸς στῆθος, ἐπευχόμενος δὲ προσηύδα·"
+    },
+    {
+      "n": 287,
+      "greek": "ὦ Πολυθερσεΐδη φιλοκέρτομε, μή ποτε πάμπαν"
+    },
+    {
+      "n": 288,
+      "greek": "εἴκων ἀφραδίῃς μέγα εἰπεῖν, ἀλλὰ θεοῖσιν"
+    },
+    {
+      "n": 289,
+      "greek": "μῦθον ἐπιτρέψαι, ἐπεὶ ἦ πολὺ φέρτεροί εἰσι."
+    },
+    {
+      "n": 290,
+      "greek": "τοῦτό τοι ἀντὶ ποδὸς ξεινήϊον, ὅν ποτʼ ἔδωκας"
+    },
+    {
+      "n": 291,
+      "greek": "ἀντιθέῳ Ὀδυσῆϊ δόμον κάτʼ ἀλητεύοντι."
+    },
+    {
+      "n": 292,
+      "greek": "ἦ ῥα βοῶν ἑλίκων ἐπιβουκόλος· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 293,
+      "greek": "οὖτα Δαμαστορίδην αὐτοσχεδὸν ἔγχεϊ μακρῷ."
+    },
+    {
+      "n": 294,
+      "greek": "Τηλέμαχος δʼ Εὐηνορίδην Λειώκριτον οὖτα"
+    },
+    {
+      "n": 295,
+      "greek": "δουρὶ μέσον κενεῶνα, διαπρὸ δὲ χαλκὸν ἔλασσεν·"
+    },
+    {
+      "n": 296,
+      "greek": "ἤριπε δὲ πρηνής, χθόνα δʼ ἤλασε παντὶ μετώπῳ."
+    },
+    {
+      "n": 297,
+      "greek": "δὴ τότʼ Ἀθηναίη φθισίμβροτον αἰγίδʼ ἀνέσχεν"
+    },
+    {
+      "n": 298,
+      "greek": "ὑψόθεν ἐξ ὀροφῆς· τῶν δὲ φρένες ἐπτοίηθεν."
+    },
+    {
+      "n": 299,
+      "greek": "οἱ δʼ ἐφέβοντο κατὰ μέγαρον βόες ὣς ἀγελαῖαι·"
+    },
+    {
+      "n": 300,
+      "greek": "τὰς μέν τʼ αἰόλος οἶστρος ἐφορμηθεὶς ἐδόνησεν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "and thereafter the herdsman of the cattle smote Ctesippus in the breast, and boasted over him, saying: “Son of Polytherses, thou lover of revilings, never more at all do thou speak big, yielding to folly, but leave the matter to the gods, since verily they are mightier far."
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "This is thy gift of welcome to match the hoof which of late thou gavest to godlike Odysseus, when he went begging through the house.” So spoke the herdsman of the sleek cattle. But Odysseus wounded the son of Damastor in close fight with a thrust of his long spear, and Telemachus wounded Leiocritus, son of Evenor,"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "with a spear-thrust full upon the groin, and drove the bronze clean through, and he fell headlong and struck the ground full with his forehead. Then Athena held up her aegis, the bane of mortals, on high from the roof, and the minds of the wooers were panic-stricken, and they fled through the halls like a herd of kine"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "that the darting gad-fly falls upon and drives along in the season of spring, when the long days come. And even as vultures of crooked talons and curved beaks come forth from the mountains and dart upon smaller birds, which scour the plain, flying low beneath the clouds,"
+    }
+  ]
+}

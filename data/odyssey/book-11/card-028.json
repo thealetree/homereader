@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 28,
+  "lineStart": 541,
+  "lineEnd": 560,
+  "lines": [
+    {
+      "n": 541,
+      "greek": "αἱ δʼ ἄλλαι ψυχαὶ νεκύων κατατεθνηώτων"
+    },
+    {
+      "n": 542,
+      "greek": "ἕστασαν ἀχνύμεναι, εἴροντο δὲ κήδεʼ ἑκάστη."
+    },
+    {
+      "n": 543,
+      "greek": "οἴη δʼ Αἴαντος ψυχὴ Τελαμωνιάδαο"
+    },
+    {
+      "n": 544,
+      "greek": "νόσφιν ἀφεστήκει, κεχολωμένη εἵνεκα νίκης,"
+    },
+    {
+      "n": 545,
+      "greek": "τήν μιν ἐγὼ νίκησα δικαζόμενος παρὰ νηυσὶ"
+    },
+    {
+      "n": 546,
+      "greek": "τεύχεσιν ἀμφʼ Ἀχιλῆος· ἔθηκε δὲ πότνια μήτηρ."
+    },
+    {
+      "n": 547,
+      "greek": "παῖδες δὲ Τρώων δίκασαν καὶ Παλλὰς Ἀθήνη."
+    },
+    {
+      "n": 548,
+      "greek": "ὡς δὴ μὴ ὄφελον νικᾶν τοιῷδʼ ἐπʼ ἀέθλῳ·"
+    },
+    {
+      "n": 549,
+      "greek": "τοίην γὰρ κεφαλὴν ἕνεκʼ αὐτῶν γαῖα κατέσχεν,"
+    },
+    {
+      "n": 550,
+      "greek": "Αἴανθʼ, ὃς πέρι μὲν εἶδος, πέρι δʼ ἔργα τέτυκτο"
+    },
+    {
+      "n": 551,
+      "greek": "τῶν ἄλλων Δαναῶν μετʼ ἀμύμονα Πηλεΐωνα."
+    },
+    {
+      "n": 552,
+      "greek": "τὸν μὲν ἐγὼν ἐπέεσσι προσηύδων μειλιχίοισιν·"
+    },
+    {
+      "n": 553,
+      "greek": "Αἶαν, παῖ Τελαμῶνος ἀμύμονος, οὐκ ἄρʼ ἔμελλες"
+    },
+    {
+      "n": 554,
+      "greek": "οὐδὲ θανὼν λήσεσθαι ἐμοὶ χόλου εἵνεκα τευχέων"
+    },
+    {
+      "n": 555,
+      "greek": "οὐλομένων; τὰ δὲ πῆμα θεοὶ θέσαν Ἀργείοισι,"
+    },
+    {
+      "n": 556,
+      "greek": "τοῖος γάρ σφιν πύργος ἀπώλεο· σεῖο δʼ Ἀχαιοὶ"
+    },
+    {
+      "n": 557,
+      "greek": "ἶσον Ἀχιλλῆος κεφαλῇ Πηληϊάδαο"
+    },
+    {
+      "n": 558,
+      "greek": "ἀχνύμεθα φθιμένοιο διαμπερές· οὐδέ τις ἄλλος"
+    },
+    {
+      "n": 559,
+      "greek": "αἴτιος, ἀλλὰ Ζεὺς Δαναῶν στρατὸν αἰχμητάων"
+    },
+    {
+      "n": 560,
+      "greek": "ἐκπάγλως ἤχθηρε, τεῒν δʼ ἐπὶ μοῖραν ἔθηκεν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        549
+      ],
+      "text": "that I had won over him in the contest by the ships for the arms of Achilles, whose honored mother had set them for a prize; and the judges were the sons of the Trojans and Pallas Athena. I would that I had never won in the contest for such a prize, over so noble a head did the earth close because of those arms,"
+    },
+    {
+      "lines": [
+        550,
+        554
+      ],
+      "text": "even over Aias, who in comeliness and in deeds of war was above all the other Achaeans, next to the peerless son of Peleus. To him I spoke with soothing words: “‘Aias, son of peerless Telamon, wast thou then not even in death to forget thy wrath against me because of"
+    },
+    {
+      "lines": [
+        555,
+        559
+      ],
+      "text": "those accursed arms? Surely the gods set them to be a bane to the Argives: such a tower of strength was lost to them in thee; and for thee in death we Achaeans sorrow unceasingly, even as for the life of Achilles, son of Peleus. Yet no other is to blame but Zeus,"
+    },
+    {
+      "lines": [
+        560,
+        560
+      ],
+      "text": "who bore terrible hatred against the host of Danaan spearmen, and brought on thee thy doom. Nay, come hither, prince, that thou mayest hear my word and my speech; and subdue thy wrath and thy proud spirit.’ “So I spoke, but he answered me not a word, but went his way to Erebus to join the other spirits of those dead and gone."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "δρηστοσύνῃ οὐκ ἄν μοι ἐρίσσειε βροτὸς ἄλλος,"
+    },
+    {
+      "n": 322,
+      "greek": "πῦρ τʼ εὖ νηῆσαι διά τε ξύλα δανὰ κεάσσαι,"
+    },
+    {
+      "n": 323,
+      "greek": "δαιτρεῦσαί τε καὶ ὀπτῆσαι καὶ οἰνοχοῆσαι,"
+    },
+    {
+      "n": 324,
+      "greek": "οἷά τε τοῖς ἀγαθοῖσι παραδρώωσι χέρηες."
+    },
+    {
+      "n": 325,
+      "greek": "τὸν δὲ μέγʼ ὀχθήσας προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 326,
+      "greek": "ὤ μοι, ξεῖνε, τίη τοι ἐνὶ φρεσὶ τοῦτο νόημα"
+    },
+    {
+      "n": 327,
+      "greek": "ἔπλετο; ἦ σύ γε πάγχυ λιλαίεαι αὐτόθʼ ὀλέσθαι."
+    },
+    {
+      "n": 328,
+      "greek": "εἰ δὴ μνηστήρων ἐθέλεις καταδῦναι ὅμιλον,"
+    },
+    {
+      "n": 329,
+      "greek": "τῶν ὕβρις τε βίη τε σιδήρεον οὐρανὸν ἵκει."
+    },
+    {
+      "n": 330,
+      "greek": "οὔ τοι τοιοίδʼ εἰσὶν ὑποδρηστῆρες ἐκείνων,"
+    },
+    {
+      "n": 331,
+      "greek": "ἀλλὰ νέοι, χλαίνας εὖ εἱμένοι ἠδὲ χιτῶνας,"
+    },
+    {
+      "n": 332,
+      "greek": "αἰεὶ δὲ λιπαροὶ κεφαλὰς καὶ καλὰ πρόσωπα,"
+    },
+    {
+      "n": 333,
+      "greek": "οἵ σφιν ὑποδρώωσιν· ἐΰξεστοι δὲ τράπεζαι"
+    },
+    {
+      "n": 334,
+      "greek": "σίτου καὶ κρειῶν ἠδʼ οἴνου βεβρίθασιν."
+    },
+    {
+      "n": 335,
+      "greek": "ἀλλὰ μένʼ· οὐ γάρ τίς τοι ἀνιᾶται παρεόντι,"
+    },
+    {
+      "n": 336,
+      "greek": "οὔτʼ ἐγὼ οὔτε τις ἄλλος ἑταίρων, οἵ μοι ἔασιν."
+    },
+    {
+      "n": 337,
+      "greek": "αὐτὰρ ἐπὴν ἔλθῃσιν Ὀδυσσῆος φίλος υἱός,"
+    },
+    {
+      "n": 338,
+      "greek": "κεῖνός σε χλαῖνάν τε χιτῶνά τε εἵματα ἕσσει,"
+    },
+    {
+      "n": 339,
+      "greek": "πέμψει δʼ ὅππη σε κραδίη θυμός τε κελεύει."
+    },
+    {
+      "n": 340,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα πολύτλας δῖος Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "Then deeply moved didst thou speak to him, swineherd Eumaeus: “Ah me, stranger, why has such a thought come into thy mind? Verily thou art fain utterly to perish there, if thou wouldest indeed enter the throng of the wooers, whose wantonness and violence reach the iron heaven."
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "Not such as thou are their serving men; nay, they that serve them are young men, well clad in cloaks and tunics, and ever are their heads and bright faces sleek; and polished tables are laden with bread, and meat, and wine."
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "Nay, abide here; there is none that is vexed by thy presence, not I, nor any other of the men that are with me. But when the dear son of Odysseus comes, he will himself clothe thee in a cloak and a tunic as raiment, and will send thee whithersoever thy heart and spirit bid thee go.”"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "Then the much-enduring, goodly Odysseus answered him: “Would, Eumaeus, that thou mightest be as dear to father Zeus as thou art to me, for that thou hast made me cease from wandering and from grievous hardships. Than roaming naught else is more evil for mortals; yet for their cursed belly's sake"
+    }
+  ]
+}

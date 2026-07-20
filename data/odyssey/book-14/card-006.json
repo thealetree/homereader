@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "τόσσα συῶν συβόσια, τόσʼ αἰπόλια πλατέʼ αἰγῶν"
+    },
+    {
+      "n": 102,
+      "greek": "βόσκουσι ξεῖνοί τε καὶ αὐτοῦ βώτορες ἄνδρες."
+    },
+    {
+      "n": 103,
+      "greek": "ἐνθάδε δʼ αἰπόλια πλατέʼ αἰγῶν ἕνδεκα πάντα"
+    },
+    {
+      "n": 104,
+      "greek": "ἐσχατιῇ βόσκοντʼ, ἐπὶ δʼ ἀνέρες ἐσθλοὶ ὄρονται."
+    },
+    {
+      "n": 105,
+      "greek": "τῶν αἰεί σφιν ἕκαστος ἐπʼ ἤματι μῆλον ἀγινεῖ,"
+    },
+    {
+      "n": 106,
+      "greek": "ζατρεφέων αἰγῶν ὅς τις φαίνηται ἄριστος."
+    },
+    {
+      "n": 107,
+      "greek": "αὐτὰρ ἐγὼ σῦς τάσδε φυλάσσω τε ῥύομαί τε,"
+    },
+    {
+      "n": 108,
+      "greek": "καί σφι συῶν τὸν ἄριστον ἐῢ κρίνας ἀποπέμπω."
+    },
+    {
+      "n": 109,
+      "greek": "ὣς φάθʼ, ὁ δʼ ἐνδυκέως κρέα τʼ ἤσθιε πῖνέ τε οἶνον"
+    },
+    {
+      "n": 110,
+      "greek": "ἁρπαλέως ἀκέων, κακὰ δὲ μνηστῆρσι φύτευεν."
+    },
+    {
+      "n": 111,
+      "greek": "αὐτὰρ ἐπεὶ δείπνησε καὶ ἤραρε θυμὸν ἐδωδῇ,"
+    },
+    {
+      "n": 112,
+      "greek": "καί οἱ πλησάμενος δῶκε σκύφον, ᾧ περ ἔπινεν,"
+    },
+    {
+      "n": 113,
+      "greek": "οἴνου ἐνίπλειον· ὁ δʼ ἐδέξατο, χαῖρε δὲ θυμῷ,"
+    },
+    {
+      "n": 114,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 115,
+      "greek": "ὦ φίλε, τίς γάρ σε πρίατο κτεάτεσσιν ἑοῖσιν,"
+    },
+    {
+      "n": 116,
+      "greek": "ὧδε μάλʼ ἀφνειὸς καὶ καρτερὸς ὡς ἀγορεύεις;"
+    },
+    {
+      "n": 117,
+      "greek": "φῆς δʼ αὐτὸν φθίσθαι Ἀγαμέμνονος εἵνεκα τιμῆς."
+    },
+    {
+      "n": 118,
+      "greek": "εἰπέ μοι, αἴ κέ ποθι γνώω τοιοῦτον ἐόντα."
+    },
+    {
+      "n": 119,
+      "greek": "Ζεὺς γάρ που τό γε οἶδε καὶ ἀθάνατοι θεοὶ ἄλλοι,"
+    },
+    {
+      "n": 120,
+      "greek": "εἴ κέ μιν ἀγγείλαιμι ἰδών· ἐπὶ πολλὰ δʼ ἀλήθην."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "And each man of these ever drives up day by day one of his flock for the wooers, even that one of the fatted goats which seems to him the best. But as for me, I guard and keep these swine, and choose out with care and send them the best of the boars.” So he spoke, but Odysseus eagerly ate flesh and drank wine,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "greedily, in silence, and was sowing the seeds of evil for the wooers. But when he had dined, and satisfied his soul with food, then the swineherd filled the bowl from which he was himself wont to drink, and gave it him brim full of wine, and he took it, and was glad at heart; and he spoke, and addressed him with winged words:"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "“Friend, who was it who bought thee with his wealth, a man so very rich and mighty, as thou tellest? Thou saidest that he died to win recompense for Agamemnon; tell me, if haply I may know him, being such an one. For Zeus, I ween, and the other immortal gods know"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "whether I have seen him, and could bring tidings; for I have wandered far.” Then the swineherd, a leader of men, answered him: “Old man, no wanderer that came and brought tidings of him could persuade his wife and his dear son; nay, at random, when they have need of entertainment, do vagabonds"
+    }
+  ]
+}

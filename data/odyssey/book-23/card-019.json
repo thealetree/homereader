@@ -1,0 +1,72 @@
+{
+  "book": 23,
+  "card": 19,
+  "lineStart": 362,
+  "lineEnd": 372,
+  "lines": [
+    {
+      "n": 362,
+      "greek": "αὐτίκα γὰρ φάτις εἶσιν ἅμʼ ἠελίῳ ἀνιόντι"
+    },
+    {
+      "n": 363,
+      "greek": "ἀνδρῶν μνηστήρων, οὓς ἔκτανον ἐν μεγάροισιν·"
+    },
+    {
+      "n": 364,
+      "greek": "εἰς ὑπερῷʼ ἀναβᾶσα σὺν ἀμφιπόλοισι γυναιξὶν"
+    },
+    {
+      "n": 365,
+      "greek": "ἧσθαι, μηδέ τινα προτιόσσεο μηδʼ ἐρέεινε."
+    },
+    {
+      "n": 366,
+      "greek": "ἦ ῥα καὶ ἀμφʼ ὤμοισιν ἐδύσετο τεύχεα καλά,"
+    },
+    {
+      "n": 367,
+      "greek": "ὦρσε δὲ Τηλέμαχον καὶ βουκόλον ἠδὲ συβώτην,"
+    },
+    {
+      "n": 368,
+      "greek": "πάντας δʼ ἔντεʼ ἄνωγεν ἀρήϊα χερσὶν ἑλέσθαι."
+    },
+    {
+      "n": 369,
+      "greek": "οἱ δέ οἱ οὐκ ἀπίθησαν, ἐθωρήσσοντο δὲ χαλκῷ,"
+    },
+    {
+      "n": 370,
+      "greek": "ὤϊξαν δὲ θύρας, ἐκ δʼ ἤϊον· ἦρχε δʼ Ὀδυσσεύς."
+    },
+    {
+      "n": 371,
+      "greek": "ἤδη μὲν φάος ἦεν ἐπὶ χθόνα, τοὺς δʼ ἄρʼ Ἀθήνη"
+    },
+    {
+      "n": 372,
+      "greek": "νυκτὶ κατακρύψασα θοῶς ἐξῆγε πόληος."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "and abide there. Look thou on no man, nor ask a question.” He spoke, and girt about his shoulders his beautiful armour, and roused Telemachus and the neatherd and the swineherd, and bade them all take weapons of war in their hands. They did not disobey, but clad themselves in bronze,"
+    },
+    {
+      "lines": [
+        370,
+        372
+      ],
+      "text": "and opened the doors, and went forth, and Odysseus led the way. By now there was light over the earth, but Athena hid them in night, and swiftly led them forth from the city."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 31,
+  "lineStart": 601,
+  "lineEnd": 620,
+  "lines": [
+    {
+      "n": 601,
+      "greek": "ἵππους δʼ εἰς Ἰθάκην οὐκ ἄξομαι, ἀλλὰ σοὶ αὐτῷ"
+    },
+    {
+      "n": 602,
+      "greek": "ἐνθάδε λείψω ἄγαλμα· σὺ γὰρ πεδίοιο ἀνάσσεις"
+    },
+    {
+      "n": 603,
+      "greek": "εὐρέος, ᾧ ἔνι μὲν λωτὸς πολύς, ἐν δὲ κύπειρον"
+    },
+    {
+      "n": 604,
+      "greek": "πυροί τε ζειαί τε ἰδʼ εὐρυφυὲς κρῖ λευκόν."
+    },
+    {
+      "n": 605,
+      "greek": "ἐν δʼ Ἰθάκῃ οὔτʼ ἂρ δρόμοι εὐρέες οὔτε τι λειμών·"
+    },
+    {
+      "n": 606,
+      "greek": "αἰγίβοτος, καὶ μᾶλλον ἐπήρατος ἱπποβότοιο."
+    },
+    {
+      "n": 607,
+      "greek": "οὐ γάρ τις νήσων ἱππήλατος οὐδʼ ἐυλείμων,"
+    },
+    {
+      "n": 608,
+      "greek": "αἵ θʼ ἁλὶ κεκλίαται· Ἰθάκη δέ τε καὶ περὶ πασέων."
+    },
+    {
+      "n": 609,
+      "greek": "ὣς φάτο, μείδησεν δὲ βοὴν ἀγαθὸς Μενέλαος,"
+    },
+    {
+      "n": 610,
+      "greek": "χειρί τέ μιν κατέρεξεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 611,
+      "greek": "αἵματός εἰς ἀγαθοῖο, φίλον τέκος, οἷʼ ἀγορεύεις·"
+    },
+    {
+      "n": 612,
+      "greek": "τοιγὰρ ἐγώ τοι ταῦτα μεταστήσω· δύναμαι γάρ."
+    },
+    {
+      "n": 613,
+      "greek": "δώρων δʼ ὅσσʼ ἐν ἐμῷ οἴκῳ κειμήλια κεῖται,"
+    },
+    {
+      "n": 614,
+      "greek": "δώσω ὃ κάλλιστον καὶ τιμηέστατόν ἐστιν·"
+    },
+    {
+      "n": 615,
+      "greek": "δώσω τοι κρητῆρα τετυγμένον· ἀργύρεος δὲ"
+    },
+    {
+      "n": 616,
+      "greek": "ἔστιν ἅπας, χρυσῷ δʼ ἐπὶ χείλεα κεκράανται,"
+    },
+    {
+      "n": 617,
+      "greek": "ἔργον δʼ Ἡφαίστοιο. πόρεν δέ ἑ Φαίδιμος ἥρως,"
+    },
+    {
+      "n": 618,
+      "greek": "Σιδονίων βασιλεύς, ὅθʼ ἑὸς δόμος ἀμφεκάλυψε"
+    },
+    {
+      "n": 619,
+      "greek": "κεῖσέ με νοστήσαντα· τεῒν δʼ ἐθέλω τόδʼ ὀπάσσαι."
+    },
+    {
+      "n": 620,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        605,
+        609
+      ],
+      "text": "But in Ithaca there are no widespread courses nor aught of meadow-land. It is a pasture-land of goats and pleasanter than one that pastures horses. For not one of the islands that lean upon the sea is fit for driving horses, or rich in meadows, and Ithaca least of all.” So he spoke, and Menelaus, good at the war-cry, smiled,"
+    },
+    {
+      "lines": [
+        610,
+        614
+      ],
+      "text": "and stroked him with his hand, and spoke, and addressed him: “Thou art of noble blood, dear child, that thou speakest thus. Therefore will I change these gifts, for well I may. Of all the gifts that lie stored as treasures in my house, I will give thee that one which is fairest and costliest."
+    },
+    {
+      "lines": [
+        615,
+        619
+      ],
+      "text": "I will give thee a well-wrought mixing bowl. All of silver it is, and with gold are the rims thereof gilded, the work of Hephaestus; and the warrior Phaedimus, king of the Sidonians, gave it me, when his house sheltered me as I came thither, and now I am minded to give it to thee.”"
+    },
+    {
+      "lines": [
+        620,
+        620
+      ],
+      "text": "Thus they spoke to one another, and meanwhile the banqueters came to the palace of the divine king. They drove up sheep, and brought strengthening wine, and their wives with beautiful veils sent them bread. Thus they were busied about the feast in the halls."
+    }
+  ]
+}

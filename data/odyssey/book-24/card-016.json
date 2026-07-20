@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "νηὸς ἐπʼ ἀλλοτρίης, οἱ δʼ ἐκβήσαντες ἔβησαν;"
+    },
+    {
+      "n": 302,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 303,
+      "greek": "τοιγὰρ ἐγώ τοι πάντα μάλʼ ἀτρεκέως καταλέξω."
+    },
+    {
+      "n": 304,
+      "greek": "εἰμὶ μὲν ἐξ Ἀλύβαντος, ὅθι κλυτὰ δώματα ναίω,"
+    },
+    {
+      "n": 305,
+      "greek": "υἱὸς Ἀφείδαντος Πολυπημονίδαο ἄνακτος·"
+    },
+    {
+      "n": 306,
+      "greek": "αὐτὰρ ἐμοί γʼ ὄνομʼ ἐστὶν Ἐπήριτος· ἀλλά με δαίμων"
+    },
+    {
+      "n": 307,
+      "greek": "πλάγξʼ ἀπὸ Σικανίης δεῦρʼ ἐλθέμεν οὐκ ἐθέλοντα·"
+    },
+    {
+      "n": 308,
+      "greek": "νηῦς δέ μοι ἥδʼ ἕστηκεν ἐπʼ ἀγροῦ νόσφι πόληος."
+    },
+    {
+      "n": 309,
+      "greek": "αὐτὰρ Ὀδυσσῆϊ τόδε δὴ πέμπτον ἔτος ἐστίν,"
+    },
+    {
+      "n": 310,
+      "greek": "ἐξ οὗ κεῖθεν ἔβη καὶ ἐμῆς ἀπελήλυθε πάτρης,"
+    },
+    {
+      "n": 311,
+      "greek": "δύσμορος· ἦ τέ οἱ ἐσθλοὶ ἔσαν ὄρνιθες ἰόντι,"
+    },
+    {
+      "n": 312,
+      "greek": "δεξιοί, οἷς χαίρων μὲν ἐγὼν ἀπέπεμπον ἐκεῖνον,"
+    },
+    {
+      "n": 313,
+      "greek": "χαῖρε δὲ κεῖνος ἰών· θυμὸς δʼ ἔτι νῶϊν ἐώλπει"
+    },
+    {
+      "n": 314,
+      "greek": "μίξεσθαι ξενίῃ ἠδʼ ἀγλαὰ δῶρα διδώσειν."
+    },
+    {
+      "n": 315,
+      "greek": "ὣς φάτο, τὸν δʼ ἄχεος νεφέλη ἐκάλυψε μέλαινα·"
+    },
+    {
+      "n": 316,
+      "greek": "ἀμφοτέρῃσι δὲ χερσὶν ἑλὼν κόνιν αἰθαλόεσσαν"
+    },
+    {
+      "n": 317,
+      "greek": "χεύατο κὰκ κεφαλῆς πολιῆς, ἁδινὰ στεναχίζων."
+    },
+    {
+      "n": 318,
+      "greek": "τοῦ δʼ ὠρίνετο θυμός, ἀνὰ ῥῖνας δέ οἱ ἤδη"
+    },
+    {
+      "n": 319,
+      "greek": "δριμὺ μένος προὔτυψε φίλον πατέρʼ εἰσορόωντι."
+    },
+    {
+      "n": 320,
+      "greek": "κύσσε δέ μιν περιφὺς ἐπιάλμενος, ἠδὲ προσηύδα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "and I am the son of Apheidas, son of lord Polypemon, and my own name is Eperitus. But a god drove me wandering from Sicania to come hither against my will and my ship lies yonder off the tilled land away from the city. But as for Odysseus, it is now the fifth year"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "since he went thence, and departed from my country. Hapless man! Yet he had birds of good omen, when he set out, birds upon the right. So I was glad of them, as I sent him on his way, and he went gladly forth, and our hearts hoped that we should yet meet as host and guest and give one another glorious gifts.”"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "So he spoke, and a dark cloud of grief enwrapped Laertes, and with both his hands he took the dark dust and strewed it over his grey head with ceaseless groaning. Then the heart of Odysseus was stirred, and up through his nostrils shot a keen pang, as he beheld his dear father."
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "And he sprang toward him, and clasped him in his arms, and kissed him, saying: “Lo, father, I here before thee, my very self, am that man of whom thou dost ask; I am come in the twentieth year to my native land. But cease from grief and tearful lamenting, for I will tell thee all, though great is the need of haste."
+    }
+  ]
+}

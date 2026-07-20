@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "εἴα ἐυπλόκαμος, δεινὴ θεός, ἥ ῥά οἱ ἀχλὺν"
+    },
+    {
+      "n": 42,
+      "greek": "θεσπεσίην κατέχευε φίλα φρονέουσʼ ἐνὶ θυμῷ."
+    },
+    {
+      "n": 43,
+      "greek": "θαύμαζεν δʼ Ὀδυσεὺς λιμένας καὶ νῆας ἐίσας"
+    },
+    {
+      "n": 44,
+      "greek": "αὐτῶν θʼ ἡρώων ἀγορὰς καὶ τείχεα μακρὰ"
+    },
+    {
+      "n": 45,
+      "greek": "ὑψηλά, σκολόπεσσιν ἀρηρότα, θαῦμα ἰδέσθαι."
+    },
+    {
+      "n": 46,
+      "greek": "ἀλλʼ ὅτε δὴ βασιλῆος ἀγακλυτὰ δώμαθʼ ἵκοντο,"
+    },
+    {
+      "n": 47,
+      "greek": "τοῖσι δὲ μύθων ἦρχε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 48,
+      "greek": "οὗτος δή τοι, ξεῖνε πάτερ, δόμος, ὅν με κελεύεις"
+    },
+    {
+      "n": 49,
+      "greek": "πεφραδέμεν· δήεις δὲ διοτρεφέας βασιλῆας"
+    },
+    {
+      "n": 50,
+      "greek": "δαίτην δαινυμένους· σὺ δʼ ἔσω κίε, μηδέ τι θυμῷ"
+    },
+    {
+      "n": 51,
+      "greek": "τάρβει· θαρσαλέος γὰρ ἀνὴρ ἐν πᾶσιν ἀμείνων"
+    },
+    {
+      "n": 52,
+      "greek": "ἔργοισιν τελέθει, εἰ καί ποθεν ἄλλοθεν ἔλθοι."
+    },
+    {
+      "n": 53,
+      "greek": "δέσποιναν μὲν πρῶτα κιχήσεαι ἐν μεγάροισιν·"
+    },
+    {
+      "n": 54,
+      "greek": "Ἀρήτη δʼ ὄνομʼ ἐστὶν ἐπώνυμον, ἐκ δὲ τοκήων"
+    },
+    {
+      "n": 55,
+      "greek": "τῶν αὐτῶν οἵ περ τέκον Ἀλκίνοον βασιλῆα."
+    },
+    {
+      "n": 56,
+      "greek": "Ναυσίθοον μὲν πρῶτα Ποσειδάων ἐνοσίχθων"
+    },
+    {
+      "n": 57,
+      "greek": "γείνατο καὶ Περίβοια, γυναικῶν εἶδος ἀρίστη,"
+    },
+    {
+      "n": 58,
+      "greek": "ὁπλοτάτη θυγάτηρ μεγαλήτορος Εὐρυμέδοντος,"
+    },
+    {
+      "n": 59,
+      "greek": "ὅς ποθʼ ὑπερθύμοισι Γιγάντεσσιν βασίλευεν."
+    },
+    {
+      "n": 60,
+      "greek": "ἀλλʼ ὁ μὲν ὤλεσε λαὸν ἀτάσθαλον, ὤλετο δʼ αὐτός·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "high and crowned with palisades, a wonder to behold. But when they had come to the glorious palace of the king, the goddess, flashing-eyed Athena, was the first to speak, saying: “Here, Sir stranger, is the house which thou didst bid me shew to thee, and thou wilt find the kings, fostered of Zeus,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "feasting at the banquet. Go thou within, and let thy heart fear nothing; for a bold man is better in all things, though he be a stranger from another land. The queen shalt thou approach first in the palace; Arete is the name by which she is called,"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "and she is sprung from the same line as is the king Alcinous. Nausithous at the first was born from the earth-shaker Poseidon and Periboea, the comeliest of women, youngest daughter of great-hearted Eurymedon, who once was king over the insolent Giants."
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "But he brought destruction on his froward people, and was himself destroyed. But with Periboea lay Poseidon and begat a son, great-hearted Nausithous, who ruled over the Phaeacians; and Nausithous begat Rhexenor and Alcinous. Rhexenor, when as yet he had no son, Apollo of the silver bow smote"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ῥῖνάς τʼ ἀμήσαντες· ὁ δὲ φρεσὶν ᾗσιν ἀασθεὶς"
+    },
+    {
+      "n": 302,
+      "greek": "ἤϊεν ἣν ἄτην ὀχέων ἀεσίφρονι θυμῷ."
+    },
+    {
+      "n": 303,
+      "greek": "ἐξ οὗ Κενταύροισι καὶ ἀνδράσι νεῖκος ἐτύχθη,"
+    },
+    {
+      "n": 304,
+      "greek": "οἷ δʼ αὐτῷ πρώτῳ κακὸν εὕρετο οἰνοβαρείων."
+    },
+    {
+      "n": 305,
+      "greek": "ὣς καὶ σοὶ μέγα πῆμα πιφαύσκομαι, αἴ κε τὸ τόξον"
+    },
+    {
+      "n": 306,
+      "greek": "ἐντανύσῃς· οὐ γάρ τευ ἐπητύος ἀντιβολήσεις"
+    },
+    {
+      "n": 307,
+      "greek": "ἡμετέρῳ ἐνὶ δήμῳ, ἄφαρ δέ σε νηῒ μελαίνῃ"
+    },
+    {
+      "n": 308,
+      "greek": "εἰς Ἔχετον βασιλῆα, βροτῶν δηλήμονα πάντων,"
+    },
+    {
+      "n": 309,
+      "greek": "πέμψομεν· ἔνθεν δʼ οὔ τι σαώσεαι· ἀλλὰ ἕκηλος"
+    },
+    {
+      "n": 310,
+      "greek": "πῖνέ τε, μηδʼ ἐρίδαινε μετʼ ἀνδράσι κουροτέροισιν."
+    },
+    {
+      "n": 311,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 312,
+      "greek": "Ἀντίνοʼ, οὐ μὲν καλὸν ἀτέμβειν οὐδὲ δίκαιον"
+    },
+    {
+      "n": 313,
+      "greek": "ξείνους Τηλεμάχου, ὅς κεν τάδε δώμαθʼ ἵκηται·"
+    },
+    {
+      "n": 314,
+      "greek": "ἔλπεαι, αἴ χʼ ὁ ξεῖνος Ὀδυσσῆος μέγα τόξον"
+    },
+    {
+      "n": 315,
+      "greek": "ἐντανύσῃ χερσίν τε βίηφί τε ἧφι πιθήσας,"
+    },
+    {
+      "n": 316,
+      "greek": "οἴκαδέ μʼ ἄξεσθαι καὶ ἑὴν θήσεσθαι ἄκοιτιν;"
+    },
+    {
+      "n": 317,
+      "greek": "οὐδʼ αὐτός που τοῦτό γʼ ἐνὶ στήθεσσιν ἔολπε·"
+    },
+    {
+      "n": 318,
+      "greek": "μηδέ τις ὑμείων τοῦ γʼ εἵνεκα θυμὸν ἀχεύων"
+    },
+    {
+      "n": 319,
+      "greek": "ἐνθάδε δαινύσθω, ἐπεὶ οὐδὲ μὲν οὐδὲ ἔοικεν."
+    },
+    {
+      "n": 320,
+      "greek": "τὴν δʼ αὖτʼ Εὐρύμαχος, Πολύβου πάϊς, ἀντίον ηὔδα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "Even so do I declare great harm for thee, if thou shalt string the bow, for thou shalt meet with no kindness at the hands of anyone in our land, but we will send thee straightway in a black ship to king Echetus, the maimer of all men, from whose hands thou shalt in no wise escape alive. Nay, then, be still,"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "and drink thy wine, and do not strive with men younger than thou.” Then wise Penelope answered him: “Antinous, it is not well nor just to rob of their due the guests of Telemachus, whosoever he be that comes to this house. Dost thou think that, if yon stranger"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "strings the great bow of Odysseus, trusting in his strength and his might, he will lead me to his home, and make me his wife? Nay, he himself, I ween, has not this hope in his breast; so let no one of you on this account sit at meat here in sorrow of heart; nay, that were indeed unseemly.”"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "Then Eurymachus, son of Polybus, answered her: “Daughter of Icarius, wise Penelope, it is not that we think the man will lead thee to his home—that were indeed unseemly—but that we dread the talk of men and women, lest hereafter some base fellow among the Achaeans should say:"
+    }
+  ]
+}

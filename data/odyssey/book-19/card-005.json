@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "τῷ νῦν μήποτε καὶ σύ, γύναι, ἀπὸ πᾶσαν ὀλέσσῃς"
+    },
+    {
+      "n": 82,
+      "greek": "ἀγλαΐην, τῇ νῦν γε μετὰ δμῳῇσι κέκασσαι·"
+    },
+    {
+      "n": 83,
+      "greek": "μή πώς τοι δέσποινα κοτεσσαμένη χαλεπήνῃ,"
+    },
+    {
+      "n": 84,
+      "greek": "ἢ Ὀδυσεὺς ἔλθῃ· ἔτι γὰρ καὶ ἐλπίδος αἶσα."
+    },
+    {
+      "n": 85,
+      "greek": "εἰ δʼ ὁ μὲν ὣς ἀπόλωλε καὶ οὐκέτι νόστιμός ἐστιν,"
+    },
+    {
+      "n": 86,
+      "greek": "ἀλλʼ ἤδη παῖς τοῖος Ἀπόλλωνός γε ἕκητι,"
+    },
+    {
+      "n": 87,
+      "greek": "Τηλέμαχος· τὸν δʼ οὔ τις ἐνὶ μεγάροισι γυναικῶν"
+    },
+    {
+      "n": 88,
+      "greek": "λήθει ἀτασθάλλουσʼ, ἐπεὶ οὐκέτι τηλίκος ἐστίν."
+    },
+    {
+      "n": 89,
+      "greek": "ὣς φάτο, τοῦ δʼ ἤκουσε περίφρων Πηνελόπεια,"
+    },
+    {
+      "n": 90,
+      "greek": "ἀμφίπολον δʼ ἐνένιπεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    },
+    {
+      "n": 91,
+      "greek": "πάντως, θαρσαλέη, κύον ἀδεές, οὔ τί με λήθεις"
+    },
+    {
+      "n": 92,
+      "greek": "ἔρδουσα μέγα ἔργον, ὃ σῇ κεφαλῇ ἀναμάξεις·"
+    },
+    {
+      "n": 93,
+      "greek": "πάντα γὰρ εὖ ᾔδησθʼ, ἐπεὶ ἐξ ἐμεῦ ἔκλυες αὐτῆς"
+    },
+    {
+      "n": 94,
+      "greek": "ὡς τὸν ξεῖνον ἔμελλον ἐνὶ μεγάροισιν ἐμοῖσιν"
+    },
+    {
+      "n": 95,
+      "greek": "ἀμφὶ πόσει εἴρεσθαι, ἐπεὶ πυκινῶς ἀκάχημαι."
+    },
+    {
+      "n": 96,
+      "greek": "ἦ ῥα καὶ Εὐρυνόμην ταμίην πρὸς μῦθον ἔειπεν·"
+    },
+    {
+      "n": 97,
+      "greek": "Εὐρυνόμη, φέρε δὴ δίφρον καὶ κῶας ἐπʼ αὐτοῦ,"
+    },
+    {
+      "n": 98,
+      "greek": "ὄφρα καθεζόμενος εἴπῃ ἔπος ἠδʼ ἐπακούσῃ"
+    },
+    {
+      "n": 99,
+      "greek": "ὁ ξεῖνος ἐμέθεν· ἐθέλω δέ μιν ἐξερέεσθαι."
+    },
+    {
+      "n": 100,
+      "greek": "ὣς ἔφαθʼ, ἡ δὲ μάλʼ ὀτραλέως κατέθηκε φέρουσα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "But if, even as it seems, he is dead, and is no more to return, yet now is his son by the favour of Apollo such as he was—even Telemachus. Him it escapes not if any of the women in the halls work wantonness; for he is no longer the child he was.” So he spoke, and wise Penelope heard him;"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "and she rebuked the handmaid and spoke, and addressed her: “Be sure, thou bold and shameless thing, that thy outrageous deed is in no wise hid from me, and with thine own head shalt thou wipe out its stain. Full well didst thou know, for thou hast heard it from my own lips, that I was minded"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "to question the stranger in my halls concerning my husband; for I am sore distressed.” With this she spoke also to the housewife Eurynome, and said: “Eurynome, bring hither a chair and a fleece upon it, that the stranger may sit down and tell his tale, and listen to me; for I am fain to ask him of all things.”"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "So she spoke, and Eurynome speedily brought a polished chair and set it in place, and on it cast a fleece. Then the much-enduring, goodly Odysseus sat down upon it, and the wise Penelope spoke first, and said: “Stranger, this question will I myself ask thee first."
+    }
+  ]
+}

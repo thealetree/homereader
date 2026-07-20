@@ -1,0 +1,129 @@
+{
+  "book": 15,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "ἡ δʼ εἰς εὐρύχορον Λακεδαίμονα Παλλὰς Ἀθήνη"
+    },
+    {
+      "n": 2,
+      "greek": "ᾤχετʼ, Ὀδυσσῆος μεγαθύμου φαίδιμον υἱὸν"
+    },
+    {
+      "n": 3,
+      "greek": "νόστου ὑπομνήσουσα καὶ ὀτρυνέουσα νέεσθαι."
+    },
+    {
+      "n": 4,
+      "greek": "εὗρε δὲ Τηλέμαχον καὶ Νέστορος ἀγλαὸν υἱὸν"
+    },
+    {
+      "n": 5,
+      "greek": "εὕδοντʼ ἐν προδόμῳ Μενελάου κυδαλίμοιο,"
+    },
+    {
+      "n": 6,
+      "greek": "ἦ τοι Νεστορίδην μαλακῷ δεδμημένον ὕπνῳ·"
+    },
+    {
+      "n": 7,
+      "greek": "Τηλέμαχον δʼ οὐχ ὕπνος ἔχε γλυκύς, ἀλλʼ ἐνὶ θυμῷ"
+    },
+    {
+      "n": 8,
+      "greek": "νύκτα διʼ ἀμβροσίην μελεδήματα πατρὸς ἔγειρεν."
+    },
+    {
+      "n": 9,
+      "greek": "ἀγχοῦ δʼ ἱσταμένη προσέφη γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 10,
+      "greek": "Τηλέμαχʼ, οὐκέτι καλὰ δόμων ἄπο τῆλʼ ἀλάλησαι,"
+    },
+    {
+      "n": 11,
+      "greek": "κτήματά τε προλιπὼν ἄνδρας τʼ ἐν σοῖσι δόμοισιν"
+    },
+    {
+      "n": 12,
+      "greek": "οὕτω ὑπερφιάλους· μή τοι κατὰ πάντα φάγωσι"
+    },
+    {
+      "n": 13,
+      "greek": "κτήματα δασσάμενοι, σὺ δὲ τηϋσίην ὁδὸν ἔλθῃς."
+    },
+    {
+      "n": 14,
+      "greek": "ἀλλʼ ὄτρυνε τάχιστα βοὴν ἀγαθὸν Μενέλαον"
+    },
+    {
+      "n": 15,
+      "greek": "πεμπέμεν, ὄφρʼ ἔτι οἴκοι ἀμύμονα μητέρα τέτμῃς."
+    },
+    {
+      "n": 16,
+      "greek": "ἤδη γάρ ῥα πατήρ τε κασίγνητοί τε κέλονται"
+    },
+    {
+      "n": 17,
+      "greek": "Εὐρυμάχῳ γήμασθαι· ὁ γὰρ περιβάλλει ἅπαντας"
+    },
+    {
+      "n": 18,
+      "greek": "μνηστῆρας δώροισι καὶ ἐξώφελλεν ἔεδνα·"
+    },
+    {
+      "n": 19,
+      "greek": "μή νύ τι σεῦ ἀέκητι δόμων ἐκ κτῆμα φέρηται."
+    },
+    {
+      "n": 20,
+      "greek": "οἶσθα γὰρ οἷος θυμὸς ἐνὶ στήθεσσι γυναικός·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "But Pallas Athena went to spacious Lacedaemon to remind the glorious son of great-hearted Odysseus of his return, and to hasten his coming. She found Telemachus and the noble son of Nestor"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "lying in the fore-hall of the palace of glorious Menelaus. Now Nestor's son was overcome with soft sleep, but sweet sleep did not hold Telemachus, but all through the immortal night anxious thoughts for his father kept him wakeful. And flashing-eyed Athena stood near him, and said:"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "“Telemachus, thou dost not well to wander longer far from thy home, leaving behind thee thy wealth and men in thy house so insolent, lest they divide and devour all thy possessions, and thou shalt have gone on a fruitless journey. Nay, rouse with all speed Menelaus, good at the war-cry,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "to send thee on thy way, that thou mayest find thy noble mother still in her home. For now her father and her brothers bid her wed Eurymachus, for he surpasses all the wooers in his presents, and has increased his gifts of wooing. Beware lest she carry forth from thy halls some treasure against thy will."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "For thou knowest what sort of a spirit there is in a woman's breast; she is fain to increase the house of the man who weds her, but of her former children and of the lord of her youth she takes no thought, when once he is dead, and asks no longer concerning them. Nay, go, and thyself put all thy possessions in the charge of whatsoever one"
+    }
+  ]
+}

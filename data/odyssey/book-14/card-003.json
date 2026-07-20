@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ἧμαι, ἄλλοισιν δὲ σύας σιάλους ἀτιτάλλω"
+    },
+    {
+      "n": 42,
+      "greek": "ἔδμεναι· αὐτὰρ κεῖνος ἐελδόμενός που ἐδωδῆς"
+    },
+    {
+      "n": 43,
+      "greek": "πλάζετʼ ἐπʼ ἀλλοθρόων ἀνδρῶν δῆμόν τε πόλιν τε,"
+    },
+    {
+      "n": 44,
+      "greek": "εἴ που ἔτι ζώει καὶ ὁρᾷ φάος ἠελίοιο."
+    },
+    {
+      "n": 45,
+      "greek": "ἀλλʼ ἕπεο, κλισίηνδʼ ἴομεν, γέρον, ὄφρα καὶ αὐτός,"
+    },
+    {
+      "n": 46,
+      "greek": "σίτου καὶ οἴνοιο κορεσσάμενος κατὰ θυμόν,"
+    },
+    {
+      "n": 47,
+      "greek": "εἴπῃς ὁππόθεν ἐσσὶ καὶ ὁππόσα κήδεʼ ἀνέτλης."
+    },
+    {
+      "n": 48,
+      "greek": "ὣς εἰπὼν κλισίηνδʼ ἡγήσατο δῖος ὑφορβός,"
+    },
+    {
+      "n": 49,
+      "greek": "εἷσεν δʼ εἰσαγαγών, ῥῶπας δʼ ὑπέχευε δασείας,"
+    },
+    {
+      "n": 50,
+      "greek": "ἐστόρεσεν δʼ ἐπὶ δέρμα ἰονθάδος ἀγρίου αἰγός,"
+    },
+    {
+      "n": 51,
+      "greek": "αὐτοῦ ἐνεύναιον, μέγα καὶ δασύ. χαῖρε δʼ Ὀδυσσεὺς"
+    },
+    {
+      "n": 52,
+      "greek": "ὅττι μιν ὣς ὑπέδεκτο, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 53,
+      "greek": "Ζεύς τοι δοίη, ξεῖνε, καὶ ἀθάνατοι θεοὶ ἄλλοι"
+    },
+    {
+      "n": 54,
+      "greek": "ὅττι μάλιστʼ ἐθέλεις, ὅτι με πρόφρων ὑπέδεξο."
+    },
+    {
+      "n": 55,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 56,
+      "greek": "ξεῖνʼ, οὔ μοι θέμις ἔστʼ, οὐδʼ εἰ κακίων σέθεν ἔλθοι,"
+    },
+    {
+      "n": 57,
+      "greek": "ξεῖνον ἀτιμῆσαι· πρὸς γὰρ Διός εἰσιν ἅπαντες"
+    },
+    {
+      "n": 58,
+      "greek": "ξεῖνοί τε πτωχοί τε· δόσις δʼ ὀλίγη τε φίλη τε"
+    },
+    {
+      "n": 59,
+      "greek": "γίγνεται ἡμετέρη· ἡ γὰρ δμώων δίκη ἐστὶν"
+    },
+    {
+      "n": 60,
+      "greek": "αἰεὶ δειδιότων, ὅτʼ ἐπικρατέωσιν ἄνακτες"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "But come with me, let us go to the hut, old man, that when thou hast satisfied thy heart with food and wine, thou too mayest tell whence thou art, and all the woes thou hast endured.” So saying, the goodly swineherd led him to the hut, and brought him in, and made him sit, strowing beneath thick brushwood,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "and thereon spreading the skin of a shaggy wild goat, large and hairy, on which he was himself wont to sleep. And Odysseus was glad that he gave him such welcome, and spoke, and addressed him: “Stranger, may Zeus and the other immortal gods grant thee what most thou desirest, since thou with a ready heart hast given me welcome.”"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "To him then, swineherd Eumaeus, didst thou make answer, and say: “Nay, stranger, it were not right for me, even though one meaner than thou were to come, to slight a stranger: for from Zeus are all strangers and beggars, and a gift, though small, is welcome from such as we; since this is the lot of slaves,"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "ever in fear when over them as lords their masters hold sway—young masters such as ours. For verily the gods have stayed the return of him who would have loved me with all kindness, and would have given me possessions of my own, a house and a bit of land, and a wife, sought of many wooers, even such things as a kindly master gives to his thrall"
+    }
+  ]
+}

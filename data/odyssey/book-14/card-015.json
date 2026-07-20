@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ἦ μέν μοι μάλα πολλοὶ ἐπήϊσσον μελίῃσιν,"
+    },
+    {
+      "n": 282,
+      "greek": "ἱέμενοι κτεῖναι—δὴ γὰρ κεχολώατο λίην—"
+    },
+    {
+      "n": 283,
+      "greek": "ἀλλʼ ἀπὸ κεῖνος ἔρυκε, Διὸς δʼ ὠπίζετο μῆνιν"
+    },
+    {
+      "n": 284,
+      "greek": "ξεινίου, ὅς τε μάλιστα νεμεσσᾶται κακὰ ἔργα."
+    },
+    {
+      "n": 285,
+      "greek": "ἔνθα μὲν ἑπτάετες μένον αὐτόθι, πολλὰ δʼ ἄγειρα"
+    },
+    {
+      "n": 286,
+      "greek": "χρήματʼ ἀνʼ Αἰγυπτίους ἄνδρας· δίδοσαν γὰρ ἅπαντες."
+    },
+    {
+      "n": 287,
+      "greek": "ἀλλʼ ὅτε δὴ ὄγδοόν μοι ἐπιπλόμενον ἔτος ἦλθεν,"
+    },
+    {
+      "n": 288,
+      "greek": "δὴ τότε Φοῖνιξ ἦλθεν ἀνὴρ ἀπατήλια εἰδώς,"
+    },
+    {
+      "n": 289,
+      "greek": "τρώκτης, ὃς δὴ πολλὰ κάκʼ ἀνθρώποισιν ἐώργει·"
+    },
+    {
+      "n": 290,
+      "greek": "ὅς μʼ ἄγε παρπεπιθὼν ᾗσι φρεσίν, ὄφρʼ ἱκόμεσθα"
+    },
+    {
+      "n": 291,
+      "greek": "Φοινίκην, ὅθι τοῦ γε δόμοι καὶ κτήματʼ ἔκειτο."
+    },
+    {
+      "n": 292,
+      "greek": "ἔνθα παρʼ αὐτῷ μεῖνα τελεσφόρον εἰς ἐνιαυτόν."
+    },
+    {
+      "n": 293,
+      "greek": "ἀλλʼ ὅτε δὴ μῆνές τε καὶ ἡμέραι ἐξετελεῦντο"
+    },
+    {
+      "n": 294,
+      "greek": "ἄψ περιτελλομένου ἔτεος καὶ ἐπήλυθον ὧραι,"
+    },
+    {
+      "n": 295,
+      "greek": "ἐς Λιβύην μʼ ἐπὶ νηὸς ἐέσσατο ποντοπόροιο"
+    },
+    {
+      "n": 296,
+      "greek": "ψεύδεα βουλεύσας, ἵνα οἱ σὺν φόρτον ἄγοιμι,"
+    },
+    {
+      "n": 297,
+      "greek": "κεῖθι δέ μʼ ὡς περάσειε καὶ ἄσπετον ὦνον ἕλοιτο."
+    },
+    {
+      "n": 298,
+      "greek": "τῷ ἑπόμην ἐπὶ νηός, ὀϊόμενός περ, ἀνάγκῃ."
+    },
+    {
+      "n": 299,
+      "greek": "ἡ δʼ ἔθεεν Βορέῃ ἀνέμῳ ἀκραέϊ καλῷ,"
+    },
+    {
+      "n": 300,
+      "greek": "μέσσον ὑπὲρ Κρήτης· Ζεὺς δέ σφισι μήδετʼ ὄλεθρον."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "“There then I stayed seven years, and much wealth did I gather among the Egyptians, for all men gave me gifts. But when the eighth circling year was come, then there came a man of Phoenicia, well versed in guile, a greedy knave, who had already wrought much evil among men."
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "He prevailed upon me by his cunning, and took me with him, until we reached Phoenicia, where lay his house and his possessions. There I remained with him for a full year. But when at length the months and the days were being brought to fulfillment, as the year rolled round and the seasons came on,"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "he set me on a seafaring ship bound for Libya, having given lying counsel to the end that I should convey a cargo with him, but in truth that, when there, he might sell me and get a vast price. So I went with him on board the ship, suspecting his guile, yet perforce. And she ran before the North Wind, blowing fresh and fair,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "on a mid-sea course to the windward of Crete, and Zeus devised destruction for the men. But when we had left Crete, and no other land appeared, but only sky and sea,"
+    }
+  ]
+}

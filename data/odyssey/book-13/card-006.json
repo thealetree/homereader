@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "νῆες ἐΰσσελμοι, ὅτʼ ἂν ὅρμου μέτρον ἵκωνται."
+    },
+    {
+      "n": 102,
+      "greek": "αὐτὰρ ἐπὶ κρατὸς λιμένος τανύφυλλος ἐλαίη,"
+    },
+    {
+      "n": 103,
+      "greek": "ἀγχόθι δʼ αὐτῆς ἄντρον ἐπήρατον ἠεροειδές,"
+    },
+    {
+      "n": 104,
+      "greek": "ἱρὸν νυμφάων αἱ νηϊάδες καλέονται."
+    },
+    {
+      "n": 105,
+      "greek": "ἐν δὲ κρητῆρές τε καὶ ἀμφιφορῆες ἔασιν"
+    },
+    {
+      "n": 106,
+      "greek": "λάϊνοι· ἔνθα δʼ ἔπειτα τιθαιβώσσουσι μέλισσαι."
+    },
+    {
+      "n": 107,
+      "greek": "ἐν δʼ ἱστοὶ λίθεοι περιμήκεες, ἔνθα τε νύμφαι"
+    },
+    {
+      "n": 108,
+      "greek": "φάρεʼ ὑφαίνουσιν ἁλιπόρφυρα, θαῦμα ἰδέσθαι·"
+    },
+    {
+      "n": 109,
+      "greek": "ἐν δʼ ὕδατʼ ἀενάοντα. δύω δέ τέ οἱ θύραι εἰσίν,"
+    },
+    {
+      "n": 110,
+      "greek": "αἱ μὲν πρὸς Βορέαο καταιβαταὶ ἀνθρώποισιν,"
+    },
+    {
+      "n": 111,
+      "greek": "αἱ δʼ αὖ πρὸς Νότου εἰσὶ θεώτεραι· οὐδέ τι κείνῃ"
+    },
+    {
+      "n": 112,
+      "greek": "ἄνδρες ἐσέρχονται, ἀλλʼ ἀθανάτων ὁδός ἐστιν."
+    },
+    {
+      "n": 113,
+      "greek": "ἔνθʼ οἵ γʼ εἰσέλασαν, πρὶν εἰδότες· ἡ μὲν ἔπειτα"
+    },
+    {
+      "n": 114,
+      "greek": "ἠπείρῳ ἐπέκελσεν, ὅσον τʼ ἐπὶ ἥμισυ πάσης,"
+    },
+    {
+      "n": 115,
+      "greek": "σπερχομένη· τοῖον γὰρ ἐπείγετο χέρσʼ ἐρετάων·"
+    },
+    {
+      "n": 116,
+      "greek": "οἱ δʼ ἐκ νηὸς βάντες ἐϋζύγου ἤπειρόνδε"
+    },
+    {
+      "n": 117,
+      "greek": "πρῶτον Ὀδυσσῆα γλαφυρῆς ἐκ νηὸς ἄειραν"
+    },
+    {
+      "n": 118,
+      "greek": "αὐτῷ σύν τε λίνῳ καὶ ῥήγεϊ σιγαλόεντι,"
+    },
+    {
+      "n": 119,
+      "greek": "κὰδ δʼ ἄρʼ ἐπὶ ψαμάθῳ ἔθεσαν δεδμημένον ὕπνῳ,"
+    },
+    {
+      "n": 120,
+      "greek": "ἐκ δὲ κτήματʼ ἄειραν, ἅ οἱ Φαίηκες ἀγαυοὶ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "Therein are mixing bowls and jars of stone, and there too the bees store honey. And in the cave are long looms of stone, at which the nymphs weave webs of purple dye, a wonder to behold; and therein are also ever-flowing springs. Two doors there are to the cave,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "one toward the North Wind, by which men go down, but that toward the South Wind is sacred, nor do men enter thereby; it is the way of the immortals. Here they rowed in, knowing the place of old; and the ship ran full half her length on the shore"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "in her swift course, at such pace was she driven by the arms of the rowers. Then they stepped forth from the benched ship upon the land, and first they lifted Odysseus out of the hollow ship, with the linen sheet and bright rug as they were, and laid him down on the sand, still overpowered by sleep."
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "And they lifted out the goods which the lordly Phaeacians had given him, as he set out for home, through the favour of great-hearted Athena. These they set all together by the trunk of the olive tree, out of the path, lest haply some wayfarer, before Odysseus awoke, might come upon them and spoil them."
+    }
+  ]
+}

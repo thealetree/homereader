@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 27,
+  "lineStart": 522,
+  "lineEnd": 541,
+  "lines": [
+    {
+      "n": 522,
+      "greek": "ἐλθὼν εἰς Ἰθάκην στεῖραν βοῦν, ἥ τις ἀρίστη,"
+    },
+    {
+      "n": 523,
+      "greek": "ῥέξειν ἐν μεγάροισι πυρήν τʼ ἐμπλησέμεν ἐσθλῶν,"
+    },
+    {
+      "n": 524,
+      "greek": "Τειρεσίῃ δʼ ἀπάνευθεν ὄιν ἱερευσέμεν οἴῳ"
+    },
+    {
+      "n": 525,
+      "greek": "παμμέλανʼ, ὃς μήλοισι μεταπρέπει ὑμετέροισιν."
+    },
+    {
+      "n": 526,
+      "greek": "αὐτὰρ ἐπὴν εὐχῇσι λίσῃ κλυτὰ ἔθνεα νεκρῶν,"
+    },
+    {
+      "n": 527,
+      "greek": "ἔνθʼ ὄιν ἀρνειὸν ῥέζειν θῆλύν τε μέλαιναν"
+    },
+    {
+      "n": 528,
+      "greek": "εἰς Ἔρεβος στρέψας, αὐτὸς δʼ ἀπονόσφι τραπέσθαι"
+    },
+    {
+      "n": 529,
+      "greek": "ἱέμενος ποταμοῖο ῥοάων· ἔνθα δὲ πολλαὶ"
+    },
+    {
+      "n": 530,
+      "greek": "ψυχαὶ ἐλεύσονται νεκύων κατατεθνηώτων."
+    },
+    {
+      "n": 531,
+      "greek": "δὴ τότʼ ἔπειθʼ ἑτάροισιν ἐποτρῦναι καὶ ἀνῶξαι"
+    },
+    {
+      "n": 532,
+      "greek": "μῆλα, τὰ δὴ κατάκειτʼ ἐσφαγμένα νηλέι χαλκῷ,"
+    },
+    {
+      "n": 533,
+      "greek": "δείραντας κατακῆαι, ἐπεύξασθαι δὲ θεοῖσιν,"
+    },
+    {
+      "n": 534,
+      "greek": "ἰφθίμῳ τʼ Ἀίδῃ καὶ ἐπαινῇ Περσεφονείῃ·"
+    },
+    {
+      "n": 535,
+      "greek": "αὐτὸς δὲ ξίφος ὀξὺ ἐρυσσάμενος παρὰ μηροῦ"
+    },
+    {
+      "n": 536,
+      "greek": "ἧσθαι, μηδὲ ἐᾶν νεκύων ἀμενηνὰ κάρηνα"
+    },
+    {
+      "n": 537,
+      "greek": "αἵματος ἆσσον ἴμεν, πρὶν Τειρεσίαο πυθέσθαι."
+    },
+    {
+      "n": 538,
+      "greek": "ἔνθα τοι αὐτίκα μάντις ἐλεύσεται, ὄρχαμε λαῶν,"
+    },
+    {
+      "n": 539,
+      "greek": "ὅς κέν τοι εἴπῃσιν ὁδὸν καὶ μέτρα κελεύθου"
+    },
+    {
+      "n": 540,
+      "greek": "νόστον θʼ, ὡς ἐπὶ πόντον ἐλεύσεαι ἰχθυόεντα."
+    },
+    {
+      "n": 541,
+      "greek": "ὣς ἔφατʼ, αὐτίκα δὲ χρυσόθρονος ἤλυθεν Ἠώς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "wholly black, the goodliest of thy flock. But when with prayers thou hast made supplication to the glorious tribes of the dead, then sacrifice a ram and a black ewe, turning their heads toward Erebus but thyself turning backward, and setting thy face towards the streams of the river. Then many"
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "ghosts of men that are dead will come forth. But do thou thereafter call to thy comrades, and bid them flay and burn the sheep that lie there, slain by the pitiless bronze, and make prayer to the gods, to mighty Hades and to dread Persephone."
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "And do thou thyself draw thy sharp sword from beside thy thigh, and sit there, not suffering the powerless heads of the dead to draw near to the blood, till thou hast enquired of Teiresias. Then the seer will presently come to thee, leader of men, and he will tell thee thy way and the measures of thy path,"
+    },
+    {
+      "lines": [
+        540,
+        541
+      ],
+      "text": "and of thy return, how thou mayest go over the teeming deep.’ “So she spoke, and straightway came golden-throned Dawn. Round about me then she cast a cloak and tunic as raiment, and the nymph clothed herself in a long white robe, finely-woven and beautiful, and about her waist she cast"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "πέτρῃσιν μεγάλῃσι καὶ ἐξεσάωσε θαλάσσης·"
+    },
+    {
+      "n": 502,
+      "greek": "καί νύ κεν ἔκφυγε κῆρα καὶ ἐχθόμενός περ Ἀθήνῃ,"
+    },
+    {
+      "n": 503,
+      "greek": "εἰ μὴ ὑπερφίαλον ἔπος ἔκβαλε καὶ μέγʼ ἀάσθη·"
+    },
+    {
+      "n": 504,
+      "greek": "φῆ ῥʼ ἀέκητι θεῶν φυγέειν μέγα λαῖτμα θαλάσσης."
+    },
+    {
+      "n": 505,
+      "greek": "τοῦ δὲ Ποσειδάων μεγάλʼ ἔκλυεν αὐδήσαντος·"
+    },
+    {
+      "n": 506,
+      "greek": "αὐτίκʼ ἔπειτα τρίαιναν ἑλὼν χερσὶ στιβαρῇσιν"
+    },
+    {
+      "n": 507,
+      "greek": "ἤλασε Γυραίην πέτρην, ἀπὸ δʼ ἔσχισεν αὐτήν·"
+    },
+    {
+      "n": 508,
+      "greek": "καὶ τὸ μὲν αὐτόθι μεῖνε, τὸ δὲ τρύφος ἔμπεσε πόντῳ,"
+    },
+    {
+      "n": 509,
+      "greek": "τῷ ῥʼ Αἴας τὸ πρῶτον ἐφεζόμενος μέγʼ ἀάσθη·"
+    },
+    {
+      "n": 510,
+      "greek": "τὸν δʼ ἐφόρει κατὰ πόντον ἀπείρονα κυμαίνοντα."
+    },
+    {
+      "n": 511,
+      "greek": "ὣς ὁ μὲν ἔνθʼ ἀπόλωλεν, ἐπεὶ πίεν ἁλμυρὸν ὕδωρ."
+    },
+    {
+      "n": 512,
+      "greek": "σὸς δέ που ἔκφυγε κῆρας ἀδελφεὸς ἠδʼ ὑπάλυξεν"
+    },
+    {
+      "n": 513,
+      "greek": "ἐν νηυσὶ γλαφυρῇσι· σάωσε δὲ πότνια Ἥρη."
+    },
+    {
+      "n": 514,
+      "greek": "ἀλλʼ ὅτε δὴ τάχʼ ἔμελλε Μαλειάων ὄρος αἰπὺ"
+    },
+    {
+      "n": 515,
+      "greek": "ἵξεσθαι, τότε δή μιν ἀναρπάξασα θύελλα"
+    },
+    {
+      "n": 516,
+      "greek": "πόντον ἐπʼ ἰχθυόεντα φέρεν βαρέα στενάχοντα,"
+    },
+    {
+      "n": 517,
+      "greek": "ἀγροῦ ἐπʼ ἐσχατιήν, ὅθι δώματα ναῖε Θυέστης"
+    },
+    {
+      "n": 518,
+      "greek": "τὸ πρίν, ἀτὰρ τότʼ ἔναιε Θυεστιάδης Αἴγισθος."
+    },
+    {
+      "n": 519,
+      "greek": "ἀλλʼ ὅτε δὴ καὶ κεῖθεν ἐφαίνετο νόστος ἀπήμων,"
+    },
+    {
+      "n": 520,
+      "greek": "ἂψ δὲ θεοὶ οὖρον στρέψαν, καὶ οἴκαδʼ ἵκοντο,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "and Poseidon heard his boastful speech, and straightway took his trident in his mighty hands, and smote the rock of Gyrae and clove it in sunder. And one part abode in its place, but the sundered part fell into the sea, even that on which Aias sat at the first when his heart was greatly blinded,"
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "and it bore him down into the boundless surging deep. So there he perished, when he had drunk the salt water. “‘But thy brother escaped, indeed, the fates and shunned them with his hollow ships, for queenly Hera saved him. But when he was now about"
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "to reach the steep height of Malea, then the storm-wind caught him up and bore him over the teeming deep, groaning heavily, to the border of the land, where aforetime Thyestes dwelt, but where now dwelt Thyestes' son Aegisthus. But when from hence too a safe return was shewed him,"
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "and the gods changed the course of the wind that it blew fair, and they reached home, then verily with rejoicing did Agamemnon set foot on his native land, and he clasped his land and kissed it, and many were the hot tears that streamed from his eyes, for welcome to him was the sight of his land. Now from his place of watch a watchman saw him, whom"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "βουλὰς βουλεύειν καθαρὰ χροΐ εἵματʼ ἔχοντα."
+    },
+    {
+      "n": 62,
+      "greek": "πέντε δέ τοι φίλοι υἷες ἐνὶ μεγάροις γεγάασιν,"
+    },
+    {
+      "n": 63,
+      "greek": "οἱ δύʼ ὀπυίοντες, τρεῖς δʼ ἠίθεοι θαλέθοντες·"
+    },
+    {
+      "n": 64,
+      "greek": "οἱ δʼ αἰεὶ ἐθέλουσι νεόπλυτα εἵματʼ ἔχοντες"
+    },
+    {
+      "n": 65,
+      "greek": "ἐς χορὸν ἔρχεσθαι· τὰ δʼ ἐμῇ φρενὶ πάντα μέμηλεν."
+    },
+    {
+      "n": 66,
+      "greek": "ὣς ἔφατʼ· αἴδετο γὰρ θαλερὸν γάμον ἐξονομῆναι"
+    },
+    {
+      "n": 67,
+      "greek": "πατρὶ φίλῳ. ὁ δὲ πάντα νόει καὶ ἀμείβετο μύθῳ·"
+    },
+    {
+      "n": 68,
+      "greek": "οὔτε τοι ἡμιόνων φθονέω, τέκος, οὔτε τευ ἄλλου."
+    },
+    {
+      "n": 69,
+      "greek": "ἔρχευ· ἀτάρ τοι δμῶες ἐφοπλίσσουσιν ἀπήνην"
+    },
+    {
+      "n": 70,
+      "greek": "ὑψηλὴν ἐύκυκλον, ὑπερτερίῃ ἀραρυῖαν."
+    },
+    {
+      "n": 71,
+      "greek": "ὣς εἰπὼν δμώεσσιν ἐκέκλετο, τοὶ δʼ ἐπίθοντο."
+    },
+    {
+      "n": 72,
+      "greek": "οἱ μὲν ἄρʼ ἐκτὸς ἄμαξαν ἐύτροχον ἡμιονείην"
+    },
+    {
+      "n": 73,
+      "greek": "ὥπλεον, ἡμιόνους θʼ ὕπαγον ζεῦξάν θʼ ὑπʼ ἀπήνῃ·"
+    },
+    {
+      "n": 74,
+      "greek": "κούρη δʼ ἐκ θαλάμοιο φέρεν ἐσθῆτα φαεινήν."
+    },
+    {
+      "n": 75,
+      "greek": "καὶ τὴν μὲν κατέθηκεν ἐυξέστῳ ἐπʼ ἀπήνῃ,"
+    },
+    {
+      "n": 76,
+      "greek": "μήτηρ δʼ ἐν κίστῃ ἐτίθει μενοεικέʼ ἐδωδὴν"
+    },
+    {
+      "n": 77,
+      "greek": "παντοίην, ἐν δʼ ὄψα τίθει, ἐν δʼ οἶνον ἔχευεν"
+    },
+    {
+      "n": 78,
+      "greek": "ἀσκῷ ἐν αἰγείῳ· κούρη δʼ ἐπεβήσετʼ ἀπήνης."
+    },
+    {
+      "n": 79,
+      "greek": "δῶκεν δὲ χρυσέῃ ἐν ληκύθῳ ὑγρὸν ἔλαιον,"
+    },
+    {
+      "n": 80,
+      "greek": "ἧος χυτλώσαιτο σὺν ἀμφιπόλοισι γυναιξίν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "when they go to the dance. Of all this must I take thought.” So she spoke, for she was ashamed to name gladsome marriage to her father; but he understood all, and answered, saying: “Neither the mules do I begrudge thee, my child, nor aught beside. Go thy way; the slaves shall make ready for thee the wagon,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "high and stout of wheel and fitted with a box above.” With this he called to the slaves, and they hearkened. Outside the palace they made ready the light-running mule wagon, and led up the mules and yoked them to it; and the maiden brought from her chamber the bright raiment,"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "and placed it upon the polished car, while her mother put in a chest food of all sorts to satisfy the heart. Therein she put dainties, and poured wine in a goat-skin flask; and the maiden mounted upon the wagon. Her mother gave her also soft olive oil in a flask of gold,"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "that she and her maidens might have it for the bath. Then Nausicaa took the whip and the bright reins, and smote the mules to start them; and there was a clatter of the mules as they sped on a main, bearing the raiment and the maiden; neither went she alone, for with her went her handmaids as well."
+    }
+  ]
+}

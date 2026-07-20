@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "τοὺς δέρον ἀμφί θʼ ἕπον, τετύκοντό τε δαῖτʼ ἐρατεινήν."
+    },
+    {
+      "n": 62,
+      "greek": "κῆρυξ δʼ ἐγγύθεν ἦλθεν ἄγων ἐρίηρον ἀοιδόν,"
+    },
+    {
+      "n": 63,
+      "greek": "τὸν πέρι μοῦσʼ ἐφίλησε, δίδου δʼ ἀγαθόν τε κακόν τε·"
+    },
+    {
+      "n": 64,
+      "greek": "ὀφθαλμῶν μὲν ἄμερσε, δίδου δʼ ἡδεῖαν ἀοιδήν."
+    },
+    {
+      "n": 65,
+      "greek": "τῷ δʼ ἄρα Ποντόνοος θῆκε θρόνον ἀργυρόηλον"
+    },
+    {
+      "n": 66,
+      "greek": "μέσσῳ δαιτυμόνων, πρὸς κίονα μακρὸν ἐρείσας·"
+    },
+    {
+      "n": 67,
+      "greek": "κὰδ δʼ ἐκ πασσαλόφι κρέμασεν φόρμιγγα λίγειαν"
+    },
+    {
+      "n": 68,
+      "greek": "αὐτοῦ ὑπὲρ κεφαλῆς καὶ ἐπέφραδε χερσὶν ἑλέσθαι"
+    },
+    {
+      "n": 69,
+      "greek": "κῆρυξ· πὰρ δʼ ἐτίθει κάνεον καλήν τε τράπεζαν,"
+    },
+    {
+      "n": 70,
+      "greek": "πὰρ δὲ δέπας οἴνοιο, πιεῖν ὅτε θυμὸς ἀνώγοι."
+    },
+    {
+      "n": 71,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    },
+    {
+      "n": 72,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 73,
+      "greek": "μοῦσʼ ἄρʼ ἀοιδὸν ἀνῆκεν ἀειδέμεναι κλέα ἀνδρῶν,"
+    },
+    {
+      "n": 74,
+      "greek": "οἴμης τῆς τότʼ ἄρα κλέος οὐρανὸν εὐρὺν ἵκανε,"
+    },
+    {
+      "n": 75,
+      "greek": "νεῖκος Ὀδυσσῆος καὶ Πηλεΐδεω Ἀχιλῆος,"
+    },
+    {
+      "n": 76,
+      "greek": "ὥς ποτε δηρίσαντο θεῶν ἐν δαιτὶ θαλείῃ"
+    },
+    {
+      "n": 77,
+      "greek": "ἐκπάγλοις ἐπέεσσιν, ἄναξ δʼ ἀνδρῶν Ἀγαμέμνων"
+    },
+    {
+      "n": 78,
+      "greek": "χαῖρε νόῳ, ὅ τʼ ἄριστοι Ἀχαιῶν δηριόωντο."
+    },
+    {
+      "n": 79,
+      "greek": "ὣς γάρ οἱ χρείων μυθήσατο Φοῖβος Ἀπόλλων"
+    },
+    {
+      "n": 80,
+      "greek": "Πυθοῖ ἐν ἠγαθέῃ, ὅθʼ ὑπέρβη λάινον οὐδὸν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "For him Pontonous, the herald, set a silver-studded chair in the midst of the banqueters, leaning it against a tall pillar, and he hung the clear-toned lyre from a peg close above his head, and showed him how to reach it with his hands. And beside him he placed a basket and a beautiful table,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "and a cup of wine, to drink when his heart should bid him. So they put forth their hands to the good cheer lying ready before them. But when they had put from them the desire of food and drink, the Muse moved the minstrel to sing of the glorious deeds of warriors, from that lay the fame whereof had then reached broad heaven,"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "even the quarrel of Odysseus and Achilles, son of Peleus, how once they strove with furious words at a rich feast of the gods, and Agamemnon, king of men, was glad at heart that the best of the Achaeans were quarrelling; for thus Phoebus Apollo, in giving his response, had told him that it should be,"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "in sacred Pytho, when he passed over the threshold of stone to enquire of the oracle. For then the beginning of woe was rolling upon Trojans and Danaans through the will of great Zeus. This song the famous minstrel sang; but Odysseus grasped his great purple cloak with his stout hands,"
+    }
+  ]
+}

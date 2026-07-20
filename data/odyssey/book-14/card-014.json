@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "ὀπτῆρας δὲ κατὰ σκοπιὰς ὤτρυνα νέεσθαι·"
+    },
+    {
+      "n": 262,
+      "greek": "οἱ δʼ ὕβρει εἴξαντες, ἐπισπόμενοι μένεϊ σφῷ,"
+    },
+    {
+      "n": 263,
+      "greek": "αἶψα μάλʼ Αἰγυπτίων ἀνδρῶν περικαλλέας ἀγροὺς"
+    },
+    {
+      "n": 264,
+      "greek": "πόρθεον, ἐκ δὲ γυναῖκας ἄγον καὶ νήπια τέκνα,"
+    },
+    {
+      "n": 265,
+      "greek": "αὐτούς τʼ ἔκτεινον· τάχα δʼ ἐς πόλιν ἵκετʼ ἀϋτή."
+    },
+    {
+      "n": 266,
+      "greek": "οἱ δὲ βοῆς ἀΐοντες ἅμʼ ἠοῖ φαινομένηφιν"
+    },
+    {
+      "n": 267,
+      "greek": "ἦλθον· πλῆτο δὲ πᾶν πεδίον πεζῶν τε καὶ ἵππων"
+    },
+    {
+      "n": 268,
+      "greek": "χαλκοῦ τε στεροπῆς· ἐν δὲ Ζεὺς τερπικέραυνος"
+    },
+    {
+      "n": 269,
+      "greek": "φύζαν ἐμοῖς ἑτάροισι κακὴν βάλεν, οὐδέ τις ἔτλη"
+    },
+    {
+      "n": 270,
+      "greek": "μεῖναι ἐναντίβιον· περὶ γὰρ κακὰ πάντοθεν ἔστη."
+    },
+    {
+      "n": 271,
+      "greek": "ἔνθʼ ἡμέων πολλοὺς μὲν ἀπέκτανον ὀξέϊ χαλκῷ,"
+    },
+    {
+      "n": 272,
+      "greek": "τοὺς δʼ ἄναγον ζωούς, σφίσιν ἐργάζεσθαι ἀνάγκῃ."
+    },
+    {
+      "n": 273,
+      "greek": "αὐτὰρ ἐμοὶ Ζεὺς αὐτὸς ἐνὶ φρεσὶν ὧδε νόημα"
+    },
+    {
+      "n": 274,
+      "greek": "ποίησʼ—ὡς ὄφελον θανέειν καὶ πότμον ἐπισπεῖν"
+    },
+    {
+      "n": 275,
+      "greek": "αὐτοῦ ἐν Αἰγύπτῳ· ἔτι γάρ νύ με πῆμʼ ὑπέδεκτο—"
+    },
+    {
+      "n": 276,
+      "greek": "αὐτίκʼ ἀπὸ κρατὸς κυνέην εὔτυκτον ἔθηκα"
+    },
+    {
+      "n": 277,
+      "greek": "καὶ σάκος ὤμοιϊν, δόρυ δʼ ἔκβαλον ἔκτοσε χειρός·"
+    },
+    {
+      "n": 278,
+      "greek": "αὐτὰρ ἐγὼ βασιλῆος ἐναντίον ἤλυθον ἵππων"
+    },
+    {
+      "n": 279,
+      "greek": "καὶ κύσα γούναθʼ ἑλών· ὁδʼ ἐρύσατο καί μʼ ἐλέησεν,"
+    },
+    {
+      "n": 280,
+      "greek": "ἐς δίφρον δέ μʼ ἕσας ἄγεν οἴκαδε δάκρυ χέοντα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "and slew the men; and the cry came quickly to the city. Then, hearing the shouting, the people came forth at break of day, and the whole plain was filled with footmen, and chariots and the flashing of bronze. But Zeus who hurls the thunderbolt cast an evil panic upon my comrades, and none had the courage"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "to hold his ground and face the foe; for evil surrounded us on every side. So then they slew many of us with the sharp bronze, and others they led up to their city alive, to work for them perforce. But in my heart Zeus himself put this thought—I would that I had rather died and met my fate"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "there in Egypt, for still was sorrow to give me welcome. Straightway I put off from my head my well-wrought helmet, and the shield from off my shoulders, and let the spear fall from my hand, and went toward the chariot horses of the king. I clasped, and kissed his knees, and he delivered me, and took pity on me,"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "and, setting me in his chariot, took me weeping to his home. Verily full many rushed upon me with their ashen spears, eager to slay me, for they were exceeding angry. But he warded them off, and had regard for the wrath of Zeus, the stranger's god, who above all others hath indignation at evil deeds."
+    }
+  ]
+}

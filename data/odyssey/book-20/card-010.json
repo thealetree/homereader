@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "πρὶν χειρῶν γεύσασθαι, ἐπεὶ σύ περ οὐ κατὰ κόσμον"
+    },
+    {
+      "n": 182,
+      "greek": "αἰτίζεις· εἰσὶν δὲ καὶ ἄλλαι δαῖτες Ἀχαιῶν."
+    },
+    {
+      "n": 183,
+      "greek": "ὣς φάτο, τὸν δʼ οὔ τι προσέφη πολύμητις Ὀδυσσεύς,"
+    },
+    {
+      "n": 184,
+      "greek": "ἀλλʼ ἀκέων κίνησε κάρη, κακὰ βυσσοδομεύων."
+    },
+    {
+      "n": 185,
+      "greek": "τοῖσι δʼ ἐπὶ τρίτος ἦλθε Φιλοίτιος, ὄρχαμος ἀνδρῶν,"
+    },
+    {
+      "n": 186,
+      "greek": "βοῦν στεῖραν μνηστῆρσιν ἄγων καὶ πίονας αἶγας."
+    },
+    {
+      "n": 187,
+      "greek": "πορθμῆες δʼ ἄρα τούς γε διήγαγον, οἵ τε καὶ ἄλλους"
+    },
+    {
+      "n": 188,
+      "greek": "ἀνθρώπους πέμπουσιν, ὅτις σφέας εἰσαφίκηται."
+    },
+    {
+      "n": 189,
+      "greek": "καὶ τὰ μὲν εὖ κατέδησεν ὑπʼ αἰθούσῃ ἐριδούπῳ,"
+    },
+    {
+      "n": 190,
+      "greek": "αὐτὸς δʼ αὖτʼ ἐρέεινε συβώτην ἄγχι παραστάς·"
+    },
+    {
+      "n": 191,
+      "greek": "τίς δὴ ὅδε ξεῖνος νέον εἰλήλουθε, συβῶτα,"
+    },
+    {
+      "n": 192,
+      "greek": "ἡμέτερον πρὸς δῶμα; τέων δʼ ἐξ εὔχεται εἶναι"
+    },
+    {
+      "n": 193,
+      "greek": "ἀνδρῶν; ποῦ δέ νύ οἱ γενεὴ καὶ πατρὶς ἄρουρα;"
+    },
+    {
+      "n": 194,
+      "greek": "δύσμορος, ἦ τε ἔοικε δέμας βασιλῆϊ ἄνακτι·"
+    },
+    {
+      "n": 195,
+      "greek": "ἀλλὰ θεοὶ δυόωσι πολυπλάγκτους ἀνθρώπους,"
+    },
+    {
+      "n": 196,
+      "greek": "ὁππότε καὶ βασιλεῦσιν ἐπικλώσωνται ὀϊζύν."
+    },
+    {
+      "n": 197,
+      "greek": "ἦ καὶ δεξιτερῇ δειδίσκετο χειρὶ παραστάς,"
+    },
+    {
+      "n": 198,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 199,
+      "greek": "χαῖρε, πάτερ ὦ ξεῖνε· γένοιτό τοι ἔς περ ὀπίσσω"
+    },
+    {
+      "n": 200,
+      "greek": "ὄλβος· ἀτὰρ μὲν νῦν γε κακοῖς ἔχεαι πολέεσσι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "Besides these a third man came, Philoetius, a leader of men, driving for the wooers a barren heifer and fat she-goats. These had been brought over from the mainland by ferrymen, who send other men, too, on their way, whosoever comes to them. The beasts he tethered carefully beneath the echoing portico,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "but himself came close to the swineherd and questioned him, saying: “Who is this stranger, swineherd, who has newly come to our house? From what men does he declare himself to be sprung? Where are his kinsmen and his native fields? Hapless man! Yet truly in form he is like a royal prince;"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "howbeit the gods bring to misery far-wandering men, whenever they spin for them the threads of trouble, even though they be kings.” Therewith he drew near to Odysseus, and stretching forth his right hand in greeting, spoke and addressed him with winged words: “Hail, Sir stranger;"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "may happy fortune be thine in time to come, though now thou art the thrall of many sorrows! Father Zeus, no other god is more baneful than thou; thou hast no pity on men when thou hast thyself given them birth, but bringest them into misery and wretched pains. The sweat broke out on me when I marked the man, and my eyes are full of tears"
+    }
+  ]
+}

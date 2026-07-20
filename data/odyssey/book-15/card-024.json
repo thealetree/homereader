@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "τὸν μὲν ἄρʼ ἐν μεγάρῳ δμῳαὶ καὶ πότνια μήτηρ"
+    },
+    {
+      "n": 462,
+      "greek": "χερσίν τʼ ἀμφαφόωντο καὶ ὀφθαλμοῖσιν ὁρῶντο,"
+    },
+    {
+      "n": 463,
+      "greek": "ὦνον ὑπισχόμεναι· ὁ δὲ τῇ κατένευσε σιωπῇ."
+    },
+    {
+      "n": 464,
+      "greek": "ἦ τοι ὁ καννεύσας κοίλην ἐπὶ νῆα βεβήκει,"
+    },
+    {
+      "n": 465,
+      "greek": "ἡ δʼ ἐμὲ χειρὸς ἑλοῦσα δόμων ἐξῆγε θύραζε."
+    },
+    {
+      "n": 466,
+      "greek": "εὗρε δʼ ἐνὶ προδόμῳ ἠμὲν δέπα ἠδὲ τραπέζας"
+    },
+    {
+      "n": 467,
+      "greek": "ἀνδρῶν δαιτυμόνων, οἵ μευ πατέρʼ ἀμφεπένοντο."
+    },
+    {
+      "n": 468,
+      "greek": "οἱ μὲν ἄρʼ ἐς θῶκον πρόμολον, δήμοιό τε φῆμιν,"
+    },
+    {
+      "n": 469,
+      "greek": "ἡ δʼ αἶψα τρίʼ ἄλεισα κατακρύψασʼ ὑπὸ κόλπῳ"
+    },
+    {
+      "n": 470,
+      "greek": "ἔκφερεν· αὐτὰρ ἐγὼν ἑπόμην ἀεσιφροσύνῃσι."
+    },
+    {
+      "n": 471,
+      "greek": "δύσετό τʼ ἠέλιος, σκιόωντό τε πᾶσαι ἀγυιαί·"
+    },
+    {
+      "n": 472,
+      "greek": "ἡμεῖς δʼ ἐς λιμένα κλυτὸν ἤλθομεν ὦκα κιόντες,"
+    },
+    {
+      "n": 473,
+      "greek": "ἔνθʼ ἄρα Φοινίκων ἀνδρῶν ἦν ὠκύαλος νηῦς."
+    },
+    {
+      "n": 474,
+      "greek": "οἱ μὲν ἔπειτʼ ἀναβάντες ἐπέπλεον ὑγρὰ κέλευθα,"
+    },
+    {
+      "n": 475,
+      "greek": "νὼ ἀναβησάμενοι· ἐπὶ δὲ Ζεὺς οὖρον ἴαλλεν."
+    },
+    {
+      "n": 476,
+      "greek": "ἑξῆμαρ μὲν ὁμῶς πλέομεν νύκτας τε καὶ ἦμαρ·"
+    },
+    {
+      "n": 477,
+      "greek": "ἀλλʼ ὅτε δὴ ἕβδομον ἦμαρ ἐπὶ Ζεὺς θῆκε Κρονίων,"
+    },
+    {
+      "n": 478,
+      "greek": "τὴν μὲν ἔπειτα γυναῖκα βάλʼ Ἄρτεμις ἰοχέαιρα,"
+    },
+    {
+      "n": 479,
+      "greek": "ἄντλῳ δʼ ἐνδούπησε πεσοῦσʼ ὡς εἰναλίη κήξ."
+    },
+    {
+      "n": 480,
+      "greek": "καὶ τὴν μὲν φώκῃσι καὶ ἰχθύσι κύρμα γενέσθαι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "but she took me by the hand, and led me forth from the house. Now in the fore-hall of the palace she found the cups and tables of the banqueters, who waited upon my father. They had gone forth to the council and the people's place of debate, but she quickly hid three goblets in her bosom,"
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "and bore them away; and I followed in my heedlessness. Then the sun set, and all the ways grew dark. And we made haste and came to the goodly harbor, where was the swift ship of the Phoenicians. Then they embarked,"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "putting both of us on board as well, and sailed over the watery ways, and Zeus sent them a favorable wind. For six days we sailed, night and day alike; but when Zeus, son of Cronos, brought upon us the seventh day, then Artemis, the archer, smote the woman, and she fell with a thud into the hold, as a sea bird plunges."
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "Her they cast forth to be a prey to seals and fishes, but I was left, my heart sore stricken. Now the wind, as it bore them, and the wave, brought them to Ithaca, where Laertes bought me with his wealth. Thus it was that my eyes beheld this land.”"
+    }
+  ]
+}

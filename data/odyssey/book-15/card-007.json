@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "ἥρως Ἀτρεΐδης· ὁ δʼ ἄρα κρητῆρα φαεινὸν"
+    },
+    {
+      "n": 122,
+      "greek": "θῆκʼ αὐτοῦ προπάροιθε φέρων κρατερὸς Μεγαπένθης,"
+    },
+    {
+      "n": 123,
+      "greek": "ἀργύρεον· Ἑλένη δὲ παρίστατο καλλιπάρῃος"
+    },
+    {
+      "n": 124,
+      "greek": "πέπλον ἔχουσʼ ἐν χερσίν, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    },
+    {
+      "n": 125,
+      "greek": "δῶρόν τοι καὶ ἐγώ, τέκνον φίλε, τοῦτο δίδωμι,"
+    },
+    {
+      "n": 126,
+      "greek": "μνῆμʼ Ἑλένης χειρῶν, πολυηράτου ἐς γάμου ὥρην,"
+    },
+    {
+      "n": 127,
+      "greek": "σῇ ἀλόχῳ φορέειν· τῆος δὲ φίλῃ παρὰ μητρὶ"
+    },
+    {
+      "n": 128,
+      "greek": "κείσθω ἐνὶ μεγάρῳ. σὺ δέ μοι χαίρων ἀφίκοιο"
+    },
+    {
+      "n": 129,
+      "greek": "οἶκον ἐϋκτίμενον καὶ σὴν ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 130,
+      "greek": "ὣς εἰποῦσʼ ἐν χερσὶ τίθει, ὁ δʼ ἐδέξατο χαίρων."
+    },
+    {
+      "n": 131,
+      "greek": "καὶ τὰ μὲν ἐς πείρινθα τίθει Πεισίστρατος ἥρως"
+    },
+    {
+      "n": 132,
+      "greek": "δεξάμενος, καὶ πάντα ἑῷ θηήσατο θυμῷ·"
+    },
+    {
+      "n": 133,
+      "greek": "τοὺς δʼ ἦγε πρὸς δῶμα κάρη ξανθὸς Μενέλαος."
+    },
+    {
+      "n": 134,
+      "greek": "ἑζέσθην δʼ ἄρʼ ἔπειτα κατὰ κλισμούς τε θρόνους τε."
+    },
+    {
+      "n": 135,
+      "greek": "χέρνιβα δʼ ἀμφίπολος προχόῳ ἐπέχευε φέρουσα"
+    },
+    {
+      "n": 136,
+      "greek": "καλῇ χρυσείῃ, ὑπὲρ ἀργυρέοιο λέβητος,"
+    },
+    {
+      "n": 137,
+      "greek": "νίψασθαι· παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν."
+    },
+    {
+      "n": 138,
+      "greek": "σῖτον δʼ αἰδοίη ταμίη παρέθηκε φέρουσα·"
+    },
+    {
+      "n": 139,
+      "greek": "εἴδατα πόλλʼ ἐπιθεῖσα, χαριζομένη παρεόντων·"
+    },
+    {
+      "n": 140,
+      "greek": "πὰρ δὲ Βοηθοΐδης κρέα δαίετο καὶ νέμε μοίρας·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "“Lo, I too give thee this gift, dear child, a remembrance of the hands of Helen, against the day of thy longed-for marriage, for thy bride to wear it. But until then let it lie in thy halls in the keeping of thy dear mother. And for thyself I wish that with joy thou mayest reach thy well-built house and thy native land.”"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "So saying, she placed it in his hands, and he took it gladly. And the prince Peisistratus took the gifts, and laid them in the box of the chariot, and gazed at them all wondering in his heart. Then fair-haired Menelaus led them to the house, and the two sat down on chairs and high seats."
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "And a handmaid brought water for the hands in a fair pitcher of gold, and poured it over a silver basin for them to wash, and beside them drew up a polished table. And the grave housewife brought and set before them bread, and therewith meats in abundance, granting freely of her store."
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "And hard by the son of Boethous carved the meat, and divided the portions, and the son of glorious Menelaus poured the wine. So they put forth their hands to the good cheer lying ready before them. But when they had put from them the desire of food and drink, then Telemachus and the glorious son of Nestor"
+    }
+  ]
+}

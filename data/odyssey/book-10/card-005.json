@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "ἑβδομάτῃ δʼ ἱκόμεσθα Λάμου αἰπὺ πτολίεθρον,"
+    },
+    {
+      "n": 82,
+      "greek": "Τηλέπυλον Λαιστρυγονίην, ὅθι ποιμένα ποιμὴν"
+    },
+    {
+      "n": 83,
+      "greek": "ἠπύει εἰσελάων, ὁ δέ τʼ ἐξελάων ὑπακούει."
+    },
+    {
+      "n": 84,
+      "greek": "ἔνθα κʼ ἄυπνος ἀνὴρ δοιοὺς ἐξήρατο μισθούς,"
+    },
+    {
+      "n": 85,
+      "greek": "τὸν μὲν βουκολέων, τὸν δʼ ἄργυφα μῆλα νομεύων·"
+    },
+    {
+      "n": 86,
+      "greek": "ἐγγὺς γὰρ νυκτός τε καὶ ἤματός εἰσι κέλευθοι."
+    },
+    {
+      "n": 87,
+      "greek": "ἔνθʼ ἐπεὶ ἐς λιμένα κλυτὸν ἤλθομεν, ὃν πέρι πέτρη"
+    },
+    {
+      "n": 88,
+      "greek": "ἠλίβατος τετύχηκε διαμπερὲς ἀμφοτέρωθεν,"
+    },
+    {
+      "n": 89,
+      "greek": "ἀκταὶ δὲ προβλῆτες ἐναντίαι ἀλλήλῃσιν"
+    },
+    {
+      "n": 90,
+      "greek": "ἐν στόματι προύχουσιν, ἀραιὴ δʼ εἴσοδός ἐστιν,"
+    },
+    {
+      "n": 91,
+      "greek": "ἔνθʼ οἵ γʼ εἴσω πάντες ἔχον νέας ἀμφιελίσσας."
+    },
+    {
+      "n": 92,
+      "greek": "αἱ μὲν ἄρʼ ἔντοσθεν λιμένος κοίλοιο δέδεντο"
+    },
+    {
+      "n": 93,
+      "greek": "πλησίαι· οὐ μὲν γάρ ποτʼ ἀέξετο κῦμά γʼ ἐν αὐτῷ,"
+    },
+    {
+      "n": 94,
+      "greek": "οὔτε μέγʼ οὔτʼ ὀλίγον, λευκὴ δʼ ἦν ἀμφὶ γαλήνη·"
+    },
+    {
+      "n": 95,
+      "greek": "αὐτὰρ ἐγὼν οἶος σχέθον ἔξω νῆα μέλαιναν,"
+    },
+    {
+      "n": 96,
+      "greek": "αὐτοῦ ἐπʼ ἐσχατιῇ, πέτρης ἐκ πείσματα δήσας·"
+    },
+    {
+      "n": 97,
+      "greek": "ἔστην δὲ σκοπιὴν ἐς παιπαλόεσσαν ἀνελθών."
+    },
+    {
+      "n": 98,
+      "greek": "ἔνθα μὲν οὔτε βοῶν οὔτʼ ἀνδρῶν φαίνετο ἔργα,"
+    },
+    {
+      "n": 99,
+      "greek": "καπνὸν δʼ οἶον ὁρῶμεν ἀπὸ χθονὸς ἀίσσοντα."
+    },
+    {
+      "n": 100,
+      "greek": "δὴ τότʼ ἐγὼν ἑτάρους προΐειν πεύθεσθαι ἰόντας,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "one by herding cattle, and one by pasturing white sheep; for the out goings of the night and of the day are close together. When we had come thither into the goodly harbor, about which on both sides a sheer cliff runs continuously, and projecting headlands opposite to one another"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "stretch out at the mouth, and the entrance is narrow, then all the rest steered their curved ships in, and the ships were moored within the hollow harbor close together; for therein no wave ever swelled, great or small, but all about was a bright calm."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "But I alone moored my black ship outside, there on the border of the land, making the cables fast to the rock. Then I climbed to a rugged height, a point of outlook, and there took my stand; from thence no works of oxen or of men appeared; smoke alone we saw springing up from the land."
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "So then I sent forth some of my comrades to go and learn who the men were, who here ate bread upon the earth—two men I chose, and sent with them a third as a herald. Now when they had gone ashore, they went along a smooth road by which wagons were wont to bring wood down to the city from the high mountains."
+    }
+  ]
+}

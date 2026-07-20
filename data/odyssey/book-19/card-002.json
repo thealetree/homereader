@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "τὸν δʼ αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·"
+    },
+    {
+      "n": 22,
+      "greek": "αἲ γὰρ δή ποτε, τέκνον, ἐπιφροσύνας ἀνέλοιο"
+    },
+    {
+      "n": 23,
+      "greek": "οἴκου κήδεσθαι καὶ κτήματα πάντα φυλάσσειν."
+    },
+    {
+      "n": 24,
+      "greek": "ἀλλʼ ἄγε, τίς τοι ἔπειτα μετοιχομένη φάος οἴσει;"
+    },
+    {
+      "n": 25,
+      "greek": "δμῳὰς δʼ οὐκ εἴας προβλωσκέμεν, αἵ κεν ἔφαινον."
+    },
+    {
+      "n": 26,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 27,
+      "greek": "ξεῖνος ὅδʼ· οὐ γὰρ ἀεργὸν ἀνέξομαι ὅς κεν ἐμῆς γε"
+    },
+    {
+      "n": 28,
+      "greek": "χοίνικος ἅπτηται, καὶ τηλόθεν εἰληλουθώς."
+    },
+    {
+      "n": 29,
+      "greek": "ὣς ἄρʼ ἐφώνησεν, τῇ δʼ ἄπτερος ἔπλετο μῦθος."
+    },
+    {
+      "n": 30,
+      "greek": "κλήϊσεν δὲ θύρας μεγάρων εὖ ναιεταόντων."
+    },
+    {
+      "n": 31,
+      "greek": "τὼ δʼ ἄρʼ ἀναΐξαντʼ Ὀδυσεὺς καὶ φαίδιμος υἱὸς"
+    },
+    {
+      "n": 32,
+      "greek": "ἐσφόρεον κόρυθάς τε καὶ ἀσπίδας ὀμφαλοέσσας"
+    },
+    {
+      "n": 33,
+      "greek": "ἔγχεά τʼ ὀξυόεντα· πάροιθε δὲ Παλλὰς Ἀθήνη,"
+    },
+    {
+      "n": 34,
+      "greek": "χρύσεον λύχνον ἔχουσα, φάος περικαλλὲς ἐποίει."
+    },
+    {
+      "n": 35,
+      "greek": "δὴ τότε Τηλέμαχος προσεφώνεεν ὃν πατέρʼ αἶψα·"
+    },
+    {
+      "n": 36,
+      "greek": "ὦ πάτερ, ἦ μέγα θαῦμα τόδʼ ὀφθαλμοῖσιν ὁρῶμαι."
+    },
+    {
+      "n": 37,
+      "greek": "ἔμπης μοι τοῖχοι μεγάρων καλαί τε μεσόδμαι,"
+    },
+    {
+      "n": 38,
+      "greek": "εἰλάτιναί τε δοκοί, καὶ κίονες ὑψόσʼ ἔχοντες"
+    },
+    {
+      "n": 39,
+      "greek": "φαίνοντʼ ὀφθαλμοῖς ὡς εἰ πυρὸς αἰθομένοιο."
+    },
+    {
+      "n": 40,
+      "greek": "ἦ μάλα τις θεὸς ἔνδον, οἳ οὐρανὸν εὐρὺν ἔχουσι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "since thou wouldest not suffer the maids, who might have given light, to go before thee?” Then wise Telemachus answered her; “This stranger here; for I will suffer no man to be idle who touches my portion of meal, even though he has come from afar.” So he spoke, but her word remained unwinged, and she locked the doors of the stately hall."
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "Then the two sprang up, Odysseus and his glorious son, and set about bearing within the helmets and the bossy shields and the sharp-pointed spears; and before them Pallas Athena, bearing a golden lamp, made a most beauteous light."
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "Then Telemachus suddenly spoke to his father, and said: “Father, verily this is a great marvel that my eyes behold; certainly the walls of the house and the fair beams and cross-beams of fir and the pillars that reach on high, glow in my eyes as with the light of blazing fire."
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "Surely some god is within, one of those who hold broad heaven.” Then Odysseus of many wiles answered him, and said: “Hush, check thy thought, and ask no question; this, I tell thee, is the way of the gods that hold Olympus. But do thou go and take thy rest and I will remain behind here,"
+    }
+  ]
+}

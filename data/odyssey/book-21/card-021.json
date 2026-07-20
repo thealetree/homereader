@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "ἄλλος δʼ αὖ εἴπεσκε νέων ὑπερηνορεόντων·"
+    },
+    {
+      "n": 402,
+      "greek": "αἲ γὰρ δὴ τοσσοῦτον ὀνήσιος ἀντιάσειεν"
+    },
+    {
+      "n": 403,
+      "greek": "ὡς οὗτός ποτε τοῦτο δυνήσεται ἐντανύσασθαι."
+    },
+    {
+      "n": 404,
+      "greek": "ὣς ἄρʼ ἔφαν μνηστῆρες· ἀτὰρ πολύμητις Ὀδυσσεύς,"
+    },
+    {
+      "n": 405,
+      "greek": "αὐτίκʼ ἐπεὶ μέγα τόξον ἐβάστασε καὶ ἴδε πάντη,"
+    },
+    {
+      "n": 406,
+      "greek": "ὡς ὅτʼ ἀνὴρ φόρμιγγος ἐπιστάμενος καὶ ἀοιδῆς"
+    },
+    {
+      "n": 407,
+      "greek": "ῥηϊδίως ἐτάνυσσε νέῳ περὶ κόλλοπι χορδήν,"
+    },
+    {
+      "n": 408,
+      "greek": "ἅψας ἀμφοτέρωθεν ἐϋστρεφὲς ἔντερον οἰός,"
+    },
+    {
+      "n": 409,
+      "greek": "ὣς ἄρʼ ἄτερ σπουδῆς τάνυσεν μέγα τόξον Ὀδυσσεύς."
+    },
+    {
+      "n": 410,
+      "greek": "δεξιτερῇ ἄρα χειρὶ λαβὼν πειρήσατο νευρῆς·"
+    },
+    {
+      "n": 411,
+      "greek": "ἡ δʼ ὑπὸ καλὸν ἄεισε, χελιδόνι εἰκέλη αὐδήν."
+    },
+    {
+      "n": 412,
+      "greek": "μνηστῆρσιν δʼ ἄρʼ ἄχος γένετο μέγα, πᾶσι δʼ ἄρα χρὼς"
+    },
+    {
+      "n": 413,
+      "greek": "ἐτράπετο· Ζεὺς δὲ μεγάλʼ ἔκτυπε σήματα φαίνων·"
+    },
+    {
+      "n": 414,
+      "greek": "γήθησέν τʼ ἄρʼ ἔπειτα πολύτλας δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 415,
+      "greek": "ὅττι ῥά οἱ τέρας ἧκε Κρόνου πάϊς ἀγκυλομήτεω·"
+    },
+    {
+      "n": 416,
+      "greek": "εἵλετο δʼ ὠκὺν ὀϊστόν, ὅ οἱ παρέκειτο τραπέζῃ"
+    },
+    {
+      "n": 417,
+      "greek": "γυμνός· τοὶ δʼ ἄλλοι κοίλης ἔντοσθε φαρέτρης"
+    },
+    {
+      "n": 418,
+      "greek": "κείατο, τῶν τάχʼ ἔμελλον Ἀχαιοὶ πειρήσεσθαι."
+    },
+    {
+      "n": 419,
+      "greek": "τόν ῥʼ ἐπὶ πήχει ἑλὼν ἕλκεν νευρὴν γλυφίδας τε,"
+    },
+    {
+      "n": 420,
+      "greek": "αὐτόθεν ἐκ δίφροιο καθήμενος, ἧκε δʼ ὀϊστὸν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "as soon as he had lifted the great bow and scanned it on every side—even as when a man well-skilled in the lyre and in song easily stretches the string about a new peg, making fast at either end the twisted sheep-gut—so without effort did Odysseus string the great bow."
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "And he held it in his right hand, and tried the string, which sang sweetly beneath his touch, like to a swallow in tone. But upon the wooers came great grief, and the faces of them changed color, and Zeus thundered loud, shewing forth his signs. Then glad at heart was the much-enduring, goodly Odysseus"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "that the son of crooked-counselling Cronos sent him an omen, and he took up a swift arrow, which lay by him on the table, bare, but the others were stored within the hollow quiver, even those of which the Achaeans were soon to taste. This he took, and laid upon the bridge of the bow, and drew the bow-string and the notched arrow"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "even from the chair where he sat, and let fly the shaft with sure aim, and did not miss the end of the handle of one of the axes, but clean through and out at the end passed the arrow weighted with bronze. But he spoke to Telemachus, saying: “Telemachus, the stranger"
+    }
+  ]
+}

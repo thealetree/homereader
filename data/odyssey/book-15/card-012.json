@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "αἶψα δʼ ἄρʼ εἴσβαινον καὶ ἐπὶ κληῗσι καθῖζον."
+    },
+    {
+      "n": 222,
+      "greek": "ἦ τοι ὁ μὲν τὰ πονεῖτο καὶ εὔχετο, θῦε δʼ Ἀθήνῃ"
+    },
+    {
+      "n": 223,
+      "greek": "νηῒ πάρα πρυμνῇ· σχεδόθεν δέ οἱ ἤλυθεν ἀνὴρ"
+    },
+    {
+      "n": 224,
+      "greek": "τηλεδαπός, φεύγων ἐξ Ἄργεος ἄνδρα κατακτάς,"
+    },
+    {
+      "n": 225,
+      "greek": "μάντις· ἀτὰρ γενεήν γε Μελάμποδος ἔκγονος ἦεν,"
+    },
+    {
+      "n": 226,
+      "greek": "ὃς πρὶν μέν ποτʼ ἔναιε Πύλῳ ἔνι, μητέρι μήλων,"
+    },
+    {
+      "n": 227,
+      "greek": "ἀφνειὸς Πυλίοισι μέγʼ ἔξοχα δώματα ναίων·"
+    },
+    {
+      "n": 228,
+      "greek": "δὴ τότε γʼ ἄλλων δῆμον ἀφίκετο, πατρίδα φεύγων"
+    },
+    {
+      "n": 229,
+      "greek": "Νηλέα τε μεγάθυμον, ἀγαυότατον ζωόντων,"
+    },
+    {
+      "n": 230,
+      "greek": "ὅς οἱ χρήματα πολλὰ τελεσφόρον εἰς ἐνιαυτὸν"
+    },
+    {
+      "n": 231,
+      "greek": "εἶχε βίῃ. ὁ δὲ τῆος ἐνὶ μεγάροις Φυλάκοιο"
+    },
+    {
+      "n": 232,
+      "greek": "δεσμῷ ἐν ἀργαλέῳ δέδετο, κρατέρʼ ἄλγεα πάσχων"
+    },
+    {
+      "n": 233,
+      "greek": "εἵνεκα Νηλῆος κούρης ἄτης τε βαρείης,"
+    },
+    {
+      "n": 234,
+      "greek": "τήν οἱ ἐπὶ φρεσὶ θῆκε θεὰ δασπλῆτις Ἐρινύς."
+    },
+    {
+      "n": 235,
+      "greek": "ἀλλʼ ὁ μὲν ἔκφυγε κῆρα καὶ ἤλασε βοῦς ἐριμύκους"
+    },
+    {
+      "n": 236,
+      "greek": "ἐς Πύλον ἐκ Φυλάκης καὶ ἐτίσατο ἔργον ἀεικὲς"
+    },
+    {
+      "n": 237,
+      "greek": "ἀντίθεον Νηλῆα, κασιγνήτῳ δὲ γυναῖκα"
+    },
+    {
+      "n": 238,
+      "greek": "ἠγάγετο πρὸς δώμαθʼ. ὁ δʼ ἄλλων ἵκετο δῆμον,"
+    },
+    {
+      "n": 239,
+      "greek": "Ἄργος ἐς ἱππόβοτον· τόθι γάρ νύ οἱ αἴσιμον ἦεν"
+    },
+    {
+      "n": 240,
+      "greek": "ναιέμεναι πολλοῖσιν ἀνάσσοντʼ Ἀργείοισιν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "and he was a seer. By lineage he was sprung from Melampus, who of old dwelt in Pylos, mother of flocks, a rich man and one that had a very wealthy house among the Pylians, but had afterward come to a land of strangers, fleeing from his country and from great-hearted Neleus, the lordliest of living men,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "who for a full year had kept much wealth from him by force. Now Melampus meanwhile lay bound with bitter bonds in the halls of Phylacus, suffering grievous pains because of the daughter of Neleus, and the terrible blindness of heart which the goddess, the Erinys, who brings houses to ruin, had laid upon him."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "Howbeit he escaped his fate, and drove off the deep-lowing kine from Phylace to Pylos, and avenged the cruel deed upon godlike Neleus, and brought the maiden home to be his own brother's wife. For himself, he went to the land of other men, to horse-pasturing Argos, for there it was appointed him"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "to dwell, bearing sway over many Argives. There he wedded a wife and built him a high-roofed house, and begot Antiphates and Mantius, two stalwart sons. Now Antiphates begot great-hearted Oicles, and Oicles Amphiaraus, the rouser of the host,"
+    }
+  ]
+}

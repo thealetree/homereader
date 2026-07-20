@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "καὶ γὰρ Τρῶάς φασι μαχητὰς ἔμμεναι ἄνδρας,"
+    },
+    {
+      "n": 262,
+      "greek": "ἠμὲν ἀκοντιστὰς ἠδὲ ῥυτῆρας ὀϊστῶν"
+    },
+    {
+      "n": 263,
+      "greek": "ἵππων τʼ ὠκυπόδων ἐπιβήτορας, οἵ κε τάχιστα"
+    },
+    {
+      "n": 264,
+      "greek": "ἔκριναν μέγα νεῖκος ὁμοιΐου πολέμοιο."
+    },
+    {
+      "n": 265,
+      "greek": "τῷ οὐκ οἶδʼ ἤ κέν μʼ ἀνέσει θεός, ἦ κεν ἁλώω"
+    },
+    {
+      "n": 266,
+      "greek": "αὐτοῦ ἐνὶ Τροίῃ· σοὶ δʼ ἐνθάδε πάντα μελόντων."
+    },
+    {
+      "n": 267,
+      "greek": "μεμνῆσθαι πατρὸς καὶ μητέρος ἐν μεγάροισιν"
+    },
+    {
+      "n": 268,
+      "greek": "ὡς νῦν, ἢ ἔτι μᾶλλον ἐμεῦ ἀπονόσφιν ἐόντος·"
+    },
+    {
+      "n": 269,
+      "greek": "αὐτὰρ ἐπὴν δὴ παῖδα γενειήσαντα ἴδηαι,"
+    },
+    {
+      "n": 270,
+      "greek": "γήμασθʼ ᾧ κʼ ἐθέλῃσθα, τεὸν κατὰ δῶμα λιποῦσα."
+    },
+    {
+      "n": 271,
+      "greek": "κεῖνος τὼς ἀγόρευε· τὰ δὴ νῦν πάντα τελεῖται."
+    },
+    {
+      "n": 272,
+      "greek": "νὺξ δʼ ἔσται ὅτε δὴ στυγερὸς γάμος ἀντιβολήσει"
+    },
+    {
+      "n": 273,
+      "greek": "οὐλομένης ἐμέθεν, τῆς τε Ζεὺς ὄλβον ἀπηύρα."
+    },
+    {
+      "n": 274,
+      "greek": "ἀλλὰ τόδʼ αἰνὸν ἄχος κραδίην καὶ θυμὸν ἱκάνει·"
+    },
+    {
+      "n": 275,
+      "greek": "μνηστήρων οὐχ ἥδε δίκη τὸ πάροιθε τέτυκτο·"
+    },
+    {
+      "n": 276,
+      "greek": "οἵ τʼ ἀγαθήν τε γυναῖκα καὶ ἀφνειοῖο θύγατρα"
+    },
+    {
+      "n": 277,
+      "greek": "μνηστεύειν ἐθέλωσι καὶ ἀλλήλοις ἐρίσωσιν,"
+    },
+    {
+      "n": 278,
+      "greek": "αὐτοὶ τοί γʼ ἀπάγουσι βόας καὶ ἴφια μῆλα,"
+    },
+    {
+      "n": 279,
+      "greek": "κούρης δαῖτα φίλοισι, καὶ ἀγλαὰ δῶρα διδοῦσιν·"
+    },
+    {
+      "n": 280,
+      "greek": "ἀλλʼ οὐκ ἀλλότριον βίοτον νήποινον ἔδουσιν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "Therefore I know not whether the god will bring me back, or whether I shall be cut off there in the land of Troy: so have thou charge of all things here. Be mindful of my father and my mother in the halls even as thou art now, or yet more, while I am far away. But when thou shalt see my son a bearded man,"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "wed whom thou wilt, and leave thy house.’ “So he spoke, and now all this is being brought to pass. The night shall come when a hateful marriage shall fall to the lot of me accursed, whose happiness Zeus has taken away. But herein has bitter grief come upon my heart and soul,"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "for such as yours was never the way of wooers heretofore. They who are fain to woo a lady of worth and the daughter of a rich man and vie with one another, these bring of themselves cattle and goodly flocks, a banquet for the friends of the bride, and give to her glorious gifts;"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "but they do not devour the livelihood of another without atonement.” So she spoke, and the much-enduring, goodly Odysseus was glad, because she drew from them gifts, and beguiled their souls with gentle words, but her mind was set on other things. Then Antinous, son of Eupeithes, spoke to her again, and said:"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ὅς τις ἀιδρείῃ πελάσῃ καὶ φθόγγον ἀκούσῃ"
+    },
+    {
+      "n": 42,
+      "greek": "Σειρήνων, τῷ δʼ οὔ τι γυνὴ καὶ νήπια τέκνα"
+    },
+    {
+      "n": 43,
+      "greek": "οἴκαδε νοστήσαντι παρίσταται οὐδὲ γάνυνται,"
+    },
+    {
+      "n": 44,
+      "greek": "ἀλλά τε Σειρῆνες λιγυρῇ θέλγουσιν ἀοιδῇ"
+    },
+    {
+      "n": 45,
+      "greek": "ἥμεναι ἐν λειμῶνι, πολὺς δʼ ἀμφʼ ὀστεόφιν θὶς"
+    },
+    {
+      "n": 46,
+      "greek": "ἀνδρῶν πυθομένων, περὶ δὲ ῥινοὶ μινύθουσι."
+    },
+    {
+      "n": 47,
+      "greek": "ἀλλὰ παρεξελάαν, ἐπὶ δʼ οὔατʼ ἀλεῖψαι ἑταίρων"
+    },
+    {
+      "n": 48,
+      "greek": "κηρὸν δεψήσας μελιηδέα, μή τις ἀκούσῃ"
+    },
+    {
+      "n": 49,
+      "greek": "τῶν ἄλλων· ἀτὰρ αὐτὸς ἀκουέμεν αἴ κʼ ἐθέλῃσθα,"
+    },
+    {
+      "n": 50,
+      "greek": "δησάντων σʼ ἐν νηὶ θοῇ χεῖράς τε πόδας τε"
+    },
+    {
+      "n": 51,
+      "greek": "ὀρθὸν ἐν ἱστοπέδῃ, ἐκ δʼ αὐτοῦ πείρατʼ ἀνήφθω,"
+    },
+    {
+      "n": 52,
+      "greek": "ὄφρα κε τερπόμενος ὄπʼ ἀκούσῃς Σειρήνοιιν."
+    },
+    {
+      "n": 53,
+      "greek": "εἰ δέ κε λίσσηαι ἑτάρους λῦσαί τε κελεύῃς,"
+    },
+    {
+      "n": 54,
+      "greek": "οἱ δέ σʼ ἔτι πλεόνεσσι τότʼ ἐν δεσμοῖσι διδέντων."
+    },
+    {
+      "n": 55,
+      "greek": "αὐτὰρ ἐπὴν δὴ τάς γε παρὲξ ἐλάσωσιν ἑταῖροι,"
+    },
+    {
+      "n": 56,
+      "greek": "ἔνθα τοι οὐκέτʼ ἔπειτα διηνεκέως ἀγορεύσω,"
+    },
+    {
+      "n": 57,
+      "greek": "ὁπποτέρη δή τοι ὁδὸς ἔσσεται, ἀλλὰ καὶ αὐτὸς"
+    },
+    {
+      "n": 58,
+      "greek": "θυμῷ βουλεύειν· ἐρέω δέ τοι ἀμφοτέρωθεν."
+    },
+    {
+      "n": 59,
+      "greek": "ἔνθεν μὲν γὰρ πέτραι ἐπηρεφέες, προτὶ δʼ αὐτὰς"
+    },
+    {
+      "n": 60,
+      "greek": "κῦμα μέγα ῥοχθεῖ κυανώπιδος Ἀμφιτρίτης·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "as they sit in a meadow, and about them is a great heap of bones of mouldering men, and round the bones the skin is shrivelling. But do thou row past them, and anoint the ears of thy comrades with sweet wax, which thou hast kneaded, lest any of the rest may hear. But if thou thyself hast a will to listen,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "let them bind thee in the swift ship hand and foot upright in the step of the mast, and let the ropes be made fast at the ends to the mast itself, that with delight thou mayest listen to the voice of the two Sirens. And if thou shalt implore and bid thy comrades to loose thee, then let them bind thee with yet more bonds."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "But when thy comrades shall have rowed past these, thereafter I shall not fully say on which side thy course is to lie, but do thou thyself ponder it in mind, and I will tell thee of both ways. For on the one hand are beetling crags, and against them"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "roars the great wave of dark-eyed Amphitrite; the Planctae do the blessed gods call these. Thereby not even winged things may pass, no, not the timorous doves that bear ambrosia to father Zeus, but the smooth rock ever snatches away one even of these,"
+    }
+  ]
+}

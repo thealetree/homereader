@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "τῇ δʼ ἄρʼ ἅμʼ ἀμφίπολοι φέρον ὄγκιον, ἔνθα σίδηρος"
+    },
+    {
+      "n": 62,
+      "greek": "κεῖτο πολὺς καὶ χαλκός, ἀέθλια τοῖο ἄνακτος."
+    },
+    {
+      "n": 63,
+      "greek": "ἡ δʼ ὅτε δὴ μνηστῆρας ἀφίκετο δῖα γυναικῶν,"
+    },
+    {
+      "n": 64,
+      "greek": "στῆ ῥα παρὰ σταθμὸν τέγεος πύκα ποιητοῖο,"
+    },
+    {
+      "n": 65,
+      "greek": "ἄντα παρειάων σχομένη λιπαρὰ κρήδεμνα."
+    },
+    {
+      "n": 66,
+      "greek": "ἀμφίπολος δʼ ἄρα οἱ κεδνὴ ἑκάτερθε παρέστη."
+    },
+    {
+      "n": 67,
+      "greek": "αὐτίκα δὲ μνηστῆρσι μετηύδα καὶ φάτο μῦθον·"
+    },
+    {
+      "n": 68,
+      "greek": "κέκλυτέ μευ, μνηστῆρες ἀγήνορες, οἳ τόδε δῶμα"
+    },
+    {
+      "n": 69,
+      "greek": "ἐχράετʼ ἐσθιέμεν καὶ πινέμεν ἐμμενὲς αἰεὶ"
+    },
+    {
+      "n": 70,
+      "greek": "ἀνδρὸς ἀποιχομένοιο πολὺν χρόνον· οὐδέ τινʼ ἄλλην"
+    },
+    {
+      "n": 71,
+      "greek": "μύθου ποιήσασθαι ἐπισχεσίην ἐδύνασθε,"
+    },
+    {
+      "n": 72,
+      "greek": "ἀλλʼ ἐμὲ ἱέμενοι γῆμαι θέσθαι τε γυναῖκα."
+    },
+    {
+      "n": 73,
+      "greek": "ἀλλʼ ἄγετε, μνηστῆρες, ἐπεὶ τόδε φαίνετʼ ἄεθλον."
+    },
+    {
+      "n": 74,
+      "greek": "θήσω γὰρ μέγα τόξον Ὀδυσσῆος θείοιο·"
+    },
+    {
+      "n": 75,
+      "greek": "ὃς δέ κε ῥηΐτατʼ ἐντανύσῃ βιὸν ἐν παλάμῃσι"
+    },
+    {
+      "n": 76,
+      "greek": "καὶ διοϊστεύσῃ πελέκεων δυοκαίδεκα πάντων,"
+    },
+    {
+      "n": 77,
+      "greek": "τῷ κεν ἅμʼ ἑσποίμην, νοσφισσαμένη τόδε δῶμα"
+    },
+    {
+      "n": 78,
+      "greek": "κουρίδιον, μάλα καλόν, ἐνίπλειον βιότοιο,"
+    },
+    {
+      "n": 79,
+      "greek": "τοῦ ποτὲ μεμνήσεσθαι ὀΐομαι ἔν περ ὀνείρῳ."
+    },
+    {
+      "n": 80,
+      "greek": "ὣς φάτο, καί ῥʼ Εὔμαιον ἀνώγει, δῖον ὑφορβόν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "holding before her face her shining veil; and a faithful handmaid stood on either side of her. Then straightway she spoke among the wooers, and said: “Hear me, ye proud wooers, who have beset this house to eat and drink ever without end,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "since its master has long been gone, nor could you find any other plea to urge, save only as desiring to wed me and take me to wife. Nay, come now, ye wooers, since this is shewn to be your prize. I will set before you the great bow of divine Odysseus,"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "and whosoever shall most easily string the bow in his hands and shoot an arrow through all twelve axes, with him will I go, and forsake this house of my wedded life, a house most fair and filled with livelihood, which, methinks I shall ever remember even in my dreams.”"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "So she spoke, and bade Eumaeus, the goodly swineherd, set for the wooers the bow and the grey iron. And, bursting into tears, Eumaeus took them and laid them down, and in another place the neatherd wept, when he saw the bow of his lord. Then Antinous rebuked them, and spoke, and addressed them:"
+    }
+  ]
+}

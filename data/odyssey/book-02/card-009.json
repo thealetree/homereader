@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "κέκλυτε δὴ νῦν μευ, Ἰθακήσιοι, ὅττι κεν εἴπω·"
+    },
+    {
+      "n": 162,
+      "greek": "μνηστῆρσιν δὲ μάλιστα πιφαυσκόμενος τάδε εἴρω·"
+    },
+    {
+      "n": 163,
+      "greek": "τοῖσιν γὰρ μέγα πῆμα κυλίνδεται· οὐ γὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 164,
+      "greek": "δὴν ἀπάνευθε φίλων ὧν ἔσσεται, ἀλλά που ἤδη"
+    },
+    {
+      "n": 165,
+      "greek": "ἐγγὺς ἐὼν τοῖσδεσσι φόνον καὶ κῆρα φυτεύει"
+    },
+    {
+      "n": 166,
+      "greek": "πάντεσσιν· πολέσιν δὲ καὶ ἄλλοισιν κακὸν ἔσται,"
+    },
+    {
+      "n": 167,
+      "greek": "οἳ νεμόμεσθʼ Ἰθάκην ἐυδείελον. ἀλλὰ πολὺ πρὶν"
+    },
+    {
+      "n": 168,
+      "greek": "φραζώμεσθʼ, ὥς κεν καταπαύσομεν· οἱ δὲ καὶ αὐτοὶ"
+    },
+    {
+      "n": 169,
+      "greek": "παυέσθων· καὶ γάρ σφιν ἄφαρ τόδε λώιόν ἐστιν."
+    },
+    {
+      "n": 170,
+      "greek": "οὐ γὰρ ἀπείρητος μαντεύομαι, ἀλλʼ ἐὺ εἰδώς·"
+    },
+    {
+      "n": 171,
+      "greek": "καὶ γὰρ κείνῳ φημὶ τελευτηθῆναι ἅπαντα,"
+    },
+    {
+      "n": 172,
+      "greek": "ὥς οἱ ἐμυθεόμην, ὅτε Ἴλιον εἰσανέβαινον"
+    },
+    {
+      "n": 173,
+      "greek": "Ἀργεῖοι, μετὰ δέ σφιν ἔβη πολύμητις Ὀδυσσεύς."
+    },
+    {
+      "n": 174,
+      "greek": "φῆν κακὰ πολλὰ παθόντʼ, ὀλέσαντʼ ἄπο πάντας ἑταίρους,"
+    },
+    {
+      "n": 175,
+      "greek": "ἄγνωστον πάντεσσιν ἐεικοστῷ ἐνιαυτῷ"
+    },
+    {
+      "n": 176,
+      "greek": "οἴκαδʼ ἐλεύσεσθαι· τὰ δὲ δὴ νῦν πάντα τελεῖται."
+    },
+    {
+      "n": 177,
+      "greek": "τὸν δʼ αὖτʼ Εὐρύμαχος Πολύβου πάϊς ἀντίον ηὔδα·"
+    },
+    {
+      "n": 178,
+      "greek": "ὦ γέρον, εἰ δʼ ἄγε νῦν μαντεύεο σοῖσι τέκεσσιν"
+    },
+    {
+      "n": 179,
+      "greek": "οἴκαδʼ ἰών, μή πού τι κακὸν πάσχωσιν ὀπίσσω·"
+    },
+    {
+      "n": 180,
+      "greek": "ταῦτα δʼ ἐγὼ σέο πολλὸν ἀμείνων μαντεύεσθαι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "he is near, and is sowing death and fate for these men, one and all. Aye, and to many others of us also who dwell in clear-seen Ithaca will he be a bane. But long ere that let us take thought how we may make an end of this—or rather let them of themselves make an end, for this is straightway the better course for them."
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "Not as one untried do I prophesy, but with sure knowledge. For unto Odysseus I declare that all things are fulfilled even as I told him, when the Argives embarked for Ilios and with them went Odysseus of many wiles. I declared that after suffering many ills and losing all his comrades he would come home in the twentieth year"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "unknown to all; and lo, all this is now being brought to pass.” Then Eurymachus, son of Polybus, answered him, and said: “Old man, up now, get thee home and prophesy to thy children, lest haply in days to come they suffer ill."
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "In this matter I am better far than thou to prophesy. Many birds there are that fare to and fro under the rays of the sun, and not all are fateful. As for Odysseus, he has perished far away, as I would that thou hadst likewise perished with him. Then wouldst thou not prate so much in thy reading of signs,"
+    }
+  ]
+}

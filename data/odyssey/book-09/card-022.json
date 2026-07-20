@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "εἴ τινʼ ἑταίροισιν θανάτου λύσιν ἠδʼ ἐμοὶ αὐτῷ"
+    },
+    {
+      "n": 422,
+      "greek": "εὑροίμην· πάντας δὲ δόλους καὶ μῆτιν ὕφαινον"
+    },
+    {
+      "n": 423,
+      "greek": "ὥς τε περὶ ψυχῆς· μέγα γὰρ κακὸν ἐγγύθεν ἦεν."
+    },
+    {
+      "n": 424,
+      "greek": "ἥδε δέ μοι κατὰ θυμὸν ἀρίστη φαίνετο βουλή."
+    },
+    {
+      "n": 425,
+      "greek": "ἄρσενες ὄιες ἦσαν ἐυτρεφέες, δασύμαλλοι,"
+    },
+    {
+      "n": 426,
+      "greek": "καλοί τε μεγάλοι τε, ἰοδνεφὲς εἶρος ἔχοντες·"
+    },
+    {
+      "n": 427,
+      "greek": "τοὺς ἀκέων συνέεργον ἐυστρεφέεσσι λύγοισιν,"
+    },
+    {
+      "n": 428,
+      "greek": "τῇς ἔπι Κύκλωψ εὗδε πέλωρ, ἀθεμίστια εἰδώς,"
+    },
+    {
+      "n": 429,
+      "greek": "σύντρεις αἰνύμενος· ὁ μὲν ἐν μέσῳ ἄνδρα φέρεσκε,"
+    },
+    {
+      "n": 430,
+      "greek": "τὼ δʼ ἑτέρω ἑκάτερθεν ἴτην σώοντες ἑταίρους."
+    },
+    {
+      "n": 431,
+      "greek": "τρεῖς δὲ ἕκαστον φῶτʼ ὄιες φέρον· αὐτὰρ ἐγώ γε—"
+    },
+    {
+      "n": 432,
+      "greek": "ἀρνειὸς γὰρ ἔην μήλων ὄχʼ ἄριστος ἁπάντων,"
+    },
+    {
+      "n": 433,
+      "greek": "τοῦ κατὰ νῶτα λαβών, λασίην ὑπὸ γαστέρʼ ἐλυσθεὶς"
+    },
+    {
+      "n": 434,
+      "greek": "κείμην· αὐτὰρ χερσὶν ἀώτου θεσπεσίοιο"
+    },
+    {
+      "n": 435,
+      "greek": "νωλεμέως στρεφθεὶς ἐχόμην τετληότι θυμῷ."
+    },
+    {
+      "n": 436,
+      "greek": "ὣς τότε μὲν στενάχοντες ἐμείναμεν Ἠῶ δῖαν."
+    },
+    {
+      "n": 437,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 438,
+      "greek": "καὶ τότʼ ἔπειτα νομόνδʼ ἐξέσσυτο ἄρσενα μῆλα,"
+    },
+    {
+      "n": 439,
+      "greek": "θήλειαι δὲ μέμηκον ἀνήμελκτοι περὶ σηκούς·"
+    },
+    {
+      "n": 440,
+      "greek": "οὔθατα γὰρ σφαραγεῦντο. ἄναξ δʼ ὀδύνῃσι κακῇσι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "Rams there were, well-fed and thick of fleece, fine beasts and large, with wool dark as the violet. These I silently bound together with twisted withes on which the Cyclops, that monster with his heart set on lawlessness, was wont to sleep. Three at a time I took. The one in the middle in each case bore a man,"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "and the other two went, one on either side, saving my comrades. Thus every three sheep bore a man. But as for me—there was a ram, far the best of all the flock; him I grasped by the back, and curled beneath his shaggy belly, lay there face upwards"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "with steadfast heart, clinging fast with my hands to his wondrous fleece. So then, with wailing, we waited for the bright dawn. “As soon as early Dawn appeared, the rosy-fingered, then the males of the flock hastened forth to pasture and the females bleated unmilked about the pens,"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "for their udders were bursting. And their master, distressed with grievous pains, felt along the backs of all the sheep as they stood up before him, but in his folly he marked not this, that my men were bound beneath the breasts of his fleecy sheep. Last of all the flock the ram went forth,"
+    }
+  ]
+}

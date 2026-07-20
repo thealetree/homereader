@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "λήθετʼ ἄρʼ ἀθανάτων· φρεσὶ γὰρ κέχρητʼ ἀγαθῇσιν·"
+    },
+    {
+      "n": 422,
+      "greek": "ἀλλʼ ὅγʼ ἀπαρχόμενος κεφαλῆς τρίχας ἐν πυρὶ βάλλεν"
+    },
+    {
+      "n": 423,
+      "greek": "ἀργιόδοντος ὑός, καὶ ἐπεύχετο πᾶσι θεοῖσιν"
+    },
+    {
+      "n": 424,
+      "greek": "νοστῆσαι Ὀδυσῆα πολύφρονα ὅνδε δόμονδε."
+    },
+    {
+      "n": 425,
+      "greek": "κόψε δʼ ἀνασχόμενος σχίζῃ δρυός, ἣν λίπε κείων·"
+    },
+    {
+      "n": 426,
+      "greek": "τὸν δʼ ἔλιπε ψυχή. τοὶ δʼ ἔσφαξάν τε καὶ εὗσαν·"
+    },
+    {
+      "n": 427,
+      "greek": "αἶψα δέ μιν διέχευαν· ὁ δʼ ὠμοθετεῖτο συβώτης,"
+    },
+    {
+      "n": 428,
+      "greek": "πάντων ἀρχόμενος μελέων, ἐς πίονα δημόν,"
+    },
+    {
+      "n": 429,
+      "greek": "καὶ τὰ μὲν ἐν πυρὶ βάλλε, παλύνας ἀλφίτου ἀκτῇ,"
+    },
+    {
+      "n": 430,
+      "greek": "μίστυλλόν τʼ ἄρα τἆλλα καὶ ἀμφʼ ὀβελοῖσιν ἔπειραν,"
+    },
+    {
+      "n": 431,
+      "greek": "ὤπτησάν τε περιφραδέως ἐρύσαντό τε πάντα,"
+    },
+    {
+      "n": 432,
+      "greek": "βάλλον δʼ εἰν ἐλεοῖσιν ἀολλέα· ἂν δὲ συβώτης"
+    },
+    {
+      "n": 433,
+      "greek": "ἵστατο δαιτρεύσων· περὶ γὰρ φρεσὶν αἴσιμα ᾔδη."
+    },
+    {
+      "n": 434,
+      "greek": "καὶ τὰ μὲν ἕπταχα πάντα διεμοιρᾶτο δαΐζων·"
+    },
+    {
+      "n": 435,
+      "greek": "τὴν μὲν ἴαν νύμφῃσι καὶ Ἑρμῇ, Μαιάδος υἱεῖ,"
+    },
+    {
+      "n": 436,
+      "greek": "θῆκεν ἐπευξάμενος, τὰς δʼ ἄλλας νεῖμεν ἑκάστῳ·"
+    },
+    {
+      "n": 437,
+      "greek": "νώτοισιν δʼ Ὀδυσῆα διηνεκέεσσι γέραιρεν"
+    },
+    {
+      "n": 438,
+      "greek": "ἀργιόδοντος ὑός, κύδαινε δὲ θυμὸν ἄνακτος·"
+    },
+    {
+      "n": 439,
+      "greek": "καί μιν φωνήσας προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 440,
+      "greek": "αἴθʼ οὕτως, Εὔμαιε, φίλος Διὶ πατρὶ γένοιο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "Then he raised himself up, and smote the boar with a billet of oak, which he had left when splitting the wood, and the boar's life left him. And the others cut the boar's throat, and signed him, and quickly cut him up, and the swineherd took as first offerings bits of raw flesh from all the limbs, and laid them in the rich fat. These he cast into the fire, when he had sprinkled them with barley meal,"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "but the rest they cut up and spitted, and roasted it carefully, and drew it all off the spits, and cast it in a heap on platters. Then the swineherd stood up to carve, for well did his heart know what was fair, and he cut up the mess and divided it into seven portions."
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "One with a prayer he set aside for the nymphs and for Hermes, son of Maia, and the rest he distributed to each. And Odysseus he honored with the long chine of the white-tusked boar, and made glad the heart of his master; and Odysseus of many wiles spoke to him, and said:"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "“Eumaeus, mayest thou be as dear to father Zeus as thou art to me, since thou honourest me with a good portion, albeit I am in such plight.” To him then, swineherd Eumaeus, didst thou make answer, and say: “Eat, unhappy stranger, and have joy of such fare as is here. It is the god that will give one thing and withhold another,"
+    }
+  ]
+}

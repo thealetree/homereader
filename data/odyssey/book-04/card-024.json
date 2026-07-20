@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "καὶ τότε δή μʼ ἐπέεσσιν ἀνειρόμενος προσέειπε·"
+    },
+    {
+      "n": 462,
+      "greek": "τίς νύ τοι, Ἀτρέος υἱέ, θεῶν συμφράσσατο βουλάς,"
+    },
+    {
+      "n": 463,
+      "greek": "ὄφρα μʼ ἕλοις ἀέκοντα λοχησάμενος; τέο σε χρή;"
+    },
+    {
+      "n": 464,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 465,
+      "greek": "οἶσθα, γέρον, τί με ταῦτα παρατροπέων ἐρεείνεις;"
+    },
+    {
+      "n": 466,
+      "greek": "ὡς δὴ δήθʼ ἐνὶ νήσῳ ἐρύκομαι, οὐδέ τι τέκμωρ"
+    },
+    {
+      "n": 467,
+      "greek": "εὑρέμεναι δύναμαι, μινύθει δέ μοι ἔνδοθεν ἦτορ."
+    },
+    {
+      "n": 468,
+      "greek": "ἀλλὰ σύ πέρ μοι εἰπέ, θεοὶ δέ τε πάντα ἴσασιν,"
+    },
+    {
+      "n": 469,
+      "greek": "ὅς τίς μʼ ἀθανάτων πεδάᾳ καὶ ἔδησε κελεύθου,"
+    },
+    {
+      "n": 470,
+      "greek": "νόστον θʼ, ὡς ἐπὶ πόντον ἐλεύσομαι ἰχθυόεντα."
+    },
+    {
+      "n": 471,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 472,
+      "greek": "ἀλλὰ μάλʼ ὤφελλες Διί τʼ ἄλλοισίν τε θεοῖσι"
+    },
+    {
+      "n": 473,
+      "greek": "ῥέξας ἱερὰ κάλʼ ἀναβαινέμεν, ὄφρα τάχιστα"
+    },
+    {
+      "n": 474,
+      "greek": "σὴν ἐς πατρίδʼ ἵκοιο πλέων ἐπὶ οἴνοπα πόντον."
+    },
+    {
+      "n": 475,
+      "greek": "οὐ γάρ τοι πρὶν μοῖρα φίλους τʼ ἰδέειν καὶ ἱκέσθαι"
+    },
+    {
+      "n": 476,
+      "greek": "οἶκον ἐυκτίμενον καὶ σὴν ἐς πατρίδα γαῖαν,"
+    },
+    {
+      "n": 477,
+      "greek": "πρίν γʼ ὅτʼ ἂν Αἰγύπτοιο, διιπετέος ποταμοῖο,"
+    },
+    {
+      "n": 478,
+      "greek": "αὖτις ὕδωρ ἔλθῃς ῥέξῃς θʼ ἱερὰς ἑκατόμβας"
+    },
+    {
+      "n": 479,
+      "greek": "ἀθανάτοισι θεοῖσι, τοὶ οὐρανὸν εὐρὺν ἔχουσι·"
+    },
+    {
+      "n": 480,
+      "greek": "καὶ τότε τοι δώσουσιν ὁδὸν θεοί, ἣν σὺ μενοινᾷς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "‘Thou knowest, old man—why dost thou seek to put me off with this question?—how long a time I am pent in this isle, and can find no sign of deliverance, and my heart grows faint within me. But do thou tell me—for the gods know all things—who of the immortals fetters me here, and has hindered me from my path, and tell me"
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "of my return, how I may go over the teeming deep.’ “So I spoke, and he straightway made answer, and said: ‘Nay, surely thou oughtest to have made fair offerings to Zeus and the other gods before embarking, that with greatest speed thou mightest have come to thy country, sailing over the wine-dark sea."
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "For it is not thy fate to see thy friends, and reach thy well-built house and thy native land, before that thou hast once more gone to the waters of Aegyptus, the heaven-fed river, and hast offered holy hecatombs to the immortal gods who hold broad heaven."
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "Then at length shall the gods grant thee the journey thou desirest.’ “So he spoke, and my spirit was broken within me, for that he bade me go again over the misty deep to Aegyptus, a long and weary way. Yet even so I made answer, and said:"
+    }
+  ]
+}

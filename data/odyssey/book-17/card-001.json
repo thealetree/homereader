@@ -1,0 +1,129 @@
+{
+  "book": 17,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 2,
+      "greek": "δὴ τότʼ ἔπειθʼ ὑπὸ ποσσὶν ἐδήσατο καλὰ πέδιλα"
+    },
+    {
+      "n": 3,
+      "greek": "Τηλέμαχος, φίλος υἱὸς Ὀδυσσῆος θείοιο,"
+    },
+    {
+      "n": 4,
+      "greek": "εἵλετο δʼ ἄλκιμον ἔγχος, ὅ οἱ παλάμηφιν ἀρήρει,"
+    },
+    {
+      "n": 5,
+      "greek": "ἄστυδε ἱέμενος, καὶ ἑὸν προσέειπε συβώτην·"
+    },
+    {
+      "n": 6,
+      "greek": "ἄττʼ, ἦ τοι μὲν ἐγὼν εἶμʼ ἐς πόλιν, ὄφρα με μήτηρ"
+    },
+    {
+      "n": 7,
+      "greek": "ὄψεται· οὐ γάρ μιν πρόσθεν παύσεσθαι ὀΐω"
+    },
+    {
+      "n": 8,
+      "greek": "κλαυθμοῦ τε στυγεροῖο γόοιό τε δακρυόεντος,"
+    },
+    {
+      "n": 9,
+      "greek": "πρίν γʼ αὐτόν με ἴδηται· ἀτὰρ σοί γʼ ὧδʼ ἐπιτέλλω."
+    },
+    {
+      "n": 10,
+      "greek": "τὸν ξεῖνον δύστηνον ἄγʼ ἐς πόλιν, ὄφρʼ ἂν ἐκεῖθι"
+    },
+    {
+      "n": 11,
+      "greek": "δαῖτα πτωχεύῃ· δώσει δέ οἱ ὅς κʼ ἐθέλῃσι"
+    },
+    {
+      "n": 12,
+      "greek": "πύρνον καὶ κοτύλην· ἐμὲ δʼ οὔ πως ἔστιν ἅπαντας"
+    },
+    {
+      "n": 13,
+      "greek": "ἀνθρώπους ἀνέχεσθαι, ἔχοντά περ ἄλγεα θυμῷ·"
+    },
+    {
+      "n": 14,
+      "greek": "ὁ ξεῖνος δʼ εἴ περ μάλα μηνίει, ἄλγιον αὐτῷ"
+    },
+    {
+      "n": 15,
+      "greek": "ἔσσεται· ἦ γὰρ ἐμοὶ φίλʼ ἀληθέα μυθήσασθαι."
+    },
+    {
+      "n": 16,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 17,
+      "greek": "ὦ φίλος, οὐδέ τοι αὐτὸς ἐρύκεσθαι μενεαίνω·"
+    },
+    {
+      "n": 18,
+      "greek": "πτωχῷ βέλτερόν ἐστι κατὰ πτόλιν ἠὲ κατʼ ἀγροὺς"
+    },
+    {
+      "n": 19,
+      "greek": "δαῖτα πτωχεύειν· δώσει δέ μοι ὅς κʼ ἐθέλῃσιν."
+    },
+    {
+      "n": 20,
+      "greek": "οὐ γὰρ ἐπὶ σταθμοῖσι μένειν ἔτι τηλίκος εἰμί,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "As soon as early Dawn appeared, the rosy-fingered, Telemachus, the dear son of divine Odysseus, bound beneath his feet his fair sandals and took his mighty spear, that fitted his grasp,"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "hasting to the city; and he spoke to his swineherd, saying: “Father, I verily am going to the city, that my mother may see me, for, methinks, she will not cease from woeful wailing and tearful lamentation until she sees my very self. But to thee I give this charge."
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "Lead this wretched stranger to the city, that there he may beg his food, and whoso will shall give him a loaf and a cup of water. For my part, I can in no wise burden myself with all men, seeing that I have grief at heart. But if the stranger is sore angered at this,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "it will be the worse for him. I verily love to speak the truth.” Then Odysseus of many wiles answered him, and said: “Friend, be sure I am not myself fain to be left here. For a beggar it is better to beg his food in the town than in the fields, and whoso will shall give it me."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "For I am no more of an age to remain at the farmstead, so as to obey in all things the command of an overseer. Nay, go thy way; this man that thou biddest will lead me as soon as I have warmed myself at the fire, and the sun has grown hot. For miserably poor are these garments which I wear, and I fear lest"
+    }
+  ]
+}

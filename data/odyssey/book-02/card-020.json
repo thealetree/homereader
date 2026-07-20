@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "Τηλέμαχος δʼ ἐς δώματʼ ἰὼν μνηστῆρσιν ὁμίλει."
+    },
+    {
+      "n": 382,
+      "greek": "ἔνθʼ αὖτʼ ἄλλʼ ἐνόησε θεά, γλαυκῶπις Ἀθήνη."
+    },
+    {
+      "n": 383,
+      "greek": "Τηλεμάχῳ ἐικυῖα κατὰ πτόλιν ᾤχετο πάντῃ,"
+    },
+    {
+      "n": 384,
+      "greek": "καί ῥα ἑκάστῳ φωτὶ παρισταμένη φάτο μῦθον,"
+    },
+    {
+      "n": 385,
+      "greek": "ἑσπερίους δʼ ἐπὶ νῆα θοὴν ἀγέρεσθαι ἀνώγει."
+    },
+    {
+      "n": 386,
+      "greek": "ἡ δʼ αὖτε Φρονίοιο Νοήμονα φαίδιμον υἱὸν"
+    },
+    {
+      "n": 387,
+      "greek": "ᾔτεε νῆα θοήν· ὁ δέ οἱ πρόφρων ὑπέδεκτο."
+    },
+    {
+      "n": 388,
+      "greek": "δύσετό τʼ ἠέλιος σκιόωντό τε πᾶσαι ἀγυιαί,"
+    },
+    {
+      "n": 389,
+      "greek": "καὶ τότε νῆα θοὴν ἅλαδʼ εἴρυσε, πάντα δʼ ἐν αὐτῇ"
+    },
+    {
+      "n": 390,
+      "greek": "ὅπλʼ ἐτίθει, τά τε νῆες ἐύσσελμοι φορέουσι."
+    },
+    {
+      "n": 391,
+      "greek": "στῆσε δʼ ἐπʼ ἐσχατιῇ λιμένος, περὶ δʼ ἐσθλοὶ ἑταῖροι"
+    },
+    {
+      "n": 392,
+      "greek": "ἁθρόοι ἠγερέθοντο· θεὰ δʼ ὤτρυνεν ἕκαστον."
+    },
+    {
+      "n": 393,
+      "greek": "ἔνθʼ αὖτʼ ἄλλʼ ἐνόησε θεά, γλαυκῶπις Ἀθήνη."
+    },
+    {
+      "n": 394,
+      "greek": "βῆ ῤʼ ἰέναι πρὸς δώματʼ Ὀδυσσῆος θείοιο·"
+    },
+    {
+      "n": 395,
+      "greek": "ἔνθα μνηστήρεσσιν ἐπὶ γλυκὺν ὕπνον ἔχευε,"
+    },
+    {
+      "n": 396,
+      "greek": "πλάζε δὲ πίνοντας, χειρῶν δʼ ἔκβαλλε κύπελλα."
+    },
+    {
+      "n": 397,
+      "greek": "οἱ δʼ εὕδειν ὤρνυντο κατὰ πτόλιν, οὐδʼ ἄρʼ ἔτι δὴν"
+    },
+    {
+      "n": 398,
+      "greek": "ἥατʼ, ἐπεί σφισιν ὕπνος ἐπὶ βλεφάροισιν ἔπιπτεν."
+    },
+    {
+      "n": 399,
+      "greek": "αὐτὰρ Τηλέμαχον προσέφη γλαυκῶπις Ἀθήνη"
+    },
+    {
+      "n": 400,
+      "greek": "ἐκπροκαλεσσαμένη μεγάρων ἐὺ ναιεταόντων,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "bidding them gather at even beside the swift ship. Furthermore, of Noemon, the glorious son of Phronius, she asked a swift ship, and he promised it to her with a ready heart. Now the sun set and all the ways grew dark. Then she drew the swift ship to the sea and"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "put in it all the gear that well-benched ships carry. And she moored it at the mouth of the harbor, and round about it the goodly company was gathered together, and the goddess heartened each man. Then again the goddess, flashing-eyed Athena, took other counsel. She went her way to the house of divine Odysseus,"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "and there began to shed sweet sleep upon the wooers and made them to wander in their drinking, and from their hands she cast the cups. But they rose to go to their rest throughout the city, and remained no long time seated, for sleep was falling upon their eyelids. But to Telemachus spoke flashing-eyed Athena,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "calling him forth before the stately hall, having likened herself to Mentor both in form and in voice: “Telemachus, already thy well-greaved comrades sit at the oar and await thy setting out. Come, let us go, that we may not long delay their journey.”"
+    }
+  ]
+}

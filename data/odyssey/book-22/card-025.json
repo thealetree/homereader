@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "οἶσε θέειον, γρηΰ, κακῶν ἄκος, οἶσε δέ μοι πῦρ,"
+    },
+    {
+      "n": 482,
+      "greek": "ὄφρα θεειώσω μέγαρον· σὺ δὲ Πηνελόπειαν"
+    },
+    {
+      "n": 483,
+      "greek": "ἐλθεῖν ἐνθάδʼ ἄνωχθι σὺν ἀμφιπόλοισι γυναιξί·"
+    },
+    {
+      "n": 484,
+      "greek": "πάσας δʼ ὄτρυνον δμῳὰς κατὰ δῶμα νέεσθαι."
+    },
+    {
+      "n": 485,
+      "greek": "τὸν δʼ αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·"
+    },
+    {
+      "n": 486,
+      "greek": "ναὶ δὴ ταῦτά γε, τέκνον ἐμόν, κατὰ μοῖραν ἔειπες."
+    },
+    {
+      "n": 487,
+      "greek": "ἀλλʼ ἄγε τοι χλαῖνάν τε χιτῶνά τε εἵματʼ ἐνείκω,"
+    },
+    {
+      "n": 488,
+      "greek": "μηδʼ οὕτω ῥάκεσιν πεπυκασμένος εὐρέας ὤμους"
+    },
+    {
+      "n": 489,
+      "greek": "ἕσταθʼ ἐνὶ μεγάροισι· νεμεσσητὸν δέ κεν εἴη."
+    },
+    {
+      "n": 490,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 491,
+      "greek": "πῦρ νῦν μοι πρώτιστον ἐνὶ μεγάροισι γενέσθω."
+    },
+    {
+      "n": 492,
+      "greek": "ὣς ἔφατʼ, οὐδʼ ἀπίθησε φίλη τροφὸς Εὐρύκλεια,"
+    },
+    {
+      "n": 493,
+      "greek": "ἤνεικεν δʼ ἄρα πῦρ καὶ θήϊον· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 494,
+      "greek": "εὖ διεθείωσεν μέγαρον καὶ δῶμα καὶ αὐλήν."
+    },
+    {
+      "n": 495,
+      "greek": "γρηῢς δʼ αὖτʼ ἀπέβη διὰ δώματα κάλʼ Ὀδυσῆος"
+    },
+    {
+      "n": 496,
+      "greek": "ἀγγελέουσα γυναιξὶ καὶ ὀτρυνέουσα νέεσθαι·"
+    },
+    {
+      "n": 497,
+      "greek": "αἱ δʼ ἴσαν ἐκ μεγάροιο δάος μετὰ χερσὶν ἔχουσαι."
+    },
+    {
+      "n": 498,
+      "greek": "αἱ μὲν ἄρʼ ἀμφεχέοντο καὶ ἠσπάζοντʼ Ὀδυσῆα,"
+    },
+    {
+      "n": 499,
+      "greek": "καὶ κύνεον ἀγαπαξόμεναι κεφαλήν τε καὶ ὤμους"
+    },
+    {
+      "n": 500,
+      "greek": "χεῖράς τʼ αἰνύμεναι· τὸν δὲ γλυκὺς ἵμερος ᾕρει"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "Then the dear nurse Eurycleia answered him: “Yea, all this, my child, hast thou spoken aright. But come, let me bring thee a cloak and a tunic for raiment, and do not thou stand thus in the halls with thy broad shoulders wrapped in rags; that were a cause for blame.”"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "Then Odysseus of many wiles answered her: “First of all let a fire now be made me in the hall.” So he spoke, and the dear nurse Eurycleia did not disobey, but brought fire and sulphur; but Odysseus throughly purged the hall and the house and the court."
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "Then the old dame went back through the fair house of Odysseus to bear tidings to the women and bid them come; and they came forth from their hall with torches in their hands. They thronged about Odysseus and embraced him, and clasped and kissed his head and shoulders"
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "and his hands in loving welcome; and a sweet longing seized him to weep and wail, for in his heart he knew them all."
+    }
+  ]
+}

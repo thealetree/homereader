@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 28,
+  "lineStart": 541,
+  "lineEnd": 560,
+  "lines": [
+    {
+      "n": 541,
+      "greek": "ὣς φάτο, Τηλέμαχος δὲ μέγʼ ἔπταρεν, ἀμφὶ δὲ δῶμα"
+    },
+    {
+      "n": 542,
+      "greek": "σμερδαλέον κονάβησε· γέλασσε δὲ Πηνελόπεια,"
+    },
+    {
+      "n": 543,
+      "greek": "αἶψα δʼ ἄρʼ Εὔμαιον ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 544,
+      "greek": "ἔρχεό μοι, τὸν ξεῖνον ἐναντίον ὧδε κάλεσσον."
+    },
+    {
+      "n": 545,
+      "greek": "οὐχ ὁράᾳς ὅ μοι υἱὸς ἐπέπταρε πᾶσιν ἔπεσσι;"
+    },
+    {
+      "n": 546,
+      "greek": "τῷ κε καὶ οὐκ ἀτελὴς θάνατος μνηστῆρσι γένοιτο"
+    },
+    {
+      "n": 547,
+      "greek": "πᾶσι μάλʼ, οὐδέ κέ τις θάνατον καὶ κῆρας ἀλύξει."
+    },
+    {
+      "n": 548,
+      "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·"
+    },
+    {
+      "n": 549,
+      "greek": "αἴ κʼ αὐτὸν γνώω νημερτέα πάντʼ ἐνέποντα,"
+    },
+    {
+      "n": 550,
+      "greek": "ἕσσω μιν χλαῖνάν τε χιτῶνά τε, εἵματα καλά."
+    },
+    {
+      "n": 551,
+      "greek": "ὣς φάτο, βῆ δὲ συφορβός, ἐπεὶ τὸν μῦθον ἄκουσεν·"
+    },
+    {
+      "n": 552,
+      "greek": "ἀγχοῦ δʼ ἱστάμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 553,
+      "greek": "ξεῖνε πάτερ, καλέει σε περίφρων Πηνελόπεια,"
+    },
+    {
+      "n": 554,
+      "greek": "μήτηρ Τηλεμάχοιο· μεταλλῆσαί τί ἑ θυμὸς"
+    },
+    {
+      "n": 555,
+      "greek": "ἀμφὶ πόσει κέλεται, καὶ κήδεά περ πεπαθυίῃ."
+    },
+    {
+      "n": 556,
+      "greek": "εἰ δέ κέ σε γνώῃ νημερτέα πάντʼ ἐνέποντα,"
+    },
+    {
+      "n": 557,
+      "greek": "ἕσσει σε χλαῖνάν τε χιτῶνά τε, τῶν σὺ μάλιστα"
+    },
+    {
+      "n": 558,
+      "greek": "χρηΐζεις· σῖτον δὲ καὶ αἰτίζων κατὰ δῆμον"
+    },
+    {
+      "n": 559,
+      "greek": "γαστέρα βοσκήσεις· δώσει δέ τοι ὅς κʼ ἐθέλῃσι."
+    },
+    {
+      "n": 560,
+      "greek": "τὸν δʼ αὖτε προσέειπε πολύτλας δῖος Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        549
+      ],
+      "text": "Dost thou not note that my son has sneezed at all my words. Therefore shall utter death fall upon the wooers one and all, nor shall one of them escape death and the fates. And another thing will I tell thee, and do thou lay it to heart. If I find that he speaks all things truly,"
+    },
+    {
+      "lines": [
+        550,
+        554
+      ],
+      "text": "I will clothe him in a cloak and tunic, fair raiment.” So she spoke, and the swineherd went when he had heard this saying; and coming up to Odysseus he spoke to him winged words: “Sir stranger, wise Penelope calls for thee, the mother of Telemachus, and her heart"
+    },
+    {
+      "lines": [
+        555,
+        559
+      ],
+      "text": "bids her make enquiry about her husband, though she has suffered many woes. And if she finds that thou speakest all things truly, she will clothe thee in a cloak and tunic, which thou needest most of all. As for thy food, thou shalt beg it through the land, and feed thy belly, and whoso will shall give it thee.”"
+    },
+    {
+      "lines": [
+        560,
+        560
+      ],
+      "text": "Then the much-enduring goodly Odysseus answered him: “Eumaeus, soon will I tell all the truth to the daughter of Icarius, wise Penelope. For well do I know of Odysseus, and in common have we borne affliction. But I have fear of this throng of harsh wooers,"
+    }
+  ]
+}

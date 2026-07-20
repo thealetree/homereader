@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "κοῦροι, ἐμοὶ μνηστῆρες, ἐπεὶ θάνε δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 142,
+      "greek": "μίμνετʼ ἐπειγόμενοι τὸν ἐμὸν γάμον, εἰς ὅ κε φᾶρος"
+    },
+    {
+      "n": 143,
+      "greek": "ἐκτελέσω—μή μοι μεταμώνια νήματʼ ὄληται—"
+    },
+    {
+      "n": 144,
+      "greek": "Λαέρτῃ ἥρωϊ ταφήϊον, εἰς ὅτε κέν μιν"
+    },
+    {
+      "n": 145,
+      "greek": "μοῖρʼ ὀλοὴ καθέλῃσι τανηλεγέος θανάτοιο·"
+    },
+    {
+      "n": 146,
+      "greek": "μή τίς μοι κατὰ δῆμον Ἀχαιϊάδων νεμεσήσῃ,"
+    },
+    {
+      "n": 147,
+      "greek": "αἴ κεν ἄτερ σπείρου κεῖται πολλὰ κτεατίσσας."
+    },
+    {
+      "n": 148,
+      "greek": "ὣς ἐφάμην, τοῖσιν δʼ ἐπεπείθετο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 149,
+      "greek": "ἔνθα καὶ ἠματίη μὲν ὑφαίνεσκον μέγαν ἱστόν,"
+    },
+    {
+      "n": 150,
+      "greek": "νύκτας δʼ ἀλλύεσκον, ἐπεὶ δαΐδας παραθείμην."
+    },
+    {
+      "n": 151,
+      "greek": "ὣς τρίετες μὲν ἔληθον ἐγὼ καὶ ἔπειθον Ἀχαιούς·"
+    },
+    {
+      "n": 152,
+      "greek": "ἀλλʼ ὅτε τέτρατον ἦλθεν ἔτος καὶ ἐπήλυθον ὧραι,"
+    },
+    {
+      "n": 153,
+      "greek": "μηνῶν φθινόντων, περὶ δʼ ἤματα πόλλʼ ἐτελέσθη,"
+    },
+    {
+      "n": 154,
+      "greek": "καὶ τότε δή με διὰ δμῳάς, κύνας οὐκ ἀλεγούσας,"
+    },
+    {
+      "n": 155,
+      "greek": "εἷλον ἐπελθόντες καὶ ὁμόκλησαν ἐπέεσσιν."
+    },
+    {
+      "n": 156,
+      "greek": "ὣς τὸ μὲν ἐξετέλεσσα, καὶ οὐκ ἐθέλουσʼ, ὑπʼ ἀνάγκης·"
+    },
+    {
+      "n": 157,
+      "greek": "νῦν δʼ οὔτʼ ἐκφυγέειν δύναμαι γάμον οὔτε τινʼ ἄλλην"
+    },
+    {
+      "n": 158,
+      "greek": "μῆτιν ἔθʼ εὑρίσκω· μάλα δʼ ὀτρύνουσι τοκῆες"
+    },
+    {
+      "n": 159,
+      "greek": "γήμασθʼ, ἀσχαλάᾳ δὲ πάϊς βίοτον κατεδόντων,"
+    },
+    {
+      "n": 160,
+      "greek": "γιγνώσκων· ἤδη γὰρ ἀνὴρ οἶός τε μάλιστα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "the fell fate of grievous death shall strike him down; lest any one of the Achaean women in the land should be wroth with me, if he were to lie without a shroud, who had won great possessions.’ “So I spoke, and their proud hearts consented. Then day by day I would weave at the great web,"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "but by night would unravel it, when I had let place torches by me. Thus for three years I kept the Achaeans from knowing, and beguiled them; but when the fourth year came, as the seasons rolled on, as the months waned, and the many days were brought in their course, then verily by the help of my maidens, shameless creatures and reckless,"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "they came upon me and caught me, and upbraided me loudly. So I finished the web against my will perforce. And now I can neither escape the marriage nor devise any counsel more, and my parents are pressing me to marry, and my son frets, while these men devour his livelihood,"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "as he takes note of it all; for by now he is a man, and fully able to care for a household to which Zeus grants honor. Yet even so tell me of thy stock from whence thou art; for thou art not sprung from an oak of ancient story, or from a stone.” Then Odysseus of many wiles answered her, and said:"
+    }
+  ]
+}

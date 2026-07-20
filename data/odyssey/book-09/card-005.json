@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "καὶ Βορέης ἀπέωσε, παρέπλαγξεν δὲ Κυθήρων."
+    },
+    {
+      "n": 82,
+      "greek": "ἔνθεν δʼ ἐννῆμαρ φερόμην ὀλοοῖς ἀνέμοισιν"
+    },
+    {
+      "n": 83,
+      "greek": "πόντον ἐπʼ ἰχθυόεντα· ἀτὰρ δεκάτῃ ἐπέβημεν"
+    },
+    {
+      "n": 84,
+      "greek": "γαίης Λωτοφάγων, οἵ τʼ ἄνθινον εἶδαρ ἔδουσιν."
+    },
+    {
+      "n": 85,
+      "greek": "ἔνθα δʼ ἐπʼ ἠπείρου βῆμεν καὶ ἀφυσσάμεθʼ ὕδωρ,"
+    },
+    {
+      "n": 86,
+      "greek": "αἶψα δὲ δεῖπνον ἕλοντο θοῇς παρὰ νηυσὶν ἑταῖροι."
+    },
+    {
+      "n": 87,
+      "greek": "αὐτὰρ ἐπεὶ σίτοιό τʼ ἐπασσάμεθʼ ἠδὲ ποτῆτος,"
+    },
+    {
+      "n": 88,
+      "greek": "δὴ τοτʼ ἐγὼν ἑτάρους προΐειν πεύθεσθαι ἰόντας,"
+    },
+    {
+      "n": 89,
+      "greek": "οἵ τινες ἀνέρες εἶεν ἐπὶ χθονὶ σῖτον ἔδοντες"
+    },
+    {
+      "n": 90,
+      "greek": "ἄνδρε δύω κρίνας, τρίτατον κήρυχʼ ἅμʼ ὀπάσσας."
+    },
+    {
+      "n": 91,
+      "greek": "οἱ δʼ αἶψʼ οἰχόμενοι μίγεν ἀνδράσι Λωτοφάγοισιν·"
+    },
+    {
+      "n": 92,
+      "greek": "οὐδʼ ἄρα Λωτοφάγοι μήδονθʼ ἑτάροισιν ὄλεθρον"
+    },
+    {
+      "n": 93,
+      "greek": "ἡμετέροις, ἀλλά σφι δόσαν λωτοῖο πάσασθαι."
+    },
+    {
+      "n": 94,
+      "greek": "τῶν δʼ ὅς τις λωτοῖο φάγοι μελιηδέα καρπόν,"
+    },
+    {
+      "n": 95,
+      "greek": "οὐκέτʼ ἀπαγγεῖλαι πάλιν ἤθελεν οὐδὲ νέεσθαι,"
+    },
+    {
+      "n": 96,
+      "greek": "ἀλλʼ αὐτοῦ βούλοντο μετʼ ἀνδράσι Λωτοφάγοισι"
+    },
+    {
+      "n": 97,
+      "greek": "λωτὸν ἐρεπτόμενοι μενέμεν νόστου τε λαθέσθαι."
+    },
+    {
+      "n": 98,
+      "greek": "τοὺς μὲν ἐγὼν ἐπὶ νῆας ἄγον κλαίοντας ἀνάγκῃ,"
+    },
+    {
+      "n": 99,
+      "greek": "νηυσὶ δʼ ἐνὶ γλαφυρῇσιν ὑπὸ ζυγὰ δῆσα ἐρύσσας."
+    },
+    {
+      "n": 100,
+      "greek": "αὐτὰρ τοὺς ἄλλους κελόμην ἐρίηρας ἑταίρους"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "There we went on shore and drew water, and straightway my comrades took their meal by the swift ships. But when we had tasted food and drink, I sent forth some of my comrades to go and learn who the men were, who here ate bread upon the earth;"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "two men I chose, sending with them a third as a herald. So they went straightway and mingled with the Lotus-eaters, and the Lotus-eaters did not plan death for my comrades, but gave them of the lotus to taste. And whosoever of them ate of the honey-sweet fruit of the lotus,"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "had no longer any wish to bring back word or to return, but there they were fain to abide among the Lotus-eaters, feeding on the lotus, and forgetful of their homeward way. These men, therefore, I brought back perforce to the ships, weeping, and dragged them beneath the benches and bound them fast in the hollow ships;"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "and I bade the rest of my trusty comrades to embark with speed on the swift ships, lest perchance anyone should eat of the lotus and forget his homeward way. So they went on board straightway and sat down upon the benches, and sitting well in order smote the grey sea with their oars."
+    }
+  ]
+}

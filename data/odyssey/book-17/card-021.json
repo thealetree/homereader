@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "μήτʼ οὖν μητέρʼ ἐμὴν ἅζευ τό γε μήτε τινʼ ἄλλον"
+    },
+    {
+      "n": 402,
+      "greek": "δμώων, οἳ κατὰ δώματʼ Ὀδυσσῆος θείοιο."
+    },
+    {
+      "n": 403,
+      "greek": "ἀλλʼ οὔ τοι τοιοῦτον ἐνὶ στήθεσσι νόημα·"
+    },
+    {
+      "n": 404,
+      "greek": "αὐτὸς γὰρ φαγέμεν πολὺ βούλεαι ἢ δόμεν ἄλλῳ."
+    },
+    {
+      "n": 405,
+      "greek": "τὸν δʼ αὖτʼ Ἀντίνοος ἀπαμειβόμενος προσέειπε·"
+    },
+    {
+      "n": 406,
+      "greek": "Τηλέμαχʼ ὑψαγόρη, μένος ἄσχετε, ποῖον ἔειπες."
+    },
+    {
+      "n": 407,
+      "greek": "εἴ οἱ τόσσον ἅπαντες ὀρέξειαν μνηστῆρες,"
+    },
+    {
+      "n": 408,
+      "greek": "καί κέν μιν τρεῖς μῆνας ἀπόπροθεν οἶκος ἐρύκοι."
+    },
+    {
+      "n": 409,
+      "greek": "ὣς ἄρʼ ἔφη, καὶ θρῆνυν ἑλὼν ὑπέφηνε τραπέζης"
+    },
+    {
+      "n": 410,
+      "greek": "κείμενον, ᾧ ῥʼ ἔπεχεν λιπαροὺς πόδας εἰλαπινάζων·"
+    },
+    {
+      "n": 411,
+      "greek": "οἱ δʼ ἄλλοι πάντες δίδοσαν, πλῆσαν δʼ ἄρα πήρην"
+    },
+    {
+      "n": 412,
+      "greek": "σίτου καὶ κρειῶν· τάχα δὴ καὶ ἔμελλεν Ὀδυσσεὺς"
+    },
+    {
+      "n": 413,
+      "greek": "αὖτις ἐπʼ οὐδὸν ἰὼν προικὸς γεύσεσθαι Ἀχαιῶν·"
+    },
+    {
+      "n": 414,
+      "greek": "στῆ δὲ παρʼ Ἀντίνοον, καί μιν πρὸς μῦθον ἔειπε·"
+    },
+    {
+      "n": 415,
+      "greek": "δός, φίλος· οὐ μέν μοι δοκέεις ὁ κάκιστος Ἀχαιῶν"
+    },
+    {
+      "n": 416,
+      "greek": "ἔμμεναι, ἀλλʼ ὤριστος, ἐπεὶ βασιλῆϊ ἔοικας."
+    },
+    {
+      "n": 417,
+      "greek": "τῷ σε χρὴ δόμεναι καὶ λώϊον ἠέ περ ἄλλοι"
+    },
+    {
+      "n": 418,
+      "greek": "σίτου· ἐγὼ δέ κέ σε κλείω κατʼ ἀπείρονα γαῖαν."
+    },
+    {
+      "n": 419,
+      "greek": "καὶ γὰρ ἐγώ ποτε οἶκον ἐν ἀνθρώποισιν ἔναιον"
+    },
+    {
+      "n": 420,
+      "greek": "ὄλβιος ἀφνειὸν καὶ πολλάκι δόσκον ἀλήτῃ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "Then Antinous answered him, and said: “Telemachus, thou braggart, unrestrained in daring, what a thing hast thou said! If all the wooers would but hand him as much as I, for full three months' space this house would keep him at a distance.” So he spoke, and seized the footstool"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "on which he was wont to rest his shining feet as he feasted, and shewed it from beneath the table, where it lay. But all the rest gave gifts, and filled the wallet with bread and bits of meat. And now Odysseus was like to have gone back again to the threshold, and to have made trial of the Achaeans without cost, but he paused by Antinous, and spoke to him, saying:"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "“Friend, give me some gift; thou seemest not in my eyes to be the basest of the Achaeans, but rather the noblest, for thou art like a king. Therefore it is meet that thou shouldest give even a better portion of bread than the rest; so would I make thy fame known all over the boundless earth. For I too once dwelt in a house of my own among men,"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "a rich man in a wealthy house, and full often I gave gifts to a wanderer, whosoever he was and with whatsoever need he came. Slaves too I had past counting, and all other things in abundance whereby men live well and are reputed wealthy. But Zeus, son of Cronos, brought all to naught—so, I ween, was his good pleasure—"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "Τηλέμαχʼ, ἦ τοι ἐγὼν ὑπερώϊον εἰσαναβᾶσα"
+    },
+    {
+      "n": 102,
+      "greek": "λέξομαι εἰς εὐνήν, ἥ μοι στονόεσσα τέτυκται,"
+    },
+    {
+      "n": 103,
+      "greek": "αἰεὶ δάκρυσʼ ἐμοῖσι πεφυρμένη, ἐξ οὗ Ὀδυσσεὺς"
+    },
+    {
+      "n": 104,
+      "greek": "ᾤχεθʼ ἅμʼ Ἀτρεΐδῃσιν ἐς Ἴλιον· οὐδέ μοι ἔτλης,"
+    },
+    {
+      "n": 105,
+      "greek": "πρὶν ἐλθεῖν μνηστῆρας ἀγήνορας ἐς τόδε δῶμα,"
+    },
+    {
+      "n": 106,
+      "greek": "νόστον σοῦ πατρὸς σάφα εἰπέμεν, εἴ που ἄκουσας."
+    },
+    {
+      "n": 107,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 108,
+      "greek": "τοιγὰρ ἐγώ τοι, μῆτερ, ἀληθείην καταλέξω."
+    },
+    {
+      "n": 109,
+      "greek": "ᾠχόμεθʼ ἔς τε Πύλον καὶ Νέστορα, ποιμένα λαῶν·"
+    },
+    {
+      "n": 110,
+      "greek": "δεξάμενος δέ με κεῖνος ἐν ὑψηλοῖσι δόμοισιν"
+    },
+    {
+      "n": 111,
+      "greek": "ἐνδυκέως ἐφίλει, ὡς εἴ τε πατὴρ ἑὸν υἱὸν"
+    },
+    {
+      "n": 112,
+      "greek": "ἐλθόντα χρόνιον νέον ἄλλοθεν· ὣς ἐμὲ κεῖνος"
+    },
+    {
+      "n": 113,
+      "greek": "ἐνδυκέως ἐκόμιζε σὺν υἱάσι κυδαλίμοισιν."
+    },
+    {
+      "n": 114,
+      "greek": "αὐτὰρ Ὀδυσσῆος ταλασίφρονος οὔ ποτʼ ἔφασκεν,"
+    },
+    {
+      "n": 115,
+      "greek": "ζωοῦ οὐδὲ θανόντος, ἐπιχθονίων τευ ἀκοῦσαι·"
+    },
+    {
+      "n": 116,
+      "greek": "ἀλλά μʼ ἐς Ἀτρεΐδην, δουρικλειτὸν Μενέλαον,"
+    },
+    {
+      "n": 117,
+      "greek": "ἵπποισι προὔπεμψε καὶ ἅρμασι κολλητοῖσιν."
+    },
+    {
+      "n": 118,
+      "greek": "ἔνθʼ ἴδον Ἀργείην Ἑλένην, ἧς εἵνεκα πολλὰ"
+    },
+    {
+      "n": 119,
+      "greek": "Ἀργεῖοι Τρῶές τε θεῶν ἰότητι μόγησαν."
+    },
+    {
+      "n": 120,
+      "greek": "εἴρετο δʼ αὐτίκʼ ἔπειτα βοὴν ἀγαθὸς Μενέλαος"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "before the proud wooers come into this house, to tell me plainly of the return of thy father, if haply thou heardest aught.” And wise Telemachus answered her: “Then verily, mother, I will tell thee all the truth. We went to Pylos and to Nestor, the shepherd of the people,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "and he received me in his lofty house and gave me kindly welcome, as a father might his own son who after a long time had newly come from a far: even so kindly he tended me with his glorious sons. Yet of Odysseus of the steadfast heart,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "whether living or dead, he said he had heard naught from any man on earth. But he sent me on my way with horses and jointed car to Menelaus, son of Atreus, the famous spearman. There I saw Argive Helen, for whose sake Argives and Trojans toiled much by the will of the gods."
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "And straightway Menelaus, good at the war-cry, asked me in quest of what I had come to goodly Lacedaemon; and I told him all the truth. Then he made answer to me, and said: “‘Out upon them! for verily in the bed of a man of valiant heart"
+    }
+  ]
+}

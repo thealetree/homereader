@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "Ἄρτεμι, πότνα θεά, θύγατερ Διός, αἴθε μοι ἤδη"
+    },
+    {
+      "n": 62,
+      "greek": "ἰὸν ἐνὶ στήθεσσι βαλοῦσʼ ἐκ θυμὸν ἕλοιο"
+    },
+    {
+      "n": 63,
+      "greek": "αὐτίκα νῦν, ἢ ἔπειτα μʼ ἀναρπάξασα θύελλα"
+    },
+    {
+      "n": 64,
+      "greek": "οἴχοιτο προφέρουσα κατʼ ἠερόεντα κέλευθα,"
+    },
+    {
+      "n": 65,
+      "greek": "ἐν προχοῇς δὲ βάλοι ἀψορρόου Ὠκεανοῖο."
+    },
+    {
+      "n": 66,
+      "greek": "ὡς δʼ ὅτε Πανδαρέου κούρας ἀνέλοντο θύελλαι·"
+    },
+    {
+      "n": 67,
+      "greek": "τῇσι τοκῆας μὲν φθῖσαν θεοί, αἱ δʼ ἐλίποντο"
+    },
+    {
+      "n": 68,
+      "greek": "ὀρφαναὶ ἐν μεγάροισι, κόμισσε δὲ δῖʼ Ἀφροδίτη"
+    },
+    {
+      "n": 69,
+      "greek": "τυρῷ καὶ μέλιτι γλυκερῷ καὶ ἡδέϊ οἴνῳ·"
+    },
+    {
+      "n": 70,
+      "greek": "Ἥρη δʼ αὐτῇσιν περὶ πασέων δῶκε γυναικῶν"
+    },
+    {
+      "n": 71,
+      "greek": "εἶδος καὶ πινυτήν, μῆκος δʼ ἔπορʼ Ἄρτεμις ἁγνή,"
+    },
+    {
+      "n": 72,
+      "greek": "ἔργα δʼ Ἀθηναίη δέδαε κλυτὰ ἐργάζεσθαι."
+    },
+    {
+      "n": 73,
+      "greek": "εὖτʼ Ἀφροδίτη δῖα προσέστιχε μακρὸν Ὄλυμπον,"
+    },
+    {
+      "n": 74,
+      "greek": "κούρῃς αἰτήσουσα τέλος θαλεροῖο γάμοιο—"
+    },
+    {
+      "n": 75,
+      "greek": "ἐς Δία τερπικέραυνον, ὁ γάρ τʼ εὖ οἶδεν ἅπαντα,"
+    },
+    {
+      "n": 76,
+      "greek": "μοῖράν τʼ ἀμμορίην τε καταθνητῶν ἀνθρώπων—"
+    },
+    {
+      "n": 77,
+      "greek": "τόφρα δὲ τὰς κούρας ἅρπυιαι ἀνηρείψαντο"
+    },
+    {
+      "n": 78,
+      "greek": "καί ῥʼ ἔδοσαν στυγερῇσιν ἐρινύσιν ἀμφιπολεύειν·"
+    },
+    {
+      "n": 79,
+      "greek": "ὣς ἔμʼ ἀϊστώσειαν Ὀλύμπια δώματʼ ἔχοντες,"
+    },
+    {
+      "n": 80,
+      "greek": "ἠέ μʼ ἐϋπλόκαμος βάλοι Ἄρτεμις, ὄφρʼ Ὀδυσῆα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "and cast me forth at the mouth of backward-flowing Oceanus, even as on a time storm-winds bore away the daughters of Pandareus. Their parents the gods had slain, and they were left orphans in the halls, and fair Aphrodite tended them with cheese, and sweet honey, and pleasant wine,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "and Here gave them beauty and wisdom above all women, and chaste Artemis gave them stature, and Athena taught them skill in famous handiwork. But while beautiful Aphrodite was going to high Olympus to ask for the maidens the accomplishment of gladsome marriage—"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "going to Zeus who hurls the thunderbolt, for well he knows all things, both the happiness and the haplessness of mortal men—meanwhile the spirits of the storm snatched away the maidens and gave them to the hateful Erinyes to deal with. Would that even so those who have dwellings on Olympus would blot me from sight,"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "or that fair-tressed Artemis would smite me, so that with Odysseus before my mind I might even pass beneath the hateful earth, and never gladden in any wise the heart of a baser man. Yet when a man weeps by day with a heart sore distressed,"
+    }
+  ]
+}

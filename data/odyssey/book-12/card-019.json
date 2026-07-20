@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "δίπτυχα ποιήσαντες, ἐπʼ αὐτῶν δʼ ὠμοθέτησαν."
+    },
+    {
+      "n": 362,
+      "greek": "οὐδʼ εἶχον μέθυ λεῖψαι ἐπʼ αἰθομένοις ἱεροῖσιν,"
+    },
+    {
+      "n": 363,
+      "greek": "ἀλλʼ ὕδατι σπένδοντες ἐπώπτων ἔγκατα πάντα."
+    },
+    {
+      "n": 364,
+      "greek": "αὐτὰρ ἐπεὶ κατὰ μῆρʼ ἐκάη καὶ σπλάγχνα πάσαντο,"
+    },
+    {
+      "n": 365,
+      "greek": "μίστυλλόν τʼ ἄρα τἆλλα καὶ ἀμφʼ ὀβελοῖσιν ἔπειραν."
+    },
+    {
+      "n": 366,
+      "greek": "καὶ τότε μοι βλεφάρων ἐξέσσυτο νήδυμος ὕπνος,"
+    },
+    {
+      "n": 367,
+      "greek": "βῆν δʼ ἰέναι ἐπὶ νῆα θοὴν καὶ θῖνα θαλάσσης."
+    },
+    {
+      "n": 368,
+      "greek": "ἀλλʼ ὅτε δὴ σχεδὸν ἦα κιὼν νεὸς ἀμφιελίσσης,"
+    },
+    {
+      "n": 369,
+      "greek": "καὶ τότε με κνίσης ἀμφήλυθεν ἡδὺς ἀυτμή."
+    },
+    {
+      "n": 370,
+      "greek": "οἰμώξας δὲ θεοῖσι μέγʼ ἀθανάτοισι γεγώνευν·"
+    },
+    {
+      "n": 371,
+      "greek": "Ζεῦ πάτερ ἠδʼ ἄλλοι μάκαρες θεοὶ αἰὲν ἐόντες,"
+    },
+    {
+      "n": 372,
+      "greek": "ἦ με μάλʼ εἰς ἄτην κοιμήσατε νηλέι ὕπνῳ."
+    },
+    {
+      "n": 373,
+      "greek": "οἱ δʼ ἕταροι μέγα ἔργον ἐμητίσαντο μένοντες."
+    },
+    {
+      "n": 374,
+      "greek": "ὠκέα δʼ Ἠελίῳ Ὑπερίονι ἄγγελος ἦλθε"
+    },
+    {
+      "n": 375,
+      "greek": "Λαμπετίη τανύπεπλος, ὅ οἱ βόας ἔκταμεν ἡμεῖς."
+    },
+    {
+      "n": 376,
+      "greek": "αὐτίκα δʼ ἀθανάτοισι μετηύδα χωόμενος κῆρ·"
+    },
+    {
+      "n": 377,
+      "greek": "Ζεῦ πάτερ ἠδʼ ἄλλοι μάκαρες θεοὶ αἰὲν ἐόντες,"
+    },
+    {
+      "n": 378,
+      "greek": "τῖσαι δὴ ἑτάρους Λαερτιάδεω Ὀδυσῆος,"
+    },
+    {
+      "n": 379,
+      "greek": "οἵ μευ βοῦς ἔκτειναν ὑπέρβιον, ᾗσιν ἐγώ γε"
+    },
+    {
+      "n": 380,
+      "greek": "χαίρεσκον μὲν ἰὼν εἰς οὐρανὸν ἀστερόεντα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "they cut up the rest and spitted it. Then it was that sweet sleep fled from my eyelids, and I went my way to the swift ship and the shore of the sea. But when, as I went, I drew near to the curved ship, then verily the hot savour of the fat was wafted about me,"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "and I groaned and cried aloud to the immortal gods: “‘Father Zeus and ye other blessed gods that are for ever, verily it was for my ruin that ye lulled me in pitiless sleep, while my comrades remaining behind have contrived a monstrous deed.’ “Swiftly then to Helios Hyperion came"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "Lampetie of the long robes, bearing tidings that we had slain his kine; and straightway he spoke among the immortals, wroth at heart: “‘Father Zeus and ye other blessed gods that are for ever, take vengeance now on the comrades of Odysseus, son of Laertes, who have insolently slain my kine, in which I"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "ever took delight, when I went toward the starry heaven and when I turned back again to earth from heaven. If they do not pay me fit atonement for the kine I will go down to Hades and shine among the dead.’ “Then Zeus, the cloud-gatherer, answered him and said:"
+    }
+  ]
+}

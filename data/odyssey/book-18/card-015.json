@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ὣς φάτο, γήθησεν δὲ πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 282,
+      "greek": "οὕνεκα τῶν μὲν δῶρα παρέλκετο, θέλγε δὲ θυμὸν"
+    },
+    {
+      "n": 283,
+      "greek": "μειλιχίοις ἐπέεσσι, νόος δέ οἱ ἄλλα μενοίνα."
+    },
+    {
+      "n": 284,
+      "greek": "τὴν δʼ αὖτʼ Ἀντίνοος προσέφη, Εὐπείθεος υἱός,"
+    },
+    {
+      "n": 285,
+      "greek": "κούρη Ἰκαρίοιο, περίφρον Πηνελόπεια,"
+    },
+    {
+      "n": 286,
+      "greek": "δῶρα μὲν ὅς κʼ ἐθέλῃσιν Ἀχαιῶν ἐνθάδʼ ἐνεῖκαι,"
+    },
+    {
+      "n": 287,
+      "greek": "δέξασθʼ. οὐ γὰρ καλὸν ἀνήνασθαι δόσιν ἐστίν·"
+    },
+    {
+      "n": 288,
+      "greek": "ἡμεῖς δʼ οὔτʼ ἐπὶ ἔργα πάρος γʼ ἴμεν οὔτε πῃ ἄλλῃ,"
+    },
+    {
+      "n": 289,
+      "greek": "πρίν γέ σε τῷ γήμασθαι Ἀχαιῶν ὅς τις ἄριστος."
+    },
+    {
+      "n": 290,
+      "greek": "ὣς ἔφατʼ Ἀντίνοος, τοῖσιν δʼ ἐπιήνδανε μῦθος·"
+    },
+    {
+      "n": 291,
+      "greek": "δῶρα δʼ ἄρʼ οἰσέμεναι πρόεσαν κήρυκα ἕκαστος."
+    },
+    {
+      "n": 292,
+      "greek": "Ἀντινόῳ μὲν ἔνεικε μέγαν περικαλλέα πέπλον,"
+    },
+    {
+      "n": 293,
+      "greek": "ποικίλον· ἐν δʼ ἀρʼ ἔσαν περόναι δυοκαίδεκα πᾶσαι"
+    },
+    {
+      "n": 294,
+      "greek": "χρύσειαι, κληῗσιν ἐϋγνάμπτοις ἀραρυῖαι."
+    },
+    {
+      "n": 295,
+      "greek": "ὅρμον δʼ Εὐρυμάχῳ πολυδαίδαλον αὐτίκʼ ἔνεικε."
+    },
+    {
+      "n": 296,
+      "greek": "χρύσεον, ἠλέκτροισιν ἐερμένον ἠέλιον ὥς."
+    },
+    {
+      "n": 297,
+      "greek": "ἕρματα δʼ Εὐρυδάμαντι δύω θεράποντες ἔνεικαν,"
+    },
+    {
+      "n": 298,
+      "greek": "τρίγληνα μορόεντα· χάρις δʼ ἀπελάμπετο πολλή."
+    },
+    {
+      "n": 299,
+      "greek": "ἐκ δʼ ἄρα Πεισάνδροιο Πολυκτορίδαο ἄνακτος"
+    },
+    {
+      "n": 300,
+      "greek": "ἴσθμιον ἤνεικεν θεράπων, περικαλλὲς ἄγαλμα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "“Daughter of Icarius, wise Penelope, as for gifts, if any man of the Achaeans is minded to bring them hither, do thou take them; for it is not well to refuse a gift. But for us, we will go neither to our lands nor elsewhither, until thou weddest him whosoever is best of the Achaeans.”"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "So spoke Antinous, and his word was pleasing to them, and each man sent forth a herald to bring his gifts. For Antinous he brought a large and beautiful robe, richly broidered, and in it were golden brooches, twelve in all, fitted with curved clasps."
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "And a chain did another straightway bring to Eurymachus, one cunningly wrought of gold, strung with amber beads, bright as the sun. A pair of earrings his squires brought to Eurydamas, with three clustering drops, and great grace shone therefrom. And out of the house of lord Peisander, son of Polyctor,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "his squire brought a necklace, a jewel exceeding fair. So of the Achaeans one brought one fair gift and one another. But she thereafter, the fair lady, went up to her upper chamber, and her handmaids bare for her the beautiful gifts. But the wooers"
+    }
+  ]
+}

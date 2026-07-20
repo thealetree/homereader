@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "ἑστάμεν· οὐ μὲν γάρ τινʼ ἀναιρήσεσθαι ὀΐω,"
+    },
+    {
+      "n": 262,
+      "greek": "ἐλθόντʼ ἐς μέγαρον Λαερτιάδεω Ὀδυσῆος."
+    },
+    {
+      "n": 263,
+      "greek": "ἀλλʼ ἄγετʼ, οἰνοχόος μὲν ἐπαρξάσθω δεπάεσσιν,"
+    },
+    {
+      "n": 264,
+      "greek": "ὄφρα σπείσαντες καταθείομεν ἀγκύλα τόξα·"
+    },
+    {
+      "n": 265,
+      "greek": "ἠῶθεν δὲ κέλεσθε Μελάνθιον, αἰπόλον αἰγῶν,"
+    },
+    {
+      "n": 266,
+      "greek": "αἶγας ἄγειν, αἳ πᾶσι μέγʼ ἔξοχοι αἰπολίοισιν,"
+    },
+    {
+      "n": 267,
+      "greek": "ὄφρʼ ἐπὶ μηρία θέντες Ἀπόλλωνι κλυτοτόξῳ"
+    },
+    {
+      "n": 268,
+      "greek": "τόξου πειρώμεσθα καὶ ἐκτελέωμεν ἄεθλον."
+    },
+    {
+      "n": 269,
+      "greek": "ὣς ἔφατʼ Ἀντίνοος, τοῖσιν δʼ ἐπιήνδανε μῦθος."
+    },
+    {
+      "n": 270,
+      "greek": "τοῖσι δὲ κήρυκες μὲν ὕδωρ ἐπὶ χεῖρας ἔχευαν,"
+    },
+    {
+      "n": 271,
+      "greek": "κοῦροι δὲ κρητῆρας ἐπεστέψαντο ποτοῖο,"
+    },
+    {
+      "n": 272,
+      "greek": "νώμησαν δʼ ἄρα πᾶσιν ἐπαρξάμενοι δεπάεσσιν."
+    },
+    {
+      "n": 273,
+      "greek": "οἱ δʼ ἐπεὶ οὖν σπεῖσάν τʼ ἔπιόν θʼ ὅσον ἤθελε θυμός,"
+    },
+    {
+      "n": 274,
+      "greek": "τοῖς δὲ δολοφρονέων μετέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 275,
+      "greek": "κέκλυτέ μευ, μνηστῆρες ἀγακλειτῆς βασιλείης·"
+    },
+    {
+      "n": 276,
+      "greek": "ὄφρʼ εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει·"
+    },
+    {
+      "n": 277,
+      "greek": "Εὐρύμαχον δὲ μάλιστα καὶ Ἀντίνοον θεοειδέα"
+    },
+    {
+      "n": 278,
+      "greek": "λίσσομʼ, ἐπεὶ καὶ τοῦτο ἔπος κατὰ μοῖραν ἔειπε,"
+    },
+    {
+      "n": 279,
+      "greek": "νῦν μὲν παῦσαι τόξον, ἐπιτρέψαι δὲ θεοῖσιν·"
+    },
+    {
+      "n": 280,
+      "greek": "ἠῶθεν δὲ θεὸς δώσει κράτος ᾧ κʼ ἐθέλῃσιν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "And in the morning bid Melanthius, the goatherd, to bring she-goats, far the best in all the herds, that we may lay thigh-pieces on the altar of Apollo, the famed archer; and so make trial of the bow, and end the contest.” So spoke Antinous, and his word was pleasing to them."
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "Then the heralds poured water over their hands, and youths filled the bowls brim full of drink, and served out to all, pouring first drops for libation into the cups. But when they had poured libations, and had drunk to their heart's content, then with crafty mind Odysseus of many wiles spoke among them:"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "“Hear me, wooers of the glorious queen, that I may say what the heart in my breast bids me. To Eurymachus most of all do I make my prayer, and to godlike Antinous, since this word also of his was spoken aright, namely that for the present you cease to try the bow, and leave the issue with the gods;"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "and in the morning the god will give the victory to whomsoever he will. But come, give me the polished bow, that in your midst I may prove my hands and strength, whether I have yet might such as was of old in my supple limbs, or whether by now my wanderings and lack of food have destroyed it.”"
+    }
+  ]
+}

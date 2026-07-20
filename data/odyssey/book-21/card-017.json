@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "κούρη Ἰκαρίοιο, περίφρον Πηνελόπεια,"
+    },
+    {
+      "n": 322,
+      "greek": "οὔ τί σε τόνδʼ ἄξεσθαι ὀϊόμεθʼ· οὐδὲ ἔοικεν·"
+    },
+    {
+      "n": 323,
+      "greek": "ἀλλʼ αἰσχυνόμενοι φάτιν ἀνδρῶν ἠδὲ γυναικῶν,"
+    },
+    {
+      "n": 324,
+      "greek": "μή ποτέ τις εἴπῃσι κακώτερος ἄλλος Ἀχαιῶν"
+    },
+    {
+      "n": 325,
+      "greek": "ἦ πολὺ χείρονες ἄνδρες ἀμύμονος ἀνδρὸς ἄκοιτιν"
+    },
+    {
+      "n": 326,
+      "greek": "μνῶνται, οὐδέ τι τόξον ἐΰξοον ἐντανύουσιν·"
+    },
+    {
+      "n": 327,
+      "greek": "ἀλλʼ ἄλλος τις πτωχὸς ἀνὴρ ἀλαλήμενος ἐλθὼν"
+    },
+    {
+      "n": 328,
+      "greek": "ῥηϊδίως ἐτάνυσσε βιόν, διὰ δʼ ἧκε σιδήρου."
+    },
+    {
+      "n": 329,
+      "greek": "ὣς ἐρέουσʼ, ἡμῖν δʼ ἂν ἐλέγχεα ταῦτα γένοιτο."
+    },
+    {
+      "n": 330,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 331,
+      "greek": "Εὐρύμαχʼ, οὔ πως ἔστιν ἐϋκλεῖας κατὰ δῆμον"
+    },
+    {
+      "n": 332,
+      "greek": "ἔμμεναι οἳ δὴ οἶκον ἀτιμάζοντες ἔδουσιν"
+    },
+    {
+      "n": 333,
+      "greek": "ἀνδρὸς ἀριστῆος· τί δʼ ἐλέγχεα ταῦτα τίθεσθε;"
+    },
+    {
+      "n": 334,
+      "greek": "οὗτος δὲ ξεῖνος μάλα μὲν μέγας ἠδʼ εὐπηγής,"
+    },
+    {
+      "n": 335,
+      "greek": "πατρὸς δʼ ἐξ ἀγαθοῦ γένος εὔχεται ἔμμεναι υἱός."
+    },
+    {
+      "n": 336,
+      "greek": "ἀλλʼ ἄγε οἱ δότε τόξον ἐΰξοον, ὄφρα ἴδωμεν."
+    },
+    {
+      "n": 337,
+      "greek": "ὧδε γὰρ ἐξερέω, τὸ δὲ καὶ τετελεσμένον ἔσται·"
+    },
+    {
+      "n": 338,
+      "greek": "εἴ κέ μιν ἐντανύσῃ, δώῃ δέ οἱ εὖχος Ἀπόλλων,"
+    },
+    {
+      "n": 339,
+      "greek": "ἕσσω μιν χλαῖνάν τε χιτῶνά τε, εἵματα καλά,"
+    },
+    {
+      "n": 340,
+      "greek": "δώσω δʼ ὀξὺν ἄκοντα, κυνῶν ἀλκτῆρα καὶ ἀνδρῶν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "‘Truly men weaker far are wooing the wife of a noble man, and cannot string his polished bow. But another, a beggar, that came on his wanderings, easily strung the bow, and shot through the iron.’ Thus will men speak, but to us this would become a reproach.”"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "Then wise Penelope answered him again: “Eurymachus, in no wise can there be good report in the land for men who dishonor and consume the house of a prince. Why then do you make this matter a reproach? This stranger is right tall and well-built,"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "and declares himself to be born the son of a good father. Nay, come, give him the polished bow and let us see. For thus will I speak out to thee, and this word shall verily be brought to pass; if he shall string the bow, and Apollo grant him glory, I will clothe him with a cloak and tunic, fair raiment,"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "and will give him a sharp javelin to ward off dogs and men, and a two-edged sword; and I will give him sandals to bind beneath his feet, and will send him whithersoever his heart and spirit bid him go.” Then wise Telemachus answered her: “My mother, as for the bow, no man of the Achaeans"
+    }
+  ]
+}

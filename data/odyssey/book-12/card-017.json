@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ἔστιν, τῶν δὲ βοῶν ἀπεχώμεθα, μή τι πάθωμεν·"
+    },
+    {
+      "n": 322,
+      "greek": "δεινοῦ γὰρ θεοῦ αἵδε βόες καὶ ἴφια μῆλα,"
+    },
+    {
+      "n": 323,
+      "greek": "Ἠελίου, ὃς πάντʼ ἐφορᾷ καὶ πάντʼ ἐπακούει."
+    },
+    {
+      "n": 324,
+      "greek": "ὣς ἐφάμην, τοῖσιν δʼ ἐπεπείθετο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 325,
+      "greek": "μῆνα δὲ πάντʼ ἄλληκτος ἄη Νότος, οὐδέ τις ἄλλος"
+    },
+    {
+      "n": 326,
+      "greek": "γίγνετʼ ἔπειτʼ ἀνέμων εἰ μὴ Εὖρός τε Νότος τε."
+    },
+    {
+      "n": 327,
+      "greek": "οἱ δʼ ἧος μὲν σῖτον ἔχον καὶ οἶνον ἐρυθρόν,"
+    },
+    {
+      "n": 328,
+      "greek": "τόφρα βοῶν ἀπέχοντο λιλαιόμενοι βιότοιο."
+    },
+    {
+      "n": 329,
+      "greek": "ἀλλʼ ὅτε δὴ νηὸς ἐξέφθιτο ἤια πάντα,"
+    },
+    {
+      "n": 330,
+      "greek": "καὶ δὴ ἄγρην ἐφέπεσκον ἀλητεύοντες ἀνάγκῃ,"
+    },
+    {
+      "n": 331,
+      "greek": "ἰχθῦς ὄρνιθάς τε, φίλας ὅ τι χεῖρας ἵκοιτο,"
+    },
+    {
+      "n": 332,
+      "greek": "γναμπτοῖς ἀγκίστροισιν, ἔτειρε δὲ γαστέρα λιμός·"
+    },
+    {
+      "n": 333,
+      "greek": "δὴ τότʼ ἐγὼν ἀνὰ νῆσον ἀπέστιχον, ὄφρα θεοῖσιν"
+    },
+    {
+      "n": 334,
+      "greek": "εὐξαίμην, εἴ τίς μοι ὁδὸν φήνειε νέεσθαι."
+    },
+    {
+      "n": 335,
+      "greek": "ἀλλʼ ὅτε δὴ διὰ νήσου ἰὼν ἤλυξα ἑταίρους,"
+    },
+    {
+      "n": 336,
+      "greek": "χεῖρας νιψάμενος, ὅθʼ ἐπὶ σκέπας ἦν ἀνέμοιο,"
+    },
+    {
+      "n": 337,
+      "greek": "ἠρώμην πάντεσσι θεοῖς οἳ Ὄλυμπον ἔχουσιν·"
+    },
+    {
+      "n": 338,
+      "greek": "οἱ δʼ ἄρα μοι γλυκὺν ὕπνον ἐπὶ βλεφάροισιν ἔχευαν."
+    },
+    {
+      "n": 339,
+      "greek": "Εὐρύλοχος δʼ ἑτάροισι κακῆς ἐξήρχετο βουλῆς·"
+    },
+    {
+      "n": 340,
+      "greek": "κέκλυτέ μευ μύθων κακά περ πάσχοντες ἑταῖροι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "Then for a full month the South Wind blew unceasingly, nor did any other wind arise except the East and the South. “Now so long as my men had grain and red wine they kept their hands from the kine, for they were eager to save their lives. But when all the stores had been consumed from out the ship,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "and now they must needs roam about in search of game, fishes, and fowl, and whatever might come to their hands—fishing with bent hooks, for hunger pinched their bellies—then I went apart up the island that I might pray to the gods in the hope that one of them might show me a way to go."
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "And when, as I went through the island, I had got away from my comrades, I washed my hands in a place where there was shelter from the wind, and prayed to all the gods that hold Olympus; but they shed sweet sleep upon my eyelids. And meanwhile Eurylochus began to give evil counsel to my comrades:"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "“‘Hear my words, comrades, for all your evil plight. All forms of death are hateful to wretched mortals, but to die of hunger, and so meet one's doom, is the most pitiful. Nay, come, let us drive off the best of the kine of Helios and offer sacrifice to the immortals who hold broad heaven."
+    }
+  ]
+}

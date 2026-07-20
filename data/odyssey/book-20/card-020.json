@@ -1,0 +1,84 @@
+{
+  "book": 20,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 394,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ἀλλʼ εἴ μοί τι πίθοιο, τό κεν πολὺ κέρδιον εἴη·"
+    },
+    {
+      "n": 382,
+      "greek": "τοὺς ξείνους ἐν νηῒ πολυκληῗδι βαλόντες"
+    },
+    {
+      "n": 383,
+      "greek": "ἐς Σικελοὺς πέμψωμεν, ὅθεν κέ τοι ἄξιον ἄλφοι."
+    },
+    {
+      "n": 384,
+      "greek": "ὣς ἔφασαν μνηστῆρες· ὁ δʼ οὐκ ἐμπάζετο μύθων,"
+    },
+    {
+      "n": 385,
+      "greek": "ἀλλʼ ἀκέων πατέρα προσεδέρκετο, δέγμενος αἰεί,"
+    },
+    {
+      "n": 386,
+      "greek": "ὁππότε δὴ μνηστῆρσιν ἀναιδέσι χεῖρας ἐφήσει."
+    },
+    {
+      "n": 387,
+      "greek": "ἡ δὲ κατʼ ἄντηστιν θεμένη περικαλλέα δίφρον"
+    },
+    {
+      "n": 388,
+      "greek": "κούρη Ἰκαρίοιο, περίφρων Πηνελόπεια,"
+    },
+    {
+      "n": 389,
+      "greek": "ἀνδρῶν ἐν μεγάροισιν ἑκάστου μῦθον ἄκουεν."
+    },
+    {
+      "n": 390,
+      "greek": "δεῖπνον μὲν γάρ τοί γε γελοίωντες τετύκοντο"
+    },
+    {
+      "n": 391,
+      "greek": "ἡδὺ τε καὶ μενοεικές, ἐπεὶ μάλα πόλλʼ ἱέρευσαν·"
+    },
+    {
+      "n": 392,
+      "greek": "δόρπου δʼ οὐκ ἄν πως ἀχαρίστερον ἄλλο γένοιτο,"
+    },
+    {
+      "n": 393,
+      "greek": "οἷον δὴ τάχʼ ἔμελλε θεὰ καὶ καρτερὸς ἀνὴρ"
+    },
+    {
+      "n": 394,
+      "greek": "θησέμεναι· πρότεροι γὰρ ἀεικέα μηχανόωντο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "Nay, in silence he watched his father, ever waiting until he should put forth his hands upon the shameless wooers. But the daughter of Icarius, wise Penelope, had set her beautiful chair over against them, and heard the words of each man in the hall."
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "For they had made ready their meal in the midst of their laughing, a sweet meal, and one to satisfy the heart, for they had slain many beasts. But never could meal have been more graceless than a supper such as a goddess and a mighty man were soon to set before them. For unprovoked they were contriving deeds of shame."
+    }
+  ]
+}

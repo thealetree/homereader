@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "ἕστασαν αἰθομένας δαΐδας μετὰ χερσὶν ἔχοντες,"
+    },
+    {
+      "n": 102,
+      "greek": "φαίνοντες νύκτας κατὰ δώματα δαιτυμόνεσσι."
+    },
+    {
+      "n": 103,
+      "greek": "πεντήκοντα δέ οἱ δμωαὶ κατὰ δῶμα γυναῖκες"
+    },
+    {
+      "n": 104,
+      "greek": "αἱ μὲν ἀλετρεύουσι μύλῃς ἔπι μήλοπα καρπόν,"
+    },
+    {
+      "n": 105,
+      "greek": "αἱ δʼ ἱστοὺς ὑφόωσι καὶ ἠλάκατα στρωφῶσιν"
+    },
+    {
+      "n": 106,
+      "greek": "ἥμεναι, οἷά τε φύλλα μακεδνῆς αἰγείροιο·"
+    },
+    {
+      "n": 107,
+      "greek": "καιρουσσέων δʼ ὀθονέων ἀπολείβεται ὑγρὸν ἔλαιον."
+    },
+    {
+      "n": 108,
+      "greek": "ὅσσον Φαίηκες περὶ πάντων ἴδριες ἀνδρῶν"
+    },
+    {
+      "n": 109,
+      "greek": "νῆα θοὴν ἐνὶ πόντῳ ἐλαυνέμεν, ὣς δὲ γυναῖκες"
+    },
+    {
+      "n": 110,
+      "greek": "ἱστῶν τεχνῆσσαι· πέρι γάρ σφισι δῶκεν Ἀθήνη"
+    },
+    {
+      "n": 111,
+      "greek": "ἔργα τʼ ἐπίστασθαι περικαλλέα καὶ φρένας ἐσθλάς."
+    },
+    {
+      "n": 112,
+      "greek": "ἔκτοσθεν δʼ αὐλῆς μέγας ὄρχατος ἄγχι θυράων"
+    },
+    {
+      "n": 113,
+      "greek": "τετράγυος· περὶ δʼ ἕρκος ἐλήλαται ἀμφοτέρωθεν."
+    },
+    {
+      "n": 114,
+      "greek": "ἔνθα δὲ δένδρεα μακρὰ πεφύκασι τηλεθόωντα,"
+    },
+    {
+      "n": 115,
+      "greek": "ὄγχναι καὶ ῥοιαὶ καὶ μηλέαι ἀγλαόκαρποι"
+    },
+    {
+      "n": 116,
+      "greek": "συκέαι τε γλυκεραὶ καὶ ἐλαῖαι τηλεθόωσαι."
+    },
+    {
+      "n": 117,
+      "greek": "τάων οὔ ποτε καρπὸς ἀπόλλυται οὐδʼ ἀπολείπει"
+    },
+    {
+      "n": 118,
+      "greek": "χείματος οὐδὲ θέρευς, ἐπετήσιος· ἀλλὰ μάλʼ αἰεὶ"
+    },
+    {
+      "n": 119,
+      "greek": "Ζεφυρίη πνείουσα τὰ μὲν φύει, ἄλλα δὲ πέσσει."
+    },
+    {
+      "n": 120,
+      "greek": "ὄγχνη ἐπʼ ὄγχνῃ γηράσκει, μῆλον δʼ ἐπὶ μήλῳ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "and others weave webs, or, as they sit, twirl the yarn, like unto the leaves of a tall poplar tree; and from the closely-woven linen the soft olive oil drips down. For as the Phaeacian men are skilled above all others in speeding a swift ship upon the sea, so are the women"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "cunning workers at the loom, for Athena has given to them above all others skill in fair handiwork, and an understanding heart. But without the courtyard, hard by the door, is a great orchard of four acres, and a hedge runs about it on either side. Therein grow trees, tall and luxuriant,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "pears and pomegranates and apple-trees with their bright fruit, and sweet figs, and luxuriant olives. Of these the fruit perishes not nor fails in winter or in summer, but lasts throughout the year; and ever does the west wind, as it blows, quicken to life some fruits, and ripen others;"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "pear upon pear waxes ripe, apple upon apple, cluster upon cluster, and fig upon fig. There, too, is his fruitful vineyard planted, one part of which, a warm spot on level ground, is being dried in the sun, while other grapes men are gathering,"
+    }
+  ]
+}

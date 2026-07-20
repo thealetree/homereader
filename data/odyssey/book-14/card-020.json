@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ἦλθεν ἐμὰ πρὸς δώματʼ· ἐγὼ δέ μιν ἀμφαγάπαζον."
+    },
+    {
+      "n": 382,
+      "greek": "φῆ δέ μιν ἐν Κρήτεσσι παρʼ Ἰδομενῆϊ ἰδέσθαι"
+    },
+    {
+      "n": 383,
+      "greek": "νῆας ἀκειόμενον, τάς οἱ ξυνέαξαν ἄελλαι·"
+    },
+    {
+      "n": 384,
+      "greek": "καὶ φάτʼ ἐλεύσεσθαι ἢ ἐς θέρος ἢ ἐς ὀπώρην,"
+    },
+    {
+      "n": 385,
+      "greek": "πολλὰ χρήματʼ ἄγοντα, σὺν ἀντιθέοις ἑτάροισι."
+    },
+    {
+      "n": 386,
+      "greek": "καὶ σύ, γέρον πολυπενθές, ἐπεί σέ μοι ἤγαγε δαίμων,"
+    },
+    {
+      "n": 387,
+      "greek": "μήτε τί μοι ψεύδεσσι χαρίζεο μήτε τι θέλγε·"
+    },
+    {
+      "n": 388,
+      "greek": "οὐ γὰρ τοὔνεκʼ ἐγώ σʼ αἰδέσσομαι οὐδὲ φιλήσω,"
+    },
+    {
+      "n": 389,
+      "greek": "ἀλλὰ Δία ξένιον δείσας αὐτόν τʼ ἐλεαίρων."
+    },
+    {
+      "n": 390,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς"
+    },
+    {
+      "n": 391,
+      "greek": "ἦ μάλα τίς τοι θυμὸς ἐνὶ στήθεσσιν ἄπιστος,"
+    },
+    {
+      "n": 392,
+      "greek": "οἷόν σʼ οὐδʼ ὀμόσας περ ἐπήγαγον οὐδέ σε πείθω."
+    },
+    {
+      "n": 393,
+      "greek": "ἀλλʼ ἄγε νῦν ῥήτρην ποιησόμεθʼ· αὐτὰρ ὄπισθε"
+    },
+    {
+      "n": 394,
+      "greek": "μάρτυροι ἀμφοτέροισι θεοί, τοὶ Ὄλυμπον ἔχουσιν."
+    },
+    {
+      "n": 395,
+      "greek": "εἰ μέν κεν νοστήσῃ ἄναξ τεὸς ἐς τόδε δῶμα,"
+    },
+    {
+      "n": 396,
+      "greek": "ἕσσας με χλαῖνάν τε χιτῶνά τε εἵματα πέμψαι"
+    },
+    {
+      "n": 397,
+      "greek": "Δουλίχιόνδʼ ἰέναι, ὅθι μοι φίλον ἔπλετο θυμῷ·"
+    },
+    {
+      "n": 398,
+      "greek": "εἰ δέ κε μὴ ἔλθῃσιν ἄναξ τεὸς ὡς ἀγορεύω,"
+    },
+    {
+      "n": 399,
+      "greek": "δμῶας ἐπισσεύας βαλέειν μεγάλης κατὰ πέτρης,"
+    },
+    {
+      "n": 400,
+      "greek": "ὄφρα καὶ ἄλλος πτωχὸς ἀλεύεται ἠπεροπεύειν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "bringing much treasure along with his godlike comrades. Thou too, old man of many sorrows, since a god has brought thee to me, seek not to win my favour by lies, nor in any wise to cajole me. It is not for this that I shall shew thee respect or kindness, but from fear of Zeus, the stranger's god, and from pity for thyself.”"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "Then Odysseus of many wiles answered him, and said: “Verily thou hast in thy bosom a heart that is slow to believe, seeing that in such wise, even with an oath, I won thee not, neither persuade thee. But come now, let us make a covenant, and the gods who hold Olympus shall be witnesses for us both in time to come."
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "If thy master returns to this house, clothe me in a cloak and tunic, as raiment, and send me on my way to Dulichium, where I desire to be. But if thy master does not come as I say, set the slaves upon me, and fling me down from a great cliff,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "that another beggar may beware of deceiving.” And the goodly swineherd answered him, and said: “Aye, stranger, so should I indeed win fair fame and prosperity among men both now and hereafter, if I, who brought thee to my hut and gave thee entertainment,"
+    }
+  ]
+}

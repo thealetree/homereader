@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ὣς ὁ μὲν ἔνθα πολὺν βίοτον καὶ χρυσὸν ἀγείρων"
+    },
+    {
+      "n": 302,
+      "greek": "ἠλᾶτο ξὺν νηυσὶ κατʼ ἀλλοθρόους ἀνθρώπους·"
+    },
+    {
+      "n": 303,
+      "greek": "τόφρα δὲ ταῦτʼ Αἴγισθος ἐμήσατο οἴκοθι λυγρά."
+    },
+    {
+      "n": 305,
+      "greek": "ἑπτάετες δʼ ἤνασσε πολυχρύσοιο Μυκήνης,"
+    },
+    {
+      "n": 304,
+      "greek": "κτείνας Ἀτρεΐδην, δέδμητο δὲ λαὸς ὑπʼ αὐτῷ."
+    },
+    {
+      "n": 306,
+      "greek": "τῷ δέ οἱ ὀγδοάτῳ κακὸν ἤλυθε δῖος Ὀρέστης"
+    },
+    {
+      "n": 307,
+      "greek": "ἂψ ἀπʼ Ἀθηνάων, κατὰ δʼ ἔκτανε πατροφονῆα,"
+    },
+    {
+      "n": 308,
+      "greek": "Αἴγισθον δολόμητιν, ὅ οἱ πατέρα κλυτὸν ἔκτα."
+    },
+    {
+      "n": 309,
+      "greek": "ἦ τοι ὁ τὸν κτείνας δαίνυ τάφον Ἀργείοισιν"
+    },
+    {
+      "n": 310,
+      "greek": "μητρός τε στυγερῆς καὶ ἀνάλκιδος Αἰγίσθοιο·"
+    },
+    {
+      "n": 311,
+      "greek": "αὐτῆμαρ δέ οἱ ἦλθε βοὴν ἀγαθὸς Μενέλαος"
+    },
+    {
+      "n": 312,
+      "greek": "πολλὰ κτήματʼ ἄγων, ὅσα οἱ νέες ἄχθος ἄειραν."
+    },
+    {
+      "n": 313,
+      "greek": "καὶ σύ, φίλος, μὴ δηθὰ δόμων ἄπο τῆλʼ ἀλάλησο,"
+    },
+    {
+      "n": 314,
+      "greek": "κτήματά τε προλιπὼν ἄνδρας τʼ ἐν σοῖσι δόμοισιν"
+    },
+    {
+      "n": 315,
+      "greek": "οὕτω ὑπερφιάλους, μή τοι κατὰ πάντα φάγωσιν"
+    },
+    {
+      "n": 316,
+      "greek": "κτήματα δασσάμενοι, σὺ δὲ τηϋσίην ὁδὸν ἔλθῃς."
+    },
+    {
+      "n": 317,
+      "greek": "ἀλλʼ ἐς μὲν Μενέλαον ἐγὼ κέλομαι καὶ ἄνωγα"
+    },
+    {
+      "n": 318,
+      "greek": "ἐλθεῖν· κεῖνος γὰρ νέον ἄλλοθεν εἰλήλουθεν,"
+    },
+    {
+      "n": 319,
+      "greek": "ἐκ τῶν ἀνθρώπων, ὅθεν οὐκ ἔλποιτό γε θυμῷ"
+    },
+    {
+      "n": 320,
+      "greek": "ἐλθέμεν, ὅν τινα πρῶτον ἀποσφήλωσιν ἄελλαι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "Seven years he reigned over Mycenae, rich in gold, after slaying the son of Atreus, and the people were subdued under him; but in the eighth came as his bane the goodly Orestes back from Athens, and slew his father's murderer,"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "the guileful Aegisthus, for that he had slain his glorious father. Now when he had slain him, he made a funeral feast for the Argives over his hateful mother and the craven Aegisthus; and on the self-same day there came to him Menelaus, good at the war-cry, bringing much treasure, even all the burden that his ships could bear. “So do not thou, my friend, wander long far from home, leaving thy wealth behind thee and men in thy house"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "so insolent, lest they divide and devour all thy wealth, and thou shalt have gone on a fruitless journey. But to Menelaus I bid and command thee to go, for he has but lately come from a strange land, from a folk whence no one would hope in his heart"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "to return, whom the storms had once driven astray into a sea so great, whence the very birds do not fare in the space of a year, so great is it and terrible. But now go thy way with thy ship and thy comrades, or, if thou wilt go by land, here are chariot and horses at hand for thee,"
+    }
+  ]
+}

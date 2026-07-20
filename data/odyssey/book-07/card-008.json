@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "ὄφρʼ ἵκετʼ Ἀρήτην τε καὶ Ἀλκίνοον βασιλῆα."
+    },
+    {
+      "n": 142,
+      "greek": "ἀμφὶ δʼ ἄρʼ Ἀρήτης βάλε γούνασι χεῖρας Ὀδυσσεύς,"
+    },
+    {
+      "n": 143,
+      "greek": "καὶ τότε δή ῥʼ αὐτοῖο πάλιν χύτο θέσφατος ἀήρ."
+    },
+    {
+      "n": 144,
+      "greek": "οἱ δʼ ἄνεῳ ἐγένοντο, δόμον κάτα φῶτα ἰδόντες·"
+    },
+    {
+      "n": 145,
+      "greek": "θαύμαζον δʼ ὁρόωντες. ὁ δὲ λιτάνευεν Ὀδυσσεύς·"
+    },
+    {
+      "n": 146,
+      "greek": "Ἀρήτη, θύγατερ Ῥηξήνορος ἀντιθέοιο,"
+    },
+    {
+      "n": 147,
+      "greek": "σόν τε πόσιν σά τε γούναθʼ ἱκάνω πολλὰ μογήσας"
+    },
+    {
+      "n": 148,
+      "greek": "τούσδε τε δαιτυμόνας· τοῖσιν θεοὶ ὄλβια δοῖεν"
+    },
+    {
+      "n": 149,
+      "greek": "ζωέμεναι, καὶ παισὶν ἐπιτρέψειεν ἕκαστος"
+    },
+    {
+      "n": 150,
+      "greek": "κτήματʼ ἐνὶ μεγάροισι γέρας θʼ ὅ τι δῆμος ἔδωκεν·"
+    },
+    {
+      "n": 151,
+      "greek": "αὐτὰρ ἐμοὶ πομπὴν ὀτρύνετε πατρίδʼ ἱκέσθαι"
+    },
+    {
+      "n": 152,
+      "greek": "θᾶσσον, ἐπεὶ δὴ δηθὰ φίλων ἄπο πήματα πάσχω."
+    },
+    {
+      "n": 153,
+      "greek": "ὣς εἰπὼν κατʼ ἄρʼ ἕζετʼ ἐπʼ ἐσχάρῃ ἐν κονίῃσιν"
+    },
+    {
+      "n": 154,
+      "greek": "πὰρ πυρί· οἱ δʼ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ."
+    },
+    {
+      "n": 155,
+      "greek": "ὀψὲ δὲ δὴ μετέειπε γέρων ἥρως Ἐχένηος,"
+    },
+    {
+      "n": 156,
+      "greek": "ὃς δὴ Φαιήκων ἀνδρῶν προγενέστερος ἦεν"
+    },
+    {
+      "n": 157,
+      "greek": "καὶ μύθοισι κέκαστο, παλαιά τε πολλά τε εἰδώς·"
+    },
+    {
+      "n": 158,
+      "greek": "ὅ σφιν ἐὺ φρονέων ἀγορήσατο καὶ μετέειπεν·"
+    },
+    {
+      "n": 159,
+      "greek": "Ἀλκίνοʼ, οὐ μέν τοι τόδε κάλλιον, οὐδὲ ἔοικε,"
+    },
+    {
+      "n": 160,
+      "greek": "ξεῖνον μὲν χαμαὶ ἧσθαι ἐπʼ ἐσχάρῃ ἐν κονίῃσιν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "and they marvelled as they looked upon him. But Odysseus made his prayer: “Arete, daughter of godlike Rhexenor, to thy husband and to thy knees am I come after many toils,—aye and to these banqueters, to whom may the gods grant happiness in life, and may each of them hand down to his children"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "the wealth in his halls, and the dues of honor which the people have given him. But for me do ye speed my sending, that I may come to my native land, and that quickly; for long time have I been suffering woes far from my friends.” So saying he sat down on the hearth in the ashes by the fire, and they were all hushed in silence."
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "But at length there spoke among them the old lord Echeneus, who was an elder among the Phaeacians, well skilled in speech, and understanding all the wisdom of old. He with good intent addressed the assembly, and said: “Alcinous, lo, this is not the better way, nor is it seemly,"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "that a stranger should sit upon the ground on the hearth in the ashes; but these others hold back waiting for thy word. Come, make the stranger to arise, and set him upon a silver-studded chair, and bid the heralds mix wine,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "καρπαλίμως χαίροντα φίλην ἐς πατρίδʼ ἔπεμπον"
+    },
+    {
+      "n": 462,
+      "greek": "εἰς Ἰθάκην. τῷ μέν ῥα πατὴρ καὶ πότνια μήτηρ"
+    },
+    {
+      "n": 463,
+      "greek": "χαῖρον νοστήσαντι καὶ ἐξερέεινον ἕκαστα,"
+    },
+    {
+      "n": 464,
+      "greek": "οὐλὴν ὅττι πάθοι· ὁ δʼ ἄρα σφίσιν εὖ κατέλεξεν"
+    },
+    {
+      "n": 465,
+      "greek": "ὥς μιν θηρεύοντʼ ἔλασεν σῦς λευκῷ ὀδόντι,"
+    },
+    {
+      "n": 466,
+      "greek": "Παρνησόνδʼ ἐλθόντα σὺν υἱάσιν Αὐτολύκοιο."
+    },
+    {
+      "n": 467,
+      "greek": "τὴν γρηῢς χείρεσσι καταπρηνέσσι λαβοῦσα"
+    },
+    {
+      "n": 468,
+      "greek": "γνῶ ῥʼ ἐπιμασσαμένη, πόδα δὲ προέηκε φέρεσθαι·"
+    },
+    {
+      "n": 469,
+      "greek": "ἐν δὲ λέβητι πέσε κνήμη, κανάχησε δὲ χαλκός,"
+    },
+    {
+      "n": 470,
+      "greek": "ἂψ δʼ ἑτέρωσʼ ἐκλίθη· τὸ δʼ ἐπὶ χθονὸς ἐξέχυθʼ ὕδωρ."
+    },
+    {
+      "n": 471,
+      "greek": "τὴν δʼ ἅμα χάρμα καὶ ἄλγος ἕλε φρένα, τὼ δέ οἱ ὄσσε"
+    },
+    {
+      "n": 472,
+      "greek": "δακρυόφι πλῆσθεν, θαλερὴ δέ οἱ ἔσχετο φωνή."
+    },
+    {
+      "n": 473,
+      "greek": "ἁψαμένη δὲ γενείου Ὀδυσσῆα προσέειπεν·"
+    },
+    {
+      "n": 474,
+      "greek": "ἦ μάλʼ Ὀδυσσεύς ἐσσι, φίλον τέκος· οὐδέ σʼ ἐγώ γε"
+    },
+    {
+      "n": 475,
+      "greek": "πρὶν ἔγνων, πρὶν πάντα ἄνακτʼ ἐμὸν ἀμφαφάασθαι."
+    },
+    {
+      "n": 476,
+      "greek": "ἦ καὶ Πηνελόπειαν ἐσέδρακεν ὀφθαλμοῖσι,"
+    },
+    {
+      "n": 477,
+      "greek": "πεφραδέειν ἐθέλουσα φίλον πόσιν ἔνδον ἐόντα."
+    },
+    {
+      "n": 478,
+      "greek": "ἡ δʼ οὔτʼ ἀθρῆσαι δύνατʼ ἀντίη οὔτε νοῆσαι·"
+    },
+    {
+      "n": 479,
+      "greek": "τῇ γὰρ Ἀθηναίη νόον ἔτραπεν· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 480,
+      "greek": "χεῖρʼ ἐπιμασσάμενος φάρυγος λάβε δεξιτερῆφι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "how, while he was hunting, a boar had struck him with his white tusk when he had gone to Parnassus with the sons of Autolycus. This scar the old dame, when she had taken the limb in the flat of her hands, knew by the touch, and she let fall the foot. Into the basin the leg fell, and the brazen vessel rang."
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "Over it tilted, and the water was spilled upon the ground. Then upon her soul came joy and grief in one moment, and both her eyes were filled with tears and the flow of her voice was checked. But she touched the chin of Odysseus, and said: “Verily thou art Odysseus, dear child, and I knew thee not,"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "till I had handled all the body of my lord.” She spoke, and with her eyes looked toward Penelope, fain to show her that her dear husband was at home. But Penelope could not meet her glance nor understand, for Athena had turned her thoughts aside. But Odysseus,"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "feeling for the woman's throat, seized it with his right hand, and with the other drew her closer to him, and said: “Mother, why wilt thou destroy me? Thou didst thyself nurse me at this thy breast, and now after many grievous toils I am come in the twentieth year to my native land."
+    }
+  ]
+}

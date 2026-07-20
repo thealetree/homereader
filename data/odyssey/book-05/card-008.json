@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "οὐ γάρ μοι πάρα νῆες ἐπήρετμοι καὶ ἑταῖροι,"
+    },
+    {
+      "n": 142,
+      "greek": "οἵ κέν μιν πέμποιεν ἐπʼ εὐρέα νῶτα θαλάσσης."
+    },
+    {
+      "n": 143,
+      "greek": "αὐτάρ οἱ πρόφρων ὑποθήσομαι, οὐδʼ ἐπικεύσω,"
+    },
+    {
+      "n": 144,
+      "greek": "ὥς κε μάλʼ ἀσκηθὴς ἣν πατρίδα γαῖαν ἵκηται."
+    },
+    {
+      "n": 145,
+      "greek": "τὴν δʼ αὖτε προσέειπε διάκτορος ἀργεϊφόντης·"
+    },
+    {
+      "n": 146,
+      "greek": "οὕτω νῦν ἀπόπεμπε, Διὸς δʼ ἐποπίζεο μῆνιν,"
+    },
+    {
+      "n": 147,
+      "greek": "μή πώς τοι μετόπισθε κοτεσσάμενος χαλεπήνῃ."
+    },
+    {
+      "n": 148,
+      "greek": "ὣς ἄρα φωνήσας ἀπέβη κρατὺς ἀργεϊφόντης·"
+    },
+    {
+      "n": 149,
+      "greek": "ἡ δʼ ἐπʼ Ὀδυσσῆα μεγαλήτορα πότνια νύμφη"
+    },
+    {
+      "n": 150,
+      "greek": "ἤιʼ, ἐπεὶ δὴ Ζηνὸς ἐπέκλυεν ἀγγελιάων."
+    },
+    {
+      "n": 151,
+      "greek": "τὸν δʼ ἄρʼ ἐπʼ ἀκτῆς εὗρε καθήμενον· οὐδέ ποτʼ ὄσσε"
+    },
+    {
+      "n": 152,
+      "greek": "δακρυόφιν τέρσοντο, κατείβετο δὲ γλυκὺς αἰὼν"
+    },
+    {
+      "n": 153,
+      "greek": "νόστον ὀδυρομένῳ, ἐπεὶ οὐκέτι ἥνδανε νύμφη."
+    },
+    {
+      "n": 154,
+      "greek": "ἀλλʼ ἦ τοι νύκτας μὲν ἰαύεσκεν καὶ ἀνάγκῃ"
+    },
+    {
+      "n": 155,
+      "greek": "ἐν σπέσσι γλαφυροῖσι παρʼ οὐκ ἐθέλων ἐθελούσῃ·"
+    },
+    {
+      "n": 156,
+      "greek": "ἤματα δʼ ἂμ πέτρῃσι καὶ ἠιόνεσσι καθίζων"
+    },
+    {
+      "n": 157,
+      "greek": "δάκρυσι καὶ στοναχῇσι καὶ ἄλγεσι θυμὸν ἐρέχθων"
+    },
+    {
+      "n": 158,
+      "greek": "πόντον ἐπʼ ἀτρύγετον δερκέσκετο δάκρυα λείβων."
+    },
+    {
+      "n": 159,
+      "greek": "ἀγχοῦ δʼ ἱσταμένη προσεφώνεε δῖα θεάων·"
+    },
+    {
+      "n": 160,
+      "greek": "κάμμορε, μή μοι ἔτʼ ἐνθάδʼ ὀδύρεο, μηδέ τοι αἰὼν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "Then again the messenger Argeiphontes answered her: “Even so send him forth now, and beware of the wrath of Zeus, lest haply he wax wroth and visit his anger upon thee hereafter.” So saying, the strong Argeiphontes departed, and the queenly nymph went to the great-hearted Odysseus,"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "when she had heard the message of Zeus. Him she found sitting on the shore, and his eyes were never dry of tears, and his sweet life was ebbing away, as he longed mournfully for his return, for the nymph was no longer pleasing in his sight. By night indeed he would sleep by her side perforce"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "in the hollow caves, unwilling beside the willing nymph, but by day he would sit on the rocks and the sands, racking his soul with tears and groans and griefs, and he would look over the unresting sea, shedding tears. Then coming close to him, the beautiful goddess addressed him:"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "“Unhappy man, sorrow no longer here, I pray thee, nor let thy life pine away; for even now with a ready heart will I send thee on thy way. Nay, come, hew with the axe long beams, and make a broad raft, and fasten upon it cross-planks for a deck well above it, that it may bear thee over the misty deep."
+    }
+  ]
+}

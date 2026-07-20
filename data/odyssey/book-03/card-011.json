@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 202,
+      "greek": "ὦ Νέστορ Νηληϊάδη, μέγα κῦδος Ἀχαιῶν,"
+    },
+    {
+      "n": 203,
+      "greek": "καὶ λίην κεῖνος μὲν ἐτίσατο, καί οἱ Ἀχαιοὶ"
+    },
+    {
+      "n": 204,
+      "greek": "οἴσουσι κλέος εὐρὺ καὶ ἐσσομένοισι πυθέσθαι·"
+    },
+    {
+      "n": 205,
+      "greek": "αἲ γὰρ ἐμοὶ τοσσήνδε θεοὶ δύναμιν περιθεῖεν,"
+    },
+    {
+      "n": 206,
+      "greek": "τίσασθαι μνηστῆρας ὑπερβασίης ἀλεγεινῆς,"
+    },
+    {
+      "n": 207,
+      "greek": "οἵ τέ μοι ὑβρίζοντες ἀτάσθαλα μηχανόωνται."
+    },
+    {
+      "n": 208,
+      "greek": "ἀλλʼ οὔ μοι τοιοῦτον ἐπέκλωσαν θεοὶ ὄλβον,"
+    },
+    {
+      "n": 209,
+      "greek": "πατρί τʼ ἐμῷ καὶ ἐμοί· νῦν δὲ χρὴ τετλάμεν ἔμπης."
+    },
+    {
+      "n": 210,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα Γερήνιος ἱππότα Νέστωρ·"
+    },
+    {
+      "n": 211,
+      "greek": "ὦ φίλʼ, ἐπεὶ δὴ ταῦτά μʼ ἀνέμνησας καὶ ἔειπες,"
+    },
+    {
+      "n": 212,
+      "greek": "φασὶ μνηστῆρας σῆς μητέρος εἵνεκα πολλοὺς"
+    },
+    {
+      "n": 213,
+      "greek": "ἐν μεγάροις ἀέκητι σέθεν κακὰ μηχανάασθαι·"
+    },
+    {
+      "n": 214,
+      "greek": "εἰπέ μοι, ἠὲ ἑκὼν ὑποδάμνασαι, ἦ σέ γε λαοὶ"
+    },
+    {
+      "n": 215,
+      "greek": "ἐχθαίρουσʼ ἀνὰ δῆμον, ἐπισπόμενοι θεοῦ ὀμφῇ."
+    },
+    {
+      "n": 216,
+      "greek": "τίς δʼ οἶδʼ εἴ κέ ποτέ σφι βίας ἀποτίσεται ἐλθών,"
+    },
+    {
+      "n": 217,
+      "greek": "ἢ ὅ γε μοῦνος ἐὼν ἢ καὶ σύμπαντες Ἀχαιοί;"
+    },
+    {
+      "n": 218,
+      "greek": "εἰ γάρ σʼ ὣς ἐθέλοι φιλέειν γλαυκῶπις Ἀθήνη,"
+    },
+    {
+      "n": 219,
+      "greek": "ὡς τότʼ Ὀδυσσῆος περικήδετο κυδαλίμοιο"
+    },
+    {
+      "n": 220,
+      "greek": "δήμῳ ἔνι Τρώων, ὅθι πάσχομεν ἄλγεʼ Ἀχαιοί—"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "O that the gods would clothe me with such strength, that I might take vengeance on the wooers for their grievous sin, who in wantonness devise mischief against me. But lo, the gods have spun for me no such happiness, for me or for my father; and now I must in any case endure.”"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "Then the horseman, Nestor of Gerenia, answered him: “Friend, since thou calledst this to my mind and didst speak of it, they say that many wooers for the hand of thy mother devise evils in thy halls in thy despite. Tell me, art thou willingly thus oppressed, or do the people"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "throughout the land hate thee, following the voice of a god? Who knows but Odysseus may some day come and take vengeance on them for their violent deeds,—he alone, it may be, or even all the host of the Achaeans? Ah, would that flashing-eyed Athena might choose to love thee even as then she cared exceedingly for glorious Odysseus"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "in the land of the Trojans, where we Achaeans suffered woes. For never yet have I seen the gods so manifestly shewing love, as Pallas Athena did to him, standing manifest by his side. If she would be pleased to love thee in such wise and would care for thee at heart, then would many a one of them utterly forget marriage.”"
+    }
+  ]
+}

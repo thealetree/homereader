@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "υἱέες ἐν μεγάρῳ ἠμὲν τράφεν ἠδʼ ἐγένοντο"
+    },
+    {
+      "n": 202,
+      "greek": "γνήσιοι ἐξ ἀλόχου· ἐμὲ δʼ ὠνητὴ τέκε μήτηρ"
+    },
+    {
+      "n": 203,
+      "greek": "παλλακίς, ἀλλά με ἶσον ἰθαιγενέεσσιν ἐτίμα"
+    },
+    {
+      "n": 204,
+      "greek": "Κάστωρ Ὑλακίδης, τοῦ ἐγὼ γένος εὔχομαι εἶναι"
+    },
+    {
+      "n": 205,
+      "greek": "ὃς τότʼ ἐνὶ Κρήτεσσι θεὸς ὣς τίετο δήμῳ"
+    },
+    {
+      "n": 206,
+      "greek": "ὄλβῳ τε πλούτῳ τε καὶ υἱάσι κυδαλίμοισιν."
+    },
+    {
+      "n": 207,
+      "greek": "ἀλλʼ ἦ τοι τὸν κῆρες ἔβαν θανάτοιο φέρουσαι"
+    },
+    {
+      "n": 208,
+      "greek": "εἰς Ἀΐδαο δόμους· τοὶ δὲ ζωὴν ἐδάσαντο"
+    },
+    {
+      "n": 209,
+      "greek": "παῖδες ὑπέρθυμοι καὶ ἐπὶ κλήρους ἐβάλοντο,"
+    },
+    {
+      "n": 210,
+      "greek": "αὐτὰρ ἐμοὶ μάλα παῦρα δόσαν καὶ οἰκίʼ ἔνειμαν."
+    },
+    {
+      "n": 211,
+      "greek": "ἠγαγόμην δὲ γυναῖκα πολυκλήρων ἀνθρώπων"
+    },
+    {
+      "n": 212,
+      "greek": "εἵνεκʼ ἐμῆς ἀρετῆς, ἐπεὶ οὐκ ἀποφώλιος ἦα"
+    },
+    {
+      "n": 213,
+      "greek": "οὐδὲ φυγοπτόλεμος· νῦν δʼ ἤδη πάντα λέλοιπεν"
+    },
+    {
+      "n": 214,
+      "greek": "ἀλλʼ ἔμπης καλάμην γέ σʼ ὀΐομαι εἰσορόωντα"
+    },
+    {
+      "n": 215,
+      "greek": "γιγνώσκειν· ἦ γάρ με δύη ἔχει ἤλιθα πολλή."
+    },
+    {
+      "n": 216,
+      "greek": "ἦ μὲν δὴ θάρσος μοι Ἄρης τʼ ἔδοσαν καὶ Ἀθήνη"
+    },
+    {
+      "n": 217,
+      "greek": "καὶ ῥηξηνορίην· ὁπότε κρίνοιμι λόχονδε"
+    },
+    {
+      "n": 218,
+      "greek": "ἄνδρας ἀριστῆας, κακὰ δυσμενέεσσι φυτεύων,"
+    },
+    {
+      "n": 219,
+      "greek": "οὔ ποτέ μοι θάνατον προτιόσσετο θυμὸς ἀγήνωρ,"
+    },
+    {
+      "n": 220,
+      "greek": "ἀλλὰ πολὺ πρώτιστος ἐπάλμενος ἔγχει ἕλεσκον"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "He was at that time honored as a god among the Cretans in the land for his good estate, and his wealth, and his glorious sons. But the fates of death bore him away to the house of Hades, and his proud sons divided among them his substance, and cast lots therefor."
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "To me they gave a very small portion, and allotted a dwelling. But I took unto me a wife from a house that had wide possessions, winning her by my valor; for I was no weakling, nor a coward in fight. Now all that strength is gone; yet even so, in seeing the stubble, methinks"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "thou mayest judge what the grain was; for verily troubles in full measure encompass me. But then Ares and Athena gave me courage, and strength that breaks the ranks of men; and whenever I picked the best warriors for an ambush, sowing the seeds of evil for the foe, never did my proud spirit forbode death,"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "but ever far the first did I leap forth, and slay with my spear whosoever of the foe gave way in flight before me. Such a man was I in war, but labour in the field was never to my liking, nor the care of a household, which rears goodly children, but oared ships were ever dear to me,"
+    }
+  ]
+}

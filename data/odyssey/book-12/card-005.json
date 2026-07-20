@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "πρὸς ζόφον εἰς Ἔρεβος τετραμμένον, ᾗ περ ἂν ὑμεῖς"
+    },
+    {
+      "n": 82,
+      "greek": "νῆα παρὰ γλαφυρὴν ἰθύνετε, φαίδιμʼ Ὀδυσσεῦ."
+    },
+    {
+      "n": 83,
+      "greek": "οὐδέ κεν ἐκ νηὸς γλαφυρῆς αἰζήιος ἀνὴρ"
+    },
+    {
+      "n": 84,
+      "greek": "τόξῳ ὀιστεύσας κοῖλον σπέος εἰσαφίκοιτο."
+    },
+    {
+      "n": 85,
+      "greek": "ἔνθα δʼ ἐνὶ Σκύλλη ναίει δεινὸν λελακυῖα."
+    },
+    {
+      "n": 86,
+      "greek": "τῆς ἦ τοι φωνὴ μὲν ὅση σκύλακος νεογιλῆς"
+    },
+    {
+      "n": 87,
+      "greek": "γίγνεται, αὐτὴ δʼ αὖτε πέλωρ κακόν· οὐδέ κέ τίς μιν"
+    },
+    {
+      "n": 88,
+      "greek": "γηθήσειεν ἰδών, οὐδʼ εἰ θεὸς ἀντιάσειεν."
+    },
+    {
+      "n": 89,
+      "greek": "τῆς ἦ τοι πόδες εἰσὶ δυώδεκα πάντες ἄωροι,"
+    },
+    {
+      "n": 90,
+      "greek": "ἓξ δέ τέ οἱ δειραὶ περιμήκεες, ἐν δὲ ἑκάστῃ"
+    },
+    {
+      "n": 91,
+      "greek": "σμερδαλέη κεφαλή, ἐν δὲ τρίστοιχοι ὀδόντες"
+    },
+    {
+      "n": 92,
+      "greek": "πυκνοὶ καὶ θαμέες, πλεῖοι μέλανος θανάτοιο."
+    },
+    {
+      "n": 93,
+      "greek": "μέσση μέν τε κατὰ σπείους κοίλοιο δέδυκεν,"
+    },
+    {
+      "n": 94,
+      "greek": "ἔξω δʼ ἐξίσχει κεφαλὰς δεινοῖο βερέθρου,"
+    },
+    {
+      "n": 95,
+      "greek": "αὐτοῦ δʼ ἰχθυάᾳ, σκόπελον περιμαιμώωσα,"
+    },
+    {
+      "n": 96,
+      "greek": "δελφῖνάς τε κύνας τε, καὶ εἴ ποθι μεῖζον ἕλῃσι"
+    },
+    {
+      "n": 97,
+      "greek": "κῆτος, ἃ μυρία βόσκει ἀγάστονος Ἀμφιτρίτη."
+    },
+    {
+      "n": 98,
+      "greek": "τῇ δʼ οὔ πώ ποτε ναῦται ἀκήριοι εὐχετόωνται"
+    },
+    {
+      "n": 99,
+      "greek": "παρφυγέειν σὺν νηί· φέρει δέ τε κρατὶ ἑκάστῳ"
+    },
+    {
+      "n": 100,
+      "greek": "φῶτʼ ἐξαρπάξασα νεὸς κυανοπρῴροιο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "Therein dwells Scylla, yelping terribly. Her voice is indeed but as the voice of a new-born whelp, but she herself is an evil monster, nor would anyone be glad at sight of her, no, not though it were a god that met her. Verily she has twelve feet, all misshapen,"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "and six necks, exceeding long, and on each one an awful head, and therein three rows of teeth, thick and close, and full of black death. Up to her middle she is hidden in the hollow cave, but she holds her head out beyond the dread chasm,"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "and fishes there, eagerly searching around the rock for dolphins and sea-dogs and whatever greater beast she may haply catch, such creatures as deep-moaning Amphitrite rears in multitudes past counting. By her no sailors yet may boast that they have fled unscathed in their ship, for with each head she carries off"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "a man, snatching him from the dark-prowed ship. “‘But the other cliff, thou wilt note, Odysseus, is lower—they are close to each other; thou couldst even shoot an arrow across—and on it is a great fig tree with rich foliage, but beneath this divine Charybdis sucks down the black water."
+    }
+  ]
+}

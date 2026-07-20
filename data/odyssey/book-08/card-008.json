@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "Λαοδάμα, μάλα τοῦτο ἔπος κατὰ μοῖραν ἔειπες."
+    },
+    {
+      "n": 142,
+      "greek": "αὐτὸς νῦν προκάλεσσαι ἰὼν καὶ πέφραδε μῦθον."
+    },
+    {
+      "n": 143,
+      "greek": "αὐτὰρ ἐπεὶ τό γʼ ἄκουσʼ ἀγαθὸς πάϊς Ἀλκινόοιο,"
+    },
+    {
+      "n": 144,
+      "greek": "στῆ ῥʼ ἐς μέσσον ἰὼν καὶ Ὀδυσσῆα προσέειπε·"
+    },
+    {
+      "n": 145,
+      "greek": "δεῦρʼ ἄγε καὶ σύ, ξεῖνε πάτερ, πείρησαι ἀέθλων,"
+    },
+    {
+      "n": 146,
+      "greek": "εἴ τινά που δεδάηκας· ἔοικε δέ σʼ ἴδμεν ἀέθλους·"
+    },
+    {
+      "n": 147,
+      "greek": "οὐ μὲν γὰρ μεῖζον κλέος ἀνέρος ὄφρα κʼ ἔῃσιν,"
+    },
+    {
+      "n": 148,
+      "greek": "ἤ ὅ τι ποσσίν τε ῥέξῃ καὶ χερσὶν ἑῇσιν."
+    },
+    {
+      "n": 149,
+      "greek": "ἀλλʼ ἄγε πείρησαι, σκέδασον δʼ ἀπὸ κήδεα θυμοῦ."
+    },
+    {
+      "n": 150,
+      "greek": "σοὶ δʼ ὁδὸς οὐκέτι δηρὸν ἀπέσσεται, ἀλλά τοι ἤδη"
+    },
+    {
+      "n": 151,
+      "greek": "νηῦς τε κατείρυσται καὶ ἐπαρτέες εἰσὶν ἑταῖροι."
+    },
+    {
+      "n": 152,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 153,
+      "greek": "Λαοδάμα, τί με ταῦτα κελεύετε κερτομέοντες;"
+    },
+    {
+      "n": 154,
+      "greek": "κήδεά μοι καὶ μᾶλλον ἐνὶ φρεσὶν ἤ περ ἄεθλοι,"
+    },
+    {
+      "n": 155,
+      "greek": "ὃς πρὶν μὲν μάλα πολλὰ πάθον καὶ πολλὰ μόγησα,"
+    },
+    {
+      "n": 156,
+      "greek": "νῦν δὲ μεθʼ ὑμετέρῃ ἀγορῇ νόστοιο χατίζων"
+    },
+    {
+      "n": 157,
+      "greek": "ἧμαι, λισσόμενος βασιλῆά τε πάντα τε δῆμον."
+    },
+    {
+      "n": 158,
+      "greek": "τὸν δʼ αὖτʼ Εὐρύαλος ἀπαμείβετο νείκεσέ τʼ ἄντην·"
+    },
+    {
+      "n": 159,
+      "greek": "οὐ γάρ σʼ οὐδέ, ξεῖνε, δαήμονι φωτὶ ἐίσκω"
+    },
+    {
+      "n": 160,
+      "greek": "ἄθλων, οἷά τε πολλὰ μετʼ ἀνθρώποισι πέλονται,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "“Come, Sir stranger, do thou, too, make trial of the contests, if thou knowest any; and it must be that thou knowest contests, for there is no greater glory for a man so long as he lives than that which he achieves by his own hands and his feet. Nay, come, make trial, and cast away care from thy heart."
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "Thy journey shall no more be long delayed, nay, even now thy ship is launched and the crew is ready.” Then Odysseus of many wiles answered him, and said: “Laodamas, why do ye mock me with this challenge? Sorrow is in my mind far more than contests,"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "seeing that in time past I have suffered much and toiled much, and now I sit in the midst of your assembly, longing for my return home, and making my prayer to the king and to all the people.” Then again Euryalus made answer and taunted him to his face: “Nay verily, stranger, for I do not liken thee to a man that is skilled"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "in contests, such as abound among men, but to one who, faring to and fro with his benched ship, is a captain of sailors who are merchantmen, one who is mindful of his freight, and has charge of a home-borne cargo, and the gains of his greed. Thou dost not look like an athlete.”"
+    }
+  ]
+}

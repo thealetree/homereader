@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "εὖ καὶ ἐπισταμένως κέασαν ξύλα, ταὶ δὲ γυναῖκες"
+    },
+    {
+      "n": 162,
+      "greek": "ἦλθον ἀπὸ κρήνης· ἐπὶ δέ σφισιν ἦλθε συβώτης"
+    },
+    {
+      "n": 163,
+      "greek": "τρεῖς σιάλους κατάγων, οἳ ἔσαν μετὰ πᾶσιν ἄριστοι."
+    },
+    {
+      "n": 164,
+      "greek": "καὶ τοὺς μέν ῥʼ εἴασε καθʼ ἕρκεα καλὰ νέμεσθαι,"
+    },
+    {
+      "n": 165,
+      "greek": "αὐτὸς δʼ αὖτʼ Ὀδυσῆα προσηύδα μειλιχίοισι·"
+    },
+    {
+      "n": 166,
+      "greek": "ξεῖνʼ, ἦ ἄρ τί σε μᾶλλον Ἀχαιοὶ εἰσορόωσιν,"
+    },
+    {
+      "n": 167,
+      "greek": "ἦέ σʼ ἀτιμάζουσι κατὰ μέγαρʼ, ὡς τὸ πάρος περ;"
+    },
+    {
+      "n": 168,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολυμήτις Ὀδυσσεύς·"
+    },
+    {
+      "n": 169,
+      "greek": "αἲ γὰρ δή, Εὔμαιε, θεοὶ τισαίατο λώβην,"
+    },
+    {
+      "n": 170,
+      "greek": "ἣν οἵδʼ ὑβρίζοντες ἀτάσθαλα μηχανόωνται"
+    },
+    {
+      "n": 171,
+      "greek": "οἴκῳ ἐν ἀλλοτρίῳ, οὐδʼ αἰδοῦς μοῖραν ἔχουσιν."
+    },
+    {
+      "n": 172,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    },
+    {
+      "n": 173,
+      "greek": "ἀγχίμολον δέ σφʼ ἦλθε Μελάνθιος, αἰπόλος αἰγῶν."
+    },
+    {
+      "n": 174,
+      "greek": "αἶγας ἄγων αἳ πᾶσι μετέρεπον αἰπολίοισι,"
+    },
+    {
+      "n": 175,
+      "greek": "δεῖπνον μνηστήρεσσι. δύω δʼ ἅμʼ ἕποντο νομῆες."
+    },
+    {
+      "n": 176,
+      "greek": "καὶ τὰς μὲν κατέδησεν ὑπʼ αἰθούσῃ ἐριδούπῳ,"
+    },
+    {
+      "n": 177,
+      "greek": "αὐτὸς δʼ αὖτʼ Ὀδυσῆα προσηύδα κερτομίοισι·"
+    },
+    {
+      "n": 178,
+      "greek": "ξεῖνʼ, ἔτι καὶ νῦν ἐνθάδʼ ἀνιήσεις κατὰ δῶμα"
+    },
+    {
+      "n": 179,
+      "greek": "ἀνέρας αἰτίζων, ἀτὰρ οὐκ ἔξεισθα θύραζε;"
+    },
+    {
+      "n": 180,
+      "greek": "πάντως οὐκέτι νῶϊ διακρινέεσθαι ὀΐω"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "but himself spoke to Odysseus with gentle words: “Stranger, do the Achaeans look on thee with any more regard, or do they dishonor thee in the halls as before?” Then Odysseus of many wiles answered him, and said: “Ah, Eumaeus, I would that the gods might take vengeance on the outrage"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "wherewith these men in wantonness devise wicked folly in another's house, and have no place for shame.” Thus they spoke to one another. And near to them came Melanthius the goatherd, leading she-goats that were the best in all the herds,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "to make a feast for the wooers, and two herdsmen followed with him. The goats he tethered beneath the echoing portico, and himself spoke to Odysseus with taunting words: “Stranger, wilt thou even now still be a plague to us here in the hall, asking alms of men, and wilt thou not begone?"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "'Tis plain, methinks, that we two shall not part company till we taste one another's fists, for thy begging is in no wise decent. Also it is not here alone that there are feasts of the Achaeans.” So he spoke, but Odysseus of many wiles made no answer, but he shook his head in silence, pondering evil in the deep of his heart."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 4,
+  "lineStart": 62,
+  "lineEnd": 81,
+  "lines": [
+    {
+      "n": 62,
+      "greek": "ἀλλʼ οὐκ ἔσθʼ ὅδε μῦθος ἐτήτυμος, ὡς ἀγορεύεις,"
+    },
+    {
+      "n": 63,
+      "greek": "ἀλλά τις ἀθανάτων κτεῖνε μνηστῆρας ἀγαυούς,"
+    },
+    {
+      "n": 64,
+      "greek": "ὕβριν ἀγασσάμενος θυμαλγέα καὶ κακὰ ἔργα."
+    },
+    {
+      "n": 65,
+      "greek": "οὔ τινα γὰρ τίεσκον ἐπιχθονίων ἀνθρώπων,"
+    },
+    {
+      "n": 66,
+      "greek": "οὐ κακὸν οὐδὲ μὲν ἐσθλόν, ὅτις σφέας εἰσαφίκοιτο·"
+    },
+    {
+      "n": 67,
+      "greek": "τῷ διʼ ἀτασθαλίας ἔπαθον κακόν· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 68,
+      "greek": "ὤλεσε τηλοῦ νόστον Ἀχαιΐδος, ὤλετο δʼ αὐτός."
+    },
+    {
+      "n": 69,
+      "greek": "τὴν δʼ ἠμείβετʼ ἔπειτα φίλη τροφὸς Εὐρύκλεια·"
+    },
+    {
+      "n": 70,
+      "greek": "τέκνον ἐμόν, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων,"
+    },
+    {
+      "n": 71,
+      "greek": "ἣ πόσιν ἔνδον ἐόντα παρʼ ἐσχάρῃ οὔ ποτʼ ἔφησθα"
+    },
+    {
+      "n": 72,
+      "greek": "οἴκαδʼ ἐλεύσεσθαι· θυμὸς δέ τοι αἰὲν ἄπιστος."
+    },
+    {
+      "n": 73,
+      "greek": "ἀλλʼ ἄγε τοι καὶ σῆμα ἀριφραδὲς ἄλλο τι εἴπω,"
+    },
+    {
+      "n": 74,
+      "greek": "οὐλήν, τήν ποτέ μιν σῦς ἤλασε λευκῷ ὀδόντι."
+    },
+    {
+      "n": 75,
+      "greek": "τὴν ἀπονίζουσα φρασάμην, ἔθελον δὲ σοὶ αὐτῇ"
+    },
+    {
+      "n": 76,
+      "greek": "εἰπέμεν· ἀλλά με κεῖνος ἑλὼν ἐπὶ μάστακα χερσὶν"
+    },
+    {
+      "n": 77,
+      "greek": "οὐκ ἔα εἰπέμεναι πολυϊδρείῃσι νόοιο."
+    },
+    {
+      "n": 78,
+      "greek": "ἀλλʼ ἕπευ· αὐτὰρ ἐγὼν ἐμέθεν περιδώσομαι αὐτῆς,"
+    },
+    {
+      "n": 79,
+      "greek": "αἴ κέν σʼ ἐξαπάφω, κτεῖναί μʼ οἰκτίστῳ ὀλέθρῳ."
+    },
+    {
+      "n": 80,
+      "greek": "τὴν δʼ ἠμείβετʼ ἔπειτα περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 81,
+      "greek": "μαῖα φίλη, χαλεπόν σε θεῶν αἰειγενετάων"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "For they honored no one among men upon the earth, were he evil or good, whosoever came among them; therefore it is through their own wanton folly that they have suffered evil. But Odysseus far away has lost his return to the land of Achaea, and is lost himself.” Then the dear nurse Eurycleia answered her:"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "“My child, what a word has escaped the barrier of thy teeth, in that thou saidst that thy husband, who even now is here, at his own hearth, would never more return! Thy heart is ever unbelieving. Nay come, I will tell thee a manifest sign besides, even the scar of the wound which long ago the boar dealt him with his white tusk."
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "This I marked while I washed his feet, and was fain to tell it to thee as well, but he laid his hand upon my mouth, and in the great wisdom of his heart would not suffer me to speak. So come with me; but I will set my very life at stake that, if I deceive thee, thou shouldest slay me by a most pitiful death.”"
+    },
+    {
+      "lines": [
+        80,
+        81
+      ],
+      "text": "Then wise Penelope answered her: “Dear nurse, it is hard for thee to comprehend the counsels of the gods that are forever, how wise soever thou art. Nevertheless let us go to my son, that I may see the wooers dead and him that slew them.”"
+    }
+  ]
+}

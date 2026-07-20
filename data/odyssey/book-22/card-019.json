@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ὣς φάτο, τοῦ δʼ ἤκουσε Μέδων πεπνυμένα εἰδώς·"
+    },
+    {
+      "n": 362,
+      "greek": "πεπτηὼς γὰρ ἔκειτο ὑπὸ θρόνον, ἀμφὶ δὲ δέρμα"
+    },
+    {
+      "n": 363,
+      "greek": "ἕστο βοὸς νεόδαρτον, ἀλύσκων κῆρα μέλαιναν."
+    },
+    {
+      "n": 364,
+      "greek": "αἶψα δʼ ἀπὸ θρόνου ὦρτο, θοῶς δʼ ἀπέδυνε βοείην"
+    },
+    {
+      "n": 365,
+      "greek": "Τηλέμαχον δʼ ἄρʼ ἔπειτα προσαΐξας λάβε γούνων,"
+    },
+    {
+      "n": 366,
+      "greek": "καί μιν λισσόμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 367,
+      "greek": "ὦ φίλʼ, ἐγὼ μὲν ὅδʼ εἰμί, σὺ δʼ ἴσχεο εἰπὲ δὲ πατρὶ"
+    },
+    {
+      "n": 368,
+      "greek": "μή με περισθενέων δηλήσεται ὀξέϊ χαλκῷ,"
+    },
+    {
+      "n": 369,
+      "greek": "ἀνδρῶν μνηστήρων κεχολωμένος, οἵ οἱ ἔκειρον"
+    },
+    {
+      "n": 370,
+      "greek": "κτήματʼ ἐνὶ μεγάροις, σὲ δὲ νήπιοι οὐδὲν ἔτιον."
+    },
+    {
+      "n": 371,
+      "greek": "τὸν δʼ ἐπιμειδήσας προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 372,
+      "greek": "θάρσει, ἐπεὶ δή σʼ οὗτος ἐρύσσατο καὶ ἐσάωσεν,"
+    },
+    {
+      "n": 373,
+      "greek": "ὄφρα γνῷς κατὰ θυμόν, ἀτὰρ εἴπῃσθα καὶ ἄλλῳ,"
+    },
+    {
+      "n": 374,
+      "greek": "ὡς κακοεργίης εὐεργεσίη μέγʼ ἀμείνων."
+    },
+    {
+      "n": 375,
+      "greek": "ἀλλʼ ἐξελθόντες μεγάρων ἕζεσθε θύραζε"
+    },
+    {
+      "n": 376,
+      "greek": "ἐκ φόνου εἰς αὐλήν, σύ τε καὶ πολύφημος ἀοιδός,"
+    },
+    {
+      "n": 377,
+      "greek": "ὄφρʼ ἂν ἐγὼ κατὰ δῶμα πονήσομαι ὅττεό με χρή."
+    },
+    {
+      "n": 378,
+      "greek": "ὣς φάτο, τὼ δʼ ἔξω βήτην μεγάροιο κιόντε,"
+    },
+    {
+      "n": 379,
+      "greek": "ἑζέσθην δʼ ἄρα τώ γε Διὸς μεγάλου ποτὶ βωμόν,"
+    },
+    {
+      "n": 380,
+      "greek": "πάντοσε παπταίνοντε, φόνον ποτιδεγμένω αἰεί."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "and then rushed forward and clasped Telemachus by the knees, and made entreaty to him, and spoke winged words: “Friend, here I am; stay thou thy hand and bid thy father stay his, lest in the greatness of his might he harm me with the sharp bronze in his wrath against the wooers, who wasted his"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "possessions in the halls, and in their folly honored thee not at all.” But Odysseus of many wiles smiled, and said to him: “Be of good cheer, for he has delivered thee and saved thee, that thou mayest know in thy heart and tell also to another, how far better is the doing of good deeds than of evil."
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "But go forth from the halls and sit down outside in the court away from the slaughter, thou and the minstrel of many songs, till I shall have finished all that I must needs do in the house.” So he spoke, and the two went their way forth from the hall and sat down by the altar of great Zeus,"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "gazing about on every side, ever expecting death. And Odysseus too gazed about all through his house to see if any man yet lived, and was hiding there, seeking to avoid black fate. But he found them one and all fallen in the blood and dust—all the host of them, like fishes that fishermen"
+    }
+  ]
+}

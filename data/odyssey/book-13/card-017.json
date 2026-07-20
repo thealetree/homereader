@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ἠλώμην, ἧός με θεοὶ κακότητος ἔλυσαν·"
+    },
+    {
+      "n": 322,
+      "greek": "πρίν γʼ ὅτε Φαιήκων ἀνδρῶν ἐν πίονι δήμῳ"
+    },
+    {
+      "n": 323,
+      "greek": "θάρσυνάς τε ἔπεσσι καὶ ἐς πόλιν ἤγαγες αὐτή."
+    },
+    {
+      "n": 324,
+      "greek": "νῦν δέ σε πρὸς πατρὸς γουνάζομαι—οὐ γὰρ ὀΐω"
+    },
+    {
+      "n": 325,
+      "greek": "ἥκειν εἰς Ἰθάκην εὐδείελον, ἀλλά τινʼ ἄλλην"
+    },
+    {
+      "n": 326,
+      "greek": "γαῖαν ἀναστρέφομαι· σὲ δὲ κερτομέουσαν ὀΐω"
+    },
+    {
+      "n": 327,
+      "greek": "ταῦτʼ ἀγορευέμεναι, ἵνʼ ἐμὰς φρένας ἠπεροπεύσῃς—"
+    },
+    {
+      "n": 328,
+      "greek": "εἰπέ μοι εἰ ἐτεόν γε φίλην ἐς πατρίδʼ ἱκάνω."
+    },
+    {
+      "n": 329,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα θεὰ γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 330,
+      "greek": "αἰεί τοι τοιοῦτον ἐνὶ στήθεσσι νόημα·"
+    },
+    {
+      "n": 331,
+      "greek": "τῷ σε καὶ οὐ δύναμαι προλιπεῖν δύστηνον ἐόντα,"
+    },
+    {
+      "n": 332,
+      "greek": "οὕνεκʼ ἐπητής ἐσσι καὶ ἀγχίνοος καὶ ἐχέφρων."
+    },
+    {
+      "n": 333,
+      "greek": "ἀσπασίως γάρ κʼ ἄλλος ἀνὴρ ἀλαλήμενος ἐλθὼν"
+    },
+    {
+      "n": 334,
+      "greek": "ἵετʼ ἐνὶ μεγάροις ἰδέειν παῖδάς τʼ ἄλοχόν τε·"
+    },
+    {
+      "n": 335,
+      "greek": "σοὶ δʼ οὔ πω φίλον ἐστὶ δαήμεναι οὐδὲ πυθέσθαι,"
+    },
+    {
+      "n": 336,
+      "greek": "πρίν γʼ ἔτι σῆς ἀλόχου πειρήσεαι, ἥ τέ τοι αὔτως"
+    },
+    {
+      "n": 337,
+      "greek": "ἧσται ἐνὶ μεγάροισιν, ὀϊζυραὶ δέ οἱ αἰεὶ"
+    },
+    {
+      "n": 338,
+      "greek": "φθίνουσιν νύκτες τε καὶ ἤματα δάκρυ χεούσῃ."
+    },
+    {
+      "n": 339,
+      "greek": "αὐτὰρ ἐγὼ τὸ μὲν οὔ ποτʼ ἀπίστεον, ἀλλʼ ἐνὶ θυμῷ"
+    },
+    {
+      "n": 340,
+      "greek": "ᾔδεʼ, ὃ νοστήσεις ὀλέσας ἄπο πάντας ἑταίρους·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "that I am come to clear-seen Ithaca; nay, it is some other land over which I roam, and thou, methinks, dost speak thus in mockery to beguile my mind—tell me whether in very truth I am come to my dear native land.” Then the goddess, flashing-eyed Athena, answered him:"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "“Ever such is the thought in thy breast, and therefore it is that I cannot leave thee in thy sorrow, for thou art soft of speech, keen of wit, and prudent. Eagerly would another man on his return from wanderings have hastened to behold in his halls his children and his wife;"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "but thou art not yet minded to know or learn of aught, till thou hast furthermore proved thy wife, who abides as of old in her halls, and ever sorrowfully for her the nights and days wane, as she weeps. But as for me, I never doubted of this, but in my heart"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "knew it well, that thou wouldest come home after losing all thy comrades. Yet, thou must know, I was not minded to strive against Poseidon, my father's brother, who laid up wrath in his heart against thee, angered that thou didst blind his dear son. But come, I will shew thee the land of Ithaca, that thou mayest be sure."
+    }
+  ]
+}

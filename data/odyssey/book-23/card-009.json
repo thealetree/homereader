@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 9,
+  "lineStart": 162,
+  "lineEnd": 181,
+  "lines": [
+    {
+      "n": 162,
+      "greek": "ὣς μὲν τῷ περίχευε χάριν κεφαλῇ τε καὶ ὤμοις."
+    },
+    {
+      "n": 163,
+      "greek": "ἐκ δʼ ἀσαμίνθου βῆ δέμας ἀθανάτοισιν ὁμοῖος·"
+    },
+    {
+      "n": 164,
+      "greek": "ἂψ δʼ αὖτις κατʼ ἄρʼ ἕζετʼ ἐπὶ θρόνου ἔνθεν ἀνέστη,"
+    },
+    {
+      "n": 165,
+      "greek": "ἀντίον ἧς ἀλόχου, καί μιν πρὸς μῦθον ἔειπε·"
+    },
+    {
+      "n": 166,
+      "greek": "δαιμονίη, περί σοί γε γυναικῶν θηλυτεράων"
+    },
+    {
+      "n": 167,
+      "greek": "κῆρ ἀτέραμνον ἔθηκαν Ὀλύμπια δώματʼ ἔχοντες·"
+    },
+    {
+      "n": 168,
+      "greek": "οὐ μέν κʼ ἄλλη γʼ ὧδε γυνὴ τετληότι θυμῷ"
+    },
+    {
+      "n": 169,
+      "greek": "ἀνδρὸς ἀφεσταίη, ὅς οἱ κακὰ πολλὰ μογήσας"
+    },
+    {
+      "n": 170,
+      "greek": "ἔλθοι ἐεικοστῷ ἔτεϊ ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 171,
+      "greek": "ἀλλʼ ἄγε μοι, μαῖα, στόρεσον λέχος, ὄφρα καὶ αὐτὸς"
+    },
+    {
+      "n": 172,
+      "greek": "λέξομαι· ἦ γὰρ τῇ γε σιδήρεον ἐν φρεσὶ ἦτορ."
+    },
+    {
+      "n": 173,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 174,
+      "greek": "δαιμόνιʼ, οὔτʼ ἄρ τι μεγαλίζομαι οὔτʼ ἀθερίζω"
+    },
+    {
+      "n": 175,
+      "greek": "οὔτε λίην ἄγαμαι, μάλα δʼ εὖ οἶδʼ οἷος ἔησθα"
+    },
+    {
+      "n": 176,
+      "greek": "ἐξ Ἰθάκης ἐπὶ νηὸς ἰὼν δολιχηρέτμοιο."
+    },
+    {
+      "n": 177,
+      "greek": "ἀλλʼ ἄγε οἱ στόρεσον πυκινὸν λέχος, Εὐρύκλεια,"
+    },
+    {
+      "n": 178,
+      "greek": "ἐκτὸς ἐϋσταθέος θαλάμου, τόν ῥʼ αὐτὸς ἐποίει·"
+    },
+    {
+      "n": 179,
+      "greek": "ἔνθα οἱ ἐκθεῖσαι πυκινὸν λέχος ἐμβάλετʼ εὐνήν,"
+    },
+    {
+      "n": 180,
+      "greek": "κώεα καὶ χλαίνας καὶ ῥήγεα σιγαλόεντα."
+    },
+    {
+      "n": 181,
+      "greek": "ὣς ἄρʼ ἔφη πόσιος πειρωμένη· αὐτὰρ Ὀδυσσεὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "opposite his wife; and he spoke to her and said: “Strange lady! to thee beyond all women have the dwellers on Olympus given a heart that cannot be softened. No other woman would harden her heart as thou dost, and stand aloof from her husband who after many grievous toils"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "had come to her in the twentieth year to his native land. Nay come, nurse, strew me a couch, that all alone I may lay me down, for verily the heart in her breast is of iron.” Then wise Penelope answered him: “Strange sir, I am neither in any wise proud, nor do I scorn thee,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "nor yet am I too greatly amazed, but right well do I know what manner of man thou wast, when thou wentest forth from Ithaca on thy long-oared ship. Yet come, Eurycleia, strew for him the stout bedstead outside the well-built bridal chamber which he made himself. Thither do ye bring for him the stout bedstead, and cast upon it bedding,"
+    },
+    {
+      "lines": [
+        180,
+        181
+      ],
+      "text": "fleeces and cloaks and bright coverlets.” So she spoke, and made trial of her husband. But Odysseus, in a burst of anger, spoke to his true-hearted wife, and said: “Woman, truly this is a bitter word that thou hast spoken. Who has set my bed elsewhere? Hard would it be for one,"
+    }
+  ]
+}

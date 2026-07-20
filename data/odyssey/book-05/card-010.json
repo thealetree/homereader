@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "χειρί τέ μιν κατέρεξεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 182,
+      "greek": "ἦ δὴ ἀλιτρός γʼ ἐσσὶ καὶ οὐκ ἀποφώλια εἰδώς,"
+    },
+    {
+      "n": 183,
+      "greek": "οἷον δὴ τὸν μῦθον ἐπεφράσθης ἀγορεῦσαι."
+    },
+    {
+      "n": 184,
+      "greek": "ἴστω νῦν τόδε γαῖα καὶ οὐρανὸς εὐρὺς ὕπερθε"
+    },
+    {
+      "n": 185,
+      "greek": "καὶ τὸ κατειβόμενον Στυγὸς ὕδωρ, ὅς τε μέγιστος"
+    },
+    {
+      "n": 186,
+      "greek": "ὅρκος δεινότατός τε πέλει μακάρεσσι θεοῖσι,"
+    },
+    {
+      "n": 187,
+      "greek": "μή τί τοι αὐτῷ πῆμα κακὸν βουλευσέμεν ἄλλο."
+    },
+    {
+      "n": 188,
+      "greek": "ἀλλὰ τὰ μὲν νοέω καὶ φράσσομαι, ἅσσʼ ἂν ἐμοί περ"
+    },
+    {
+      "n": 189,
+      "greek": "αὐτῇ μηδοίμην, ὅτε με χρειὼ τόσον ἵκοι·"
+    },
+    {
+      "n": 190,
+      "greek": "καὶ γὰρ ἐμοὶ νόος ἐστὶν ἐναίσιμος, οὐδέ μοι αὐτῇ"
+    },
+    {
+      "n": 191,
+      "greek": "θυμὸς ἐνὶ στήθεσσι σιδήρεος, ἀλλʼ ἐλεήμων."
+    },
+    {
+      "n": 192,
+      "greek": "ὣς ἄρα φωνήσασʼ ἡγήσατο δῖα θεάων"
+    },
+    {
+      "n": 193,
+      "greek": "καρπαλίμως· ὁ δʼ ἔπειτα μετʼ ἴχνια βαῖνε θεοῖο."
+    },
+    {
+      "n": 194,
+      "greek": "ἷξον δὲ σπεῖος γλαφυρὸν θεὸς ἠδὲ καὶ ἀνήρ,"
+    },
+    {
+      "n": 195,
+      "greek": "καί ῥʼ ὁ μὲν ἔνθα καθέζετʼ ἐπὶ θρόνου ἔνθεν ἀνέστη"
+    },
+    {
+      "n": 196,
+      "greek": "Ἑρμείας, νύμφη δʼ ἐτίθει πάρα πᾶσαν ἐδωδήν,"
+    },
+    {
+      "n": 197,
+      "greek": "ἔσθειν καὶ πίνειν, οἷα βροτοὶ ἄνδρες ἔδουσιν·"
+    },
+    {
+      "n": 198,
+      "greek": "αὐτὴ δʼ ἀντίον ἷζεν Ὀδυσσῆος θείοιο,"
+    },
+    {
+      "n": 199,
+      "greek": "τῇ δὲ παρʼ ἀμβροσίην δμῳαὶ καὶ νέκταρ ἔθηκαν."
+    },
+    {
+      "n": 200,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "and the down-flowing water of the Styx, which is the greatest and most dread oath for the blessed gods, that I will not plot against thee any fresh mischief to thy hurt. Nay, I have such thoughts in mind, and will give such counsel, as I should devise for mine own self, if such need should come on me."
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "For I too have a mind that is righteous, and the heart in this breast of mine is not of iron, but hath compassion.” So saying, the beautiful goddess led the way quickly, and he followed in the footsteps of the goddess. And they came to the hollow cave, the goddess and the man,"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "and he sat down upon the chair from which Hermes had arisen, and the nymph set before him all manner of food to eat and drink, of such sort as mortal men eat. But she herself sat over against divine Odysseus, and before her the handmaids set ambrosia and nectar."
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "So they put forth their hands to the good cheer lying ready before them. But when they had their fill of food and drink, Calypso, the beautiful goddess, was the first to speak, and said: “Son of Laertes, sprung from Zeus, Odysseus of many devices,"
+    }
+  ]
+}

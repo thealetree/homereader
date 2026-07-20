@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἤγερθεν ὁμηγερέες τʼ ἐγένοντο,"
+    },
+    {
+      "n": 422,
+      "greek": "τοῖσιν δʼ Εὐπείθης ἀνά θʼ ἵστατο καὶ μετέειπε·"
+    },
+    {
+      "n": 423,
+      "greek": "παιδὸς γάρ οἱ ἄλαστον ἐνὶ φρεσὶ πένθος ἔκειτο,"
+    },
+    {
+      "n": 424,
+      "greek": "Ἀντινόου, τὸν πρῶτον ἐνήρατο δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 425,
+      "greek": "τοῦ ὅ γε δάκρυ χέων ἀγορήσατο καὶ μετέειπεν·"
+    },
+    {
+      "n": 426,
+      "greek": "ὦ φίλοι, ἦ μέγα ἔργον ἀνὴρ ὅδʼ ἐμήσατʼ Ἀχαιούς·"
+    },
+    {
+      "n": 427,
+      "greek": "τοὺς μὲν σὺν νήεσσιν ἄγων πολέας τε καὶ ἐσθλοὺς"
+    },
+    {
+      "n": 428,
+      "greek": "ὤλεσε μὲν νῆας γλαφυράς, ἀπὸ δʼ ὤλεσε λαούς·"
+    },
+    {
+      "n": 429,
+      "greek": "τοὺς δʼ ἐλθὼν ἔκτεινε Κεφαλλήνων ὄχʼ ἀρίστους,"
+    },
+    {
+      "n": 430,
+      "greek": "ἀλλʼ ἄγετε, πρὶν τοῦτον ἢ ἐς Πύλον ὦκα ἱκέσθαι"
+    },
+    {
+      "n": 431,
+      "greek": "ἢ καὶ ἐς Ἤλιδα δῖαν, ὅθι κρατέουσιν Ἐπειοί,"
+    },
+    {
+      "n": 432,
+      "greek": "ἴομεν· ἦ καὶ ἔπειτα κατηφέες ἐσσόμεθʼ αἰεί·"
+    },
+    {
+      "n": 433,
+      "greek": "λώβη γὰρ τάδε γʼ ἐστὶ καὶ ἐσσομένοισι πυθέσθαι,"
+    },
+    {
+      "n": 434,
+      "greek": "εἰ δὴ μὴ παίδων τε κασιγνήτων τε φονῆας"
+    },
+    {
+      "n": 435,
+      "greek": "τισόμεθʼ. οὐκ ἂν ἐμοί γε μετὰ φρεσὶν ἡδὺ γένοιτο"
+    },
+    {
+      "n": 436,
+      "greek": "ζωέμεν, ἀλλὰ τάχιστα θανὼν φθιμένοισι μετείην."
+    },
+    {
+      "n": 437,
+      "greek": "ἀλλʼ ἴομεν, μὴ φθέωσι περαιωθέντες ἐκεῖνοι."
+    },
+    {
+      "n": 438,
+      "greek": "ὣς φάτο δάκρυ χέων, οἶκτος δʼ ἕλε πάντας Ἀχαιούς."
+    },
+    {
+      "n": 439,
+      "greek": "ἀγχίμολον δέ σφʼ ἦλθε Μέδων καὶ θεῖος ἀοιδὸς"
+    },
+    {
+      "n": 440,
+      "greek": "ἐκ μεγάρων Ὀδυσῆος, ἐπεί σφεας ὕπνος ἀνῆκεν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "Weeping for him he addressed their assembly and said: “Friends, a monstrous deed has this man of a truth devised against the Achaeans. Some he led forth in his ships, many men and goodly, and he has lost his hollow ships and utterly lost his men; and others again has he slain on his return, and these by far the best of the Cephallenians."
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "Nay then, come, before the fellow goes swiftly to Pylos or to goodly Elis, where the Epeans hold sway, let us go forth; verily even in days to come shall we be disgraced forever. For a shame is this even for men that are yet to be to hear of, if we shall not"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "take vengeance on the slayers of our sons and our brothers. To me surely life would then no more be sweet; rather would I die at once and be among the dead. Nay, let us forth, lest they be too quick for us, and cross over the sea.” So he spoke, weeping, and pity laid hold of all the Achaeans. Then near them came Medon and the divine minstrel"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "from the halls of Odysseus, for sleep had released them; and they took their stand in the midst, and wonder seized every man. Then Medon, wise of heart, spoke among them: “Hearken now to me, men of Ithaca, for verily not without the will of the immortal gods has Odysseus devised these deeds."
+    }
+  ]
+}

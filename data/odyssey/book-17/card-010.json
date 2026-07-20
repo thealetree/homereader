@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ἵρευον δὲ σύας σιάλους καὶ βοῦν ἀγελαίην,"
+    },
+    {
+      "n": 182,
+      "greek": "δαῖτʼ ἐντυνόμενοι. τοὶ δʼ ἐξ ἀγροῖο πόλινδε"
+    },
+    {
+      "n": 183,
+      "greek": "ὠτρύνοντʼ Ὀδυσεύς τʼ ἰέναι καὶ δῖος ὑφορβός."
+    },
+    {
+      "n": 184,
+      "greek": "τοῖσι δὲ μύθων ἦρχε συβώτης, ὄρχαμος ἀνδρῶν·"
+    },
+    {
+      "n": 185,
+      "greek": "ξεῖνʼ, ἐπεὶ ἂρ δὴ ἔπειτα πόλινδʼ ἰέναι μενεαίνεις"
+    },
+    {
+      "n": 186,
+      "greek": "σήμερον, ὡς ἐπέτελλεν ἄναξ ἐμός—ἦ σʼ ἂν ἐγώ γε"
+    },
+    {
+      "n": 187,
+      "greek": "αὐτοῦ βουλοίμην σταθμῶν ῥυτῆρα λιπέσθαι·"
+    },
+    {
+      "n": 188,
+      "greek": "ἀλλὰ τὸν αἰδέομαι καὶ δείδια, μή μοι ὀπίσσω"
+    },
+    {
+      "n": 189,
+      "greek": "νεικείῃ· χαλεπαὶ δέ τʼ ἀνάκτων εἰσὶν ὁμοκλαί—"
+    },
+    {
+      "n": 190,
+      "greek": "ἀλλʼ ἄγε νῦν ἴομεν· δὴ γὰρ μέμβλωκε μάλιστα"
+    },
+    {
+      "n": 191,
+      "greek": "ἦμαρ, ἀτὰρ τάχα τοι ποτὶ ἕσπερα ῥίγιον ἔσται."
+    },
+    {
+      "n": 192,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 193,
+      "greek": "γιγνώσκω, φρονέω· τά γε δὴ νοέοντι κελεύεις."
+    },
+    {
+      "n": 194,
+      "greek": "ἀλλʼ ἴομεν, σὺ δʼ ἔπειτα διαμπερὲς ἡγεμόνευε."
+    },
+    {
+      "n": 195,
+      "greek": "δὸς δέ μοι, εἴ ποθί τοι ῥόπαλον τετμημένον ἐστίν,"
+    },
+    {
+      "n": 196,
+      "greek": "σκηρίπτεσθʼ, ἐπεὶ ἦ φατʼ ἀρισφαλέʼ ἔμμεναι οὐδόν."
+    },
+    {
+      "n": 197,
+      "greek": "ἦ ῥα καὶ ἀμφʼ ὤμοισιν ἀεικέα βάλλετο πήρην,"
+    },
+    {
+      "n": 198,
+      "greek": "πυκνὰ ῥωγαλέην· ἐν δὲ στρόφος ἦεν ἀορτήρ·"
+    },
+    {
+      "n": 199,
+      "greek": "Εὔμαιος δʼ ἄρα οἱ σκῆπτρον θυμαρὲς ἔδωκε."
+    },
+    {
+      "n": 200,
+      "greek": "τὼ βήτην, σταθμὸν δὲ κύνες καὶ βώτορες ἄνδρες"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "“Stranger, since thou art eager to go the city today, as my master bade—though for myself I would rather have thee left here to keep the farmstead; but I reverence and fear him, lest hereafter he chide me, and hard are the rebukes of masters—"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "come now, let us go. The day is far spent, and soon thou wilt find it colder toward evening.” Then Odysseus of many wiles answered him, and said: “I see, I give heed; this thou biddest one with understanding. Come, let us go, and be thou my guide all the way."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "But give me a staff to lean upon, if thou hast one cut anywhere, for verily ye said that the way was treacherous.” He spoke, and flung about his shoulders his miserable wallet, full of holes, slung by a twisted cord, and Eumaeus gave him a staff to his liking."
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "So they two set forth, and the dogs and the herdsmen stayed behind to guard the farmstead; but the swineherd led his master to the city in the likeness of a woeful and aged beggar, leaning on a staff; and miserable was the raiment that he wore about his body. But when, as they went along the rugged path,"
+    }
+  ]
+}

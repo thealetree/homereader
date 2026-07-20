@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "ἤλυθεν ἐκ θαλάμοιο φέρων, ἑτέρῃ δʼ ἔχεν οὐλὰς"
+    },
+    {
+      "n": 442,
+      "greek": "ἐν κανέῳ πέλεκυν δὲ μενεπτόλεμος Θρασυμήδης"
+    },
+    {
+      "n": 443,
+      "greek": "ὀξὺν ἔχων ἐν χειρὶ παρίστατο βοῦν ἐπικόψων."
+    },
+    {
+      "n": 444,
+      "greek": "Περσεὺς δʼ ἀμνίον εἶχε· γέρων δʼ ἱππηλάτα Νέστωρ"
+    },
+    {
+      "n": 445,
+      "greek": "χέρνιβά τʼ οὐλοχύτας τε κατήρχετο, πολλὰ δʼ Ἀθήνῃ"
+    },
+    {
+      "n": 446,
+      "greek": "εὔχετʼ ἀπαρχόμενος, κεφαλῆς τρίχας ἐν πυρὶ βάλλων."
+    },
+    {
+      "n": 447,
+      "greek": "αὐτὰρ ἐπεί ῥʼ εὔξαντο καὶ οὐλοχύτας προβάλοντο,"
+    },
+    {
+      "n": 448,
+      "greek": "αὐτίκα Νέστορος υἱὸς ὑπέρθυμος Θρασυμήδης"
+    },
+    {
+      "n": 449,
+      "greek": "ἤλασεν ἄγχι στάς· πέλεκυς δʼ ἀπέκοψε τένοντας"
+    },
+    {
+      "n": 450,
+      "greek": "αὐχενίους, λῦσεν δὲ βοὸς μένος. αἱ δʼ ὀλόλυξαν"
+    },
+    {
+      "n": 451,
+      "greek": "θυγατέρες τε νυοί τε καὶ αἰδοίη παράκοιτις"
+    },
+    {
+      "n": 452,
+      "greek": "Νέστορος, Εὐρυδίκη, πρέσβα Κλυμένοιο θυγατρῶν."
+    },
+    {
+      "n": 453,
+      "greek": "οἱ μὲν ἔπειτʼ ἀνελόντες ἀπὸ χθονὸς εὐρυοδείης"
+    },
+    {
+      "n": 454,
+      "greek": "ἔσχον· ἀτὰρ σφάξεν Πεισίστρατος, ὄρχαμος ἀνδρῶν."
+    },
+    {
+      "n": 455,
+      "greek": "τῆς δʼ ἐπεὶ ἐκ μέλαν αἷμα ῥύη, λίπε δʼ ὀστέα θυμός,"
+    },
+    {
+      "n": 456,
+      "greek": "αἶψʼ ἄρα μιν διέχευαν, ἄφαρ δʼ ἐκ μηρία τάμνον"
+    },
+    {
+      "n": 457,
+      "greek": "πάντα κατὰ μοῖραν, κατά τε κνίσῃ ἐκάλυψαν"
+    },
+    {
+      "n": 458,
+      "greek": "δίπτυχα ποιήσαντες, ἐπʼ αὐτῶν δʼ ὠμοθέτησαν."
+    },
+    {
+      "n": 459,
+      "greek": "καῖε δʼ ἐπὶ σχίζῃς ὁ γέρων, ἐπὶ δʼ αἴθοπα οἶνον"
+    },
+    {
+      "n": 460,
+      "greek": "λεῖβε· νέοι δὲ παρʼ αὐτὸν ἔχον πεμπώβολα χερσίν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "began the opening rite of hand-washing and sprinkling with barley grains, and earnestly he prayed to Athena, cutting off as first offering the hair from the head, and casting it into the fire. Now when they had prayed, and had strewn the barley grains, straightway the son of Nestor, Thrasymedes, high of heart, came near and dealt the blow; and the axe cut through the sinews"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "of the neck, and loosened the strength of the heifer. Then the women raised the sacred cry, the daughters and the sons' wives and the revered wife of Nestor, Eurydice, the eldest of the daughters of Clymenus, and the men raised the heifer's head from the broad-wayed earth and held it, and Peisistratus, leader of men, cut the throat."
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "And when the black blood had flowed from her and the life had left the bones, at once they cut up the body and straightway cut out the thigh-pieces all in due order, and covered them with a double layer of fat, and laid raw flesh upon them. Then the old man burned them on billets of wood, and poured over them sparkling wine,"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "and beside him the young men held in their hands the five-pronged forks. But when the thigh-pieces were wholly burned, and they had tasted the inner parts, they cut up the rest and spitted and roasted it, holding the pointed spits in their hands. Meanwhile the fair Polycaste,"
+    }
+  ]
+}

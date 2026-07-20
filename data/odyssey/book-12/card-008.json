@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "ὀψὲ κακῶς νεῖαι, ὀλέσας ἄπο πάντας ἑταίρους."
+    },
+    {
+      "n": 142,
+      "greek": "ὣς ἔφατʼ, αὐτίκα δὲ χρυσόθρονος ἤλυθεν Ἠώς."
+    },
+    {
+      "n": 143,
+      "greek": "ἡ μὲν ἔπειτʼ ἀνὰ νῆσον ἀπέστιχε δῖα θεάων·"
+    },
+    {
+      "n": 144,
+      "greek": "αὐτὰρ ἐγὼν ἐπὶ νῆα κιὼν ὤτρυνον ἑταίρους"
+    },
+    {
+      "n": 145,
+      "greek": "αὐτούς τʼ ἀμβαίνειν ἀνά τε πρυμνήσια λῦσαι·"
+    },
+    {
+      "n": 146,
+      "greek": "οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον."
+    },
+    {
+      "n": 147,
+      "greek": "ἑξῆς δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς."
+    },
+    {
+      "n": 148,
+      "greek": "ἡμῖν δʼ αὖ κατόπισθε νεὸς κυανοπρῴροιο"
+    },
+    {
+      "n": 149,
+      "greek": "ἴκμενον οὖρον ἵει πλησίστιον, ἐσθλὸν ἑταῖρον,"
+    },
+    {
+      "n": 150,
+      "greek": "Κίρκη ἐυπλόκαμος, δεινὴ θεὸς αὐδήεσσα."
+    },
+    {
+      "n": 151,
+      "greek": "αὐτίκα δʼ ὅπλα ἕκαστα πονησάμενοι κατὰ νῆα"
+    },
+    {
+      "n": 152,
+      "greek": "ἥμεθα· τὴν δʼ ἄνεμός τε κυβερνήτης τʼ ἴθυνε."
+    },
+    {
+      "n": 153,
+      "greek": "δὴ τότʼ ἐγὼν ἑτάροισι μετηύδων ἀχνύμενος κῆρ·"
+    },
+    {
+      "n": 154,
+      "greek": "ὦ φίλοι, οὐ γὰρ χρὴ ἕνα ἴδμεναι οὐδὲ δύʼ οἴους"
+    },
+    {
+      "n": 155,
+      "greek": "θέσφαθʼ ἅ μοι Κίρκη μυθήσατο, δῖα θεάων·"
+    },
+    {
+      "n": 156,
+      "greek": "ἀλλʼ ἐρέω μὲν ἐγών, ἵνα εἰδότες ἤ κε θάνωμεν"
+    },
+    {
+      "n": 157,
+      "greek": "ἤ κεν ἀλευάμενοι θάνατον καὶ κῆρα φύγοιμεν."
+    },
+    {
+      "n": 158,
+      "greek": "Σειρήνων μὲν πρῶτον ἀνώγει θεσπεσιάων"
+    },
+    {
+      "n": 159,
+      "greek": "φθόγγον ἀλεύασθαι καὶ λειμῶνʼ ἀνθεμόεντα."
+    },
+    {
+      "n": 160,
+      "greek": "οἶον ἔμʼ ἠνώγει ὄπʼ ἀκουέμεν· ἀλλά με δεσμῷ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "themselves to embark and to loose the stern cables. So they went on board straightway and sat down upon the benches, and sitting well in order smote the grey sea with their oars. And for our aid in the wake of our dark-prowed ship a fair wind that filled the sail, a goodly comrade, was sent"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "by fair-tressed Circe, dread goddess of human speech. So when we had straightway made fast all the tackling throughout the ship we sat down, but the wind and the helmsman guided the ship. “Then verily I spoke among my comrades, grieved at heart: ‘Friends, since it is not right that one or two alone should know"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "the oracles that Circe, the beautiful goddess, told me, therefore will I tell them, in order that knowing them we may either die or, shunning death and fate, escape. First she bade us avoid the voice of the wondrous Sirens, and their flowery meadow."
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "Me alone she bade to listen to their voice; but do ye bind me with grievous bonds, that I may abide fast where I am, upright in the step of the mast, and let the ropes be made fast at the ends to the mast itself; and if I implore and bid you to loose me, then do ye tie me fast with yet more bonds.’"
+    }
+  ]
+}

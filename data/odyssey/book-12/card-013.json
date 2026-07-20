@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "πᾶσʼ ἔντοσθε φάνεσκε κυκωμένη, ἀμφὶ δὲ πέτρη"
+    },
+    {
+      "n": 242,
+      "greek": "δεινὸν ἐβεβρύχει, ὑπένερθε δὲ γαῖα φάνεσκε"
+    },
+    {
+      "n": 243,
+      "greek": "ψάμμῳ κυανέη· τοὺς δὲ χλωρὸν δέος ᾕρει."
+    },
+    {
+      "n": 244,
+      "greek": "ἡμεῖς μὲν πρὸς τὴν ἴδομεν δείσαντες ὄλεθρον·"
+    },
+    {
+      "n": 245,
+      "greek": "τόφρα δέ μοι Σκύλλη γλαφυρῆς ἐκ νηὸς ἑταίρους"
+    },
+    {
+      "n": 246,
+      "greek": "ἓξ ἕλεθʼ, οἳ χερσίν τε βίηφί τε φέρτατοι ἦσαν."
+    },
+    {
+      "n": 247,
+      "greek": "σκεψάμενος δʼ ἐς νῆα θοὴν ἅμα καὶ μεθʼ ἑταίρους"
+    },
+    {
+      "n": 248,
+      "greek": "ἤδη τῶν ἐνόησα πόδας καὶ χεῖρας ὕπερθεν"
+    },
+    {
+      "n": 249,
+      "greek": "ὑψόσʼ ἀειρομένων· ἐμὲ δὲ φθέγγοντο καλεῦντες"
+    },
+    {
+      "n": 250,
+      "greek": "ἐξονομακλήδην, τότε γʼ ὕστατον, ἀχνύμενοι κῆρ."
+    },
+    {
+      "n": 251,
+      "greek": "ὡς δʼ ὅτʼ ἐπὶ προβόλῳ ἁλιεὺς περιμήκεϊ ῥάβδῳ"
+    },
+    {
+      "n": 252,
+      "greek": "ἰχθύσι τοῖς ὀλίγοισι δόλον κατὰ εἴδατα βάλλων"
+    },
+    {
+      "n": 253,
+      "greek": "ἐς πόντον προΐησι βοὸς κέρας ἀγραύλοιο,"
+    },
+    {
+      "n": 254,
+      "greek": "ἀσπαίροντα δʼ ἔπειτα λαβὼν ἔρριψε θύραζε,"
+    },
+    {
+      "n": 255,
+      "greek": "ὣς οἵ γʼ ἀσπαίροντες ἀείροντο προτὶ πέτρας·"
+    },
+    {
+      "n": 256,
+      "greek": "αὐτοῦ δʼ εἰνὶ θύρῃσι κατήσθιε κεκληγῶτας"
+    },
+    {
+      "n": 257,
+      "greek": "χεῖρας ἐμοὶ ὀρέγοντας ἐν αἰνῇ δηιοτῆτι·"
+    },
+    {
+      "n": 258,
+      "greek": "οἴκτιστον δὴ κεῖνο ἐμοῖς ἴδον ὀφθαλμοῖσι"
+    },
+    {
+      "n": 259,
+      "greek": "πάντων, ὅσσʼ ἐμόγησα πόρους ἁλὸς ἐξερεείνων."
+    },
+    {
+      "n": 260,
+      "greek": "αὐτὰρ ἐπεὶ πέτρας φύγομεν δεινήν τε Χάρυβδιν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "but meanwhile Scylla seized from out the hollow ship six of my comrades who were the best in strength and in might. Turning my eyes to the swift ship and to the company of my men, even then I noted above me their feet and hands as they were raised aloft. To me they cried aloud, calling upon me"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "by name for that last time in anguish of heart. And as a fisher on a jutting rock, when he casts in his baits as a snare to the little fishes, with his long pole lets down into the sea the horn of an ox of the steading, and then as he catches a fish flings it writhing ashore,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "even so were they drawn writhing up towards the cliffs. Then at her doors she devoured them shrieking and stretching out their hands toward me in their awful death-struggle. Most piteous did mine eyes behold that thing of all that I bore while I explored the paths of the sea."
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "“Now when we had escaped the rocks, and dread Charybdis and Scylla, presently then we came to the goodly island of the god, where were the fair kine, broad of brow, and the many goodly flocks of Helios Hyperion. Then while I was still out at sea in my black ship,"
+    }
+  ]
+}

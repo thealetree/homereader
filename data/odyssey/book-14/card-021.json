@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσεφώνεε δῖος ὑφορβός·"
+    },
+    {
+      "n": 402,
+      "greek": "ξεῖνʼ, οὕτω γάρ κέν μοι ἐϋκλείη τʼ ἀρετή τε"
+    },
+    {
+      "n": 403,
+      "greek": "εἴη ἐπʼ ἀνθρώπους ἅμα τʼ αὐτίκα καὶ μετέπειτα,"
+    },
+    {
+      "n": 404,
+      "greek": "ὅς σʼ ἐπεὶ ἐς κλισίην ἄγαγον καὶ ξείνια δῶκα,"
+    },
+    {
+      "n": 405,
+      "greek": "αὖτις δὲ κτείναιμι φίλον τʼ ἀπὸ θυμὸν ἑλοίμην·"
+    },
+    {
+      "n": 406,
+      "greek": "πρόφρων κεν δὴ ἔπειτα Δία Κρονίωνα λιτοίμην."
+    },
+    {
+      "n": 407,
+      "greek": "νῦν δʼ ὥρη δόρποιο· τάχιστά μοι ἔνδον ἑταῖροι"
+    },
+    {
+      "n": 408,
+      "greek": "εἶεν, ἵνʼ ἐν κλισίῃ λαρὸν τετυκοίμεθα δόρπον."
+    },
+    {
+      "n": 409,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    },
+    {
+      "n": 410,
+      "greek": "ἀγχίμολον δὲ σύες τε καὶ ἀνέρες ἦλθον ὑφορβοί."
+    },
+    {
+      "n": 411,
+      "greek": "τὰς μὲν ἄρα ἔρξαν κατὰ ἤθεα κοιμηθῆναι,"
+    },
+    {
+      "n": 412,
+      "greek": "κλαγγὴ δʼ ἄσπετος ὦρτο συῶν αὐλιζομενάων"
+    },
+    {
+      "n": 413,
+      "greek": "αὐτὰρ ὁ οἷς ἑτάροισιν ἐκέκλετο δῖος ὑφορβός·"
+    },
+    {
+      "n": 414,
+      "greek": "ἄξεθʼ ὑῶν τὸν ἄριστον, ἵνα ξείνῳ ἱερεύσω"
+    },
+    {
+      "n": 415,
+      "greek": "τηλεδαπῷ· πρὸς δʼ αὐτοὶ ὀνησόμεθʼ, οἵ περ ὀϊζὺν"
+    },
+    {
+      "n": 416,
+      "greek": "δὴν ἔχομεν πάσχοντες ὑῶν ἕνεκʼ ἀργιοδόντων·"
+    },
+    {
+      "n": 417,
+      "greek": "ἄλλοι δʼ ἡμέτερον κάματον νήποινον ἔδουσιν."
+    },
+    {
+      "n": 418,
+      "greek": "ὣς ἄρα φωνήσας κέασε ξύλα νηλέϊ χαλκῷ,"
+    },
+    {
+      "n": 419,
+      "greek": "οἱ δʼ ὗν εἰσῆγον μάλα πίονα πενταέτηρον."
+    },
+    {
+      "n": 420,
+      "greek": "τὸν μὲν ἔπειτʼ ἔστησαν ἐπʼ ἐσχάρῃ· οὐδὲ συβώτης"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "should then slay thee, and take away thy dear life. With a ready heart thereafter should I pray to Zeus, son of Cronos. But it is now time for supper, and may my comrades soon be here, that we may make ready a savoury supper in the hut.” Thus they spoke to one another,"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "and the swine and the swineherds drew near. The sows they shut up to sleep in their wonted sties, and a wondrous noise arose from them, as they were penned. Then the goodly swineherd called to his comrades saying: “Bring forth the best of the boars, that I may slaughter him for the stranger"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "who comes from afar, and we too shall have some profit therefrom, who have long borne toil and suffering for the sake of the white-tusked swine, while others devour our labour without atonement.” So saying, he split wood with the pitiless bronze, and the others brought in a fatted boar of five years old,"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "and set him by the hearth. Nor did the swineherd forget the immortals, for he had an understanding heart, but as a first offering he cast into the fire bristles from the head of the white-tusked boar, and made prayer to all the gods that wise Odysseus might return to his own house."
+    }
+  ]
+}

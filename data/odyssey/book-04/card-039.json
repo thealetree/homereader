@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 39,
+  "lineStart": 761,
+  "lineEnd": 780,
+  "lines": [
+    {
+      "n": 761,
+      "greek": "ἐν δʼ ἔθετʼ οὐλοχύτας κανέῳ, ἠρᾶτο δʼ Ἀθήνῃ·"
+    },
+    {
+      "n": 762,
+      "greek": "κλῦθί μευ, αἰγιόχοιο Διὸς τέκος, Ἀτρυτώνη,"
+    },
+    {
+      "n": 763,
+      "greek": "εἴ ποτέ τοι πολύμητις ἐνὶ μεγάροισιν Ὀδυσσεὺς"
+    },
+    {
+      "n": 764,
+      "greek": "ἢ βοὸς ἢ ὄϊος κατὰ πίονα μηρίʼ ἔκηε,"
+    },
+    {
+      "n": 765,
+      "greek": "τῶν νῦν μοι μνῆσαι, καί μοι φίλον υἷα σάωσον,"
+    },
+    {
+      "n": 766,
+      "greek": "μνηστῆρας δʼ ἀπάλαλκε κακῶς ὑπερηνορέοντας."
+    },
+    {
+      "n": 767,
+      "greek": "ὣς εἰποῦσʼ ὀλόλυξε, θεὰ δέ οἱ ἔκλυεν ἀρῆς."
+    },
+    {
+      "n": 768,
+      "greek": "μνηστῆρες δʼ ὁμάδησαν ἀνὰ μέγαρα σκιόεντα·"
+    },
+    {
+      "n": 769,
+      "greek": "ὧδε δέ τις εἴπεσκε νέων ὑπερηνορεόντων·"
+    },
+    {
+      "n": 770,
+      "greek": "ἦ μάλα δὴ γάμον ἄμμι πολυμνήστη βασίλεια"
+    },
+    {
+      "n": 771,
+      "greek": "ἀρτύει, οὐδέ τι οἶδεν ὅ οἱ φόνος υἷι τέτυκται."
+    },
+    {
+      "n": 772,
+      "greek": "ὣς ἄρα τις εἴπεσκε, τὰ δʼ οὐκ ἴσαν ὡς ἐτέτυκτο."
+    },
+    {
+      "n": 773,
+      "greek": "τοῖσιν δʼ Ἀντίνοος ἀγορήσατο καὶ μετέειπε·"
+    },
+    {
+      "n": 774,
+      "greek": "δαιμόνιοι, μύθους μὲν ὑπερφιάλους ἀλέασθε"
+    },
+    {
+      "n": 775,
+      "greek": "πάντας ὁμῶς, μή πού τις ἀπαγγείλῃσι καὶ εἴσω."
+    },
+    {
+      "n": 776,
+      "greek": "ἀλλʼ ἄγε σιγῇ τοῖον ἀναστάντες τελέωμεν"
+    },
+    {
+      "n": 777,
+      "greek": "μῦθον, ὃ δὴ καὶ πᾶσιν ἐνὶ φρεσὶν ἤραρεν ἡμῖν."
+    },
+    {
+      "n": 778,
+      "greek": "ὣς εἰπὼν ἐκρίνατʼ ἐείκοσι φῶτας ἀρίστους,"
+    },
+    {
+      "n": 779,
+      "greek": "βὰν δʼ ἰέναι ἐπὶ νῆα θοὴν καὶ θῖνα θαλάσσης."
+    },
+    {
+      "n": 780,
+      "greek": "νῆα μὲν οὖν πάμπρωτον ἁλὸς βένθοσδε ἔρυσσαν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        765,
+        769
+      ],
+      "text": "remember these things now, I pray thee, and save my dear son, and ward off from him the wooers in their evil insolence.” So saying she raised the sacred cry, and the goddess heard her prayer. But the wooers broke into uproar throughout the shadowy halls, and thus would one of the proud youths speak:"
+    },
+    {
+      "lines": [
+        770,
+        774
+      ],
+      "text": "“Aye, verily the queen, wooed of many, is preparing our marriage, nor does she know at all that death has been made ready for her son.” So would one of them speak; but they knew not how these things were to be. And Antinous addressed their company, and said: “Good sirs, shun haughty speech"
+    },
+    {
+      "lines": [
+        775,
+        779
+      ],
+      "text": "of every kind alike, lest someone report your speech even within the house. Nay come, in silence thus let us arise and put into effect our plan which pleased us one and all at heart.” So he spoke, and chose twenty men that were best, and they went their way to the swift ship and the shore of the sea."
+    },
+    {
+      "lines": [
+        780,
+        780
+      ],
+      "text": "The ship first of all they drew down to the deep water, and set the mast and sail in the black ship, and fitted the oars in the leathern thole-straps, all in due order, and spread the white sail. And proud squires brought them their weapons."
+    }
+  ]
+}

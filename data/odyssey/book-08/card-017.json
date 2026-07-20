@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἀγέροντο θεοὶ ποτὶ χαλκοβατὲς δῶ·"
+    },
+    {
+      "n": 322,
+      "greek": "ἦλθε Ποσειδάων γαιήοχος, ἦλθʼ ἐριούνης"
+    },
+    {
+      "n": 323,
+      "greek": "Ἑρμείας, ἦλθεν δὲ ἄναξ ἑκάεργος Ἀπόλλων."
+    },
+    {
+      "n": 324,
+      "greek": "θηλύτεραι δὲ θεαὶ μένον αἰδοῖ οἴκοι ἑκάστη."
+    },
+    {
+      "n": 325,
+      "greek": "ἔσταν δʼ ἐν προθύροισι θεοί, δωτῆρες ἑάων·"
+    },
+    {
+      "n": 326,
+      "greek": "ἄσβεστος δʼ ἄρʼ ἐνῶρτο γέλως μακάρεσσι θεοῖσι"
+    },
+    {
+      "n": 327,
+      "greek": "τέχνας εἰσορόωσι πολύφρονος Ἡφαίστοιο."
+    },
+    {
+      "n": 328,
+      "greek": "ὧδε δέ τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄλλον·"
+    },
+    {
+      "n": 329,
+      "greek": "οὐκ ἀρετᾷ κακὰ ἔργα· κιχάνει τοι βραδὺς ὠκύν,"
+    },
+    {
+      "n": 330,
+      "greek": "ὡς καὶ νῦν Ἥφαιστος ἐὼν βραδὺς εἷλεν Ἄρηα"
+    },
+    {
+      "n": 331,
+      "greek": "ὠκύτατόν περ ἐόντα θεῶν οἳ Ὄλυμπον ἔχουσιν,"
+    },
+    {
+      "n": 332,
+      "greek": "χωλὸς ἐὼν τέχνῃσι· τὸ καὶ μοιχάγριʼ ὀφέλλει."
+    },
+    {
+      "n": 333,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον·"
+    },
+    {
+      "n": 334,
+      "greek": "Ἑρμῆν δὲ προσέειπεν ἄναξ Διὸς υἱὸς Ἀπόλλων·"
+    },
+    {
+      "n": 335,
+      "greek": "Ἑρμεία, Διὸς υἱέ, διάκτορε, δῶτορ ἑάων,"
+    },
+    {
+      "n": 336,
+      "greek": "ἦ ῥά κεν ἐν δεσμοῖς ἐθέλοις κρατεροῖσι πιεσθεὶς"
+    },
+    {
+      "n": 337,
+      "greek": "εὕδειν ἐν λέκτροισι παρὰ χρυσέῃ Ἀφροδίτῃ;"
+    },
+    {
+      "n": 338,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα διάκτορος ἀργεϊφόντης·"
+    },
+    {
+      "n": 339,
+      "greek": "αἲ γὰρ τοῦτο γένοιτο, ἄναξ ἑκατηβόλʼ Ἄπολλον·"
+    },
+    {
+      "n": 340,
+      "greek": "δεσμοὶ μὲν τρὶς τόσσοι ἀπείρονες ἀμφὶς ἔχοιεν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "but the gods, the givers of good things, stood in the gateway; and unquenchable laughter arose among the blessed gods as they saw the craft of wise Hephaestus. And thus would one speak, with a glance at his neighbor: “Ill deeds thrive not. The slow catches the swift;"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "even as now Hephaestus, slow though he is, has out-stripped Ares for all that he is the swiftest of the gods who hold Olympus. Lame though he is, he has caught him by craft, wherefore Ares owes the fine of the adulterer.” Thus they spoke to one another. But to Hermes the lord Apollo, son of Zeus, said:"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "“Hermes, son of Zeus, messenger, giver of good things, wouldst thou in sooth be willing, even though ensnared with strong bonds, to lie on a couch by the side of golden Aphrodite?” Then the messenger, Argeiphontes, answered him:“Would that this might befall, lord Apollo, thou archer god—"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "that thrice as many bonds inextricable might clasp me about and ye gods, aye, and all the goddesses too might be looking on, but that I might sleep by the side of golden Aphrodite.” So he spoke and laughter arose among the immortal gods. Yet Poseidon laughed not, but ever besought"
+    }
+  ]
+}

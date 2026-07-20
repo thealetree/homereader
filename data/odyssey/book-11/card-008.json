@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "μητρὸς τήνδʼ ὁρόω ψυχὴν κατατεθνηυίης·"
+    },
+    {
+      "n": 142,
+      "greek": "ἡ δʼ ἀκέουσʼ ἧσται σχεδὸν αἵματος, οὐδʼ ἑὸν υἱὸν"
+    },
+    {
+      "n": 143,
+      "greek": "ἔτλη ἐσάντα ἰδεῖν οὐδὲ προτιμυθήσασθαι."
+    },
+    {
+      "n": 144,
+      "greek": "εἰπέ, ἄναξ, πῶς κέν με ἀναγνοίη τὸν ἐόντα;"
+    },
+    {
+      "n": 145,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 146,
+      "greek": "ῥηΐδιόν τοι ἔπος ἐρέω καὶ ἐπὶ φρεσὶ θήσω."
+    },
+    {
+      "n": 147,
+      "greek": "ὅν τινα μέν κεν ἐᾷς νεκύων κατατεθνηώτων"
+    },
+    {
+      "n": 148,
+      "greek": "αἵματος ἆσσον ἴμεν, ὁ δέ τοι νημερτὲς ἐνίψει·"
+    },
+    {
+      "n": 149,
+      "greek": "ᾧ δέ κʼ ἐπιφθονέῃς, ὁ δέ τοι πάλιν εἶσιν ὀπίσσω."
+    },
+    {
+      "n": 150,
+      "greek": "ὣς φαμένη ψυχὴ μὲν ἔβη δόμον Ἄϊδος εἴσω"
+    },
+    {
+      "n": 151,
+      "greek": "Τειρεσίαο ἄνακτος, ἐπεὶ κατὰ θέσφατʼ ἔλεξεν·"
+    },
+    {
+      "n": 152,
+      "greek": "αὐτὰρ ἐγὼν αὐτοῦ μένον ἔμπεδον, ὄφρʼ ἐπὶ μήτηρ"
+    },
+    {
+      "n": 153,
+      "greek": "ἤλυθε καὶ πίεν αἷμα κελαινεφές· αὐτίκα δʼ ἔγνω,"
+    },
+    {
+      "n": 154,
+      "greek": "καί μʼ ὀλοφυρομένη ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 155,
+      "greek": "τέκνον ἐμόν, πῶς ἦλθες ὑπὸ ζόφον ἠερόεντα"
+    },
+    {
+      "n": 156,
+      "greek": "ζωὸς ἐών; χαλεπὸν δὲ τάδε ζωοῖσιν ὁρᾶσθαι."
+    },
+    {
+      "n": 157,
+      "greek": "μέσσῳ γὰρ μεγάλοι ποταμοὶ καὶ δεινὰ ῥέεθρα,"
+    },
+    {
+      "n": 158,
+      "greek": "Ὠκεανὸς μὲν πρῶτα, τὸν οὔ πως ἔστι περῆσαι"
+    },
+    {
+      "n": 159,
+      "greek": "πεζὸν ἐόντʼ, ἢν μή τις ἔχῃ ἐυεργέα νῆα."
+    },
+    {
+      "n": 160,
+      "greek": "ἦ νῦν δὴ Τροίηθεν ἀλώμενος ἐνθάδʼ ἱκάνεις"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "“So I spoke, and he straightway made answer, and said: ‘Easy is the word that I shall say and put in thy mind. Whomsoever of those that are dead and gone thou shalt suffer to draw near the blood, he will tell thee sooth; but whomsoever thou refusest, he surely will go back again.’"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "“So saying the spirit of the prince, Teiresias, went back into the house of Hades, when he had declared his prophecies; but I remained there steadfastly until my mother came up and drank the dark blood. At once then she knew me, and with wailing she spoke to me winged words:"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "“‘My child, how didst thou come beneath the murky darkness, being still alive? Hard is it for those that live to behold these realms, for between are great rivers and dread streams; Oceanus first, which one may in no wise cross on foot, but only if one have a well-built ship."
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "Art thou but now come hither from Troy after long wanderings with thy ship and thy companions? and hast thou not yet reached Ithaca, nor seen thy wife in thy halls?’ “So she spoke, and I made answer and said: ‘My mother, necessity brought me down to the house of Hades,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "ἀλλʼ ἄγε νῦν ἐμέθεν ξυνίει ἔπος, ὄφρα καὶ ἄλλῳ"
+    },
+    {
+      "n": 242,
+      "greek": "εἴπῃς ἡρώων, ὅτε κεν σοῖς ἐν μεγάροισι"
+    },
+    {
+      "n": 243,
+      "greek": "δαινύῃ παρὰ σῇ τʼ ἀλόχῳ καὶ σοῖσι τέκεσσιν,"
+    },
+    {
+      "n": 244,
+      "greek": "ἡμετέρης ἀρετῆς μεμνημένος, οἷα καὶ ἡμῖν"
+    },
+    {
+      "n": 245,
+      "greek": "Ζεὺς ἐπὶ ἔργα τίθησι διαμπερὲς ἐξ ἔτι πατρῶν."
+    },
+    {
+      "n": 246,
+      "greek": "οὐ γὰρ πυγμάχοι εἰμὲν ἀμύμονες οὐδὲ παλαισταί,"
+    },
+    {
+      "n": 247,
+      "greek": "ἀλλὰ ποσὶ κραιπνῶς θέομεν καὶ νηυσὶν ἄριστοι,"
+    },
+    {
+      "n": 248,
+      "greek": "αἰεὶ δʼ ἡμῖν δαίς τε φίλη κίθαρις τε χοροί τε"
+    },
+    {
+      "n": 249,
+      "greek": "εἵματά τʼ ἐξημοιβὰ λοετρά τε θερμὰ καὶ εὐναί."
+    },
+    {
+      "n": 250,
+      "greek": "ἀλλʼ ἄγε, Φαιήκων βητάρμονες ὅσσοι ἄριστοι,"
+    },
+    {
+      "n": 251,
+      "greek": "παίσατε, ὥς χʼ ὁ ξεῖνος ἐνίσπῃ οἷσι φίλοισιν"
+    },
+    {
+      "n": 252,
+      "greek": "οἴκαδε νοστήσας, ὅσσον περιγιγνόμεθʼ ἄλλων"
+    },
+    {
+      "n": 253,
+      "greek": "ναυτιλίῃ καὶ ποσσὶ καὶ ὀρχηστυῖ καὶ ἀοιδῇ."
+    },
+    {
+      "n": 254,
+      "greek": "Δημοδόκῳ δέ τις αἶψα κιὼν φόρμιγγα λίγειαν"
+    },
+    {
+      "n": 255,
+      "greek": "οἰσέτω, ἥ που κεῖται ἐν ἡμετέροισι δόμοισιν."
+    },
+    {
+      "n": 256,
+      "greek": "ὣς ἔφατʼ Ἀλκίνοος θεοείκελος, ὦρτο δὲ κῆρυξ"
+    },
+    {
+      "n": 257,
+      "greek": "οἴσων φόρμιγγα γλαφυρὴν δόμου ἐκ βασιλῆος."
+    },
+    {
+      "n": 258,
+      "greek": "αἰσυμνῆται δὲ κριτοὶ ἐννέα πάντες ἀνέσταν"
+    },
+    {
+      "n": 259,
+      "greek": "δήμιοι, οἳ κατʼ ἀγῶνας ἐὺ πρήσσεσκον ἕκαστα,"
+    },
+    {
+      "n": 260,
+      "greek": "λείηναν δὲ χορόν, καλὸν δʼ εὔρυναν ἀγῶνα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "Zeus has vouchsafed to us from our fathers' days even until now. For we are not faultless boxers or wrestlers, but in the foot race we run swiftly, and we are the best seamen; and ever to us is the banquet dear, and the lyre, and the dance, and changes of raiment, and warm baths, and the couch."
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "But come now, all ye that are the best dancers of the Phaeacians, make sport, that the stranger may tell his friends on reaching home how far we surpass others in seamanship and in fleetness of foot, and in the dance and in song. And let one go straightway"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "and fetch for Demodocus the clear-toned lyre which lies somewhere in our halls.” So spoke Alcinous the godlike, and the herald rose to fetch the hollow lyre from the palace of the king. Then stood up masters of the lists, nine in all, men chosen from out the people, who in their gatherings were wont to order all things aright."
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "They levelled a place for the dance, and marked out a fair wide ring, and the herald came near, bearing the clear-toned lyre for Demodocus. He then moved into the midst, and around him stood boys in the first bloom of youth, well skilled in the dance, and they smote the goodly dancing floor with their feet. And Odysseus"
+    }
+  ]
+}

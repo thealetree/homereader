@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ὀψὲ δὲ δὴ μετέειπε Δαμαστορίδης Ἀγέλαος·"
+    },
+    {
+      "n": 322,
+      "greek": "ὦ φίλοι, οὐκ ἂν δή τις ἐπὶ ῥηθέντι δικαίῳ"
+    },
+    {
+      "n": 323,
+      "greek": "ἀντιβίοις ἐπέεσσι καθαπτόμενος χαλεπαίνοι·"
+    },
+    {
+      "n": 324,
+      "greek": "μήτε τι τὸν ξεῖνον στυφελίζετε μήτε τινʼ ἄλλον"
+    },
+    {
+      "n": 325,
+      "greek": "δμώων, οἳ κατὰ δώματʼ Ὀδυσσῆος θείοιο."
+    },
+    {
+      "n": 326,
+      "greek": "Τηλεμάχῳ δέ κε μῦθον ἐγὼ καὶ μητέρι φαίην"
+    },
+    {
+      "n": 327,
+      "greek": "ἤπιον, εἴ σφωϊν κραδίῃ ἅδοι ἀμφοτέροιϊν."
+    },
+    {
+      "n": 328,
+      "greek": "ὄφρα μὲν ὑμῖν θυμὸς ἐνὶ στήθεσσιν ἐώλπει"
+    },
+    {
+      "n": 329,
+      "greek": "νοστήσειν Ὀδυσῆα πολύφρονα ὅνδε δόμονδε,"
+    },
+    {
+      "n": 330,
+      "greek": "τόφρʼ οὔ τις νέμεσις μενέμεν τʼ ἦν ἰσχέμεναί τε"
+    },
+    {
+      "n": 331,
+      "greek": "μνηστῆρας κατὰ δώματʼ, ἐπεὶ τόδε κέρδιον ἦεν,"
+    },
+    {
+      "n": 332,
+      "greek": "εἰ νόστησʼ Ὀδυσεὺς καὶ ὑπότροπος ἵκετο δῶμα·"
+    },
+    {
+      "n": 333,
+      "greek": "νῦν δʼ ἤδη τόδε δῆλον, ὅ τʼ οὐκέτι νόστιμός ἐστιν."
+    },
+    {
+      "n": 334,
+      "greek": "ἀλλʼ ἄγε, σῇ τάδε μητρὶ παρεζόμενος κατάλεξον,"
+    },
+    {
+      "n": 335,
+      "greek": "γήμασθʼ ὅς τις ἄριστος ἀνὴρ καὶ πλεῖστα πόρῃσιν,"
+    },
+    {
+      "n": 336,
+      "greek": "ὄφρα σὺ μὲν χαίρων πατρώϊα πάντα νέμηαι,"
+    },
+    {
+      "n": 337,
+      "greek": "ἔσθων καὶ πίνων, ἡ δʼ ἄλλου δῶμα κομίζῃ."
+    },
+    {
+      "n": 338,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 339,
+      "greek": "οὐ μὰ Ζῆνʼ, Ἀγέλαε, καὶ ἄλγεα πατρὸς ἐμοῖο,"
+    },
+    {
+      "n": 340,
+      "greek": "ὅς που τῆλʼ Ἰθάκης ἢ ἔφθιται ἢ ἀλάληται,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "of the slaves that are in the house of divine Odysseus. But to Telemachus and his mother I would speak a gentle word, if perchance it may find favour in the minds of both. So long as the hearts in your breasts had hope that wise Odysseus would return to his own house,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "so long there was no ground for blame that you waited, and restrained the wooers in your halls; for this was the better course, had Odysseus returned and come back to his house. But now this is plain, that he will return no more. Nay then, come, sit by thy mother and tell her this,"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "namely that she must wed him whosoever is the best man, and who offers the most gifts; to the end that thou mayest enjoy in peace all the heritage of thy fathers, eating and drinking, and that she may keep the house of another.” Then wise Telemachus answered him: “Nay, by Zeus, Agelaus, and by the woes of my father,"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "who somewhere far from Ithaca has perished or is wandering, in no wise do I delay my mother's marriage, but I bid her wed what man she will, and I offer besides gifts past counting. But I am ashamed to drive her forth from the hall against her will by a word of compulsion. May God never bring such a thing to pass.”"
+    }
+  ]
+}

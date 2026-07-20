@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "αὐτὰρ ἐγὼ νέομαι· σὺ δὲ τέρπεο τῷδʼ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 62,
+      "greek": "παισί τε καὶ λαοῖσι καὶ Ἀλκινόῳ βασιλῆϊ."
+    },
+    {
+      "n": 63,
+      "greek": "ὣς εἰπὼν ὑπὲρ οὐδὸν ἐβήσετο δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 64,
+      "greek": "τῷ δʼ ἅμα κήρυκα προΐει μένος Ἀλκινόοιο,"
+    },
+    {
+      "n": 65,
+      "greek": "ἡγεῖσθαι ἐπὶ νῆα θοὴν καὶ θῖνα θαλάσσης·"
+    },
+    {
+      "n": 66,
+      "greek": "Ἀρήτη δʼ ἄρα οἱ δμῳὰς ἅμʼ ἔπεμπε γυναῖκας,"
+    },
+    {
+      "n": 67,
+      "greek": "τὴν μὲν φᾶρος ἔχουσαν ἐϋπλυνὲς ἠδὲ χιτῶνα,"
+    },
+    {
+      "n": 68,
+      "greek": "τὴν δʼ ἑτέρην χηλὸν πυκινὴν ἅμʼ ὄπασσε κομίζειν·"
+    },
+    {
+      "n": 69,
+      "greek": "ἡ δʼ ἄλλη σῖτόν τʼ ἔφερεν καὶ οἶνον ἐρυθρόν."
+    },
+    {
+      "n": 70,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐπὶ νῆα κατήλυθον ἠδὲ θάλασσαν,"
+    },
+    {
+      "n": 71,
+      "greek": "αἶψα τά γʼ ἐν νηῒ γλαφυρῇ πομπῆες ἀγαυοὶ"
+    },
+    {
+      "n": 72,
+      "greek": "δεξάμενοι κατέθεντο, πόσιν καὶ βρῶσιν ἅπασαν·"
+    },
+    {
+      "n": 73,
+      "greek": "κὰδ δʼ ἄρʼ Ὀδυσσῆϊ στόρεσαν ῥῆγός τε λίνον τε"
+    },
+    {
+      "n": 74,
+      "greek": "νηὸς ἐπʼ ἰκριόφιν γλαφυρῆς, ἵνα νήγρετον εὕδοι,"
+    },
+    {
+      "n": 75,
+      "greek": "πρυμνῆς· ἂν δὲ καὶ αὐτὸς ἐβήσετο καὶ κατέλεκτο"
+    },
+    {
+      "n": 76,
+      "greek": "σιγῇ· τοὶ δὲ καθῖζον ἐπὶ κληῗσιν ἕκαστοι"
+    },
+    {
+      "n": 77,
+      "greek": "κόσμῳ, πεῖσμα δʼ ἔλυσαν ἀπὸ τρητοῖο λίθοιο."
+    },
+    {
+      "n": 78,
+      "greek": "εὖθʼ οἱ ἀνακλινθέντες ἀνερρίπτουν ἅλα πηδῷ,"
+    },
+    {
+      "n": 79,
+      "greek": "καὶ τῷ νήδυμος ὕπνος ἐπὶ βλεφάροισιν ἔπιπτε,"
+    },
+    {
+      "n": 80,
+      "greek": "νήγρετος, ἥδιστος, θανάτῳ ἄγχιστα ἐοικώς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "to lead him to the swift ship and the shore of the sea. And Arete sent with him slave women, one bearing a newly washed cloak and a tunic, and another again she bade follow to bear the strong chest, and yet another bore bread and red wine."
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "But when they had come down to the ship and to the sea, straightway the lordly youths that were his escort took these things, and stowed them in the hollow ship, even all the food and drink. Then for Odysseus they spread a rug and a linen sheet on the deck of the hollow ship"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "at the stern, that he might sleep soundly; and he too went aboard, and laid him down in silence. Then they sat down on the benches, each in order, and loosed the hawser from the pierced stone. And as soon as they leaned back, and tossed the brine with their oarblades, sweet sleep fell upon his eyelids,"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "an unawakening sleep, most sweet, and most like to death. And as on a plain four yoked stallions spring forward all together beneath the strokes of the lash, and leaping on high swiftly accomplish their way, even so the stern of that ship leapt on high, and in her wake"
+    }
+  ]
+}

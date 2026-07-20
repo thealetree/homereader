@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "τῇσι δὲ Ναυσικάα λευκώλενος ἤρχετο μολπῆς."
+    },
+    {
+      "n": 102,
+      "greek": "οἵη δʼ Ἄρτεμις εἶσι κατʼ οὔρεα ἰοχέαιρα,"
+    },
+    {
+      "n": 103,
+      "greek": "ἢ κατὰ Τηΰγετον περιμήκετον ἢ Ἐρύμανθον,"
+    },
+    {
+      "n": 104,
+      "greek": "τερπομένη κάπροισι καὶ ὠκείῃς ἐλάφοισι·"
+    },
+    {
+      "n": 105,
+      "greek": "τῇ δέ θʼ ἅμα νύμφαι, κοῦραι Διὸς αἰγιόχοιο,"
+    },
+    {
+      "n": 106,
+      "greek": "ἀγρονόμοι παίζουσι, γέγηθε δέ τε φρένα Λητώ·"
+    },
+    {
+      "n": 107,
+      "greek": "πασάων δʼ ὑπὲρ ἥ γε κάρη ἔχει ἠδὲ μέτωπα,"
+    },
+    {
+      "n": 108,
+      "greek": "ῥεῖά τʼ ἀριγνώτη πέλεται, καλαὶ δέ τε πᾶσαι·"
+    },
+    {
+      "n": 109,
+      "greek": "ὣς ἥ γʼ ἀμφιπόλοισι μετέπρεπε παρθένος ἀδμής."
+    },
+    {
+      "n": 110,
+      "greek": "ἀλλʼ ὅτε δὴ ἄρʼ ἔμελλε πάλιν οἶκόνδε νέεσθαι"
+    },
+    {
+      "n": 111,
+      "greek": "ζεύξασʼ ἡμιόνους πτύξασά τε εἵματα καλά,"
+    },
+    {
+      "n": 112,
+      "greek": "ἔνθʼ αὖτʼ ἄλλʼ ἐνόησε θεά, γλαυκῶπις Ἀθήνη,"
+    },
+    {
+      "n": 113,
+      "greek": "ὡς Ὀδυσεὺς ἔγροιτο, ἴδοι τʼ ἐυώπιδα κούρην,"
+    },
+    {
+      "n": 114,
+      "greek": "ἥ οἱ Φαιήκων ἀνδρῶν πόλιν ἡγήσαιτο."
+    },
+    {
+      "n": 115,
+      "greek": "σφαῖραν ἔπειτʼ ἔρριψε μετʼ ἀμφίπολον βασίλεια·"
+    },
+    {
+      "n": 116,
+      "greek": "ἀμφιπόλου μὲν ἅμαρτε, βαθείῃ δʼ ἔμβαλε δίνῃ·"
+    },
+    {
+      "n": 117,
+      "greek": "αἱ δʼ ἐπὶ μακρὸν ἄυσαν· ὁ δʼ ἔγρετο δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 118,
+      "greek": "ἑζόμενος δʼ ὥρμαινε κατὰ φρένα καὶ κατὰ θυμόν·"
+    },
+    {
+      "n": 119,
+      "greek": "ὤ μοι ἐγώ, τέων αὖτε βροτῶν ἐς γαῖαν ἱκάνω;"
+    },
+    {
+      "n": 120,
+      "greek": "ἦ ῥʼ οἵ γʼ ὑβρισταί τε καὶ ἄγριοι οὐδὲ δίκαιοι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "and with her sport the wood-nymphs, the daughters of Zeus who bears the aegis, and Leto is glad at heart—high above them all Artemis holds her head and brows, and easily may she be known, though all are fair—so amid her handmaidens shone the maid unwed."
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "But when she was about to yoke the mules, and fold the fair raiment, in order to return homeward, then the goddess, flashing-eyed Athena, took other counsel, that Odysseus might awake and see the fair-faced maid, who should lead him to the city of the Phaeacians."
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "So then the princess tossed the ball to one of her maidens; the maiden indeed she missed, but cast it into a deep eddy, and thereat they cried aloud, and goodly Odysseus awoke, and sat up, and thus he pondered in mind and heart: “Woe is me! to the land of what mortals am I now come?"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "Are they cruel, and wild, and unjust? or do they love strangers and fear the gods in their thoughts? There rang in my ears a cry as of maidens, of nymphs who haunt the towering peaks of the mountains, the springs that feed the rivers, and the grassy meadows!"
+    }
+  ]
+}

@@ -10,7 +10,11 @@
 
   <header class="masthead">
     <h1>The Odyssey</h1>
-    <p class="masthead-sub" id="location-label">Book I</p>
+    <div class="book-select" id="book-select">
+      <button class="book-current" id="book-current" type="button"
+              aria-haspopup="listbox" aria-expanded="false">Book I</button>
+      <ul class="book-menu" id="book-menu" role="listbox" hidden></ul>
+    </div>
   </header>
 
   <main class="spread" id="spread">
@@ -46,10 +50,13 @@
 
   </main>
 
-  <nav class="pager" aria-label="Card navigation">
-    <button id="prev" class="pager-arrow" aria-label="Previous card">&#8592;</button>
+  <button class="edge-arrow edge-arrow-prev" id="edge-prev" type="button"
+          aria-label="Previous card">&#8249;</button>
+  <button class="edge-arrow edge-arrow-next" id="edge-next" type="button"
+          aria-label="Next card">&#8250;</button>
+
+  <nav class="pager" aria-label="Card position">
     <span id="pager-label" class="pager-label">1 / 1</span>
-    <button id="next" class="pager-arrow" aria-label="Next card">&#8594;</button>
   </nav>
 
   <script src="js/app.js"></script>

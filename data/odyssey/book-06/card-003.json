@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ἡ μὲν ἄρʼ ὣς εἰποῦσʼ ἀπέβη γλαυκῶπις Ἀθήνη"
+    },
+    {
+      "n": 42,
+      "greek": "Οὔλυμπόνδʼ, ὅθι φασὶ θεῶν ἕδος ἀσφαλὲς αἰεὶ"
+    },
+    {
+      "n": 43,
+      "greek": "ἔμμεναι. οὔτʼ ἀνέμοισι τινάσσεται οὔτε ποτʼ ὄμβρῳ"
+    },
+    {
+      "n": 44,
+      "greek": "δεύεται οὔτε χιὼν ἐπιπίλναται, ἀλλὰ μάλʼ αἴθρη"
+    },
+    {
+      "n": 45,
+      "greek": "πέπταται ἀνέφελος, λευκὴ δʼ ἐπιδέδρομεν αἴγλη·"
+    },
+    {
+      "n": 46,
+      "greek": "τῷ ἔνι τέρπονται μάκαρες θεοὶ ἤματα πάντα."
+    },
+    {
+      "n": 47,
+      "greek": "ἔνθʼ ἀπέβη γλαυκῶπις, ἐπεὶ διεπέφραδε κούρῃ."
+    },
+    {
+      "n": 48,
+      "greek": "αὐτίκα δʼ Ἠὼς ἦλθεν ἐύθρονος, ἥ μιν ἔγειρε"
+    },
+    {
+      "n": 49,
+      "greek": "Ναυσικάαν ἐύπεπλον· ἄφαρ δʼ ἀπεθαύμασʼ ὄνειρον,"
+    },
+    {
+      "n": 50,
+      "greek": "βῆ δʼ ἰέναι διὰ δώμαθʼ, ἵνʼ ἀγγείλειε τοκεῦσιν,"
+    },
+    {
+      "n": 51,
+      "greek": "πατρὶ φίλῳ καὶ μητρί· κιχήσατο δʼ ἔνδον ἐόντας·"
+    },
+    {
+      "n": 52,
+      "greek": "ἡ μὲν ἐπʼ ἐσχάρῃ ἧστο σὺν ἀμφιπόλοισι γυναιξὶν"
+    },
+    {
+      "n": 53,
+      "greek": "ἠλάκατα στρωφῶσʼ ἁλιπόρφυρα· τῷ δὲ θύραζε"
+    },
+    {
+      "n": 54,
+      "greek": "ἐρχομένῳ ξύμβλητο μετὰ κλειτοὺς βασιλῆας"
+    },
+    {
+      "n": 55,
+      "greek": "ἐς βουλήν, ἵνα μιν κάλεον Φαίηκες ἀγαυοί."
+    },
+    {
+      "n": 56,
+      "greek": "ἡ δὲ μάλʼ ἄγχι στᾶσα φίλον πατέρα προσέειπε·"
+    },
+    {
+      "n": 57,
+      "greek": "πάππα φίλʼ, οὐκ ἂν δή μοι ἐφοπλίσσειας ἀπήνην"
+    },
+    {
+      "n": 58,
+      "greek": "ὑψηλὴν ἐύκυκλον, ἵνα κλυτὰ εἵματʼ ἄγωμαι"
+    },
+    {
+      "n": 59,
+      "greek": "ἐς ποταμὸν πλυνέουσα, τά μοι ῥερυπωμένα κεῖται;"
+    },
+    {
+      "n": 60,
+      "greek": "καὶ δὲ σοὶ αὐτῷ ἔοικε μετὰ πρώτοισιν ἐόντα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "is outspread clear and cloudless, and over it hovers a radiant whiteness. Therein the blessed gods are glad all their days, and thither went the flashing-eyed one, when she had spoken all her word to the maiden. At once then came fair-throned Dawn and awakened Nausicaa of the beautiful robes, and straightway she marvelled at her dream,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "and went through the house to tell her parents, her father dear and her mother; and she found them both within. The mother sat at the hearth with her handmaidens, spinning the yarn of purple dye, and her father she met as he was going forth to join the glorious kings"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "in the place of council, to which the lordly Phaeacians called him. But she came up close to her dear father, and said: “Papa dear, wilt thou not make ready for me a wagon, high and stout of wheel, that I may take to the river for washing the goodly raiment of mine which is lying here soiled?"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "Moreover for thyself it is seemly that when thou art at council with the princes thou shouldst have clean raiment upon thee; and thou hast five sons living in thy halls—two are wedded, but three are sturdy bachelors—and these ever wish to put on them freshly-washed raiment,"
+    }
+  ]
+}

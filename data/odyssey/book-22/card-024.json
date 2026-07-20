@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "τοῖσι δὲ Τηλέμαχος πεπνυμένος ἦρχʼ ἀγορεύειν·"
+    },
+    {
+      "n": 462,
+      "greek": "μὴ μὲν δὴ καθαρῷ θανάτῳ ἀπὸ θυμὸν ἑλοίμην"
+    },
+    {
+      "n": 463,
+      "greek": "τάων, αἳ δὴ ἐμῇ κεφαλῇ κατʼ ὀνείδεα χεῦαν"
+    },
+    {
+      "n": 464,
+      "greek": "μητέρι θʼ ἡμετέρῃ παρά τε μνηστῆρσιν ἴαυον."
+    },
+    {
+      "n": 465,
+      "greek": "ὣς ἄρʼ ἔφη, καὶ πεῖσμα νεὸς κυανοπρῴροιο"
+    },
+    {
+      "n": 466,
+      "greek": "κίονος ἐξάψας μεγάλης περίβαλλε θόλοιο,"
+    },
+    {
+      "n": 467,
+      "greek": "ὑψόσʼ ἐπεντανύσας, μή τις ποσὶν οὖδας ἵκοιτο."
+    },
+    {
+      "n": 468,
+      "greek": "ὡς δʼ ὅτʼ ἂν ἢ κίχλαι τανυσίπτεροι ἠὲ πέλειαι"
+    },
+    {
+      "n": 469,
+      "greek": "ἕρκει ἐνιπλήξωσι, τό θʼ ἑστήκῃ ἐνὶ θάμνῳ,"
+    },
+    {
+      "n": 470,
+      "greek": "αὖλιν ἐσιέμεναι, στυγερὸς δʼ ὑπεδέξατο κοῖτος,"
+    },
+    {
+      "n": 471,
+      "greek": "ὣς αἵ γʼ ἑξείης κεφαλὰς ἔχον, ἀμφὶ δὲ πάσαις"
+    },
+    {
+      "n": 472,
+      "greek": "δειρῇσι βρόχοι ἦσαν, ὅπως οἴκτιστα θάνοιεν."
+    },
+    {
+      "n": 473,
+      "greek": "ἤσπαιρον δὲ πόδεσσι μίνυνθά περ οὔ τι μάλα δήν."
+    },
+    {
+      "n": 474,
+      "greek": "ἐκ δὲ Μελάνθιον ἦγον ἀνὰ πρόθυρόν τε καὶ αὐλήν·"
+    },
+    {
+      "n": 475,
+      "greek": "τοῦ δʼ ἀπὸ μὲν ῥῖνάς τε καὶ οὔατα νηλέϊ χαλκῷ"
+    },
+    {
+      "n": 476,
+      "greek": "τάμνον, μήδεά τʼ ἐξέρυσαν, κυσὶν ὠμὰ δάσασθαι,"
+    },
+    {
+      "n": 477,
+      "greek": "χεῖράς τʼ ἠδὲ πόδας κόπτον κεκοτηότι θυμῷ."
+    },
+    {
+      "n": 478,
+      "greek": "οἱ μὲν ἔπειτʼ ἀπονιψάμενοι χεῖράς τε πόδας τε"
+    },
+    {
+      "n": 479,
+      "greek": "εἰς Ὀδυσῆα δόμονδε κίον, τετέλεστο δὲ ἔργον·"
+    },
+    {
+      "n": 480,
+      "greek": "αὐτὰρ ὅ γε προσέειπε φίλην τροφὸν Εὐρύκλειαν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "So he spoke, and tied the cable of a dark-prowed ship to a great pillar and flung it round the dome, stretching it on high that none might reach the ground with her feet. And as when long-winged thrushes or doves fall into a snare that is set in a thicket,"
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "as they seek to reach their resting-place, and hateful is the bed that gives them welcome, even so the women held their heads in a row, and round the necks of all nooses were laid, that they might die most piteously. And they writhed a little while with their feet, but not long. Then forth they led Melanthius through the doorway and the court,"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "and cut off his nostrils and his ears with the pitiless bronze, and drew out his vitals for the dogs to eat raw, and cut off his hands and his feet in their furious wrath. Thereafter they washed their hands and feet, and went into the house to Odysseus, and the work was done."
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "But Odysseus said to the dear nurse Eurycleia: “Bring sulphur, old dame, to cleanse from pollution, and bring me fire, that I may purge the hall; and do thou bid Penelope come hither with her handmaidens, and order all the women in the house to come.”"
+    }
+  ]
+}

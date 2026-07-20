@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "δῦνεν, καὶ μέγα φᾶρος ἐπὶ στιβαροῖς βάλετʼ ὤμοις"
+    },
+    {
+      "n": 62,
+      "greek": "ἥρως, βῆ δὲ θύραζε, παριστάμενος δὲ προσηύδα"
+    },
+    {
+      "n": 63,
+      "greek": "Τηλέμαχος, φίλος υἱὸς Ὀδυσσῆος θείοιο·"
+    },
+    {
+      "n": 64,
+      "greek": "Ἀτρεΐδη Μενέλαε διοτρεφές, ὄρχαμε λαῶν,"
+    },
+    {
+      "n": 65,
+      "greek": "ἤδη νῦν μʼ ἀπόπεμπε φίλην ἐς πατρίδα γαῖαν·"
+    },
+    {
+      "n": 66,
+      "greek": "ἤδη γάρ μοι θυμὸς ἐέλδεται οἴκαδʼ ἱκέσθαι."
+    },
+    {
+      "n": 67,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα βοὴν ἀγαθὸς Μενέλαος·"
+    },
+    {
+      "n": 68,
+      "greek": "Τηλέμαχʼ, οὔ τί σʼ ἐγώ γε πολὺν χρόνον ἐνθάδʼ ἐρύξω"
+    },
+    {
+      "n": 69,
+      "greek": "ἱέμενον νόστοιο· νεμεσσῶμαι δὲ καὶ ἄλλῳ"
+    },
+    {
+      "n": 70,
+      "greek": "ἀνδρὶ ξεινοδόκῳ, ὅς κʼ ἔξοχα μὲν φιλέῃσιν,"
+    },
+    {
+      "n": 71,
+      "greek": "ἔξοχα δʼ ἐχθαίρῃσιν· ἀμείνω δʼ αἴσιμα πάντα."
+    },
+    {
+      "n": 72,
+      "greek": "ἶσόν τοι κακόν ἐσθʼ, ὅς τʼ οὐκ ἐθέλοντα νέεσθαι"
+    },
+    {
+      "n": 73,
+      "greek": "ξεῖνον ἐποτρύνει καὶ ὃς ἐσσύμενον κατερύκει."
+    },
+    {
+      "n": 74,
+      "greek": "χρὴ ξεῖνον παρεόντα φιλεῖν, ἐθέλοντα δὲ πέμπειν."
+    },
+    {
+      "n": 75,
+      "greek": "ἀλλὰ μένʼ εἰς ὅ κε δῶρα φέρων ἐπιδίφρια θείω"
+    },
+    {
+      "n": 76,
+      "greek": "καλά, σὺ δʼ ὀφθαλμοῖσιν ἴδῃς, εἴπω δὲ γυναιξὶ"
+    },
+    {
+      "n": 77,
+      "greek": "δεῖπνον ἐνὶ μεγάροις τετυκεῖν ἅλις ἔνδον ἐόντων."
+    },
+    {
+      "n": 78,
+      "greek": "ἀμφότερον, κῦδός τε καὶ ἀγλαΐη καὶ ὄνειαρ,"
+    },
+    {
+      "n": 79,
+      "greek": "δειπνήσαντας ἴμεν πολλὴν ἐπʼ ἀπείρονα γαῖαν."
+    },
+    {
+      "n": 80,
+      "greek": "εἰ δʼ ἐθέλεις τραφθῆναι ἀνʼ Ἑλλάδα καὶ μέσον Ἄργος,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "send me back now at length to my dear native land, for now my heart is eager to return home.” Then Menelaus, good at the war-cry, answered him: “Telemachus, I verily shall not hold thee here a long time, when thou art eager to return. Nay, I should blame another,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "who, as host, loves overmuch or hates overmuch; better is due measure in all things. 'Tis equal wrong if a man speed on a guest who is loath to go, and if he keep back one that is eager to be gone. One should make welcome the present guest, and send forth him that would go."
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "But stay, till I bring fair gifts and put them on thy car, and thine own eyes behold them, and till I bid the women make ready a meal in the halls of the abundant store that is within. It is a double boon—honor and glory it brings, and profit withal—that the traveller should dine before he goes forth over the wide and boundless earth."
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "And if thou art fain to journey through Hellas and mid-Argos, be it so, to the end that I may myself go with thee, and I will yoke for thee horses, and lead thee to the cities of men. Nor will any one send us away empty-handed, but will give us some one thing at least to bear with us, a fair brazen tripod or cauldron,"
+    }
+  ]
+}

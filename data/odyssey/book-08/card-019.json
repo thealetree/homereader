@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "αὐτίκʼ ἀναΐξαντε ὁ μὲν Θρῄκηνδε βεβήκει,"
+    },
+    {
+      "n": 362,
+      "greek": "ἡ δʼ ἄρα Κύπρον ἵκανε φιλομμειδὴς Ἀφροδίτη,"
+    },
+    {
+      "n": 363,
+      "greek": "ἐς Πάφον· ἔνθα δέ οἱ τέμενος βωμός τε θυήεις."
+    },
+    {
+      "n": 364,
+      "greek": "ἔνθα δέ μιν Χάριτες λοῦσαν καὶ χρῖσαν ἐλαίῳ"
+    },
+    {
+      "n": 365,
+      "greek": "ἀμβρότῳ, οἷα θεοὺς ἐπενήνοθεν αἰὲν ἐόντας,"
+    },
+    {
+      "n": 366,
+      "greek": "ἀμφὶ δὲ εἵματα ἕσσαν ἐπήρατα, θαῦμα ἰδέσθαι."
+    },
+    {
+      "n": 367,
+      "greek": "ταῦτʼ ἄρʼ ἀοιδὸς ἄειδε περικλυτός· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 368,
+      "greek": "τέρπετʼ ἐνὶ φρεσὶν ᾗσιν ἀκούων ἠδὲ καὶ ἄλλοι"
+    },
+    {
+      "n": 369,
+      "greek": "Φαίηκες δολιχήρετμοι, ναυσίκλυτοι ἄνδρες."
+    },
+    {
+      "n": 370,
+      "greek": "Ἀλκίνοος δʼ Ἅλιον καὶ Λαοδάμαντα κέλευσεν"
+    },
+    {
+      "n": 371,
+      "greek": "μουνὰξ ὀρχήσασθαι, ἐπεί σφισιν οὔ τις ἔριζεν."
+    },
+    {
+      "n": 372,
+      "greek": "οἱ δʼ ἐπεὶ οὖν σφαῖραν καλὴν μετὰ χερσὶν ἕλοντο,"
+    },
+    {
+      "n": 373,
+      "greek": "πορφυρέην, τήν σφιν Πόλυβος ποίησε δαΐφρων,"
+    },
+    {
+      "n": 374,
+      "greek": "τὴν ἕτερος ῥίπτασκε ποτὶ νέφεα σκιόεντα"
+    },
+    {
+      "n": 375,
+      "greek": "ἰδνωθεὶς ὀπίσω, ὁ δʼ ἀπὸ χθονὸς ὑψόσʼ ἀερθεὶς"
+    },
+    {
+      "n": 376,
+      "greek": "ῥηιδίως μεθέλεσκε, πάρος ποσὶν οὖδας ἱκέσθαι."
+    },
+    {
+      "n": 377,
+      "greek": "αὐτὰρ ἐπεὶ δὴ σφαίρῃ ἀνʼ ἰθὺν πειρήσαντο,"
+    },
+    {
+      "n": 378,
+      "greek": "ὠρχείσθην δὴ ἔπειτα ποτὶ χθονὶ πουλυβοτείρῃ"
+    },
+    {
+      "n": 379,
+      "greek": "ταρφέʼ ἀμειβομένω· κοῦροι δʼ ἐπελήκεον ἄλλοι"
+    },
+    {
+      "n": 380,
+      "greek": "ἑστεῶτες κατʼ ἀγῶνα, πολὺς δʼ ὑπὸ κόμπος ὀρώρει."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "immortal oil, such as gleams upon the gods that are forever. And they clothed her in lovely raiment, a wonder to behold. This song the famous minstrel sang; and Odysseus was glad at heart as he listened, and so too were the Phaeacians of the long oars, men famed for their ships."
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "Then Alcinous bade Halius and Laodamas dance alone, for no one could vie with them. And when they had taken in their hands the beautiful ball of purple, which wise Polybus had made for them, the one"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "would lean backward and toss it toward the shadowy clouds, and the other would leap up from the earth and skilfully catch it before his feet touched the ground again. But when they had tried their skill in throwing the ball straight up, the two fell to dancing on the bounteous earth, ever tossing the ball to and fro, and the other youths"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "stood in the lists and beat time, and thereat a great din arose. Then to Alcinous spoke goodly Odysseus: “Lord Alcinous, renowned above all men, thou didst boast that thy dancers were the best, and lo, thy words are made good; amazement holds me as I look on them.”"
+    }
+  ]
+}

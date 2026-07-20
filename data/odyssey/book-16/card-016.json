@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 16,
+  "lineStart": 302,
+  "lineEnd": 321,
+  "lines": [
+    {
+      "n": 302,
+      "greek": "μήτʼ οὖν Λαέρτης ἴστω τό γε μήτε συβώτης"
+    },
+    {
+      "n": 303,
+      "greek": "μήτε τις οἰκήων μήτʼ αὐτὴ Πηνελόπεια,"
+    },
+    {
+      "n": 304,
+      "greek": "ἀλλʼ οἶοι σύ τʼ ἐγώ τε γυναικῶν γνώομεν ἰθύν·"
+    },
+    {
+      "n": 305,
+      "greek": "καί κέ τεο δμώων ἀνδρῶν ἔτι πειρηθεῖμεν,"
+    },
+    {
+      "n": 306,
+      "greek": "ἠμὲν ὅπου τις νῶϊ τίει καὶ δείδιε θυμῷ,"
+    },
+    {
+      "n": 307,
+      "greek": "ἠδʼ ὅτις οὐκ ἀλέγει, σὲ δʼ ἀτιμᾷ τοῖον ἐόντα."
+    },
+    {
+      "n": 308,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσεφώνεε φαίδιμος υἱός"
+    },
+    {
+      "n": 309,
+      "greek": "ὦ πάτερ, ἦ τοι ἐμὸν θυμὸν καὶ ἔπειτά γʼ, ὀΐω,"
+    },
+    {
+      "n": 310,
+      "greek": "γνώσεαι· οὐ μὲν γάρ τι χαλιφροσύναι γέ μʼ ἔχουσιν·"
+    },
+    {
+      "n": 311,
+      "greek": "ἀλλʼ οὔ τοι τόδε κέρδος ἐγὼν ἔσσεσθαι ὀΐω"
+    },
+    {
+      "n": 312,
+      "greek": "ἡμῖν ἀμφοτέροισι· σὲ δὲ φράζεσθαι ἄνωγα."
+    },
+    {
+      "n": 313,
+      "greek": "δηθὰ γὰρ αὔτως εἴσῃ ἑκάστου πειρητίζων,"
+    },
+    {
+      "n": 314,
+      "greek": "ἔργα μετερχόμενος· τοὶ δʼ ἐν μεγάροισιν ἕκηλοι"
+    },
+    {
+      "n": 315,
+      "greek": "χρήματα δαρδάπτουσιν ὑπέρβιον οὐδʼ ἔπι φειδώ."
+    },
+    {
+      "n": 316,
+      "greek": "ἀλλʼ ἦ τοί σε γυναῖκας ἐγὼ δεδάασθαι ἄνωγα,"
+    },
+    {
+      "n": 317,
+      "greek": "αἵ τέ σʼ ἀτιμάζουσι καὶ αἳ νηλείτιδές εἰσιν·"
+    },
+    {
+      "n": 318,
+      "greek": "ἀνδρῶν δʼ οὐκ ἂν ἐγώ γε κατὰ σταθμοὺς ἐθέλοιμι"
+    },
+    {
+      "n": 319,
+      "greek": "ἡμέας πειράζειν, ἀλλʼ ὕστερα ταῦτα πένεσθαι,"
+    },
+    {
+      "n": 320,
+      "greek": "εἰ ἐτεόν γέ τι οἶσθα Διὸς τέρας αἰγιόχοιο."
+    },
+    {
+      "n": 321,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "Aye, and we will likewise make trial of many a one of the serving men, and see where any of them honours us two and fears us at heart, and who recks not of us and scorns thee, a man so goodly.” Then his glorious son answered him, and said: “Father, my spirit, methinks,"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "thou shalt verily come to know hereafter, for no slackness of will possesses me. But I think not that this plan will be a gain to us both, and so I bid thee take thought. Long time shalt thou vainly go about, making trial of each man as thou visitest the farms, while in thy halls those others at their ease"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "are wasting thy substance in insolent wise, and there is no sparing. Yet verily, as for the women, I do bid thee learn who among them dishonor thee, and who are guiltless. But of the men in the farmsteads I would not that we should make trial, but that we should deal therewith hereafter,"
+    },
+    {
+      "lines": [
+        320,
+        321
+      ],
+      "text": "if in very truth thou knowest some sign from Zeus who bears the aegis.” Thus they spoke to one another, but meanwhile into Ithaca put the well-built ship that brought Telemachus and all his comrades from Pylos; and they, when they had come into the deep harbor,"
+    }
+  ]
+}

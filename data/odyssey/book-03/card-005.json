@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "ἡμεῖς ἐξ Ἰθάκης ὑπονηίου εἰλήλουθμεν·"
+    },
+    {
+      "n": 82,
+      "greek": "πρῆξις δʼ ἥδʼ ἰδίη, οὐ δήμιος, ἣν ἀγορεύω."
+    },
+    {
+      "n": 83,
+      "greek": "πατρὸς ἐμοῦ κλέος εὐρὺ μετέρχομαι, ἤν που ἀκούσω,"
+    },
+    {
+      "n": 84,
+      "greek": "δίου Ὀδυσσῆος ταλασίφρονος, ὅν ποτέ φασι"
+    },
+    {
+      "n": 85,
+      "greek": "σὺν σοὶ μαρνάμενον Τρώων πόλιν ἐξαλαπάξαι."
+    },
+    {
+      "n": 86,
+      "greek": "ἄλλους μὲν γὰρ πάντας, ὅσοι Τρωσὶν πολέμιζον,"
+    },
+    {
+      "n": 87,
+      "greek": "πευθόμεθʼ, ἧχι ἕκαστος ἀπώλετο λυγρῷ ὀλέθρῳ,"
+    },
+    {
+      "n": 88,
+      "greek": "κείνου δʼ αὖ καὶ ὄλεθρον ἀπευθέα θῆκε Κρονίων."
+    },
+    {
+      "n": 89,
+      "greek": "οὐ γάρ τις δύναται σάφα εἰπέμεν ὁππόθʼ ὄλωλεν,"
+    },
+    {
+      "n": 90,
+      "greek": "εἴθʼ ὅ γʼ ἐπʼ ἠπείρου δάμη ἀνδράσι δυσμενέεσσιν,"
+    },
+    {
+      "n": 91,
+      "greek": "εἴτε καὶ ἐν πελάγει μετὰ κύμασιν Ἀμφιτρίτης."
+    },
+    {
+      "n": 92,
+      "greek": "τοὔνεκα νῦν τὰ σὰ γούναθʼ ἱκάνομαι, αἴ κʼ ἐθέλῃσθα"
+    },
+    {
+      "n": 93,
+      "greek": "κείνου λυγρὸν ὄλεθρον ἐνισπεῖν, εἴ που ὄπωπας"
+    },
+    {
+      "n": 94,
+      "greek": "ὀφθαλμοῖσι τεοῖσιν ἢ ἄλλου μῦθον ἄκουσας"
+    },
+    {
+      "n": 95,
+      "greek": "πλαζομένου· πέρι γάρ μιν ὀιζυρὸν τέκε μήτηρ."
+    },
+    {
+      "n": 96,
+      "greek": "μηδέ τί μʼ αἰδόμενος μειλίσσεο μηδʼ ἐλεαίρων,"
+    },
+    {
+      "n": 97,
+      "greek": "ἀλλʼ εὖ μοι κατάλεξον ὅπως ἤντησας ὀπωπῆς."
+    },
+    {
+      "n": 98,
+      "greek": "λίσσομαι, εἴ ποτέ τοί τι πατὴρ ἐμός, ἐσθλὸς Ὀδυσσεύς,"
+    },
+    {
+      "n": 99,
+      "greek": "ἢ ἔπος ἠέ τι ἔργον ὑποστὰς ἐξετέλεσσε"
+    },
+    {
+      "n": 100,
+      "greek": "δήμῳ ἔνι Τρώων, ὅθι πάσχετε πήματʼ Ἀχαιοί,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "fought by thy side and sacked the city of the Trojans. For of all men else, as many as warred with the Trojans, we learn where each man died a woeful death, but of him the son of Cronos has made even the death to be past learning; for no man can tell surely where he hath died,—"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "whether he was overcome by foes on the mainland, or on the deep among the waves of Amphitrite. Therefore am I now come to thy knees, if perchance thou wilt be willing to tell me of his woeful death, whether thou sawest it haply with thine own eyes, or didst hear from some other the story"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "of his wanderings; for beyond all men did his mother bear him to sorrow. And do thou nowise out of ruth or pity for me speak soothing words, but tell me truly how thou didst come to behold him. I beseech thee, if ever my father, noble Odysseus, promised aught to thee of word or deed and fulfilled it"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "in the land of the Trojans, where you Achaeans suffered woes, be mindful of it now, I pray thee, and tell me the very truth.” Then the horseman, Nestor of Gerenia, answered him: “My friend, since thou hast recalled to my mind the sorrow which we endured in that land, we sons of the Achaeans, unrestrained in daring,—"
+    }
+  ]
+}

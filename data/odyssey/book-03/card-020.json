@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "αὐτῷ καὶ παίδεσσι καὶ αἰδοίῃ παρακοίτι·"
+    },
+    {
+      "n": 382,
+      "greek": "σοὶ δʼ αὖ ἐγὼ ῥέξω βοῦν ἦνιν εὐρυμέτωπον"
+    },
+    {
+      "n": 383,
+      "greek": "ἀδμήτην, ἣν οὔ πω ὑπὸ ζυγὸν ἤγαγεν ἀνήρ·"
+    },
+    {
+      "n": 384,
+      "greek": "τήν τοι ἐγὼ ῥέξω χρυσὸν κέρασιν περιχεύας."
+    },
+    {
+      "n": 385,
+      "greek": "ὣς ἔφατʼ εὐχόμενος, τοῦ δʼ ἔκλυε Παλλὰς Ἀθήνη."
+    },
+    {
+      "n": 386,
+      "greek": "τοῖσιν δʼ ἡγεμόνευε Γερήνιος ἱππότα Νέστωρ,"
+    },
+    {
+      "n": 387,
+      "greek": "υἱάσι καὶ γαμβροῖσιν, ἑὰ πρὸς δώματα καλά."
+    },
+    {
+      "n": 388,
+      "greek": "ἀλλʼ ὅτε δώμαθʼ ἵκοντο ἀγακλυτὰ τοῖο ἄνακτος,"
+    },
+    {
+      "n": 389,
+      "greek": "ἑξείης ἕζοντο κατὰ κλισμούς τε θρόνους τε·"
+    },
+    {
+      "n": 390,
+      "greek": "τοῖς δʼ ὁ γέρων ἐλθοῦσιν ἀνὰ κρητῆρα κέρασσεν"
+    },
+    {
+      "n": 391,
+      "greek": "οἴνου ἡδυπότοιο, τὸν ἑνδεκάτῳ ἐνιαυτῷ"
+    },
+    {
+      "n": 392,
+      "greek": "ὤιξεν ταμίη καὶ ἀπὸ κρήδεμνον ἔλυσε·"
+    },
+    {
+      "n": 393,
+      "greek": "τοῦ ὁ γέρων κρητῆρα κεράσσατο, πολλὰ δʼ Ἀθήνῃ"
+    },
+    {
+      "n": 394,
+      "greek": "εὔχετʼ ἀποσπένδων, κούρῃ Διὸς αἰγιόχοιο."
+    },
+    {
+      "n": 395,
+      "greek": "αὐτὰρ ἐπεὶ σπεῖσάν τʼ ἔπιον θʼ, ὅσον ἤθελε θυμός,"
+    },
+    {
+      "n": 396,
+      "greek": "οἱ μὲν κακκείοντες ἔβαν οἶκόνδε ἕκαστος,"
+    },
+    {
+      "n": 397,
+      "greek": "τὸν δʼ αὐτοῦ κοίμησε Γερήνιος ἱππότα Νέστωρ,"
+    },
+    {
+      "n": 398,
+      "greek": "Τηλέμαχον, φίλον υἱὸν Ὀδυσσῆος θείοιο,"
+    },
+    {
+      "n": 399,
+      "greek": "τρητοῖς ἐν λεχέεσσιν ὑπʼ αἰθούσῃ ἐριδούπῳ,"
+    },
+    {
+      "n": 400,
+      "greek": "πὰρʼ δʼ ἄρʼ ἐυμμελίην Πεισίστρατον, ὄρχαμον ἀνδρῶν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "So he spoke in prayer, and Pallas Athena heard him. Then the horseman, Nestor of Gerenia, led them, his sons and the husbands of his daughters, to his beautiful palace. And when they reached the glorious palace of the king, they sat down in rows on the chairs and high seats;"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "and on their coming the old man mixed for them a bowl of sweet wine, which now in the eleventh year the housewife opened, when she had loosed the string that held the lid. Thereof the old man bade mix a bowl, and earnestly he prayed, as he poured libations, to Athena, the daughter of Zeus who bears the aegis."
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "But when they had poured libations, and had drunk to their heart's content, they went, each to his home, to take their rest. But the horseman, Nestor of Gerenia, bade Telemachus, the dear son of divine Odysseus, to sleep there on a corded bedstead under the echoing portico,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "and by him Peisistratus, of the good ashen spear, a leader of men, who among his sons was still unwed in the palace. But he himself slept in the inmost chamber of the lofty house, and beside him lay the lady his wife, who had strewn the couch. Soon as early Dawn appeared, the rosy-fingered,"
+    }
+  ]
+}

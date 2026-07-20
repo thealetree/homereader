@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "κέσκετʼ ἐνὶ μεγάροισι, φόρει δέ μιν ἧς ἐπὶ γαίης."
+    },
+    {
+      "n": 42,
+      "greek": "ἡ δʼ ὅτε δὴ θάλαμον τὸν ἀφίκετο δῖα γυναικῶν"
+    },
+    {
+      "n": 43,
+      "greek": "οὐδόν τε δρύϊνον προσεβήσετο, τόν ποτε τέκτων"
+    },
+    {
+      "n": 44,
+      "greek": "ξέσσεν ἐπισταμένως καὶ ἐπὶ στάθμην ἴθυνεν,"
+    },
+    {
+      "n": 45,
+      "greek": "ἐν δὲ σταθμοὺς ἄρσε, θύρας δʼ ἐπέθηκε φαεινάς,"
+    },
+    {
+      "n": 46,
+      "greek": "αὐτίκʼ ἄρʼ ἥ γʼ ἱμάντα θοῶς ἀπέλυσε κορώνης,"
+    },
+    {
+      "n": 47,
+      "greek": "ἐν δὲ κληῗδʼ ἧκε, θυρέων δʼ ἀνέκοπτεν ὀχῆας"
+    },
+    {
+      "n": 48,
+      "greek": "ἄντα τιτυσκομένη· τὰ δʼ ἀνέβραχεν ἠΰτε ταῦρος"
+    },
+    {
+      "n": 49,
+      "greek": "βοσκόμενος λειμῶνι· τόσʼ ἔβραχε καλὰ θύρετρα"
+    },
+    {
+      "n": 50,
+      "greek": "πληγέντα κληΐδι, πετάσθησαν δέ οἱ ὦκα."
+    },
+    {
+      "n": 51,
+      "greek": "ἡ δʼ ἄρʼ ἐφʼ ὑψηλῆς σανίδος βῆ· ἔνθα δὲ χηλοὶ"
+    },
+    {
+      "n": 52,
+      "greek": "ἕστασαν, ἐν δʼ ἄρα τῇσι θυώδεα εἵματʼ ἔκειτο."
+    },
+    {
+      "n": 53,
+      "greek": "ἔνθεν ὀρεξαμένη ἀπὸ πασσάλου αἴνυτο τόξον"
+    },
+    {
+      "n": 54,
+      "greek": "αὐτῷ γωρυτῷ, ὅς οἱ περίκειτο φαεινός."
+    },
+    {
+      "n": 55,
+      "greek": "ἑζομένη δὲ κατʼ αὖθι, φίλοις ἐπὶ γούνασι θεῖσα,"
+    },
+    {
+      "n": 56,
+      "greek": "κλαῖε μάλα λιγέως, ἐκ δʼ ᾕρεε τόξον ἄνακτος."
+    },
+    {
+      "n": 57,
+      "greek": "ἡ δʼ ἐπεὶ οὖν τάρφθη πολυδακρύτοιο γόοιο,"
+    },
+    {
+      "n": 58,
+      "greek": "βῆ ῥʼ ἴμεναι μέγαρόνδε μετὰ μνηστῆρας ἀγαυοὺς"
+    },
+    {
+      "n": 59,
+      "greek": "τόξον ἔχουσʼ ἐν χειρὶ παλίντονον ἠδὲ φαρέτρην"
+    },
+    {
+      "n": 60,
+      "greek": "ἰοδόκον· πολλοὶ δʼ ἔνεσαν στονόεντες ὀϊστοί."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "thereon had he also fitted door-posts, and set on them bright doors—straightway she quickly loosed the thong from the handle and thrust in the key, and with sure aim shot back the bolts. And as a bull bellows"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "when grazing in a meadow, even so bellowed the fair doors, smitten by the key; and quickly they flew open before her. Then she stepped upon the high floor, where the chests stood in which fragrant raiment was stored, and stretched out her hand from thence and took from its peg the bow together with the bright case which surrounded it."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "And there she sat down and laid the case upon her knees and wept aloud, and took out the bow of her lord. But when she had had her fill of tearful wailing, she went her way to the hall, to the company of the lordly wooers, bearing in her hands the back-bent bow and the quiver"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "that held the arrows, and many arrows were in it, fraught with groanings. And by her side her maidens bore a chest, wherein lay abundance of iron and bronze, the battle-gear of her lord. Now when the fair lady reached the wooers, she stood by the door-post of the well-built hall,"
+    }
+  ]
+}

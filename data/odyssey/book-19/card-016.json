@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ἄγχι μάλʼ, οὐδʼ ἔτι τῆλε φίλων καὶ πατρίδος αἴης"
+    },
+    {
+      "n": 302,
+      "greek": "δηρὸν ἀπεσσεῖται· ἔμπης δέ τοι ὅρκια δώσω."
+    },
+    {
+      "n": 303,
+      "greek": "ἴστω νῦν Ζεὺς πρῶτα, θεῶν ὕπατος καὶ ἄριστος,"
+    },
+    {
+      "n": 304,
+      "greek": "ἱστίη τʼ Ὀδυσῆος ἀμύμονος, ἣν ἀφικάνω·"
+    },
+    {
+      "n": 305,
+      "greek": "ἦ μέν τοι τάδε πάντα τελείεται ὡς ἀγορεύω."
+    },
+    {
+      "n": 306,
+      "greek": "τοῦδʼ αὐτοῦ λυκάβαντος ἐλεύσεται ἐνθάδʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 307,
+      "greek": "τοῦ μὲν φθίνοντος μηνός, τοῦ δʼ ἱσταμένοιο."
+    },
+    {
+      "n": 308,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 309,
+      "greek": "αἲ γὰρ τοῦτο, ξεῖνε, ἔπος τετελεσμένον εἴη·"
+    },
+    {
+      "n": 310,
+      "greek": "τῷ κε τάχα γνοίης φιλότητά τε πολλά τε δῶρα"
+    },
+    {
+      "n": 311,
+      "greek": "ἐξ ἐμεῦ, ὡς ἄν τίς σε συναντόμενος μακαρίζοι."
+    },
+    {
+      "n": 312,
+      "greek": "ἀλλά μοι ὧδʼ ἀνὰ θυμὸν ὀΐεται, ὡς ἔσεταί περ·"
+    },
+    {
+      "n": 313,
+      "greek": "οὔτʼ Ὀδυσεὺς ἔτι οἶκον ἐλεύσεται, οὔτε σὺ πομπῆς"
+    },
+    {
+      "n": 314,
+      "greek": "τεύξῃ, ἐπεὶ οὐ τοῖοι σημάντορές εἰσʼ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 315,
+      "greek": "οἷος Ὀδυσσεὺς ἔσκε μετʼ ἀνδράσιν, εἴ ποτʼ ἔην γε,"
+    },
+    {
+      "n": 316,
+      "greek": "ξείνους αἰδοίους ἀποπεμπέμεν ἠδὲ δέχεσθαι."
+    },
+    {
+      "n": 317,
+      "greek": "ἀλλά μιν, ἀμφίπολοι, ἀπονίψατε, κάτθετε δʼ εὐνήν,"
+    },
+    {
+      "n": 318,
+      "greek": "δέμνια καὶ χλαίνας καὶ ῥήγεα σιγαλόεντα,"
+    },
+    {
+      "n": 319,
+      "greek": "ὥς κʼ εὖ θαλπιόων χρυσόθρονον Ἠῶ ἵκηται."
+    },
+    {
+      "n": 320,
+      "greek": "ἠῶθεν δὲ μάλʼ ἦρι λοέσσαι τε χρῖσαί τε,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "that verily all these things shall be brought to pass even as I tell thee. In the course of this very month shall Odysseus come hither, as the old moon wanes and the new appears.” Then wise Penelope answered him: “Ah, stranger, I would that this word of thine might be fulfilled."
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "Then shouldest thou straightway know of kindness and many a gift from me, so that one who met thee would call thee blessed. Yet in my heart I forebode it thus, even as it shall be. Neither shall Odysseus any more come home, nor shalt thou obtain a convoy hence, since there are not now in the house such masters"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "as Odysseus was among men—as sure as ever such a man there was—to send reverend strangers on their way, and to welcome them. But still, my maidens, wash the stranger's feet and prepare his bed—bedstead and cloaks and bright coverlets—that in warmth and comfort he may come to the golden-throned Dawn."
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "And right early in the morning bathe him and anoint him, that in our house at the side of Telemachus he may bethink him of food as he sits in the hall. And worse shall it be for any man among them who vexes this man's soul with pain; naught thereafter shall he accomplish here, how fierce soever his wrath."
+    }
+  ]
+}

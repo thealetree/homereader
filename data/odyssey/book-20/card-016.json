@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ἦκα παρακλίνας κεφαλήν, μείδησε δὲ θυμῷ"
+    },
+    {
+      "n": 302,
+      "greek": "σαρδάνιον μάλα τοῖον· ὁ δʼ εὔδμητον βάλε τοῖχον."
+    },
+    {
+      "n": 303,
+      "greek": "Κτήσιππον δʼ ἄρα Τηλέμαχος ἠνίπαπε μύθῳ·"
+    },
+    {
+      "n": 304,
+      "greek": "Κτήσιππʼ, ἦ μάλα τοι τόδε κέρδιον ἔπλετο θυμῷ·"
+    },
+    {
+      "n": 305,
+      "greek": "οὐκ ἔβαλες τὸν ξεῖνον· ἀλεύατο γὰρ βέλος αὐτός."
+    },
+    {
+      "n": 306,
+      "greek": "ἦ γάρ κέν σε μέσον βάλον ἔγχεϊ ὀξυόεντι,"
+    },
+    {
+      "n": 307,
+      "greek": "καί κέ τοι ἀντὶ γάμοιο πατὴρ τάφον ἀμφεπονεῖτο"
+    },
+    {
+      "n": 308,
+      "greek": "ἐνθάδε. τῷ μή τίς μοι ἀεικείας ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 309,
+      "greek": "φαινέτω· ἤδη γὰρ νοέω καὶ οἶδα ἕκαστα,"
+    },
+    {
+      "n": 310,
+      "greek": "ἐσθλά τε καὶ τὰ χέρηα· πάρος δʼ ἔτι νήπιος ἦα."
+    },
+    {
+      "n": 311,
+      "greek": "ἀλλʼ ἔμπης τάδε μὲν καὶ τέτλαμεν εἰσορόωντες,"
+    },
+    {
+      "n": 312,
+      "greek": "μήλων σφαζομένων οἴνοιό τε πινομένοιο"
+    },
+    {
+      "n": 313,
+      "greek": "καὶ σίτου· χαλεπὸν γὰρ ἐρυκακέειν ἕνα πολλούς."
+    },
+    {
+      "n": 314,
+      "greek": "ἀλλʼ ἄγε μηκέτι μοι κακὰ ῥέζετε δυσμενέοντες·"
+    },
+    {
+      "n": 315,
+      "greek": "εἰ δʼ ἤδη μʼ αὐτὸν κτεῖναι μενεαίνετε χαλκῷ,"
+    },
+    {
+      "n": 316,
+      "greek": "καί κε τὸ βουλοίμην, καί κεν πολὺ κέρδιον εἴη"
+    },
+    {
+      "n": 317,
+      "greek": "τεθνάμεν ἢ τάδε γʼ αἰὲν ἀεικέα ἔργʼ ὁράασθαι,"
+    },
+    {
+      "n": 318,
+      "greek": "ξείνους τε στυφελιζομένους δμῳάς τε γυναῖκας"
+    },
+    {
+      "n": 319,
+      "greek": "ῥυστάζοντας ἀεικελίως κατὰ δώματα καλά."
+    },
+    {
+      "n": 320,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "Thou didst not smite the stranger, for he himself avoided thy missile, else surely would I have struck thee through the middle with my sharp spear, and instead of a wedding feast thy father would have been busied with a funeral feast in this land. Wherefore let no man, I warn you, make a show of forwardness in my house; for now I mark and understand all things,"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "the good and the evil, whereas heretofore I was but a child. But none the less we still endure to see these deeds, while sheep are slaughtered, and wine drunk, and bread consumed, for hard it is for one man to restrain many. Yet come, no longer work me harm of your evil wills."
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "But if you are minded even now to slay me myself with the sword, even that would I choose, and it would be better far to die than continually to behold these shameful deeds, strangers mishandled and men dragging the handmaidens in shameful fashion through the fair hall.”"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "So he spoke, and they were all hushed in silence, but at last there spoke among them Agelaus, son of Damastor: “Friends, no man in answer to what has been fairly spoken would wax wroth and make reply with wrangling words. Abuse not any more the stranger nor any"
+    }
+  ]
+}

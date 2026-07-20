@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 21,
+  "lineStart": 402,
+  "lineEnd": 421,
+  "lines": [
+    {
+      "n": 402,
+      "greek": "κτείνειν· ἀλλὰ πρῶτα θεῶν εἰρώμεθα βουλάς."
+    },
+    {
+      "n": 403,
+      "greek": "εἰ μέν κʼ αἰνήσωσι Διὸς μεγάλοιο θέμιστες,"
+    },
+    {
+      "n": 404,
+      "greek": "αὐτός τε κτενέω τούς τʼ ἄλλους πάντας ἀνώξω·"
+    },
+    {
+      "n": 405,
+      "greek": "εἰ δέ κʼ ἀποτρωπῶσι θεοί, παύσασθαι ἄνωγα."
+    },
+    {
+      "n": 406,
+      "greek": "ὣς ἔφατʼ Ἀμφίνομος, τοῖσιν δʼ ἐπιήνδανε μῦθος."
+    },
+    {
+      "n": 407,
+      "greek": "αὐτίκʼ ἔπειτʼ ἀνστάντες ἔβαν δόμον εἰς Ὀδυσῆος,"
+    },
+    {
+      "n": 408,
+      "greek": "ἐλθόντες δὲ καθῖζον ἐπὶ ξεστοῖσι θρόνοισιν."
+    },
+    {
+      "n": 409,
+      "greek": "ἡ δʼ αὖτʼ ἄλλʼ ἐνόησε περίφρων Πηνελόπεια,"
+    },
+    {
+      "n": 410,
+      "greek": "μνηστήρεσσι φανῆναι ὑπέρβιον ὕβριν ἔχουσι."
+    },
+    {
+      "n": 411,
+      "greek": "πεύθετο γὰρ οὗ παιδὸς ἐνὶ μεγάροισιν ὄλεθρον·"
+    },
+    {
+      "n": 412,
+      "greek": "κῆρυξ γὰρ οἱ ἔειπε Μέδων, ὃς ἐπεύθετο βουλάς."
+    },
+    {
+      "n": 413,
+      "greek": "βῆ δʼ ἰέναι μέγαρόνδε σὺν ἀμφιπόλοισι γυναιξίν."
+    },
+    {
+      "n": 414,
+      "greek": "ἀλλʼ ὅτε δὴ μνηστῆρας ἀφίκετο δῖα γυναικῶν,"
+    },
+    {
+      "n": 415,
+      "greek": "στῆ ῥα παρὰ σταθμὸν τέγεος πύκα ποιητοῖο,"
+    },
+    {
+      "n": 416,
+      "greek": "ἄντα παρειάων σχομένη λιπαρὰ κρήδεμνα,"
+    },
+    {
+      "n": 417,
+      "greek": "Ἀντίνοον δʼ ἐνένιπεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 418,
+      "greek": "Ἀντίνοʼ, ὕβριν ἔχων, κακομήχανε, καὶ δέ σέ φασιν"
+    },
+    {
+      "n": 419,
+      "greek": "ἐν δήμῳ Ἰθάκης μεθʼ ὁμήλικας ἔμμεν ἄριστον"
+    },
+    {
+      "n": 420,
+      "greek": "βουλῇ καὶ μύθοισι· σὺ δʼ οὐκ ἄρα τοῖος ἔησθα."
+    },
+    {
+      "n": 421,
+      "greek": "μάργε, τίη δὲ σὺ Τηλεμάχῳ θάνατόν τε μόρον τε"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "but if the gods turn us from the act, I bid you desist.” Thus spoke Amphinomus, and his word was pleasing to them. So they arose straightway and went to the house of Odysseus, and entering in, sat down on the polished seats. Then the wise Penelope took other counsel,"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "to show herself to the wooers, overweening in their insolence. For she had learned of the threatened death of her son in her halls, for the herald Medon told her, who had heard their counsel. So she went her way toward the hall with her handmaids. But when the fair lady reached the wooers,"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "she stood by the doorpost of the well-built hall, holding before her face her shining veil; and she rebuked Antinous, and spoke, and addressed him: “Antinous, full of insolence, deviser of evil! and yet it is thou, men say, that dost excel among all of thy years in the land of Ithaca"
+    },
+    {
+      "lines": [
+        420,
+        421
+      ],
+      "text": "in counsel and in speech. But thou, it seems, art not such a man. Madman! why dost thou devise death and fate for Telemachus, and carest not for suppliants, for whom Zeus is witness. 'Tis an impious thing to plot evil one against another. Dost thou not know of the time when thy father came to this house a fugitive"
+    }
+  ]
+}

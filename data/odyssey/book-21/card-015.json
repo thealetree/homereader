@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ἀλλʼ ἄγʼ ἐμοὶ δότε τόξον ἐΰξοον, ὄφρα μεθʼ ὑμῖν"
+    },
+    {
+      "n": 282,
+      "greek": "χειρῶν καὶ σθένεος πειρήσομαι, ἤ μοι ἔτʼ ἐστὶν"
+    },
+    {
+      "n": 283,
+      "greek": "ἴς, οἵη πάρος ἔσκεν ἐνὶ γναμπτοῖσι μέλεσσιν,"
+    },
+    {
+      "n": 284,
+      "greek": "ἦ ἤδη μοι ὄλεσσεν ἄλη τʼ ἀκομιστίη τε."
+    },
+    {
+      "n": 285,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ὑπερφιάλως νεμέσησαν,"
+    },
+    {
+      "n": 286,
+      "greek": "δείσαντες μὴ τόξον ἐΰξοον ἐντανύσειεν."
+    },
+    {
+      "n": 287,
+      "greek": "Ἀντίνοος δʼ ἐνένιπεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 288,
+      "greek": "ἆ δειλὲ ξείνων, ἔνι τοι φρένες οὐδʼ ἠβαιαί·"
+    },
+    {
+      "n": 289,
+      "greek": "οὐκ ἀγαπᾷς ὃ ἕκηλος ὑπερφιάλοισι μεθʼ ἡμῖν"
+    },
+    {
+      "n": 290,
+      "greek": "δαίνυσαι, οὐδέ τι δαιτὸς ἀμέρδεαι, αὐτὰρ ἀκούεις"
+    },
+    {
+      "n": 291,
+      "greek": "μύθων ἡμετέρων καὶ ῥήσιος; οὐδέ τις ἄλλος"
+    },
+    {
+      "n": 292,
+      "greek": "ἡμετέρων μύθων ξεῖνος καὶ πτωχὸς ἀκούει."
+    },
+    {
+      "n": 293,
+      "greek": "οἶνός σε τρώει μελιηδής, ὅς τε καὶ ἄλλους"
+    },
+    {
+      "n": 294,
+      "greek": "βλάπτει, ὃς ἄν μιν χανδὸν ἕλῃ μηδʼ αἴσιμα πίνῃ."
+    },
+    {
+      "n": 295,
+      "greek": "οἶνος καὶ Κένταυρον, ἀγακλυτὸν Εὐρυτίωνα,"
+    },
+    {
+      "n": 296,
+      "greek": "ἄασʼ ἐνὶ μεγάρῳ μεγαθύμου Πειριθόοιο,"
+    },
+    {
+      "n": 297,
+      "greek": "ἐς Λαπίθας ἐλθόνθʼ· ὁ δʼ ἐπεὶ φρένας ἄασεν οἴνῳ,"
+    },
+    {
+      "n": 298,
+      "greek": "μαινόμενος κάκʼ ἔρεξε δόμον κάτα Πειριθόοιο·"
+    },
+    {
+      "n": 299,
+      "greek": "ἥρωας δʼ ἄχος εἷλε, διὲκ προθύρου δὲ θύραζε"
+    },
+    {
+      "n": 300,
+      "greek": "ἕλκον ἀναΐξαντες, ἀπʼ οὔατα νηλέϊ χαλκῷ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "So he spoke, and they all waxed exceeding wroth, fearing lest he might string the polished bow. And Antinous rebuked him, and spoke and addressed him: “Ah, wretched stranger, thou hast no wit, no, not a trace. Art thou not content"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "that thou feastest undisturbed in our proud company, and lackest naught of the banquet, but hearest our words and our speech, while no other that is a stranger and beggar hears our words? It is wine that wounds thee, honey-sweet wine, which works harm to others too, if one takes it in great gulps, and drinks beyond measure."
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "It was wine that made foolish even the centaur, glorious Eurytion, in the hall of greathearted Peirithous, when he went to the Lapithae: and when his heart had been made foolish with wine, in his madness he wrought evil in the house of Peirithous. Then grief seized the heroes,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "and they leapt up and dragged him forth through the gateway, when they had shorn off his ears and his nostrils with the pitiless bronze, and he, made foolish in heart, went his way, bearing with him the curse of his sin in the folly of his heart. From hence the feud arose between the centaurs and mankind; but it was for himself first that he found evil, being heavy with wine."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "δὴ τότʼ ἄρʼ Ἀλκίνοον προσεφώνεε δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 382,
+      "greek": "Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν,"
+    },
+    {
+      "n": 383,
+      "greek": "ἠμὲν ἀπείλησας βητάρμονας εἶναι ἀρίστους,"
+    },
+    {
+      "n": 384,
+      "greek": "ἠδʼ ἄρʼ ἑτοῖμα τέτυκτο· σέβας μʼ ἔχει εἰσορόωντα."
+    },
+    {
+      "n": 385,
+      "greek": "ὣς φάτο, γήθησεν δʼ ἱερὸν μένος Ἀλκινόοιο,"
+    },
+    {
+      "n": 386,
+      "greek": "αἶψα δὲ Φαιήκεσσι φιληρέτμοισι μετηύδα·"
+    },
+    {
+      "n": 387,
+      "greek": "κέκλυτε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες."
+    },
+    {
+      "n": 388,
+      "greek": "ὁ ξεῖνος μάλα μοι δοκέει πεπνυμένος εἶναι."
+    },
+    {
+      "n": 389,
+      "greek": "ἀλλʼ ἄγε οἱ δῶμεν ξεινήιον, ὡς ἐπιεικές."
+    },
+    {
+      "n": 390,
+      "greek": "δώδεκα γὰρ κατὰ δῆμον ἀριπρεπέες βασιλῆες"
+    },
+    {
+      "n": 391,
+      "greek": "ἀρχοὶ κραίνουσι, τρισκαιδέκατος δʼ ἐγὼ αὐτός·"
+    },
+    {
+      "n": 392,
+      "greek": "τῶν οἱ ἕκαστος φᾶρος ἐυπλυνὲς ἠδὲ χιτῶνα"
+    },
+    {
+      "n": 393,
+      "greek": "καὶ χρυσοῖο τάλαντον ἐνείκατε τιμήεντος."
+    },
+    {
+      "n": 394,
+      "greek": "αἶψα δὲ πάντα φέρωμεν ἀολλέα, ὄφρʼ ἐνὶ χερσὶν"
+    },
+    {
+      "n": 395,
+      "greek": "ξεῖνος ἔχων ἐπὶ δόρπον ἴῃ χαίρων ἐνὶ θυμῷ."
+    },
+    {
+      "n": 396,
+      "greek": "Εὐρύαλος δέ ἑ αὐτὸν ἀρεσσάσθω ἐπέεσσι"
+    },
+    {
+      "n": 397,
+      "greek": "καὶ δώρῳ, ἐπεὶ οὔ τι ἔπος κατὰ μοῖραν ἔειπεν."
+    },
+    {
+      "n": 398,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπῄνεον ἠδʼ ἐκέλευον,"
+    },
+    {
+      "n": 399,
+      "greek": "δῶρα δʼ ἄρʼ οἰσέμεναι πρόεσαν κήρυκα ἕκαστος."
+    },
+    {
+      "n": 400,
+      "greek": "τὸν δʼ αὖτʼ Εὐρύαλος ἀπαμείβετο φώνησέν τε·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "So he spoke, and the strong and mighty Alcinous was glad; and straightway he spoke among the Phaeacians, lovers of the oar: “Hear me, leaders and counsellors of the Phaeacians. This stranger verily seems to me a man of understanding. Come then, let us give him a gift of friendship, as is fitting;"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "for twelve glorious kings bear sway in our land as rulers, and I myself am the thirteenth. Now do you, each of the twelve, bring a newly washed cloak and tunic, and a talent of precious gold, and let us straightway bring all together,"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "that the stranger with our gifts in his hands may go to his supper glad at heart. And let Euryalus make amends to the stranger himself with words and with a gift, for the word that he spoke was in no wise seemly.” So he spoke, and they all praised his words and bade that so it should be, and sent forth every man a herald to fetch the gifts."
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "And Euryalus in turn made answer, and said: “Lord Alcinous, renowned above all men, I will indeed make amends to the stranger, as thou biddest me. I will give him this sword, all of bronze, whereon is a hilt of silver, and a scabbard of new-sawn ivory"
+    }
+  ]
+}

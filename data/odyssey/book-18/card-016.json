@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ἄλλο δʼ ἄρʼ ἄλλος δῶρον Ἀχαιῶν καλὸν ἔνεικεν."
+    },
+    {
+      "n": 302,
+      "greek": "ἡ μὲν ἔπειτʼ ἀνέβαινʼ ὑπερώϊα δῖα γυναικῶν,"
+    },
+    {
+      "n": 303,
+      "greek": "τῇ δʼ ἄρʼ ἅμʼ ἀμφίπολοι ἔφερον περικαλλέα δῶρα"
+    },
+    {
+      "n": 304,
+      "greek": "οἱ δʼ εἰς ὀρχηστύν τε καὶ ἱμερόεσσαν ἀοιδὴν"
+    },
+    {
+      "n": 305,
+      "greek": "τρεψάμενοι τέρποντο, μένον δʼ ἐπὶ ἕσπερον ἐλθεῖν."
+    },
+    {
+      "n": 306,
+      "greek": "τοῖσι δὲ τερπομένοισι μέλας ἐπὶ ἕσπερος ἦλθεν."
+    },
+    {
+      "n": 307,
+      "greek": "αὐτίκα λαμπτῆρας τρεῖς ἵστασαν ἐν μεγάροισιν,"
+    },
+    {
+      "n": 308,
+      "greek": "ὄφρα φαείνοιεν· περὶ δὲ ξύλα κάγκανα θῆκαν,"
+    },
+    {
+      "n": 309,
+      "greek": "αὖα πάλαι, περίκηλα, νέον κεκεασμένα χαλκῷ,"
+    },
+    {
+      "n": 310,
+      "greek": "καὶ δαΐδας μετέμισγον· ἀμοιβηδὶς δʼ ἀνέφαινον"
+    },
+    {
+      "n": 311,
+      "greek": "δμῳαὶ Ὀδυσσῆος ταλασίφρονος. αὐτὰρ ὁ τῇσιν"
+    },
+    {
+      "n": 312,
+      "greek": "αὐτὸς διογενῆς μετέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 313,
+      "greek": "δμῳαὶ Ὀδυσσῆος, δὴν οἰχομένοιο ἄνακτος,"
+    },
+    {
+      "n": 314,
+      "greek": "ἔρχεσθε πρὸς δώμαθʼ, ἵνʼ αἰδοίη βασίλεια·"
+    },
+    {
+      "n": 315,
+      "greek": "τῇ δὲ παρʼ ἠλάκατα στροφαλίζετε, τέρπετε δʼ αὐτὴν"
+    },
+    {
+      "n": 316,
+      "greek": "ἥμεναι ἐν μεγάρῳ, ἢ εἴρια πείκετε χερσίν·"
+    },
+    {
+      "n": 317,
+      "greek": "αὐτὰρ ἐγὼ τούτοισι φάος πάντεσσι παρέξω."
+    },
+    {
+      "n": 318,
+      "greek": "ἤν περ γάρ κʼ ἐθέλωσιν ἐΰθρονον Ἠῶ μίμνειν,"
+    },
+    {
+      "n": 319,
+      "greek": "οὔ τί με νικήσουσι· πολυτλήμων δὲ μάλʼ εἰμί."
+    },
+    {
+      "n": 320,
+      "greek": "ὣς ἔφαθʼ, αἱ δʼ ἐγέλασσαν, ἐς ἀλλήλας δὲ ἴδοντο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "turned to dance and gladsome song, and made them merry, and waited for evening to come on. And as they made merry dark evening came upon them. Presently they set up three braziers in the hall to give them light, and round about them placed dry faggots, long since seasoned and hard, and newly split with the axe;"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "and in the spaces between they set torches; and in turn the handmaids of Odysseus, of the steadfast heart, kindled the flame. Then Zeus-born Odysseus, of many wiles, himself spoke among the maids, and said: “Maidens of Odysseus, that has long been gone, go to the chambers where your honored queen abides,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "and twist the yarn by her side, and make glad her heart, as you sit in the chamber, or card the wool with your hands; but I will give light to all these men. For if they wish to wait for fair-throned Dawn, they shall in no wise outdo me. I am one that can endure much.”"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "So he spoke, and the maids broke into a laugh, and glanced at one another. And fair-cheeked Melantho rated him shamefully, Melantho, whom Dolius begot, but whom Penelope had reared and cherished as her own child, and gave her playthings to her heart's desire. Yet even so she had at heart no sorrow for Penelope,"
+    }
+  ]
+}

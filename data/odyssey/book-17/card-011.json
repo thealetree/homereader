@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "ῥύατʼ ὄπισθε μένοντες· ὁ δʼ ἐς πόλιν ἦγεν ἄνακτα"
+    },
+    {
+      "n": 202,
+      "greek": "πτωχῷ λευγαλέῳ ἐναλίγκιον ἠδὲ γέροντι,"
+    },
+    {
+      "n": 203,
+      "greek": "σκηπτόμενον· τὰ δὲ λυγρὰ περὶ χροῒ εἵματα ἕστο."
+    },
+    {
+      "n": 204,
+      "greek": "ἀλλʼ ὅτε δὴ στείχοντες ὁδὸν κάτα παιπαλόεσσαν"
+    },
+    {
+      "n": 205,
+      "greek": "ἄστεος ἐγγὺς ἔσαν καὶ ἐπὶ κρήνην ἀφίκοντο"
+    },
+    {
+      "n": 206,
+      "greek": "τυκτὴν καλλίροον, ὅθεν ὑδρεύοντο πολῖται,"
+    },
+    {
+      "n": 207,
+      "greek": "τὴν ποίησʼ Ἴθακος καὶ Νήριτος ἠδὲ Πολύκτωρ·"
+    },
+    {
+      "n": 208,
+      "greek": "ἀμφὶ δʼ ἄρʼ αἰγείρων ὑδατοτρεφέων ἦν ἄλσος,"
+    },
+    {
+      "n": 209,
+      "greek": "πάντοσε κυκλοτερές, κατὰ δὲ ψυχρὸν ῥέεν ὕδωρ"
+    },
+    {
+      "n": 210,
+      "greek": "ὑψόθεν ἐκ πέτρης· βωμὸς δʼ ἐφύπερθε τέτυκτο"
+    },
+    {
+      "n": 211,
+      "greek": "νυμφάων, ὅθι πάντες ἐπιρρέζεσκον ὁδῖται·"
+    },
+    {
+      "n": 212,
+      "greek": "ἔνθα σφέας ἐκίχανʼ υἱὸς Δολίοιο Μελανθεὺς"
+    },
+    {
+      "n": 213,
+      "greek": "αἶγας ἄγων, αἳ πᾶσι μετέπρεπον αἰπολίοισι,"
+    },
+    {
+      "n": 214,
+      "greek": "δεῖπνον μνηστήρεσσι· δύω δʼ ἅμʼ ἕποντο νομῆες."
+    },
+    {
+      "n": 215,
+      "greek": "τοὺς δὲ ἰδὼν νείκεσσεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν,"
+    },
+    {
+      "n": 216,
+      "greek": "ἔκπαγλον καὶ ἀεικές· ὄρινε δὲ κῆρ Ὀδυσῆος·"
+    },
+    {
+      "n": 217,
+      "greek": "νῦν μὲν δὴ μάλα πάγχυ κακὸς κακὸν ἡγηλάζει,"
+    },
+    {
+      "n": 218,
+      "greek": "ὡς αἰεὶ τὸν ὁμοῖον ἄγει θεὸς ὡς τὸν ὁμοῖον."
+    },
+    {
+      "n": 219,
+      "greek": "πῇ δὴ τόνδε μολοβρὸν ἄγεις, ἀμέγαρτε συβῶτα,"
+    },
+    {
+      "n": 220,
+      "greek": "πτωχὸν ἀνιηρόν δαιτῶν ἀπολυμαντῆρα;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "they were near the city, and had come to a well-wrought, fair-flowing fountain, wherefrom the townsfolk drew water—this Ithacus had made, and Neritus, and Polyctor, and around was a grove of poplars, that grow by the waters, circling it on all sides, and down the cold water flowed"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "from the rock above, and on the top was built an altar to the nymphs where all passers-by made offerings—there Melantheus, son of Dolius, met them as he was driving his she-goats, the best that were in all the herds, to make a feast for the wooers; and two herdsmen followed with him."
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "As he saw them, he spoke and addressed them, and reviled them in terrible and unseemly words, and stirred the heart of Odysseus: “Lo, now, in very truth the vile leads the vile. As ever, the god is bringing like and like together. Whither, pray, art thou leading this filthy wretch, thou miserable swineherd,"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "this nuisance of a beggar to mar our feasts? He is a man to stand and rub his shoulders on many doorposts, begging for scraps, not for swords or cauldrons. If thou wouldest give me this fellow to keep my farmstead, to sweep out the pens and to carry young shoots to the kids,"
+    }
+  ]
+}

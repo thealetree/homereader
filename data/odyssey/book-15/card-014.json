@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "λίσσομʼ ὑπὲρ θυέων καὶ δαίμονος, αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 262,
+      "greek": "σῆς τʼ αὐτοῦ κεφαλῆς καὶ ἑταίρων, οἵ τοι ἕπονται,"
+    },
+    {
+      "n": 263,
+      "greek": "εἰπέ μοι εἰρομένῳ νημερτέα μηδʼ ἐπικεύσῃς·"
+    },
+    {
+      "n": 264,
+      "greek": "τίς πόθεν εἶς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες;"
+    },
+    {
+      "n": 265,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 266,
+      "greek": "τοιγὰρ ἐγώ τοι, ξεῖνε, μάλʼ ἀτρεκέως ἀγορεύσω."
+    },
+    {
+      "n": 267,
+      "greek": "ἐξ Ἰθάκης γένος εἰμί, πατὴρ δέ μοί ἐστιν Ὀδυσσεύς,"
+    },
+    {
+      "n": 268,
+      "greek": "εἴ ποτʼ ἔην· νῦν δʼ ἤδη ἀπέφθιτο λυγρῷ ὀλέθρῳ."
+    },
+    {
+      "n": 269,
+      "greek": "τοὔνεκα νῦν ἑτάρους τε λαβὼν καὶ νῆα μέλαιναν"
+    },
+    {
+      "n": 270,
+      "greek": "ἦλθον πευσόμενος πατρὸς δὴν οἰχομένοιο."
+    },
+    {
+      "n": 271,
+      "greek": "τὸν δʼ αὖτε προσέειπε Θεοκλύμενος θεοειδής·"
+    },
+    {
+      "n": 272,
+      "greek": "οὕτω τοι καὶ ἐγὼν ἐκ πατρίδος, ἄνδρα κατακτὰς"
+    },
+    {
+      "n": 273,
+      "greek": "ἔμφυλον· πολλοὶ δὲ κασίγνητοί τε ἔται τε"
+    },
+    {
+      "n": 274,
+      "greek": "Ἄργος ἀνʼ ἱππόβοτον, μέγα δὲ κρατέουσιν Ἀχαιῶν."
+    },
+    {
+      "n": 275,
+      "greek": "τῶν ὑπαλευάμενος θάνατον καὶ κῆρα μέλαιναν"
+    },
+    {
+      "n": 276,
+      "greek": "φεύγω, ἐπεί νύ μοι αἶσα κατʼ ἀνθρώπους ἀλάλησθαι."
+    },
+    {
+      "n": 277,
+      "greek": "ἀλλά με νηὸς ἔφεσσαι, ἐπεί σε φυγὼν ἱκέτευσα,"
+    },
+    {
+      "n": 278,
+      "greek": "μή με κατακτείνωσι· διωκέμεναι γὰρ ὀΐω."
+    },
+    {
+      "n": 279,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 280,
+      "greek": "οὐ μὲν δή σʼ ἐθέλοντά γʼ ἀπώσω νηὸς ἐΐσης,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "And wise Telemachus answered him: “Then verily, stranger, will I frankly tell thee all. Of Ithaca I am by birth, and my father is Odysseus, as sure as ever such a one there was; but now he has perished by a pitiful fate. Therefore have I now taken my comrades and a black ship,"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "and am come to seek tidings of my father, that has long been gone.” Then godlike Theoclymenus answered him: “Even so have I, too, fled from my country, for that I slew a man, one of mine own kin. And many brethren and kinsmen of his there are in horse-pasturing Argos, and mightily do they bear sway over the Achaeans."
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "It is to shun death and black fate at their hands that I flee, for, I ween, it is my lot to be a wanderer among men. But do thou set me on thy ship, since in my flight I have made prayer to thee, lest they utterly slay me; for methinks they are in pursuit.” And wise Telemachus answered him:"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "“Then will I in no wise thrust thee from my shapely ship, since thou art eager to come. Nay, follow with us, and in our home shalt thou find entertainment such as we have.” So saying, he took from him his spear of bronze, and laid it at length on the deck of the curved ship, and himself went aboard the seafaring ship."
+    }
+  ]
+}

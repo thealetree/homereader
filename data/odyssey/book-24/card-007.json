@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "Ἀτρεΐδη κύδιστε, ἄναξ ἀνδρῶν Ἀγάμεμνον,"
+    },
+    {
+      "n": 122,
+      "greek": "μέμνημαι τάδε πάντα, διοτρεφές, ὡς ἀγορεύεις·"
+    },
+    {
+      "n": 123,
+      "greek": "σοὶ δʼ ἐγὼ εὖ μάλα πάντα καὶ ἀτρεκέως καταλέξω,"
+    },
+    {
+      "n": 124,
+      "greek": "ἡμετέρου θανάτοιο κακὸν τέλος, οἷον ἐτύχθη."
+    },
+    {
+      "n": 125,
+      "greek": "μνώμεθʼ Ὀδυσσῆος δὴν οἰχομένοιο δάμαρτα·"
+    },
+    {
+      "n": 126,
+      "greek": "ἡ δʼ οὔτʼ ἠρνεῖτο στυγερὸν γάμον οὔτʼ ἐτελεύτα,"
+    },
+    {
+      "n": 127,
+      "greek": "ἡμῖν φραζομένη θάνατον καὶ κῆρα μέλαιναν,"
+    },
+    {
+      "n": 128,
+      "greek": "ἀλλὰ δόλον τόνδʼ ἄλλον ἐνὶ φρεσὶ μερμήριξε·"
+    },
+    {
+      "n": 129,
+      "greek": "στησαμένη μέγαν ἱστὸν ἐνὶ μεγάροισιν ὕφαινε,"
+    },
+    {
+      "n": 130,
+      "greek": "λεπτὸν καὶ περίμετρον· ἄφαρ δʼ ἡμῖν μετέειπε·"
+    },
+    {
+      "n": 131,
+      "greek": "κοῦροι ἐμοὶ μνηστῆρες, ἐπεὶ θάνε δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 132,
+      "greek": "μίμνετʼ ἐπειγόμενοι τὸν ἐμὸν γάμον, εἰς ὅ κε φᾶρος"
+    },
+    {
+      "n": 133,
+      "greek": "ἐκτελέσω, μή μοι μεταμώνια νήματʼ ὄληται,"
+    },
+    {
+      "n": 134,
+      "greek": "Λαέρτῃ ἥρωϊ ταφήϊον, εἰς ὅτε κέν μιν"
+    },
+    {
+      "n": 135,
+      "greek": "μοῖρʼ ὀλοὴ καθέλῃσι τανηλεγέος θανάτοιο,"
+    },
+    {
+      "n": 136,
+      "greek": "μή τίς μοι κατὰ δῆμον Ἀχαιϊάδων νεμεσήσῃ,"
+    },
+    {
+      "n": 137,
+      "greek": "αἴ κεν ἄτερ σπείρου κεῖται πολλὰ κτεατίσσας."
+    },
+    {
+      "n": 138,
+      "greek": "ὣς ἔφαθʼ, ἡμῖν δʼ αὖτʼ ἐπεπείθετο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 139,
+      "greek": "ἔνθα καὶ ἠματίη μὲν ὑφαίνεσκεν μέγαν ἱστόν,"
+    },
+    {
+      "n": 140,
+      "greek": "νύκτας δʼ ἀλλύεσκεν, ἐπεὶ δαΐδας παραθεῖτο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "We wooed the wife of Odysseus, that had long been gone, and she neither refused the hateful marriage, nor would she ever make an end, devising for us death and black fate. Nay, she contrived in her heart this guileful thing also: she set up in her halls a great web, and fell to weaving—"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "fine of thread was the web and very wide; and straightway she spoke among us: “‘Young men, my wooers, since goodly Odysseus is dead, be patient, though eager for my marriage, until I finish this robe—I would not that my spinning should come to naught—a shroud for the lord Laertes against the time when"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "the fell fate of grievous death shall strike him down; lest any of the Achaean women in the land should be wroth at me, if he were to lie without a shroud, who had won great possessions.’ “So she spoke, and our proud hearts consented. Then day by day she would weave at the great web,"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "but by night would unravel it, when she had let place torches by her. Thus for three years she by her craft kept the Achaeans from knowing, and beguiled them; but when the fourth year came, as the seasons rolled on, as the months waned and many days were brought in their course, even then one of her women who knew all, told us,"
+    }
+  ]
+}

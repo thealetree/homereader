@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "κῆρυξ δʼ ἐγγύθεν ἦλθε φέρων φόρμιγγα λίγειαν"
+    },
+    {
+      "n": 262,
+      "greek": "Δημοδόκῳ· ὁ δʼ ἔπειτα κίʼ ἐς μέσον· ἀμφὶ δὲ κοῦροι"
+    },
+    {
+      "n": 263,
+      "greek": "πρωθῆβαι ἵσταντο, δαήμονες ὀρχηθμοῖο,"
+    },
+    {
+      "n": 264,
+      "greek": "πέπληγον δὲ χορὸν θεῖον ποσίν. αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 265,
+      "greek": "μαρμαρυγὰς θηεῖτο ποδῶν, θαύμαζε δὲ θυμῷ."
+    },
+    {
+      "n": 266,
+      "greek": "αὐτὰρ ὁ φορμίζων ἀνεβάλλετο καλὸν ἀείδειν"
+    },
+    {
+      "n": 267,
+      "greek": "ἀμφʼ Ἄρεος φιλότητος εὐστεφάνου τʼ Ἀφροδίτης,"
+    },
+    {
+      "n": 268,
+      "greek": "ὡς τὰ πρῶτα μίγησαν ἐν Ἡφαίστοιο δόμοισι"
+    },
+    {
+      "n": 269,
+      "greek": "λάθρῃ, πολλὰ δʼ ἔδωκε, λέχος δʼ ᾔσχυνε καὶ εὐνὴν"
+    },
+    {
+      "n": 270,
+      "greek": "Ἡφαίστοιο ἄνακτος. ἄφαρ δέ οἱ ἄγγελος ἦλθεν"
+    },
+    {
+      "n": 271,
+      "greek": "Ἥλιος, ὅ σφʼ ἐνόησε μιγαζομένους φιλότητι."
+    },
+    {
+      "n": 272,
+      "greek": "Ἥφαιστος δʼ ὡς οὖν θυμαλγέα μῦθον ἄκουσε,"
+    },
+    {
+      "n": 273,
+      "greek": "βῆ ῥʼ ἴμεν ἐς χαλκεῶνα κακὰ φρεσὶ βυσσοδομεύων,"
+    },
+    {
+      "n": 274,
+      "greek": "ἐν δʼ ἔθετʼ ἀκμοθέτῳ μέγαν ἄκμονα, κόπτε δὲ δεσμοὺς"
+    },
+    {
+      "n": 275,
+      "greek": "ἀρρήκτους ἀλύτους, ὄφρʼ ἔμπεδον αὖθι μένοιεν."
+    },
+    {
+      "n": 276,
+      "greek": "αὐτὰρ ἐπεὶ δὴ τεῦξε δόλον κεχολωμένος Ἄρει,"
+    },
+    {
+      "n": 277,
+      "greek": "βῆ ῥʼ ἴμεν ἐς θάλαμον, ὅθι οἱ φίλα δέμνιʼ ἔκειτο,"
+    },
+    {
+      "n": 278,
+      "greek": "ἀμφὶ δʼ ἄρʼ ἑρμῖσιν χέε δέσματα κύκλῳ ἁπάντῃ·"
+    },
+    {
+      "n": 279,
+      "greek": "πολλὰ δὲ καὶ καθύπερθε μελαθρόφιν ἐξεκέχυντο,"
+    },
+    {
+      "n": 280,
+      "greek": "ἠύτʼ ἀράχνια λεπτά, τά γʼ οὔ κέ τις οὐδὲ ἴδοιτο,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "gazed at the twinklings of their feet and marvelled in spirit. But the minstrel struck the chords in prelude to his sweet lay and sang of the love of Ares and Aphrodite of the fair crown, how first they lay together in the house of Hephaestus secretly; and Ares gave her many gifts, and shamed the bed"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "of the lord Hephaestus. But straightway one came to him with tidings, even Helius, who had marked them as they lay together in love. And when Hephaestus heard the grievous tale, he went his way to his smithy, pondering evil in the deep of his heart, and set on the anvil block the great anvil and forged bonds"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "which might not be broken or loosed, that the lovers might bide fast where they were. But when he had fashioned the snare in his wrath against Ares, he went to his chamber where lay his bed, and everywhere round about the bed-posts he spread the bonds, and many too were hung from above, from the roof-beams,"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "fine as spiders' webs, so that no one even of the blessed gods could see them, so exceeding craftily were they fashioned. But when he had spread all his snare about the couch, he made as though he would go to Lemnos, that well-built citadel, which is in his eyes far the dearest of all lands."
+    }
+  ]
+}

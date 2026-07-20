@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "ὀσσομένη καὶ γαῖαν ὕπο στυγερὴν ἀφικοίμην,"
+    },
+    {
+      "n": 82,
+      "greek": "μηδέ τι χείρονος ἀνδρὸς ἐϋφραίνοιμι νόημα."
+    },
+    {
+      "n": 83,
+      "greek": "ἀλλὰ τὸ μὲν καὶ ἀνεκτὸν ἔχει κακόν, ὁππότε κέν τις"
+    },
+    {
+      "n": 84,
+      "greek": "ἤματα μὲν κλαίῃ, πυκινῶς ἀκαχήμενος ἦτορ,"
+    },
+    {
+      "n": 85,
+      "greek": "νύκτας δʼ ὕπνος ἔχῃσιν—ὁ γάρ τʼ ἐπέλησεν ἁπάντων,"
+    },
+    {
+      "n": 86,
+      "greek": "ἐσθλῶν ἠδὲ κακῶν, ἐπεὶ ἄρ βλέφαρʼ ἀμφικαλύψῃ—"
+    },
+    {
+      "n": 87,
+      "greek": "αὐτὰρ ἐμοὶ καὶ ὀνείρατʼ ἐπέσσευεν κακὰ δαίμων."
+    },
+    {
+      "n": 88,
+      "greek": "τῇδε γὰρ αὖ μοι νυκτὶ παρέδραθεν εἴκελος αὐτῷ,"
+    },
+    {
+      "n": 89,
+      "greek": "τοῖος ἐὼν οἷος ᾖεν ἅμα στρατῷ· αὐτὰρ ἐμὸν κῆρ"
+    },
+    {
+      "n": 90,
+      "greek": "χαῖρʼ, ἐπεὶ οὐκ ἐφάμην ὄναρ ἔμμεναι, ἀλλʼ ὕπαρ ἤδη."
+    },
+    {
+      "n": 91,
+      "greek": "ὣς ἔφατʼ, αὐτίκα δὲ χρυσόθρονος ἤλυθεν Ἠώς."
+    },
+    {
+      "n": 92,
+      "greek": "τῆς δʼ ἄρα κλαιούσης ὄπα σύνθετο δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 93,
+      "greek": "μερμήριζε δʼ ἔπειτα, δόκησε δέ οἱ κατὰ θυμὸν"
+    },
+    {
+      "n": 94,
+      "greek": "ἤδη γιγνώσκουσα παρεστάμεναι κεφαλῆφι."
+    },
+    {
+      "n": 95,
+      "greek": "χλαῖναν μὲν συνελὼν καὶ κώεα, τοῖσιν ἐνεῦδεν,"
+    },
+    {
+      "n": 96,
+      "greek": "ἐς μέγαρον κατέθηκεν ἐπὶ θρόνου, ἐκ δὲ βοείην"
+    },
+    {
+      "n": 97,
+      "greek": "θῆκε θύραζε φέρων, Διὶ δʼ εὔξατο χεῖρας ἀνασχών·"
+    },
+    {
+      "n": 98,
+      "greek": "Ζεῦ πάτερ, εἴ μʼ ἐθέλοντες ἐπὶ τραφερήν τε καὶ ὑγρὴν"
+    },
+    {
+      "n": 99,
+      "greek": "ἤγετʼ ἐμὴν ἐς γαῖαν, ἐπεί μʼ ἐκακώσατε λίην,"
+    },
+    {
+      "n": 100,
+      "greek": "φήμην τίς μοι φάσθω ἐγειρομένων ἀνθρώπων"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "but at night sleep holds him, this brings with it an evil that may well be borne—for sleep makes one forget all things, the good and the evil, when once it envelops the eyelids—but upon me a god sends evil dreams as well. For this night again there lay by my side one like him, even such as he was when he went forth with the host, and my heart"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "was glad, for I deemed it was no dream, but the truth at last.” So she spoke, and straightway came golden-throned Dawn. But as she wept goodly Odysseus heard her voice, and thereupon he mused, and it seemed to his heart that she knew him and was standing by his head."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "Then he gathered up the cloak and the fleeces on which he was lying and laid them on a chair in the hall, and carried the ox-hide out of doors and set it down; and he lifted up his hands and prayed to Zeus: “Father Zeus, if of your good will ye gods have brought me over land and sea to my own country, when ye had afflicted me sore,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "let some one of those who are awaking utter a word of omen for me within, and without let a sign from Zeus be shown besides.” So he spoke in prayer, and Zeus the counsellor heard him. Straightway he thundered from gleaming Olympus, from on high from out the clouds; and goodly Odysseus was glad."
+    }
+  ]
+}

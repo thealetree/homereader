@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "χοίρεʼ· ἀτὰρ σιάλους γε σύας μνηστῆρες ἔδουσιν,"
+    },
+    {
+      "n": 82,
+      "greek": "οὐκ ὄπιδα φρονέοντες ἐνὶ φρεσὶν οὐδʼ ἐλεητύν."
+    },
+    {
+      "n": 83,
+      "greek": "οὐ μὲν σχέτλια ἔργα θεοὶ μάκαρες φιλέουσιν,"
+    },
+    {
+      "n": 84,
+      "greek": "ἀλλὰ δίκην τίουσι καὶ αἴσιμα ἔργʼ ἀνθρώπων."
+    },
+    {
+      "n": 85,
+      "greek": "καὶ μὲν δυσμενέες καὶ ἀνάρσιοι, οἵ τʼ ἐπὶ γαίης"
+    },
+    {
+      "n": 86,
+      "greek": "ἀλλοτρίης βῶσιν καί σφι Ζεὺς ληΐδα δώῃ,"
+    },
+    {
+      "n": 87,
+      "greek": "πλησάμενοι δέ τε νῆας ἔβαν οἶκόνδε νέεσθαι,"
+    },
+    {
+      "n": 88,
+      "greek": "καὶ μὲν τοῖς ὄπιδος κρατερὸν δέος ἐν φρεσὶ πίπτει."
+    },
+    {
+      "n": 89,
+      "greek": "οἵδε δὲ καί τι ἴσασι, θεοῦ δέ τινʼ ἔκλυον αὐδήν,"
+    },
+    {
+      "n": 90,
+      "greek": "κείνου λυγρὸν ὄλεθρον, ὅτʼ οὐκ ἐθέλουσι δικαίως"
+    },
+    {
+      "n": 91,
+      "greek": "μνᾶσθαι οὐδὲ νέεσθαι ἐπὶ σφέτερʼ, ἀλλὰ ἕκηλοι"
+    },
+    {
+      "n": 92,
+      "greek": "κτήματα δαρδάπτουσιν ὑπέρβιον, οὐδʼ ἔπι φειδώ."
+    },
+    {
+      "n": 93,
+      "greek": "ὅσσαι γὰρ νύκτες τε καὶ ἡμέραι ἐκ Διός εἰσιν,"
+    },
+    {
+      "n": 94,
+      "greek": "οὔ ποθʼ ἓν ἱρεύουσʼ ἱερήϊον, οὐδὲ δύʼ οἴω·"
+    },
+    {
+      "n": 95,
+      "greek": "οἶνον δὲ φθινύθουσιν ὑπέρβιον ἐξαφύοντες."
+    },
+    {
+      "n": 96,
+      "greek": "ἦ γάρ οἱ ζωή γʼ ἦν ἄσπετος· οὔ τινι τόσση"
+    },
+    {
+      "n": 97,
+      "greek": "ἀνδρῶν ἡρώων, οὔτʼ ἠπείροιο μελαίνης"
+    },
+    {
+      "n": 98,
+      "greek": "οὔτʼ αὐτῆς Ἰθάκης· οὐδὲ ξυνεείκοσι φωτῶν"
+    },
+    {
+      "n": 99,
+      "greek": "ἔστʼ ἄφενος τοσσοῦτον· ἐγὼ δέ κέ τοι καταλέξω."
+    },
+    {
+      "n": 100,
+      "greek": "δώδεκʼ ἐν ἠπείρῳ ἀγέλαι· τόσα πώεα οἰῶν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "Even cruel foemen that set foot on the land of others, and Zeus gives them booty, and they fill their ships and depart for home—even on the hearts of these falls great fear of the wrath of the gods. But these men here, look you, know somewhat, and have heard some voice of a god"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "regarding my master's pitiful death, seeing that they will not woo righteously, nor go back to their own, but at their ease they waste our substance in insolent wise, and there is no sparing. For every day and night that comes from Zeus they sacrifice not one victim nor two alone,"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "and they draw forth wine, and waste it in insolent wise. Verily his substance was great past telling, so much has no lord either on the dark mainland or in Ithaca itself; nay, not twenty men together have wealth so great. Lo, I will tell thee the tale thereof;"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "twelve herds of kine has he on the mainland; as many flocks of sheep; as many droves of swine; as many packed herds of goats do herdsmen, both foreigners and of his own people, pasture. And here too graze roving herds of goats on the borders of the island, eleven in all, and over them trusty men keep watch."
+    }
+  ]
+}

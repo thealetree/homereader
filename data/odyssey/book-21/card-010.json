@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ὣς φάθʼ, ὁ δʼ αἶψʼ ἀνέκαιε Μελάνθιος ἀκάματον πῦρ,"
+    },
+    {
+      "n": 182,
+      "greek": "πὰρ δὲ φέρων δίφρον θῆκεν καὶ κῶας ἐπʼ αὐτοῦ,"
+    },
+    {
+      "n": 183,
+      "greek": "ἐκ δὲ στέατος ἔνεικε μέγαν τροχὸν ἔνδον ἐόντος·"
+    },
+    {
+      "n": 184,
+      "greek": "τῷ ῥα νέοι θάλποντες ἐπειρῶντʼ· οὐδʼ ἐδύναντο"
+    },
+    {
+      "n": 185,
+      "greek": "ἐντανύσαι, πολλὸν δὲ βίης ἐπιδευέες ἦσαν."
+    },
+    {
+      "n": 186,
+      "greek": "Ἀντίνοος δʼ ἔτʼ ἐπεῖχε καὶ Εὐρύμαχος θεοειδής,"
+    },
+    {
+      "n": 187,
+      "greek": "ἀρχοὶ μνηστήρων· ἀρετῇ δʼ ἔσαν ἔξοχʼ ἄριστοι."
+    },
+    {
+      "n": 188,
+      "greek": "τὼ δʼ ἐξ οἴκου βῆσαν ὁμαρτήσαντες ἅμʼ ἄμφω"
+    },
+    {
+      "n": 189,
+      "greek": "βουκόλος ἠδὲ συφορβὸς Ὀδυσσῆος θείοιο·"
+    },
+    {
+      "n": 190,
+      "greek": "ἐκ δʼ αὐτὸς μετὰ τοὺς δόμου ἤλυθε δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 191,
+      "greek": "ἀλλʼ ὅτε δή ῥʼ ἐκτὸς θυρέων ἔσαν ἠδὲ καὶ αὐλῆς,"
+    },
+    {
+      "n": 192,
+      "greek": "φθεγξάμενός σφε ἔπεσσι προσηύδα μειλιχίοισι·"
+    },
+    {
+      "n": 193,
+      "greek": "βουκόλε καὶ σύ, συφορβέ, ἔπος τί κε μυθησαίμην,"
+    },
+    {
+      "n": 194,
+      "greek": "ἦ αὐτὸς κεύθω; φάσθαι δέ με θυμὸς ἀνώγει."
+    },
+    {
+      "n": 195,
+      "greek": "ποῖοί κʼ εἶτʼ Ὀδυσῆϊ ἀμυνέμεν, εἴ ποθεν ἔλθοι"
+    },
+    {
+      "n": 196,
+      "greek": "ὧδε μάλʼ ἐξαπίνης καί τις θεὸς αὐτὸν ἐνείκαι;"
+    },
+    {
+      "n": 197,
+      "greek": "ἤ κε μνηστήρεσσιν ἀμύνοιτʼ ἦ Ὀδυσῆϊ;"
+    },
+    {
+      "n": 198,
+      "greek": "εἴπαθʼ ὅπως ὑμέας κραδίη θυμός τε κελεύει."
+    },
+    {
+      "n": 199,
+      "greek": "τὸν δʼ αὖτε προσέειπε βοῶν ἐπιβουκόλος ἀνήρ·"
+    },
+    {
+      "n": 200,
+      "greek": "Ζεῦ πάτερ, αἲ γὰρ τοῦτο τελευτήσειας ἐέλδωρ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "string it, for they were far lacking in strength. Now Antinous was still persisting and godlike Eurymachus, leaders of the wooers, who were far the best in valiance; but those other two had gone forth both together from the hall, the neatherd and the swineherd of divine Odysseus;"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "and after them Odysseus himself went forth from the house. But when they were now outside the gates and the court, he spoke and addressed them with gentle words: “Neatherd, and thou too swineherd, shall I tell you something or keep it to myself? Nay, my spirit bids me tell it."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "What manner of men would you be to defend Odysseus, if he should come from somewhere thus suddenly, and some god should bring him? Would you bear aid to the wooers or to Odysseus? Speak out as your heart and spirit bid you.” Then the herdsmen of the cattle answered him:"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "“Father Zeus, oh that thou wouldest fulfil this wish! Grant that that man may come back, and that some god may guide him. Then shouldest thou know what manner of might is mine, and how my hands obey.” And even in like manner did Eumaeus pray to all the gods that wise Odysseus; might come back to his own home."
+    }
+  ]
+}

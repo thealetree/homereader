@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "ὄφρα τοι αὐτὸς ἕπωμαι, ὑποζεύξω δέ τοι ἵππους,"
+    },
+    {
+      "n": 82,
+      "greek": "ἄστεα δʼ ἀνθρώπων ἡγήσομαι· οὐδέ τις ἡμέας"
+    },
+    {
+      "n": 83,
+      "greek": "αὔτως ἀππέμψει, δώσει δέ τι ἕν γε φέρεσθαι,"
+    },
+    {
+      "n": 84,
+      "greek": "ἠέ τινα τριπόδων εὐχάλκων ἠὲ λεβήτων,"
+    },
+    {
+      "n": 85,
+      "greek": "ἠὲ δύʼ ἡμιόνους ἠὲ χρύσειον ἄλεισον."
+    },
+    {
+      "n": 86,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 87,
+      "greek": "Ἀτρεΐδη Μενέλαε διοτρεφές, ὄρχαμε λαῶν,"
+    },
+    {
+      "n": 88,
+      "greek": "βούλομαι ἤδη νεῖσθαι ἐφʼ ἡμέτερʼ· οὐ γὰρ ὄπισθεν"
+    },
+    {
+      "n": 89,
+      "greek": "οὖρον ἰὼν κατέλειπον ἐπὶ κτεάτεσσιν ἐμοῖσιν·"
+    },
+    {
+      "n": 90,
+      "greek": "μὴ πατέρʼ ἀντίθεον διζήμενος αὐτὸς ὄλωμαι,"
+    },
+    {
+      "n": 91,
+      "greek": "ἤ τί μοι ἐκ μεγάρων κειμήλιον ἐσθλὸν ὄληται."
+    },
+    {
+      "n": 92,
+      "greek": "αὐτὰρ ἐπεὶ τό γʼ ἄκουσε βοὴν ἀγαθὸς Μενέλαος,"
+    },
+    {
+      "n": 93,
+      "greek": "αὐτίκʼ ἄρʼ ᾗ ἀλόχῳ ἠδὲ δμῳῇσι κέλευσε"
+    },
+    {
+      "n": 94,
+      "greek": "δεῖπνον ἐνὶ μεγάροις τετυκεῖν ἅλις ἔνδον ἐόντων."
+    },
+    {
+      "n": 95,
+      "greek": "ἀγχίμολον δέ οἱ ἦλθε Βοηθοΐδης Ἐτεωνεύς,"
+    },
+    {
+      "n": 96,
+      "greek": "ἀνστὰς ἐξ εὐνῆς, ἐπεὶ οὐ πολὺ ναῖεν ἀπʼ αὐτοῦ·"
+    },
+    {
+      "n": 97,
+      "greek": "τὸν πῦρ κῆαι ἄνωγε βοὴν ἀγαθὸς Μενέλαος"
+    },
+    {
+      "n": 98,
+      "greek": "ὀπτῆσαί τε κρεῶν· ὁ δʼ ἄρʼ οὐκ ἀπίθησεν ἀκούσας."
+    },
+    {
+      "n": 99,
+      "greek": "αὐτὸς δʼ ἐς θάλαμον κατεβήσετο κηώεντα,"
+    },
+    {
+      "n": 100,
+      "greek": "οὐκ οἶος, ἅμα τῷ γʼ Ἑλένη κίε καὶ Μεγαπένθης."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "or a pair of mules, or a golden cup.” Then wise Telemachus answered him: “Menelaus, son of Atreus, fostered of Zeus, leader of hosts, rather would I go at once to my home, for when I departed I left behind me no one to watch over my possessions."
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "I would not that in seeking for my god-like father I myself should perish, or some goodly treasure be lost from my halls.” Now when Menelaus, good in battle, heard this, he straightway bade his wife and her handmaids make ready a meal in the halls of the abundant store that was within."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "Up to him then came Eteoneus, son of Boethous, just risen from his bed, for he dwelt not far from him. Him Menelaus, good at the war-cry, bade kindle a fire and roast of the flesh; and he heard, and obeyed. And Menelaus himself went down to his vaulted treasure-chamber,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "not alone, for with him went Helen and Megapenthes. But when they came to the place where his treasures were stored, the son of Atreus took a two-handled cup, and bade his son Megapenthes bear a mixing bowl of silver. And Helen came up to the chests"
+    }
+  ]
+}

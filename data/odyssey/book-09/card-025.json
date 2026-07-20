@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "ἧκε δʼ ἀπορρήξας κορυφὴν ὄρεος μεγάλοιο,"
+    },
+    {
+      "n": 482,
+      "greek": "κὰδ δʼ ἔβαλε προπάροιθε νεὸς κυανοπρῴροιο"
+    },
+    {
+      "n": 483,
+      "greek": "τυτθόν, ἐδεύησεν δʼ οἰήιον ἄκρον ἱκέσθαι,"
+    },
+    {
+      "n": 484,
+      "greek": "ἐκλύσθη δὲ θάλασσα κατερχομένης ὑπὸ πέτρης·"
+    },
+    {
+      "n": 485,
+      "greek": "τὴν δʼ αἶψʼ ἤπειρόνδε παλιρρόθιον φέρε κῦμα,"
+    },
+    {
+      "n": 486,
+      "greek": "πλημυρὶς ἐκ πόντοιο, θέμωσε δὲ χέρσον ἱκέσθαι."
+    },
+    {
+      "n": 487,
+      "greek": "αὐτὰρ ἐγὼ χείρεσσι λαβὼν περιμήκεα κοντὸν"
+    },
+    {
+      "n": 488,
+      "greek": "ὦσα παρέξ, ἑτάροισι δʼ ἐποτρύνας ἐκέλευσα"
+    },
+    {
+      "n": 489,
+      "greek": "ἐμβαλέειν κώπῃς, ἵνʼ ὑπὲκ κακότητα φύγοιμεν,"
+    },
+    {
+      "n": 490,
+      "greek": "κρατὶ κατανεύων· οἱ δὲ προπεσόντες ἔρεσσον."
+    },
+    {
+      "n": 491,
+      "greek": "ἀλλʼ ὅτε δὴ δὶς τόσσον ἅλα πρήσσοντες ἀπῆμεν,"
+    },
+    {
+      "n": 492,
+      "greek": "καὶ τότε δὴ Κύκλωπα προσηύδων· ἀμφὶ δʼ ἑταῖροι"
+    },
+    {
+      "n": 493,
+      "greek": "μειλιχίοις ἐπέεσσιν ἐρήτυον ἄλλοθεν ἄλλος·"
+    },
+    {
+      "n": 494,
+      "greek": "σχέτλιε, τίπτʼ ἐθέλεις ἐρεθιζέμεν ἄγριον ἄνδρα;"
+    },
+    {
+      "n": 495,
+      "greek": "ὃς καὶ νῦν πόντονδε βαλὼν βέλος ἤγαγε νῆα"
+    },
+    {
+      "n": 496,
+      "greek": "αὖτις ἐς ἤπειρον, καὶ δὴ φάμεν αὐτόθʼ ὀλέσθαι."
+    },
+    {
+      "n": 497,
+      "greek": "εἰ δὲ φθεγξαμένου τευ ἢ αὐδήσαντος ἄκουσε,"
+    },
+    {
+      "n": 498,
+      "greek": "σύν κεν ἄραξʼ ἡμέων κεφαλὰς καὶ νήια δοῦρα"
+    },
+    {
+      "n": 499,
+      "greek": "μαρμάρῳ ὀκριόεντι βαλών· τόσσον γὰρ ἵησιν."
+    },
+    {
+      "n": 500,
+      "greek": "ὣς φάσαν, ἀλλʼ οὐ πεῖθον ἐμὸν μεγαλήτορα θυμόν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "and the backward flow, like a flood from the deep, bore the ship swiftly landwards and drove it upon the shore. But I seized a long pole in my hands and shoved the ship off and along the shore,"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "and with a nod of my head I roused my comrades, and bade them fall to their oars that we might escape out of our evil plight. And they bent to their oars and rowed. But when, as we fared over the sea, we were twice as far distant, then was I fain to call to the Cyclops, though round about me my comrades, one after another, sought to check me with gentle words: “‘Reckless one, why wilt thou provoke to wrath a savage man,"
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "who but now hurled his missile into the deep and drove our ship back to the land, and verily we thought that we had perished there? And had he heard one of us uttering a sound or speaking, he would have hurled a jagged rock and crushed our heads and the timbers of our ship, so mightily does he throw.’"
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "“So they spoke, but they could not persuade my great-hearted spirit; and I answered him again with angry heart: “‘Cyclops, if any one of mortal men shall ask thee about the shameful blinding of thine eye, say that Odysseus, the sacker of cities, blinded it,"
+    }
+  ]
+}

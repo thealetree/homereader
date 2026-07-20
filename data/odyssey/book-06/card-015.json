@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "οὐρανόθεν καταβάς, ἕξει δέ μιν ἤματα πάντα."
+    },
+    {
+      "n": 282,
+      "greek": "βέλτερον, εἰ καὐτή περ ἐποιχομένη πόσιν εὗρεν"
+    },
+    {
+      "n": 283,
+      "greek": "ἄλλοθεν· ἦ γὰρ τούσδε γʼ ἀτιμάζει κατὰ δῆμον"
+    },
+    {
+      "n": 284,
+      "greek": "Φαίηκας, τοί μιν μνῶνται πολέες τε καὶ ἐσθλοί."
+    },
+    {
+      "n": 285,
+      "greek": "ὣς ἐρέουσιν, ἐμοὶ δέ κʼ ὀνείδεα ταῦτα γένοιτο."
+    },
+    {
+      "n": 286,
+      "greek": "καὶ δʼ ἄλλῃ νεμεσῶ, ἥ τις τοιαῦτά γε ῥέζοι,"
+    },
+    {
+      "n": 287,
+      "greek": "ἥ τʼ ἀέκητι φίλων πατρὸς καὶ μητρὸς ἐόντων,"
+    },
+    {
+      "n": 288,
+      "greek": "ἀνδράσι μίσγηται, πρίν γʼ ἀμφάδιον γάμον ἐλθεῖν."
+    },
+    {
+      "n": 289,
+      "greek": "ξεῖνε, σὺ δʼ ὦκʼ ἐμέθεν ξυνίει ἔπος, ὄφρα τάχιστα"
+    },
+    {
+      "n": 290,
+      "greek": "πομπῆς καὶ νόστοιο τύχῃς παρὰ πατρὸς ἐμοῖο."
+    },
+    {
+      "n": 291,
+      "greek": "δήεις ἀγλαὸν ἄλσος Ἀθήνης ἄγχι κελεύθου"
+    },
+    {
+      "n": 292,
+      "greek": "αἰγείρων· ἐν δὲ κρήνη νάει, ἀμφὶ δὲ λειμών·"
+    },
+    {
+      "n": 293,
+      "greek": "ἔνθα δὲ πατρὸς ἐμοῦ τέμενος τεθαλυῖά τʼ ἀλωή,"
+    },
+    {
+      "n": 294,
+      "greek": "τόσσον ἀπὸ πτόλιος, ὅσσον τε γέγωνε βοήσας."
+    },
+    {
+      "n": 295,
+      "greek": "ἔνθα καθεζόμενος μεῖναι χρόνον, εἰς ὅ κεν ἡμεῖς"
+    },
+    {
+      "n": 296,
+      "greek": "ἄστυδε ἔλθωμεν καὶ ἱκώμεθα δώματα πατρός."
+    },
+    {
+      "n": 297,
+      "greek": "αὐτὰρ ἐπὴν ἡμέας ἔλπῃ ποτὶ δώματʼ ἀφῖχθαι,"
+    },
+    {
+      "n": 298,
+      "greek": "καὶ τότε Φαιήκων ἴμεν ἐς πόλιν ἠδʼ ἐρέεσθαι"
+    },
+    {
+      "n": 299,
+      "greek": "δώματα πατρὸς ἐμοῦ μεγαλήτορος Ἀλκινόοιο."
+    },
+    {
+      "n": 300,
+      "greek": "ῥεῖα δʼ ἀρίγνωτʼ ἐστί, καὶ ἂν πάϊς ἡγήσαιτο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "So will they say, and this would become a reproach to me. Yea, I would myself blame another maiden who should do such thing, and in despite of her dear father and mother, while yet they live, should consort with men before the day of open marriage. Nay, stranger, do thou quickly hearken to my words, that with all speed"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "thou mayest win from my father an escort and a return to thy land. Thou wilt find a goodly grove of Athena hard by the road, a grove of poplar trees. In it a spring wells up, and round about is a meadow. There is my father's park and fruitful vineyard, as far from the city as a man's voice carries when he shouts."
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "Sit thou down there, and wait for a time, until we come to the city and reach the house of my father. But when thou thinkest that we have reached the house, then do thou go to the city of the Phaeacians and ask for the house of my father, great-hearted Alcinous."
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "Easily may it be known, and a child could guide thee, a mere babe; for the houses of the Phaeacians are no wise built of such sort as is the palace of the lord Alcinous. But when the house and the court enclose thee, pass quickly through the great hall, till thou comest"
+    }
+  ]
+}

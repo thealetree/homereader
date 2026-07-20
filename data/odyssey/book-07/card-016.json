@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ἦγεν ἐς ἡμέτερον, σὺ δʼ ἄρα πρώτην ἱκέτευσας."
+    },
+    {
+      "n": 302,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 303,
+      "greek": "ἥρως, μή τοι τοὔνεκʼ ἀμύμονα νείκεε κούρην·"
+    },
+    {
+      "n": 304,
+      "greek": "ἡ μὲν γάρ μʼ ἐκέλευε σὺν ἀμφιπόλοισιν ἕπεσθαι,"
+    },
+    {
+      "n": 305,
+      "greek": "ἀλλʼ ἐγὼ οὐκ ἔθελον δείσας αἰσχυνόμενός τε,"
+    },
+    {
+      "n": 306,
+      "greek": "μή πως καὶ σοὶ θυμὸς ἐπισκύσσαιτο ἰδόντι·"
+    },
+    {
+      "n": 307,
+      "greek": "δύσζηλοι γάρ τʼ εἰμὲν ἐπὶ χθονὶ φῦλʼ ἀνθρώπων."
+    },
+    {
+      "n": 308,
+      "greek": "τὸν δʼ αὖτʼ Ἀλκίνοος ἀπαμείβετο φώνησέν τε·"
+    },
+    {
+      "n": 309,
+      "greek": "ξεῖνʼ, οὔ μοι τοιοῦτον ἐνὶ στήθεσσι φίλον κῆρ"
+    },
+    {
+      "n": 310,
+      "greek": "μαψιδίως κεχολῶσθαι· ἀμείνω δʼ αἴσιμα πάντα."
+    },
+    {
+      "n": 311,
+      "greek": "αἲ γάρ, Ζεῦ τε πάτερ καὶ Ἀθηναίη καὶ Ἄπολλον,"
+    },
+    {
+      "n": 312,
+      "greek": "τοῖος ἐὼν οἷός ἐσσι, τά τε φρονέων ἅ τʼ ἐγώ περ,"
+    },
+    {
+      "n": 313,
+      "greek": "παῖδά τʼ ἐμὴν ἐχέμεν καὶ ἐμὸς γαμβρὸς καλέεσθαι"
+    },
+    {
+      "n": 314,
+      "greek": "αὖθι μένων· οἶκον δέ κʼ ἐγὼ καὶ κτήματα δοίην,"
+    },
+    {
+      "n": 315,
+      "greek": "εἴ κʼ ἐθέλων γε μένοις· ἀέκοντα δέ σʼ οὔ τις ἐρύξει"
+    },
+    {
+      "n": 316,
+      "greek": "Φαιήκων· μὴ τοῦτο φίλον Διὶ πατρὶ γένοιτο."
+    },
+    {
+      "n": 317,
+      "greek": "πομπὴν δʼ ἐς τόδʼ ἐγὼ τεκμαίρομαι, ὄφρʼ ἐὺ εἰδῇς,"
+    },
+    {
+      "n": 318,
+      "greek": "αὔριον ἔς· τῆμος δὲ σὺ μὲν δεδμημένος ὕπνῳ"
+    },
+    {
+      "n": 319,
+      "greek": "λέξεαι, οἱ δʼ ἐλόωσι γαλήνην, ὄφρʼ ἂν ἵκηαι"
+    },
+    {
+      "n": 320,
+      "greek": "πατρίδα σὴν καὶ δῶμα, καὶ εἴ πού τοι φίλον ἐστίν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "but I would not for fear and shame, lest haply thy heart should darken with wrath as thou sawest it; for we are quick to anger, we tribes of men upon the earth.” And again Alcinous answered him, and said:“Stranger, not such is the heart in my breast,"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "to be filled with wrath without a cause. Better is due measure in all things. I would, O father Zeus, and Athena and Apollo, that thou, so goodly a man, and like-minded with me, wouldst have my daughter to wife, and be called my son, and abide here; a house and possessions would I give thee,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "if thou shouldst choose to remain, but against thy will shall no one of the Phaeacians keep thee; let not that be the will of father Zeus. But as for thy sending, that thou mayest know it surely, I appoint a time thereto, even the morrow. Then shalt thou lie down, overcome by sleep, and they shall row thee over the calm sea until thou comest"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "to thy country and thy house, or to whatsoever place thou wilt, aye though it be even far beyond Euboea, which those of our people who saw it, when they carried fair-haired Rhadamanthus to visit Tityus, the son of Gaea, say is the furthest of lands."
+    }
+  ]
+}

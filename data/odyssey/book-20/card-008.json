@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "οὐκ ἔθελʼ ἐν λέκτροισι καὶ ἐν ῥήγεσσι καθεύδειν,"
+    },
+    {
+      "n": 142,
+      "greek": "ἀλλʼ ἐν ἀδεψήτῳ βοέῃ καὶ κώεσιν οἰῶν"
+    },
+    {
+      "n": 143,
+      "greek": "ἔδραθʼ ἐνὶ προδόμῳ· χλαῖναν δʼ ἐπιέσσαμεν ἡμεῖς."
+    },
+    {
+      "n": 144,
+      "greek": "ὣς φάτο, Τηλέμαχος δὲ διὲκ μεγάροιο βεβήκει"
+    },
+    {
+      "n": 145,
+      "greek": "ἔγχος ἔχων, ἅμα τῷ γε δύω κύνες ἀργοὶ ἕποντο."
+    },
+    {
+      "n": 146,
+      "greek": "βῆ δʼ ἴμεν εἰς ἀγορὴν μετʼ ἐϋκνήμιδας Ἀχαιούς."
+    },
+    {
+      "n": 147,
+      "greek": "ἡ δʼ αὖτε δμῳῇσιν ἐκέκλετο δῖα γυναικῶν,"
+    },
+    {
+      "n": 148,
+      "greek": "Εὐρύκλειʼ, Ὦπος θυγάτηρ Πεισηνορίδαο·"
+    },
+    {
+      "n": 149,
+      "greek": "ἀγρεῖθʼ, αἱ μὲν δῶμα κορήσατε ποιπνύσασαι,"
+    },
+    {
+      "n": 150,
+      "greek": "ῥάσσατέ τʼ, ἔν τε θρόνοις εὐποιήτοισι τάπητας"
+    },
+    {
+      "n": 151,
+      "greek": "βάλλετε πορφυρέους· αἱ δὲ σπόγγοισι τραπέζας"
+    },
+    {
+      "n": 152,
+      "greek": "πάσας ἀμφιμάσασθε, καθήρατε δὲ κρητῆρας"
+    },
+    {
+      "n": 153,
+      "greek": "καὶ δέπα ἀμφικύπελλα τετυγμένα· ταὶ δὲ μεθʼ ὕδωρ"
+    },
+    {
+      "n": 154,
+      "greek": "ἔρχεσθε κρήνηνδε, καὶ οἴσετε θᾶσσον ἰοῦσαι."
+    },
+    {
+      "n": 155,
+      "greek": "οὐ γὰρ δὴν μνηστῆρες ἀπέσσονται μεγάροιο,"
+    },
+    {
+      "n": 156,
+      "greek": "ἀλλὰ μάλʼ ἦρι νέονται, ἐπεὶ καὶ πᾶσιν ἑορτή."
+    },
+    {
+      "n": 157,
+      "greek": "ὣς ἔφαθʼ, αἱ δʼ ἄρα τῆς μάλα μὲν κλύον ἠδʼ ἐπίθοντο."
+    },
+    {
+      "n": 158,
+      "greek": "αἱ μὲν ἐείκοσι βῆσαν ἐπὶ κρήνην μελάνυδρον,"
+    },
+    {
+      "n": 159,
+      "greek": "αἱ δʼ αὐτοῦ κατὰ δώματʼ ἐπισταμένως πονέοντο."
+    },
+    {
+      "n": 160,
+      "greek": "ἐς δʼ ἦλθον δρηστῆρες Ἀχαιῶν. οἱ μὲν ἔπειτα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "with his spear in his hand, and with him went two swift hounds. And he went his way to the place of assembly to join the company of the well-greaved Achaeans, but Eurycleia, the goodly lady, daughter of Ops, son of Peisenor, called to her maidens, saying: “Come, let some of you busily sweep the hall"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "and sprinkle it, and throw on the shapely chairs coverlets of purple, and let others wipe all the tables with sponges and cleanse the mixing-bowls and the well-wrought double cups, and others still go to the spring for water and bring it quickly here."
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "For the wooers will not long be absent from the hall, but will return right early; for it is a feast-day for all men.” So she spoke, and they readily hearkened and obeyed. Twenty of them went to the spring of dark water, and the others busied themselves there in the house in skilful fashion."
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "Then in came the serving-men of the Acheans, who thereafter split logs of wood well and skilfully; and the women came back from the spring. After them came the swineherd, driving three boars which were the best in all his herd. These he let be to feed in the fair courts,"
+    }
+  ]
+}

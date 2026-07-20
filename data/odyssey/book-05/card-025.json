@@ -1,0 +1,80 @@
+{
+  "book": 5,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 493,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "ἀλλήλοισιν ἔφυν ἐπαμοιβαδίς· οὓς ὑπʼ Ὀδυσσεὺς"
+    },
+    {
+      "n": 482,
+      "greek": "δύσετʼ. ἄφαρ δʼ εὐνὴν ἐπαμήσατο χερσὶ φίλῃσιν"
+    },
+    {
+      "n": 483,
+      "greek": "εὐρεῖαν· φύλλων γὰρ ἔην χύσις ἤλιθα πολλή,"
+    },
+    {
+      "n": 484,
+      "greek": "ὅσσον τʼ ἠὲ δύω ἠὲ τρεῖς ἄνδρας ἔρυσθαι"
+    },
+    {
+      "n": 485,
+      "greek": "ὥρῃ χειμερίῃ, εἰ καὶ μάλα περ χαλεπαίνοι."
+    },
+    {
+      "n": 486,
+      "greek": "τὴν μὲν ἰδὼν γήθησε πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 487,
+      "greek": "ἐν δʼ ἄρα μέσσῃ λέκτο, χύσιν δʼ ἐπεχεύατο φύλλων."
+    },
+    {
+      "n": 488,
+      "greek": "ὡς δʼ ὅτε τις δαλὸν σποδιῇ ἐνέκρυψε μελαίνῃ"
+    },
+    {
+      "n": 489,
+      "greek": "ἀγροῦ ἐπʼ ἐσχατιῆς, ᾧ μὴ πάρα γείτονες ἄλλοι,"
+    },
+    {
+      "n": 490,
+      "greek": "σπέρμα πυρὸς σώζων, ἵνα μή ποθεν ἄλλοθεν αὔοι,"
+    },
+    {
+      "n": 491,
+      "greek": "ὣς Ὀδυσεὺς φύλλοισι καλύψατο· τῷ δʼ ἄρʼ Ἀθήνη"
+    },
+    {
+      "n": 492,
+      "greek": "ὕπνον ἐπʼ ὄμμασι χεῦʼ, ἵνα μιν παύσειε τάχιστα"
+    },
+    {
+      "n": 493,
+      "greek": "δυσπονέος καμάτοιο φίλα βλέφαρʼ ἀμφικαλύψας."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "in winter-time, however bitter the weather. And the much-enduring goodly Odysseus saw it, and was glad, and he lay down in the midst, and heaped over him the fallen leaves. And as a man hides a brand beneath the dark embers in an outlying farm, a man who has no neighbors,"
+    },
+    {
+      "lines": [
+        490,
+        493
+      ],
+      "text": "and so saves a seed of fire, that he may not have to kindle it from some other source, so Odysseus covered himself with leaves. And Athena shed sleep upon his eyes, that it might enfold his lids and speedily free him from toilsome weariness."
+    }
+  ]
+}

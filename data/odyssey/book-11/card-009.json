@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "νηί τε καὶ ἑτάροισι πολὺν χρόνον; οὐδέ πω ἦλθες"
+    },
+    {
+      "n": 162,
+      "greek": "εἰς Ἰθάκην, οὐδʼ εἶδες ἐνὶ μεγάροισι γυναῖκα;"
+    },
+    {
+      "n": 163,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 164,
+      "greek": "μῆτερ ἐμή, χρειώ με κατήγαγεν εἰς Ἀίδαο"
+    },
+    {
+      "n": 165,
+      "greek": "ψυχῇ χρησόμενον Θηβαίου Τειρεσίαο·"
+    },
+    {
+      "n": 166,
+      "greek": "οὐ γάρ πω σχεδὸν ἦλθον Ἀχαιΐδος, οὐδέ πω ἁμῆς"
+    },
+    {
+      "n": 167,
+      "greek": "γῆς ἐπέβην, ἀλλʼ αἰὲν ἔχων ἀλάλημαι ὀιζύν,"
+    },
+    {
+      "n": 168,
+      "greek": "ἐξ οὗ τὰ πρώτισθʼ ἑπόμην Ἀγαμέμνονι δίῳ"
+    },
+    {
+      "n": 169,
+      "greek": "Ἴλιον εἰς ἐύπωλον, ἵνα Τρώεσσι μαχοίμην."
+    },
+    {
+      "n": 170,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον·"
+    },
+    {
+      "n": 171,
+      "greek": "τίς νύ σε κὴρ ἐδάμασσε τανηλεγέος θανάτοιο;"
+    },
+    {
+      "n": 172,
+      "greek": "ἦ δολιχὴ νοῦσος, ἦ Ἄρτεμις ἰοχέαιρα"
+    },
+    {
+      "n": 173,
+      "greek": "οἷς ἀγανοῖς βελέεσσιν ἐποιχομένη κατέπεφνεν;"
+    },
+    {
+      "n": 174,
+      "greek": "εἰπὲ δέ μοι πατρός τε καὶ υἱέος, ὃν κατέλειπον,"
+    },
+    {
+      "n": 175,
+      "greek": "ἢ ἔτι πὰρ κείνοισιν ἐμὸν γέρας, ἦέ τις ἤδη"
+    },
+    {
+      "n": 176,
+      "greek": "ἀνδρῶν ἄλλος ἔχει, ἐμὲ δʼ οὐκέτι φασὶ νέεσθαι."
+    },
+    {
+      "n": 177,
+      "greek": "εἰπὲ δέ μοι μνηστῆς ἀλόχου βουλήν τε νόον τε,"
+    },
+    {
+      "n": 178,
+      "greek": "ἠὲ μένει παρὰ παιδὶ καὶ ἔμπεδα πάντα φυλάσσει"
+    },
+    {
+      "n": 179,
+      "greek": "ἦ ἤδη μιν ἔγημεν Ἀχαιῶν ὅς τις ἄριστος."
+    },
+    {
+      "n": 180,
+      "greek": "ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀμείβετο πότνια μήτηρ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "to seek soothsaying of the spirit of Theban Teiresias. For not yet have I come near to the shore of Achaea, nor have I as yet set foot on my own land, but have ever been wandering, laden with woe, from the day when first I went with goodly Agamemnon to Ilios, famed for its horses, to fight with the Trojans."
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "But come, tell me this, and declare it truly. What fate of grievous death overcame thee? Was it long disease, or did the archer, Artemis, assail thee with her gentle shafts, and slay thee? And tell me of my father and my son, whom I left behind me."
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "Does the honor that was mine still abide with them, or does some other man now possess it, and do they say that I shall no more return? And tell me of my wedded wife, of her purpose and of her mind. Does she abide with her son, and keep all things safe? or has one already wedded her, whosoever is best of the Achaeans?’"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "“So I spoke, and my honored mother straightway answered: ‘Aye verily she abides with steadfast heart in thy halls, and ever sorrowfully for her do the nights and the days wane, as she weeps. But the fair honor that was thine no man yet possesses,"
+    }
+  ]
+}

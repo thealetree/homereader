@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "καὶ λίην κείνη γε μένει τετληότι θυμῷ"
+    },
+    {
+      "n": 182,
+      "greek": "σοῖσιν ἐνὶ μεγάροισιν· ὀιζυραὶ δέ οἱ αἰεὶ"
+    },
+    {
+      "n": 183,
+      "greek": "φθίνουσιν νύκτες τε καὶ ἤματα δάκρυ χεούσῃ."
+    },
+    {
+      "n": 184,
+      "greek": "σὸν δʼ οὔ πώ τις ἔχει καλὸν γέρας, ἀλλὰ ἕκηλος"
+    },
+    {
+      "n": 185,
+      "greek": "Τηλέμαχος τεμένεα νέμεται καὶ δαῖτας ἐίσας"
+    },
+    {
+      "n": 186,
+      "greek": "δαίνυται, ἃς ἐπέοικε δικασπόλον ἄνδρʼ ἀλεγύνειν·"
+    },
+    {
+      "n": 187,
+      "greek": "πάντες γὰρ καλέουσι. πατὴρ δὲ σὸς αὐτόθι μίμνει"
+    },
+    {
+      "n": 188,
+      "greek": "ἀγρῷ, οὐδὲ πόλινδε κατέρχεται. οὐδέ οἱ εὐναὶ"
+    },
+    {
+      "n": 189,
+      "greek": "δέμνια καὶ χλαῖναι καὶ ῥήγεα σιγαλόεντα,"
+    },
+    {
+      "n": 190,
+      "greek": "ἀλλʼ ὅ γε χεῖμα μὲν εὕδει ὅθι δμῶες ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 191,
+      "greek": "ἐν κόνι ἄγχι πυρός, κακὰ δὲ χροῒ εἵματα εἷται·"
+    },
+    {
+      "n": 192,
+      "greek": "αὐτὰρ ἐπὴν ἔλθῃσι θέρος τεθαλυῖά τʼ ὀπώρη,"
+    },
+    {
+      "n": 193,
+      "greek": "πάντῃ οἱ κατὰ γουνὸν ἀλωῆς οἰνοπέδοιο"
+    },
+    {
+      "n": 194,
+      "greek": "φύλλων κεκλιμένων χθαμαλαὶ βεβλήαται εὐναί."
+    },
+    {
+      "n": 195,
+      "greek": "ἔνθʼ ὅ γε κεῖτʼ ἀχέων, μέγα δὲ φρεσὶ πένθος ἀέξει"
+    },
+    {
+      "n": 196,
+      "greek": "σὸν νόστον ποθέων, χαλεπὸν δʼ ἐπὶ γῆρας ἱκάνει."
+    },
+    {
+      "n": 197,
+      "greek": "οὕτω γὰρ καὶ ἐγὼν ὀλόμην καὶ πότμον ἐπέσπον·"
+    },
+    {
+      "n": 198,
+      "greek": "οὔτʼ ἐμέ γʼ ἐν μεγάροισιν ἐύσκοπος ἰοχέαιρα"
+    },
+    {
+      "n": 199,
+      "greek": "οἷς ἀγανοῖς βελέεσσιν ἐποιχομένη κατέπεφνεν,"
+    },
+    {
+      "n": 200,
+      "greek": "οὔτε τις οὖν μοι νοῦσος ἐπήλυθεν, ἥ τε μάλιστα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "but Telemachus holds thy demesne unharassed, and feasts a equal banquets, such as it is fitting that one who deals judgment should share, for all men invite him. But thy father abides there in the tilled land, and comes not to the city, nor has he, for bedding, bed and cloaks and bright coverlets,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "but through the winter he sleeps in the house, where the slaves sleep, in the ashes by the fire, and wears upon his body mean raiment. But when summer comes and rich autumn, then all about the slope of his vineyard plot are strewn his lowly beds of fallen leaves."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "There he lies sorrowing, and nurses his great grief in his heart, in longing for thy return, and heavy old age has come upon him. Even so did I too perish and meet my fate. Neither did the keen-sighted archer goddess assail me in my halls with her gentle shafts, and slay me,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "nor did any disease come upon me, such as oftenest through grievous wasting takes the spirit from the limbs; nay, it was longing for thee, and for thy counsels, glorious Odysseus, and for thy tender-heartedness, that robbed me of honey-sweet life.’ “So she spoke, and I pondered in heart, and was fain"
+    }
+  ]
+}

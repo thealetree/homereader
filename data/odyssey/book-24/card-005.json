@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "χεύαμεν Ἀργείων ἱερὸς στρατὸς αἰχμητάων"
+    },
+    {
+      "n": 82,
+      "greek": "ἀκτῇ ἔπι προὐχούσῃ, ἐπὶ πλατεῖ Ἑλλησπόντῳ,"
+    },
+    {
+      "n": 83,
+      "greek": "ὥς κεν τηλεφανὴς ἐκ ποντόφιν ἀνδράσιν εἴη"
+    },
+    {
+      "n": 84,
+      "greek": "τοῖς οἳ νῦν γεγάασι καὶ οἳ μετόπισθεν ἔσονται."
+    },
+    {
+      "n": 85,
+      "greek": "μήτηρ δʼ αἰτήσασα θεοὺς περικαλλέʼ ἄεθλα"
+    },
+    {
+      "n": 86,
+      "greek": "θῆκε μέσῳ ἐν ἀγῶνι ἀριστήεσσιν Ἀχαιῶν."
+    },
+    {
+      "n": 87,
+      "greek": "ἤδη μὲν πολέων τάφῳ ἀνδρῶν ἀντεβόλησας"
+    },
+    {
+      "n": 88,
+      "greek": "ἡρώων, ὅτε κέν ποτʼ ἀποφθιμένου βασιλῆος"
+    },
+    {
+      "n": 89,
+      "greek": "ζώννυνταί τε νέοι καὶ ἐπεντύνονται ἄεθλα·"
+    },
+    {
+      "n": 90,
+      "greek": "ἀλλά κε κεῖνα μάλιστα ἰδὼν θηήσαο θυμῷ,"
+    },
+    {
+      "n": 91,
+      "greek": "οἷʼ ἐπὶ σοὶ κατέθηκε θεὰ περικαλλέʼ ἄεθλα,"
+    },
+    {
+      "n": 92,
+      "greek": "ἀργυρόπεζα Θέτις· μάλα γὰρ φίλος ἦσθα θεοῖσιν."
+    },
+    {
+      "n": 93,
+      "greek": "ὣς σὺ μὲν οὐδὲ θανὼν ὄνομʼ ὤλεσας, ἀλλά τοι αἰεὶ"
+    },
+    {
+      "n": 94,
+      "greek": "πάντας ἐπʼ ἀνθρώπους κλέος ἔσσεται ἐσθλόν, Ἀχιλλεῦ,"
+    },
+    {
+      "n": 95,
+      "greek": "αὐτὰρ ἐμοὶ τί τόδʼ ἦδος, ἐπεὶ πόλεμον τολύπευσα;"
+    },
+    {
+      "n": 96,
+      "greek": "ἐν νόστῳ γάρ μοι Ζεὺς μήσατο λυγρὸν ὄλεθρον"
+    },
+    {
+      "n": 97,
+      "greek": "Αἰγίσθου ὑπὸ χερσὶ καὶ οὐλομένης ἀλόχοιο."
+    },
+    {
+      "n": 98,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    },
+    {
+      "n": 99,
+      "greek": "ἀγχίμολον δέ σφʼ ἦλθε διάκτορος ἀργεϊφόντης,"
+    },
+    {
+      "n": 100,
+      "greek": "ψυχὰς μνηστήρων κατάγων Ὀδυσῆϊ δαμέντων,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "But thy mother asked of the gods beautiful prizes, and set them in the midst of the list for the chiefs of the Achaeans. Ere now hast thou been present at the funeral games of many men that were warriors, when at the death of a king the young men gird themselves and make ready the contests,"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "but hadst thou seen that sight thou wouldst most have marvelled at heart, such beautiful prizes did the goddess, silver-footed Thetis, set there in thy honor; for very dear wast thou to the gods. Thus not even in death didst thou lose thy name, but ever shalt thou have fair renown among all men, Achilles."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "But, as for me, what pleasure have I now in this, that I wound up the skein of war? For on my return Zeus devised for me a woeful doom at the hands of Aegisthus and my accursed wife.” Thus they spoke to one another, but the messenger, Argeiphontes, drew near,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "leading down the spirits of the wooers slain by Odysseus; and the two, seized with wonder, went straight toward them when they beheld them. And the spirit of Agamemnon, son of Atreus, recognized the dear son of Melaneus, glorious Amphimedon, who had been his host, dwelling in Ithaca."
+    }
+  ]
+}

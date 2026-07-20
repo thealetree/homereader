@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "τὰ φρονέων ἰθὺς κίεν αὐτοῦ δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 242,
+      "greek": "ἦ τοι ὁ μὲν κατέχων κεφαλὴν φυτὸν ἀμφελάχαινε·"
+    },
+    {
+      "n": 243,
+      "greek": "τὸν δὲ παριστάμενος προσεφώνεε φαίδιμος υἱός·"
+    },
+    {
+      "n": 244,
+      "greek": "ὦ γέρον, οὐκ ἀδαημονίη σʼ ἔχει ἀμφιπολεύειν"
+    },
+    {
+      "n": 245,
+      "greek": "ὄρχατον, ἀλλʼ εὖ τοι κομιδὴ ἔχει, οὐδέ τι πάμπαν,"
+    },
+    {
+      "n": 246,
+      "greek": "οὐ φυτόν, οὐ συκέη, οὐκ ἄμπελος, οὐ μὲν ἐλαίη,"
+    },
+    {
+      "n": 247,
+      "greek": "οὐκ ὄγχνη, οὐ πρασιή τοι ἄνευ κομιδῆς κατὰ κῆπον."
+    },
+    {
+      "n": 248,
+      "greek": "ἄλλο δέ τοι ἐρέω, σὺ δὲ μὴ χόλον ἔνθεο θυμῷ"
+    },
+    {
+      "n": 249,
+      "greek": "αὐτόν σʼ οὐκ ἀγαθὴ κομιδὴ ἔχει, ἀλλʼ ἅμα γῆρας"
+    },
+    {
+      "n": 250,
+      "greek": "λυγρὸν ἔχεις αὐχμεῖς τε κακῶς καὶ ἀεικέα ἕσσαι."
+    },
+    {
+      "n": 251,
+      "greek": "οὐ μὲν ἀεργίης γε ἄναξ ἕνεκʼ οὔ σε κομίζει,"
+    },
+    {
+      "n": 252,
+      "greek": "οὐδέ τί τοι δούλειον ἐπιπρέπει εἰσοράασθαι"
+    },
+    {
+      "n": 253,
+      "greek": "εἶδος καὶ μέγεθος· βασιλῆϊ γὰρ ἀνδρὶ ἔοικας."
+    },
+    {
+      "n": 254,
+      "greek": "τοιούτῳ δὲ ἔοικας, ἐπεὶ λούσαιτο φάγοι τε,"
+    },
+    {
+      "n": 255,
+      "greek": "εὑδέμεναι μαλακῶς· ἡ γὰρ δίκη ἐστὶ γερόντων."
+    },
+    {
+      "n": 256,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,"
+    },
+    {
+      "n": 257,
+      "greek": "τεῦ δμὼς εἶς ἀνδρῶν; τεῦ δʼ ὄρχατον ἀμφιπολεύεις;"
+    },
+    {
+      "n": 258,
+      "greek": "καὶ μοι τοῦτʼ ἀγόρευσον ἐτήτυμον, ὄφρʼ ἐῢ εἰδῶ,"
+    },
+    {
+      "n": 259,
+      "greek": "εἰ ἐτεόν γʼ Ἰθάκην τήνδʼ ἱκόμεθʼ, ὥς μοι ἔειπεν"
+    },
+    {
+      "n": 260,
+      "greek": "οὗτος ἀνὴρ νῦν δὴ ξυμβλήμενος ἐνθάδʼ ἰόντι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "a garden; nay, thy care is good, and there is naught whatsoever, either plant or fig tree, or vine, nay, or olive, or pear, or garden-plot in all the field that lacks care. But another thing will I tell thee, and do thou not lay up wrath thereat in thy heart: thou thyself enjoyest no good care, but"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "thou bearest woeful old age, and therewith art foul and unkempt, and clad in mean raiment. Surely it is not because of sloth on thy part that thy master cares not for thee, nor dost thou seem in any wise like a slave to look upon either in form or in stature; for thou art like a king, even like one who, when he has bathed and eaten,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "should sleep soft; for this is the way of old men. But come, tell me this, and declare it truly. Whose slave art thou, and whose orchard dost thou tend? And tell me this also truly, that I may know full well, whether this is indeed Ithaca, to which we are now come, as"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "a man yonder told me, who met me but now on my way hither. In no wise over sound of wit was he, for he deigned not to tell me of each thing, nor to listen to my word, when I questioned him about a friend of mine, whether haply he still lives, or is now dead and in the house of Hades."
+    }
+  ]
+}

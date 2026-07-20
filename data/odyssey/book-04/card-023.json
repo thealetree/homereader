@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "ἔνθα κεν αἰνότατος λόχος ἔπλετο· τεῖρε γὰρ αἰνῶς"
+    },
+    {
+      "n": 442,
+      "greek": "φωκάων ἁλιοτρεφέων ὀλοώτατος ὀδμή·"
+    },
+    {
+      "n": 443,
+      "greek": "τίς γάρ κʼ εἰναλίῳ παρὰ κήτεϊ κοιμηθείη;"
+    },
+    {
+      "n": 444,
+      "greek": "ἀλλʼ αὐτὴ ἐσάωσε καὶ ἐφράσατο μέγʼ ὄνειαρ·"
+    },
+    {
+      "n": 445,
+      "greek": "ἀμβροσίην ὑπὸ ῥῖνα ἑκάστῳ θῆκε φέρουσα"
+    },
+    {
+      "n": 446,
+      "greek": "ἡδὺ μάλα πνείουσαν, ὄλεσσε δὲ κήτεος ὀδμήν."
+    },
+    {
+      "n": 447,
+      "greek": "πᾶσαν δʼ ἠοίην μένομεν τετληότι θυμῷ·"
+    },
+    {
+      "n": 448,
+      "greek": "φῶκαι δʼ ἐξ ἁλὸς ἦλθον ἀολλέες. αἱ μὲν ἔπειτα"
+    },
+    {
+      "n": 449,
+      "greek": "ἑξῆς εὐνάζοντο παρὰ ῥηγμῖνι θαλάσσης·"
+    },
+    {
+      "n": 450,
+      "greek": "ἔνδιος δʼ ὁ γέρων ἦλθʼ ἐξ ἁλός, εὗρε δὲ φώκας"
+    },
+    {
+      "n": 451,
+      "greek": "ζατρεφέας, πάσας δʼ ἄρʼ ἐπῴχετο, λέκτο δʼ ἀριθμόν·"
+    },
+    {
+      "n": 452,
+      "greek": "ἐν δʼ ἡμέας πρώτους λέγε κήτεσιν, οὐδέ τι θυμῷ"
+    },
+    {
+      "n": 453,
+      "greek": "ὠΐσθη δόλον εἶναι· ἔπειτα δὲ λέκτο καὶ αὐτός."
+    },
+    {
+      "n": 454,
+      "greek": "ἡμεῖς δὲ ἰάχοντες ἐπεσσύμεθʼ, ἀμφὶ δὲ χεῖρας"
+    },
+    {
+      "n": 455,
+      "greek": "βάλλομεν· οὐδʼ ὁ γέρων δολίης ἐπελήθετο τέχνης,"
+    },
+    {
+      "n": 456,
+      "greek": "ἀλλʼ ἦ τοι πρώτιστα λέων γένετʼ ἠυγένειος,"
+    },
+    {
+      "n": 457,
+      "greek": "αὐτὰρ ἔπειτα δράκων καὶ πάρδαλις ἠδὲ μέγας σῦς·"
+    },
+    {
+      "n": 458,
+      "greek": "γίγνετο δʼ ὑγρὸν ὕδωρ καὶ δένδρεον ὑψιπέτηλον·"
+    },
+    {
+      "n": 459,
+      "greek": "ἡμεῖς δʼ ἀστεμφέως ἔχομεν τετληότι θυμῷ."
+    },
+    {
+      "n": 460,
+      "greek": "ἀλλʼ ὅτε δή ῥʼ ἀνίαζʼ ὁ γέρων ὀλοφώια εἰδώς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "she brought and placed ambrosia of a very sweet fragrance beneath each man's nose, and destroyed the stench of the beast. So all the morning we waited with steadfast heart, and the seals came forth from the sea in throngs. These then laid them down in rows along the shore of the sea,"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "and at noon the old man came forth from the sea and found the fatted seals; and he went over all, and counted their number. Among the creatures he counted us first, nor did his heart guess that there was guile; and then he too laid him down. Thereat we rushed upon him with a shout, and"
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "threw our arms about him, nor did that old man forget his crafty wiles. Nay, at the first he turned into a bearded lion, and then into a serpent, and a leopard, and a huge boar; then he turned into flowing water, and into a tree, high and leafy; but we held on unflinchingly with steadfast heart."
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "But when at last that old man, skilled in wizard arts, grew weary, then he questioned me, and spoke, and said: “‘Who of the gods, son of Atreus, took counsel with thee that thou mightest lie in wait for me, and take me against my will? Of what hast thou need?’ “So he spoke, and I made answer, and said:"
+    }
+  ]
+}

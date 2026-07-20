@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 28,
+  "lineStart": 541,
+  "lineEnd": 560,
+  "lines": [
+    {
+      "n": 541,
+      "greek": "αὐτὰρ ἐγὼ κλαῖον καὶ ἐκώκυον ἔν περ ὀνείρῳ,"
+    },
+    {
+      "n": 542,
+      "greek": "ἀμφὶ δʼ ἔμʼ ἠγερέθοντο ἐϋπλοκαμῖδες Ἀχαιαί,"
+    },
+    {
+      "n": 543,
+      "greek": "οἴκτρʼ ὀλοφυρομένην ὅ μοι αἰετὸς ἔκτανε χῆνας."
+    },
+    {
+      "n": 544,
+      "greek": "ἂψ δʼ ἐλθὼν κατʼ ἄρʼ ἕζετʼ ἐπὶ προὔχοντι μελάθρῳ,"
+    },
+    {
+      "n": 545,
+      "greek": "φωνῇ δὲ βροτέῃ κατερήτυε φώνησέν τε·"
+    },
+    {
+      "n": 546,
+      "greek": "θάρσει, Ἰκαρίου κούρη τηλεκλειτοῖο·"
+    },
+    {
+      "n": 547,
+      "greek": "οὐκ ὄναρ, ἀλλʼ ὕπαρ ἐσθλόν, ὅ τοι τετελεσμένον ἔσται."
+    },
+    {
+      "n": 548,
+      "greek": "χῆνες μὲν μνηστῆρες, ἐγὼ δέ τοι αἰετὸς ὄρνις"
+    },
+    {
+      "n": 549,
+      "greek": "ἦα πάρος, νῦν αὖτε τεὸς πόσις εἰλήλουθα,"
+    },
+    {
+      "n": 550,
+      "greek": "ὃς πᾶσι μνηστῆρσιν ἀεικέα πότμον ἐφήσω."
+    },
+    {
+      "n": 551,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐμὲ μελιηδὴς ὕπνος ἀνῆκε·"
+    },
+    {
+      "n": 552,
+      "greek": "παπτήνασα δὲ χῆνας ἐνὶ μεγάροισι νόησα"
+    },
+    {
+      "n": 553,
+      "greek": "πυρὸν ἐρεπτομένους παρὰ πύελον, ἧχι πάρος περ."
+    },
+    {
+      "n": 554,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 555,
+      "greek": "ὦ γύναι, οὔ πως ἔστιν ὑποκρίνασθαι ὄνειρον"
+    },
+    {
+      "n": 556,
+      "greek": "ἄλλῃ ἀποκλίναντʼ, ἐπεὶ ἦ ῥά τοι αὐτὸς Ὀδυσσεὺς"
+    },
+    {
+      "n": 557,
+      "greek": "πέφραδʼ ὅπως τελέει· μνηστῆρσι δὲ φαίνετʼ ὄλεθρος"
+    },
+    {
+      "n": 558,
+      "greek": "πᾶσι μάλʼ, οὐδέ κέ τις θάνατον καὶ κῆρας ἀλύξει."
+    },
+    {
+      "n": 559,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 560,
+      "greek": "ξεῖνʼ, ἦ τοι μὲν ὄνειροι ἀμήχανοι ἀκριτόμυθοι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        549
+      ],
+      "text": "and with the voice of a mortal man checked my weeping, and said: “‘Be of good cheer, daughter of far-famed Icarius; this is no dream, but a true vision of good which shall verily find fulfillment. The geese are the wooers, and I, that before was the eagle, am now again come back as thy husband,"
+    },
+    {
+      "lines": [
+        550,
+        554
+      ],
+      "text": "who will let loose a cruel doom upon all the wooers.’ “So he spoke, and sweet sleep released me, and looking about I saw the geese in the halls, feeding on wheat beside the trough, where they had before been wont to feed.” Then Odysseus of many wiles answered her and said:"
+    },
+    {
+      "lines": [
+        555,
+        559
+      ],
+      "text": "“Lady, in no wise is it possible to wrest this dream aside and give it another meaning, since verily Odysseus himself has shewn thee how he will bring it to pass. For the wooers' destruction is plain to see, for one and all; not one of them shall escape death and the fates.” Then wise Penelope answered him again:"
+    },
+    {
+      "lines": [
+        560,
+        560
+      ],
+      "text": "“Stranger, dreams verily are baffling and unclear of meaning, and in no wise do they find fulfillment in all things for men. For two are the gates of shadowy dreams, and one is fashioned of horn and one of ivory. Those dreams that pass through the gate of sawn ivory"
+    }
+  ]
+}

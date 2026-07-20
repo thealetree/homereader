@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "κλαῖον δὲ λιγέως θαλερὸν κατὰ δάκρυ χέοντες·"
+    },
+    {
+      "n": 202,
+      "greek": "ἀλλʼ οὐ γάρ τις πρῆξις ἐγίγνετο μυρομένοισιν."
+    },
+    {
+      "n": 203,
+      "greek": "αὐτὰρ ἐγὼ δίχα πάντας ἐυκνήμιδας ἑταίρους"
+    },
+    {
+      "n": 204,
+      "greek": "ἠρίθμεον, ἀρχὸν δὲ μετʼ ἀμφοτέροισιν ὄπασσα·"
+    },
+    {
+      "n": 205,
+      "greek": "τῶν μὲν ἐγὼν ἦρχον, τῶν δʼ Εὐρύλοχος θεοειδής."
+    },
+    {
+      "n": 206,
+      "greek": "κλήρους δʼ ἐν κυνέῃ χαλκήρεϊ πάλλομεν ὦκα·"
+    },
+    {
+      "n": 207,
+      "greek": "ἐκ δʼ ἔθορε κλῆρος μεγαλήτορος Εὐρυλόχοιο."
+    },
+    {
+      "n": 208,
+      "greek": "βῆ δʼ ἰέναι, ἅμα τῷ γε δύω καὶ εἴκοσʼ ἑταῖροι"
+    },
+    {
+      "n": 209,
+      "greek": "κλαίοντες· κατὰ δʼ ἄμμε λίπον γοόωντας ὄπισθεν."
+    },
+    {
+      "n": 210,
+      "greek": "εὗρον δʼ ἐν βήσσῃσι τετυγμένα δώματα Κίρκης"
+    },
+    {
+      "n": 211,
+      "greek": "ξεστοῖσιν λάεσσι, περισκέπτῳ ἐνὶ χώρῳ·"
+    },
+    {
+      "n": 212,
+      "greek": "ἀμφὶ δέ μιν λύκοι ἦσαν ὀρέστεροι ἠδὲ λέοντες,"
+    },
+    {
+      "n": 213,
+      "greek": "τοὺς αὐτὴ κατέθελξεν, ἐπεὶ κακὰ φάρμακʼ ἔδωκεν."
+    },
+    {
+      "n": 214,
+      "greek": "οὐδʼ οἵ γʼ ὡρμήθησαν ἐπʼ ἀνδράσιν, ἀλλʼ ἄρα τοί γε"
+    },
+    {
+      "n": 215,
+      "greek": "οὐρῇσιν μακρῇσι περισσαίνοντες ἀνέσταν."
+    },
+    {
+      "n": 216,
+      "greek": "ὡς δʼ ὅτʼ ἂν ἀμφὶ ἄνακτα κύνες δαίτηθεν ἰόντα"
+    },
+    {
+      "n": 217,
+      "greek": "σαίνωσʼ, αἰεὶ γάρ τε φέρει μειλίγματα θυμοῦ,"
+    },
+    {
+      "n": 218,
+      "greek": "ὣς τοὺς ἀμφὶ λύκοι κρατερώνυχες ἠδὲ λέοντες"
+    },
+    {
+      "n": 219,
+      "greek": "σαῖνον· τοὶ δʼ ἔδεισαν, ἐπεὶ ἴδον αἰνὰ πέλωρα."
+    },
+    {
+      "n": 220,
+      "greek": "ἔσταν δʼ ἐν προθύροισι θεᾶς καλλιπλοκάμοιο,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "Of the one I took command, and of the other godlike Eurylochus. Quickly then we shook lots in a brazen helmet, and out leapt the lot of great-hearted Eurylochus. So he set out, and with him went two-and-twenty comrades, all weeping; and they left us behind, lamenting."
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "Within the forest glades they found the house of Circe, built of polished stone in a place of wide outlook, and round about it were mountain wolves and lions, whom Circe herself had bewitched; for she gave them evil drugs. Yet these beasts did not rush upon my men,"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "but pranced about them fawningly, wagging their long tails. And as when hounds fawn around their master as he comes from a feast, for he ever brings them bits to soothe their temper, so about them fawned the stout-clawed wolves and lions; but they were seized with fear, as they saw the dread monsters."
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "So they stood in the gateway of the fair-tressed goddess, and within they heard Circe singing with sweet voice, as she went to and fro before a great imperishable web, such as is the handiwork of goddesses, finely-woven and beautiful, and glorious. Then among them spoke Polites, a leader of men,"
+    }
+  ]
+}

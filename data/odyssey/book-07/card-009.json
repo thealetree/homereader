@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "οἵδε δὲ σὸν μῦθον ποτιδέγμενοι ἰσχανόωνται."
+    },
+    {
+      "n": 162,
+      "greek": "ἄλλʼ ἄγε δὴ ξεῖνον μὲν ἐπὶ θρόνου ἀργυροήλου"
+    },
+    {
+      "n": 163,
+      "greek": "εἷσον ἀναστήσας, σὺ δὲ κηρύκεσσι κέλευσον"
+    },
+    {
+      "n": 164,
+      "greek": "οἶνον ἐπικρῆσαι, ἵνα καὶ Διὶ τερπικεραύνῳ"
+    },
+    {
+      "n": 165,
+      "greek": "σπείσομεν, ὅς θʼ ἱκέτῃσιν ἅμʼ αἰδοίοισιν ὀπηδεῖ·"
+    },
+    {
+      "n": 166,
+      "greek": "δόρπον δὲ ξείνῳ ταμίη δότω ἔνδον ἐόντων."
+    },
+    {
+      "n": 167,
+      "greek": "αὐτὰρ ἐπεὶ τό γʼ ἄκουσʼ ἱερὸν μένος Ἀλκινόοιο,"
+    },
+    {
+      "n": 168,
+      "greek": "χειρὸς ἑλὼν Ὀδυσῆα δαΐφρονα ποικιλομήτην"
+    },
+    {
+      "n": 169,
+      "greek": "ὦρσεν ἀπʼ ἐσχαρόφιν καὶ ἐπὶ θρόνου εἷσε φαεινοῦ,"
+    },
+    {
+      "n": 170,
+      "greek": "υἱὸν ἀναστήσας ἀγαπήνορα Λαοδάμαντα,"
+    },
+    {
+      "n": 171,
+      "greek": "ὅς οἱ πλησίον ἷζε, μάλιστα δέ μιν φιλέεσκεν."
+    },
+    {
+      "n": 172,
+      "greek": "χέρνιβα δʼ ἀμφίπολος προχόῳ ἐπέχευε φέρουσα"
+    },
+    {
+      "n": 173,
+      "greek": "καλῇ χρυσείῃ ὑπὲρ ἀργυρέοιο λέβητος,"
+    },
+    {
+      "n": 174,
+      "greek": "νίψασθαι· παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν."
+    },
+    {
+      "n": 175,
+      "greek": "σῖτον δʼ αἰδοίη ταμίη παρέθηκε φέρουσα,"
+    },
+    {
+      "n": 176,
+      "greek": "εἴδατα πόλλʼ ἐπιθεῖσα, χαριζομένη παρεόντων."
+    },
+    {
+      "n": 177,
+      "greek": "αὐτὰρ ὁ πῖνε καὶ ἦσθε πολύτλας δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 178,
+      "greek": "καὶ τότε κήρυκα προσέφη μένος Ἀλκινόοιο·"
+    },
+    {
+      "n": 179,
+      "greek": "Ποντόνοε, κρητῆρα κερασσάμενος μέθυ νεῖμον"
+    },
+    {
+      "n": 180,
+      "greek": "πᾶσιν ἀνὰ μέγαρον, ἵνα καὶ Διὶ τερπικεραύνῳ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "that we may pour libations also to Zeus, who hurls the thunderbolt; for he ever attends upon reverend suppliants. And let the housewife give supper to the stranger of the store that is in the house.” When the strong and mighty Alcinous heard this, he took by the hand Odysseus, the wise and crafty-minded, and raised him from the hearth, and set him upon a bright chair"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "from which he bade his son, the kindly Laodamas, to rise; for he sat next to him, and was his best beloved. Then a handmaid brought water for the hands in a fair pitcher of gold, and poured it over a silver basin, for him to wash, and beside him drew up a polished table."
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "And the grave housewife brought and set before him bread, and therewith dainties in abundance, giving freely of her store. So the much-enduring goodly Odysseus drank and ate; and then the mighty Alcinous spoke to the herald, and said: “Pontonous, mix the bowl, and serve wine"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "to all in the hall, that we may pour libations also to Zeus, who hurls the thunderbolt; for he ever attends upon reverend suppliants.” He spoke, and Pontonous mixed the honey-hearted wine, and served out to all, pouring first drops for libation into the cups. But when they had poured libations, and had drunk to their heart's content,"
+    }
+  ]
+}

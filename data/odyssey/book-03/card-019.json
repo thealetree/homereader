@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "εἶμʼ, ἵνα θαρσύνω θʼ ἑτάρους εἴπω τε ἕκαστα."
+    },
+    {
+      "n": 362,
+      "greek": "οἶος γὰρ μετὰ τοῖσι γεραίτερος εὔχομαι εἶναι·"
+    },
+    {
+      "n": 363,
+      "greek": "οἱ δʼ ἄλλοι φιλότητι νεώτεροι ἄνδρες ἕπονται,"
+    },
+    {
+      "n": 364,
+      "greek": "πάντες ὁμηλικίη μεγαθύμου Τηλεμάχοιο."
+    },
+    {
+      "n": 365,
+      "greek": "ἔνθα κε λεξαίμην κοίλῃ παρὰ νηὶ μελαίνῃ"
+    },
+    {
+      "n": 366,
+      "greek": "νῦν· ἀτὰρ ἠῶθεν μετὰ Καύκωνας μεγαθύμους"
+    },
+    {
+      "n": 367,
+      "greek": "εἶμʼ ἔνθα χρεῖός μοι ὀφέλλεται, οὔ τι νέον γε"
+    },
+    {
+      "n": 368,
+      "greek": "οὐδʼ ὀλίγον. σὺ δὲ τοῦτον, ἐπεὶ τεὸν ἵκετο δῶμα,"
+    },
+    {
+      "n": 369,
+      "greek": "πέμψον σὺν δίφρῳ τε καὶ υἱέι· δὸς δέ οἱ ἵππους,"
+    },
+    {
+      "n": 370,
+      "greek": "οἵ τοι ἐλαφρότατοι θείειν καὶ κάρτος ἄριστοι."
+    },
+    {
+      "n": 371,
+      "greek": "ὣς ἄρα φωνήσασʼ ἀπέβη γλαυκῶπις Ἀθήνη"
+    },
+    {
+      "n": 372,
+      "greek": "φήνῃ εἰδομένη· θάμβος δʼ ἕλε πάντας ἰδόντας."
+    },
+    {
+      "n": 373,
+      "greek": "θαύμαζεν δʼ ὁ γεραιός, ὅπως ἴδεν ὀφθαλμοῖς·"
+    },
+    {
+      "n": 374,
+      "greek": "Τηλεμάχου δʼ ἕλε χεῖρα, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 375,
+      "greek": "ὦ φίλος, οὔ σε ἔολπα κακὸν καὶ ἄναλκιν ἔσεσθαι,"
+    },
+    {
+      "n": 376,
+      "greek": "εἰ δή τοι νέῳ ὧδε θεοὶ πομπῆες ἕπονται."
+    },
+    {
+      "n": 377,
+      "greek": "οὐ μὲν γάρ τις ὅδʼ ἄλλος Ὀλύμπια δώματʼ ἐχόντων,"
+    },
+    {
+      "n": 378,
+      "greek": "ἀλλὰ Διὸς θυγάτηρ, κυδίστη Τριτογένεια,"
+    },
+    {
+      "n": 379,
+      "greek": "ἥ τοι καὶ πατέρʼ ἐσθλὸν ἐν Ἀργείοισιν ἐτίμα."
+    },
+    {
+      "n": 380,
+      "greek": "ἀλλὰ ἄνασσʼ ἵληθι, δίδωθι δέ μοι κλέος ἐσθλόν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "There will I lay me down by the hollow black ship this night, but in the morning I will go to the great-hearted Cauconians, where a debt is owing to me, in no wise new or small. But do thou send this man on his way with a chariot and with thy son, since he has come to thy house, and give him horses,"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "the fleetest thou host in running and the best in strength.” So spoke the goddess, flashing-eyed Athena, and she departed in the likeness of a sea-eagle; and amazement fell upon all at the sight, and the old man marvelled, when his eyes beheld it. And he grasped the hand of Telemachus, and spoke, and addressed him:"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "“Friend, in no wise do I think that thou wilt prove a base man or a craven, if verily when thou art so young the gods follow thee to be thy guides. For truly this is none other of those that have their dwellings on Olympus but the daughter of Zeus, Tritogeneia, the maid most glorious, she that honored also thy noble father among the Argives."
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "Nay, O Queen, be gracious, and grant to me fair renown, to me and to my sons and to my revered wife; and to thee in return will I sacrifice a sleek heifer, broad of brow, unbroken, which no man hath yet led beneath the yoke. Her will I sacrifice, and I will overlay her horns with gold.”"
+    }
+  ]
+}

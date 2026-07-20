@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "τῶν οὐδέν τοι ἐγὼ κρύψω ἔπος οὐδʼ ἐπικεύσω."
+    },
+    {
+      "n": 142,
+      "greek": "φῆ μιν ὅ γʼ ἐν νήσῳ ἰδέειν κρατέρʼ ἄλγεʼ ἔχοντα,"
+    },
+    {
+      "n": 143,
+      "greek": "νύμφης ἐν μεγάροισι Καλυψοῦς, ἥ μιν ἀνάγκῃ"
+    },
+    {
+      "n": 144,
+      "greek": "ἴσχει· ὁ δʼ οὐ δύναται ἣν πατρίδα γαῖαν ἱκέσθαι."
+    },
+    {
+      "n": 145,
+      "greek": "οὐ γάρ οἱ πάρα νῆες ἐπήρετμοι καὶ ἑταῖροι,"
+    },
+    {
+      "n": 146,
+      "greek": "οἵ κέν μιν πέμποιεν ἐπʼ εὐρέα νῶτα θαλάσσης"
+    },
+    {
+      "n": 147,
+      "greek": "ὣς ἔφατʼ Ἀτρεΐδης, δουρικλειτὸς Μενέλαος."
+    },
+    {
+      "n": 148,
+      "greek": "ταῦτα τελευτήσας νεόμην· ἔδοσαν δέ μοι οὖρον"
+    },
+    {
+      "n": 149,
+      "greek": "ἀθάνατοι, τοί μʼ ὦκα φίλην ἐς πατρίδʼ ἔπεμψαν."
+    },
+    {
+      "n": 150,
+      "greek": "ὣς φάτο, τῇ δʼ ἄρα θυμὸν ἐνὶ στήθεσσιν ὄρινε."
+    },
+    {
+      "n": 151,
+      "greek": "τοῖσι δὲ καὶ μετέειπε Θεοκλύμενος θεοειδής·"
+    },
+    {
+      "n": 152,
+      "greek": "ὦ γύναι αἰδοίη Λαερτιάδεω Ὀδυσῆος,"
+    },
+    {
+      "n": 153,
+      "greek": "ἦ τοι ὅ γʼ οὐ σάφα οἶδεν, ἐμεῖο δὲ σύνθεο μῦθον·"
+    },
+    {
+      "n": 154,
+      "greek": "ἀτρεκέως γάρ σοι μαντεύσομαι οὐδʼ ἐπικεύσω·"
+    },
+    {
+      "n": 155,
+      "greek": "ἴστω νῦν Ζεὺς πρῶτα θεῶν, ξενίη τε τράπεζα"
+    },
+    {
+      "n": 156,
+      "greek": "ἱστίη τʼ Ὀδυσῆος ἀμύμονος, ἣν ἀφικάνω,"
+    },
+    {
+      "n": 157,
+      "greek": "ὡς ἦ τοι Ὀδυσεὺς ἤδη ἐν πατρίδι γαίῃ,"
+    },
+    {
+      "n": 158,
+      "greek": "ἥμενος ἢ ἕρπων, τάδε πευθόμενος κακὰ ἔργα,"
+    },
+    {
+      "n": 159,
+      "greek": "ἔστιν, ἀτὰρ μνηστῆρσι κακὸν πάντεσσι φυτεύει·"
+    },
+    {
+      "n": 160,
+      "greek": "τοῖον ἐγὼν οἰωνὸν ἐϋσσέλμου ἐπὶ νηὸς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "to send him on his way over the broad back of the sea.’ “So spoke Menelaus, son of Atreus, the famous spearman. Now when I had made an end of all this I set out for home, and the immortals gave me a fair wind and brought me quickly to my dear native land.”"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "So he spoke, and stirred the heart in her breast. Then among them spoke also the godlike Theoclymenus, saying: “Honored wife of Odysseus, son of Laertes, he truly has no clear understanding; but do thou hearken to my words, for with certain knowledge will I prophesy to thee, and will hide naught."
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "Be my witness Zeus above all gods, and this hospitable board and the hearth of noble Odysseus to which I am come, that verily Odysseus is even now in his native land, resting or moving, learning of these evil deeds, and he is sowing the seeds of evil for all the wooers."
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "So plain a bird of omen did I mark as I sat on the benched ship, and I declared it to Telemachus.” Then wise Penelope answered him: “Ah, stranger, I would that this word of thine might be fulfilled. Then shouldest thou straightway know of kindness and many a gift"
+    }
+  ]
+}

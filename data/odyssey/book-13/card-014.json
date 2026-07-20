@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "ἀνέρας ἀλφηστὰς νίκα ταχέεσσι πόδεσσιν,"
+    },
+    {
+      "n": 262,
+      "greek": "οὕνεκά με στερέσαι τῆς ληΐδος ἤθελε πάσης"
+    },
+    {
+      "n": 263,
+      "greek": "Τρωϊάδος, τῆς εἵνεκʼ ἐγὼ πάθον ἄλγεα θυμῷ,"
+    },
+    {
+      "n": 264,
+      "greek": "ἀνδρῶν τε πτολέμους ἀλεγεινά τε κύματα πείρων,"
+    },
+    {
+      "n": 265,
+      "greek": "οὕνεκʼ ἄρʼ οὐχ ᾧ πατρὶ χαριζόμενος θεράπευον"
+    },
+    {
+      "n": 266,
+      "greek": "δήμῳ ἔνι Τρώων, ἀλλʼ ἄλλων ἦρχον ἑταίρων."
+    },
+    {
+      "n": 267,
+      "greek": "τὸν μὲν ἐγὼ κατιόντα βάλον χαλκήρεϊ δουρὶ"
+    },
+    {
+      "n": 268,
+      "greek": "ἀγρόθεν, ἐγγὺς ὁδοῖο λοχησάμενος σὺν ἑταίρῳ·"
+    },
+    {
+      "n": 269,
+      "greek": "νὺξ δὲ μάλα δνοφερὴ κάτεχʼ οὐρανόν, οὐδέ τις ἡμέας"
+    },
+    {
+      "n": 270,
+      "greek": "ἀνθρώπων ἐνόησε, λάθον δέ ἑ θυμὸν ἀπούρας."
+    },
+    {
+      "n": 271,
+      "greek": "αὐτὰρ ἐπεὶ δὴ τόν γε κατέκτανον ὀξέϊ χαλκῷ,"
+    },
+    {
+      "n": 272,
+      "greek": "αὐτίκʼ ἐγὼν ἐπὶ νῆα κιὼν Φοίνικας ἀγαυοὺς"
+    },
+    {
+      "n": 273,
+      "greek": "ἐλλισάμην, καί σφιν μενοεικέα ληΐδα δῶκα·"
+    },
+    {
+      "n": 274,
+      "greek": "τούς μʼ ἐκέλευσα Πύλονδε καταστῆσαι καὶ ἐφέσσαι"
+    },
+    {
+      "n": 275,
+      "greek": "ἢ εἰς Ἤλιδα δῖαν, ὅθι κρατέουσιν Ἐπειοί."
+    },
+    {
+      "n": 276,
+      "greek": "ἀλλʼ ἦ τοι σφέας κεῖθεν ἀπώσατο ἲς ἀνέμοιο"
+    },
+    {
+      "n": 277,
+      "greek": "πόλλʼ ἀεκαζομένους, οὐδʼ ἤθελον ἐξαπατῆσαι."
+    },
+    {
+      "n": 278,
+      "greek": "κεῖθεν δὲ πλαγχθέντες ἱκάνομεν ἐνθάδε νυκτός."
+    },
+    {
+      "n": 279,
+      "greek": "σπουδῇ δʼ ἐς λιμένα προερέσσαμεν, οὐδέ τις ἡμῖν"
+    },
+    {
+      "n": 280,
+      "greek": "δόρπου μνῆστις ἔην, μάλα περ χατέουσιν ἑλέσθαι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "for that I would not shew favour to his father, and serve as his squire in the land of the Trojans, but commanded other men of my own. So I smote him with my bronze-tipped spear as he came home from the field, lying in wait for him with one of my men by the roadside. A dark night covered the heavens, and no"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "man was ware of us, but unseen I took away his life. Now when I had slain him with the sharp bronze, I went straightway to a ship, and made prayer to the lordly Phoenicians, giving them booty to satisfy their hearts. I bade them take me aboard and land me at Pylos,"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "or at goodly Elis, where the Epeans hold sway. Yet verily the force of the wind thrust them away from thence, sore against their will, nor did they purpose to play me false; but driven wandering from thence we came hither by night. With eager haste we rowed on into the harbor, nor had we any"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "thought of supper, sore as was our need of it, but even as we were we went forth from the ship and lay down, one and all. Then upon me came sweet sleep in my weariness, but they took my goods out of the hollow ship and set them where I myself lay on the sands."
+    }
+  ]
+}

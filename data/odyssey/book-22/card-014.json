@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "τοῖς δʼ ἄρα μύθων ἦρχε πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 262,
+      "greek": "ὦ φίλοι, ἤδη μέν κεν ἐγὼν εἴποιμι καὶ ἄμμι"
+    },
+    {
+      "n": 263,
+      "greek": "μνηστήρων ἐς ὅμιλον ἀκοντίσαι, οἳ μεμάασιν"
+    },
+    {
+      "n": 264,
+      "greek": "ἡμέας ἐξεναρίξαι ἐπὶ προτέροισι κακοῖσιν."
+    },
+    {
+      "n": 265,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀκόντισαν ὀξέα δοῦρα"
+    },
+    {
+      "n": 266,
+      "greek": "ἄντα τιτυσκόμενοι· Δημοπτόλεμον μὲν Ὀδυσσεύς,"
+    },
+    {
+      "n": 267,
+      "greek": "Εὐρυάδην δʼ ἄρα Τηλέμαχος, Ἔλατον δὲ συβώτης,"
+    },
+    {
+      "n": 268,
+      "greek": "Πείσανδρον δʼ ἄρʼ ἔπεφνε βοῶν ἐπιβουκόλος ἀνήρ."
+    },
+    {
+      "n": 269,
+      "greek": "οἱ μὲν ἔπειθʼ ἅμα πάντες ὀδὰξ ἕλον ἄσπετον οὖδας,"
+    },
+    {
+      "n": 270,
+      "greek": "μνηστῆρες δʼ ἀνεχώρησαν μεγάροιο μυχόνδε·"
+    },
+    {
+      "n": 271,
+      "greek": "τοὶ δʼ ἄρʼ ἐπήϊξαν, νεκύων δʼ ἐξ ἔγχεʼ ἕλοντο."
+    },
+    {
+      "n": 272,
+      "greek": "αὖτις δὲ μνηστῆρες ἀκόντισαν ὀξέα δοῦρα"
+    },
+    {
+      "n": 273,
+      "greek": "ἱέμενοι· τὰ δὲ πολλὰ ἐτώσια θῆκεν Ἀθήνη."
+    },
+    {
+      "n": 274,
+      "greek": "τῶν ἄλλος μὲν σταθμὸν ἐϋσταθέος μεγάροιο"
+    },
+    {
+      "n": 275,
+      "greek": "βεβλήκειν, ἄλλος δὲ θύρην πυκινῶς ἀραρυῖαν·"
+    },
+    {
+      "n": 276,
+      "greek": "ἄλλου δʼ ἐν τοίχῳ μελίη πέσε χαλκοβάρεια."
+    },
+    {
+      "n": 277,
+      "greek": "Ἀμφιμέδων δʼ ἄρα Τηλέμαχον βάλε χεῖρʼ ἐπὶ καρπῷ"
+    },
+    {
+      "n": 278,
+      "greek": "λίγδην, ἄκρον δὲ ῥινὸν δηλήσατο χαλκός."
+    },
+    {
+      "n": 279,
+      "greek": "Κτήσιππος δʼ Εὔμαιον ὑπὲρ σάκος ἔγχεϊ μακρῷ"
+    },
+    {
+      "n": 280,
+      "greek": "ὦμον ἐπέγραψεν· τὸ δʼ ὑπέρπτατο, πῖπτε δʼ ἔραζε."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "So he spoke, and they all hurled their sharp spears with sure aim. Odysseus smote Demoptolemus, Telemachus Euryades, the swineherd Elatus, and the herdsmen of the cattle slew Peisander. So these all at the same moment bit the vast floor with their teeth,"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "and the wooers drew back to the innermost part of the hall. But the others sprang forward and drew forth their spears from the dead bodies. Then again the wooers hurled their sharp spears eagerly, but Athena made them vain, many as they were. One man"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "smote the door-post of the well-built hall, another the close-fitting door, another's ashen spear, heavy with bronze, struck upon the wall. But Amphimedon smote Telemachus on the hand by the wrist, a grazing blow, and the bronze tore the surface of the skin. And Ctesippus with his long spear"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "grazed the shoulder of Eumaeus above his shield, but the spear flew over and fell upon the ground. Then once more Odysseus, the wise and crafty-minded, and his company hurled their sharp spears into the throng of the wooers, and again Odysseus, the sacker of cities, smote Eurydamas, and Telemachus Amphimedon, the swineherd Polybus,"
+    }
+  ]
+}

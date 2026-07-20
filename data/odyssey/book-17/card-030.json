@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 30,
+  "lineStart": 581,
+  "lineEnd": 600,
+  "lines": [
+    {
+      "n": 581,
+      "greek": "ὕβριν ἀλυσκάζων ἀνδρῶν ὑπερηνορεόντων."
+    },
+    {
+      "n": 582,
+      "greek": "ἀλλά σε μεῖναι ἄνωγεν ἐς ἠέλιον καταδύντα."
+    },
+    {
+      "n": 583,
+      "greek": "καὶ δὲ σοὶ ὧδʼ αὐτῇ πολὺ κάλλιον, ὦ βασίλεια,"
+    },
+    {
+      "n": 584,
+      "greek": "οἴην πρὸς ξεῖνον φάσθαι ἔπος ἠδʼ ἐπακοῦσαι."
+    },
+    {
+      "n": 585,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 586,
+      "greek": "οὐκ ἄφρων ὁ ξεῖνος· ὀΐεται, ὥς περ ἂν εἴη·"
+    },
+    {
+      "n": 587,
+      "greek": "οὐ γάρ πού τινες ὧδε καταθνητῶν ἀνθρώπων"
+    },
+    {
+      "n": 588,
+      "greek": "ἀνέρες ὑβρίζοντες ἀτάσθαλα μηχανόωνται."
+    },
+    {
+      "n": 589,
+      "greek": "ἡ μὲν ἄρʼ ὣς ἀγόρευεν, ὁ δʼ ᾤχετο δῖος ὑφορβὸς"
+    },
+    {
+      "n": 590,
+      "greek": "μνηστήρων ἐς ὅμιλον, ἐπεὶ διεπέφραδε πάντα."
+    },
+    {
+      "n": 591,
+      "greek": "αἶψα δὲ Τηλέμαχον ἔπεα πτερόεντα προσηύδα,"
+    },
+    {
+      "n": 592,
+      "greek": "ἄγχι σχὼν κεφαλήν, ἵνα μὴ πευθοίαθʼ οἱ ἄλλοι·"
+    },
+    {
+      "n": 593,
+      "greek": "ὦ φίλʼ, ἐγὼ μὲν ἄπειμι, σύας καὶ κεῖνα φυλάξων,"
+    },
+    {
+      "n": 594,
+      "greek": "σὸν καὶ ἐμὸν βίοτον· σοὶ δʼ ἐνθάδε πάντα μελόντων."
+    },
+    {
+      "n": 595,
+      "greek": "αὐτὸν μέν σε πρῶτα σάω, καὶ φράζεο θυμῷ"
+    },
+    {
+      "n": 596,
+      "greek": "μή τι πάθῃς· πολλοὶ δὲ κακὰ φρονέουσιν Ἀχαιῶν,"
+    },
+    {
+      "n": 597,
+      "greek": "τοὺς Ζεὺς ἐξολέσειε πρὶν ἡμῖν πῆμα γενέσθαι."
+    },
+    {
+      "n": 598,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 599,
+      "greek": "ἔσσεται οὕτως, ἄττα· σὺ δʼ ἔρχεο δειελιήσας·"
+    },
+    {
+      "n": 600,
+      "greek": "ἠῶθεν δʼ ἰέναι καὶ ἄγειν ἱερήϊα καλά·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        585,
+        589
+      ],
+      "text": "Then wise Penelope answered him: “Not without wisdom is the stranger; he divines how it may be. There are no mortal men, methinks, who in wantonness devise such wicked folly as these.” So she spoke, and the goodly swineherd departed"
+    },
+    {
+      "lines": [
+        590,
+        594
+      ],
+      "text": "into the throng of the wooers when he had told her all. And straightway he spoke winged words to Telemachus, holding his head close to him that the others might not hear: “Friend, I am going forth to guard the swine and all things there, thy livelihood and mine; but have thou charge of all things here."
+    },
+    {
+      "lines": [
+        595,
+        599
+      ],
+      "text": "Thine own self do thou keep safe first of all, and let thy mind beware lest some ill befall thee, for many of the Achaeans are devising evil, whom may Zeus utterly destroy before harm fall on us.” Then wise Telemachus answered him: “So shall it be, father; go thy way when thou hast supped."
+    },
+    {
+      "lines": [
+        600,
+        600
+      ],
+      "text": "And in the morning do thou come and bring goodly victims. But all matters here shall be a care to me and to the immortals.” So he spoke, and the swineherd sat down again on the polished chair. But when he had satisfied his heart with meat and drink, he went his way to the swine, and left the courts and the hall"
+    }
+  ]
+}

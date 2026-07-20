@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "τῆμος ἄρʼ ἐξ ἁλὸς εἶσι γέρων ἅλιος νημερτὴς"
+    },
+    {
+      "n": 402,
+      "greek": "πνοιῇ ὕπο Ζεφύροιο μελαίνῃ φρικὶ καλυφθείς,"
+    },
+    {
+      "n": 403,
+      "greek": "ἐκ δʼ ἐλθὼν κοιμᾶται ὑπὸ σπέσσι γλαφυροῖσιν·"
+    },
+    {
+      "n": 404,
+      "greek": "ἀμφὶ δέ μιν φῶκαι νέποδες καλῆς ἁλοσύδνης"
+    },
+    {
+      "n": 405,
+      "greek": "ἁθρόαι εὕδουσιν, πολιῆς ἁλὸς ἐξαναδῦσαι,"
+    },
+    {
+      "n": 406,
+      "greek": "πικρὸν ἀποπνείουσαι ἁλὸς πολυβενθέος ὀδμήν."
+    },
+    {
+      "n": 407,
+      "greek": "ἔνθα σʼ ἐγὼν ἀγαγοῦσα ἅμʼ ἠοῖ φαινομένηφιν"
+    },
+    {
+      "n": 408,
+      "greek": "εὐνάσω ἑξείης· σὺ δʼ ἐὺ κρίνασθαι ἑταίρους"
+    },
+    {
+      "n": 409,
+      "greek": "τρεῖς, οἵ τοι παρὰ νηυσὶν ἐυσσέλμοισιν ἄριστοι."
+    },
+    {
+      "n": 410,
+      "greek": "πάντα δέ τοι ἐρέω ὀλοφώια τοῖο γέροντος."
+    },
+    {
+      "n": 411,
+      "greek": "φώκας μέν τοι πρῶτον ἀριθμήσει καὶ ἔπεισιν·"
+    },
+    {
+      "n": 412,
+      "greek": "αὐτὰρ ἐπὴν πάσας πεμπάσσεται ἠδὲ ἴδηται,"
+    },
+    {
+      "n": 413,
+      "greek": "λέξεται ἐν μέσσῃσι νομεὺς ὣς πώεσι μήλων."
+    },
+    {
+      "n": 414,
+      "greek": "τὸν μὲν ἐπὴν δὴ πρῶτα κατευνηθέντα ἴδησθε,"
+    },
+    {
+      "n": 415,
+      "greek": "καὶ τότʼ ἔπειθʼ ὑμῖν μελέτω κάρτος τε βίη τε,"
+    },
+    {
+      "n": 416,
+      "greek": "αὖθι δʼ ἔχειν μεμαῶτα καὶ ἐσσύμενόν περ ἀλύξαι."
+    },
+    {
+      "n": 417,
+      "greek": "πάντα δὲ γιγνόμενος πειρήσεται, ὅσσʼ ἐπὶ γαῖαν"
+    },
+    {
+      "n": 418,
+      "greek": "ἑρπετὰ γίγνονται, καὶ ὕδωρ καὶ θεσπιδαὲς πῦρ·"
+    },
+    {
+      "n": 419,
+      "greek": "ὑμεῖς δʼ ἀστεμφέως ἐχέμεν μᾶλλόν τε πιέζειν."
+    },
+    {
+      "n": 420,
+      "greek": "ἀλλʼ ὅτε κεν δή σʼ αὐτὸς ἀνείρηται ἐπέεσσι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "sleep in a herd, coming forth from the gray water, and bitter is the smell they breathe of the depths of the sea. Thither will I lead thee at break of day and lay you all in a row; for do thou choose carefully three of thy companions, who are the best thou hast in thy well-benched ships."
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "And I will tell thee all the wizard wiles of that old man. First he will count the seals, and go over them; but when he has told them all off by fives, and beheld them, he will lay himself down in their midst, as a shepherd among his flocks of sheep. Now so soon as you see him laid to rest,"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "thereafter let your hearts be filled with strength and courage, and do you hold him there despite his striving and struggling to escape. For try he will, and will assume all manner of shapes of all things that move upon the earth, and of water, and of wondrous blazing fire. Yet do ye hold him unflinchingly and grip him yet the more."
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "But when at length of his own will he speaks and questions thee in that shape in which you saw him laid to rest, then, hero, stay thy might, and set the old man free, and ask him who of the gods is wroth with thee, and of thy return, how thou mayest go over the teeming deep.’"
+    }
+  ]
+}

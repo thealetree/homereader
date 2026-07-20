@@ -1,0 +1,129 @@
+{
+  "book": 4,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "οἱ δʼ ἷξον κοίλην Λακεδαίμονα κητώεσσαν,"
+    },
+    {
+      "n": 2,
+      "greek": "πρὸς δʼ ἄρα δώματʼ ἔλων Μενελάου κυδαλίμοιο."
+    },
+    {
+      "n": 3,
+      "greek": "τὸν δʼ εὗρον δαινύντα γάμον πολλοῖσιν ἔτῃσιν"
+    },
+    {
+      "n": 4,
+      "greek": "υἱέος ἠδὲ θυγατρὸς ἀμύμονος ᾧ ἐνὶ οἴκῳ."
+    },
+    {
+      "n": 5,
+      "greek": "τὴν μὲν Ἀχιλλῆος ῥηξήνορος υἱέι πέμπεν·"
+    },
+    {
+      "n": 6,
+      "greek": "ἐν Τροίῃ γὰρ πρῶτον ὑπέσχετο καὶ κατένευσε"
+    },
+    {
+      "n": 7,
+      "greek": "δωσέμεναι, τοῖσιν δὲ θεοὶ γάμον ἐξετέλειον."
+    },
+    {
+      "n": 8,
+      "greek": "τὴν ἄρʼ ὅ γʼ ἔνθʼ ἵπποισι καὶ ἅρμασι πέμπε νέεσθαι"
+    },
+    {
+      "n": 9,
+      "greek": "Μυρμιδόνων προτὶ ἄστυ περικλυτόν, οἷσιν ἄνασσεν."
+    },
+    {
+      "n": 10,
+      "greek": "υἱέι δὲ Σπάρτηθεν Ἀλέκτορος ἤγετο κούρην,"
+    },
+    {
+      "n": 11,
+      "greek": "ὅς οἱ τηλύγετος γένετο κρατερὸς Μεγαπένθης"
+    },
+    {
+      "n": 12,
+      "greek": "ἐκ δούλης· Ἑλένῃ δὲ θεοὶ γόνον οὐκέτʼ ἔφαινον,"
+    },
+    {
+      "n": 13,
+      "greek": "ἐπεὶ δὴ τὸ πρῶτον ἐγείνατο παῖδʼ ἐρατεινήν,"
+    },
+    {
+      "n": 14,
+      "greek": "Ἑρμιόνην, ἣ εἶδος ἔχε χρυσέης Ἀφροδίτης."
+    },
+    {
+      "n": 15,
+      "greek": "ὣς οἱ μὲν δαίνυντο καθʼ ὑψερεφὲς μέγα δῶμα"
+    },
+    {
+      "n": 16,
+      "greek": "γείτονες ἠδὲ ἔται Μενελάου κυδαλίμοιο,"
+    },
+    {
+      "n": 17,
+      "greek": "τερπόμενοι· μετὰ δέ σφιν ἐμέλπετο θεῖος ἀοιδὸς"
+    },
+    {
+      "n": 18,
+      "greek": "φορμίζων, δοιὼ δὲ κυβιστητῆρε κατʼ αὐτούς,"
+    },
+    {
+      "n": 19,
+      "greek": "μολπῆς ἐξάρχοντος, ἐδίνευον κατὰ μέσσους."
+    },
+    {
+      "n": 20,
+      "greek": "τὼ δʼ αὖτʼ ἐν προθύροισι δόμων αὐτώ τε καὶ ἵππω,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "And they came to the hollow land of Lacedaemon with its many ravines, and drove to the palace of glorious Menelaus. Him they found giving a marriage feast to his many kinsfolk for his noble son and daughter within his house."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "His daughter he was sending to the son of Achilles, breaker of the ranks of men, for in the land of Troy he first had promised and pledged that he would give her, and now the gods were bringing their marriage to pass. Her then he was sending forth with horses and chariots to go her way to the glorious city of the Myrmidons, over whom her lord was king;"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "but for his son he was bringing to his home from Sparta the daughter of Alector, even for the stalwart Megapenthes, who was his son well-beloved, born of a slave woman; for to Helen the gods vouchsafed issue no more after that she had at the first borne her lovely child, Hermione, who had the beauty of golden Aphrodite."
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "So they were feasting in the great high-roofed hall, the neighbors and kinsfolk of glorious Menelaus, and making merry; and among them a divine minstrel was singing to the lyre, and two tumblers whirled up and down through the midst of them, as he began his song."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "Then the two, the prince Telemachus and the glorious son of Nestor, halted at the gateway of the palace, they and their two horses. And the lord Eteoneus came forth and saw them, the busy squire of glorious Menelaus; and he went through the hall to bear the tidings to the shepherd of the people."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ὥρῃ ἐν εἰαρινῇ, ὅτε τʼ ἤματα μακρὰ πέλονται."
+    },
+    {
+      "n": 302,
+      "greek": "οἱ δʼ ὥς τʼ αἰγυπιοὶ γαμψώνυχες ἀγκυλοχεῖλαι,"
+    },
+    {
+      "n": 303,
+      "greek": "ἐξ ὀρέων ἐλθόντες ἐπʼ ὀρνίθεσσι θόρωσι·"
+    },
+    {
+      "n": 304,
+      "greek": "ταὶ μέν τʼ ἐν πεδίῳ νέφεα πτώσσουσαι ἵενται,"
+    },
+    {
+      "n": 305,
+      "greek": "οἱ δέ τε τὰς ὀλέκουσιν ἐπάλμενοι, οὐδέ τις ἀλκὴ"
+    },
+    {
+      "n": 306,
+      "greek": "γίγνεται οὐδὲ φυγή· χαίρουσι δέ τʼ ἀνέρες ἄγρῃ·"
+    },
+    {
+      "n": 307,
+      "greek": "ὣς ἄρα τοὶ μνηστῆρας ἐπεσσύμενοι κατὰ δῶμα"
+    },
+    {
+      "n": 308,
+      "greek": "τύπτον ἐπιστροφάδην· τῶν δὲ στόνος ὤρνυτʼ ἀεικὴς"
+    },
+    {
+      "n": 309,
+      "greek": "κράτων τυπτομένων, δάπεδον δʼ ἅπαν αἵματι θῦε."
+    },
+    {
+      "n": 310,
+      "greek": "Λειώδης δʼ Ὀδυσῆος ἐπεσσύμενος λάβε γούνων,"
+    },
+    {
+      "n": 311,
+      "greek": "καί μιν λισσόμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 312,
+      "greek": "γουνοῦμαί σʼ, Ὀδυσεῦ· σὺ δέ μʼ αἴδεο καί μʼ ἐλέησον·"
+    },
+    {
+      "n": 313,
+      "greek": "οὐ γάρ πώ τινά φημι γυναικῶν ἐν μεγάροισιν"
+    },
+    {
+      "n": 314,
+      "greek": "εἰπεῖν οὐδέ τι ῥέξαι ἀτάσθαλον· ἀλλὰ καὶ ἄλλους"
+    },
+    {
+      "n": 315,
+      "greek": "παύεσκον μνηστῆρας, ὅτις τοιαῦτά γε ῥέζοι."
+    },
+    {
+      "n": 316,
+      "greek": "ἀλλά μοι οὐ πείθοντο κακῶν ἄπο χεῖρας ἔχεσθαι·"
+    },
+    {
+      "n": 317,
+      "greek": "τῷ καὶ ἀτασθαλίῃσιν ἀεικέα πότμον ἐπέσπον."
+    },
+    {
+      "n": 318,
+      "greek": "αὐτὰρ ἐγὼ μετὰ τοῖσι θυοσκόος οὐδὲν ἐοργὼς"
+    },
+    {
+      "n": 319,
+      "greek": "κείσομαι, ὡς οὐκ ἔστι χάρις μετόπισθʼ εὐεργέων·"
+    },
+    {
+      "n": 320,
+      "greek": "τὸν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "and the vultures pounce upon them and slay them, and they have no defence or way of escape, and men rejoice at the chase; even so did those others set upon the wooers and smite them left and right through the hall. And therefrom rose hideous groaning as heads were smitten, and all the floor swam with blood."
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "But Leiodes rushed forward and clasped the knees of Odysseus, and made entreaty to him, and spoke winged words: “By thy knees I beseech thee, Odysseus, and do thou respect me and have pity. For I declare to thee that never yet have I wronged one of the women in thy halls by wanton word or deed; nay,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "I sought to check the other wooers, when any would do such deeds. But they would not hearken to me to withhold their hands from evil, wherefore through their wanton folly they have met a cruel doom. Yet I, the soothsayer among them, that have done no wrong, shall be laid low even as they; so true is it that there is no gratitude in aftertime for good deeds done.”"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "Then with an angry glance from beneath his brows Odysseus of many wiles answered him: “If verily thou dost declare thyself the soothsayer among these men, often, I ween, must thou have prayed in the halls that far from me the issue of a joyous return might be removed, and that it might be with thee that my dear wife should go and bear thee children;"
+    }
+  ]
+}

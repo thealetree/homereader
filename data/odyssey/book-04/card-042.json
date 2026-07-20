@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 42,
+  "lineStart": 821,
+  "lineEnd": 840,
+  "lines": [
+    {
+      "n": 821,
+      "greek": "ἢ ὅ γε τῶν ἐνὶ δήμῳ, ἵνʼ οἴχεται, ἢ ἐνὶ πόντῳ·"
+    },
+    {
+      "n": 822,
+      "greek": "δυσμενέες γὰρ πολλοὶ ἐπʼ αὐτῷ μηχανόωνται,"
+    },
+    {
+      "n": 823,
+      "greek": "ἱέμενοι κτεῖναι πρὶν πατρίδα γαῖαν ἱκέσθαι."
+    },
+    {
+      "n": 824,
+      "greek": "τὴν δʼ ἀπαμειβόμενον προσέφη εἴδωλον ἀμαυρόν·"
+    },
+    {
+      "n": 825,
+      "greek": "θάρσει, μηδέ τι πάγχυ μετὰ φρεσὶ δείδιθι λίην·"
+    },
+    {
+      "n": 826,
+      "greek": "τοίη γάρ οἱ πομπὸς ἅμʼ ἔρχεται, ἥν τε καὶ ἄλλοι"
+    },
+    {
+      "n": 827,
+      "greek": "ἀνέρες ἠρήσαντο παρεστάμεναι, δύναται γάρ,"
+    },
+    {
+      "n": 828,
+      "greek": "Παλλὰς Ἀθηναίη· σὲ δʼ ὀδυρομένην ἐλεαίρει·"
+    },
+    {
+      "n": 829,
+      "greek": "ἣ νῦν με προέηκε τεῒν τάδε μυθήσασθαι."
+    },
+    {
+      "n": 830,
+      "greek": "τὴν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 831,
+      "greek": "εἰ μὲν δὴ θεός ἐσσι θεοῖό τε ἔκλυες αὐδῆς,"
+    },
+    {
+      "n": 832,
+      "greek": "εἰ δʼ ἄγε μοι καὶ κεῖνον ὀιζυρὸν κατάλεξον,"
+    },
+    {
+      "n": 833,
+      "greek": "ἤ που ἔτι ζώει καὶ ὁρᾷ φάος ἠελίοιο,"
+    },
+    {
+      "n": 834,
+      "greek": "ἦ ἤδη τέθνηκε καὶ εἰν Ἀίδαο δόμοισι."
+    },
+    {
+      "n": 835,
+      "greek": "τὴν δʼ ἀπαμειβόμενον προσέφη εἴδωλον ἀμαυρόν·"
+    },
+    {
+      "n": 836,
+      "greek": "οὐ μέν τοι κεῖνόν γε διηνεκέως ἀγορεύσω,"
+    },
+    {
+      "n": 837,
+      "greek": "ζώει ὅ γʼ ἦ τέθνηκε· κακὸν δʼ ἀνεμώλια βάζειν."
+    },
+    {
+      "n": 838,
+      "greek": "ὣς εἰπὸν σταθμοῖο παρὰ κληῖδα λιάσθη"
+    },
+    {
+      "n": 839,
+      "greek": "ἐς πνοιὰς ἀνέμων. ἡ δʼ ἐξ ὕπνου ἀνόρουσε"
+    },
+    {
+      "n": 840,
+      "greek": "κούρη Ἰκαρίοιο· φίλον δέ οἱ ἦτορ ἰάνθη,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        825,
+        829
+      ],
+      "text": "“Take heart, and be not in thy mind too sore afraid; since such a guide goes with him as men have full often besought to stand by their side, for she has power,—even Pallas Athena. And she pities thee in thy sorrow, for she it is that has sent me forth to tell thee this.”"
+    },
+    {
+      "lines": [
+        830,
+        834
+      ],
+      "text": "Then again wise Penelope answered her: “If thou art indeed a god, and hast listened to the voice of a god, come, tell me, I pray thee, also of that hapless one, whether he still lives and beholds the light of the sun, or whether he is already dead and in the house of Hades.”"
+    },
+    {
+      "lines": [
+        835,
+        839
+      ],
+      "text": "And the dim phantom answered her, and said:“Nay, of him I may not speak at length, whether he be alive or dead; it is an ill thing to speak words vain as wind.” So saying the phantom glided away by the bolt of the door into the breath of the winds. And"
+    },
+    {
+      "lines": [
+        840,
+        840
+      ],
+      "text": "the daughter of Icarius started up from sleep, and her heart was warmed with comfort, that so clear a vision had sped to her in the darkness of night. But the wooers embarked, and sailed over the watery ways, pondering in their hearts utter murder for Telemachus. There is a rocky isle in the midst of the sea,"
+    }
+  ]
+}

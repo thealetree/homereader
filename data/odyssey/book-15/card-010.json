@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "τῷ κέν τοι καὶ κεῖθι θεῷ ὣς εὐχετοῴμην."
+    },
+    {
+      "n": 182,
+      "greek": "ἦ καὶ ἐφʼ ἵπποιϊν μάστιν βάλεν· οἱ δὲ μάλʼ ὦκα"
+    },
+    {
+      "n": 183,
+      "greek": "ἤϊξαν πεδίονδε διὰ πτόλιος μεμαῶτες."
+    },
+    {
+      "n": 184,
+      "greek": "οἱ δὲ πανημέριοι σεῖον ζυγὸν ἀμφὶς ἔχοντες."
+    },
+    {
+      "n": 185,
+      "greek": "δύσετό τʼ ἠέλιος σκιόωντό τε πᾶσαι ἀγυιαί·"
+    },
+    {
+      "n": 186,
+      "greek": "ἐς Φηρὰς δʼ ἵκοντο Διοκλῆος ποτὶ δῶμα,"
+    },
+    {
+      "n": 187,
+      "greek": "υἱέος Ὀρτιλόχοιο, τὸν Ἀλφειὸς τέκε παῖδα."
+    },
+    {
+      "n": 188,
+      "greek": "ἔνθα δὲ νύκτʼ ἄεσαν ὁ δὲ τοῖς πὰρ ξείνια θῆκεν."
+    },
+    {
+      "n": 189,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 190,
+      "greek": "ἵππους τε ζεύγνυντʼ ἀνά θʼ ἅρματα ποικίλʼ ἔβαινον,"
+    },
+    {
+      "n": 191,
+      "greek": "ἐκ δʼ ἔλασαν προθύροιο καὶ αἰθούσης ἐριδούπου·"
+    },
+    {
+      "n": 192,
+      "greek": "μάστιξεν δʼ ἐλάαν, τὼ δʼ οὐκ ἄκοντε πετέσθην."
+    },
+    {
+      "n": 193,
+      "greek": "αἶψα δʼ ἔπειθʼ ἵκοντο Πύλου αἰπὺ πτολίεθρον·"
+    },
+    {
+      "n": 194,
+      "greek": "καὶ τότε Τηλέμαχος προσεφώνεε Νέστορος υἱόν·"
+    },
+    {
+      "n": 195,
+      "greek": "Νεστορίδη, πῶς κέν μοι ὑποσχόμενος τελέσειας"
+    },
+    {
+      "n": 196,
+      "greek": "μῦθον ἐμόν; ξεῖνοι δὲ διαμπερὲς εὐχόμεθʼ εἶναι"
+    },
+    {
+      "n": 197,
+      "greek": "ἐκ πατέρων φιλότητος, ἀτὰρ καὶ ὁμήλικές εἰμεν·"
+    },
+    {
+      "n": 198,
+      "greek": "ἥδε δʼ ὁδὸς καὶ μᾶλλον ὁμοφροσύνῃσιν ἐνήσει."
+    },
+    {
+      "n": 199,
+      "greek": "μή με παρὲξ ἄγε νῆα, διοτρεφές, ἀλλὰ λίπʼ αὐτοῦ,"
+    },
+    {
+      "n": 200,
+      "greek": "μή μʼ ὁ γέρων ἀέκοντα κατάσχῃ ᾧ ἐνὶ οἴκῳ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "And the sun set, and all the ways grew dark. And they came to Pherae, to the house of Diocles, son of Ortilochus, whom Alpheus begot. There they spent the night, and before them he set the entertainment due to strangers. As soon as early Dawn appeared, the rosy-fingered,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "they yoked the horses, and mounted the inlaid car, and drove forth from the gateway and the echoing portico. Then Peisistratus touched the horses with the whip to start them, and nothing loath the pair sped onward, and soon thereafter they reached the steep citadel of Pylos. Then Telemachus spoke to the son of Nestor, saying:"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "“Son of Nestor, wilt thou now make me a promise, and fulfil it, as I bid? Friends from of old we call ourselves by reason of our fathers' friendship, and we are moreover of the same age, and this journey shall yet more stablish us in oneness of heart. Lead me not past my ship, O thou fostered of Zeus, but leave me there,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "lest that old man keep me in his house against my will, fain to show me kindness, whereas I must needs hasten home.” So he spoke, and the son of Nestor took counsel with his heart, how he might duly give the promise and fulfil it. And, as he pondered, this seemed to him the better course."
+    }
+  ]
+}

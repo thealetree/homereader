@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "πολλὰς γὰρ δὴ νύκτας ἀεικελίῳ ἐνὶ κοίτῃ"
+    },
+    {
+      "n": 342,
+      "greek": "ἄεσα καί τʼ ἀνέμεινα ἐΰθρονον Ἠῶ δῖαν."
+    },
+    {
+      "n": 343,
+      "greek": "οὐδέ τί μοι ποδάνιπτρα ποδῶν ἐπιήρανα θυμῷ"
+    },
+    {
+      "n": 344,
+      "greek": "γίγνεται· οὐδὲ γυνὴ ποδὸς ἅψεται ἡμετέροιο"
+    },
+    {
+      "n": 345,
+      "greek": "τάων αἵ τοι δῶμα κάτα δρήστειραι ἔασιν,"
+    },
+    {
+      "n": 346,
+      "greek": "εἰ μή τις γρηῦς ἔστι παλαιή, κεδνὰ ἰδυῖα,"
+    },
+    {
+      "n": 347,
+      "greek": "ἥ τις δὴ τέτληκε τόσα φρεσὶν ὅσσα τʼ ἐγώ περ·"
+    },
+    {
+      "n": 348,
+      "greek": "τῇ δʼ οὐκ ἂν φθονέοιμι ποδῶν ἅψασθαι ἐμεῖο."
+    },
+    {
+      "n": 349,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 350,
+      "greek": "ξεῖνε φίλʼ· οὐ γάρ πώ τις ἀνὴρ πεπνυμένος ὧδε"
+    },
+    {
+      "n": 351,
+      "greek": "ξείνων τηλεδαπῶν φιλίων ἐμὸν ἵκετο δῶμα,"
+    },
+    {
+      "n": 352,
+      "greek": "ὡς σὺ μάλʼ εὐφραδέως πεπνυμένα πάντʼ ἀγορεύεις·"
+    },
+    {
+      "n": 353,
+      "greek": "ἔστι δέ μοι γρηῢς πυκινὰ φρεσὶ μήδεʼ ἔχουσα"
+    },
+    {
+      "n": 354,
+      "greek": "ἣ κεῖνον δύστηνον ἐῢ τρέφεν ἠδʼ ἀτίταλλε,"
+    },
+    {
+      "n": 355,
+      "greek": "δεξαμένη χείρεσσʼ, ὅτε μιν πρῶτον τέκε μήτηρ,"
+    },
+    {
+      "n": 356,
+      "greek": "ἥ σε πόδας νίψει, ὀλιγηπελέουσά περ ἔμπης."
+    },
+    {
+      "n": 357,
+      "greek": "ἀλλʼ ἄγε νῦν ἀνστᾶσα, περίφρων Εὐρύκλεια,"
+    },
+    {
+      "n": 358,
+      "greek": "νίψον σοῖο ἄνακτος ὁμήλικα· καί που Ὀδυσσεὺς"
+    },
+    {
+      "n": 359,
+      "greek": "ἤδη τοιόσδʼ ἐστὶ πόδας τοιόσδε τε χεῖρας·"
+    },
+    {
+      "n": 360,
+      "greek": "αἶψα γὰρ ἐν κακότητι βροτοὶ καταγηράσκουσιν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "of all those who are serving-women in thy hall, unless there is some old, true-hearted dame who has suffered in her heart as many woes as I; such an one I would not grudge to touch my feet.” Then wise Penelope answered him again:"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "“Dear stranger, never yet has a man discreet as thou, of those who are strangers from afar, come to my house as a more welcome guest, so wise and prudent are all thy words. I have an old dame with a heart of understanding in her breast, who lovingly nursed and cherished my hapless husband,"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "and took him in her arms on the day when his mother bore him. She shall wash thy feet, weak with age though she be. Come now, wise Eurycleia, arise and wash the feet of one of like age with thy master. Even such as his are now haply the feet of Odysseus, and such his hands,"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "for quickly do men grow old in evil fortune.” So she spoke, and the old woman hid her face in her hands and let fall hot tears, uttering words of lamentation: “Ah, woe is me, child, because of thee, for that I can do naught. Surely Zeus hated thee above all men, though thou hadst a god-fearing heart."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "ἔρχατο, χωρὶς μὲν πρόγονοι, χωρὶς δὲ μέτασσαι,"
+    },
+    {
+      "n": 222,
+      "greek": "χωρὶς δʼ αὖθʼ ἕρσαι. ναῖον δʼ ὀρῷ ἄγγεα πάντα,"
+    },
+    {
+      "n": 223,
+      "greek": "γαυλοί τε σκαφίδες τε, τετυγμένα, τοῖς ἐνάμελγεν."
+    },
+    {
+      "n": 224,
+      "greek": "ἔνθʼ ἐμὲ μὲν πρώτισθʼ ἕταροι λίσσοντʼ ἐπέεσσιν"
+    },
+    {
+      "n": 225,
+      "greek": "τυρῶν αἰνυμένους ἰέναι πάλιν, αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 226,
+      "greek": "καρπαλίμως ἐπὶ νῆα θοὴν ἐρίφους τε καὶ ἄρνας"
+    },
+    {
+      "n": 227,
+      "greek": "σηκῶν ἐξελάσαντας ἐπιπλεῖν ἁλμυρὸν ὕδωρ·"
+    },
+    {
+      "n": 228,
+      "greek": "ἀλλʼ ἐγὼ οὐ πιθόμην, ἦ τʼ ἂν πολὺ κέρδιον ἦεν,"
+    },
+    {
+      "n": 229,
+      "greek": "ὄφρʼ αὐτόν τε ἴδοιμι, καὶ εἴ μοι ξείνια δοίη."
+    },
+    {
+      "n": 230,
+      "greek": "οὐδʼ ἄρʼ ἔμελλʼ ἑτάροισι φανεὶς ἐρατεινὸς ἔσεσθαι."
+    },
+    {
+      "n": 231,
+      "greek": "ἔνθα δὲ πῦρ κήαντες ἐθύσαμεν ἠδὲ καὶ αὐτοὶ"
+    },
+    {
+      "n": 232,
+      "greek": "τυρῶν αἰνύμενοι φάγομεν, μένομέν τέ μιν ἔνδον"
+    },
+    {
+      "n": 233,
+      "greek": "ἥμενοι, ἧος ἐπῆλθε νέμων. φέρε δʼ ὄβριμον ἄχθος"
+    },
+    {
+      "n": 234,
+      "greek": "ὕλης ἀζαλέης, ἵνα οἱ ποτιδόρπιον εἴη,"
+    },
+    {
+      "n": 235,
+      "greek": "ἔντοσθεν δʼ ἄντροιο βαλὼν ὀρυμαγδὸν ἔθηκεν·"
+    },
+    {
+      "n": 236,
+      "greek": "ἡμεῖς δὲ δείσαντες ἀπεσσύμεθʼ ἐς μυχὸν ἄντρου."
+    },
+    {
+      "n": 237,
+      "greek": "αὐτὰρ ὅ γʼ εἰς εὐρὺ σπέος ἤλασε πίονα μῆλα"
+    },
+    {
+      "n": 238,
+      "greek": "πάντα μάλʼ ὅσσʼ ἤμελγε, τὰ δʼ ἄρσενα λεῖπε θύρηφιν,"
+    },
+    {
+      "n": 239,
+      "greek": "ἀρνειούς τε τράγους τε, βαθείης ἔκτοθεν αὐλῆς."
+    },
+    {
+      "n": 240,
+      "greek": "αὐτὰρ ἔπειτʼ ἐπέθηκε θυρεὸν μέγαν ὑψόσʼ ἀείρας,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "to take of the cheeses and depart, and thereafter speedily to drive to the swift ship the kids and lambs from out the pens, and to sail over the salt water. But I did not listen to them—verily it would have been better far—to the end that I might see the man himself, and whether he would give me gifts of entertainment."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "Yet, as it fell, his appearing was not to prove a joy to my comrades. “Then we kindled a fire and offered sacrifice, and ourselves, too, took of the cheeses and ate, and thus we sat in the cave and waited for him until he came back, herding his flocks. He bore a mighty weight of dry wood to serve him at supper time,"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "and flung it down with a crash inside the cave, but we, seized with terror, shrank back into a recess of the cave. But he drove his fat flocks into the wide cavern—all those that he milked; but the males—the rams and the goats—he left without in the deep court."
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "Then he lifted on high and set in place the great door-stone, a mighty rock; two and twenty stout four-wheeled wagons could not lift it from the ground, such a towering mass of rock he set in the doorway. Thereafter he sat down and milked the ewes and bleating goats"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "Ἀντίνοʼ, οὐ μὲν καλὰ καὶ ἐσθλὸς ἐὼν ἀγορεύεις·"
+    },
+    {
+      "n": 382,
+      "greek": "τίς γὰρ δὴ ξεῖνον καλεῖ ἄλλοθεν αὐτὸς ἐπελθὼν"
+    },
+    {
+      "n": 383,
+      "greek": "ἄλλον γʼ, εἰ μὴ τῶν οἳ δημιοεργοὶ ἔασι,"
+    },
+    {
+      "n": 384,
+      "greek": "μάντιν ἢ ἰητῆρα κακῶν ἢ τέκτονα δούρων,"
+    },
+    {
+      "n": 385,
+      "greek": "ἢ καὶ θέσπιν ἀοιδόν, ὅ κεν τέρπῃσιν ἀείδων;"
+    },
+    {
+      "n": 386,
+      "greek": "οὗτοι γὰρ κλητοί γε βροτῶν ἐπʼ ἀπείρονα γαῖαν·"
+    },
+    {
+      "n": 387,
+      "greek": "πτωχὸν δʼ οὐκ ἄν τις καλέοι τρύξοντα ἓ αὐτόν."
+    },
+    {
+      "n": 388,
+      "greek": "ἀλλʼ αἰεὶ χαλεπὸς περὶ πάντων εἶς μνηστήρων"
+    },
+    {
+      "n": 389,
+      "greek": "δμωσὶν Ὀδυσσῆος, πέρι δʼ αὖτʼ ἐμοί· αὐτὰρ ἐγώ γε"
+    },
+    {
+      "n": 390,
+      "greek": "οὐκ ἀλέγω, ἧός μοι ἐχέφρων Πηνελόπεια"
+    },
+    {
+      "n": 391,
+      "greek": "ζώει ἐνὶ μεγάροις καὶ Τηλέμαχος θεοειδής."
+    },
+    {
+      "n": 392,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 393,
+      "greek": "σίγα, μή μοι τοῦτον ἀμείβεο πολλὰ ἔπεσσιν·"
+    },
+    {
+      "n": 394,
+      "greek": "Ἀντίνοος δʼ εἴωθε κακῶς ἐρεθιζέμεν αἰεὶ"
+    },
+    {
+      "n": 395,
+      "greek": "μύθοισιν χαλεποῖσιν, ἐποτρύνει δὲ καὶ ἄλλους."
+    },
+    {
+      "n": 396,
+      "greek": "ἦ ῥα καὶ Ἀντίνοον ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 397,
+      "greek": "Ἀντίνοʼ, ἦ μευ καλὰ πατὴρ ὣς κήδεαι υἷος,"
+    },
+    {
+      "n": 398,
+      "greek": "ὃς τὸν ξεῖνον ἄνωγας ἀπὸ μεγάροιο διέσθαι"
+    },
+    {
+      "n": 399,
+      "greek": "μύθῳ ἀναγκαίῳ· μὴ τοῦτο θεὸς τελέσειε."
+    },
+    {
+      "n": 400,
+      "greek": "δός οἱ ἑλών· οὔ τοι φθονέω· κέλομαι γὰρ ἐγώ γε·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "aye, or a divine minstrel, who gives delight with his song? For these men are bidden all over the boundless earth. Yet a beggar would no man bid to be burden to himself. But thou art ever harsh above all the wooers to the slaves of Odysseus, and most of all to me; yet I"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "care not, so long as my lady, the constant Penelope, lives in the hall, and godlike Telemachus.” Then wise Telemachus answered him: “Be silent: do not, I bid thee, answer yonder man with many words, for Antinous is wont ever in evil wise to provoke to anger"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "with harsh words, aye, and urges on the others too.” With this he spoke winged words to Antinous: “Antinous, truly thou carest well for me, as a father for his son, seeing that thou biddest me drive yonder stranger from the hall with a word of compulsion. May the god never bring such a thing to pass."
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "Nay, take and give him somewhat: I begrudge it not, but rather myself bid thee give. In this matter regard not my mother, no, nor any of the slaves that are in the house of divine Odysseus. But verily far other is the thought in thy breast; for thou art far more fain thyself to eat than to give to another.”"
+    }
+  ]
+}

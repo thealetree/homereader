@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 32,
+  "lineStart": 621,
+  "lineEnd": 640,
+  "lines": [
+    {
+      "n": 621,
+      "greek": "δαιτυμόνες δʼ ἐς δώματʼ ἴσαν θείου βασιλῆος."
+    },
+    {
+      "n": 622,
+      "greek": "οἱ δʼ ἦγον μὲν μῆλα, φέρον δʼ ἐυήνορα οἶνον·"
+    },
+    {
+      "n": 623,
+      "greek": "σῖτον δέ σφʼ ἄλοχοι καλλικρήδεμνοι ἔπεμπον."
+    },
+    {
+      "n": 624,
+      "greek": "ὣς οἱ μὲν περὶ δεῖπνον ἐνὶ μεγάροισι πένοντο."
+    },
+    {
+      "n": 625,
+      "greek": "μνηστῆρες δὲ πάροιθεν Ὀδυσσῆος μεγάροιο"
+    },
+    {
+      "n": 626,
+      "greek": "δίσκοισιν τέρποντο καὶ αἰγανέῃσιν ἱέντες"
+    },
+    {
+      "n": 627,
+      "greek": "ἐν τυκτῷ δαπέδῳ, ὅθι περ πάρος, ὕβριν ἔχοντες."
+    },
+    {
+      "n": 628,
+      "greek": "Ἀντίνοος δὲ καθῆστο καὶ Εὐρύμαχος θεοειδής,"
+    },
+    {
+      "n": 629,
+      "greek": "ἀρχοὶ μνηστήρων, ἀρετῇ δʼ ἔσαν ἔξοχʼ ἄριστοι."
+    },
+    {
+      "n": 630,
+      "greek": "τοῖς δʼ υἱὸς Φρονίοιο Νοήμων ἐγγύθεν ἐλθὼν"
+    },
+    {
+      "n": 631,
+      "greek": "Ἀντίνοον μύθοισιν ἀνειρόμενος προσέειπεν·"
+    },
+    {
+      "n": 632,
+      "greek": "Ἀντίνοʼ, ἦ ῥά τι ἴδμεν ἐνὶ φρεσίν, ἦε καὶ οὐκί,"
+    },
+    {
+      "n": 633,
+      "greek": "ὁππότε Τηλέμαχος νεῖτʼ ἐκ Πύλου ἠμαθόεντος;"
+    },
+    {
+      "n": 634,
+      "greek": "νῆά μοι οἴχετʼ ἄγων· ἐμὲ δὲ χρεὼ γίγνεται αὐτῆς"
+    },
+    {
+      "n": 635,
+      "greek": "Ἤλιδʼ ἐς εὐρύχορον διαβήμεναι, ἔνθα μοι ἵπποι"
+    },
+    {
+      "n": 636,
+      "greek": "δώδεκα θήλειαι, ὑπὸ δʼ ἡμίονοι ταλαεργοὶ"
+    },
+    {
+      "n": 637,
+      "greek": "ἀδμῆτες· τῶν κέν τινʼ ἐλασσάμενος δαμασαίμην."
+    },
+    {
+      "n": 638,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἀνὰ θυμὸν ἐθάμβεον· οὐ γὰρ ἔφαντο"
+    },
+    {
+      "n": 639,
+      "greek": "ἐς Πύλον οἴχεσθαι Νηλήιον, ἀλλά που αὐτοῦ"
+    },
+    {
+      "n": 640,
+      "greek": "ἀγρῶν ἢ μήλοισι παρέμμεναι ἠὲ συβώτῃ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        625,
+        629
+      ],
+      "text": "But the wooers in front of the palace of Odysseus were making merry, throwing the discus and the javelin in a levelled place, as their wont was, in insolence of heart; and Antinous and godlike Eurymachus were sitting there, the leaders of the wooers, who in valiance were far the best of all."
+    },
+    {
+      "lines": [
+        630,
+        634
+      ],
+      "text": "To them Noemon, son of Phronius, drew near, and he questioned Antinous, and spoke, and said: “Antinous, know we at all in our hearts, or know we not, when Telemachus will return from sandy Pylos? He is gone, taking a ship of mine, and I have need of her"
+    },
+    {
+      "lines": [
+        635,
+        639
+      ],
+      "text": "to cross over to spacious Elis, where I have twelve brood mares, and at the teat sturdy mules as yet unbroken. Of these I would fain drive one off and break him in.” So he spoke, and they marvelled at heart, for they did not deem that Telemachus had gone to Neleian Pylos, but that he was somewhere there"
+    },
+    {
+      "lines": [
+        640,
+        640
+      ],
+      "text": "on his lands, among the flocks or with the swineherd. Then Antinous, son of Eupeithes, spoke to him, saying: “Tell me the truth; when did he go, and what youths went with him? Were they chosen youths of Ithaca, or hirelings and slaves of his own? Able would he be to accomplish even that."
+    }
+  ]
+}

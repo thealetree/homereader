@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "ναύλοχον ἐς λιμένα, καί τις θεὸς ἡγεμόνευεν."
+    },
+    {
+      "n": 142,
+      "greek": "ἔνθα τότʼ ἐκβάντες δύο τʼ ἤματα καὶ δύο νύκτας"
+    },
+    {
+      "n": 143,
+      "greek": "κείμεθʼ ὁμοῦ καμάτῳ τε καὶ ἄλγεσι θυμὸν ἔδοντες."
+    },
+    {
+      "n": 144,
+      "greek": "ἀλλʼ ὅτε δὴ τρίτον ἦμαρ ἐυπλόκαμος τέλεσʼ Ἠώς,"
+    },
+    {
+      "n": 145,
+      "greek": "καὶ τότʼ ἐγὼν ἐμὸν ἔγχος ἑλὼν καὶ φάσγανον ὀξὺ"
+    },
+    {
+      "n": 146,
+      "greek": "καρπαλίμως παρὰ νηὸς ἀνήιον ἐς περιωπήν,"
+    },
+    {
+      "n": 147,
+      "greek": "εἴ πως ἔργα ἴδοιμι βροτῶν ἐνοπήν τε πυθοίμην."
+    },
+    {
+      "n": 148,
+      "greek": "ἔστην δὲ σκοπιὴν ἐς παιπαλόεσσαν ἀνελθών,"
+    },
+    {
+      "n": 149,
+      "greek": "καί μοι ἐείσατο καπνὸς ἀπὸ χθονὸς εὐρυοδείης,"
+    },
+    {
+      "n": 150,
+      "greek": "Κίρκης ἐν μεγάροισι, διὰ δρυμὰ πυκνὰ καὶ ὕλην."
+    },
+    {
+      "n": 151,
+      "greek": "μερμήριξα δʼ ἔπειτα κατὰ φρένα καὶ κατὰ θυμὸν"
+    },
+    {
+      "n": 152,
+      "greek": "ἐλθεῖν ἠδὲ πυθέσθαι, ἐπεὶ ἴδον αἴθοπα καπνόν."
+    },
+    {
+      "n": 153,
+      "greek": "ὧδε δέ μοι φρονέοντι δοάσσατο κέρδιον εἶναι,"
+    },
+    {
+      "n": 154,
+      "greek": "πρῶτʼ ἐλθόντʼ ἐπὶ νῆα θοὴν καὶ θῖνα θαλάσσης"
+    },
+    {
+      "n": 155,
+      "greek": "δεῖπνον ἑταίροισιν δόμεναι προέμεν τε πυθέσθαι."
+    },
+    {
+      "n": 156,
+      "greek": "ἀλλʼ ὅτε δὴ σχεδὸν ἦα κιὼν νεὸς ἀμφιελίσσης,"
+    },
+    {
+      "n": 157,
+      "greek": "καὶ τότε τίς με θεῶν ὀλοφύρατο μοῦνον ἐόντα,"
+    },
+    {
+      "n": 158,
+      "greek": "ὅς ῥά μοι ὑψίκερων ἔλαφον μέγαν εἰς ὁδὸν αὐτὴν"
+    },
+    {
+      "n": 159,
+      "greek": "ἧκεν. ὁ μὲν ποταμόνδε κατήιεν ἐκ νομοῦ ὕλης"
+    },
+    {
+      "n": 160,
+      "greek": "πιόμενος· δὴ γάρ μιν ἔχεν μένος ἠελίοιο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "then I took my spear and my sharp sword, and quickly went up from the ship to a place of wide prospect, in the hope that I might see the works of men, and hear their voice. So I climbed to a rugged height, a place of outlook, and there took my stand, and I saw smoke rising from the broad-wayed earth"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "in the halls of Circe, through the thick brush and the wood. And I debated in mind and heart, whether I should go and make search, when I had seen the flaming smoke. And as I pondered, this seemed to me to be the better way, to go first to the swift ship and the shore of the sea,"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "and give my comrades their meal, and send them forth to make search. But when, as I went, I was near to the curved ship, then some god took pity on me in my loneliness, and sent a great, high-horned stag into my very path. He was coming down to the river from his pasture in the wood"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "to drink, for the might of the sun oppressed him; and as he came out I struck him on the spine in the middle of the back, and the bronze spear passed right through him, and down he fell in the dust with a moan, and his spirit flew from him. Then I planted my foot upon him,"
+    }
+  ]
+}

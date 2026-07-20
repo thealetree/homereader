@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "τεύχεα κατθέσθην Ὀδυσεὺς καὶ φαίδιμος υἱός."
+    },
+    {
+      "n": 142,
+      "greek": "ὣς εἰπὼν ἀνέβαινε Μελάνθιος, αἰπόλος αἰγῶν,"
+    },
+    {
+      "n": 143,
+      "greek": "εἰς θαλάμους Ὀδυσῆος ἀνὰ ῥῶγας μεγάροιο."
+    },
+    {
+      "n": 144,
+      "greek": "ἔνθεν δώδεκα μὲν σάκεʼ ἔξελε, τόσσα δὲ δοῦρα"
+    },
+    {
+      "n": 145,
+      "greek": "καὶ τόσσας κυνέας χαλκήρεας ἱπποδασείας·"
+    },
+    {
+      "n": 146,
+      "greek": "βῆ δʼ ἴμεναι, μάλα δʼ ὦκα φέρων μνηστῆρσιν ἔδωκεν."
+    },
+    {
+      "n": 147,
+      "greek": "καὶ τότʼ Ὀδυσσῆος λύτο γούνατα καὶ φίλον ἦτορ,"
+    },
+    {
+      "n": 148,
+      "greek": "ὡς περιβαλλομένους ἴδε τεύχεα χερσί τε δοῦρα"
+    },
+    {
+      "n": 149,
+      "greek": "μακρὰ τινάσσοντας· μέγα δʼ αὐτῷ φαίνετο ἔργον."
+    },
+    {
+      "n": 150,
+      "greek": "αἶψα δὲ Τηλέμαχον ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 151,
+      "greek": "Τηλέμαχʼ, ἦ μάλα δή τις ἐνὶ μεγάροισι γυναικῶν"
+    },
+    {
+      "n": 152,
+      "greek": "νῶϊν ἐποτρύνει πόλεμον κακὸν ἠὲ Μελανθεύς."
+    },
+    {
+      "n": 153,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 154,
+      "greek": "ὦ πάτερ, αὐτὸς ἐγὼ τόδε γʼ ἤμβροτον—οὐδέ τις ἄλλος"
+    },
+    {
+      "n": 155,
+      "greek": "αἴτιος—ὃς θαλάμοιο θύρην πυκινῶς ἀραρυῖαν"
+    },
+    {
+      "n": 156,
+      "greek": "κάλλιπον ἀγκλίνας· τῶν δὲ σκοπὸς ἦεν ἀμείνων."
+    },
+    {
+      "n": 157,
+      "greek": "ἀλλʼ ἴθι, δῖʼ Εὔμαιε, θύρην ἐπίθες θαλάμοιο"
+    },
+    {
+      "n": 158,
+      "greek": "καὶ φράσαι ἤ τις ἄρʼ ἐστὶ γυναικῶν ἣ τάδε ῥέζει,"
+    },
+    {
+      "n": 159,
+      "greek": "ἢ υἱὸς Δολίοιο, Μελανθεύς, τόν περ ὀΐω."
+    },
+    {
+      "n": 160,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "and as many helmets of bronze with thick plumes of horsehair, and went his way, and quickly brought and gave them to the wooers. Then the knees of Odysseus were loosened and his heart melted, when he saw them donning armour and brandishing long spears in their hands, and great did his task seem to him;"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "but quickly he spoke to Telemachus winged words: “Telemachus, verily some one of the women in the halls is rousing against us an evil battle, or haply it is Melanthius.” Then wise Telemachus answered him: “Father, it is I myself that am at fault in this, and no other"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "is to blame, for I left the close-fitting door of the store-room open: their watcher was better than I. But go now, goodly Eumaeus, close the door of the store-room, and see whether it is one of the women who does this, or Melanthius, son of Dolius, as I suspect.”"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "Thus they spoke to one another. But Melanthius, the goatherd, went again to the store-room to bring beautiful armour; howbeit the goodly swineherd marked him, and straightway said to Odysseus who was near: “Son of Laertes, sprung from Zeus, Odysseus of many devices,"
+    }
+  ]
+}

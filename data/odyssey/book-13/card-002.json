@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "αὐτὸς ἰὼν διὰ νηὸς ὑπὸ ζυγά, μή τινʼ ἑταίρων"
+    },
+    {
+      "n": 22,
+      "greek": "βλάπτοι ἐλαυνόντων, ὁπότε σπερχοίατʼ ἐρετμοῖς."
+    },
+    {
+      "n": 23,
+      "greek": "οἱ δʼ εἰς Ἀλκινόοιο κίον καὶ δαῖτʼ ἀλέγυνον."
+    },
+    {
+      "n": 24,
+      "greek": "τοῖσι δὲ βοῦν ἱέρευσʼ ἱερὸν μένος Ἀλκινόοιο"
+    },
+    {
+      "n": 25,
+      "greek": "Ζηνὶ κελαινεφέϊ Κρονίδῃ, ὃς πᾶσιν ἀνάσσει."
+    },
+    {
+      "n": 26,
+      "greek": "μῆρα δὲ κήαντες δαίνυντʼ ἐρικυδέα δαῖτα"
+    },
+    {
+      "n": 27,
+      "greek": "τερπόμενοι· μετὰ δέ σφιν ἐμέλπετο θεῖος ἀοιδός,"
+    },
+    {
+      "n": 28,
+      "greek": "Δημόδοκος, λαοῖσι τετιμένος. αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 29,
+      "greek": "πολλὰ πρὸς ἠέλιον κεφαλὴν τρέπε παμφανόωντα,"
+    },
+    {
+      "n": 30,
+      "greek": "δῦναι ἐπειγόμενος· δὴ γὰρ μενέαινε νέεσθαι."
+    },
+    {
+      "n": 31,
+      "greek": "ὡς δʼ ὅτʼ ἀνὴρ δόρποιο λιλαίεται, ᾧ τε πανῆμαρ"
+    },
+    {
+      "n": 32,
+      "greek": "νειὸν ἀνʼ ἕλκητον βόε οἴνοπε πηκτὸν ἄροτρον·"
+    },
+    {
+      "n": 33,
+      "greek": "ἀσπασίως δʼ ἄρα τῷ κατέδυ φάος ἠελίοιο"
+    },
+    {
+      "n": 34,
+      "greek": "δόρπον ἐποίχεσθαι, βλάβεται δέ τε γούνατʼ ἰόντι·"
+    },
+    {
+      "n": 35,
+      "greek": "ὣς Ὀδυσῆʼ ἀσπαστὸν ἔδυ φάος ἠελίοιο."
+    },
+    {
+      "n": 36,
+      "greek": "αἶψα δὲ Φαιήκεσσι φιληρέτμοισι μετηύδα,"
+    },
+    {
+      "n": 37,
+      "greek": "Ἀλκινόῳ δὲ μάλιστα πιφαυσκόμενος φάτο μῦθον·"
+    },
+    {
+      "n": 38,
+      "greek": "Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν,"
+    },
+    {
+      "n": 39,
+      "greek": "πέμπετέ με σπείσαντες ἀπήμονα, χαίρετε δʼ αὐτοί·"
+    },
+    {
+      "n": 40,
+      "greek": "ἤδη γὰρ τετέλεσται ἅ μοι φίλος ἤθελε θυμός,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "to Zeus, son of Cronos, god of the dark clouds, who is lord of all. Then, when they had burned the thigh-pieces, they feasted a glorious feast, and made merry, and among them the divine minstrel Demodocus, held in honor by the people, sang to the lyre. But Odysseus would ever turn his head toward the blazing sun,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "eager to see it set, for verily he was eager to return home. And as a man longs for supper, for whom all day long a yoke of wine-dark oxen has drawn the jointed plough through fallow land, and gladly for him does the light of the sun sink, that he may busy him with his supper, and his knees grow weary as he goes;"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "even so gladly for Odysseus did the light of the sun sink. Straightway then he spoke among the Phaeacians, lovers of the oar, and to Alcinous above all he declared his word, and said: “Lord Alcinous, renowned above all men, pour libations now, and send ye me on my way in peace; and yourselves too—Farewell!"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "For now all that my heart desired has been brought to pass: a convoy, and gifts of friendship. May the gods of heaven bless them to me, and on my return may I find in my home my peerless wife with those I love unscathed; and may you again, remaining here, make glad"
+    }
+  ]
+}

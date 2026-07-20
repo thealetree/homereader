@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "τὸν δέρον ἀμφί θʼ ἕπον, καί μιν διέχευαν ἅπαντα,"
+    },
+    {
+      "n": 422,
+      "greek": "μίστυλλόν τʼ ἄρʼ ἐπισταμένως πεῖράν τʼ ὀβελοῖσιν,"
+    },
+    {
+      "n": 423,
+      "greek": "ὤπτησάν τε περιφραδέως, δάσσαντό τε μοίρας."
+    },
+    {
+      "n": 424,
+      "greek": "ὣς τότε μὲν πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα"
+    },
+    {
+      "n": 425,
+      "greek": "δαίνυντʼ, οὐδέ τι θυμὸς ἐδεύετο δαιτὸς ἐΐσης·"
+    },
+    {
+      "n": 426,
+      "greek": "ἦμος δʼ ἠέλιος κατέδυ καὶ ἐπὶ κνέφας ἦλθεν,"
+    },
+    {
+      "n": 427,
+      "greek": "δὴ τότε κοιμήσαντο καὶ ὕπνου δῶρον ἕλοντο."
+    },
+    {
+      "n": 428,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 429,
+      "greek": "βάν ῥʼ ἴμεν ἐς θήρην, ἠμὲν κύνες ἠδὲ καὶ αὐτοὶ"
+    },
+    {
+      "n": 430,
+      "greek": "υἱέες Αὐτολύκου· μετὰ τοῖσι δὲ δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 431,
+      "greek": "ἤϊεν· αἰπὺ δʼ ὄρος προσέβαν καταειμένον ὕλῃ"
+    },
+    {
+      "n": 432,
+      "greek": "Παρνησοῦ, τάχα δʼ ἵκανον πτύχας ἠνεμοέσσας."
+    },
+    {
+      "n": 433,
+      "greek": "Ἠέλιος μὲν ἔπειτα νέον προσέβαλλεν ἀρούρας"
+    },
+    {
+      "n": 434,
+      "greek": "ἐξ ἀκαλαρρείταο βαθυρρόου Ὠκεανοῖο,"
+    },
+    {
+      "n": 435,
+      "greek": "οἱ δʼ ἐς βῆσσαν ἵκανον ἐπακτῆρες· πρὸ δʼ ἄρʼ αὐτῶν"
+    },
+    {
+      "n": 436,
+      "greek": "ἴχνιʼ ἐρευνῶντες κύνες ἤϊσαν, αὐτὰρ ὄπισθεν"
+    },
+    {
+      "n": 437,
+      "greek": "υἱέες Αὐτολύκου· μετὰ τοῖσι δὲ δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 438,
+      "greek": "ἤϊεν ἄγχι κυνῶν, κραδάων δολιχόσκιον ἔγχος."
+    },
+    {
+      "n": 439,
+      "greek": "ἔνθα δʼ ἄρʼ ἐν λόχμῃ πυκινῇ κατέκειτο μέγας σῦς·"
+    },
+    {
+      "n": 440,
+      "greek": "τὴν μὲν ἄρʼ οὔτʼ ἀνέμων διάει μένος ὑγρὸν ἀέντων,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "they feasted, nor did their hearts lack aught of the equal feast. But when the sun set and darkness came on they lay down to rest and took the gift of sleep. But as soon as early Dawn appeared, the rosy-fingered, they went forth to the hunt, the hounds and"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "the sons of Autolycus too, and with them went goodly Odysseus. Up the steep mountain Parnassus, clothed with forests, they climbed, and presently reached its windy hollows. The sun was now just striking on the fields, as he rose from softly-gliding, deep-flowing Oceanus,"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "when the beaters came to a glade. Before them went the hounds, tracking the scent, and behind them the sons of Autolycus, and among these the goodly Odysseus followed, close upon the hounds, brandishing his long spear. Now thereby a great wild boar was lying in a thick lair,"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "through which the strength of the wet winds could never blow nor the rays of the bright sun beat, nor could the rain pierce through it, so thick it was; and fallen leaves were there in plenty. Then about the boar there came the noise of the feet of men and dogs"
+    }
+  ]
+}

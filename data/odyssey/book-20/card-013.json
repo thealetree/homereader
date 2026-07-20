@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "μνηστῆρες δʼ ἄρα Τηλεμάχῳ θάνατόν τε μόρον τε"
+    },
+    {
+      "n": 242,
+      "greek": "ἤρτυον· αὐτὰρ ὁ τοῖσιν ἀριστερὸς ἤλυθεν ὄρνις,"
+    },
+    {
+      "n": 243,
+      "greek": "αἰετὸς ὑψιπέτης, ἔχε δὲ τρήρωνα πέλειαν."
+    },
+    {
+      "n": 244,
+      "greek": "τοῖσιν δʼ Ἀμφίνομος ἀγορήσατο καὶ μετέειπεν·"
+    },
+    {
+      "n": 245,
+      "greek": "ὦ φίλοι, οὐχ ἡμῖν συνθεύσεται ἥδε γε βουλή,"
+    },
+    {
+      "n": 246,
+      "greek": "Τηλεμάχοιο φόνος· ἀλλὰ μνησώμεθα δαιτός."
+    },
+    {
+      "n": 247,
+      "greek": "ὣς ἔφατʼ Ἀμφίνομος, τοῖσιν δʼ ἐπιήνδανε μῦθος."
+    },
+    {
+      "n": 248,
+      "greek": "ἐλθόντες δʼ ἐς δώματʼ Ὀδυσσῆος θείοιο"
+    },
+    {
+      "n": 249,
+      "greek": "χλαίνας μὲν κατέθεντο κατὰ κλισμούς τε θρόνους τε,"
+    },
+    {
+      "n": 250,
+      "greek": "οἱ δʼ ἱέρευον ὄϊς μεγάλους καὶ πίονας αἶγας,"
+    },
+    {
+      "n": 251,
+      "greek": "ἵρευον δὲ σύας σιάλους καὶ βοῦν ἀγελαίην·"
+    },
+    {
+      "n": 252,
+      "greek": "σπλάγχνα δʼ ἄρʼ ὀπτήσαντες ἐνώμων, ἐν δέ τε οἶνον"
+    },
+    {
+      "n": 253,
+      "greek": "κρητῆρσιν κερόωντο· κύπελλα δὲ νεῖμε συβώτης."
+    },
+    {
+      "n": 254,
+      "greek": "σῖτον δέ σφʼ ἐπένειμε Φιλοίτιος, ὄρχαμος ἀνδρῶν,"
+    },
+    {
+      "n": 255,
+      "greek": "καλοῖς ἐν κανέοισιν, ἐῳνοχόει δὲ Μελανθεύς."
+    },
+    {
+      "n": 256,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    },
+    {
+      "n": 257,
+      "greek": "Τηλέμαχος δʼ Ὀδυσῆα καθίδρυε, κέρδεα νωμῶν,"
+    },
+    {
+      "n": 258,
+      "greek": "ἐντὸς ἐϋσταθέος μεγάρου, παρὰ λάϊνον οὐδόν,"
+    },
+    {
+      "n": 259,
+      "greek": "δίφρον ἀεικέλιον καταθεὶς ὀλίγην τε τράπεζαν·"
+    },
+    {
+      "n": 260,
+      "greek": "πὰρ δʼ ἐτίθει σπλάγχνων μοίρας, ἐν δʼ οἶνον ἔχευεν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "“Friends, this plan of ours will not run to our liking, even the slaying of Telemachus; nay, let us bethink us of the feast.” So spoke Amphinomus, and his word was pleasing to them. Then, going into the house of godlike Odysseus, they laid their cloaks on the chairs and high seats,"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "and men fell to slaying great sheep and fat goats, aye, and fatted swine, and the heifer of the herd. Then they roasted the entrails and served them out, and mixed wine in the bowls, and the swineherd handed out the cups. And Philoetius, a leader of men, handed them bread"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "in a beautiful basket, and Melanthius poured them wine. So they put forth their hands to the good cheer lying ready before them. But Telemachus, with crafty thought, made Odysseus sit within the well-built hall by the threshold of stone, and placed for him a mean stool and a little table."
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "Beside him he set portions of the entrails and poured wine in a cup of gold, and said to him: “Sit down here among the lords and drink thy wine, and the revilings and blows of all the wooers will I myself ward from thee; for this is no public"
+    }
+  ]
+}

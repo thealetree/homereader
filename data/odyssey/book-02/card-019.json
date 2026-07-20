@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ὣς φάτο, κώκυσεν δὲ φίλη τροφὸς Εὐρύκλεια,"
+    },
+    {
+      "n": 362,
+      "greek": "καί ῥʼ ὀλοφυρομένη ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 363,
+      "greek": "τίπτε δέ τοι, φίλε τέκνον, ἐνὶ φρεσὶ τοῦτο νόημα"
+    },
+    {
+      "n": 364,
+      "greek": "ἔπλετο; πῇ δʼ ἐθέλεις ἰέναι πολλὴν ἐπὶ γαῖαν"
+    },
+    {
+      "n": 365,
+      "greek": "μοῦνος ἐὼν ἀγαπητός; ὁ δʼ ὤλετο τηλόθι πάτρης"
+    },
+    {
+      "n": 366,
+      "greek": "διογενὴς Ὀδυσεὺς ἀλλογνώτῳ ἐνὶ δήμῳ."
+    },
+    {
+      "n": 367,
+      "greek": "οἱ δέ τοι αὐτίκʼ ἰόντι κακὰ φράσσονται ὀπίσσω,"
+    },
+    {
+      "n": 368,
+      "greek": "ὥς κε δόλῳ φθίῃς, τάδε δʼ αὐτοὶ πάντα δάσονται."
+    },
+    {
+      "n": 369,
+      "greek": "ἀλλὰ μένʼ αὖθʼ ἐπὶ σοῖσι καθήμενος· οὐδέ τί σε χρὴ"
+    },
+    {
+      "n": 370,
+      "greek": "πόντον ἐπʼ ἀτρύγετον κακὰ πάσχειν οὐδʼ ἀλάλησθαι."
+    },
+    {
+      "n": 371,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 372,
+      "greek": "θάρσει, μαῖʼ, ἐπεὶ οὔ τοι ἄνευ θεοῦ ἥδε γε βουλή."
+    },
+    {
+      "n": 373,
+      "greek": "ἀλλʼ ὄμοσον μὴ μητρὶ φίλῃ τάδε μυθήσασθαι,"
+    },
+    {
+      "n": 374,
+      "greek": "πρίν γʼ ὅτʼ ἂν ἑνδεκάτη τε δυωδεκάτη τε γένηται,"
+    },
+    {
+      "n": 375,
+      "greek": "ἢ αὐτὴν ποθέσαι καὶ ἀφορμηθέντος ἀκοῦσαι,"
+    },
+    {
+      "n": 376,
+      "greek": "ὡς ἂν μὴ κλαίουσα κατὰ χρόα καλὸν ἰάπτῃ."
+    },
+    {
+      "n": 377,
+      "greek": "ὣς ἄρʼ ἔφη, γρῆυς δὲ θεῶν μέγαν ὅρκον ἀπώμνυ."
+    },
+    {
+      "n": 378,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ὄμοσέν τε τελεύτησέν τε τὸν ὅρκον,"
+    },
+    {
+      "n": 379,
+      "greek": "αὐτίκʼ ἔπειτά οἱ οἶνον ἐν ἀμφιφορεῦσιν ἄφυσσεν,"
+    },
+    {
+      "n": 380,
+      "greek": "ἐν δέ οἱ ἄλφιτα χεῦεν ἐϋρραφέεσσι δοροῖσι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "thou who art an only son and well-beloved? But he hath perished far from his country, the Zeus-born Odysseus, in a strange land; and these men, so soon as thou art gone, will devise evil for thee hereafter, that thou mayest perish by guile, and themselves divide all these possessions. Nay, abide here in charge of what is thine; thou hast no need"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "to suffer ills and go a wanderer over the unresting sea.” Then wise Telemachus answered her: “Take heart, nurse, for not without a god's warrant is this my plan. But swear to tell naught of this to my dear mother until the eleventh or twelfth day shall come,"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "or until she shall herself miss me and hear that I am gone, that she may not mar her fair flesh with weeping.” So he spoke, and the old woman swore a great oath by the gods to say naught. But when she had sworn and made an end of the oath, straightway she drew for him wine in jars,"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "and poured barley meal into well-sewn skins; and Telemachus went to the hall and joined the company of the wooers. Then the goddess, flashing-eyed Athena, took other counsel. In the likeness of Telemachus she went everywhere throughout the city, and to each of the men she drew near and spoke her word,"
+    }
+  ]
+}

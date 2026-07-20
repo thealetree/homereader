@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "εἵματα γάρ ῥʼ ἐβάρυνε, τά οἱ πόρε δῖα Καλυψώ."
+    },
+    {
+      "n": 322,
+      "greek": "ὀψὲ δὲ δή ῥʼ ἀνέδυ, στόματος δʼ ἐξέπτυσεν ἅλμην"
+    },
+    {
+      "n": 323,
+      "greek": "πικρήν, ἥ οἱ πολλὴ ἀπὸ κρατὸς κελάρυζεν."
+    },
+    {
+      "n": 324,
+      "greek": "ἀλλʼ οὐδʼ ὣς σχεδίης ἐπελήθετο, τειρόμενός περ,"
+    },
+    {
+      "n": 325,
+      "greek": "ἀλλὰ μεθορμηθεὶς ἐνὶ κύμασιν ἐλλάβετʼ αὐτῆς,"
+    },
+    {
+      "n": 326,
+      "greek": "ἐν μέσσῃ δὲ καθῖζε τέλος θανάτου ἀλεείνων."
+    },
+    {
+      "n": 327,
+      "greek": "τὴν δʼ ἐφόρει μέγα κῦμα κατὰ ῥόον ἔνθα καὶ ἔνθα."
+    },
+    {
+      "n": 328,
+      "greek": "ὡς δʼ ὅτʼ ὀπωρινὸς Βορέης φορέῃσιν ἀκάνθας"
+    },
+    {
+      "n": 329,
+      "greek": "ἂμ πεδίον, πυκιναὶ δὲ πρὸς ἀλλήλῃσιν ἔχονται,"
+    },
+    {
+      "n": 330,
+      "greek": "ὣς τὴν ἂμ πέλαγος ἄνεμοι φέρον ἔνθα καὶ ἔνθα·"
+    },
+    {
+      "n": 331,
+      "greek": "ἄλλοτε μέν τε Νότος Βορέῃ προβάλεσκε φέρεσθαι,"
+    },
+    {
+      "n": 332,
+      "greek": "ἄλλοτε δʼ αὖτʼ Εὖρος Ζεφύρῳ εἴξασκε διώκειν."
+    },
+    {
+      "n": 333,
+      "greek": "τὸν δὲ ἴδεν Κάδμου θυγάτηρ, καλλίσφυρος Ἰνώ,"
+    },
+    {
+      "n": 334,
+      "greek": "Λευκοθέη, ἣ πρὶν μὲν ἔην βροτὸς αὐδήεσσα,"
+    },
+    {
+      "n": 335,
+      "greek": "νῦν δʼ ἁλὸς ἐν πελάγεσσι θεῶν ἒξ ἔμμορε τιμῆς."
+    },
+    {
+      "n": 336,
+      "greek": "ἥ ῥʼ Ὀδυσῆʼ ἐλέησεν ἀλώμενον, ἄλγεʼ ἔχοντα,"
+    },
+    {
+      "n": 337,
+      "greek": "αἰθυίῃ δʼ ἐικυῖα ποτῇ ἀνεδύσετο λίμνης,"
+    },
+    {
+      "n": 338,
+      "greek": "ἷζε δʼ ἐπὶ σχεδίης πολυδέσμου εἶπέ τε μῦθον·"
+    },
+    {
+      "n": 339,
+      "greek": "κάμμορε, τίπτε τοι ὧδε Ποσειδάων ἐνοσίχθων"
+    },
+    {
+      "n": 340,
+      "greek": "ὠδύσατʼ ἐκπάγλως, ὅτι τοι κακὰ πολλὰ φυτεύει;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "but sprang after it amid the waves, and laid hold of it, and sat down in the midst of it, seeking to escape the doom of death; and a great wave ever bore him this way and that along its course. As when in autumn the North Wind bears the thistle-tufts over the plain, and close they cling to one another,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "so did the winds bear the raft this way and that over the sea. Now the South Wind would fling it to the North Wind to be driven on, and now again the East Wind would yield it to the West Wind to drive. But the daughter of Cadmus, Ino of the fair ankles, saw him, even Leucothea, who of old was a mortal of human speech,"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "but now in the deeps of the sea has won a share of honor from the gods. She was touched with pity for Odysseus, as he wandered and was in sore travail, and she rose up from the deep like a sea-mew on the wing, and sat on the stoutly-bound raft, and spoke, saying: “Unhappy man, how is it that Poseidon, the earth-shaker,"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "has conceived such furious wrath against thee, that he is sowing for thee the seeds of many evils? Yet verily he shall not utterly destroy thee for all his rage. Nay, do thou thus; and methinks thou dost not lack understanding. Strip off these garments, and leave thy raft to be driven by the winds, but do thou swim with thy hands and so strive to reach"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "δμῳὰς ἐξαγαγόντες ἐϋσταθέος μεγάροιο,"
+    },
+    {
+      "n": 442,
+      "greek": "μεσσηγύς τε θόλου καὶ ἀμύμονος ἕρκεος αὐλῆς,"
+    },
+    {
+      "n": 443,
+      "greek": "θεινέμεναι ξίφεσιν τανυήκεσιν, εἰς ὅ κε πασέων"
+    },
+    {
+      "n": 444,
+      "greek": "ψυχὰς ἐξαφέλησθε καὶ ἐκλελάθωντʼ Ἀφροδίτης,"
+    },
+    {
+      "n": 445,
+      "greek": "τὴν ἄρʼ ὑπὸ μνηστῆρσιν ἔχον μίσγοντό τε λάθρη."
+    },
+    {
+      "n": 446,
+      "greek": "ὣς ἔφαθʼ, αἱ δὲ γυναῖκες ἀολλέες ἦλθον ἅπασαι,"
+    },
+    {
+      "n": 447,
+      "greek": "αἴνʼ ὀλοφυρόμεναι, θαλερὸν κατὰ δάκρυ χέουσαι."
+    },
+    {
+      "n": 448,
+      "greek": "πρῶτα μὲν οὖν νέκυας φόρεον κατατεθνηῶτας,"
+    },
+    {
+      "n": 449,
+      "greek": "κὰδ δʼ ἄρʼ ὑπʼ αἰθούσῃ τίθεσαν εὐερκέος αὐλῆς,"
+    },
+    {
+      "n": 450,
+      "greek": "ἀλλήλοισιν ἐρείδουσαι· σήμαινε δʼ Ὀδυσσεὺς"
+    },
+    {
+      "n": 451,
+      "greek": "αὐτὸς ἐπισπέρχων· ταὶ δʼ ἐκφόρεον καὶ ἀνάγκῃ."
+    },
+    {
+      "n": 452,
+      "greek": "αὐτὰρ ἔπειτα θρόνους περικαλλέας ἠδὲ τραπέζας"
+    },
+    {
+      "n": 453,
+      "greek": "ὕδατι καὶ σπόγγοισι πολυτρήτοισι κάθαιρον."
+    },
+    {
+      "n": 454,
+      "greek": "αὐτὰρ Τηλέμαχος καὶ βουκόλος ἠδὲ συβώτῃς"
+    },
+    {
+      "n": 455,
+      "greek": "λίστροισιν δάπεδον πύκα ποιητοῖο δόμοιο"
+    },
+    {
+      "n": 456,
+      "greek": "ξῦον· ταὶ δʼ ἐφόρεον δμῳαί, τίθεσαν δὲ θύραζε."
+    },
+    {
+      "n": 457,
+      "greek": "αὐτὰρ ἐπειδὴ πᾶν μέγαρον διεκοσμήσαντο,"
+    },
+    {
+      "n": 458,
+      "greek": "δμῳὰς δʼ ἐξαγαγόντες ἐϋσταθέος μεγάροιο,"
+    },
+    {
+      "n": 459,
+      "greek": "μεσσηγύς τε θόλου καὶ ἀμύμονος ἕρκεος αὐλῆς,"
+    },
+    {
+      "n": 460,
+      "greek": "εἴλεον ἐν στείνει, ὅθεν οὔ πως ἦεν ἀλύξαι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "which they had at the bidding of the wooers, when they lay with them in secret.” So he spoke, and the women came all in a throng, wailing terribly and shedding big tears. First they bore forth the bodies of the slain and set them down beneath the portico of the well-fenced court,"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "propping them one against the other; and Odysseus himself gave them orders and hastened on the work, and they bore the bodies forth perforce. Then they cleansed the beautiful high seats and the tables with water and porous sponges. But Telemachus and the neatherd and the swineherd"
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "scraped with hoes the floor of the well-built house, and the women bore the scrapings forth and threw them out of doors. But when they had set in order all the hall, they led the women forth from the well-built hall to a place between the dome and the goodly fence of the court,"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "and shut them up in a narrow space, whence it was in no wise possible to escape. Then wise Telemachus was the first to speak to the others, saying: “Let it be by no clean death that I take the lives of these women, who on my own head have poured reproaches and on my mother, and were wont to lie with the wooers.”"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "τὼ δʼ αὖτʼ ἐν κλισίῃ Ὀδυσεὺς καὶ δῖος ὑφορβὸς"
+    },
+    {
+      "n": 302,
+      "greek": "δορπείτην· παρὰ δέ σφιν ἐδόρπεον ἀνέρες ἄλλοι."
+    },
+    {
+      "n": 303,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 304,
+      "greek": "τοῖς δʼ Ὀδυσεὺς μετέειπε, συβώτεω πειρητίζων,"
+    },
+    {
+      "n": 305,
+      "greek": "ἤ μιν ἔτʼ ἐνδυκέως φιλέοι μεῖναί τε κελεύοι"
+    },
+    {
+      "n": 306,
+      "greek": "αὐτοῦ ἐνὶ σταθμῷ, ἦ ὀτρύνειε πόλινδε·"
+    },
+    {
+      "n": 307,
+      "greek": "κέκλυθι νῦν, Εὔμαιε, καὶ ἄλλοι πάντες ἑταῖροι·"
+    },
+    {
+      "n": 308,
+      "greek": "ἠῶθεν προτὶ ἄστυ λιλαίομαι ἀπονέεσθαι"
+    },
+    {
+      "n": 309,
+      "greek": "πτωχεύσων, ἵνα μή σε κατατρύχω καὶ ἑταίρους."
+    },
+    {
+      "n": 310,
+      "greek": "ἀλλά μοι εὖ θʼ ὑπόθευ καὶ ἅμʼ ἡγεμόνʼ ἐσθλὸν ὄπασσον"
+    },
+    {
+      "n": 311,
+      "greek": "ὅς κέ με κεῖσʼ ἀγάγῃ· κατὰ δὲ πτόλιν αὐτὸς ἀνάγκῃ"
+    },
+    {
+      "n": 312,
+      "greek": "πλάγξομαι, αἴ κέν τις κοτύλην καὶ πύρνον ὀρέξῃ."
+    },
+    {
+      "n": 313,
+      "greek": "καί κʼ ἐλθὼν πρὸς δώματʼ Ὀδυσσῆος θείοιο"
+    },
+    {
+      "n": 314,
+      "greek": "ἀγγελίην εἴποιμι περίφρονι Πηνελοπείῃ,"
+    },
+    {
+      "n": 315,
+      "greek": "καί κε μνηστήρεσσιν ὑπερφιάλοισι μιγείην,"
+    },
+    {
+      "n": 316,
+      "greek": "εἴ μοι δεῖπνον δοῖεν ὀνείατα μυρίʼ ἔχοντες."
+    },
+    {
+      "n": 317,
+      "greek": "αἶψά κεν εὖ δρώοιμι μετὰ σφίσιν ἅσσʼ ἐθέλοιεν."
+    },
+    {
+      "n": 318,
+      "greek": "ἐκ γάρ τοι ἐρέω, σὺ δὲ σύνθεο καί μευ ἄκουσον·"
+    },
+    {
+      "n": 319,
+      "greek": "Ἑρμείαο ἕκητι διακτόρου, ὅς ῥά τε πάντων"
+    },
+    {
+      "n": 320,
+      "greek": "ἀνθρώπων ἔργοισι χάριν καὶ κῦδος ὀπάζει,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "whether he would still entertain him with kindly care and bid him remain there at the farmstead, or send him forth to the city: “Hearken now, Eumaeus, and all ye other men. In the morning I am minded to go forth to the city to beg, that I may not be the ruin of thee and of thy men. Now then, give me good counsel, and send with me a trusty guide to lead me thither;"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "but through the city will I wander by myself perforce, in the hope that one haply will give me a cup of water and a loaf. Aye, and I would go to the house of godlike Odysseus and bear tidings to the wise Penelope,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "and join the company of the insolent wooers, if perchance they may give me a meal, since they have good cheer in abundance. Straightway might I do good service among them in all that they would. For I will tell thee, and do thou give heed and hearken. By the favour of Hermes, the messenger, who"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "lends grace and glory to all men's work, in the business of serving no man beside can vie with me, in piling well a fire, in splitting dry faggots, in carving and roasting meat, and in pouring wine —in all things in which meaner men serve the noble.”"
+    }
+  ]
+}

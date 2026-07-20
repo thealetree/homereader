@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "πνείοντες φαίνονθʼ ἁλιαέες, οἵ ῥά τε νηῶν"
+    },
+    {
+      "n": 362,
+      "greek": "πομπῆες γίγνονται ἐπʼ εὐρέα νῶτα θαλάσσης."
+    },
+    {
+      "n": 363,
+      "greek": "καί νύ κεν ἤια πάντα κατέφθιτο καὶ μένεʼ ἀνδρῶν,"
+    },
+    {
+      "n": 364,
+      "greek": "εἰ μή τίς με θεῶν ὀλοφύρατο καί μʼ ἐσάωσε,"
+    },
+    {
+      "n": 365,
+      "greek": "Πρωτέος ἰφθίμου θυγάτηρ ἁλίοιο γέροντος,"
+    },
+    {
+      "n": 366,
+      "greek": "Εἰδοθέη· τῇ γάρ ῥα μάλιστά γε θυμὸν ὄρινα."
+    },
+    {
+      "n": 367,
+      "greek": "ἥ μʼ οἴῳ ἔρροντι συνήντετο νόσφιν ἑταίρων·"
+    },
+    {
+      "n": 368,
+      "greek": "αἰεὶ γὰρ περὶ νῆσον ἀλώμενοι ἰχθυάασκον"
+    },
+    {
+      "n": 369,
+      "greek": "γναμπτοῖς ἀγκίστροισιν, ἔτειρε δὲ γαστέρα λιμός."
+    },
+    {
+      "n": 370,
+      "greek": "ἡ δέ μευ ἄγχι στᾶσα ἔπος φάτο φώνησέν τε·"
+    },
+    {
+      "n": 371,
+      "greek": "νήπιός εἰς, ὦ ξεῖνε, λίην τόσον ἠδὲ χαλίφρων,"
+    },
+    {
+      "n": 372,
+      "greek": "ἦε ἑκὼν μεθίεις καὶ τέρπεαι ἄλγεα πάσχων;"
+    },
+    {
+      "n": 373,
+      "greek": "ὡς δὴ δήθʼ ἐνὶ νήσῳ ἐρύκεαι, οὐδέ τι τέκμωρ"
+    },
+    {
+      "n": 374,
+      "greek": "εὑρέμεναι δύνασαι, μινύθει δέ τοι ἦτορ ἑταίρων."
+    },
+    {
+      "n": 375,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 376,
+      "greek": "ἐκ μέν τοι ἐρέω, ἥ τις σύ πέρ ἐσσι θεάων,"
+    },
+    {
+      "n": 377,
+      "greek": "ὡς ἐγὼ οὔ τι ἑκὼν κατερύκομαι, ἀλλά νυ μέλλω"
+    },
+    {
+      "n": 378,
+      "greek": "ἀθανάτους ἀλιτέσθαι, οἳ οὐρανὸν εὐρὺν ἔχουσιν."
+    },
+    {
+      "n": 379,
+      "greek": "ἀλλὰ σύ πέρ μοι εἰπέ, θεοὶ δέ τε πάντα ἴσασιν,"
+    },
+    {
+      "n": 380,
+      "greek": "ὅς τίς μʼ ἀθανάτων πεδάᾳ καὶ ἔδησε κελεύθου,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "daughter of mighty Proteus, the old man of the sea; for her heart above all others had I moved. She met me as I wandered alone apart from my comrades, who were ever roaming about the island, fishing with bent hooks, for hunger pinched their bellies;"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "and she came close to me, and spoke, and said: “‘Art thou so very foolish, stranger, and slack of wit, or art thou of thine own will remiss, and hast pleasure in suffering woes? So long art thou pent in the isle and canst find no sign of deliverance and the heart of thy comrades grows faint.’"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "“So she spoke, and I made answer and said: ‘I will speak out and tell thee, whosoever among goddesses thou art, that in no wise am I pent here of mine own will, but it must be that I have sinned against the immortals, who hold broad heaven. But do thou tell me—for the gods know all things—"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "who of the immortals fetters me here, and has hindered me from my path, and tell me of my return, how I may go over the teeming deep.’ “So I spoke, and the beautiful goddess straightway made answer: ‘Then verily, stranger, will I frankly tell thee all. There is wont to come hither the unerring old man of the sea,"
+    }
+  ]
+}

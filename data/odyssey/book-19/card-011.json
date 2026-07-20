@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "εἴα ἵστασθαι, χαλεπὸς δέ τις ὤρορε δαίμων."
+    },
+    {
+      "n": 202,
+      "greek": "τῇ τρισκαιδεκάτῃ δʼ ἄνεμος πέσε, τοὶ δʼ ἀνάγοντο."
+    },
+    {
+      "n": 203,
+      "greek": "ἴσκε ψεύδεα πολλὰ λέγων ἐτύμοισιν ὁμοῖα·"
+    },
+    {
+      "n": 204,
+      "greek": "τῆς δʼ ἄρʼ ἀκουούσης ῥέε δάκρυα, τήκετο δὲ χρώς·"
+    },
+    {
+      "n": 205,
+      "greek": "ὡς δὲ χιὼν κατατήκετʼ ἐν ἀκροπόλοισιν ὄρεσσιν,"
+    },
+    {
+      "n": 206,
+      "greek": "ἥν τʼ Εὖρος κατέτηξεν, ἐπὴν Ζέφυρος καταχεύῃ·"
+    },
+    {
+      "n": 207,
+      "greek": "τηκομένης δʼ ἄρα τῆς ποταμοὶ πλήθουσι ῥέοντες·"
+    },
+    {
+      "n": 208,
+      "greek": "ὣς τῆς τήκετο καλὰ παρήϊα δάκρυ χεούσης,"
+    },
+    {
+      "n": 209,
+      "greek": "κλαιούσης ἑὸν ἄνδρα παρήμενον. αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 210,
+      "greek": "θυμῷ μὲν γοόωσαν ἑὴν ἐλέαιρε γυναῖκα,"
+    },
+    {
+      "n": 211,
+      "greek": "ὀφθαλμοὶ δʼ ὡς εἰ κέρα ἕστασαν ἠὲ σίδηρος"
+    },
+    {
+      "n": 212,
+      "greek": "ἀτρέμας ἐν βλεφάροισι· δόλῳ δʼ ὅ γε δάκρυα κεῦθεν."
+    },
+    {
+      "n": 213,
+      "greek": "ἡ δʼ ἐπεὶ οὖν τάρφθη πολυδακρύτοιο γόοιο,"
+    },
+    {
+      "n": 214,
+      "greek": "ἐξαῦτίς μιν ἔπεσσιν ἀμειβομένη προσέειπε·"
+    },
+    {
+      "n": 215,
+      "greek": "νῦν μὲν δή σευ, ξεῖνέ γʼ, ὀΐω πειρήσεσθαι,"
+    },
+    {
+      "n": 216,
+      "greek": "εἰ ἐτεὸν δὴ κεῖθι σὺν ἀντιθέοις ἑτάροισι"
+    },
+    {
+      "n": 217,
+      "greek": "ξείνισας ἐν μεγάροισιν ἐμὸν πόσιν, ὡς ἀγορεύεις."
+    },
+    {
+      "n": 218,
+      "greek": "εἰπέ μοι ὁπποῖʼ ἄσσα περὶ χροῒ εἵματα ἕστο,"
+    },
+    {
+      "n": 219,
+      "greek": "αὐτός θʼ οἷος ἔην, καὶ ἑταίρους, οἵ οἱ ἕποντο."
+    },
+    {
+      "n": 220,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "as the snow melts on the lofty mountains, the snow which the East Wind thaws when the West Wind has strewn it, and as it melts the streams of the rivers flow full: so her fair cheeks melted as she wept and mourned for her husband, who even then was sitting by her side. And Odysseus"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "in his heart had pity for his weeping wife, but his eyes stood fixed between his lids as though they were horn or iron, and with guile he hid his tears. But she, when she had had her fill of tearful wailing, again answered him and spoke, saying:"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "“Now verily, stranger, am I minded to put thee to the test, whether or no thou didst in very truth entertain there in thy halls my husband with his godlike comrades, even as thou sayest. Tell me what manner of raiment he wore about his body, and what manner of man he was himself; and tell me of the comrades who followed him.”"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "Then Odysseus of many wiles answered her, and said: “Lady, hard is it for one that has been so long afar to tell thee this, for it is now the twentieth year since he went thence and departed from my country. But I will tell thee as my mind pictures him."
+    }
+  ]
+}

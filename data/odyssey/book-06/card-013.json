@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "Φαιήκεσσʼ ὅδʼ ἀνὴρ ἐπιμίσγεται ἀντιθέοισι·"
+    },
+    {
+      "n": 242,
+      "greek": "πρόσθεν μὲν γὰρ δή μοι ἀεικέλιος δέατʼ εἶναι,"
+    },
+    {
+      "n": 243,
+      "greek": "νῦν δὲ θεοῖσιν ἔοικε, τοὶ οὐρανὸν εὐρὺν ἔχουσιν."
+    },
+    {
+      "n": 244,
+      "greek": "αἲ γὰρ ἐμοὶ τοιόσδε πόσις κεκλημένος εἴη"
+    },
+    {
+      "n": 245,
+      "greek": "ἐνθάδε ναιετάων, καί οἱ ἅδοι αὐτόθι μίμνειν."
+    },
+    {
+      "n": 246,
+      "greek": "ἀλλὰ δότʼ, ἀμφίπολοι, ξείνῳ βρῶσίν τε πόσιν τε."
+    },
+    {
+      "n": 247,
+      "greek": "ὣς ἔφαθʼ, αἱ δʼ ἄρα τῆς μάλα μὲν κλύον ἠδʼ ἐπίθοντο,"
+    },
+    {
+      "n": 248,
+      "greek": "πὰρ δʼ ἄρʼ Ὀδυσσῆι ἔθεσαν βρῶσίν τε πόσιν τε."
+    },
+    {
+      "n": 249,
+      "greek": "ἦ τοι ὁ πῖνε καὶ ἦσθε πολύτλας δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 250,
+      "greek": "ἁρπαλέως· δηρὸν γὰρ ἐδητύος ἦεν ἄπαστος."
+    },
+    {
+      "n": 251,
+      "greek": "αὐτὰρ Ναυσικάα λευκώλενος ἄλλʼ ἐνόησεν·"
+    },
+    {
+      "n": 252,
+      "greek": "εἵματʼ ἄρα πτύξασα τίθει καλῆς ἐπʼ ἀπήνης,"
+    },
+    {
+      "n": 253,
+      "greek": "ζεῦξεν δʼ ἡμιόνους κρατερώνυχας, ἂν δʼ ἔβη αὐτή,"
+    },
+    {
+      "n": 254,
+      "greek": "ὤτρυνεν δʼ Ὀδυσῆα, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 255,
+      "greek": "ὄρσεο δὴ νῦν, ξεῖνε, πόλινδʼ ἴμεν ὄφρα σε πέμψω"
+    },
+    {
+      "n": 256,
+      "greek": "πατρὸς ἐμοῦ πρὸς δῶμα δαΐφρονος, ἔνθα σέ φημι"
+    },
+    {
+      "n": 257,
+      "greek": "πάντων Φαιήκων εἰδησέμεν ὅσσοι ἄριστοι."
+    },
+    {
+      "n": 258,
+      "greek": "ἀλλὰ μάλʼ ὧδʼ ἔρδειν, δοκέεις δέ μοι οὐκ ἀπινύσσειν·"
+    },
+    {
+      "n": 259,
+      "greek": "ὄφρʼ ἂν μέν κʼ ἀγροὺς ἴομεν καὶ ἔργʼ ἀνθρώπων,"
+    },
+    {
+      "n": 260,
+      "greek": "τόφρα σὺν ἀμφιπόλοισι μεθʼ ἡμιόνους καὶ ἄμαξαν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "dwelling here, and that it might please him here to remain. But come, my maidens; give to the stranger food and drink.” So she spoke, and they readily hearkened and obeyed, and set before Odysseus food and drink. Then verily did the much-enduring goodly Odysseus drink and eat,"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "ravenously; for long had he been without taste of food. But the white-armed Nausicaa took other counsel. She folded the raiment and put it in the fair wagon, and yoked the stout-hoofed mules, and mounted the car herself. Then she hailed Odysseus, and spoke and addressed him:"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "“Rouse thee now, stranger, to go to the city, that I may escort thee to the house of my wise father, where, I tell thee, thou shalt come to know all the noblest of the Phaeacians. Only do thou thus, and, methinks, thou dost not lack understanding: so long as we are passing through the country and the tilled fields of men go thou quickly"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "with the handmaids behind the mules and the wagon, and I will lead the way. But when we are about to enter the city, around which runs a lofty wall,—a fair harbor lies on either side of the city and the entrance is narrow, and curved ships"
+    }
+  ]
+}

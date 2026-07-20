@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "ὄρνυσθʼ ἑξείης ἐπιδέξια πάντες ἑταῖροι,"
+    },
+    {
+      "n": 142,
+      "greek": "ἀρξάμενοι τοῦ χώρου ὅθεν τέ περ οἰνοχοεύει."
+    },
+    {
+      "n": 143,
+      "greek": "ὣς ἔφατʼ Ἀντίνοος, τοῖσιν δʼ ἐπιήνδανε μῦθος."
+    },
+    {
+      "n": 144,
+      "greek": "Λειώδης δὲ πρῶτος ἀνίστατο, Οἴνοπος υἱός,"
+    },
+    {
+      "n": 145,
+      "greek": "ὅ σφι θυοσκόος ἔσκε, παρὰ κρητῆρα δὲ καλὸν"
+    },
+    {
+      "n": 146,
+      "greek": "ἷζε μυχοίτατος αἰέν· ἀτασθαλίαι δέ οἱ οἴῳ"
+    },
+    {
+      "n": 147,
+      "greek": "ἐχθραὶ ἔσαν, πᾶσιν δὲ νεμέσσα μνηστήρεσσιν·"
+    },
+    {
+      "n": 148,
+      "greek": "ὅς ῥα τότε πρῶτος τόξον λάβε καὶ βέλος ὠκύ."
+    },
+    {
+      "n": 149,
+      "greek": "στῆ δʼ ἄρʼ ἐπʼ οὐδὸν ἰὼν καὶ τόξου πειρήτιζεν,"
+    },
+    {
+      "n": 150,
+      "greek": "οὐδέ μιν ἐντάνυσε· πρὶν γὰρ κάμε χεῖρας ἀνέλκων"
+    },
+    {
+      "n": 151,
+      "greek": "ἀτρίπτους ἁπαλάς· μετὰ δὲ μνηστῆρσιν ἔειπεν·"
+    },
+    {
+      "n": 152,
+      "greek": "ὦ φίλοι, οὐ μὲν ἐγὼ τανύω, λαβέτω δὲ καὶ ἄλλος."
+    },
+    {
+      "n": 153,
+      "greek": "πολλοὺς γὰρ τόδε τόξον ἀριστῆας κεκαδήσει"
+    },
+    {
+      "n": 154,
+      "greek": "θυμοῦ καὶ ψυχῆς, ἐπεὶ ἦ πολὺ φέρτερόν ἐστι"
+    },
+    {
+      "n": 155,
+      "greek": "τεθνάμεν ἢ ζώοντας ἁμαρτεῖν, οὗθʼ ἕνεκʼ αἰεὶ"
+    },
+    {
+      "n": 156,
+      "greek": "ἐνθάδʼ ὁμιλέομεν, ποτιδέγμενοι ἤματα πάντα."
+    },
+    {
+      "n": 157,
+      "greek": "νῦν μέν τις καὶ ἔλπετʼ ἐνὶ φρεσὶν ἠδὲ μενοινᾷ"
+    },
+    {
+      "n": 158,
+      "greek": "γῆμαι Πηνελόπειαν, Ὀδυσσῆος παράκοιτιν."
+    },
+    {
+      "n": 159,
+      "greek": "αὐτὰρ ἐπὴν τόξου πειρήσεται ἠδὲ ἴδηται,"
+    },
+    {
+      "n": 160,
+      "greek": "ἄλλην δή τινʼ ἔπειτα Ἀχαιϊάδων εὐπέπλων"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "who was their soothsayer, and ever sat by the fair mixing-bowl in the innermost part of the hall; deeds of wanton folly were hateful to him alone, and he was full of indignation at all the wooers. He it was who now first took the bow and swift arrow, and he went and stood upon the threshold, and began to try the bow;"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "but he could not string it. Ere that might be his hands grew weary, as he sought to draw up the string, his unworn delicate hands; and he spoke among the wooers: “Friends, it is not I that shall string it; let another take it. For many princes shall this bow rob of spirit and of life, since verily it is better far"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "to die than to live on and fail of that for the sake of which we ever gather here, waiting expectantly day after day. Now many a man even hopes in his heart and desires to wed Penelope, the wife of Odysseus; but when he shall have made trial of the bow, and seen the outcome, thereafter let him woo"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "some other of the fair-robed Achaean women with his gifts, and seek to win her; then should Penelope wed him who offers most, and who comes as her fated lord.” So he spoke, and set the bow from him, leaning it against the jointed, polished door,"
+    }
+  ]
+}

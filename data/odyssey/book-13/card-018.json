@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "ἀλλά τοι οὐκ ἐθέλησα Ποσειδάωνι μάχεσθαι"
+    },
+    {
+      "n": 342,
+      "greek": "πατροκασιγνήτῳ, ὅς τοι κότον ἔνθετο θυμῷ,"
+    },
+    {
+      "n": 343,
+      "greek": "χωόμενος ὅτι οἱ υἱὸν φίλον ἐξαλάωσας."
+    },
+    {
+      "n": 344,
+      "greek": "ἀλλʼ ἄγε τοι δείξω Ἰθάκης ἕδος, ὄφρα πεποίθῃς."
+    },
+    {
+      "n": 345,
+      "greek": "Φόρκυνος μὲν ὅδʼ ἐστὶ λιμήν, ἁλίοιο γέροντος,"
+    },
+    {
+      "n": 346,
+      "greek": "ἥδε δʼ ἐπὶ κρατὸς λιμένος τανύφυλλος ἐλαίη·"
+    },
+    {
+      "n": 347,
+      "greek": "ἀγχόθι δʼ αὐτῆς ἄντρον ἐπήρατον ἠεροειδές,"
+    },
+    {
+      "n": 348,
+      "greek": "ἱρὸν νυμφάων, αἳ νηϊάδες καλέονται·"
+    },
+    {
+      "n": 349,
+      "greek": "τοῦτο δέ τοι σπέος ἐστὶ κατηρεφές, ἔνθα σὺ πολλὰς"
+    },
+    {
+      "n": 350,
+      "greek": "ἔρδεσκες νύμφῃσι τεληέσσας ἑκατόμβας·"
+    },
+    {
+      "n": 351,
+      "greek": "τοῦτο δὲ Νήριτόν ἐστιν ὄρος καταειμένον ὕλῃ."
+    },
+    {
+      "n": 352,
+      "greek": "ὣς εἰποῦσα θεὰ σκέδασʼ ἠέρα, εἴσατο δὲ χθών·"
+    },
+    {
+      "n": 353,
+      "greek": "γήθησέν τʼ ἄρʼ ἔπειτα πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 354,
+      "greek": "χαίρων ᾗ γαίῃ, κύσε δὲ ζείδωρον ἄρουραν."
+    },
+    {
+      "n": 355,
+      "greek": "αὐτίκα δὲ νύμφῃς ἠρήσατο, χεῖρας ἀνασχών·"
+    },
+    {
+      "n": 356,
+      "greek": "νύμφαι νηϊάδες, κοῦραι Διός, οὔ ποτʼ ἐγώ γε"
+    },
+    {
+      "n": 357,
+      "greek": "ὄψεσθʼ ὔμμʼ ἐφάμην· νῦν δʼ εὐχωλῇς ἀγανῇσι"
+    },
+    {
+      "n": 358,
+      "greek": "χαίρετʼ· ἀτὰρ καὶ δῶρα διδώσομεν, ὡς τὸ πάρος περ,"
+    },
+    {
+      "n": 359,
+      "greek": "αἴ κεν ἐᾷ πρόφρων με Διὸς θυγάτηρ ἀγελείη"
+    },
+    {
+      "n": 360,
+      "greek": "αὐτόν τε ζώειν καί μοι φίλον υἱὸν ἀέξῃ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "This is the harbor of Phorcys, the old man of the sea, and here at the head of the harbor is the long-leafed olive tree, and near it is the pleasant, shadowy cave, sacred to the nymphs that are called Naiads. This, thou must know, is the vaulted cave in which thou"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "wast wont to offer to the nymphs many hecatombs that bring fulfillment; and yonder is Mount Neriton, clothed with its forests.” So spake the goddess, and scattered the mist, and the land appeared. Glad then was the much-enduring, goodly Odysseus, rejoicing in his own land, and he kissed the earth, the giver of grain."
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "And straightway he prayed to the nymphs with upstretched hands: “Ye Naiad Nymphs, daughters of Zeus, never did I think to behold you again, but now I hail you with loving prayers. Aye, and gifts too will I give, as aforetime, if the daughter of Zeus, she that drives the spoil, shall graciously grant me"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "to live, and shall bring to manhood my dear son.” Then the goddess, flashing-eyed Athena, answered him again: “Be of good cheer, and let not these things distress thy heart. But let us now forthwith set thy goods in the innermost recess of the wondrous cave, where they may abide for thee in safety,"
+    }
+  ]
+}

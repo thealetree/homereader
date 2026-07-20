@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "ὅς οἱ ἔτʼ ἠίθεος παίδων ἦν ἐν μεγάροισιν·"
+    },
+    {
+      "n": 402,
+      "greek": "αὐτὸς δʼ αὖτε καθεῦδε μυχῷ δόμου ὑψηλοῖο,"
+    },
+    {
+      "n": 403,
+      "greek": "τῷ δʼ ἄλοχος δέσποινα λέχος πόρσυνε καὶ εὐνήν."
+    },
+    {
+      "n": 404,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 405,
+      "greek": "ὤρνυτʼ ἄρʼ ἐξ εὐνῆφι Γερήνιος ἱππότα Νέστωρ,"
+    },
+    {
+      "n": 406,
+      "greek": "ἐκ δʼ ἐλθὼν κατʼ ἄρʼ ἕζετʼ ἐπὶ ξεστοῖσι λίθοισιν,"
+    },
+    {
+      "n": 407,
+      "greek": "οἵ οἱ ἔσαν προπάροιθε θυράων ὑψηλάων,"
+    },
+    {
+      "n": 408,
+      "greek": "λευκοί, ἀποστίλβοντες ἀλείφατος· οἷς ἔπι μὲν πρὶν"
+    },
+    {
+      "n": 409,
+      "greek": "Νηλεὺς ἵζεσκεν, θεόφιν μήστωρ ἀτάλαντος·"
+    },
+    {
+      "n": 410,
+      "greek": "ἀλλʼ ὁ μὲν ἤδη κηρὶ δαμεὶς Ἄϊδόσδε βεβήκει,"
+    },
+    {
+      "n": 411,
+      "greek": "Νέστωρ αὖ τότʼ ἐφῖζε Γερήνιος, οὖρος Ἀχαιῶν,"
+    },
+    {
+      "n": 412,
+      "greek": "σκῆπτρον ἔχων. περὶ δʼ υἷες ἀολλέες ἠγερέθοντο"
+    },
+    {
+      "n": 413,
+      "greek": "ἐκ θαλάμων ἐλθόντες, Ἐχέφρων τε Στρατίος τε"
+    },
+    {
+      "n": 414,
+      "greek": "Περσεύς τʼ Ἄρητός τε καὶ ἀντίθεος Θρασυμήδης."
+    },
+    {
+      "n": 415,
+      "greek": "τοῖσι δʼ ἔπειθʼ ἕκτος Πεισίστρατος ἤλυθεν ἥρως,"
+    },
+    {
+      "n": 416,
+      "greek": "πὰρ δʼ ἄρα Τηλέμαχον θεοείκελον εἷσαν ἄγοντες."
+    },
+    {
+      "n": 417,
+      "greek": "τοῖσι δὲ μύθων ἦρχε Γερήνιος ἱππότα Νέστωρ·"
+    },
+    {
+      "n": 418,
+      "greek": "καρπαλίμως μοι, τέκνα φίλα, κρηήνατʼ ἐέλδωρ,"
+    },
+    {
+      "n": 419,
+      "greek": "ὄφρʼ ἦ τοι πρώτιστα θεῶν ἱλάσσομʼ Ἀθήνην,"
+    },
+    {
+      "n": 420,
+      "greek": "ἥ μοι ἐναργὴς ἦλθε θεοῦ ἐς δαῖτα θάλειαν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "up from his bed rose the horseman, Nestor of Gerenia, and went forth and sat down on the polished stones which were before his lofty doors, white and glistening as with oil. On these of old was wont to sit Neleus, the peer of the gods in counsel;"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "but he ere this had been stricken by fate and had gone to the house of Hades, and now there sat upon them in his turn Nestor of Gerenia, the warder of the Achaeans, holding a sceptre in his hands. About him his sons gathered in a throng as they came forth from their chambers, Echephron and Stratius and Perseus and Aretus and godlike Thrasymedes;"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "and to these thereafter came as the sixth the lord Peisistratus. And they led godlike Telemachus and made him sit beside them; and the horseman, Nestor of Gerenia, was first to speak among them: “Quickly, my dear children, fulfil my desire, that first of all the gods I may propitiate Athena,"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "who came to me in manifest presence to the rich feast of the god. Come now, let one go to the plain for a heifer, that she may come speedily, and that the neatherd may drive her; and let one go to the black ship of great-hearted Telemachus and bring all his comrades, and let him leave two men only;"
+    }
+  ]
+}

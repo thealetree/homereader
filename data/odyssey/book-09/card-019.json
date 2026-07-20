@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "τρὶς μὲν ἔδωκα φέρων, τρὶς δʼ ἔκπιεν ἀφραδίῃσιν."
+    },
+    {
+      "n": 362,
+      "greek": "αὐτὰρ ἐπεὶ Κύκλωπα περὶ φρένας ἤλυθεν οἶνος,"
+    },
+    {
+      "n": 363,
+      "greek": "καὶ τότε δή μιν ἔπεσσι προσηύδων μειλιχίοισι·"
+    },
+    {
+      "n": 364,
+      "greek": "Κύκλωψ, εἰρωτᾷς μʼ ὄνομα κλυτόν, αὐτὰρ ἐγώ τοι"
+    },
+    {
+      "n": 365,
+      "greek": "ἐξερέω· σὺ δέ μοι δὸς ξείνιον, ὥς περ ὑπέστης."
+    },
+    {
+      "n": 366,
+      "greek": "Οὖτις ἐμοί γʼ ὄνομα· Οὖτιν δέ με κικλήσκουσι"
+    },
+    {
+      "n": 367,
+      "greek": "μήτηρ ἠδὲ πατὴρ ἠδʼ ἄλλοι πάντες ἑταῖροι."
+    },
+    {
+      "n": 368,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμείβετο νηλέι θυμῷ·"
+    },
+    {
+      "n": 369,
+      "greek": "Οὖτιν ἐγὼ πύματον ἔδομαι μετὰ οἷς ἑτάροισιν,"
+    },
+    {
+      "n": 370,
+      "greek": "τοὺς δʼ ἄλλους πρόσθεν· τὸ δέ τοι ξεινήιον ἔσται."
+    },
+    {
+      "n": 371,
+      "greek": "ἦ καὶ ἀνακλινθεὶς πέσεν ὕπτιος, αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 372,
+      "greek": "κεῖτʼ ἀποδοχμώσας παχὺν αὐχένα, κὰδ δέ μιν ὕπνος"
+    },
+    {
+      "n": 373,
+      "greek": "ᾕρει πανδαμάτωρ· φάρυγος δʼ ἐξέσσυτο οἶνος"
+    },
+    {
+      "n": 374,
+      "greek": "ψωμοί τʼ ἀνδρόμεοι· ὁ δʼ ἐρεύγετο οἰνοβαρείων."
+    },
+    {
+      "n": 375,
+      "greek": "καὶ τότʼ ἐγὼ τὸν μοχλὸν ὑπὸ σποδοῦ ἤλασα πολλῆς,"
+    },
+    {
+      "n": 376,
+      "greek": "ἧος θερμαίνοιτο· ἔπεσσι δὲ πάντας ἑταίρους"
+    },
+    {
+      "n": 377,
+      "greek": "θάρσυνον, μή τίς μοι ὑποδείσας ἀναδύη."
+    },
+    {
+      "n": 378,
+      "greek": "ἀλλʼ ὅτε δὴ τάχʼ ὁ μοχλὸς ἐλάινος ἐν πυρὶ μέλλεν"
+    },
+    {
+      "n": 379,
+      "greek": "ἅψεσθαι, χλωρός περ ἐών, διεφαίνετο δʼ αἰνῶς,"
+    },
+    {
+      "n": 380,
+      "greek": "καὶ τότʼ ἐγὼν ἆσσον φέρον ἐκ πυρός, ἀμφὶ δʼ ἑταῖροι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "will tell it thee; and do thou give me a stranger's gift, even as thou didst promise. Noman is my name, Noman do they call me—my mother and my father, and all my comrades as well.’ “So I spoke, and he straightway answered me with pitiless heart: ‘Noman will I eat last among his comrades,"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "and the others before him; this shall be thy gift.’ “He spoke, and reeling fell upon his back, and lay there with his thick neck bent aslant, and sleep, that conquers all, laid hold on him. And from his gullet came forth wine and bits of human flesh, and he vomited in his drunken sleep."
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "Then verily I thrust in the stake under the deep ashes until it should grow hot, and heartened all my comrades with cheering words, that I might see no man flinch through fear. But when presently that stake of olive-wood was about to catch fire, green though it was, and began to glow terribly,"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "then verily I drew nigh, bringing the stake from the fire, and my comrades stood round me and a god breathed into us great courage. They took the stake of olive-wood, sharp at the point, and thrust it into his eye, while I, throwing my weight upon it from above, whirled it round, as when a man bores a ship's timber"
+    }
+  ]
+}

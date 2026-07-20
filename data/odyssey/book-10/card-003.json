@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ληίδος, ἡμεῖς δʼ αὖτε ὁμὴν ὁδὸν ἐκτελέσαντες"
+    },
+    {
+      "n": 42,
+      "greek": "οἴκαδε νισσόμεθα κενεὰς σὺν χεῖρας ἔχοντες·"
+    },
+    {
+      "n": 43,
+      "greek": "καὶ νῦν οἱ τάδʼ ἔδωκε χαριζόμενος φιλότητι"
+    },
+    {
+      "n": 44,
+      "greek": "Αἴολος. ἀλλʼ ἄγε θᾶσσον ἰδώμεθα ὅττι τάδʼ ἐστίν,"
+    },
+    {
+      "n": 45,
+      "greek": "ὅσσος τις χρυσός τε καὶ ἄργυρος ἀσκῷ ἔνεστιν."
+    },
+    {
+      "n": 46,
+      "greek": "ὣς ἔφασαν, βουλὴ δὲ κακὴ νίκησεν ἑταίρων·"
+    },
+    {
+      "n": 47,
+      "greek": "ἀσκὸν μὲν λῦσαν, ἄνεμοι δʼ ἐκ πάντες ὄρουσαν."
+    },
+    {
+      "n": 48,
+      "greek": "τοὺς δʼ αἶψʼ ἁρπάξασα φέρεν πόντονδε θύελλα"
+    },
+    {
+      "n": 49,
+      "greek": "κλαίοντας, γαίης ἄπο πατρίδος. αὐτὰρ ἐγώ γε"
+    },
+    {
+      "n": 50,
+      "greek": "ἐγρόμενος κατὰ θυμὸν ἀμύμονα μερμήριξα,"
+    },
+    {
+      "n": 51,
+      "greek": "ἠὲ πεσὼν ἐκ νηὸς ἀποφθίμην ἐνὶ πόντῳ,"
+    },
+    {
+      "n": 52,
+      "greek": "ἦ ἀκέων τλαίην καὶ ἔτι ζωοῖσι μετείην."
+    },
+    {
+      "n": 53,
+      "greek": "ἀλλʼ ἔτλην καὶ ἔμεινα, καλυψάμενος δʼ ἐνὶ νηὶ"
+    },
+    {
+      "n": 54,
+      "greek": "κείμην. αἱ δʼ ἐφέροντο κακῇ ἀνέμοιο θυέλλῃ"
+    },
+    {
+      "n": 55,
+      "greek": "αὖτις ἐπʼ Αἰολίην νῆσον, στενάχοντο δʼ ἑταῖροι."
+    },
+    {
+      "n": 56,
+      "greek": "ἔνθα δʼ ἐπʼ ἠπείρου βῆμεν καὶ ἀφυσσάμεθʼ ὕδωρ,"
+    },
+    {
+      "n": 57,
+      "greek": "αἶψα δὲ δεῖπνον ἕλοντο θοῇς παρὰ νηυσὶν ἑταῖροι."
+    },
+    {
+      "n": 58,
+      "greek": "αὐτὰρ ἐπεὶ σίτοιό τʼ ἐπασσάμεθʼ ἠδὲ ποτῆτος,"
+    },
+    {
+      "n": 59,
+      "greek": "δὴ τότʼ ἐγὼ κήρυκά τʼ ὀπασσάμενος καὶ ἑταῖρον"
+    },
+    {
+      "n": 60,
+      "greek": "βῆν εἰς Αἰόλου κλυτὰ δώματα· τὸν δʼ ἐκίχανον"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "what store of gold and silver is in the wallet.’ “So they spoke, and the evil counsel of my comrades prevailed. They loosed the wallet, and all the winds leapt forth, and swiftly the storm-wind seized them and bore them weeping out to sea away from their native land; but as for me,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "I awoke, and pondered in my goodly heart whether I should fling myself from the ship and perish in the sea, or endure in silence and still remain among the living. However, I endured and abode, and covering my head lay down in the ship. But the ships were borne by an evil blast of wind"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "back to the Aeolian isle; and my comrades groaned. “There we went ashore and drew water, and straightway my comrades took their meal by the swift ships. But when we had tasted of food and drink, I took with me a herald and one companion"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "and went to the glorious palace of Aeolus, and I found him feasting beside his wife and his children. So we entered the house and sat down by the doorposts on the threshold, and they were amazed at heart, and questioned us: “‘How hast thou come hither, Odysseus? What cruel god assailed thee?"
+    }
+  ]
+}

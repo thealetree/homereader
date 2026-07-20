@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα συβώτης, ὄρχαμος ἀνδρῶν·"
+    },
+    {
+      "n": 122,
+      "greek": "ὦ γέρον, οὔ τις κεῖνον ἀνὴρ ἀλαλήμενος ἐλθὼν"
+    },
+    {
+      "n": 123,
+      "greek": "ἀγγέλλων πείσειε γυναῖκά τε καὶ φίλον υἱόν,"
+    },
+    {
+      "n": 124,
+      "greek": "ἀλλʼ ἄλλως κομιδῆς κεχρημένοι ἄνδρες ἀλῆται"
+    },
+    {
+      "n": 125,
+      "greek": "ψεύδοντʼ, οὐδʼ ἐθέλουσιν ἀληθέα μυθήσασθαι."
+    },
+    {
+      "n": 126,
+      "greek": "ὃς δέ κʼ ἀλητεύων Ἰθάκης ἐς δῆμον ἵκηται,"
+    },
+    {
+      "n": 127,
+      "greek": "ἐλθὼν ἐς δέσποιναν ἐμὴν ἀπατήλια βάζει·"
+    },
+    {
+      "n": 128,
+      "greek": "ἡ δʼ εὖ δεξαμένη φιλέει καὶ ἕκαστα μεταλλᾷ,"
+    },
+    {
+      "n": 129,
+      "greek": "καί οἱ ὀδυρομένῃ βλεφάρων ἄπο δάκρυα πίπτει,"
+    },
+    {
+      "n": 130,
+      "greek": "ἣ θέμις ἐστὶ γυναικός, ἐπὴν πόσις ἄλλοθʼ ὄληται."
+    },
+    {
+      "n": 131,
+      "greek": "αἶψά κε καὶ σύ, γεραιέ, ἔπος παρατεκτήναιο."
+    },
+    {
+      "n": 132,
+      "greek": "εἴ τίς τοι χλαῖνάν τε χιτῶνά τε εἵματα δοίη."
+    },
+    {
+      "n": 133,
+      "greek": "τοῦ δʼ ἤδη μέλλουσι κύνες ταχέες τʼ οἰωνοὶ"
+    },
+    {
+      "n": 134,
+      "greek": "ῥινὸν ἀπʼ ὀστεόφιν ἐρύσαι, ψυχὴ δὲ λέλοιπεν·"
+    },
+    {
+      "n": 135,
+      "greek": "ἢ τόν γʼ ἐν πόντῳ φάγον ἰχθύες, ὀστέα δʼ αὐτοῦ"
+    },
+    {
+      "n": 136,
+      "greek": "κεῖται ἐπʼ ἠπείρου ψαμάθῳ εἰλυμένα πολλῇ."
+    },
+    {
+      "n": 137,
+      "greek": "ὣς ὁ μὲν ἔνθʼ ἀπόλωλε, φίλοισι δὲ κήδεʼ ὀπίσσω"
+    },
+    {
+      "n": 138,
+      "greek": "πᾶσιν, ἐμοὶ δὲ μάλιστα, τετεύχαται· οὐ γὰρ ἔτʼ ἄλλον"
+    },
+    {
+      "n": 139,
+      "greek": "ἤπιον ὧδε ἄνακτα κιχήσομαι, ὁππόσʼ ἐπέλθω,"
+    },
+    {
+      "n": 140,
+      "greek": "οὐδʼ εἴ κεν πατρὸς καὶ μητέρος αὖτις ἵκωμαι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "lie, and are not minded to speak the truth. Whosoever in his wanderings comes to the land of Ithaca, goes to my mistress and tells a deceitful tale. And she, receiving him kindly, gives him entertainment, and questions him of all things, and the tears fall from her eyelids, while she weeps,"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "as is the way of a woman, when her husband dies afar. And readily wouldest thou too, old man, fashion a story, if one would give thee a cloak and a tunic for raiment. But as for him, ere now dogs and swift birds are like to have torn the flesh from his bones, and his spirit has left him;"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "or in the sea fishes have eaten him, and his bones lie there on the shore, wrapped in deep sand. Thus has he perished yonder, and to his friends grief is appointed for days to come, to all, but most of all to me. For never again shall I find a master so kind, how far soever I go,"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "not though I come again to the house of my father and mother, where at the first I was born, and they reared me themselves. Yet it is not for them that I henceforth mourn so much, eager though I am to behold them with my eyes and to be in my native land; nay, it is longing for Odysseus, who is gone, that seizes me."
+    }
+  ]
+}

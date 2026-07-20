@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "τὸν δʼ ἐγὼ ἐκβαίνοντα κατʼ ἄκνηστιν μέσα νῶτα"
+    },
+    {
+      "n": 162,
+      "greek": "πλῆξα· τὸ δʼ ἀντικρὺ δόρυ χάλκεον ἐξεπέρησε,"
+    },
+    {
+      "n": 163,
+      "greek": "κὰδ δʼ ἔπεσʼ ἐν κονίῃσι μακών, ἀπὸ δʼ ἔπτατο θυμός."
+    },
+    {
+      "n": 164,
+      "greek": "τῷ δʼ ἐγὼ ἐμβαίνων δόρυ χάλκεον ἐξ ὠτειλῆς"
+    },
+    {
+      "n": 165,
+      "greek": "εἰρυσάμην· τὸ μὲν αὖθι κατακλίνας ἐπὶ γαίῃ"
+    },
+    {
+      "n": 166,
+      "greek": "εἴασʼ· αὐτὰρ ἐγὼ σπασάμην ῥῶπάς τε λύγους τε,"
+    },
+    {
+      "n": 167,
+      "greek": "πεῖσμα δʼ, ὅσον τʼ ὄργυιαν, ἐυστρεφὲς ἀμφοτέρωθεν"
+    },
+    {
+      "n": 168,
+      "greek": "πλεξάμενος συνέδησα πόδας δεινοῖο πελώρου,"
+    },
+    {
+      "n": 169,
+      "greek": "βῆν δὲ καταλοφάδεια φέρων ἐπὶ νῆα μέλαιναν"
+    },
+    {
+      "n": 170,
+      "greek": "ἔγχει ἐρειδόμενος, ἐπεὶ οὔ πως ἦεν ἐπʼ ὤμου"
+    },
+    {
+      "n": 171,
+      "greek": "χειρὶ φέρειν ἑτέρῃ· μάλα γὰρ μέγα θηρίον ἦεν."
+    },
+    {
+      "n": 172,
+      "greek": "κὰδʼ δʼ ἔβαλον προπάροιθε νεός, ἀνέγειρα δʼ ἑταίρους"
+    },
+    {
+      "n": 173,
+      "greek": "μειλιχίοις ἐπέεσσι παρασταδὸν ἄνδρα ἕκαστον·"
+    },
+    {
+      "n": 174,
+      "greek": "ὦ φίλοι, οὐ γάρ πω καταδυσόμεθʼ ἀχνύμενοί περ"
+    },
+    {
+      "n": 175,
+      "greek": "εἰς Ἀίδαο δόμους, πρὶν μόρσιμον ἦμαρ ἐπέλθῃ·"
+    },
+    {
+      "n": 176,
+      "greek": "ἀλλʼ ἄγετʼ, ὄφρʼ ἐν νηὶ θοῇ βρῶσίς τε πόσις τε,"
+    },
+    {
+      "n": 177,
+      "greek": "μνησόμεθα βρώμης, μηδὲ τρυχώμεθα λιμῷ."
+    },
+    {
+      "n": 178,
+      "greek": "ὣς ἐφάμην, οἱ δʼ ὦκα ἐμοῖς ἐπέεσσι πίθοντο,"
+    },
+    {
+      "n": 179,
+      "greek": "ἐκ δὲ καλυψάμενοι παρὰ θῖνʼ ἁλὸς ἀτρυγέτοιο"
+    },
+    {
+      "n": 180,
+      "greek": "θηήσαντʼ ἔλαφον· μάλα γὰρ μέγα θηρίον ἦεν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "and drew the bronze spear forth from the wound, and left it there to lie on the ground. But for myself, I plucked twigs and osiers, and weaving a rope as it were a fathom in length, well twisted from end to end, I bound together the feet of the monstrous beast, and went my way to the black ship, bearing him across my back and"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "leaning on my spear, since in no wise could I hold him on my shoulder with one hand, for he was a very mighty beast. Down I flung him before the ship, and heartened my comrades with gentle words, coming up to each man in turn: “‘Friends, not yet shall we go down"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "to the house of Hades, despite our sorrows, before the day of fate comes upon us. Nay, come, while there is yet food and drink in our swift ship, let us bethink us of food, that we pine not with hunger.’ “So I spoke, and they quickly hearkened to my words. From their faces they drew their cloaks,"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "and marvelled at the stag on the shore of the unresting sea, for he was a very mighty beast. But when they had satisfied their eyes with gazing, they washed their hands, and made ready a glorious feast. So then all day long till set of sun we sat feasting on abundant flesh and sweet wine."
+    }
+  ]
+}

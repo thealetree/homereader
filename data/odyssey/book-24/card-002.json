@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "ἀχνυμένη· περὶ δʼ ἄλλαι ἀγηγέραθʼ, ὅσσαι ἅμʼ αὐτῷ"
+    },
+    {
+      "n": 22,
+      "greek": "οἴκῳ ἐν Αἰγίσθοιο θάνον καὶ πότμον ἐπέσπον."
+    },
+    {
+      "n": 23,
+      "greek": "τὸν προτέρη ψυχὴ προσεφώνεε Πηλεΐωνος·"
+    },
+    {
+      "n": 24,
+      "greek": "Ἀτρεΐδη, περὶ μέν σʼ ἔφαμεν Διὶ τερπικεραύνῳ"
+    },
+    {
+      "n": 25,
+      "greek": "ἀνδρῶν ἡρώων φίλον ἔμμεναι ἤματα πάντα,"
+    },
+    {
+      "n": 26,
+      "greek": "οὕνεκα πολλοῖσίν τε καὶ ἰφθίμοισιν ἄνασσες"
+    },
+    {
+      "n": 27,
+      "greek": "δήμῳ ἔνι Τρώων, ὅθι πάσχομεν ἄλγεʼ Ἀχαιοί."
+    },
+    {
+      "n": 28,
+      "greek": "ἦ τʼ ἄρα καὶ σοὶ πρῶϊ παραστήσεσθαι ἔμελλεν"
+    },
+    {
+      "n": 29,
+      "greek": "μοῖρʼ ὀλοή, τὴν οὔ τις ἀλεύεται ὅς κε γένηται."
+    },
+    {
+      "n": 30,
+      "greek": "ὡς ὄφελες τιμῆς ἀπονήμενος, ἧς περ ἄνασσες,"
+    },
+    {
+      "n": 31,
+      "greek": "δήμῳ ἔνι Τρώων θάνατον καὶ πότμον ἐπισπεῖν·"
+    },
+    {
+      "n": 32,
+      "greek": "τῷ κέν τοι τύμβον μὲν ἐποίησαν Παναχαιοί,"
+    },
+    {
+      "n": 33,
+      "greek": "ἠδέ κε καὶ σῷ παιδὶ μέγα κλέος ἤραʼ ὀπίσσω·"
+    },
+    {
+      "n": 34,
+      "greek": "νῦν δʼ ἄρα σʼ οἰκτίστῳ θανάτῳ εἵμαρτο ἁλῶναι."
+    },
+    {
+      "n": 35,
+      "greek": "τὸν δʼ αὖτε ψυχὴ προσεφώνεεν Ἀτρείδαο·"
+    },
+    {
+      "n": 36,
+      "greek": "ὄλβιε Πηλέος υἱέ, θεοῖς ἐπιείκελʼ Ἀχιλλεῦ,"
+    },
+    {
+      "n": 37,
+      "greek": "ὃς θάνες ἐν Τροίῃ ἑκὰς Ἄργεος· ἀμφὶ δέ σʼ ἄλλοι"
+    },
+    {
+      "n": 38,
+      "greek": "κτείνοντο Τρώων καὶ Ἀχαιῶν υἷες ἄριστοι,"
+    },
+    {
+      "n": 39,
+      "greek": "μαρνάμενοι περὶ σεῖο· σὺ δʼ ἐν στροφάλιγγι κονίης"
+    },
+    {
+      "n": 40,
+      "greek": "κεῖσο μέγας μεγαλωστί, λελασμένος ἱπποσυνάων."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "above all other heroes wast all thy days dear to Zeus, who hurls the thunderbolt, because thou wast lord over many mighty men in the land of the Trojans, where we Achaeans suffered woes. But verily on thee too was deadly doom to come all too early, the doom that not one avoids of those who are born."
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "Ah, would that in the pride of that honor of which thou wast master thou hadst met death and fate in the land of the Trojans. Then would the whole host of the Achaeans have made thee a tomb, and for thy son too wouldst thou have won great glory in days to come; but now, as it seems, it has been decreed that thou shouldst be cut off by a most piteous death.”"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "Then the spirit of the son of Atreus answered him: “Fortunate son of Peleus, godlike Achilles, that wast slain in the land of Troy far from Argos, and about thee others fell, the best of the sons of the Trojans and Achaeans, fighting for thy body; and thou in the whirl of dust"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "didst lie mighty in thy mightiness, forgetful of thy horsemanship. We on our part strove the whole day long, nor should we ever have stayed from the fight, had not Zeus stayed us with a storm. But after we had borne thee to the ships from out the fight, we laid thee on a bier, and cleansed thy fair flesh"
+    }
+  ]
+}

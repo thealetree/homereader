@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 7,
+  "lineStart": 122,
+  "lineEnd": 141,
+  "lines": [
+    {
+      "n": 122,
+      "greek": "ὅσσοι γὰρ νήσοισιν ἐπικρατέουσιν ἄριστοι,"
+    },
+    {
+      "n": 123,
+      "greek": "Δουλιχίῳ τε Σάμῃ τε καὶ ὑλήεντι Ζακύνθῳ,"
+    },
+    {
+      "n": 124,
+      "greek": "ἠδʼ ὅσσοι κραναὴν Ἰθάκην κάτα κοιρανέουσι,"
+    },
+    {
+      "n": 125,
+      "greek": "τόσσοι μητέρʼ ἐμὴν μνῶνται, τρύχουσι δὲ οἶκον."
+    },
+    {
+      "n": 126,
+      "greek": "ἡ δʼ οὔτʼ ἀρνεῖται στυγερὸν γάμον οὔτε τελευτὴν"
+    },
+    {
+      "n": 127,
+      "greek": "ποιῆσαι δύναται· τοὶ δὲ φθινύθουσιν ἔδοντες"
+    },
+    {
+      "n": 128,
+      "greek": "οἶκον ἐμόν· τάχα δή με διαρραίσουσι καὶ αὐτόν."
+    },
+    {
+      "n": 129,
+      "greek": "ἀλλʼ ἦ τοι μὲν ταῦτα θεῶν ἐν γούνασι κεῖται·"
+    },
+    {
+      "n": 130,
+      "greek": "ἄττα, σὺ δʼ ἔρχεο θᾶσσον, ἐχέφρονι Πηνελοπείῃ"
+    },
+    {
+      "n": 131,
+      "greek": "εἴφʼ ὅτι οἱ σῶς εἰμὶ καὶ ἐκ Πύλου εἰλήλουθα."
+    },
+    {
+      "n": 132,
+      "greek": "αὐτὰρ ἐγὼν αὐτοῦ μενέω, σὺ δὲ δεῦρο νέεσθαι,"
+    },
+    {
+      "n": 133,
+      "greek": "οἴῃ ἀπαγγείλας· τῶν δʼ ἄλλων μή τις Ἀχαιῶν"
+    },
+    {
+      "n": 134,
+      "greek": "πευθέσθω· πολλοὶ γὰρ ἐμοὶ κακὰ μηχανόωνται."
+    },
+    {
+      "n": 135,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 136,
+      "greek": "γιγνώσκω, φρονέω· τά γε δὴ νοέοντι κελεύεις."
+    },
+    {
+      "n": 137,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,"
+    },
+    {
+      "n": 138,
+      "greek": "ἦ καὶ Λαέρτῃ αὐτὴν ὁδὸν ἄγγελος ἔλθω"
+    },
+    {
+      "n": 139,
+      "greek": "δυσμόρῳ, ὃς τῆος μὲν Ὀδυσσῆος μέγʼ ἀχεύων"
+    },
+    {
+      "n": 140,
+      "greek": "ἔργα τʼ ἐποπτεύεσκε μετὰ δμώων τʼ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 141,
+      "greek": "πῖνε καὶ ἦσθʼ, ὅτε θυμὸς ἐνὶ στήθεσσιν ἀνώγοι·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "all these woo my mother and lay waste my house. And she neither refuses the hateful marriage, nor is she able to make an end; but they with feasting consume my substance, and will ere long bring me, too, to ruin. Yet these things verily lie on the knees of the gods."
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "But, father, do thou go with speed, and tell constant Penelope that she has me safe, and I am come from Pylos. But I will abide here, and do thou come back hither, when thou hast told thy tale to her alone; but of the rest of the Achaeans let no one learn it, for many there are who contrive evil against me.”"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "To him then, swineherd Eumaeus, didst thou make answer, and say: “I see, I give heed; this thou biddest one with understanding. But come now, tell me this, and declare it truly; whether I shall go on the self-same way with tidings to Laertes also, wretched man, who for a time, though grieving sorely for Odysseus,"
+    },
+    {
+      "lines": [
+        140,
+        141
+      ],
+      "text": "was still wont to oversee the fields, and would eat and drink with the slaves in the house, as the heart in his breast bade him. But now, from the day when thou wentest in thy ship to Pylos, they say he has no more eaten and drunk as before, nor overseen the fields, but with groaning and wailing"
+    }
+  ]
+}

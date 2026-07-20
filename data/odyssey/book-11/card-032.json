@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 32,
+  "lineStart": 621,
+  "lineEnd": 640,
+  "lines": [
+    {
+      "n": 621,
+      "greek": "εἶχον ἀπειρεσίην· μάλα γὰρ πολὺ χείρονι φωτὶ"
+    },
+    {
+      "n": 622,
+      "greek": "δεδμήμην, ὁ δέ μοι χαλεποὺς ἐπετέλλετʼ ἀέθλους."
+    },
+    {
+      "n": 623,
+      "greek": "καί ποτέ μʼ ἐνθάδʼ ἔπεμψε κύνʼ ἄξοντʼ· οὐ γὰρ ἔτʼ ἄλλον"
+    },
+    {
+      "n": 624,
+      "greek": "φράζετο τοῦδέ γέ μοι κρατερώτερον εἶναι ἄεθλον·"
+    },
+    {
+      "n": 625,
+      "greek": "τὸν μὲν ἐγὼν ἀνένεικα καὶ ἤγαγον ἐξ Ἀίδαο·"
+    },
+    {
+      "n": 626,
+      "greek": "Ἑρμείας δέ μʼ ἔπεμψεν ἰδὲ γλαυκῶπις Ἀθήνη."
+    },
+    {
+      "n": 627,
+      "greek": "ὣς εἰπὼν ὁ μὲν αὖτις ἔβη δόμον Ἄϊδος εἴσω,"
+    },
+    {
+      "n": 628,
+      "greek": "αὐτὰρ ἐγὼν αὐτοῦ μένον ἔμπεδον, εἴ τις ἔτʼ ἔλθοι"
+    },
+    {
+      "n": 629,
+      "greek": "ἀνδρῶν ἡρώων, οἳ δὴ τὸ πρόσθεν ὄλοντο."
+    },
+    {
+      "n": 630,
+      "greek": "καί νύ κʼ ἔτι προτέρους ἴδον ἀνέρας, οὓς ἔθελόν περ,"
+    },
+    {
+      "n": 631,
+      "greek": "Θησέα Πειρίθοόν τε, θεῶν ἐρικυδέα τέκνα·"
+    },
+    {
+      "n": 632,
+      "greek": "ἀλλὰ πρὶν ἐπὶ ἔθνεʼ ἀγείρετο μυρία νεκρῶν"
+    },
+    {
+      "n": 633,
+      "greek": "ἠχῇ θεσπεσίῃ· ἐμὲ δὲ χλωρὸν δέος ᾕρει,"
+    },
+    {
+      "n": 634,
+      "greek": "μή μοι Γοργείην κεφαλὴν δεινοῖο πελώρου"
+    },
+    {
+      "n": 635,
+      "greek": "ἐξ Ἀίδεω πέμψειεν ἀγαυὴ Περσεφόνεια."
+    },
+    {
+      "n": 636,
+      "greek": "αὐτίκʼ ἔπειτʼ ἐπὶ νῆα κιὼν ἐκέλευον ἑταίρους"
+    },
+    {
+      "n": 637,
+      "greek": "αὐτούς τʼ ἀμβαίνειν ἀνά τε πρυμνήσια λῦσαι."
+    },
+    {
+      "n": 638,
+      "greek": "οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον."
+    },
+    {
+      "n": 639,
+      "greek": "τὴν δὲ κατʼ Ὠκεανὸν ποταμὸν φέρε κῦμα ῥόοιο,"
+    },
+    {
+      "n": 640,
+      "greek": "πρῶτα μὲν εἰρεσίῃ, μετέπειτα δὲ κάλλιμος οὖρος."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        625,
+        629
+      ],
+      "text": "The hound I carried off and led forth from the house of Hades; and Hermes was my guide, and flashing-eyed Athena.’ “So saying, he went his way again into the house of Hades, but I abode there steadfastly, in the hope that some other haply might still come forth of the warrior heroes who died in the days of old."
+    },
+    {
+      "lines": [
+        630,
+        634
+      ],
+      "text": "And I should have seen yet others of the men of former time, whom I was fain to behold, even Theseus and Peirithous, glorious children of the gods, but ere that the myriad tribes of the dead came thronging up with a wondrous cry, and pale fear seized me, lest"
+    },
+    {
+      "lines": [
+        635,
+        639
+      ],
+      "text": "august Persephone might send forth upon me from out the house of Hades the head of the Gorgon, that awful monster. “Straightway then I went to the ship and bade my comrades themselves to embark, and to loose the stern cables. So they went on board quickly and sat down upon the benches. And the ship was borne down the stream Oceanus by the swelling flood,"
+    },
+    {
+      "lines": [
+        640,
+        640
+      ],
+      "text": "first with our rowing, and afterwards the wind was fair."
+    }
+  ]
+}

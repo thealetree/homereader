@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "ἕλκε διὲκ προθύροιο λαβὼν ποδός, ὄφρʼ ἵκετʼ αὐλήν,"
+    },
+    {
+      "n": 102,
+      "greek": "αἰθούσης τε θύρας· καί μιν ποτὶ ἑρκίον αὐλῆς"
+    },
+    {
+      "n": 103,
+      "greek": "εἷσεν ἀνακλίνας· σκῆπτρον δέ οἱ ἔμβαλε χειρί,"
+    },
+    {
+      "n": 104,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 105,
+      "greek": "ἐνταυθοῖ νῦν ἧσο σύας τε κύνας τʼ ἀπερύκων,"
+    },
+    {
+      "n": 106,
+      "greek": "μηδὲ σύ γε ξείνων καὶ πτωχῶν κοίρανος εἶναι"
+    },
+    {
+      "n": 107,
+      "greek": "λυγρὸς ἐών, μή πού τι κακὸν καὶ μεῖζον ἐπαύρῃ."
+    },
+    {
+      "n": 108,
+      "greek": "ἦ ῥα καὶ ἀμφʼ ὤμοισιν ἀεικέα βάλλετο πήρην,"
+    },
+    {
+      "n": 109,
+      "greek": "πυκνὰ ῥωγαλέην· ἐν δὲ στρόφος ἦεν ἀορτήρ."
+    },
+    {
+      "n": 110,
+      "greek": "ἂψ δʼ ὅ γʼ ἐπʼ οὐδὸν ἰὼν κατʼ ἄρʼ ἕζετο· τοὶ δʼ ἴσαν εἴσω"
+    },
+    {
+      "n": 111,
+      "greek": "ἡδὺ γελώοντες καὶ δεικανόωντʼ ἐπέεσσι·"
+    },
+    {
+      "n": 112,
+      "greek": "Ζεύς τοι δοίη, ξεῖνε, καὶ ἀθάνατοι θεοὶ ἄλλοι,"
+    },
+    {
+      "n": 113,
+      "greek": "ὅττι μάλιστʼ ἐθέλεις καί τοι φίλον ἔπλετο θυμῷ,"
+    },
+    {
+      "n": 114,
+      "greek": "ὃς τοῦτον τὸν ἄναλτον ἀλητεύειν ἀπέπαυσας"
+    },
+    {
+      "n": 115,
+      "greek": "ἐν δήμῳ· τάχα γάρ μιν ἀνάξομεν ἤπειρόνδε"
+    },
+    {
+      "n": 116,
+      "greek": "εἰς Ἔχετον βασιλῆα, βροτῶν δηλήμονα πάντων."
+    },
+    {
+      "n": 117,
+      "greek": "ὣς ἄρʼ ἔφαν, χαῖρεν δὲ κλεηδόνι δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 118,
+      "greek": "Ἀντίνοος δʼ ἄρα οἱ μεγάλην παρὰ γαστέρα θῆκεν,"
+    },
+    {
+      "n": 119,
+      "greek": "ἐμπλείην κνίσης τε καὶ αἵματος· Ἀμφίνομος δὲ"
+    },
+    {
+      "n": 120,
+      "greek": "ἄρτους ἐκ κανέοιο δύω παρέθηκεν ἀείρας"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "“Sit there now, and scare off swine and dogs, and do not thou be lord of strangers and beggars, miserable that thou art, lest haply thou meet with some worse thing to profit withal.” He spoke, and flung about his shoulders his miserable wallet, full of holes, and slung by a twisted cord."
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "Then back to the threshold he went and sat down; and the wooers went within, laughing merrily, and they greeted him, saying: “May Zeus grant thee, stranger, and the other immortal gods what thou desirest most, and the dearest wish of thy heart, seeing that thou hast made this insatiate fellow to cease from begging"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "in the land. For soon shall we take him to the mainland to King Echetus, the maimer of all men.” So they spoke, and goodly Odysseus was glad at the word of omen. And Antinous set before him the great paunch, filled with fat and blood, and Amphinomus"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "took up two loaves from the basket and set them before him, and pledged him in a cup of gold, and said: “Hail, Sir stranger; may happy fortune be thine in time to come, though now thou art the thrall of many sorrows.” Then Odysseus of many wiles answered him, and said:"
+    }
+  ]
+}

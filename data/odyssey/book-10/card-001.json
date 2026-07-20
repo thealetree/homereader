@@ -1,0 +1,129 @@
+{
+  "book": 10,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "Αἰολίην δʼ ἐς νῆσον ἀφικόμεθʼ· ἔνθα δʼ ἔναιεν"
+    },
+    {
+      "n": 2,
+      "greek": "Αἴολος Ἱπποτάδης, φίλος ἀθανάτοισι θεοῖσιν,"
+    },
+    {
+      "n": 3,
+      "greek": "πλωτῇ ἐνὶ νήσῳ· πᾶσαν δέ τέ μιν πέρι τεῖχος"
+    },
+    {
+      "n": 4,
+      "greek": "χάλκεον ἄρρηκτον, λισσὴ δʼ ἀναδέδρομε πέτρη."
+    },
+    {
+      "n": 5,
+      "greek": "τοῦ καὶ δώδεκα παῖδες ἐνὶ μεγάροις γεγάασιν,"
+    },
+    {
+      "n": 6,
+      "greek": "ἓξ μὲν θυγατέρες, ἓξ δʼ υἱέες ἡβώοντες·"
+    },
+    {
+      "n": 7,
+      "greek": "ἔνθʼ ὅ γε θυγατέρας πόρεν υἱάσιν εἶναι ἀκοίτις."
+    },
+    {
+      "n": 8,
+      "greek": "οἱ δʼ αἰεὶ παρὰ πατρὶ φίλῳ καὶ μητέρι κεδνῇ"
+    },
+    {
+      "n": 9,
+      "greek": "δαίνυνται, παρὰ δέ σφιν ὀνείατα μυρία κεῖται,"
+    },
+    {
+      "n": 10,
+      "greek": "κνισῆεν δέ τε δῶμα περιστεναχίζεται αὐλῇ"
+    },
+    {
+      "n": 11,
+      "greek": "ἤματα· νύκτας δʼ αὖτε παρʼ αἰδοίῃς ἀλόχοισιν"
+    },
+    {
+      "n": 12,
+      "greek": "εὕδουσʼ ἔν τε τάπησι καὶ ἐν τρητοῖσι λέχεσσι."
+    },
+    {
+      "n": 13,
+      "greek": "καὶ μὲν τῶν ἱκόμεσθα πόλιν καὶ δώματα καλά."
+    },
+    {
+      "n": 14,
+      "greek": "μῆνα δὲ πάντα φίλει με καὶ ἐξερέεινεν ἕκαστα,"
+    },
+    {
+      "n": 15,
+      "greek": "Ἴλιον Ἀργείων τε νέας καὶ νόστον Ἀχαιῶν·"
+    },
+    {
+      "n": 16,
+      "greek": "καὶ μὲν ἐγὼ τῷ πάντα κατὰ μοῖραν κατέλεξα."
+    },
+    {
+      "n": 17,
+      "greek": "ἀλλʼ ὅτε δὴ καὶ ἐγὼν ὁδὸν ᾔτεον ἠδʼ ἐκέλευον"
+    },
+    {
+      "n": 18,
+      "greek": "πεμπέμεν, οὐδέ τι κεῖνος ἀνήνατο, τεῦχε δὲ πομπήν."
+    },
+    {
+      "n": 19,
+      "greek": "δῶκε δέ μʼ ἐκδείρας ἀσκὸν βοὸς ἐννεώροιο,"
+    },
+    {
+      "n": 20,
+      "greek": "ἔνθα δὲ βυκτάων ἀνέμων κατέδησε κέλευθα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "“Then to the Aeolian isle we came, where dwelt Aeolus, son of Hippotas, dear to the immortal gods, in a floating island, and all around it is a wall of unbreakable bronze, and the cliff runs up sheer."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "Twelve children of his, too, there are in the halls, six daughters and six sturdy sons, and he gave his daughters to his sons to wife. These, then, feast continually by their dear father and good mother, and before them lies boundless good cheer."
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "And the house, filled with the savour of feasting, resounds all about even in the outer court by day, and by night again they sleep beside their chaste wives on blankets and on corded bedsteads. To their city, then, and fair palace did we come, and for a full month he made me welcome and questioned me about each thing,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "about Ilios, and the ships of the Argives, and the return of the Achaeans. And I told him all the tale in due order. But when I, on my part, asked him that I might depart and bade him send me on my way, he, too, denied me nothing, but furthered my sending. He gave me a wallet, made of the hide of an ox nine years old, which he flayed,"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "and therein he bound the paths of the blustering winds; for the son of Cronos had made him keeper of the winds, both to still and to rouse whatever one he will. And in my hollow ship he bound it fast with a bright cord of silver, that not a breath might escape, were it never so slight."
+    }
+  ]
+}

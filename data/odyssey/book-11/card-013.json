@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "τῷ δʼ ἄρα εἰσάμενος γαιήοχος ἐννοσίγαιος"
+    },
+    {
+      "n": 242,
+      "greek": "ἐν προχοῇς ποταμοῦ παρελέξατο δινήεντος·"
+    },
+    {
+      "n": 243,
+      "greek": "πορφύρεον δʼ ἄρα κῦμα περιστάθη, οὔρεϊ ἶσον,"
+    },
+    {
+      "n": 244,
+      "greek": "κυρτωθέν, κρύψεν δὲ θεὸν θνητήν τε γυναῖκα."
+    },
+    {
+      "n": 245,
+      "greek": "λῦσε δὲ παρθενίην ζώνην, κατὰ δʼ ὕπνον ἔχευεν."
+    },
+    {
+      "n": 246,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐτέλεσσε θεὸς φιλοτήσια ἔργα,"
+    },
+    {
+      "n": 247,
+      "greek": "ἔν τʼ ἄρα οἱ φῦ χειρί, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    },
+    {
+      "n": 248,
+      "greek": "χαῖρε, γύναι, φιλότητι· περιπλομένου δʼ ἐνιαυτοῦ"
+    },
+    {
+      "n": 249,
+      "greek": "τέξεις ἀγλαὰ τέκνα, ἐπεὶ οὐκ ἀποφώλιοι εὐναὶ"
+    },
+    {
+      "n": 250,
+      "greek": "ἀθανάτων· σὺ δὲ τοὺς κομέειν ἀτιταλλέμεναί τε."
+    },
+    {
+      "n": 251,
+      "greek": "νῦν δʼ ἔρχευ πρὸς δῶμα, καὶ ἴσχεο μηδʼ ὀνομήνῃς·"
+    },
+    {
+      "n": 252,
+      "greek": "αὐτὰρ ἐγώ τοί εἰμι Ποσειδάων ἐνοσίχθων."
+    },
+    {
+      "n": 253,
+      "greek": "ὣς εἰπὼν ὑπὸ πόντον ἐδύσετο κυμαίνοντα."
+    },
+    {
+      "n": 254,
+      "greek": "ἡ δʼ ὑποκυσαμένη Πελίην τέκε καὶ Νηλῆα,"
+    },
+    {
+      "n": 255,
+      "greek": "τὼ κρατερὼ θεράποντε Διὸς μεγάλοιο γενέσθην"
+    },
+    {
+      "n": 256,
+      "greek": "ἀμφοτέρω· Πελίης μὲν ἐν εὐρυχόρῳ Ἰαωλκῷ"
+    },
+    {
+      "n": 257,
+      "greek": "ναῖε πολύρρηνος, ὁ δʼ ἄρʼ ἐν Πύλῳ ἠμαθόεντι."
+    },
+    {
+      "n": 258,
+      "greek": "τοὺς δʼ ἑτέρους Κρηθῆι τέκεν βασίλεια γυναικῶν,"
+    },
+    {
+      "n": 259,
+      "greek": "Αἴσονά τʼ ἠδὲ Φέρητʼ Ἀμυθάονά θʼ ἱππιοχάρμην."
+    },
+    {
+      "n": 260,
+      "greek": "τὴν δὲ μετʼ Ἀντιόπην ἴδον, Ἀσωποῖο θύγατρα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "And he loosed her maiden girdle, and shed sleep upon her. But when the god had ended his work of love, he clasped her hand, and spoke, and addressed her: “‘Be glad, woman, in our love, and as the year goes on its course thou shalt bear glorious children, for not weak are the embraces"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "of a god. These do thou tend and rear. But now go to thy house, and hold thy peace, and tell no man; but know that I am Poseidon, the shaker of the earth.’ “So saying, he plunged beneath the surging sea. But she conceived and bore Pelias and Neleus,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "who both became strong servants of great Zeus; and Pelias dwelt in spacious Iolcus, and was rich in flocks, and the other dwelt in sandy Pylos. But her other children she, the queenly among women, bore to Cretheus, even Aeson, and Pheres, and Amythaon, who fought from chariots."
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "“And after her I saw Antiope, daughter of Asopus, who boasted that she had slept even in the arms of Zeus, and she bore two sons, Amphion and Zethus, who first established the seat of seven-gated Thebe, and fenced it in with walls, for they could not"
+    }
+  ]
+}

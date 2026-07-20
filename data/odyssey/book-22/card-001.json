@@ -1,0 +1,129 @@
+{
+  "book": 22,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "αὐτὰρ ὁ γυμνώθη ῥακέων πολύμητις Ὀδυσσεύς,"
+    },
+    {
+      "n": 2,
+      "greek": "ἆλτο δʼ ἐπὶ μέγαν οὐδόν, ἔχων βιὸν ἠδὲ φαρέτρην"
+    },
+    {
+      "n": 3,
+      "greek": "ἰῶν ἐμπλείην, ταχέας δʼ ἐκχεύατʼ ὀϊστοὺς"
+    },
+    {
+      "n": 4,
+      "greek": "αὐτοῦ πρόσθε ποδῶν, μετὰ δὲ μνηστῆρσιν ἔειπεν·"
+    },
+    {
+      "n": 5,
+      "greek": "οὗτος μὲν δὴ ἄεθλος ἀάατος ἐκτετέλεσται·"
+    },
+    {
+      "n": 6,
+      "greek": "νῦν αὖτε σκοπὸν ἄλλον, ὃν οὔ πώ τις βάλεν ἀνήρ,"
+    },
+    {
+      "n": 7,
+      "greek": "εἴσομαι, αἴ κε τύχωμι, πόρῃ δέ μοι εὖχος Ἀπόλλων."
+    },
+    {
+      "n": 8,
+      "greek": "ἦ καὶ ἐπʼ Ἀντινόῳ ἰθύνετο πικρὸν ὀϊστόν."
+    },
+    {
+      "n": 9,
+      "greek": "ἦ τοι ὁ καλὸν ἄλεισον ἀναιρήσεσθαι ἔμελλε,"
+    },
+    {
+      "n": 10,
+      "greek": "χρύσεον ἄμφωτον, καὶ δὴ μετὰ χερσὶν ἐνώμα,"
+    },
+    {
+      "n": 11,
+      "greek": "ὄφρα πίοι οἴνοιο· φόνος δέ οἱ οὐκ ἐνὶ θυμῷ"
+    },
+    {
+      "n": 12,
+      "greek": "μέμβλετο· τίς κʼ οἴοιτο μετʼ ἀνδράσι δαιτυμόνεσσι"
+    },
+    {
+      "n": 13,
+      "greek": "μοῦνον ἐνὶ πλεόνεσσι, καὶ εἰ μάλα καρτερὸς εἴη,"
+    },
+    {
+      "n": 14,
+      "greek": "οἷ τεύξειν θάνατόν τε κακὸν καὶ κῆρα μέλαιναν;"
+    },
+    {
+      "n": 15,
+      "greek": "τὸν δʼ Ὀδυσεὺς κατὰ λαιμὸν ἐπισχόμενος βάλεν ἰῷ,"
+    },
+    {
+      "n": 16,
+      "greek": "ἀντικρὺ δʼ ἁπαλοῖο διʼ αὐχένος ἤλυθʼ ἀκωκή."
+    },
+    {
+      "n": 17,
+      "greek": "ἐκλίνθη δʼ ἑτέρωσε, δέπας δέ οἱ ἔκπεσε χειρὸς"
+    },
+    {
+      "n": 18,
+      "greek": "βλημένου, αὐτίκα δʼ αὐλὸς ἀνὰ ῥῖνας παχὺς ἦλθεν"
+    },
+    {
+      "n": 19,
+      "greek": "αἵματος ἀνδρομέοιο· θοῶς δʼ ἀπὸ εἷο τράπεζαν"
+    },
+    {
+      "n": 20,
+      "greek": "ὦσε ποδὶ πλήξας, ἀπὸ δʼ εἴδατα χεῦεν ἔραζε·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "But Odysseus of many wiles stripped off his rags and sprang to the great threshold with the bow and the quiver full of arrows, and poured forth the swift arrows right there before his feet, and spoke among the wooers:"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "“Lo, now at last is this decisive contest ended; and now as for another mark, which till now no man has ever smitten, I will know if haply I may strike it, and Apollo grant me glory.” He spoke, and aimed a bitter arrow at Antinous. Now he was on the point of raising to his lips a fair goblet,"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "a two-eared cup of gold, and was even now handling it, that he might drink of the wine, and death was not in his thoughts. For who among men that sat at meat could think that one man among many, how strong soever he were, would bring upon himself evil death and black fate?"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "But Odysseus took aim, and smote him with an arrow in the throat, and clean out through the tender neck passed the point; he sank to one side, and the cup fell from his hand as he was smitten, and straightway up through his nostrils there came a thick jet of the blood of man; and quickly"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "he thrust the table from him with a kick of his foot, and spilled all the food on the floor, and the bread and roast flesh were befouled. Then into uproar broke the wooers through the halls, as they saw the man fallen, and from their high seats they sprang, driven in fear through the hall, gazing everywhere along the well-built walls;"
+    }
+  ]
+}

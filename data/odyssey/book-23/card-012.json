@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 12,
+  "lineStart": 222,
+  "lineEnd": 241,
+  "lines": [
+    {
+      "n": 222,
+      "greek": "τὴν δʼ ἦ τοι ῥέξαι θεὸς ὤρορεν ἔργον ἀεικές·"
+    },
+    {
+      "n": 223,
+      "greek": "τὴν δʼ ἄτην οὐ πρόσθεν ἑῷ ἐγκάτθετο θυμῷ"
+    },
+    {
+      "n": 224,
+      "greek": "λυγρήν, ἐξ ἧς πρῶτα καὶ ἡμέας ἵκετο πένθος."
+    },
+    {
+      "n": 225,
+      "greek": "νῦν δʼ, ἐπεὶ ἤδη σήματʼ ἀριφραδέα κατέλεξας"
+    },
+    {
+      "n": 226,
+      "greek": "εὐνῆς ἡμετέρης, ἣν οὐ βροτὸς ἄλλος ὀπώπει,"
+    },
+    {
+      "n": 227,
+      "greek": "ἀλλʼ οἶοι σύ τʼ ἐγώ τε καὶ ἀμφίπολος μία μούνη,"
+    },
+    {
+      "n": 228,
+      "greek": "Ἀκτορίς, ἥν μοι δῶκε πατὴρ ἔτι δεῦρο κιούσῃ,"
+    },
+    {
+      "n": 229,
+      "greek": "ἣ νῶϊν εἴρυτο θύρας πυκινοῦ θαλάμοιο,"
+    },
+    {
+      "n": 230,
+      "greek": "πείθεις δή μευ θυμόν, ἀπηνέα περ μάλʼ ἐόντα."
+    },
+    {
+      "n": 231,
+      "greek": "ὣς φάτο, τῷ δʼ ἔτι μᾶλλον ὑφʼ ἵμερον ὦρσε γόοιο·"
+    },
+    {
+      "n": 232,
+      "greek": "κλαῖε δʼ ἔχων ἄλοχον θυμαρέα, κεδνὰ ἰδυῖαν."
+    },
+    {
+      "n": 233,
+      "greek": "ὡς δʼ ὅτʼ ἂν ἀσπάσιος γῆ νηχομένοισι φανήῃ,"
+    },
+    {
+      "n": 234,
+      "greek": "ὧν τε Ποσειδάων εὐεργέα νῆʼ ἐνὶ πόντῳ"
+    },
+    {
+      "n": 235,
+      "greek": "ῥαίσῃ, ἐπειγομένην ἀνέμῳ καὶ κύματι πηγῷ·"
+    },
+    {
+      "n": 236,
+      "greek": "παῦροι δʼ ἐξέφυγον πολιῆς ἁλὸς ἤπειρόνδε"
+    },
+    {
+      "n": 237,
+      "greek": "νηχόμενοι, πολλὴ δὲ περὶ χροῒ τέτροφεν ἅλμη,"
+    },
+    {
+      "n": 238,
+      "greek": "ἀσπάσιοι δʼ ἐπέβαν γαίης, κακότητα φυγόντες·"
+    },
+    {
+      "n": 239,
+      "greek": "ὣς ἄρα τῇ ἀσπαστὸς ἔην πόσις εἰσοροώσῃ,"
+    },
+    {
+      "n": 240,
+      "greek": "δειρῆς δʼ οὔ πω πάμπαν ἀφίετο πήχεε λευκώ."
+    },
+    {
+      "n": 241,
+      "greek": "καί νύ κʼ ὀδυρομένοισι φάνη ῥοδοδάκτυλος Ἠώς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "But now, since thou hast told the clear tokens of our bed, which no mortal beside has ever seen save thee and me alone and one single handmaid, the daughter of Actor, whom my father gave me or ever I came hither, even her who kept the doors of our strong bridal chamber,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "lo, thou dost convince my heart, unbending as it is.” So she spoke, and in his heart aroused yet more the desire for lamentation; and he wept, holding in his arms his dear and true-hearted wife. And welcome as is the sight of land to men that swim, whose well-built ship Poseidon"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "has smitten on the sea as it was driven on by the wind and the swollen wave, and but few have made their escape from the gray sea to the shore by swimming, and thickly are their bodies crusted with brine, and gladly have they set foot on the land and escaped from their evil case; even so welcome to her was her husband, as she gazed upon him,"
+    },
+    {
+      "lines": [
+        240,
+        241
+      ],
+      "text": "and from his neck she could in no wise let her white arms go. And now would the rosy-fingered Dawn have arisen upon their weeping, had not the goddess, flashing-eyed Athena, taken other counsel. The long night she held back at the end of its course, and likewise stayed the golden-throned Dawn at the streams of Oceanus, and would not suffer her"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 29,
+  "lineStart": 561,
+  "lineEnd": 580,
+  "lines": [
+    {
+      "n": 561,
+      "greek": "Εὔμαιʼ, αἶψά κʼ ἐγὼ νημερτέα πάντʼ ἐνέποιμι"
+    },
+    {
+      "n": 562,
+      "greek": "κούρῃ Ἰκαρίοιο, περίφρονι Πηνελοπείῃ·"
+    },
+    {
+      "n": 563,
+      "greek": "οἶδα γὰρ εὖ περὶ κείνου, ὁμὴν δʼ ἀνεδέγμεθʼ ὀϊζύν."
+    },
+    {
+      "n": 564,
+      "greek": "ἀλλὰ μνηστήρων χαλεπῶν ὑποδείδιʼ ὅμιλον,"
+    },
+    {
+      "n": 565,
+      "greek": "τῶν ὕβρις τε βίη τε σιδήρεον οὐρανὸν ἵκει."
+    },
+    {
+      "n": 566,
+      "greek": "καὶ γὰρ νῦν, ὅτε μʼ οὗτος ἀνὴρ κατὰ δῶμα κιόντα"
+    },
+    {
+      "n": 567,
+      "greek": "οὔ τι κακὸν ῥέξαντα βαλὼν ὀδύνῃσιν ἔδωκεν,"
+    },
+    {
+      "n": 568,
+      "greek": "οὔτε τι Τηλέμαχος τό γʼ ἐπήρκεσεν οὔτε τις ἄλλος."
+    },
+    {
+      "n": 569,
+      "greek": "τῷ νῦν Πηνελόπειαν ἐνὶ μεγάροισιν ἄνωχθι"
+    },
+    {
+      "n": 570,
+      "greek": "μεῖναι, ἐπειγομένην περ, ἐς ἠέλιον καταδύντα·"
+    },
+    {
+      "n": 571,
+      "greek": "καὶ τότε μʼ εἰρέσθω πόσιος πέρι νόστιμον ἦμαρ,"
+    },
+    {
+      "n": 572,
+      "greek": "ἀσσοτέρω καθίσασα παραὶ πυρί· εἵματα γάρ τοι"
+    },
+    {
+      "n": 573,
+      "greek": "λύγρʼ ἔχω· οἶσθα καὶ αὐτός, ἐπεί σε πρῶθʼ ἱκέτευσα."
+    },
+    {
+      "n": 574,
+      "greek": "ὣς φάτο, βῆ δὲ συφορβός, ἐπεὶ τὸν μῦθον ἄκουσε."
+    },
+    {
+      "n": 575,
+      "greek": "τὸν δʼ ὑπὲρ οὐδοῦ βάντα προσηύδα Πηνελόπεια·"
+    },
+    {
+      "n": 576,
+      "greek": "οὐ σύ γʼ ἄγεις, Εὔμαιε· τί τοῦτʼ ἐνόησεν ἀλήτης;"
+    },
+    {
+      "n": 577,
+      "greek": "ἦ τινά που δείσας ἐξαίσιον ἦε καὶ ἄλλως"
+    },
+    {
+      "n": 578,
+      "greek": "αἰδεῖται κατὰ δῶμα; κακὸς δʼ αἰδοῖος ἀλήτης."
+    },
+    {
+      "n": 579,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 580,
+      "greek": "μυθεῖται κατὰ μοῖραν, ἅ πέρ κʼ οἴοιτο καὶ ἄλλος,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        565,
+        569
+      ],
+      "text": "whose wantonness and violence reach the iron heaven. For even now, when, as I was going through the hall doing no evil, this man struck me and hurt me, neither Telemachus nor any other did aught to ward off the blow. Wherefore now bid Penelope"
+    },
+    {
+      "lines": [
+        570,
+        574
+      ],
+      "text": "to wait in the halls, eager though she be, till set of sun; and then let her ask me of her husband regarding the day of his return, giving me a seat nearer the fire, for lo, the raiment that I wear is mean, and this thou knowest of thyself, for to thee first did I make my prayer.” So he spoke, and the swineherd went when he had heard this saying."
+    },
+    {
+      "lines": [
+        575,
+        579
+      ],
+      "text": "And as he passed over the threshold Penelope said to him: “Thou dost not bring him, Eumaeus. What does the wanderer mean by this? Does he fear some one beyond measure, or does he idly feel ashamed in the house? 'Tis ill for a beggar to feel shame.” To her, then, swineherd Eumaeus, didst thou make answer and say:"
+    },
+    {
+      "lines": [
+        580,
+        580
+      ],
+      "text": "“He speaks rightly, even as any other man would deem, in seeking to shun the insolence of overweening men. But he bids thee to wait till set of sun. And for thyself, too, it is far more seemly, O queen, to speak to the stranger alone, and to hear his words.”"
+    }
+  ]
+}

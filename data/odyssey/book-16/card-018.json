@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 18,
+  "lineStart": 342,
+  "lineEnd": 361,
+  "lines": [
+    {
+      "n": 342,
+      "greek": "μνηστῆρες δʼ ἀκάχοντο κατήφησάν τʼ ἐνὶ θυμῷ,"
+    },
+    {
+      "n": 343,
+      "greek": "ἐκ δʼ ἦλθον μεγάροιο παρὲκ μέγα τειχίον αὐλῆς,"
+    },
+    {
+      "n": 344,
+      "greek": "αὐτοῦ δὲ προπάροιθε θυράων ἑδριόωντο."
+    },
+    {
+      "n": 345,
+      "greek": "τοῖσιν δʼ Εὐρύμαχος, Πολύβου πάϊς, ἦρχʼ ἀγορεύειν·"
+    },
+    {
+      "n": 346,
+      "greek": "ὦ φίλοι, ἦ μέγα ἔργον ὑπερφιάλως τετέλεσται"
+    },
+    {
+      "n": 347,
+      "greek": "Τηλεμάχῳ ὁδὸς ἥδε· φάμεν δέ οἱ οὐ τελέεσθαι."
+    },
+    {
+      "n": 348,
+      "greek": "ἀλλʼ ἄγε νῆα μέλαιναν ἐρύσσομεν ἥ τις ἀρίστη,"
+    },
+    {
+      "n": 349,
+      "greek": "ἐς δʼ ἐρέτας ἁλιῆας ἀγείρομεν, οἵ κε τάχιστα"
+    },
+    {
+      "n": 350,
+      "greek": "κείνοις ἀγγείλωσι θοῶς οἶκόνδε νέεσθαι."
+    },
+    {
+      "n": 351,
+      "greek": "οὔ πω πᾶν εἴρηθʼ, ὅτʼ ἄρʼ Ἀμφίνομος ἴδε νῆα,"
+    },
+    {
+      "n": 352,
+      "greek": "στρεφθεὶς ἐκ χώρης, λιμένος πολυβενθέος ἐντός,"
+    },
+    {
+      "n": 353,
+      "greek": "ἱστία τε στέλλοντας ἐρετμά τε χερσὶν ἔχοντας."
+    },
+    {
+      "n": 354,
+      "greek": "ἡδὺ δʼ ἄρʼ ἐκγελάσας μετεφώνεεν οἷς ἑτάροισι·"
+    },
+    {
+      "n": 355,
+      "greek": "μή τινʼ ἔτʼ ἀγγελίην ὀτρύνομεν· οἵδε γὰρ ἔνδον."
+    },
+    {
+      "n": 356,
+      "greek": "ἤ τίς σφιν τόδʼ ἔειπε θεῶν, ἢ εἴσιδον αὐτοὶ"
+    },
+    {
+      "n": 357,
+      "greek": "νῆα παρερχομένην, τὴν δʼ οὐκ ἐδύναντο κιχῆναι."
+    },
+    {
+      "n": 358,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἀνστάντες ἔβαν ἐπὶ θῖνα θαλάσσης,"
+    },
+    {
+      "n": 359,
+      "greek": "αἶψα δὲ νῆα μέλαιναν ἐπʼ ἠπείροιο ἔρυσσαν,"
+    },
+    {
+      "n": 360,
+      "greek": "τεύχεα δέ σφʼ ἀπένεικαν ὑπέρθυμοι θεράποντες."
+    },
+    {
+      "n": 361,
+      "greek": "αὐτοὶ δʼ εἰς ἀγορὴν κίον ἀθρόοι, οὐδέ τινʼ ἄλλον"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "Then among them Eurymachus, son of Polybus, was the first to speak: “My friends, verily a great deed has been insolently brought to pass by Telemachus, even this journey, and we deemed that he would never see it accomplished. But come, let us launch a black ship, the best we have, and let us get together seamen as rowers that they may straightway"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "bear tidings to those others speedily to return home.” Not yet was the word fully uttered when Amphinomus, turning in his place, saw a ship in the deep harbor and men furling the sail, and with oars in their hands. Then, breaking into a merry laugh, he spoke among his comrades:"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "“Let us not be sending a message any more, for here they are at home. Either some god told them of this, or they themselves caught sight of the ship of Telemachus as she sailed by, but could not catch her.” So he spoke, and they rose up and went to the shore of the sea. Swiftly the men drew up the black ship on the shore,"
+    },
+    {
+      "lines": [
+        360,
+        361
+      ],
+      "text": "and proud squires bore forth their armour. Themselves meanwhile went all together to the place of assembly, and none other would they suffer to sit with them, either of the young men or the old. Then among them spoke Antinous, son of Eupeithes: “Lo, now, see how the gods have delivered this man from destruction."
+    }
+  ]
+}

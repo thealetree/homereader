@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "ὅς τις δὴ μάλα πολλὰ πάθῃ καὶ πόλλʼ ἐπαληθῇ."
+    },
+    {
+      "n": 402,
+      "greek": "τοῦτο δέ τοι ἐρέω ὅ μʼ ἀνείρεαι ἠδὲ μεταλλᾷς."
+    },
+    {
+      "n": 403,
+      "greek": "νῆσός τις Συρίη κικλήσκεται, εἴ που ἀκούεις,"
+    },
+    {
+      "n": 404,
+      "greek": "Ὀρτυγίης καθύπερθεν, ὅθι τροπαὶ ἠελίοιο,"
+    },
+    {
+      "n": 405,
+      "greek": "οὔ τι περιπληθὴς λίην τόσον, ἀλλʼ ἀγαθὴ μέν,"
+    },
+    {
+      "n": 406,
+      "greek": "εὔβοτος, εὔμηλος, οἰνοπληθής, πολύπυρος."
+    },
+    {
+      "n": 407,
+      "greek": "πείνη δʼ οὔ ποτε δῆμον ἐσέρχεται, οὐδέ τις ἄλλη"
+    },
+    {
+      "n": 408,
+      "greek": "νοῦσος ἐπὶ στυγερὴ πέλεται δειλοῖσι βροτοῖσιν·"
+    },
+    {
+      "n": 409,
+      "greek": "ἀλλʼ ὅτε γηράσκωσι πόλιν κάτα φῦλʼ ἀνθρώπων,"
+    },
+    {
+      "n": 410,
+      "greek": "ἐλθὼν ἀργυρότοξος Ἀπόλλων Ἀρτέμιδι ξὺν"
+    },
+    {
+      "n": 411,
+      "greek": "οἷς ἀγανοῖς βελέεσσιν ἐποιχόμενος κατέπεφνεν."
+    },
+    {
+      "n": 412,
+      "greek": "ἔνθα δύω πόλιες, δίχα δέ σφισι πάντα δέδασται·"
+    },
+    {
+      "n": 413,
+      "greek": "τῇσιν δʼ ἀμφοτέρῃσι πατὴρ ἐμὸς ἐμβασίλευε,"
+    },
+    {
+      "n": 414,
+      "greek": "Κτήσιος Ὀρμενίδης, ἐπιείκελος ἀθανάτοισιν."
+    },
+    {
+      "n": 415,
+      "greek": "ἔνθα δὲ Φοίνικες ναυσίκλυτοι ἤλυθον ἄνδρες,"
+    },
+    {
+      "n": 416,
+      "greek": "τρῶκται, μυρίʼ ἄγοντες ἀθύρματα νηῒ μελαίνῃ."
+    },
+    {
+      "n": 417,
+      "greek": "ἔσκε δὲ πατρὸς ἐμοῖο γυνὴ Φοίνισσʼ ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 418,
+      "greek": "καλή τε μεγάλη τε καὶ ἀγλαὰ ἔργα ἰδυῖα·"
+    },
+    {
+      "n": 419,
+      "greek": "τὴν δʼ ἄρα Φοίνικες πολυπαίπαλοι ἠπερόπευον."
+    },
+    {
+      "n": 420,
+      "greek": "πλυνούσῃ τις πρῶτα μίγη κοίλῃ παρὰ νηῒ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "It is not so very thickly settled, but it is a good land, rich in herds, rich in flocks, full of wine, abounding in wheat. Famine never comes into the land, nor does any hateful sickness besides fall on wretched mortals; but when the tribes of men grow old throughout the city,"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "Apollo, of the silver bow, comes with Artemis, and assails them with his gentle shafts, and slays them. In that isle are two cities, and all the land is divided between them, and over both ruled as king my father, Ctesius, son of Ormenus, a man like to the immortals."
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "“Thither came Phoenicians, men famed for their ships, greedy knaves, bringing countless trinkets in their black ship. Now there was in my father's house a Phoenician woman, comely and tall, and skilled in glorious handiwork. Her the wily Phoenicians beguiled."
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "First, as she was washing clothes, one of them lay with her in love by the hollow ship; for this beguiles the minds of women, even though one be upright. Then he asked her who she was, and whence she came, and she straightway shewed him the high-roofed home of my father, and said:"
+    }
+  ]
+}

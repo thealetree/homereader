@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ἀλλὰ τὰ μέν που μέλλεν ἀγάσσεσθαι θεὸς αὐτός,"
+    },
+    {
+      "n": 182,
+      "greek": "ὃς κεῖνον δύστηνον ἀνόστιμον οἶον ἔθηκεν."
+    },
+    {
+      "n": 183,
+      "greek": "ὣς φάτο, τοῖσι δὲ πᾶσιν ὑφʼ ἵμερον ὦρσε γόοιο."
+    },
+    {
+      "n": 184,
+      "greek": "κλαῖε μὲν Ἀργείη Ἑλένη, Διὸς ἐκγεγαυῖα,"
+    },
+    {
+      "n": 185,
+      "greek": "κλαῖε δὲ Τηλέμαχός τε καὶ Ἀτρεΐδης Μενέλαος,"
+    },
+    {
+      "n": 186,
+      "greek": "οὐδʼ ἄρα Νέστορος υἱὸς ἀδακρύτω ἔχεν ὄσσε·"
+    },
+    {
+      "n": 187,
+      "greek": "μνήσατο γὰρ κατὰ θυμὸν ἀμύμονος Ἀντιλόχοιο,"
+    },
+    {
+      "n": 188,
+      "greek": "τόν ῥʼ Ἠοῦς ἔκτεινε φαεινῆς ἀγλαὸς υἱός·"
+    },
+    {
+      "n": 189,
+      "greek": "τοῦ ὅ γʼ ἐπιμνησθεὶς ἔπεα πτερόεντʼ ἀγόρευεν·"
+    },
+    {
+      "n": 190,
+      "greek": "Ἀτρεΐδη, περὶ μέν σε βροτῶν πεπνυμένον εἶναι"
+    },
+    {
+      "n": 191,
+      "greek": "Νέστωρ φάσχʼ ὁ γέρων, ὅτʼ ἐπιμνησαίμεθα σεῖο"
+    },
+    {
+      "n": 192,
+      "greek": "οἷσιν ἐνὶ μεγάροισι, καὶ ἀλλήλους ἐρέοιμεν."
+    },
+    {
+      "n": 193,
+      "greek": "καὶ νῦν, εἴ τί που ἔστι, πίθοιό μοι· οὐ γὰρ ἐγώ γε"
+    },
+    {
+      "n": 194,
+      "greek": "τέρπομʼ ὀδυρόμενος μεταδόρπιος, ἀλλὰ καὶ ἠὼς"
+    },
+    {
+      "n": 195,
+      "greek": "ἔσσεται ἠριγένεια· νεμεσσῶμαί γε μὲν οὐδὲν"
+    },
+    {
+      "n": 196,
+      "greek": "κλαίειν ὅς κε θάνῃσι βροτῶν καὶ πότμον ἐπίσπῃ."
+    },
+    {
+      "n": 197,
+      "greek": "τοῦτό νυ καὶ γέρας οἶον ὀιζυροῖσι βροτοῖσιν,"
+    },
+    {
+      "n": 198,
+      "greek": "κείρασθαί τε κόμην βαλέειν τʼ ἀπὸ δάκρυ παρειῶν."
+    },
+    {
+      "n": 199,
+      "greek": "καὶ γὰρ ἐμὸς τέθνηκεν ἀδελφεός, οὔ τι κάκιστος"
+    },
+    {
+      "n": 200,
+      "greek": "Ἀργείων· μέλλεις δὲ σὺ ἴδμεναι· οὐ γὰρ ἐγώ γε"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "Telemachus wept, and Menelaus, son of Atreus, nor could the son of Nestor keep his eyes tearless. For he thought in his heart of peerless Antilochus, whom the glorious son of the bright Dawn had slain. Thinking of him, he spoke winged words:"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "“Son of Atreus, old Nestor used ever to say that thou wast wise above all men, whenever we made mention of thee in his halls and questioned one another. And now, if it may in any wise be, hearken to me, for I take no joy in weeping at supper time,—and moreover"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "early dawn will soon be here. I count it indeed no blame to weep for any mortal who has died and met his fate. Yea, this is the only due we pay to miserable mortals, to cut the hair and let a tear fall from the cheeks. For a brother of mine, too, is dead, nowise the meanest"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "of the Argives, and thou mayest well have known him. As for me, I never met him nor saw him; but men say that Antilochus was above all others pre-eminent in speed of foot and as a warrior.” Then fair-haired Menelaus answered him and said: “My friend, truly thou hast said all that a wise man"
+    }
+  ]
+}

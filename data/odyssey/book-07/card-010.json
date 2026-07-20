@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "σπείσομεν, ὅς θʼ ἱκέτῃσιν ἅμʼ αἰδοίοισιν ὀπηδεῖ."
+    },
+    {
+      "n": 182,
+      "greek": "ὣς φάτο, Ποντόνοος δὲ μελίφρονα οἶνον ἐκίρνα,"
+    },
+    {
+      "n": 183,
+      "greek": "νώμησεν δʼ ἄρα πᾶσιν ἐπαρξάμενος δεπάεσσιν."
+    },
+    {
+      "n": 184,
+      "greek": "αὐτὰρ ἐπεὶ σπεῖσάν τʼ ἔπιόν θʼ, ὅσον ἤθελε θυμός,"
+    },
+    {
+      "n": 185,
+      "greek": "τοῖσιν δʼ Ἀλκίνοος ἀγορήσατο καὶ μετέειπε·"
+    },
+    {
+      "n": 186,
+      "greek": "κέκλυτε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες"
+    },
+    {
+      "n": 187,
+      "greek": "ὄφρʼ εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει."
+    },
+    {
+      "n": 188,
+      "greek": "νῦν μὲν δαισάμενοι κατακείετε οἴκαδʼ ἰόντες·"
+    },
+    {
+      "n": 189,
+      "greek": "ἠῶθεν δὲ γέροντας ἐπὶ πλέονας καλέσαντες"
+    },
+    {
+      "n": 190,
+      "greek": "ξεῖνον ἐνὶ μεγάροις ξεινίσσομεν ἠδὲ θεοῖσιν"
+    },
+    {
+      "n": 191,
+      "greek": "ῥέξομεν ἱερὰ καλά, ἔπειτα δὲ καὶ περὶ πομπῆς"
+    },
+    {
+      "n": 192,
+      "greek": "μνησόμεθʼ, ὥς χʼ ὁ ξεῖνος ἄνευθε πόνου καὶ ἀνίης"
+    },
+    {
+      "n": 193,
+      "greek": "πομπῇ ὑφʼ ἡμετέρῃ ἣν πατρίδα γαῖαν ἵκηται"
+    },
+    {
+      "n": 194,
+      "greek": "χαίρων καρπαλίμως, εἰ καὶ μάλα τηλόθεν ἐστί,"
+    },
+    {
+      "n": 195,
+      "greek": "μηδέ τι μεσσηγύς γε κακὸν καὶ πῆμα πάθῃσι,"
+    },
+    {
+      "n": 196,
+      "greek": "πρίν γε τὸν ἧς γαίης ἐπιβήμεναι· ἔνθα δʼ ἔπειτα"
+    },
+    {
+      "n": 197,
+      "greek": "πείσεται, ἅσσα οἱ αἶσα κατὰ κλῶθές τε βαρεῖαι"
+    },
+    {
+      "n": 198,
+      "greek": "γιγνομένῳ νήσαντο λίνῳ, ὅτε μιν τέκε μήτηρ."
+    },
+    {
+      "n": 199,
+      "greek": "εἰ δέ τις ἀθανάτων γε κατʼ οὐρανοῦ εἰλήλουθεν,"
+    },
+    {
+      "n": 200,
+      "greek": "ἄλλο τι δὴ τόδʼ ἔπειτα θεοὶ περιμηχανόωνται."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "Alcinous addressed the assembly, and spoke among them: “Hearken to me, leaders and counsellors of the Phaeacians, that I may say what the heart in my breast bids me. Now that ye have finished your feast, go each of you to his house to rest. But in the morning we will call more of the elders together,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "and will entertain the stranger in our halls and offer goodly victims to the gods. After that we will take thought also of his sending, that without toil or pain yon stranger may under our sending, come to his native land speedily and with rejoicing, though he come from never so far."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "Nor shall he meanwhile suffer any evil or harm, until he sets foot upon his own land; but thereafter he shall suffer whatever Fate and the dread Spinners spun with their thread for him at his birth, when his mother bore him. But if he is one of the immortals come down from heaven,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "then is this some new thing which the gods are planning; for ever heretofore have they been wont to appear to us in manifest form, when we sacrifice to them glorious hecatombs, and they feast among us, sitting even where we sit. Aye, and if one of us as a lone wayfarer meets them,"
+    }
+  ]
+}

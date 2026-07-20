@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 540,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "οὔτε θεῶν μακάρων οὔτε θνητῶν ἀνθρώπων."
+    },
+    {
+      "n": 522,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 523,
+      "greek": "αἲ γὰρ δὴ ψυχῆς τε καὶ αἰῶνός σε δυναίμην"
+    },
+    {
+      "n": 524,
+      "greek": "εὖνιν ποιήσας πέμψαι δόμον Ἄϊδος εἴσω,"
+    },
+    {
+      "n": 525,
+      "greek": "ὡς οὐκ ὀφθαλμόν γʼ ἰήσεται οὐδʼ ἐνοσίχθων."
+    },
+    {
+      "n": 526,
+      "greek": "ὣς ἐφάμην, ὁ δʼ ἔπειτα Ποσειδάωνι ἄνακτι"
+    },
+    {
+      "n": 527,
+      "greek": "εὔχετο χεῖρʼ ὀρέγων εἰς οὐρανὸν ἀστερόεντα·"
+    },
+    {
+      "n": 528,
+      "greek": "κλῦθι, Ποσείδαον γαιήοχε κυανοχαῖτα,"
+    },
+    {
+      "n": 529,
+      "greek": "εἰ ἐτεόν γε σός εἰμι, πατὴρ δʼ ἐμὸς εὔχεαι εἶναι,"
+    },
+    {
+      "n": 530,
+      "greek": "δὸς μὴ Ὀδυσσῆα πτολιπόρθιον οἴκαδʼ ἱκέσθαι"
+    },
+    {
+      "n": 531,
+      "greek": "υἱὸν Λαέρτεω, Ἰθάκῃ ἔνι οἰκίʼ ἔχοντα."
+    },
+    {
+      "n": 532,
+      "greek": "ἀλλʼ εἴ οἱ μοῖρʼ ἐστὶ φίλους τʼ ἰδέειν καὶ ἱκέσθαι"
+    },
+    {
+      "n": 533,
+      "greek": "οἶκον ἐυκτίμενον καὶ ἑὴν ἐς πατρίδα γαῖαν,"
+    },
+    {
+      "n": 534,
+      "greek": "ὀψὲ κακῶς ἔλθοι, ὀλέσας ἄπο πάντας ἑταίρους,"
+    },
+    {
+      "n": 535,
+      "greek": "νηὸς ἐπʼ ἀλλοτρίης, εὕροι δʼ ἐν πήματα οἴκῳ."
+    },
+    {
+      "n": 536,
+      "greek": "ὣς ἔφατʼ εὐχόμενος, τοῦ δʼ ἔκλυε κυανοχαίτης."
+    },
+    {
+      "n": 537,
+      "greek": "αὐτὰρ ὅ γʼ ἐξαῦτις πολὺ μείζονα λᾶαν ἀείρας"
+    },
+    {
+      "n": 538,
+      "greek": "ἧκʼ ἐπιδινήσας, ἐπέρεισε δὲ ἶνʼ ἀπέλεθρον,"
+    },
+    {
+      "n": 539,
+      "greek": "κὰδʼ δʼ ἔβαλεν μετόπισθε νεὸς κυανοπρῴροιο"
+    },
+    {
+      "n": 540,
+      "greek": "τυτθόν, ἐδεύησεν δʼ οἰήιον ἄκρον ἱκέσθαι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "as surely as not even the Earth-shaker shall heal thine eye.’ “So I spoke, and he then prayed to the lord Poseidon, stretching out both his hands to the starry heaven: ‘Hear me, Poseidon, earth-enfolder, thou dark-haired god, if indeed I am thy son and thou declarest thyself my father;"
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "grant that Odysseus, the sacker of cities, may never reach his home, even the son of Laertes, whose home is in Ithaca; but if it is his fate to see his friends and to reach his well-built house and his native land, late may he come and in evil case, after losing all his comrades,"
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "in a ship that is another's; and may he find woes in his house.’ “So he spoke in prayer, and the dark-haired god heard him. But the Cyclops lifted on high again a far greater stone, and swung and hurled it, putting into the throw measureless strength. He cast it"
+    },
+    {
+      "lines": [
+        540,
+        540
+      ],
+      "text": "a little behind the dark-prowed ship, and barely missed the end of the steering-oar. And the sea surged beneath the stone as it fell, and the wave bore the ship onward and drove it to the shore. “Now when we had come to the island, where our other well-benched ships lay all together, and round about them our comrades,"
+    }
+  ]
+}

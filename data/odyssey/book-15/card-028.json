@@ -1,0 +1,103 @@
+{
+  "book": 15,
+  "card": 28,
+  "lineStart": 541,
+  "lineEnd": 557,
+  "lines": [
+    {
+      "n": 541,
+      "greek": "πείθῃ ἐμῶν ἑτάρων, οἵ μοι Πύλον εἰς ἅμʼ ἕποντο·"
+    },
+    {
+      "n": 542,
+      "greek": "καὶ νῦν μοι τὸν ξεῖνον ἄγων ἐν δώμασι σοῖσιν"
+    },
+    {
+      "n": 543,
+      "greek": "ἐνδυκέως φιλέειν καὶ τιέμεν, εἰς ὅ κεν ἔλθω."
+    },
+    {
+      "n": 544,
+      "greek": "τὸν δʼ αὖ Πείραιος δουρικλυτὸς ἀντίον ηὔδα·"
+    },
+    {
+      "n": 545,
+      "greek": "Τηλέμαχʼ, εἰ γάρ κεν σὺ πολὺν χρόνον ἐνθάδε μίμνοι,"
+    },
+    {
+      "n": 546,
+      "greek": "τόνδε τʼ ἐγὼ κομιῶ, ξενίων δέ οἱ οὐ ποθὴ ἔσται."
+    },
+    {
+      "n": 547,
+      "greek": "ὣς εἰπὼν ἐπὶ νηὸς ἔβη, ἐκέλευσε δʼ ἑταίρους"
+    },
+    {
+      "n": 548,
+      "greek": "αὐτούς τʼ ἀμβαίνειν ἀνά τε πρυμνήσια λῦσαι."
+    },
+    {
+      "n": 549,
+      "greek": "οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῗσι καθῖζον."
+    },
+    {
+      "n": 550,
+      "greek": "Τηλέμαχος δʼ ὑπὸ ποσσὶν ἐδήσατο καλὰ πέδιλα,"
+    },
+    {
+      "n": 551,
+      "greek": "εἵλετο δʼ ἄλκιμον ἔγχος, ἀκαχμένον ὀξέϊ χαλκῷ,"
+    },
+    {
+      "n": 552,
+      "greek": "νηὸς ἀπʼ ἰκριόφιν· τοὶ δὲ πρυμνήσιʼ ἔλυσαν."
+    },
+    {
+      "n": 553,
+      "greek": "οἱ μὲν ἀνώσαντες πλέον ἐς πόλιν, ὡς ἐκέλευσε"
+    },
+    {
+      "n": 554,
+      "greek": "Τηλέμαχος, φίλος υἱὸς Ὀδυσσῆος θείοιο·"
+    },
+    {
+      "n": 555,
+      "greek": "τὸν δʼ ὦκα προβιβάντα πόδες φέρον, ὄφρʼ ἵκετʼ αὐλήν,"
+    },
+    {
+      "n": 556,
+      "greek": "ἔνθα οἱ ἦσαν ὕες μάλα μυρίαι, ᾗσι συβώτης"
+    },
+    {
+      "n": 557,
+      "greek": "ἐσθλὸς ἐὼν ἐνίαυεν, ἀνάκτεσιν ἤπια εἰδώς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        549
+      ],
+      "text": "Then Peiraeus, the famous spearman, answered him: “Telemachus, though thou shouldest stay here long, I will entertain him, and he shall have no lack of what is due to strangers.” So saying, he went on board the ship, and bade his comrades themselves to embark and to loose the stern cables. So they went on board straightway, and sat down upon the benches."
+    },
+    {
+      "lines": [
+        550,
+        554
+      ],
+      "text": "But Telemachus bound beneath his feet his fair sandals, and took his mighty spear, tipped with sharp bronze, from the deck of the ship. Then the men loosed the stern cables, and thrusting off, sailed to the city, as Telemachus bade, the dear son of divine Odysseus."
+    },
+    {
+      "lines": [
+        555,
+        557
+      ],
+      "text": "But his feet bore him swiftly on, as he strode forward, until he reached the farmstead where were his countless swine, among whom slept the worthy swineherd with a heart loyal to his masters."
+    }
+  ]
+}

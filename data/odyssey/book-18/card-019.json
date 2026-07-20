@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "εἵματα δʼ ἀμφιέσαιμι ποσίν θʼ ὑποδήματα δοίην."
+    },
+    {
+      "n": 362,
+      "greek": "ἀλλʼ ἐπεὶ οὖν δὴ ἔργα κάκʼ ἔμμαθες, οὐκ ἐθελήσεις"
+    },
+    {
+      "n": 363,
+      "greek": "ἔργον ἐποίχεσθαι, ἀλλὰ πτώσσειν κατὰ δῆμον"
+    },
+    {
+      "n": 364,
+      "greek": "βούλεαι, ὄφρʼ ἄν ἔχῃς βόσκειν σὴν γαστέρʼ ἄναλτον."
+    },
+    {
+      "n": 365,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 366,
+      "greek": "Εὐρύμαχʼ, εἰ γὰρ νῶϊν ἔρις ἔργοιο γένοιτο"
+    },
+    {
+      "n": 367,
+      "greek": "ὥρῃ ἐν εἰαρινῇ, ὅτε τʼ ἤματα μακρὰ πέλονται,"
+    },
+    {
+      "n": 368,
+      "greek": "ἐν ποίῃ, δρέπανον μὲν ἐγὼν εὐκαμπὲς ἔχοιμι,"
+    },
+    {
+      "n": 369,
+      "greek": "καὶ δὲ σὺ τοῖον ἔχοις, ἵνα πειρησαίμεθα ἔργου"
+    },
+    {
+      "n": 370,
+      "greek": "νήστιες ἄχρι μάλα κνέφαος, ποίη δὲ παρείη."
+    },
+    {
+      "n": 371,
+      "greek": "εἰ δʼ αὖ καὶ βόες εἶεν ἐλαυνέμεν, οἵ περ ἄριστοι,"
+    },
+    {
+      "n": 372,
+      "greek": "αἴθωνες, μεγάλοι, ἄμφω κεκορηότε ποίης,"
+    },
+    {
+      "n": 373,
+      "greek": "ἥλικες, ἰσοφόροι, τῶν τε σθένος οὐκ ἀλαπαδνόν,"
+    },
+    {
+      "n": 374,
+      "greek": "τετράγυον δʼ εἴη, εἴκοι δʼ ὑπὸ βῶλος ἀρότρῳ·"
+    },
+    {
+      "n": 375,
+      "greek": "τῷ κέ μʼ ἴδοις, εἰ ὦλκα διηνεκέα προταμοίμην."
+    },
+    {
+      "n": 376,
+      "greek": "εἰ δʼ αὖ καὶ πόλεμόν ποθεν ὁρμήσειε Κρονίων"
+    },
+    {
+      "n": 377,
+      "greek": "σήμερον, αὐτὰρ ἐμοὶ σάκος εἴη καὶ δύο δοῦρε"
+    },
+    {
+      "n": 378,
+      "greek": "καὶ κυνέη πάγχαλκος, ἐπὶ κροτάφοις ἀραρυῖα,"
+    },
+    {
+      "n": 379,
+      "greek": "τῷ κέ μʼ ἴδοις πρώτοισιν ἐνὶ προμάχοισι μιγέντα,"
+    },
+    {
+      "n": 380,
+      "greek": "οὐδʼ ἄν μοι τὴν γαστέρʼ ὀνειδίζων ἀγορεύοις."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "Then Odysseus of many wiles answered him, and said: “Eurymachus, I would that we two might have a match in working in the season of spring, when the long days come, at mowing the grass, I with a curved scythe in my hands and thou with another like it,"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "and that the grass might be in plenty that so we might test our work, fasting till late evening. Or I would again that there were oxen to drive—the best there are, tawny and large, both well fed with grass, of like age and like power to bear the yoke, tireless in strength—and that there were a field of four acres, and the soil should yield before the plough:"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "then shouldest thou see me, whether or no I could cut a straight furrow to the end. Or I would again that this day the son of Cronos might bring war upon us from whence he would, and I had a shield and two spears and a helmet all of bronze, that fitted well my temples: then shouldest thou see me mingling amid the foremost fighters,"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "and wouldest not prate, taunting me with this belly of mine. But right insolent art thou, and thy heart is cruel, and forsooth thou thinkest thyself to be some great man and mighty, because thou consortest with few men and weak. If but Odysseus might return, and come to his native land,"
+    }
+  ]
+}

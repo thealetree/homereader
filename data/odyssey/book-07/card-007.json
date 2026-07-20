@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "αὐτὰρ ἐπὶ σταφυλῇ σταφυλή, σῦκον δʼ ἐπὶ σύκῳ."
+    },
+    {
+      "n": 122,
+      "greek": "ἔνθα δέ οἱ πολύκαρπος ἀλωὴ ἐρρίζωται,"
+    },
+    {
+      "n": 123,
+      "greek": "τῆς ἕτερον μὲν θειλόπεδον λευρῷ ἐνὶ χώρῳ"
+    },
+    {
+      "n": 124,
+      "greek": "τέρσεται ἠελίῳ, ἑτέρας δʼ ἄρα τε τρυγόωσιν,"
+    },
+    {
+      "n": 125,
+      "greek": "ἄλλας δὲ τραπέουσι· πάροιθε δέ τʼ ὄμφακές εἰσιν"
+    },
+    {
+      "n": 126,
+      "greek": "ἄνθος ἀφιεῖσαι, ἕτεραι δʼ ὑποπερκάζουσιν."
+    },
+    {
+      "n": 127,
+      "greek": "ἔνθα δὲ κοσμηταὶ πρασιαὶ παρὰ νείατον ὄρχον"
+    },
+    {
+      "n": 128,
+      "greek": "παντοῖαι πεφύασιν, ἐπηετανὸν γανόωσαι·"
+    },
+    {
+      "n": 129,
+      "greek": "ἐν δὲ δύω κρῆναι ἡ μέν τʼ ἀνὰ κῆπον ἅπαντα"
+    },
+    {
+      "n": 130,
+      "greek": "σκίδναται, ἡ δʼ ἑτέρωθεν ὑπʼ αὐλῆς οὐδὸν ἵησι"
+    },
+    {
+      "n": 131,
+      "greek": "πρὸς δόμον ὑψηλόν, ὅθεν ὑδρεύοντο πολῖται."
+    },
+    {
+      "n": 132,
+      "greek": "τοῖʼ ἄρʼ ἐν Ἀλκινόοιο θεῶν ἔσαν ἀγλαὰ δῶρα."
+    },
+    {
+      "n": 133,
+      "greek": "ἔνθα στὰς θηεῖτο πολύτλας δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 134,
+      "greek": "αὐτὰρ ἐπεὶ δὴ πάντα ἑῷ θηήσατο θυμῷ,"
+    },
+    {
+      "n": 135,
+      "greek": "καρπαλίμως ὑπὲρ οὐδὸν ἐβήσετο δώματος εἴσω."
+    },
+    {
+      "n": 136,
+      "greek": "εὗρε δὲ Φαιήκων ἡγήτορας ἠδὲ μέδοντας"
+    },
+    {
+      "n": 137,
+      "greek": "σπένδοντας δεπάεσσιν ἐυσκόπῳ ἀργεϊφόντῃ,"
+    },
+    {
+      "n": 138,
+      "greek": "ᾧ πυμάτῳ σπένδεσκον, ὅτε μνησαίατο κοίτου."
+    },
+    {
+      "n": 139,
+      "greek": "αὐτὰρ ὁ βῆ διὰ δῶμα πολύτλας δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 140,
+      "greek": "πολλὴν ἠέρʼ ἔχων, ἥν οἱ περίχευεν Ἀθήνη,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "and others, too, they are treading; but in front are unripe grapes that are shedding the blossom, and others that are turning purple. There again, by the last row of the vines, grow trim garden beds of every sort, blooming the year through, and therein are two springs, one of which sends its water throughout all the garden,"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "while the other, over against it, flows beneath the threshold of the court toward the high house; from this the townsfolk drew their water. Such were the glorious gifts of the gods in the palace of Alcinous. There the much-enduring goodly Odysseus stood and gazed. But when he had marvelled in his heart at all things,"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "he passed quickly over the threshold into the house. There he found the leaders and counsellors of the Phaeacians pouring libations from their cups to the keen-sighted Argeiphontes, to whom they were wont to pour the wine last of all, when they were minded to go to their rest. But the much-enduring goodly Odysseus went through the hall,"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "wrapped in the thick mist which Athena had shed about him, till he came to Arete and to Alcinous the king. About the knees of Arete Odysseus cast his hands, and straightway the wondrous mist melted from him, and a hush fell upon all that were in the room at sight of the man,"
+    }
+  ]
+}

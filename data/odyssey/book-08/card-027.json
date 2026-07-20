@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 540,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "ταῦτʼ ἄρʼ ἀοιδὸς ἄειδε περικλυτός· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 522,
+      "greek": "τήκετο, δάκρυ δʼ ἔδευεν ὑπὸ βλεφάροισι παρειάς."
+    },
+    {
+      "n": 523,
+      "greek": "ὡς δὲ γυνὴ κλαίῃσι φίλον πόσιν ἀμφιπεσοῦσα,"
+    },
+    {
+      "n": 524,
+      "greek": "ὅς τε ἑῆς πρόσθεν πόλιος λαῶν τε πέσῃσιν,"
+    },
+    {
+      "n": 525,
+      "greek": "ἄστεϊ καὶ τεκέεσσιν ἀμύνων νηλεὲς ἦμαρ·"
+    },
+    {
+      "n": 526,
+      "greek": "ἡ μὲν τὸν θνήσκοντα καὶ ἀσπαίροντα ἰδοῦσα"
+    },
+    {
+      "n": 527,
+      "greek": "ἀμφʼ αὐτῷ χυμένη λίγα κωκύει· οἱ δέ τʼ ὄπισθε"
+    },
+    {
+      "n": 528,
+      "greek": "κόπτοντες δούρεσσι μετάφρενον ἠδὲ καὶ ὤμους"
+    },
+    {
+      "n": 529,
+      "greek": "εἴρερον εἰσανάγουσι, πόνον τʼ ἐχέμεν καὶ ὀιζύν·"
+    },
+    {
+      "n": 530,
+      "greek": "τῆς δʼ ἐλεεινοτάτῳ ἄχεϊ φθινύθουσι παρειαί·"
+    },
+    {
+      "n": 531,
+      "greek": "ὣς Ὀδυσεὺς ἐλεεινὸν ὑπʼ ὀφρύσι δάκρυον εἶβεν."
+    },
+    {
+      "n": 532,
+      "greek": "ἔνθʼ ἄλλους μὲν πάντας ἐλάνθανε δάκρυα λείβων,"
+    },
+    {
+      "n": 533,
+      "greek": "Ἀλκίνοος δέ μιν οἶος ἐπεφράσατʼ ἠδʼ ἐνόησεν,"
+    },
+    {
+      "n": 534,
+      "greek": "ἥμενος ἄγχʼ αὐτοῦ, βαρὺ δὲ στενάχοντος ἄκουσεν."
+    },
+    {
+      "n": 535,
+      "greek": "αἶψα δὲ Φαιήκεσσι φιληρέτμοισι μετηύδα·"
+    },
+    {
+      "n": 536,
+      "greek": "κέκλυτε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες,"
+    },
+    {
+      "n": 537,
+      "greek": "Δημόδοκος δʼ ἤδη σχεθέτω φόρμιγγα λίγειαν·"
+    },
+    {
+      "n": 538,
+      "greek": "οὐ γάρ πως πάντεσσι χαριζόμενος τάδʼ ἀείδει."
+    },
+    {
+      "n": 539,
+      "greek": "ἐξ οὗ δορπέομέν τε καὶ ὤρορε θεῖος ἀοιδός,"
+    },
+    {
+      "n": 540,
+      "greek": "ἐκ τοῦ δʼ οὔ πω παύσατʼ ὀιζυροῖο γόοιο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "seeking toward off from his city and his children the pitiless day; and as she beholds him dying and gasping for breath, she clings to him and shrieks aloud, while the foe behind her smite her back and shoulders with their spears, and lead her away to captivity to bear toil and woe,"
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "while with most pitiful grief her cheeks are wasted: even so did Odysseus let fall pitiful tears from beneath his brows. Now from all the rest he concealed the tears that he shed, but Alcinous alone marked him and took heed,"
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "for he sat by him and heard him groaning heavily. And straightway he spoke among the Phaeacians, lovers of the oar: “Hear me, leaders and counsellors of the Phaeacians, and let Demodocus now check his clear-toned lyre, for in no wise to all alike does he give pleasure with this song. Ever since we began to sup and the divine minstrel was moved to sing,"
+    },
+    {
+      "lines": [
+        540,
+        540
+      ],
+      "text": "from that time yon stranger has never ceased from sorrowful lamentation; surely, methinks, grief has encompassed his heart. Nay, let the minstrel cease, that we may all make merry, hosts and guest alike, since it is better thus. Lo, for the sake of the honored stranger all these things have been made ready,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 26,
+  "lineStart": 502,
+  "lineEnd": 521,
+  "lines": [
+    {
+      "n": 502,
+      "greek": "εἰς Ἄϊδος δʼ οὔ πώ τις ἀφίκετο νηὶ μελαίνῃ."
+    },
+    {
+      "n": 503,
+      "greek": "ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀμείβετο δῖα θεάων·"
+    },
+    {
+      "n": 504,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 505,
+      "greek": "μή τί τοι ἡγεμόνος γε ποθὴ παρὰ νηὶ μελέσθω,"
+    },
+    {
+      "n": 506,
+      "greek": "ἱστὸν δὲ στήσας, ἀνά θʼ ἱστία λευκὰ πετάσσας"
+    },
+    {
+      "n": 507,
+      "greek": "ἧσθαι· τὴν δέ κέ τοι πνοιὴ Βορέαο φέρῃσιν."
+    },
+    {
+      "n": 508,
+      "greek": "ἀλλʼ ὁπότʼ ἂν δὴ νηὶ διʼ Ὠκεανοῖο περήσῃς,"
+    },
+    {
+      "n": 509,
+      "greek": "ἔνθʼ ἀκτή τε λάχεια καὶ ἄλσεα Περσεφονείης,"
+    },
+    {
+      "n": 510,
+      "greek": "μακραί τʼ αἴγειροι καὶ ἰτέαι ὠλεσίκαρποι,"
+    },
+    {
+      "n": 511,
+      "greek": "νῆα μὲν αὐτοῦ κέλσαι ἐπʼ Ὠκεανῷ βαθυδίνῃ,"
+    },
+    {
+      "n": 512,
+      "greek": "αὐτὸς δʼ εἰς Ἀίδεω ἰέναι δόμον εὐρώεντα."
+    },
+    {
+      "n": 513,
+      "greek": "ἔνθα μὲν εἰς Ἀχέροντα Πυριφλεγέθων τε ῥέουσιν"
+    },
+    {
+      "n": 514,
+      "greek": "Κώκυτός θʼ, ὃς δὴ Στυγὸς ὕδατός ἐστιν ἀπορρώξ,"
+    },
+    {
+      "n": 515,
+      "greek": "πέτρη τε ξύνεσίς τε δύω ποταμῶν ἐριδούπων·"
+    },
+    {
+      "n": 516,
+      "greek": "ἔνθα δʼ ἔπειθʼ, ἥρως, χριμφθεὶς πέλας, ὥς σε κελεύω,"
+    },
+    {
+      "n": 517,
+      "greek": "βόθρον ὀρύξαι, ὅσον τε πυγούσιον ἔνθα καὶ ἔνθα,"
+    },
+    {
+      "n": 518,
+      "greek": "ἀμφʼ αὐτῷ δὲ χοὴν χεῖσθαι πᾶσιν νεκύεσσιν,"
+    },
+    {
+      "n": 519,
+      "greek": "πρῶτα μελικρήτῳ, μετέπειτα δὲ ἡδέι οἴνῳ,"
+    },
+    {
+      "n": 520,
+      "greek": "τὸ τρίτον αὖθʼ ὕδατι· ἐπὶ δʼ ἄλφιτα λευκὰ παλύνειν."
+    },
+    {
+      "n": 521,
+      "greek": "πολλὰ δὲ γουνοῦσθαι νεκύων ἀμενηνὰ κάρηνα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "let there be in thy mind no concern for a pilot to guide thy ship, but set up thy mast, and spread the white sail, and sit thee down; and the breath of the North Wind will bear her onward. But when in thy ship thou hast now crossed the stream of Oceanus, where is a level shore and the groves of Persephone—"
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "tall poplars, and willows that shed their fruit—there do thou beach thy ship by the deep eddying Oceanus, but go thyself to the dank house of Hades. There into Acheron flow Periphlegethon and Cocytus, which is a branch of the water of the Styx;"
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "and there is a rock, and the meeting place of the two roaring rivers. Thither, prince, do thou draw nigh, as I bid thee, and dig a pit of a cubit's length this way and that, and around it pour a libation to all the dead, first with milk and honey, thereafter with sweet wine,"
+    },
+    {
+      "lines": [
+        520,
+        521
+      ],
+      "text": "and in the third place with water, and sprinkle thereon white barley meal. And do thou earnestly entreat the powerless heads of the dead, vowing that when thou comest to Ithaca thou wilt sacrifice in thy halls a barren heifer, the best thou hast, and wilt fill the altar with rich gifts; and that to Teiresias alone thou wilt sacrifice separately a ram,"
+    }
+  ]
+}

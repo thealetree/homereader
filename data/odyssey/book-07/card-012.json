@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "ληθάνει ὅσσʼ ἔπαθον, καὶ ἐνιπλησθῆναι ἀνώγει."
+    },
+    {
+      "n": 222,
+      "greek": "ὑμεῖς δʼ ὀτρύνεσθαι ἅμʼ ἠοῖ φαινομένηφιν,"
+    },
+    {
+      "n": 223,
+      "greek": "ὥς κʼ ἐμὲ τὸν δύστηνον ἐμῆς ἐπιβήσετε πάτρης"
+    },
+    {
+      "n": 224,
+      "greek": "καί περ πολλὰ παθόντα· ἰδόντα με καὶ λίποι αἰὼν"
+    },
+    {
+      "n": 225,
+      "greek": "κτῆσιν ἐμήν, δμῶάς τε καὶ ὑψερεφὲς μέγα δῶμα."
+    },
+    {
+      "n": 226,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπῄνεον ἠδʼ ἐκέλευον"
+    },
+    {
+      "n": 227,
+      "greek": "πεμπέμεναι τὸν ξεῖνον, ἐπεὶ κατὰ μοῖραν ἔειπεν."
+    },
+    {
+      "n": 228,
+      "greek": "αὐτὰρ ἐπεὶ σπεῖσάν τʼ ἔπιον θʼ ὅσον ἤθελε θυμός,"
+    },
+    {
+      "n": 229,
+      "greek": "οἱ μὲν κακκείοντες ἔβαν οἶκόνδε ἕκαστος,"
+    },
+    {
+      "n": 230,
+      "greek": "αὐτὰρ ὁ ἐν μεγάρῳ ὑπελείπετο δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 231,
+      "greek": "πὰρ δέ οἱ Ἀρήτη τε καὶ Ἀλκίνοος θεοειδὴς"
+    },
+    {
+      "n": 232,
+      "greek": "ἥσθην· ἀμφίπολοι δʼ ἀπεκόσμεον ἔντεα δαιτός."
+    },
+    {
+      "n": 233,
+      "greek": "τοῖσιν δʼ Ἀρήτη λευκώλενος ἤρχετο μύθων·"
+    },
+    {
+      "n": 234,
+      "greek": "ἔγνω γὰρ φᾶρός τε χιτῶνά τε εἵματʼ ἰδοῦσα"
+    },
+    {
+      "n": 235,
+      "greek": "καλά, τά ῥʼ αὐτὴ τεῦξε σὺν ἀμφιπόλοισι γυναιξί·"
+    },
+    {
+      "n": 236,
+      "greek": "καί μιν φωνήσασʼ ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 237,
+      "greek": "ξεῖνε, τὸ μέν σε πρῶτον ἐγὼν εἰρήσομαι αὐτή·"
+    },
+    {
+      "n": 238,
+      "greek": "τίς πόθεν εἰς ἀνδρῶν; τίς τοι τάδε εἵματʼ ἔδωκεν;"
+    },
+    {
+      "n": 239,
+      "greek": "οὐ δὴ φῆς ἐπὶ πόντον ἀλώμενος ἐνθάδʼ ἱκέσθαι;"
+    },
+    {
+      "n": 240,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "my possessions, my slaves, and my great high-roofed house.” So he spoke, and they all praised his words, and bade send the stranger on his way, since he had spoken fittingly. Then when they had poured libations, and had drunk to their heart's content, they went each man to his home, to take their rest,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "and goodly Odysseus was left behind in the hall, and beside him sat Arete and godlike Alcinous; and the handmaids cleared away the dishes of the feast. Then white-armed Arete was the first to speak; for, as she saw it, she knew his"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "fair raiment, the mantle and tunic, which she herself had wrought with her handmaids. And she spoke, and addressed him with winged words: “Stranger, this question will I myself ask thee first. Who art thou among men, and from whence? Who gave thee this raiment? Didst thou not say that thou camest hither wandering over the sea?”"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "Then Odysseus of many wiles answered her, and said: “Hard were it, O queen, to tell to the end the tale of my woes, since full many have the heavenly gods given me. But this will I tell thee, of which thou dost ask and enquire. There is an isle, Ogygia, which lies far off in the sea."
+    }
+  ]
+}

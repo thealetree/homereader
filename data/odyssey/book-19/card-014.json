@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 262,
+      "greek": "ὦ γύναι αἰδοίη Λαερτιάδεω Ὀδυσῆος,"
+    },
+    {
+      "n": 263,
+      "greek": "μηκέτι νῦν χρόα καλὸν ἐναίρεο, μηδέ τι θυμὸν"
+    },
+    {
+      "n": 264,
+      "greek": "τῆκε, πόσιν γοόωσα. νεμεσσῶμαί γε μὲν οὐδέν·"
+    },
+    {
+      "n": 265,
+      "greek": "καὶ γάρ τίς τʼ ἀλλοῖον ὀδύρεται ἄνδρʼ ὀλέσασα"
+    },
+    {
+      "n": 266,
+      "greek": "κουρίδιον, τῷ τέκνα τέκῃ φιλότητι μιγεῖσα,"
+    },
+    {
+      "n": 267,
+      "greek": "ἢ Ὀδυσῆʼ, ὅν φασι θεοῖς ἐναλίγκιον εἶναι."
+    },
+    {
+      "n": 268,
+      "greek": "ἀλλὰ γόου μὲν παῦσαι, ἐμεῖο δὲ σύνθεο μῦθον·"
+    },
+    {
+      "n": 269,
+      "greek": "νημερτέως γάρ τοι μυθήσομαι οὐδʼ ἐπικεύσω"
+    },
+    {
+      "n": 270,
+      "greek": "ὡς ἤδη Ὀδυσῆος ἐγὼ περὶ νόστου ἄκουσα"
+    },
+    {
+      "n": 271,
+      "greek": "ἀγχοῦ, Θεσπρωτῶν ἀνδρῶν ἐν πίονι δήμῳ,"
+    },
+    {
+      "n": 272,
+      "greek": "ζωοῦ· αὐτὰρ ἄγει κειμήλια πολλὰ καὶ ἐσθλὰ"
+    },
+    {
+      "n": 273,
+      "greek": "αἰτίζων ἀνὰ δῆμον. ἀτὰρ ἐρίηρας ἑταίρους"
+    },
+    {
+      "n": 274,
+      "greek": "ὤλεσε καὶ νῆα γλαφυρὴν ἐνὶ οἴνοπι πόντῳ,"
+    },
+    {
+      "n": 275,
+      "greek": "Θρινακίης ἄπο νήσου ἰών· ὀδύσαντο γὰρ αὐτῷ"
+    },
+    {
+      "n": 276,
+      "greek": "Ζεύς τε καὶ Ἠέλιος· τοῦ γὰρ βόας ἔκταν ἑταῖροι."
+    },
+    {
+      "n": 277,
+      "greek": "οἱ μὲν πάντες ὄλοντο πολυκλύστῳ ἐνὶ πόντῳ·"
+    },
+    {
+      "n": 278,
+      "greek": "τὸν δʼ ἄρʼ ἐπὶ τρόπιος νεὸς ἔκβαλε κῦμʼ ἐπὶ χέρσου,"
+    },
+    {
+      "n": 279,
+      "greek": "Φαιήκων ἐς γαῖαν, οἳ ἀγχίθεοι γεγάασιν,"
+    },
+    {
+      "n": 280,
+      "greek": "οἳ δή μιν περὶ κῆρι θεὸν ὣς τιμήσαντο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "for any woman weeps when she has lost her wedded husband, to whom she has borne children in her love, though he were far other than Odysseus, who, they say, is like unto the gods. Yet do thou cease from weeping, and hearken to my words; for I will tell thee with sure truth, and will hide nothing,"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "how but lately I heard of the return of Odysseus, that he is near at hand in the rich land of the Thesprotians, and yet alive, and he is bringing with him many rich treasures, as he begs through the land. But he lost his trusty comrades and his hollow ship on the wine-dark sea,"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "as he journeyed from the isle Thrinacia; for Zeus and Helios waxed wroth against him because his comrades had slain the kine of Helios. So they all perished in the surging sea, but he on the keel of his ship was cast forth by the wave on the shore, on the land of the Phaeacians, who are near of kin to the gods."
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "These heartily showed him all honor, as if he were a god, and gave him many gifts, and were fain themselves to send him home unscathed. Yea, and Odysseus would long since have been here, only it seemed to his mind more profitable to gather wealth by roaming over the wide earth;"
+    }
+  ]
+}

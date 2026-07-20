@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 461,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "καὶ πηῷ περ ἐόντι μάλα σχεδόν· ἀλλά μʼ ἑταῖροι"
+    },
+    {
+      "n": 442,
+      "greek": "μειλιχίοις ἐπέεσσιν ἐρήτυον ἄλλοθεν ἄλλος·"
+    },
+    {
+      "n": 443,
+      "greek": "διογενές, τοῦτον μὲν ἐάσομεν, εἰ σὺ κελεύεις,"
+    },
+    {
+      "n": 444,
+      "greek": "αὐτοῦ πὰρ νηί τε μένειν καὶ νῆα ἔρυσθαι·"
+    },
+    {
+      "n": 445,
+      "greek": "ἡμῖν δʼ ἡγεμόνευʼ ἱερὰ πρὸς δώματα Κίρκης."
+    },
+    {
+      "n": 446,
+      "greek": "ὣς φάμενοι παρὰ νηὸς ἀνήιον ἠδὲ θαλάσσης."
+    },
+    {
+      "n": 447,
+      "greek": "οὐδὲ μὲν Εὐρύλοχος κοίλῃ παρὰ νηὶ λέλειπτο,"
+    },
+    {
+      "n": 448,
+      "greek": "ἀλλʼ ἕπετʼ· ἔδεισεν γὰρ ἐμὴν ἔκπαγλον ἐνιπήν."
+    },
+    {
+      "n": 449,
+      "greek": "τόφρα δὲ τοὺς ἄλλους ἑτάρους ἐν δώμασι Κίρκη"
+    },
+    {
+      "n": 450,
+      "greek": "ἐνδυκέως λοῦσέν τε καὶ ἔχρισεν λίπʼ ἐλαίῳ,"
+    },
+    {
+      "n": 451,
+      "greek": "ἀμφὶ δʼ ἄρα χλαίνας οὔλας βάλεν ἠδὲ χιτῶνας·"
+    },
+    {
+      "n": 452,
+      "greek": "δαινυμένους δʼ ἐὺ πάντας ἐφεύρομεν ἐν μεγάροισιν."
+    },
+    {
+      "n": 453,
+      "greek": "οἱ δʼ ἐπεὶ ἀλλήλους εἶδον φράσσαντό τʼ ἐσάντα,"
+    },
+    {
+      "n": 454,
+      "greek": "κλαῖον ὀδυρόμενοι, περὶ δὲ στεναχίζετο δῶμα."
+    },
+    {
+      "n": 455,
+      "greek": "ἡ δέ μευ ἄγχι στᾶσα προσηύδα δῖα θεάων·"
+    },
+    {
+      "n": 457,
+      "greek": "μηκέτι νῦν θαλερὸν γόον ὄρνυτε· οἶδα καὶ αὐτὴ"
+    },
+    {
+      "n": 458,
+      "greek": "ἠμὲν ὅσʼ ἐν πόντῳ πάθετʼ ἄλγεα ἰχθυόεντι,"
+    },
+    {
+      "n": 459,
+      "greek": "ἠδʼ ὅσʼ ἀνάρσιοι ἄνδρες ἐδηλήσαντʼ ἐπὶ χέρσου."
+    },
+    {
+      "n": 460,
+      "greek": "ἀλλʼ ἄγετʼ ἐσθίετε βρώμην καὶ πίνετε οἶνον,"
+    },
+    {
+      "n": 461,
+      "greek": "εἰς ὅ κεν αὖτις θυμὸν ἐνὶ στήθεσσι λάβητε,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "but as for us, do thou lead us to the sacred house of Circe.’ “So saying, they went up from the ship and the sea. Nor was Eurylochus left beside the hollow ship, but he went with us, for he feared my dread reproof. “Meanwhile in her halls Circe"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "bathed the rest of my comrades with kindly care, and anointed them richly with oil, and cast about them fleecy cloaks and tunics; and we found them all feasting bountifully in the halls. But when they saw and recognized one another, face to face, they wept and wailed, and the house rang around."
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "Then the beautiful goddess drew near me, and said: “‘No longer now do ye rouse this plenteous lamenting. Of myself I know both all the woes you have suffered on the teeming deep, and all the wrong that cruel men have done you on the land."
+    },
+    {
+      "lines": [
+        460,
+        461
+      ],
+      "text": "Nay, come, eat food and drink wine, until you once more get spirit in your breasts such as when at the first you left your native land of rugged Ithaca; but now ye are withered and spiritless, ever thinking of your weary wanderings, nor are your"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ἐς ποταμόν, τῇ δή μοι ἐείσατο χῶρος ἄριστος,"
+    },
+    {
+      "n": 282,
+      "greek": "λεῖος πετράων, καὶ ἐπὶ σκέπας ἦν ἀνέμοιο."
+    },
+    {
+      "n": 283,
+      "greek": "ἐκ δʼ ἔπεσον θυμηγερέων, ἐπὶ δʼ ἀμβροσίη νὺξ"
+    },
+    {
+      "n": 284,
+      "greek": "ἤλυθʼ. ἐγὼ δʼ ἀπάνευθε διιπετέος ποταμοῖο"
+    },
+    {
+      "n": 285,
+      "greek": "ἐκβὰς ἐν θάμνοισι κατέδραθον, ἀμφὶ δὲ φύλλα"
+    },
+    {
+      "n": 286,
+      "greek": "ἠφυσάμην· ὕπνον δὲ θεὸς κατʼ ἀπείρονα χεῦεν."
+    },
+    {
+      "n": 287,
+      "greek": "ἔνθα μὲν ἐν φύλλοισι φίλον τετιημένος ἦτορ"
+    },
+    {
+      "n": 288,
+      "greek": "εὗδον παννύχιος καὶ ἐπʼ ἠῶ καὶ μέσον ἦμαρ."
+    },
+    {
+      "n": 289,
+      "greek": "δείλετό τʼ ἠέλιος καί με γλυκὺς ὕπνος ἀνῆκεν."
+    },
+    {
+      "n": 290,
+      "greek": "ἀμφιπόλους δʼ ἐπὶ θινὶ τεῆς ἐνόησα θυγατρὸς"
+    },
+    {
+      "n": 291,
+      "greek": "παιζούσας, ἐν δʼ αὐτὴ ἔην ἐικυῖα θεῇσι·"
+    },
+    {
+      "n": 292,
+      "greek": "τὴν ἱκέτευσʼ· ἡ δʼ οὔ τι νοήματος ἤμβροτεν ἐσθλοῦ,"
+    },
+    {
+      "n": 293,
+      "greek": "ὡς οὐκ ἂν ἔλποιο νεώτερον ἀντιάσαντα"
+    },
+    {
+      "n": 294,
+      "greek": "ἐρξέμεν· αἰεὶ γάρ τε νεώτεροι ἀφραδέουσιν."
+    },
+    {
+      "n": 295,
+      "greek": "ἥ μοι σῖτον ἔδωκεν ἅλις ἠδʼ αἴθοπα οἶνον"
+    },
+    {
+      "n": 296,
+      "greek": "καὶ λοῦσʼ ἐν ποταμῷ καί μοι τάδε εἵματʼ ἔδωκε."
+    },
+    {
+      "n": 297,
+      "greek": "ταῦτά τοι ἀχνύμενός περ ἀληθείην κατέλεξα."
+    },
+    {
+      "n": 298,
+      "greek": "τὸν δʼ αὖτʼ Ἀλκίνοος ἀπαμείβετο φώνησέν τε·"
+    },
+    {
+      "n": 299,
+      "greek": "ξεῖνʼ, ἦ τοι μὲν τοῦτο γʼ ἐναίσιμον οὐκ ἐνόησε"
+    },
+    {
+      "n": 300,
+      "greek": "παῖς ἐμή, οὕνεκά σʼ οὔ τι μετʼ ἀμφιπόλοισι γυναιξὶν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "and lay down to sleep in the bushes, gathering leaves about me; and a god shed over me infinite sleep. So there among the leaves I slept, my heart sore stricken, the whole night through, until the morning and until midday; and the sun turned to his setting ere sweet sleep released me."
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "Then I saw the handmaids of thy daughter on the shore at play, and amid them was she, fair as the goddesses. To her I made my prayer; and she in no wise failed in good understanding, to do as thou wouldst not deem that one of younger years would do on meeting thee; for younger folk are ever thoughtless."
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "She gave bread in plenty and sparkling wine, and bathed me in the river, and gave me this raiment. In this, for all my sorrows, have I told thee the truth.” Then in turn Alcinous answered him, and said:“Stranger, verily my daughter was not minded aright in this,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "that she did not bring thee to our house with her maidens. Yet it was to her first that thou didst make thy prayer.” Then Odysseus of many wiles answered him, and said: “Prince, rebuke not for this, I pray thee, thy blameless daughter. She did indeed bid me follow with her maidens,"
+    }
+  ]
+}

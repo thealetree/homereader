@@ -1,0 +1,45 @@
+{
+  "book": 17,
+  "card": 31,
+  "lineStart": 601,
+  "lineEnd": 606,
+  "lines": [
+    {
+      "n": 601,
+      "greek": "αὐτὰρ ἐμοὶ τάδε πάντα καὶ ἀθανάτοισι μελήσει."
+    },
+    {
+      "n": 602,
+      "greek": "ὣς φάθʼ, ὁ δʼ αὖτις ἄρʼ ἕζετʼ ἐϋξέστου ἐπὶ δίφρου,"
+    },
+    {
+      "n": 603,
+      "greek": "πλησάμενος δʼ ἄρα θυμὸν ἐδητύος ἠδὲ ποτῆτος"
+    },
+    {
+      "n": 604,
+      "greek": "βῆ ῥʼ ἴμεναι μεθʼ ὕας, λίπε δʼ ἕρκεά τε μέγαρόν τε,"
+    },
+    {
+      "n": 605,
+      "greek": "πλεῖον δαιτυμόνων· οἱ δʼ ὀρχηστυῖ καὶ ἀοιδῇ"
+    },
+    {
+      "n": 606,
+      "greek": "τέρποντʼ· ἤδη γὰρ καὶ ἐπήλυθε δείελον ἦμαρ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        605,
+        606
+      ],
+      "text": "full of banqueters. And they were making merry with dance and song, for evening had now come on."
+    }
+  ]
+}

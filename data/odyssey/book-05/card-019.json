@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ὄφρʼ ἂν μέν κεν δούρατʼ ἐν ἁρμονίῃσιν ἀρήρῃ,"
+    },
+    {
+      "n": 362,
+      "greek": "τόφρʼ αὐτοῦ μενέω καὶ τλήσομαι ἄλγεα πάσχων·"
+    },
+    {
+      "n": 363,
+      "greek": "αὐτὰρ ἐπὴν δή μοι σχεδίην διὰ κῦμα τινάξῃ,"
+    },
+    {
+      "n": 364,
+      "greek": "νήξομʼ, ἐπεὶ οὐ μέν τι πάρα προνοῆσαι ἄμεινον."
+    },
+    {
+      "n": 365,
+      "greek": "ἧος ὁ ταῦθʼ ὥρμαινε κατὰ φρένα καὶ κατὰ θυμόν,"
+    },
+    {
+      "n": 366,
+      "greek": "ὦρσε δʼ ἐπὶ μέγα κῦμα Ποσειδάων ἐνοσίχθων,"
+    },
+    {
+      "n": 367,
+      "greek": "δεινόν τʼ ἀργαλέον τε, κατηρεφές, ἤλασε δʼ αὐτόν."
+    },
+    {
+      "n": 368,
+      "greek": "ὡς δʼ ἄνεμος ζαὴς ἠΐων θημῶνα τινάξῃ"
+    },
+    {
+      "n": 369,
+      "greek": "καρφαλέων· τὰ μὲν ἄρ τε διεσκέδασʼ ἄλλυδις ἄλλῃ·"
+    },
+    {
+      "n": 370,
+      "greek": "ὣς τῆς δούρατα μακρὰ διεσκέδασʼ. αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 371,
+      "greek": "ἀμφʼ ἑνὶ δούρατι βαῖνε, κέληθʼ ὡς ἵππον ἐλαύνων,"
+    },
+    {
+      "n": 372,
+      "greek": "εἵματα δʼ ἐξαπέδυνε, τά οἱ πόρε δῖα Καλυψώ."
+    },
+    {
+      "n": 373,
+      "greek": "αὐτίκα δὲ κρήδεμνον ὑπὸ στέρνοιο τάνυσσεν,"
+    },
+    {
+      "n": 374,
+      "greek": "αὐτὸς δὲ πρηνὴς ἁλὶ κάππεσε, χεῖρε πετάσσας,"
+    },
+    {
+      "n": 375,
+      "greek": "νηχέμεναι μεμαώς. ἴδε δὲ κρείων ἐνοσίχθων,"
+    },
+    {
+      "n": 376,
+      "greek": "κινήσας δὲ κάρη προτὶ ὃν μυθήσατο θυμόν·"
+    },
+    {
+      "n": 377,
+      "greek": "οὕτω νῦν κακὰ πολλὰ παθὼν ἀλόω κατὰ πόντον,"
+    },
+    {
+      "n": 378,
+      "greek": "εἰς ὅ κεν ἀνθρώποισι διοτρεφέεσσι μιγήῃς."
+    },
+    {
+      "n": 379,
+      "greek": "ἀλλʼ οὐδʼ ὥς σε ἔολπα ὀνόσσεσθαι κακότητος."
+    },
+    {
+      "n": 380,
+      "greek": "ὣς ἄρα φωνήσας ἵμασεν καλλίτριχας ἵππους,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "While he pondered thus in mind and heart, Poseidon, the earth-shaker, made to rise up a great wave, dread and grievous, arching over from above, and drove it upon him. And as when a strong wind tosses a heap of straw that is dry, and some it scatters here, some there,"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "even so the wave scattered the long timbers of the raft. But Odysseus bestrode one plank, as though he were riding a horse, and stripped off the garments which beautiful Calypso had given him. Then straightway he stretched the veil beneath his breast, and flung himself headlong into the sea with hands outstretched,"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "ready to swim. And the lord, the earth-shaker, saw him, and he shook his head, and thus he spoke to his own heart: “So now, after thou hast suffered many ills, go wandering over the deep, till thou comest among the folk fostered of Zeus. Yet even so, methinks, thou shalt not make any mock at thy suffering.”"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "So saying, he lashed his fair-maned horses, and came to Aegae, where is his glorious palace. But Athena, daughter of Zeus, took other counsel. She stayed the paths of the other winds, and bade them all cease and be lulled to rest;"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "ἑζόμενος δʼ ἤμελγεν ὄις καὶ μηκάδας αἶγας,"
+    },
+    {
+      "n": 342,
+      "greek": "πάντα κατὰ μοῖραν, καὶ ὑπʼ ἔμβρυον ἧκεν ἑκάστῃ."
+    },
+    {
+      "n": 343,
+      "greek": "αὐτὰρ ἐπεὶ δὴ σπεῦσε πονησάμενος τὰ ἃ ἔργα,"
+    },
+    {
+      "n": 344,
+      "greek": "σὺν δʼ ὅ γε δὴ αὖτε δύω μάρψας ὡπλίσσατο δόρπον."
+    },
+    {
+      "n": 345,
+      "greek": "καὶ τότʼ ἐγὼ Κύκλωπα προσηύδων ἄγχι παραστάς,"
+    },
+    {
+      "n": 346,
+      "greek": "κισσύβιον μετὰ χερσὶν ἔχων μέλανος οἴνοιο·"
+    },
+    {
+      "n": 347,
+      "greek": "Κύκλωψ, τῆ, πίε οἶνον, ἐπεὶ φάγες ἀνδρόμεα κρέα,"
+    },
+    {
+      "n": 348,
+      "greek": "ὄφρʼ εἰδῇς οἷόν τι ποτὸν τόδε νηῦς ἐκεκεύθει"
+    },
+    {
+      "n": 349,
+      "greek": "ἡμετέρη. σοὶ δʼ αὖ λοιβὴν φέρον, εἴ μʼ ἐλεήσας"
+    },
+    {
+      "n": 350,
+      "greek": "οἴκαδε πέμψειας· σὺ δὲ μαίνεαι οὐκέτʼ ἀνεκτῶς."
+    },
+    {
+      "n": 351,
+      "greek": "σχέτλιε, πῶς κέν τίς σε καὶ ὕστερον ἄλλος ἵκοιτο"
+    },
+    {
+      "n": 352,
+      "greek": "ἀνθρώπων πολέων, ἐπεὶ οὐ κατὰ μοῖραν ἔρεξας;"
+    },
+    {
+      "n": 353,
+      "greek": "ὣς ἐφάμην, ὁ δʼ ἔδεκτο καὶ ἔκπιεν· ἥσατο δʼ αἰνῶς"
+    },
+    {
+      "n": 354,
+      "greek": "ἡδὺ ποτὸν πίνων καὶ μʼ ᾔτεε δεύτερον αὖτις·"
+    },
+    {
+      "n": 355,
+      "greek": "δός μοι ἔτι πρόφρων, καί μοι τεὸν οὔνομα εἰπὲ"
+    },
+    {
+      "n": 356,
+      "greek": "αὐτίκα νῦν, ἵνα τοι δῶ ξείνιον, ᾧ κε σὺ χαίρῃς·"
+    },
+    {
+      "n": 357,
+      "greek": "καὶ γὰρ Κυκλώπεσσι φέρει ζείδωρος ἄρουρα"
+    },
+    {
+      "n": 358,
+      "greek": "οἶνον ἐριστάφυλον, καί σφιν Διὸς ὄμβρος ἀέξει·"
+    },
+    {
+      "n": 359,
+      "greek": "ἀλλὰ τόδʼ ἀμβροσίης καὶ νέκταρός ἐστιν ἀπορρώξ."
+    },
+    {
+      "n": 360,
+      "greek": "ὣς φάτʼ, ἀτάρ οἱ αὖτις ἐγὼ πόρον αἴθοπα οἶνον."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "Then I drew near and spoke to the Cyclops, holding in my hands an ivy bowl of the dark wine: “‘Cyclops, take and drink wine after thy meal of human flesh, that thou mayest know what manner of drink this is which our ship contained. It was to thee that I was bringing it as a drink offering, in the hope that, touched with pity,"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "thou mightest send me on my way home; but thou ragest in a way that is past all bearing. Cruel man, how shall any one of all the multitudes of men ever come to thee again hereafter, seeing that thou hast wrought lawlessness?’ “So I spoke, and he took the cup and drained it, and was wondrously pleased as he drank the sweet draught, and asked me for it again a second time:"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "“‘Give it me again with a ready heart, and tell me thy name straightway, that I may give thee a stranger's gift whereat thou mayest be glad. For among the Cyclopes the earth, the giver of grain, bears the rich clusters of wine, and the rain of Zeus gives them increase; but this is a streamlet of ambrosia and nectar.’"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "“So he spoke, and again I handed him the flaming wine. Thrice I brought and gave it him, and thrice he drained it in his folly. But when the wine had stolen about the wits of the Cyclops, then I spoke to him with gentle words: “‘Cyclops, thou askest me of my glorious name, and I"
+    }
+  ]
+}

@@ -30,10 +30,12 @@
     styleButtons: document.querySelectorAll(".style-btn"),
     cribControls: document.getElementById("crib-controls"),
     cribLabels: document.querySelectorAll(".crib-label"),
-    prev: document.getElementById("prev"),
-    next: document.getElementById("next"),
-    pagerLabel: document.getElementById("pager-label"),
-    locationLabel: document.getElementById("location-label")
+    bookSelect: document.getElementById("book-select"),
+    bookCurrent: document.getElementById("book-current"),
+    bookMenu: document.getElementById("book-menu"),
+    edgePrev: document.getElementById("edge-prev"),
+    edgeNext: document.getElementById("edge-next"),
+    pagerLabel: document.getElementById("pager-label")
   };
 
   /* ---------- URL hash state ---------- */
@@ -165,10 +167,48 @@
   }
 
   function renderChrome() {
-    el.locationLabel.textContent = "Book " + (ROMAN[state.book - 1] || state.book);
+    el.bookCurrent.textContent = "Book " + (ROMAN[state.book - 1] || state.book);
     el.pagerLabel.textContent = state.card + " / " + cardCount(state.book);
-    el.prev.disabled = state.card <= 1;
-    el.next.disabled = state.card >= cardCount(state.book);
+    el.edgePrev.disabled = state.card <= 1;
+    el.edgeNext.disabled = state.card >= cardCount(state.book);
+  }
+
+  /* ---------- Book selector ---------- */
+
+  function bookList() {
+    if (!manifest) return [state.book];
+    return Object.keys(manifest.books).map(Number).sort(function (a, b) { return a - b; });
+  }
+
+  function buildBookMenu() {
+    el.bookMenu.innerHTML = "";
+    bookList().forEach(function (n) {
+      var li = document.createElement("li");
+      li.className = "book-option";
+      li.setAttribute("role", "option");
+      li.dataset.book = n;
+      li.textContent = "Book " + (ROMAN[n - 1] || n);
+      li.addEventListener("click", function () {
+        state.book = n;
+        state.card = 1;
+        closeBookMenu();
+        render();
+      });
+      el.bookMenu.appendChild(li);
+    });
+  }
+
+  function openBookMenu() {
+    Array.prototype.forEach.call(el.bookMenu.children, function (li) {
+      li.classList.toggle("active", Number(li.dataset.book) === state.book);
+    });
+    el.bookMenu.hidden = false;
+    el.bookCurrent.setAttribute("aria-expanded", "true");
+  }
+
+  function closeBookMenu() {
+    el.bookMenu.hidden = true;
+    el.bookCurrent.setAttribute("aria-expanded", "false");
   }
 
   function render() {
@@ -194,12 +234,22 @@
     render();
   }
 
-  el.prev.addEventListener("click", function () { goto(-1); });
-  el.next.addEventListener("click", function () { goto(1); });
+  el.edgePrev.addEventListener("click", function () { goto(-1); });
+  el.edgeNext.addEventListener("click", function () { goto(1); });
 
   document.addEventListener("keydown", function (e) {
     if (e.key === "ArrowLeft") goto(-1);
     if (e.key === "ArrowRight") goto(1);
+    if (e.key === "Escape") closeBookMenu();
+  });
+
+  /* Book menu open/close */
+  el.bookCurrent.addEventListener("click", function (e) {
+    e.stopPropagation();
+    if (el.bookMenu.hidden) openBookMenu(); else closeBookMenu();
+  });
+  document.addEventListener("click", function (e) {
+    if (!el.bookSelect.contains(e.target)) closeBookMenu();
   });
 
   /* Swipe navigation (touch) */
@@ -241,6 +291,7 @@
   readHash();
   fetchJSON(DATA_ROOT + "manifest.json").then(function (m) {
     manifest = m;
+    buildBookMenu();
     if (state.card > cardCount(state.book)) state.card = 1;
     render();
   }).catch(function () {

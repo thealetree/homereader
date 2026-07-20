@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "ἐκ μέν με χλαῖνάν τε χιτῶνά τε εἵματʼ ἔδυσαν,"
+    },
+    {
+      "n": 342,
+      "greek": "ἀμφὶ δέ μοι ῥάκος ἄλλο κακὸν βάλον ἠδὲ χιτῶνα,"
+    },
+    {
+      "n": 343,
+      "greek": "ῥωγαλέα, τὰ καὶ αὐτὸς ἐν ὀφθαλμοῖσιν ὅρηαι·"
+    },
+    {
+      "n": 344,
+      "greek": "ἑσπέριοι δʼ Ἰθάκης εὐδειέλου ἔργʼ ἀφίκοντο."
+    },
+    {
+      "n": 345,
+      "greek": "ἔνθʼ ἐμὲ μὲν κατέδησαν ἐϋσσέλμῳ ἐνὶ νηῒ"
+    },
+    {
+      "n": 346,
+      "greek": "ὅπλῳ ἐϋστρεφέϊ στερεῶς, αὐτοὶ δʼ ἀποβάντες"
+    },
+    {
+      "n": 347,
+      "greek": "ἐσσυμένως παρὰ θῖνα θαλάσσης δόρπον ἕλοντο."
+    },
+    {
+      "n": 348,
+      "greek": "αὐτὰρ ἐμοὶ δεσμὸν μὲν ἀνέγναμψαν θεοὶ αὐτοὶ"
+    },
+    {
+      "n": 349,
+      "greek": "ῥηϊδίως· κεφαλῇ δὲ κατὰ ῥάκος ἀμφικαλύψας,"
+    },
+    {
+      "n": 350,
+      "greek": "ξεστὸν ἐφόλκαιον καταβὰς ἐπέλασσα θαλάσσῃ"
+    },
+    {
+      "n": 351,
+      "greek": "στῆθος, ἔπειτα δὲ χερσὶ διήρεσσʼ ἀμφοτέρῃσι"
+    },
+    {
+      "n": 352,
+      "greek": "νηχόμενος, μάλα δʼ ὦκα θύρηθʼ ἔα ἀμφὶς ἐκείνων."
+    },
+    {
+      "n": 353,
+      "greek": "ἔνθʼ ἀναβάς, ὅθι τε δρίος ἦν πολυανθέος ὕλης,"
+    },
+    {
+      "n": 354,
+      "greek": "κείμην πεπτηώς. οἱ δὲ μεγάλα στενάχοντες"
+    },
+    {
+      "n": 355,
+      "greek": "φοίτων· ἀλλʼ οὐ γάρ σφιν ἐφαίνετο κέρδιον εἶναι"
+    },
+    {
+      "n": 356,
+      "greek": "μαίεσθαι προτέρω, τοὶ μὲν πάλιν αὖτις ἔβαινον"
+    },
+    {
+      "n": 357,
+      "greek": "νηὸς ἔπι γλαφυρῆς· ἐμὲ δʼ ἔκρυψαν θεοὶ αὐτοὶ"
+    },
+    {
+      "n": 358,
+      "greek": "ῥηϊδίως, καί με σταθμῷ ἐπέλασσαν ἄγοντες"
+    },
+    {
+      "n": 359,
+      "greek": "ἀνδρὸς ἐπισταμένου· ἔτι γάρ νύ μοι αἶσα βιῶναι."
+    },
+    {
+      "n": 360,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "Then with a twisted rope they bound me fast in the benched ship, and themselves went ashore, and made haste to take their supper by the shore of the sea. But as for me, the gods themselves undid my bonds full easily, and, wrapping the tattered cloak about my head,"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "I slid down the smooth lading-plank, and brought my breast to the sea, and then struck out with both hands, and swam, and very soon was out of the water, and away from them. Then I went up to a place where there was a thicket of leafy wood, and lay there crouching."
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "And they went hither and thither with loud cries; but as there seemed to be no profit in going further in their search, they went back again on board their hollow ship. And the gods themselves hid me easily, and led me, and brought me to the farmstead of a wise man; for still haply it is my lot to live.”"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "To him then, swineherd Eumaeus, didst thou make answer, and say: “Ah, wretched stranger, verily thou hast stirred my heart deeply in telling all the tale of thy sufferings and thy wanderings. But in this, methinks, thou hast not spoken aright, nor shalt thou persuade me with thy tale about Odysseus. Why shouldst thou, who art in such plight"
+    }
+  ]
+}

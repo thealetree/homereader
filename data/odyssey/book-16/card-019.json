@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 19,
+  "lineStart": 362,
+  "lineEnd": 381,
+  "lines": [
+    {
+      "n": 362,
+      "greek": "εἴων οὔτε νέων μεταΐζειν οὔτε γερόντων."
+    },
+    {
+      "n": 363,
+      "greek": "τοῖσιν δʼ Ἀντίνοος μετέφη, Εὐπείθεος υἱός·"
+    },
+    {
+      "n": 364,
+      "greek": "ὢ πόποι, ὡς τόνδʼ ἄνδρα θεοὶ κακότητος ἔλυσαν."
+    },
+    {
+      "n": 365,
+      "greek": "ἤματα μὲν σκοποὶ ἷζον ἐπʼ ἄκριας ἠνεμοέσσας"
+    },
+    {
+      "n": 366,
+      "greek": "αἰὲν ἐπασσύτεροι· ἅμα δʼ ἠελίῳ καταδύντι"
+    },
+    {
+      "n": 367,
+      "greek": "οὔ ποτʼ ἐπʼ ἠπείρου νύκτʼ ἄσαμεν, ἀλλʼ ἐνὶ πόντῳ"
+    },
+    {
+      "n": 368,
+      "greek": "νηῒ θοῇ πλείοντες ἐμίμνομεν Ἠῶ δῖαν,"
+    },
+    {
+      "n": 369,
+      "greek": "Τηλέμαχον λοχόωντες, ἵνα φθίσωμεν ἑλόντες"
+    },
+    {
+      "n": 370,
+      "greek": "αὐτόν· τὸν δʼ ἄρα τῆος ἀπήγαγεν οἴκαδε δαίμων,"
+    },
+    {
+      "n": 371,
+      "greek": "ἡμεῖς δʼ ἐνθάδε οἱ φραζώμεθα λυγρὸν ὄλεθρον"
+    },
+    {
+      "n": 372,
+      "greek": "Τηλεμάχῳ, μηδʼ ἧμας ὑπεκφύγοι· οὐ γὰρ ὀΐω"
+    },
+    {
+      "n": 373,
+      "greek": "τούτου γε ζώοντος ἀνύσσεσθαι τάδε ἔργα."
+    },
+    {
+      "n": 374,
+      "greek": "αὐτὸς μὲν γὰρ ἐπιστήμων βουλῇ τε νόῳ τε,"
+    },
+    {
+      "n": 375,
+      "greek": "λαοὶ δʼ οὐκέτι πάμπαν ἐφʼ ἡμῖν ἦρα φέρουσιν."
+    },
+    {
+      "n": 376,
+      "greek": "ἀλλʼ ἄγετε, πρὶν κεῖνον ὁμηγυρίσασθαι Ἀχαιοὺς"
+    },
+    {
+      "n": 377,
+      "greek": "εἰς ἀγορήν—οὐ γάρ τι μεθησέμεναί μιν ὀΐω,"
+    },
+    {
+      "n": 378,
+      "greek": "ἀλλʼ ἀπομηνίσει, ἐρέει δʼ ἐν πᾶσιν ἀναστὰς"
+    },
+    {
+      "n": 379,
+      "greek": "οὕνεκά οἱ φόνον αἰπὺν ἐράπτομεν οὐδʼ ἐκίχημεν·"
+    },
+    {
+      "n": 380,
+      "greek": "οἱ δʼ οὐκ αἰνήσουσιν ἀκούοντες κακὰ ἔργα·"
+    },
+    {
+      "n": 381,
+      "greek": "μή τι κακὸν ῥέξωσι καὶ ἡμέας ἐξελάσωσι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "Day by day watchmen sat upon the windy heights, watch ever following watch, and at set of sun we never spent a night upon the shore, but sailing over the deep in our swift ship we waited for the bright Dawn, lying in wait for Telemachus, that we might take him and slay"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "the man himself; howbeit meanwhile some god has brought him home. But, on our part, let us here devise for him a woeful death, even for Telemachus, and let him not escape from out our hands, for I deem that while he lives this work of ours will not prosper. For he is himself shrewd in counsel and in wisdom,"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "and the people nowise show us favour any more. Nay, come, before he gathers the Achaeans to the place of assembly—for methinks he will in no wise be slow to act, but will be full of wrath, and rising up will declare among them all how that we contrived against him utter destruction, but did not catch him;"
+    },
+    {
+      "lines": [
+        380,
+        381
+      ],
+      "text": "and they will not praise us when they hear of our evil deeds. Beware, then, lest they work us some harm and drive us out from our country, and we come to the land of strangers. Nay, let us act first, and seize him in the field far from the city, or on the road; and his substance let us ourselves keep, and his wealth,"
+    }
+  ]
+}

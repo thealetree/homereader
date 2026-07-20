@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "τοιγὰρ ἐγώ τοι, τέκνον, ἀληθέα πάντʼ ἀγορεύσω."
+    },
+    {
+      "n": 62,
+      "greek": "ἐκ μὲν Κρητάων γένος εὔχεται εὐρειάων,"
+    },
+    {
+      "n": 63,
+      "greek": "φησὶ δὲ πολλὰ βροτῶν ἐπὶ ἄστεα δινηθῆναι"
+    },
+    {
+      "n": 64,
+      "greek": "πλαζόμενος· ὣς γάρ οἱ ἐπέκλωσεν τά γε δαίμων."
+    },
+    {
+      "n": 65,
+      "greek": "νῦν αὖ Θεσπρωτῶν ἀνδρῶν ἐκ νηὸς ἀποδρὰς"
+    },
+    {
+      "n": 66,
+      "greek": "ἤλυθʼ ἐμὸν πρὸς σταθμόν, ἐγὼ δέ τοι ἐγγυαλίξω·"
+    },
+    {
+      "n": 67,
+      "greek": "ἔρξον ὅπως ἐθέλεις· ἱκέτης δέ τοι εὔχεται εἶναι."
+    },
+    {
+      "n": 68,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 69,
+      "greek": "Εὔμαιʼ, ἦ μάλα τοῦτο ἔπος θυμαλγὲς ἔειπες·"
+    },
+    {
+      "n": 70,
+      "greek": "πῶς γὰρ δὴ τὸν ξεῖνον ἐγὼν ὑποδέξομαι οἴκῳ;"
+    },
+    {
+      "n": 71,
+      "greek": "αὐτὸς μὲν νέος εἰμὶ καὶ οὔ πω χερσὶ πέποιθα"
+    },
+    {
+      "n": 72,
+      "greek": "ἄνδρʼ ἀπαμύνασθαι, ὅτε τις πρότερος χαλεπήνῃ·"
+    },
+    {
+      "n": 73,
+      "greek": "μητρὶ δʼ ἐμῇ δίχα θυμὸς ἐνὶ φρεσὶ μερμηρίζει,"
+    },
+    {
+      "n": 74,
+      "greek": "ἢ αὐτοῦ παρʼ ἐμοί τε μένῃ καὶ δῶμα κομίζῃ,"
+    },
+    {
+      "n": 75,
+      "greek": "εὐνήν τʼ αἰδομένη πόσιος δήμοιό τε φῆμιν,"
+    },
+    {
+      "n": 76,
+      "greek": "ἦ ἤδη ἅμʼ ἕπηται Ἀχαιῶν ὅς τις ἄριστος"
+    },
+    {
+      "n": 77,
+      "greek": "μνᾶται ἐνὶ μεγάροισιν ἀνὴρ καὶ πλεῖστα πόρῃσιν."
+    },
+    {
+      "n": 78,
+      "greek": "ἀλλʼ ἦ τοὶ τὸν ξεῖνον, ἐπεὶ τεὸν ἵκετο δῶμα,"
+    },
+    {
+      "n": 79,
+      "greek": "ἕσσω μιν χλαῖνάν τε χιτῶνά τε, εἵματα καλά,"
+    },
+    {
+      "n": 80,
+      "greek": "δώσω δὲ ξίφος ἄμφηκες καὶ ποσσὶ πέδιλα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "But now he has run away from a ship of the Thesprotians and come to my farmstead, and I shall put him in thy hands. Do what thou wilt. He declares himself thy suppliant.” Then again wise Telemachus answered him: “Eumaeus, verily this word which thou hast uttered stings me to the heart."
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "For how am I to welcome this stranger in my house? I am myself but young, nor have I yet trust in my might to defend me against a man, when one waxes wroth without a cause. And as for my mother, the heart in her breast wavers this way and that, whether to abide here with me and keep the house,"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "respecting the bed of her husband and the voice of the people, or to go now with him whosoever is best of the Achaeans that woo her in the halls, and offers the most gifts of wooing. But verily, as regards this stranger, now that he has come to thy house, I will clothe him in a cloak and tunic, fair raiment,"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "and will give him a two-edged sword, and sandals for his feet, and send him whithersoever his heart and spirit bid him go. Or, if thou wilt, do thou keep him here at the farmstead, and care for him, and raiment will I send hither and all his food to eat, that he be not the ruin of thee and of thy men."
+    }
+  ]
+}

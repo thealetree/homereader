@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "αὐτὰρ ἐμὲ προέηκε Γερήνιος ἱππότα Νέστωρ"
+    },
+    {
+      "n": 162,
+      "greek": "τῷ ἅμα πομπὸν ἕπεσθαι· ἐέλδετο γάρ σε ἰδέσθαι,"
+    },
+    {
+      "n": 163,
+      "greek": "ὄφρα οἱ ἤ τι ἔπος ὑποθήσεαι ἠέ τι ἔργον."
+    },
+    {
+      "n": 164,
+      "greek": "πολλὰ γὰρ ἄλγεʼ ἔχει πατρὸς πάϊς οἰχομένοιο"
+    },
+    {
+      "n": 165,
+      "greek": "ἐν μεγάροις, ᾧ μὴ ἄλλοι ἀοσσητῆρες ἔωσιν,"
+    },
+    {
+      "n": 166,
+      "greek": "ὡς νῦν Τηλεμάχῳ ὁ μὲν οἴχεται, οὐδέ οἱ ἄλλοι"
+    },
+    {
+      "n": 167,
+      "greek": "εἴσʼ οἵ κεν κατὰ δῆμον ἀλάλκοιεν κακότητα."
+    },
+    {
+      "n": 168,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 169,
+      "greek": "ὢ πόποι, ἦ μάλα δὴ φίλου ἀνέρος υἱὸς ἐμὸν δῶ"
+    },
+    {
+      "n": 170,
+      "greek": "ἵκεθʼ, ὃς εἵνεκʼ ἐμεῖο πολέας ἐμόγησεν ἀέθλους·"
+    },
+    {
+      "n": 171,
+      "greek": "καί μιν ἔφην ἐλθόντα φιλησέμεν ἔξοχον ἄλλων"
+    },
+    {
+      "n": 172,
+      "greek": "Ἀργείων, εἰ νῶιν ὑπεὶρ ἅλα νόστον ἔδωκε"
+    },
+    {
+      "n": 173,
+      "greek": "νηυσὶ θοῇσι γενέσθαι Ὀλύμπιος εὐρύοπα Ζεύς."
+    },
+    {
+      "n": 174,
+      "greek": "καί κέ οἱ Ἄργεϊ νάσσα πόλιν καὶ δώματʼ ἔτευξα,"
+    },
+    {
+      "n": 175,
+      "greek": "ἐξ Ἰθάκης ἀγαγὼν σὺν κτήμασι καὶ τέκεϊ ᾧ"
+    },
+    {
+      "n": 176,
+      "greek": "καὶ πᾶσιν λαοῖσι, μίαν πόλιν ἐξαλαπάξας,"
+    },
+    {
+      "n": 177,
+      "greek": "αἳ περιναιετάουσιν, ἀνάσσονται δʼ ἐμοὶ αὐτῷ."
+    },
+    {
+      "n": 178,
+      "greek": "καί κε θάμʼ ἐνθάδʼ ἐόντες ἐμισγόμεθʼ· οὐδέ κεν ἡμέας"
+    },
+    {
+      "n": 179,
+      "greek": "ἄλλο διέκρινεν φιλέοντέ τε τερπομένω τε,"
+    },
+    {
+      "n": 180,
+      "greek": "πρίν γʼ ὅτε δὴ θανάτοιο μέλαν νέφος ἀμφεκάλυψεν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "in his halls when his father is gone, when there are none other to be his helpers, even as it is now with Telemachus; his father is gone, and there are no others among the people who might ward off ruin.” Then fair-haired Menelaus answered him and said: “Lo now, verily is there come to my house the son of a man well-beloved,"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "who for my sake endured many toils. And I thought that if he came back I should give him welcome beyond all the other Argives, if Olympian Zeus, whose voice is borne afar, had granted to us two a return in our swift ships over the sea. And in Argos I would have given him a city to dwell in, and would have built him a house,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "when I had brought him from Ithaca with his goods and his son and all his people, driving out the dwellers of some one city among those that lie round about and obey me myself as their lord. Then, living here, should we ofttimes have met together, nor would aught have parted us, loving and joying in one another,"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "until the black cloud of death enfolded us. Howbeit of this, methinks, the god himself must have been jealous, who to that hapless man alone vouchsafed no return.” So he spoke, and in them all aroused the desire of lament. Argive Helen wept, the daughter of Zeus,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "ἔκβαλον· αὐτὰρ ἐγὼ λιπόμην ἀκαχήμενος ἦτορ·"
+    },
+    {
+      "n": 482,
+      "greek": "τοὺς δʼ Ἰθάκῃ ἐπέλασσε φέρων ἄνεμός τε καὶ ὕδωρ,"
+    },
+    {
+      "n": 483,
+      "greek": "ἔνθα με Λαέρτης πρίατο κτεάτεσσιν ἑοῖσιν."
+    },
+    {
+      "n": 484,
+      "greek": "οὕτω τήνδε τε γαῖαν ἐγὼν ἴδον ὀφθαλμοῖσι."
+    },
+    {
+      "n": 485,
+      "greek": "τὸν δʼ αὖ διογενὴς Ὀδυσεὺς ἠμείβετο μύθῳ·"
+    },
+    {
+      "n": 486,
+      "greek": "Εὔμαιʼ, ἦ μάλα δή μοι ἐνὶ φρεσὶ θυμὸν ὄρινας"
+    },
+    {
+      "n": 487,
+      "greek": "ταῦτα ἕκαστα λέγων, ὅσα δὴ πάθες ἄλγεα θυμῷ."
+    },
+    {
+      "n": 488,
+      "greek": "ἀλλʼ ἦ τοι σοὶ μὲν παρὰ καὶ κακῷ ἐσθλὸν ἔθηκε"
+    },
+    {
+      "n": 489,
+      "greek": "Ζεύς, ἐπεὶ ἀνδρὸς δώματʼ ἀφίκεο πολλὰ μογήσας"
+    },
+    {
+      "n": 490,
+      "greek": "ἠπίου, ὃς δή τοι παρέχει βρῶσίν τε πόσιν τε"
+    },
+    {
+      "n": 491,
+      "greek": "ἐνδυκέως, ζώεις δʼ ἀγαθὸν βίον· αὐτὰρ ἐγώ γε"
+    },
+    {
+      "n": 492,
+      "greek": "πολλὰ βροτῶν ἐπὶ ἄστεʼ ἀλώμενος ἐνθάδʼ ἱκάνω."
+    },
+    {
+      "n": 493,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    },
+    {
+      "n": 494,
+      "greek": "καδδραθέτην δʼ οὐ πολλὸν ἐπὶ χρόνον, ἀλλὰ μίνυνθα·"
+    },
+    {
+      "n": 495,
+      "greek": "αἶψα γὰρ Ἠὼς ἦλθεν ἐΰθρονος. οἱ δʼ ἐπὶ χέρσου"
+    },
+    {
+      "n": 496,
+      "greek": "Τηλεμάχου ἕταροι λύον ἱστία, κὰδ δʼ ἕλον ἱστὸν"
+    },
+    {
+      "n": 497,
+      "greek": "καρπαλίμως, τὴν δʼ εἰς ὅρμον προέρυσσαν ἐρετμοῖς·"
+    },
+    {
+      "n": 498,
+      "greek": "ἐκ δʼ εὐνὰς ἔβαλον, κατὰ δὲ πρυμνήσιʼ ἔδησαν·"
+    },
+    {
+      "n": 499,
+      "greek": "ἐκ δὲ καὶ αὐτοὶ βαῖνον ἐπὶ ῥηγμῖνι θαλάσσης,"
+    },
+    {
+      "n": 500,
+      "greek": "δεῖπνόν τʼ ἐντύνοντο κερῶντό τε αἴθοπα οἶνον."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "To him then Zeus-born Odysseus made answer, and said: “Eumaeus, of a truth thou hast deeply stirred the heart in my breast in telling all this tale of the sorrow thou hast borne at heart. Yet verily in thy case Zeus has given good side by side with the evil, since after all thy toil thou hast come to the house of"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "a kindly man, who gives thee food and drink, and that with kindness, and thou livest well; while as for me, it is while wandering through the many cities of men that I am come hither.” Thus they spoke to one another, and then lay down to sleep, for no long time, but for a little;"
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "for soon came fair-throned Dawn. But the comrades of Telemachus, drawing near the shore, furled the sail, and took down the mast quickly, and rowed the ship to her anchorage with their oars. Then they cast out the mooring-stones and made fast the stern cables, and themselves went forth upon the shore of the sea,"
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "and made ready their meal and mixed the flaming wine. But when they had put from them the desire of food and drink, among them wise Telemachus was the first to speak, saying: “Do you now row the black ship to the city, but I will visit the fields and the herdsmen,"
+    }
+  ]
+}

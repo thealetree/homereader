@@ -1,0 +1,129 @@
+{
+  "book": 7,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "ὧς ὁ μὲν ἔνθʼ ἠρᾶτο πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 2,
+      "greek": "κούρην δὲ προτὶ ἄστυ φέρεν μένος ἡμιόνοιιν."
+    },
+    {
+      "n": 3,
+      "greek": "ἡ δʼ ὅτε δὴ οὗ πατρὸς ἀγακλυτὰ δώμαθʼ ἵκανε,"
+    },
+    {
+      "n": 4,
+      "greek": "στῆσεν ἄρʼ ἐν προθύροισι, κασίγνητοι δέ μιν ἀμφὶς"
+    },
+    {
+      "n": 5,
+      "greek": "ἵσταντʼ ἀθανάτοις ἐναλίγκιοι, οἵ ῥʼ ὑπʼ ἀπήνης"
+    },
+    {
+      "n": 6,
+      "greek": "ἡμιόνους ἔλυον ἐσθῆτά τε ἔσφερον εἴσω."
+    },
+    {
+      "n": 7,
+      "greek": "αὐτὴ δʼ ἐς θάλαμον ἑὸν ἤιε· δαῖε δέ οἱ πῦρ"
+    },
+    {
+      "n": 8,
+      "greek": "γρῆυς Ἀπειραίη, θαλαμηπόλος Εὐρυμέδουσα,"
+    },
+    {
+      "n": 9,
+      "greek": "τήν ποτʼ Ἀπείρηθεν νέες ἤγαγον ἀμφιέλισσαι·"
+    },
+    {
+      "n": 10,
+      "greek": "Ἀλκινόῳ δʼ αὐτὴν γέρας ἔξελον, οὕνεκα πᾶσιν"
+    },
+    {
+      "n": 11,
+      "greek": "Φαιήκεσσιν ἄνασσε, θεοῦ δʼ ὣς δῆμος ἄκουεν·"
+    },
+    {
+      "n": 12,
+      "greek": "ἣ τρέφε Ναυσικάαν λευκώλενον ἐν μεγάροισιν."
+    },
+    {
+      "n": 13,
+      "greek": "ἥ οἱ πῦρ ἀνέκαιε καὶ εἴσω δόρπον ἐκόσμει."
+    },
+    {
+      "n": 14,
+      "greek": "καὶ τότʼ Ὀδυσσεὺς ὦρτο πόλινδʼ ἴμεν· ἀμφὶ δʼ Ἀθήνη"
+    },
+    {
+      "n": 15,
+      "greek": "πολλὴν ἠέρα χεῦε φίλα φρονέουσʼ Ὀδυσῆι,"
+    },
+    {
+      "n": 16,
+      "greek": "μή τις Φαιήκων μεγαθύμων ἀντιβολήσας"
+    },
+    {
+      "n": 17,
+      "greek": "κερτομέοι τʼ ἐπέεσσι καὶ ἐξερέοιθʼ ὅτις εἴη."
+    },
+    {
+      "n": 18,
+      "greek": "ἀλλʼ ὅτε δὴ ἄρʼ ἔμελλε πόλιν δύσεσθαι ἐραννήν,"
+    },
+    {
+      "n": 19,
+      "greek": "ἔνθα οἱ ἀντεβόλησε θεά, γλαυκῶπις Ἀθήνη,"
+    },
+    {
+      "n": 20,
+      "greek": "παρθενικῇ ἐικυῖα νεήνιδι, κάλπιν ἐχούσῃ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "So he prayed there, the much-enduring goodly Odysseus, while the two strong mules bore the maiden to the city. But when she had come to the glorious palace of her father, she halted the mules at the outer gate, and her brothers"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "thronged about her, men like the immortals, and loosed the mules from the wagon, and bore the raiment within; and she herself went to her chamber. There a fire was kindled for her by her waiting-woman, Eurymedusa, an aged dame from Apeire. Long ago the curved ships had brought her from Apeire,"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "and men had chosen her from the spoil as a gift of honor for Alcinous, for that he was king over all the Phaeacians, and the people hearkened to him as to a god. She it was who had reared the white-armed Nausicaa in the palace, and she it was who kindled the fire for her, and made ready her supper in the chamber. Then Odysseus roused himself to go to the city, and Athena,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "with kindly purpose, cast about him a thick mist, that no one of the great-hearted Phaeacians, meeting him, should speak mockingly to him, and ask him who he was. But when he was about to enter the lovely city, then the goddess, flashing-eyed Athena, met him"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "in the guise of a young maiden carrying a pitcher, and she stood before him; and goodly Odysseus questioned her, saying: “My child, couldst thou not guide me to the house of him they call Alcinous, who is lord among the people here? For I am come hither a stranger sore-tried"
+    }
+  ]
+}

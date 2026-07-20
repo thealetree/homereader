@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "Πλαγκτὰς δή τοι τάς γε θεοὶ μάκαρες καλέουσι."
+    },
+    {
+      "n": 62,
+      "greek": "τῇ μέν τʼ οὐδὲ ποτητὰ παρέρχεται οὐδὲ πέλειαι"
+    },
+    {
+      "n": 63,
+      "greek": "τρήρωνες, ταί τʼ ἀμβροσίην Διὶ πατρὶ φέρουσιν,"
+    },
+    {
+      "n": 64,
+      "greek": "ἀλλά τε καὶ τῶν αἰὲν ἀφαιρεῖται λὶς πέτρη·"
+    },
+    {
+      "n": 65,
+      "greek": "ἀλλʼ ἄλλην ἐνίησι πατὴρ ἐναρίθμιον εἶναι."
+    },
+    {
+      "n": 66,
+      "greek": "τῇ δʼ οὔ πώ τις νηῦς φύγεν ἀνδρῶν, ἥ τις ἵκηται,"
+    },
+    {
+      "n": 67,
+      "greek": "ἀλλά θʼ ὁμοῦ πίνακάς τε νεῶν καὶ σώματα φωτῶν"
+    },
+    {
+      "n": 68,
+      "greek": "κύμαθʼ ἁλὸς φορέουσι πυρός τʼ ὀλοοῖο θύελλαι."
+    },
+    {
+      "n": 69,
+      "greek": "οἴη δὴ κείνη γε παρέπλω ποντοπόρος νηῦς,"
+    },
+    {
+      "n": 70,
+      "greek": "Ἀργὼ πᾶσι μέλουσα, παρʼ Αἰήταο πλέουσα."
+    },
+    {
+      "n": 71,
+      "greek": "καὶ νύ κε τὴν ἔνθʼ ὦκα βάλεν μεγάλας ποτὶ πέτρας,"
+    },
+    {
+      "n": 72,
+      "greek": "ἀλλʼ Ἥρη παρέπεμψεν, ἐπεὶ φίλος ἦεν Ἰήσων."
+    },
+    {
+      "n": 73,
+      "greek": "οἱ δὲ δύω σκόπελοι ὁ μὲν οὐρανὸν εὐρὺν ἱκάνει"
+    },
+    {
+      "n": 74,
+      "greek": "ὀξείῃ κορυφῇ, νεφέλη δέ μιν ἀμφιβέβηκε"
+    },
+    {
+      "n": 75,
+      "greek": "κυανέη· τὸ μὲν οὔ ποτʼ ἐρωεῖ, οὐδέ ποτʼ αἴθρη"
+    },
+    {
+      "n": 76,
+      "greek": "κείνου ἔχει κορυφὴν οὔτʼ ἐν θέρει οὔτʼ ἐν ὀπώρῃ."
+    },
+    {
+      "n": 77,
+      "greek": "οὐδέ κεν ἀμβαίη βροτὸς ἀνὴρ οὐδʼ ἐπιβαίη,"
+    },
+    {
+      "n": 78,
+      "greek": "οὐδʼ εἴ οἱ χεῖρές τε ἐείκοσι καὶ πόδες εἶεν·"
+    },
+    {
+      "n": 79,
+      "greek": "πέτρη γὰρ λίς ἐστι, περιξεστῇ ἐικυῖα."
+    },
+    {
+      "n": 80,
+      "greek": "μέσσῳ δʼ ἐν σκοπέλῳ ἔστι σπέος ἠεροειδές,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "and the father sends in another to make up the tale. And thereby has no ship of men ever yet escaped that has come thither, but the planks of ships and bodies of men are whirled confusedly by the waves of the sea and the blasts of baneful fire. One seafaring ship alone has passed thereby,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "that Argo famed of all, on her voyage from Aeetes, and even her the wave would speedily have dashed there against the great crags, had not Here sent her through, for that Jason was dear to her. “‘Now on the other path are two cliffs, one of which reaches with its sharp peak to the broad heaven, and a dark cloud surrounds it."
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "This never melts away, nor does clear sky ever surround that peak in summer or in harvest time. No mortal man could scale it or set foot upon the top, not though he had twenty hands and feet; for the rock is smooth, as if it were polished."
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "And in the midst of the cliff is a dim cave, turned to the West, toward Erebus, even where you shall steer your hollow ship, glorious Odysseus. Not even a man of might could shoot an arrow from the hollow ship so as to reach into that vaulted cave."
+    }
+  ]
+}

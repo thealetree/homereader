@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "παύρους μνηστῆρας καταπαύετε πολλοὶ ἐόντες."
+    },
+    {
+      "n": 242,
+      "greek": "τὸν δʼ Εὐηνορίδης Λειώκριτος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 243,
+      "greek": "Μέντορ ἀταρτηρέ, φρένας ἠλεέ, ποῖον ἔειπες"
+    },
+    {
+      "n": 244,
+      "greek": "ἡμέας ὀτρύνων καταπαυέμεν. ἀργαλέον δὲ"
+    },
+    {
+      "n": 245,
+      "greek": "ἀνδράσι καὶ πλεόνεσσι μαχήσασθαι περὶ δαιτί."
+    },
+    {
+      "n": 246,
+      "greek": "εἴ περ γάρ κʼ Ὀδυσεὺς Ἰθακήσιος αὐτὸς ἐπελθὼν"
+    },
+    {
+      "n": 247,
+      "greek": "δαινυμένους κατὰ δῶμα ἑὸν μνηστῆρας ἀγαυοὺς"
+    },
+    {
+      "n": 248,
+      "greek": "ἐξελάσαι μεγάροιο μενοινήσειʼ ἐνὶ θυμῷ,"
+    },
+    {
+      "n": 249,
+      "greek": "οὔ κέν οἱ κεχάροιτο γυνή, μάλα περ χατέουσα,"
+    },
+    {
+      "n": 250,
+      "greek": "ἐλθόντʼ, ἀλλά κεν αὐτοῦ ἀεικέα πότμον ἐπίσποι,"
+    },
+    {
+      "n": 251,
+      "greek": "εἰ πλεόνεσσι μάχοιτο· σὺ δʼ οὐ κατὰ μοῖραν ἔειπες."
+    },
+    {
+      "n": 252,
+      "greek": "ἀλλʼ ἄγε, λαοὶ μὲν σκίδνασθʼ ἐπὶ ἔργα ἕκαστος,"
+    },
+    {
+      "n": 253,
+      "greek": "τούτῳ δʼ ὀτρυνέει Μέντωρ ὁδὸν ἠδʼ Ἁλιθέρσης,"
+    },
+    {
+      "n": 254,
+      "greek": "οἵ τέ οἱ ἐξ ἀρχῆς πατρώιοί εἰσιν ἑταῖροι."
+    },
+    {
+      "n": 255,
+      "greek": "ἀλλʼ ὀίω, καὶ δηθὰ καθήμενος ἀγγελιάων"
+    },
+    {
+      "n": 256,
+      "greek": "πεύσεται εἰν Ἰθάκῃ, τελέει δʼ ὁδὸν οὔ ποτε ταύτην."
+    },
+    {
+      "n": 257,
+      "greek": "ὣς ἄρʼ ἐφώνησεν, λῦσεν δʼ ἀγορὴν αἰψηρήν."
+    },
+    {
+      "n": 258,
+      "greek": "οἱ μὲν ἄρʼ ἐσκίδναντο ἑὰ πρὸς δώμαθʼ ἕκαστος,"
+    },
+    {
+      "n": 259,
+      "greek": "μνηστῆρες δʼ ἐς δώματʼ ἴσαν θείου Ὀδυσῆος."
+    },
+    {
+      "n": 260,
+      "greek": "Τηλέμαχος δʼ ἀπάνευθε κιὼν ἐπὶ θῖνα θαλάσσης,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "to fight about a feast with men that moreover outnumber you. For if Ithacan Odysseus himself were to come and be eager at heart to drive out from his hall the lordly wooers who are feasting in his house, then should his wife have no joy"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "at his coming, though sorely she longed for him, but right here would he meet a shameful death, if he fought with men that outnumbered him. Thou hast not spoken aright. But come now, ye people, scatter, each one of you to his own lands. As for this fellow, Mentor and Halitherses will speed his journey, for they are friends of his father's house from of old."
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "But methinks he will long abide here and get his tidings in Ithaca, and never accomplish this journey.” So he spoke, and hastily broke up the assembly. They then scattered, each one to his own house; and the wooers went to the house of divine Odysseus."
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "But Telemachus went apart to the shore of the sea, and having washed his hands in the grey seawater, prayed to Athena: “Hear me, thou who didst come yesterday as a god to our house, and didst bid me go in a ship over the misty deep to seek tidings of the return of my father, that has long been gone."
+    }
+  ]
+}

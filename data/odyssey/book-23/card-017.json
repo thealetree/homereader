@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 17,
+  "lineStart": 322,
+  "lineEnd": 341,
+  "lines": [
+    {
+      "n": 322,
+      "greek": "ἠδʼ ὡς εἰς Ἀΐδεω δόμον ἤλυθεν εὐρώεντα,"
+    },
+    {
+      "n": 323,
+      "greek": "ψυχῇ χρησόμενος Θηβαίου Τειρεσίαο,"
+    },
+    {
+      "n": 324,
+      "greek": "νηῒ πολυκλήϊδι, καὶ εἴσιδε πάντας ἑταίρους"
+    },
+    {
+      "n": 325,
+      "greek": "μητέρα θʼ, ἥ μιν ἔτικτε καὶ ἔτρεφε τυτθὸν ἐόντα·"
+    },
+    {
+      "n": 326,
+      "greek": "ἠδʼ ὡς Σειρήνων ἁδινάων φθόγγον ἄκουσεν,"
+    },
+    {
+      "n": 327,
+      "greek": "ὥς θʼ ἵκετο Πλαγκτὰς πέτρας δεινήν τε Χάρυβδιν"
+    },
+    {
+      "n": 328,
+      "greek": "Σκύλλην θʼ, ἣν οὔ πώ ποτʼ ἀκήριοι ἄνδρες ἄλυξαν·"
+    },
+    {
+      "n": 329,
+      "greek": "ἠδʼ ὡς Ἠελίοιο βόας κατέπεφνον ἑταῖροι·"
+    },
+    {
+      "n": 330,
+      "greek": "ἠδʼ ὡς νῆα θοὴν ἔβαλε ψολόεντι κεραυνῷ"
+    },
+    {
+      "n": 331,
+      "greek": "Ζεὺς ὑψιβρεμέτης, ἀπὸ δʼ ἔφθιθεν ἐσθλοὶ ἑταῖροι"
+    },
+    {
+      "n": 332,
+      "greek": "πάντες ὁμῶς, αὐτὸς δὲ κακὰς ὑπὸ κῆρας ἄλυξεν·"
+    },
+    {
+      "n": 333,
+      "greek": "ὥς θʼ ἵκετʼ Ὠγυγίην νῆσον νύμφην τε Καλυψώ,"
+    },
+    {
+      "n": 334,
+      "greek": "ἣ δή μιν κατέρυκε, λιλαιομένη πόσιν εἶναι,"
+    },
+    {
+      "n": 335,
+      "greek": "ἐν σπέσσι γλαφυροῖσι, καὶ ἔτρεφεν ἠδὲ ἔφασκε"
+    },
+    {
+      "n": 336,
+      "greek": "θήσειν ἀθάνατον καὶ ἀγήραον ἤματα πάντα·"
+    },
+    {
+      "n": 337,
+      "greek": "ἀλλὰ τοῦ οὔ ποτε θυμὸν ἐνὶ στήθεσσιν ἔπειθεν·"
+    },
+    {
+      "n": 338,
+      "greek": "ἠδʼ ὡς ἐς Φαίηκας ἀφίκετο πολλὰ μογήσας,"
+    },
+    {
+      "n": 339,
+      "greek": "οἳ δή μιν περὶ κῆρι θεὸν ὣς τιμήσαντο"
+    },
+    {
+      "n": 340,
+      "greek": "καὶ πέμψαν σὺν νηῒ φίλην ἐς πατρίδα γαῖαν,"
+    },
+    {
+      "n": 341,
+      "greek": "χαλκόν τε χρυσόν τε ἅλις ἐσθῆτά τε δόντες."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "and the mother who bore him and nursed him, when a child. And how he heard the voice of the Sirens, who sing unceasingly, and had come to the Wandering Rocks, and to dread Charybdis, and to Scylla, from whom never yet had men escaped unscathed. Then how his comrades slew the kine of Helios,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "and how Zeus, who thunders on high, smote his swift ship with a flaming thunderbolt, and his goodly comrades perished all together, while he alone escaped the evil fates. And how he came to the isle Ogygia and to the nymph Calypso, who kept him there"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "in her hollow caves, yearning that he should be her husband, and tended him, and said that she would make him immortal and ageless all his days; yet she could never persuade the heart in his breast. Then how he came after many toils to the Phaeacians, who heartily showed him all honor, as if he were a god,"
+    },
+    {
+      "lines": [
+        340,
+        341
+      ],
+      "text": "and sent him in a ship to his dear native land, after giving him stores of bronze and gold and raiment. This was the end of the tale he told, when sweet sleep, that loosens the limbs of men, leapt upon him, loosening the cares of his heart. Then again the goddess, flashing-eyed Athena, took other counsel."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "book": 5,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "Ἠὼς δʼ ἐκ λεχέων παρʼ ἀγαυοῦ Τιθωνοῖο"
+    },
+    {
+      "n": 2,
+      "greek": "ὤρνυθʼ, ἵνʼ ἀθανάτοισι φόως φέροι ἠδὲ βροτοῖσιν·"
+    },
+    {
+      "n": 3,
+      "greek": "οἱ δὲ θεοὶ θῶκόνδε καθίζανον, ἐν δʼ ἄρα τοῖσι"
+    },
+    {
+      "n": 4,
+      "greek": "Ζεὺς ὑψιβρεμέτης, οὗ τε κράτος ἐστὶ μέγιστον."
+    },
+    {
+      "n": 5,
+      "greek": "τοῖσι δʼ Ἀθηναίη λέγε κήδεα πόλλʼ Ὀδυσῆος"
+    },
+    {
+      "n": 6,
+      "greek": "μνησαμένη· μέλε γάρ οἱ ἐὼν ἐν δώμασι νύμφης·"
+    },
+    {
+      "n": 7,
+      "greek": "Ζεῦ πάτερ ἠδʼ ἄλλοι μάκαρες θεοὶ αἰὲν ἐόντες,"
+    },
+    {
+      "n": 8,
+      "greek": "μή τις ἔτι πρόφρων ἀγανὸς καὶ ἤπιος ἔστω"
+    },
+    {
+      "n": 9,
+      "greek": "σκηπτοῦχος βασιλεύς, μηδὲ φρεσὶν αἴσιμα εἰδώς,"
+    },
+    {
+      "n": 10,
+      "greek": "ἀλλʼ αἰεὶ χαλεπός τʼ εἴη καὶ αἴσυλα ῥέζοι·"
+    },
+    {
+      "n": 11,
+      "greek": "ὡς οὔ τις μέμνηται Ὀδυσσῆος θείοιο"
+    },
+    {
+      "n": 12,
+      "greek": "λαῶν οἷσιν ἄνασσε, πατὴρ δʼ ὣς ἤπιος ἦεν."
+    },
+    {
+      "n": 13,
+      "greek": "ἀλλʼ ὁ μὲν ἐν νήσῳ κεῖται κρατέρʼ ἄλγεα πάσχων"
+    },
+    {
+      "n": 14,
+      "greek": "νύμφης ἐν μεγάροισι Καλυψοῦς, ἥ μιν ἀνάγκῃ"
+    },
+    {
+      "n": 15,
+      "greek": "ἴσχει· ὁ δʼ οὐ δύναται ἣν πατρίδα γαῖαν ἱκέσθαι·"
+    },
+    {
+      "n": 16,
+      "greek": "οὐ γάρ οἱ πάρα νῆες ἐπήρετμοι καὶ ἑταῖροι,"
+    },
+    {
+      "n": 17,
+      "greek": "οἵ κέν μιν πέμποιεν ἐπʼ εὐρέα νῶτα θαλάσσης."
+    },
+    {
+      "n": 18,
+      "greek": "νῦν αὖ παῖδʼ ἀγαπητὸν ἀποκτεῖναι μεμάασιν"
+    },
+    {
+      "n": 19,
+      "greek": "οἴκαδε νισόμενον· ὁ δʼ ἔβη μετὰ πατρὸς ἀκουὴν"
+    },
+    {
+      "n": 20,
+      "greek": "ἐς Πύλον ἠγαθέην ἠδʼ ἐς Λακεδαίμονα δῖαν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "Now Dawn arose from her couch from beside lordly Tithonus, to bear light to the immortals and to mortal men. And the gods were sitting down to council, and among them Zeus, who thunders on high, whose might is supreme."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "To them Athena was recounting the many woes of Odysseus, as she called them to mind; for it troubled her that he abode in the dwelling of the nymph: “Father Zeus, and ye other blessed gods that are forever, never henceforward let sceptred king with a ready heart be kind and gentle, nor let him heed righteousness in his mind;"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "but let him ever be harsh, and work unrighteousness, seeing that no one remembers divine Odysseus of the people whose lord he was; yet gentle was he as a father. He verily abides in an island suffering grievous pains, in the halls of the nymph Calypso, who"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "keeps him perforce; and he cannot return to his own land, for he has at hand no ships with oars and no comrades to send him on his way over the broad back of the sea. And now again they are minded to slay his well-loved son on his homeward way; for he went in quest of tidings of his father"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "to sacred Pylos and to goodly Lacedaemon.” Then Zeus, the cloud-gatherer, answered her, and said: “My child, what a word has escaped the barrier of thy teeth! Didst thou not thyself devise this plan, that verily Odysseus might take vengeance on these men at his coming?"
+    }
+  ]
+}

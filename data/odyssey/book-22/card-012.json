@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "τοῖσιν Ὀδυσσῆος μεταμίξομεν· οὐδέ τοι υἷας"
+    },
+    {
+      "n": 222,
+      "greek": "ζώειν ἐν μεγάροισιν ἐάσομεν, οὐδέ θύγατρας"
+    },
+    {
+      "n": 223,
+      "greek": "οὐδʼ ἄλοχον κεδνὴν Ἰθάκης κατὰ ἄστυ πολεύειν."
+    },
+    {
+      "n": 224,
+      "greek": "ὣς φάτʼ, Ἀθηναίη δὲ χολώσατο κηρόθι μᾶλλον,"
+    },
+    {
+      "n": 225,
+      "greek": "νείκεσσεν δʼ Ὀδυσῆα χολωτοῖσιν ἐπέεσσιν·"
+    },
+    {
+      "n": 226,
+      "greek": "οὐκέτι σοί γʼ, Ὀδυσεῦ, μένος ἔμπεδον οὐδέ τις ἀλκή"
+    },
+    {
+      "n": 227,
+      "greek": "οἵη ὅτʼ ἀμφʼ Ἑλένῃ λευκωλένῳ εὐπατερείῃ,"
+    },
+    {
+      "n": 228,
+      "greek": "εἰνάετες Τρώεσσιν ἐμάρναο νωλεμὲς αἰεί,"
+    },
+    {
+      "n": 229,
+      "greek": "πολλοὺς δʼ ἄνδρας ἔπεφνες ἐν αἰνῇ δηϊοτῆτι,"
+    },
+    {
+      "n": 230,
+      "greek": "σῇ δʼ ἥλω βουλῇ Πριάμου πόλις εὐρυάγυια."
+    },
+    {
+      "n": 231,
+      "greek": "πῶς δὴ νῦν, ὅτε σόν τε δόμον καὶ κτήμαθʼ ἱκάνεις,"
+    },
+    {
+      "n": 232,
+      "greek": "ἄντα μνηστήρων ὀλοφύρεαι ἄλκιμος εἶναι;"
+    },
+    {
+      "n": 233,
+      "greek": "ἀλλʼ ἄγε δεῦρο, πέπον, παρʼ ἔμʼ ἵστασο καὶ ἴδε ἔργον,"
+    },
+    {
+      "n": 234,
+      "greek": "ὄφρʼ εἰδῇς οἷός τοι ἐν ἀνδράσι δυσμενέεσσιν"
+    },
+    {
+      "n": 235,
+      "greek": "Μέντωρ Ἀλκιμίδης εὐεργεσίας ἀποτίνειν."
+    },
+    {
+      "n": 236,
+      "greek": "ἦ ῥα, καὶ οὔ πω πάγχυ δίδου ἑτεραλκέα νίκην,"
+    },
+    {
+      "n": 237,
+      "greek": "ἀλλʼ ἔτʼ ἄρα σθένεός τε καὶ ἀλκῆς πειρήτιζεν"
+    },
+    {
+      "n": 238,
+      "greek": "ἠμὲν Ὀδυσσῆος ἠδʼ υἱοῦ κυδαλίμοιο."
+    },
+    {
+      "n": 239,
+      "greek": "αὐτὴ δʼ αἰθαλόεντος ἀνὰ μεγάροιο μέλαθρον"
+    },
+    {
+      "n": 240,
+      "greek": "ἕζετʼ ἀναΐξασα, χελιδόνι εἰκέλη ἄντην."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "and she rebuked Odysseus with angry words: “Odysseus, no longer hast thou steadfast might nor any valor, such as was thine when for high-born Helen of the white arms thou didst for nine years battle with the Trojans unceasingly, and many men thou slewest in dread conflict,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "and by thy counsel was the broad-wayed city of Priam taken. How is it that now, when thou hast come to thy house and thine own possessions, thou shrinkest with wailing from playing the man, and that against the wooers? Nay, friend, come hither and take thy stand by my side, and see my deeds, that thou mayest know what manner of man"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "Mentor, son of Alcimus, is to repay kindness in the midst of the foe.” She spoke, but did not give him strength utterly to turn the course of the battle, but still made trial of the might and valor of Odysseus and his glorious son; and for herself,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "she flew up to the roof-beam of the smoky hall, and sat there in the guise of a swallow to look upon. Now the wooers were urged on by Agelaus, son of Damastor, by Eurynomus, and Amphimedon and Demoptolemus and Peisander, son of Polyctor, and wise Polybus, for these were in valiance far the best of all the wooers"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "Κίρκης δʼ ἔνδον ἄκουον ἀειδούσης ὀπὶ καλῇ,"
+    },
+    {
+      "n": 222,
+      "greek": "ἱστὸν ἐποιχομένης μέγαν ἄμβροτον, οἷα θεάων"
+    },
+    {
+      "n": 223,
+      "greek": "λεπτά τε καὶ χαρίεντα καὶ ἀγλαὰ ἔργα πέλονται."
+    },
+    {
+      "n": 224,
+      "greek": "τοῖσι δὲ μύθων ἦρχε Πολίτης ὄρχαμος ἀνδρῶν,"
+    },
+    {
+      "n": 225,
+      "greek": "ὅς μοι κήδιστος ἑτάρων ἦν κεδνότατός τε·"
+    },
+    {
+      "n": 226,
+      "greek": "ὦ φίλοι, ἔνδον γάρ τις ἐποιχομένη μέγαν ἱστὸν"
+    },
+    {
+      "n": 227,
+      "greek": "καλὸν ἀοιδιάει, δάπεδον δʼ ἅπαν ἀμφιμέμυκεν,"
+    },
+    {
+      "n": 228,
+      "greek": "ἢ θεὸς ἠὲ γυνή· ἀλλὰ φθεγγώμεθα θᾶσσον."
+    },
+    {
+      "n": 229,
+      "greek": "ὣς ἄρʼ ἐφώνησεν, τοὶ δὲ φθέγγοντο καλεῦντες."
+    },
+    {
+      "n": 230,
+      "greek": "ἡ δʼ αἶψʼ ἐξελθοῦσα θύρας ὤιξε φαεινὰς"
+    },
+    {
+      "n": 231,
+      "greek": "καὶ κάλει· οἱ δʼ ἅμα πάντες ἀιδρείῃσιν ἕποντο·"
+    },
+    {
+      "n": 232,
+      "greek": "Εὐρύλοχος δʼ ὑπέμεινεν, ὀισάμενος δόλον εἶναι."
+    },
+    {
+      "n": 233,
+      "greek": "εἷσεν δʼ εἰσαγαγοῦσα κατὰ κλισμούς τε θρόνους τε,"
+    },
+    {
+      "n": 234,
+      "greek": "ἐν δέ σφιν τυρόν τε καὶ ἄλφιτα καὶ μέλι χλωρὸν"
+    },
+    {
+      "n": 235,
+      "greek": "οἴνῳ Πραμνείῳ ἐκύκα· ἀνέμισγε δὲ σίτῳ"
+    },
+    {
+      "n": 236,
+      "greek": "φάρμακα λύγρʼ, ἵνα πάγχυ λαθοίατο πατρίδος αἴης."
+    },
+    {
+      "n": 237,
+      "greek": "αὐτὰρ ἐπεὶ δῶκέν τε καὶ ἔκπιον, αὐτίκʼ ἔπειτα"
+    },
+    {
+      "n": 238,
+      "greek": "ῥάβδῳ πεπληγυῖα κατὰ συφεοῖσιν ἐέργνυ."
+    },
+    {
+      "n": 239,
+      "greek": "οἱ δὲ συῶν μὲν ἔχον κεφαλὰς φωνήν τε τρίχας τε"
+    },
+    {
+      "n": 240,
+      "greek": "καὶ δέμας, αὐτὰρ νοῦς ἦν ἔμπεδος, ὡς τὸ πάρος περ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "dearest to me of my comrades, and trustiest: “‘Friends, within someone goes to and fro before a great web, singing sweetly, so that all the floor echoes; some goddess it is, or some woman. Come, let us quickly call to her.’ “So he spoke, and they cried aloud, and called to her."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "And she straightway came forth and opened the bright doors, and bade them in; and all went with her in their folly. Only Eurylochus remained behind, for he suspected that there was a snare. She brought them in and made them sit on chairs and seats, and made for them a potion of cheese and barley meal and yellow honey"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "with Pramnian wine; but in the food she mixed baneful drugs, that they might utterly forget their native land. Now when she had given them the potion, and they had drunk it off, then she presently smote them with her wand, and penned them in the sties. And they had the heads, and voice, and bristles,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "and shape of swine, but their minds remained unchanged even as before. So they were penned there weeping, and before them Circe flung mast and acorns, and the fruit of the cornel tree, to eat, such things as wallowing swine are wont to feed upon. “But Eurylochus came back straightway to the swift, black ship,"
+    }
+  ]
+}

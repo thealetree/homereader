@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "ἀλλά μιν ἄψορρον προσέφην κεκοτηότι θυμῷ·"
+    },
+    {
+      "n": 502,
+      "greek": "Κύκλωψ, αἴ κέν τίς σε καταθνητῶν ἀνθρώπων"
+    },
+    {
+      "n": 503,
+      "greek": "ὀφθαλμοῦ εἴρηται ἀεικελίην ἀλαωτύν,"
+    },
+    {
+      "n": 504,
+      "greek": "φάσθαι Ὀδυσσῆα πτολιπόρθιον ἐξαλαῶσαι,"
+    },
+    {
+      "n": 505,
+      "greek": "υἱὸν Λαέρτεω, Ἰθάκῃ ἔνι οἰκίʼ ἔχοντα."
+    },
+    {
+      "n": 506,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ οἰμώξας ἠμείβετο μύθῳ·"
+    },
+    {
+      "n": 507,
+      "greek": "ὢ πόποι, ἦ μάλα δή με παλαίφατα θέσφαθʼ ἱκάνει."
+    },
+    {
+      "n": 508,
+      "greek": "ἔσκε τις ἐνθάδε μάντις ἀνὴρ ἠύς τε μέγας τε,"
+    },
+    {
+      "n": 509,
+      "greek": "Τήλεμος Εὐρυμίδης, ὃς μαντοσύνῃ ἐκέκαστο"
+    },
+    {
+      "n": 510,
+      "greek": "καὶ μαντευόμενος κατεγήρα Κυκλώπεσσιν·"
+    },
+    {
+      "n": 511,
+      "greek": "ὅς μοι ἔφη τάδε πάντα τελευτήσεσθαι ὀπίσσω,"
+    },
+    {
+      "n": 512,
+      "greek": "χειρῶν ἐξ Ὀδυσῆος ἁμαρτήσεσθαι ὀπωπῆς."
+    },
+    {
+      "n": 513,
+      "greek": "ἀλλʼ αἰεί τινα φῶτα μέγαν καὶ καλὸν ἐδέγμην"
+    },
+    {
+      "n": 514,
+      "greek": "ἐνθάδʼ ἐλεύσεσθαι, μεγάλην ἐπιειμένον ἀλκήν·"
+    },
+    {
+      "n": 515,
+      "greek": "νῦν δέ μʼ ἐὼν ὀλίγος τε καὶ οὐτιδανὸς καὶ ἄκικυς"
+    },
+    {
+      "n": 516,
+      "greek": "ὀφθαλμοῦ ἀλάωσεν, ἐπεί μʼ ἐδαμάσσατο οἴνῳ."
+    },
+    {
+      "n": 517,
+      "greek": "ἀλλʼ ἄγε δεῦρʼ, Ὀδυσεῦ, ἵνα τοι πὰρ ξείνια θείω"
+    },
+    {
+      "n": 518,
+      "greek": "πομπήν τʼ ὀτρύνω δόμεναι κλυτὸν ἐννοσίγαιον·"
+    },
+    {
+      "n": 519,
+      "greek": "τοῦ γὰρ ἐγὼ πάϊς εἰμί, πατὴρ δʼ ἐμὸς εὔχεται εἶναι."
+    },
+    {
+      "n": 520,
+      "greek": "αὐτὸς δʼ, αἴ κʼ ἐθέλῃσʼ, ἰήσεται, οὐδέ τις ἄλλος"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "even the son of Laertes, whose home is in Ithaca.’ “So I spoke, and he groaned and said in answer:‘Lo now, verily a prophecy uttered long ago is come upon me. There lived here a soothsayer, a good man and tall, Telemus, son of Eurymus, who excelled all men in soothsaying,"
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "and grew old as a seer among the Cyclopes. He told me that all these things should be brought to pass in days to come, that by the hands of Odysseus I should lose my sight. But I ever looked for some tall and comely man to come hither, clothed in great might,"
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "but now one that is puny, a man of naught and a weakling, has blinded me of my eye when he had overpowered me with wine. Yet come hither, Odysseus, that I may set before thee gifts of entertainment, and may speed thy sending hence, that the glorious Earth-shaker may grant it thee. For I am his son, and he declares himself my father;"
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "and he himself will heal me, if it be his good pleasure, but none other either of the blessed gods or of mortal men.’ “So he spoke, and I answered him and said:‘Would that I were able to rob thee of soul and life, and to send thee to the house of Hades,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ἐκ πόλιος δʼ ἀλόχους καὶ κτήματα πολλὰ λαβόντες"
+    },
+    {
+      "n": 42,
+      "greek": "δασσάμεθʼ, ὡς μή τίς μοι ἀτεμβόμενος κίοι ἴσης."
+    },
+    {
+      "n": 43,
+      "greek": "ἔνθʼ ἦ τοι μὲν ἐγὼ διερῷ ποδὶ φευγέμεν ἡμέας"
+    },
+    {
+      "n": 44,
+      "greek": "ἠνώγεα, τοὶ δὲ μέγα νήπιοι οὐκ ἐπίθοντο."
+    },
+    {
+      "n": 45,
+      "greek": "ἔνθα δὲ πολλὸν μὲν μέθυ πίνετο, πολλὰ δὲ μῆλα"
+    },
+    {
+      "n": 46,
+      "greek": "ἔσφαζον παρὰ θῖνα καὶ εἰλίποδας ἕλικας βοῦς·"
+    },
+    {
+      "n": 47,
+      "greek": "τόφρα δʼ ἄρʼ οἰχόμενοι Κίκονες Κικόνεσσι γεγώνευν,"
+    },
+    {
+      "n": 48,
+      "greek": "οἵ σφιν γείτονες ἦσαν, ἅμα πλέονες καὶ ἀρείους,"
+    },
+    {
+      "n": 49,
+      "greek": "ἤπειρον ναίοντες, ἐπιστάμενοι μὲν ἀφʼ ἵππων"
+    },
+    {
+      "n": 50,
+      "greek": "ἀνδράσι μάρνασθαι καὶ ὅθι χρὴ πεζὸν ἐόντα."
+    },
+    {
+      "n": 51,
+      "greek": "ἦλθον ἔπειθʼ ὅσα φύλλα καὶ ἄνθεα γίγνεται ὥρῃ,"
+    },
+    {
+      "n": 52,
+      "greek": "ἠέριοι· τότε δή ῥα κακὴ Διὸς αἶσα παρέστη"
+    },
+    {
+      "n": 53,
+      "greek": "ἡμῖν αἰνομόροισιν, ἵνʼ ἄλγεα πολλὰ πάθοιμεν."
+    },
+    {
+      "n": 54,
+      "greek": "στησάμενοι δʼ ἐμάχοντο μάχην παρὰ νηυσὶ θοῇσι,"
+    },
+    {
+      "n": 55,
+      "greek": "βάλλον δʼ ἀλλήλους χαλκήρεσιν ἐγχείῃσιν."
+    },
+    {
+      "n": 56,
+      "greek": "ὄφρα μὲν ἠὼς ἦν καὶ ἀέξετο ἱερὸν ἦμαρ,"
+    },
+    {
+      "n": 57,
+      "greek": "τόφρα δʼ ἀλεξόμενοι μένομεν πλέονάς περ ἐόντας."
+    },
+    {
+      "n": 58,
+      "greek": "ἦμος δʼ ἠέλιος μετενίσσετο βουλυτόνδε,"
+    },
+    {
+      "n": 59,
+      "greek": "καὶ τότε δὴ Κίκονες κλῖναν δαμάσαντες Ἀχαιούς."
+    },
+    {
+      "n": 60,
+      "greek": "ἓξ δʼ ἀφʼ ἑκάστης νηὸς ἐυκνήμιδες ἑταῖροι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "But there much wine was drunk, and many sheep they slew by the shore, and sleek kine of shambling gait. Meanwhile the Cicones went and called to other Cicones who were their neighbors, at once more numerous and braver than they—men that dwelt inland and were skilled"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "at fighting with their foes from chariots, and, if need were, on foot. So they came in the morning, as thick as leaves or flowers spring up in their season; and then it was that an evil fate from Zeus beset us luckless men, that we might suffer woes full many. They set their battle in array and fought by the swift ships,"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "and each side hurled at the other with bronze-tipped spears. Now as long as it was morn and the sacred day was waxing, so long we held our ground and beat them off, though they were more than we. But when the sun turned to the time for the unyoking of oxen, then the Cicones prevailed and routed the Achaeans,"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "and six of my well-greaved comrades perished from each ship; but the rest of us escaped death and fate. “Thence we sailed on, grieved at heart, glad to have escaped from death, though we had lost our dear comrades; nor did I let my curved ships pass on"
+    }
+  ]
+}

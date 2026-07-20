@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 14,
+  "lineStart": 262,
+  "lineEnd": 281,
+  "lines": [
+    {
+      "n": 262,
+      "greek": "πεύσομαι, αὐτίκα δʼ ἐστὶ δαήμεναι οὔ τι χέρειον."
+    },
+    {
+      "n": 263,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 264,
+      "greek": "δαιμονίη, τί τʼ ἄρʼ αὖ με μάλʼ ὀτρύνουσα κελεύεις"
+    },
+    {
+      "n": 265,
+      "greek": "εἰπέμεν; αὐτὰρ ἐγὼ μυθήσομαι οὐδʼ ἐπικεύσω."
+    },
+    {
+      "n": 266,
+      "greek": "οὐ μέν τοι θυμὸς κεχαρήσεται· οὐδὲ γὰρ αὐτὸς"
+    },
+    {
+      "n": 267,
+      "greek": "χαίρω, ἐπεὶ μάλα πολλὰ βροτῶν ἐπὶ ἄστεʼ ἄνωγεν"
+    },
+    {
+      "n": 268,
+      "greek": "ἐλθεῖν, ἐν χείρεσσιν ἔχοντʼ εὐῆρες ἐρετμόν,"
+    },
+    {
+      "n": 269,
+      "greek": "εἰς ὅ κε τοὺς ἀφίκωμαι οἳ οὐκ ἴσασι θάλασσαν"
+    },
+    {
+      "n": 270,
+      "greek": "ἀνέρες, οὐδέ θʼ ἅλεσσι μεμιγμένον εἶδαρ ἔδουσιν·"
+    },
+    {
+      "n": 271,
+      "greek": "οὐδʼ ἄρα τοί γʼ ἴσασι νέας φοινικοπαρῄους,"
+    },
+    {
+      "n": 272,
+      "greek": "οὐδʼ εὐήρεʼ ἐρετμά, τά τε πτερὰ νηυσὶ πέλονται."
+    },
+    {
+      "n": 273,
+      "greek": "σῆμα δέ μοι τόδʼ ἔειπεν ἀριφραδές, οὐδέ σε κεύσω·"
+    },
+    {
+      "n": 274,
+      "greek": "ὁππότε κεν δή μοι ξυμβλήμενος ἄλλος ὁδίτης"
+    },
+    {
+      "n": 275,
+      "greek": "φήῃ ἀθηρηλοιγὸν ἔχειν ἀνὰ φαιδίμῳ ὤμῳ,"
+    },
+    {
+      "n": 276,
+      "greek": "καὶ τότε μʼ ἐν γαίῃ πήξαντʼ ἐκέλευεν ἐρετμόν,"
+    },
+    {
+      "n": 277,
+      "greek": "ἔρξανθʼ ἱερὰ καλὰ Ποσειδάωνι ἄνακτι,"
+    },
+    {
+      "n": 278,
+      "greek": "ἀρνειὸν ταῦρόν τε συῶν τʼ ἐπιβήτορα κάπρον,"
+    },
+    {
+      "n": 279,
+      "greek": "οἴκαδʼ ἀποστείχειν, ἔρδειν θʼ ἱερὰς ἑκατόμβας"
+    },
+    {
+      "n": 280,
+      "greek": "ἀθανάτοισι θεοῖσι, τοὶ οὐρανὸν εὐρὺν ἔχουσι,"
+    },
+    {
+      "n": 281,
+      "greek": "πᾶσι μάλʼ ἑξείης· θάνατος δέ μοι ἐξ ἁλὸς αὐτῷ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "tell thee? Yet I will declare it, and will hide nothing. Verily thy heart shall have no joy of it, even as I myself have none; for Teiresias bade me go forth to full many cities of men, bearing a shapely oar in my hands, till I should come"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "to men that know naught of the sea, and eat not of food mingled with salt; aye, and they know naught of ships with purple cheeks, or of shapely oars that serve as wings to ships. And he told me this sign, right manifest; nor will I hide it from thee. When another wayfarer, on meeting me,"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "should say that I had a winnowing fan on my stout shoulder, then he bade me fix my oar in the earth, and make goodly offerings to lord Poseidon—a ram and a bull and a boar, that mates with sows—and depart for my home, and offer sacred hecatombs"
+    },
+    {
+      "lines": [
+        280,
+        281
+      ],
+      "text": "to the immortal gods, who hold broad heaven, to each one in due order. And death shall come to me myself far from the sea, a death so gentle, that shall lay me low, when I am overcome with sleek old age, and my people shall dwell in prosperity around me. All this, he said, should I see fulfilled.”"
+    }
+  ]
+}

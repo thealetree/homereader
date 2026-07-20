@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 22,
+      "greek": "Μέντορ, πῶς τʼ ἄρʼ ἴω; πῶς τʼ ἂρ προσπτύξομαι αὐτόν;"
+    },
+    {
+      "n": 23,
+      "greek": "οὐδέ τί πω μύθοισι πεπείρημαι πυκινοῖσιν·"
+    },
+    {
+      "n": 24,
+      "greek": "αἰδὼς δʼ αὖ νέον ἄνδρα γεραίτερον ἐξερέεσθαι."
+    },
+    {
+      "n": 25,
+      "greek": "τὸν δʼ αὖτε προσέειπε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 26,
+      "greek": "Τηλέμαχʼ, ἄλλα μὲν αὐτὸς ἐνὶ φρεσὶ σῇσι νοήσεις,"
+    },
+    {
+      "n": 27,
+      "greek": "ἄλλα δὲ καὶ δαίμων ὑποθήσεται· οὐ γὰρ ὀίω"
+    },
+    {
+      "n": 28,
+      "greek": "οὔ σε θεῶν ἀέκητι γενέσθαι τε τραφέμεν τε."
+    },
+    {
+      "n": 29,
+      "greek": "ὣς ἄρα φωνήσασʼ ἡγήσατο Παλλὰς Ἀθήνη"
+    },
+    {
+      "n": 30,
+      "greek": "καρπαλίμως· ὁ δʼ ἔπειτα μετʼ ἴχνια βαῖνε θεοῖο."
+    },
+    {
+      "n": 31,
+      "greek": "ἷξον δʼ ἐς Πυλίων ἀνδρῶν ἄγυρίν τε καὶ ἕδρας,"
+    },
+    {
+      "n": 32,
+      "greek": "ἔνθʼ ἄρα Νέστωρ ἧστο σὺν υἱάσιν, ἀμφὶ δʼ ἑταῖροι"
+    },
+    {
+      "n": 33,
+      "greek": "δαῖτʼ ἐντυνόμενοι κρέα τʼ ὤπτων ἄλλα τʼ ἔπειρον."
+    },
+    {
+      "n": 34,
+      "greek": "οἱ δʼ ὡς οὖν ξείνους ἴδον, ἁθρόοι ἦλθον ἅπαντες,"
+    },
+    {
+      "n": 35,
+      "greek": "χερσίν τʼ ἠσπάζοντο καὶ ἑδριάασθαι ἄνωγον."
+    },
+    {
+      "n": 36,
+      "greek": "πρῶτος Νεστορίδης Πεισίστρατος ἐγγύθεν ἐλθὼν"
+    },
+    {
+      "n": 37,
+      "greek": "ἀμφοτέρων ἕλε χεῖρα καὶ ἵδρυσεν παρὰ δαιτὶ"
+    },
+    {
+      "n": 38,
+      "greek": "κώεσιν ἐν μαλακοῖσιν ἐπὶ ψαμάθοις ἁλίῃσιν"
+    },
+    {
+      "n": 39,
+      "greek": "πάρ τε κασιγνήτῳ Θρασυμήδεϊ καὶ πατέρι ᾧ·"
+    },
+    {
+      "n": 40,
+      "greek": "δῶκε δʼ ἄρα σπλάγχνων μοίρας, ἐν δʼ οἶνον ἔχευεν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "Then the goddess, flashing-eyed Athena, answered him: “Telemachus, somewhat thou wilt of thyself devise in thy breast, and somewhat heaven too will prompt thee. For, methinks, not without the favour of the gods hast thou been born and reared.” So spake Pallas Athena, and led the way"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "quickly; but he followed in the footsteps of the goddess; and they came to the gathering and the companies of the men of Pylos. There Nestor sat with his sons, and round about his people, making ready the feast, were roasting some of the meat and putting other pieces on spits. But when they saw the strangers they all came thronging about them,"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "and clasped their hands in welcome, and bade them sit down. First Nestor's son Peisistratus came near and took both by the hand, and made them to sit down at the feast on soft fleeces upon the sand of the sea, beside his brother Thrasymedes and his father."
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "Thereupon he gave them portions of the inner meat and poured wine in a golden cup, and, pledging her, he spoke to Pallas Athena, daughter of Zeus who bears the aegis: “Pray now, stranger, to the lord Poseidon, for his is the feast whereon you have chanced in coming hither."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "οὐ μὲν δή σε καταφθίσει μάλα περ μενεαίνων."
+    },
+    {
+      "n": 342,
+      "greek": "ἀλλὰ μάλʼ ὧδʼ ἔρξαι, δοκέεις δέ μοι οὐκ ἀπινύσσειν·"
+    },
+    {
+      "n": 343,
+      "greek": "εἵματα ταῦτʼ ἀποδὺς σχεδίην ἀνέμοισι φέρεσθαι"
+    },
+    {
+      "n": 344,
+      "greek": "κάλλιπʼ, ἀτὰρ χείρεσσι νέων ἐπιμαίεο νόστου"
+    },
+    {
+      "n": 345,
+      "greek": "γαίης Φαιήκων, ὅθι τοι μοῖρʼ ἐστὶν ἀλύξαι."
+    },
+    {
+      "n": 346,
+      "greek": "τῆ δέ, τόδε κρήδεμνον ὑπὸ στέρνοιο τανύσσαι"
+    },
+    {
+      "n": 347,
+      "greek": "ἄμβροτον· οὐδέ τί τοι παθέειν δέος οὐδʼ ἀπολέσθαι."
+    },
+    {
+      "n": 348,
+      "greek": "αὐτὰρ ἐπὴν χείρεσσιν ἐφάψεαι ἠπείροιο,"
+    },
+    {
+      "n": 349,
+      "greek": "ἂψ ἀπολυσάμενος βαλέειν εἰς οἴνοπα πόντον"
+    },
+    {
+      "n": 350,
+      "greek": "πολλὸν ἀπʼ ἠπείρου, αὐτὸς δʼ ἀπονόσφι τραπέσθαι."
+    },
+    {
+      "n": 351,
+      "greek": "ὣς ἄρα φωνήσασα θεὰ κρήδεμνον ἔδωκεν,"
+    },
+    {
+      "n": 352,
+      "greek": "αὐτὴ δʼ ἂψ ἐς πόντον ἐδύσετο κυμαίνοντα"
+    },
+    {
+      "n": 353,
+      "greek": "αἰθυίῃ ἐικυῖα· μέλαν δέ ἑ κῦμα κάλυψεν."
+    },
+    {
+      "n": 354,
+      "greek": "αὐτὰρ ὁ μερμήριξε πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 355,
+      "greek": "ὀχθήσας δʼ ἄρα εἶπε πρὸς ὃν μεγαλήτορα θυμόν·"
+    },
+    {
+      "n": 356,
+      "greek": "ὤ μοι ἐγώ, μή τίς μοι ὑφαίνῃσιν δόλον αὖτε"
+    },
+    {
+      "n": 357,
+      "greek": "ἀθανάτων, ὅ τέ με σχεδίης ἀποβῆναι ἀνώγει."
+    },
+    {
+      "n": 358,
+      "greek": "ἀλλὰ μάλʼ οὔ πω πείσομʼ, ἐπεὶ ἑκὰς ὀφθαλμοῖσιν"
+    },
+    {
+      "n": 359,
+      "greek": "γαῖαν ἐγὼν ἰδόμην, ὅθι μοι φάτο φύξιμον εἶναι."
+    },
+    {
+      "n": 360,
+      "greek": "ἀλλὰ μάλʼ ὧδʼ ἔρξω, δοκέει δέ μοι εἶναι ἄριστον·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "the land of the Phaeacians, where it is thy fate to escape. Come, take this veil, and stretch it beneath thy breast. It is immortal; there is no fear that thou shalt suffer aught or perish. But when with thy hands thou hast laid hold of the land, loose it from thee, and cast it into the wine-dark sea"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "far from the land, and thyself turn away.” So saying, the goddess gave him the veil, and herself plunged again into the surging deep, like a sea-mew; and the dark wave hid her. Then the much-enduring, goodly Odysseus pondered,"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "and deeply moved he spoke to his own mighty spirit: “Woe is me! Let it not be that some one of the immortals is again weaving a snare for me, that she bids me leave my raft. Nay, but verily I will not yet obey, for afar off mine eyes beheld the land, where she said I was to escape."
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "But this will I do, and meseems that this is best: as long as the timbers hold firm in their fastenings, so long will I remain here and endure to suffer affliction; but when the wave shall have shattered the raft to pieces, I will swim, seeing that there is naught better to devise.”"
+    }
+  ]
+}

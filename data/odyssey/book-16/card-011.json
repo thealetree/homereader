@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 11,
+  "lineStart": 202,
+  "lineEnd": 221,
+  "lines": [
+    {
+      "n": 202,
+      "greek": "Τηλέμαχʼ, οὔ σε ἔοικε φίλον πατέρ ἔνδον ἐόντα"
+    },
+    {
+      "n": 203,
+      "greek": "οὔτε τι θαυμάζειν περιώσιον οὔτʼ ἀγάασθαι·"
+    },
+    {
+      "n": 204,
+      "greek": "οὐ μὲν γάρ τοι ἔτʼ ἄλλος ἐλεύσεται ἐνθάδʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 205,
+      "greek": "ἀλλʼ ὅδʼ ἐγὼ τοιόσδε, παθὼν κακά, πολλὰ δʼ ἀληθείς,"
+    },
+    {
+      "n": 206,
+      "greek": "ἤλυθον εἰκοστῷ ἔτεϊ ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 207,
+      "greek": "αὐτάρ τοι τόδε ἔργον Ἀθηναίης ἀγελείης,"
+    },
+    {
+      "n": 208,
+      "greek": "ἥ τέ με τοῖον ἔθηκεν, ὅπως ἐθέλει, δύναται γὰρ,"
+    },
+    {
+      "n": 209,
+      "greek": "ἄλλοτε μὲν πτωχῷ ἐναλίγκιον, ἄλλοτε δʼ αὖτε"
+    },
+    {
+      "n": 210,
+      "greek": "ἀνδρὶ νέῳ καὶ καλὰ περὶ χροῒ εἵματʼ ἔχοντι."
+    },
+    {
+      "n": 211,
+      "greek": "ῥηΐδιον δὲ θεοῖσι, τοὶ οὐρανὸν εὐρὺν ἔχουσιν,"
+    },
+    {
+      "n": 212,
+      "greek": "ἠμὲν κυδῆναι θνητὸν βροτὸν ἠδὲ κακῶσαι."
+    },
+    {
+      "n": 213,
+      "greek": "ὣς ἄρα φωνήσας κατʼ ἄρʼ ἕζετο, Τηλέμαχος δὲ"
+    },
+    {
+      "n": 214,
+      "greek": "ἀμφιχυθεὶς πατέρʼ ἐσθλὸν ὀδύρετο, δάκρυα λείβων,"
+    },
+    {
+      "n": 215,
+      "greek": "ἀμφοτέροισι δὲ τοῖσιν ὑφʼ ἵμερος ὦρτο γόοιο·"
+    },
+    {
+      "n": 216,
+      "greek": "κλαῖον δὲ λιγέως, ἀδινώτερον ἤ τʼ οἰωνοί,"
+    },
+    {
+      "n": 217,
+      "greek": "φῆναι ἢ αἰγυπιοὶ γαμψώνυχες, οἷσί τε τέκνα"
+    },
+    {
+      "n": 218,
+      "greek": "ἀγρόται ἐξείλοντο πάρος πετεηνὰ γενέσθαι·"
+    },
+    {
+      "n": 219,
+      "greek": "ὣς ἄρα τοί γʼ ἐλεεινὸν ὑπʼ ὀφρύσι δάκρυον εἶβον."
+    },
+    {
+      "n": 220,
+      "greek": "καί νύ κʼ ὀδυρομένοισιν ἔδυ φάος ἠελίοιο,"
+    },
+    {
+      "n": 221,
+      "greek": "εἰ μὴ Τηλέμαχος προσεφώνεεν ὃν πατέρʼ αἶψα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "but I here, I, even such as thou seest me, after sufferings and many wanderings, am come in the twentieth year to my native land. But this, thou must know, is the work of Athena, driver of the spoil, who makes me such as she will—for she has the power—now like a beggar, and now again"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "like a young man, and one wearing fair raiment about his body. Easy it is for the gods, who hold broad heaven, both to glorify a mortal man and to abase him.” So saying, he sat down, and Telemachus, flinging his arms about his noble father, wept and shed tears,"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "and in the hearts of both arose a longing for lamentation. And they wailed aloud more vehemently than birds, sea-eagles, or vultures with crooked talons, whose young the country-folk have taken from their nest before they were fledged; even so piteously did they let tears fall from beneath their brows."
+    },
+    {
+      "lines": [
+        220,
+        221
+      ],
+      "text": "And now would the light of the sun have gone down upon their weeping, had not Telemachus spoken to his father suddenly: “In what manner of ship, dear father, have sailors now brought thee hither to Ithaca? Who did they declare themselves to be? For nowise, methinks, didst thou come hither on foot.”"
+    }
+  ]
+}

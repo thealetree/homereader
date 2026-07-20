@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 41,
+  "lineStart": 801,
+  "lineEnd": 820,
+  "lines": [
+    {
+      "n": 801,
+      "greek": "παύσειε κλαυθμοῖο γόοιό τε δακρυόεντος."
+    },
+    {
+      "n": 802,
+      "greek": "ἐς θάλαμον δʼ εἰσῆλθε παρὰ κληῖδος ἱμάντα,"
+    },
+    {
+      "n": 803,
+      "greek": "στῆ δʼ ἄρʼ ὑπὲρ κεφαλῆς, καί μιν πρὸς μῦθον ἔειπεν·"
+    },
+    {
+      "n": 804,
+      "greek": "εὕδεις, Πηνελόπεια, φίλον τετιημένη ἦτορ;"
+    },
+    {
+      "n": 805,
+      "greek": "οὐ μέν σʼ οὐδὲ ἐῶσι θεοὶ ῥεῖα ζώοντες"
+    },
+    {
+      "n": 806,
+      "greek": "κλαίειν οὐδʼ ἀκάχησθαι, ἐπεί ῥʼ ἔτι νόστιμός ἐστι"
+    },
+    {
+      "n": 807,
+      "greek": "σὸς παῖς· οὐ μὲν γάρ τι θεοῖς ἀλιτήμενός ἐστι."
+    },
+    {
+      "n": 808,
+      "greek": "τὴν δʼ ἠμείβετʼ ἔπειτα περίφρων Πηνελόπεια,"
+    },
+    {
+      "n": 809,
+      "greek": "ἡδὺ μάλα κνώσσουσʼ ἐν ὀνειρείῃσι πύλῃσιν·"
+    },
+    {
+      "n": 810,
+      "greek": "τίπτε, κασιγνήτη, δεῦρʼ ἤλυθες; οὔ τι πάρος γε"
+    },
+    {
+      "n": 811,
+      "greek": "πωλέʼ, ἐπεὶ μάλα πολλὸν ἀπόπροθι δώματα ναίεις·"
+    },
+    {
+      "n": 812,
+      "greek": "καί με κέλεαι παύσασθαι ὀιζύος ἠδʼ ὀδυνάων"
+    },
+    {
+      "n": 813,
+      "greek": "πολλέων, αἵ μʼ ἐρέθουσι κατὰ φρένα καὶ κατὰ θυμόν,"
+    },
+    {
+      "n": 814,
+      "greek": "ἣ πρὶν μὲν πόσιν ἐσθλὸν ἀπώλεσα θυμολέοντα,"
+    },
+    {
+      "n": 815,
+      "greek": "παντοίῃς ἀρετῇσι κεκασμένον ἐν Δαναοῖσιν,"
+    },
+    {
+      "n": 816,
+      "greek": "ἐσθλόν, τοῦ κλέος εὐρὺ καθʼ Ἑλλάδα καὶ μέσον Ἄργος·"
+    },
+    {
+      "n": 817,
+      "greek": "νῦν αὖ παῖς ἀγαπητὸς ἔβη κοίλης ἐπὶ νηός,"
+    },
+    {
+      "n": 818,
+      "greek": "νήπιος, οὔτε πόνων ἐὺ εἰδὼς οὔτʼ ἀγοράων."
+    },
+    {
+      "n": 819,
+      "greek": "τοῦ δὴ ἐγὼ καὶ μᾶλλον ὀδύρομαι ἤ περ ἐκείνου·"
+    },
+    {
+      "n": 820,
+      "greek": "τοῦ δʼ ἀμφιτρομέω καὶ δείδια, μή τι πάθῃσιν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        805,
+        809
+      ],
+      "text": "Nay, the gods that live at ease suffer thee not to weep or be distressed, seeing that thy son is yet to return; for in no wise is he a sinner in the eyes of the gods.” Then wise Penelope answered her, as she slumbered very sweetly at the gates of dreams:"
+    },
+    {
+      "lines": [
+        810,
+        814
+      ],
+      "text": "“Why, sister, art thou come hither? Thou hast not heretofore been wont to come, for thou dwellest in a home far away. And thou biddest me cease from my grief and the many pains that distress me in mind and heart. Long since I lost my noble husband of the lion heart,"
+    },
+    {
+      "lines": [
+        815,
+        819
+      ],
+      "text": "pre-eminent in all manner of worth among the Danaans, my noble husband whose fame is wide in Hellas and mid-Argos. And now again my well-loved son is gone forth in a hollow ship, a mere child, knowing naught of toils and the gatherings of men. For him I sorrow even more than for that other,"
+    },
+    {
+      "lines": [
+        820,
+        820
+      ],
+      "text": "and tremble for him, and fear lest aught befall him, whether it be in the land of the men to whom he is gone, or on the sea. For many foes are plotting against him, eager to slay him before he comes back to his native land.” Then the dim phantom answered her, and said:"
+    }
+  ]
+}

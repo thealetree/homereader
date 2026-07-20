@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 6,
+  "lineStart": 102,
+  "lineEnd": 121,
+  "lines": [
+    {
+      "n": 102,
+      "greek": "ἔλθοι ἐεικοστῷ ἔτεϊ ἐς πατρίδα γαῖαν·"
+    },
+    {
+      "n": 103,
+      "greek": "σοὶ δʼ αἰεὶ κραδίη στερεωτέρη ἐστὶ λίθοιο."
+    },
+    {
+      "n": 104,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 105,
+      "greek": "τέκνον ἐμόν, θυμός μοι ἐνὶ στήθεσσι τέθηπεν,"
+    },
+    {
+      "n": 106,
+      "greek": "οὐδέ τι προσφάσθαι δύναμαι ἔπος οὐδʼ ἐρέεσθαι"
+    },
+    {
+      "n": 107,
+      "greek": "οὐδʼ εἰς ὦπα ἰδέσθαι ἐναντίον. εἰ δʼ ἐτεὸν δὴ"
+    },
+    {
+      "n": 108,
+      "greek": "ἔστʼ Ὀδυσεὺς καὶ οἶκον ἱκάνεται, ἦ μάλα νῶϊ"
+    },
+    {
+      "n": 109,
+      "greek": "γνωσόμεθʼ ἀλλήλων καὶ λώϊον· ἔστι γὰρ ἡμῖν"
+    },
+    {
+      "n": 110,
+      "greek": "σήμαθʼ, ἃ δὴ καὶ νῶϊ κεκρυμμένα ἴδμεν ἀπʼ ἄλλων."
+    },
+    {
+      "n": 111,
+      "greek": "ὣς φάτο, μείδησεν δὲ πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 112,
+      "greek": "αἶψα δὲ Τηλέμαχον ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 113,
+      "greek": "Τηλέμαχʼ, ἦ τοι μητέρʼ ἐνὶ μεγάροισιν ἔασον"
+    },
+    {
+      "n": 114,
+      "greek": "πειράζειν ἐμέθεν· τάχα δὲ φράσεται καὶ ἄρειον."
+    },
+    {
+      "n": 115,
+      "greek": "νῦν δʼ ὅττι ῥυπόω, κακὰ δὲ χροῒ εἵματα εἷμαι,"
+    },
+    {
+      "n": 116,
+      "greek": "τοὔνεκʼ ἀτιμάζει με καὶ οὔ πω φησὶ τὸν εἶναι."
+    },
+    {
+      "n": 117,
+      "greek": "ἡμεῖς δὲ φραζώμεθʼ ὅπως ὄχʼ ἄριστα γένηται."
+    },
+    {
+      "n": 118,
+      "greek": "καὶ γάρ τίς θʼ ἕνα φῶτα κατακτείνας ἐνὶ δήμῳ,"
+    },
+    {
+      "n": 119,
+      "greek": "ᾧ μὴ πολλοὶ ἔωσιν ἀοσσητῆρες ὀπίσσω,"
+    },
+    {
+      "n": 120,
+      "greek": "φεύγει πηούς τε προλιπὼν καὶ πατρίδα γαῖαν·"
+    },
+    {
+      "n": 121,
+      "greek": "ἡμεῖς δʼ ἕρμα πόληος ἀπέκταμεν, οἳ μέγʼ ἄριστοι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "“My child, the heart in my breast is lost in wonder, and I have no power to speak at all, nor to ask a question, nor to look him in the face. But if in very truth he is Odysseus, and has come home, we two shall surely know one another more certainly;"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "for we have signs which we two alone know, signs hidden from others.” So she spoke, and the much-enduring, goodly Odysseus smiled, and straightway spoke to Telemachus winged words: “Telemachus, suffer now thy mother to test me in the halls; presently shall she win more certain knowledge."
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "But now because I am foul, and am clad about my body in mean clothing, she scorns me, and will not yet admit that I am he. But for us, let us take thought how all may be the very best. For whoso has slain but one man in a land, even though it be a man that leaves not many behind to avenge him,"
+    },
+    {
+      "lines": [
+        120,
+        121
+      ],
+      "text": "he goes into exile, and leaves his kindred and his native land; but we have slain those who were the very stay of the city, far the noblest of the youths of Ithaca. Of this I bid thee take thought.” Then wise Telemachus answered him: “Do thou thyself look to this, dear father; for thy"
+    }
+  ]
+}

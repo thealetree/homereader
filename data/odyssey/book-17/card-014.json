@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "στήτην ἐρχομένω, περὶ δέ σφεας ἤλυθʼ ἰωὴ"
+    },
+    {
+      "n": 262,
+      "greek": "φόρμιγγος γλαφυρῆς· ἀνὰ γάρ σφισι βάλλετʼ ἀείδειν"
+    },
+    {
+      "n": 263,
+      "greek": "Φήμιος· αὐτὰρ ὁ χειρὸς ἑλὼν προσέειπε συβώτην·"
+    },
+    {
+      "n": 264,
+      "greek": "Εὔμαιʼ, ἦ μάλα δὴ τάδε δώματα κάλʼ Ὀδυσῆος,"
+    },
+    {
+      "n": 265,
+      "greek": "ῥεῖα δʼ ἀρίγνωτʼ ἐστὶ καὶ ἐν πολλοῖσιν ἰδέσθαι."
+    },
+    {
+      "n": 266,
+      "greek": "ἐξ ἑτέρων ἕτερʼ ἐστίν, ἐπήσκηται δέ οἱ αὐλὴ"
+    },
+    {
+      "n": 267,
+      "greek": "τοίχῳ καὶ θριγκοῖσι, θύραι δʼ εὐερκέες εἰσὶ"
+    },
+    {
+      "n": 268,
+      "greek": "δικλίδες· οὐκ ἄν τίς μιν ἀνὴρ ὑπεροπλίσσαιτο."
+    },
+    {
+      "n": 269,
+      "greek": "γιγνώσκω δʼ ὅτι πολλοὶ ἐν αὐτῷ δαῖτα τίθενται"
+    },
+    {
+      "n": 270,
+      "greek": "ἄνδρες, ἐπεὶ κνίση μὲν ἀνήνοθεν, ἐν δέ τε φόρμιγξ"
+    },
+    {
+      "n": 271,
+      "greek": "ἠπύει, ἣν ἄρα δαιτὶ θεοὶ ποίησαν ἑταίρην."
+    },
+    {
+      "n": 272,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 273,
+      "greek": "ῥεῖʼ ἔγνως, ἐπεὶ οὐδὲ τά τʼ ἄλλα πέρ ἐσσʼ ἀνοήμων."
+    },
+    {
+      "n": 274,
+      "greek": "ἀλλʼ ἄγε δὴ φραζώμεθʼ ὅπως ἔσται τάδε ἔργα."
+    },
+    {
+      "n": 275,
+      "greek": "ἠὲ σὺ πρῶτος ἔσελθε δόμους εὖ ναιετάοντας,"
+    },
+    {
+      "n": 276,
+      "greek": "δύσεο δὲ μνηστῆρας, ἐγὼ δʼ ὑπολείψομαι αὐτοῦ·"
+    },
+    {
+      "n": 277,
+      "greek": "εἰ δʼ ἐθέλεις, ἐπίμεινον, ἐγὼ δʼ εἶμι προπάροιθε·"
+    },
+    {
+      "n": 278,
+      "greek": "μηδὲ σὺ δηθύνειν, μή τίς σʼ ἔκτοσθε νοήσας"
+    },
+    {
+      "n": 279,
+      "greek": "ἢ βάλῃ ἢ ἐλάσῃ· τὰ δέ σε φράζεσθαι ἄνωγα."
+    },
+    {
+      "n": 280,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα πολύτλας δῖος Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "Easily might it be known, though seen among many. There is building upon building, and the court is built with wall and coping, and the double gates are well-fenced; no man may scorn it. And I mark that in the house itself many"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "men are feasting: for the savour of meat arises from it, and therewith resounds the voice of the lyre, which the gods have made the companion of the feast.” To him then, swineherd Eumaeus, didst thou make answer, and say: “Easily hast thou marked it, for in all things thou art ready of wit. But come, let us take thought how these things shall be."
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "Either do thou go first into the stately palace, and enter the company of the wooers, and I will remain behind here, or, if thou wilt, remain thou here and I will go before thee. But do not thou linger long, lest some man see thee without and pelt thee or smite thee. Of this I bid thee take thought.”"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "Then the much-enduring, goodly Odysseus answered him: “I see, I give heed: this thou biddest one with understanding. But go thou before, and I will remain behind here; for no whit unused am I to blows and peltings. Staunch is my heart, for much evil have I suffered"
+    }
+  ]
+}

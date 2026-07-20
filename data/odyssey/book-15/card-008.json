@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "οἰνοχόει δʼ υἱὸς Μενελάου κυδαλίμοιο."
+    },
+    {
+      "n": 142,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    },
+    {
+      "n": 143,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 144,
+      "greek": "δὴ τότε Τηλέμαχος καὶ Νέστορος ἀγλαὸς υἱὸς"
+    },
+    {
+      "n": 145,
+      "greek": "ἵππους τε ζεύγνυντʼ ἀνά θʼ ἅρματα ποικίλʼ ἔβαινον,"
+    },
+    {
+      "n": 146,
+      "greek": "ἐκ δʼ ἔλασαν προθύροιο καὶ αἰθούσης ἐριδούπου."
+    },
+    {
+      "n": 147,
+      "greek": "τοὺς δὲ μετʼ Ἀτρεΐδης ἔκιε ξανθὸς Μενέλαος,"
+    },
+    {
+      "n": 148,
+      "greek": "οἶνον ἔχων ἐν χειρὶ μελίφρονα δεξιτερῆφι,"
+    },
+    {
+      "n": 149,
+      "greek": "ἐν δέπαϊ χρυσέῳ, ὄφρα λείψαντε κιοίτην."
+    },
+    {
+      "n": 150,
+      "greek": "στῆ δʼ ἵππων προπάροιθε, δεδισκόμενος δὲ προσηύδα·"
+    },
+    {
+      "n": 151,
+      "greek": "χαίρετον, ὦ κούρω, καὶ Νέστορι ποιμένι λαῶν"
+    },
+    {
+      "n": 152,
+      "greek": "εἰπεῖν· ἦ γὰρ ἐμοί γε πατὴρ ὣς ἤπιος ἦεν,"
+    },
+    {
+      "n": 153,
+      "greek": "ἧος ἐνὶ Τροίῃ πολεμίζομεν υἷες Ἀχαιῶν."
+    },
+    {
+      "n": 154,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 155,
+      "greek": "καὶ λίην κείνῳ γε, διοτρεφές, ὡς ἀγορεύεις,"
+    },
+    {
+      "n": 156,
+      "greek": "πάντα τάδʼ ἐλθόντες καταλέξομεν· αἲ γὰρ ἐγὼν ὣς"
+    },
+    {
+      "n": 157,
+      "greek": "νοστήσας Ἰθάκηνδε, κιχὼν Ὀδυσῆʼ ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 158,
+      "greek": "εἴποιμʼ ὡς παρὰ σεῖο τυχὼν φιλότητος ἁπάσης"
+    },
+    {
+      "n": 159,
+      "greek": "ἔρχομαι, αὐτὰρ ἄγω κειμήλια πολλὰ καὶ ἐσθλά."
+    },
+    {
+      "n": 160,
+      "greek": "ὣς ἄρα οἱ εἰπόντι ἐπέπτατο δεξιὸς ὄρνις,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "yoked the horses and mounted the inlaid car, and drove forth from the gateway and the echoing portico. After them went the son of Atreus, fair-haired Menelaus, bearing in his right hand honey-hearted wine in a cup of gold, that they might pour libations ere they set out."
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "And he took his stand before the horses, and pledged the youths, and said: “Fare ye well, young men, and bear greeting to Nestor, shepherd of the host, for verily he was kind as a father to me, while we sons of the Achaeans warred in the land of Troy.” Then wise Telemachus answered him:"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "“Aye, verily, king, fostered of Zeus, to him will we tell all this on our coming, as thou dost bid. And I would that, when I return to Ithaca, I might as surely find Odysseus in his house, to tell him how I met with every kindness at thy hands, ere I departed and bring with me treasures many and goodly.”"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "Even as he spoke a bird flew by on the right, an eagle, bearing in his talons a great, white goose, a tame fowl from the yard, and men and women followed shouting. But the eagle drew near to them, and darted off to the right in front of the horses; and"
+    }
+  ]
+}

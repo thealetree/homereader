@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ὄφρα μὲν οὖν δὴ κείνη ἔην, ἀχέουσά περ ἔμπης,"
+    },
+    {
+      "n": 362,
+      "greek": "τόφρα τί μοι φίλον ἔσκε μεταλλῆσαι καὶ ἐρέσθαι,"
+    },
+    {
+      "n": 363,
+      "greek": "οὕνεκά μʼ αὐτὴ θρέψεν ἅμα Κτιμένῃ τανυπέπλῳ,"
+    },
+    {
+      "n": 364,
+      "greek": "θυγατέρʼ ἰφθίμῃ, τὴν ὁπλοτάτην τέκε παίδων·"
+    },
+    {
+      "n": 365,
+      "greek": "τῇ ὁμοῦ ἐτρεφόμην, ὀλίγον δέ τί μʼ ἧσσον ἐτίμα."
+    },
+    {
+      "n": 366,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἥβην πολυήρατον ἱκόμεθʼ ἄμφω,"
+    },
+    {
+      "n": 367,
+      "greek": "τὴν μὲν ἔπειτα Σάμηνδʼ ἔδοσαν καὶ μυρίʼ ἕλοντο,"
+    },
+    {
+      "n": 368,
+      "greek": "αὐτὰρ ἐμὲ χλαῖνάν τε χιτῶνά τε εἵματʼ ἐκείνη"
+    },
+    {
+      "n": 369,
+      "greek": "καλὰ μάλʼ ἀμφιέσασα, ποσὶν δʼ ὑποδήματα δοῦσα"
+    },
+    {
+      "n": 370,
+      "greek": "ἀγρόνδε προΐαλλε· φίλει δέ με κηρόθι μᾶλλον."
+    },
+    {
+      "n": 371,
+      "greek": "νῦν δʼ ἤδη τούτων ἐπιδεύομαι· ἀλλά μοι αὐτῷ"
+    },
+    {
+      "n": 372,
+      "greek": "ἔργον ἀέξουσιν μάκαρες θεοὶ ᾧ ἐπιμίμνω·"
+    },
+    {
+      "n": 373,
+      "greek": "τῶν ἔφαγόν τʼ ἔπιόν τε καὶ αἰδοίοισιν ἔδωκα."
+    },
+    {
+      "n": 374,
+      "greek": "ἐκ δʼ ἄρα δεσποίνης οὐ μείλιχον ἔστιν ἀκοῦσαι"
+    },
+    {
+      "n": 375,
+      "greek": "οὔτʼ ἔπος οὔτε τι ἔργον, ἐπεὶ κακὸν ἔμπεσεν οἴκῳ,"
+    },
+    {
+      "n": 376,
+      "greek": "ἄνδρες ὑπερφίαλοι· μέγα δὲ δμῶες χατέουσιν"
+    },
+    {
+      "n": 377,
+      "greek": "ἀντία δεσποίνης φάσθαι καὶ ἕκαστα πυθέσθαι"
+    },
+    {
+      "n": 378,
+      "greek": "καὶ φαγέμεν πιέμεν τε, ἔπειτα δὲ καί τι φέρεσθαι"
+    },
+    {
+      "n": 379,
+      "greek": "ἀγρόνδʼ, οἷά τε θυμὸν ἀεὶ δμώεσσιν ἰαίνει."
+    },
+    {
+      "n": 380,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "With her was I brought up, and the mother honored me little less than her own children. But when we both reached the longed-for prime of youth they sent her to Same to wed, and got themselves countless bridal gifts, but as for me, my lady clad me in a cloak and tunic, right goodly raiment, and gave me sandals for my feet"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "and sent me forth to the field; but in her heart she loved me the more. But now I lack all this, though for my own part the blessed gods make to prosper the work to which I give heed. Therefrom have I eaten and drunk, and given to reverend strangers. But from my mistress I may hear naught pleasant,"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "whether word or deed, for a plague has fallen upon the house, even overweening men. Yet greatly do servants long to speak before their mistress, and learn of all, and to eat and drink, and thereafter to carry off somewhat also to the fields, such things as ever make the heart of a servant to grow warm.”"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "Then Odysseus of many wiles answered him, and said: “Lo now, surely when thou wast but a child, swineherd Eumaeus, thou didst wander far from thy country and thy parents. But come now, tell me this, and declare it truly. Was a broad-wayed city of men sacked,"
+    }
+  ]
+}

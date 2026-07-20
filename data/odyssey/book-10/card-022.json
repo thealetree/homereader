@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "ἀλλʼ ἄγε, τῶν ἄλλων ἑτάρων κατάλεξον ὄλεθρον."
+    },
+    {
+      "n": 422,
+      "greek": "ὣς ἔφαν, αὐτὰρ ἐγὼ προσέφην μαλακοῖς ἐπέεσσι·"
+    },
+    {
+      "n": 423,
+      "greek": "νῆα μὲν ἂρ πάμπρωτον ἐρύσσομεν ἤπειρόνδε,"
+    },
+    {
+      "n": 424,
+      "greek": "κτήματα δʼ ἐν σπήεσσι πελάσσομεν ὅπλα τε πάντα·"
+    },
+    {
+      "n": 425,
+      "greek": "αὐτοὶ δʼ ὀτρύνεσθε ἐμοὶ ἅμα πάντες ἕπεσθαι,"
+    },
+    {
+      "n": 426,
+      "greek": "ὄφρα ἴδηθʼ ἑτάρους ἱεροῖς ἐν δώμασι Κίρκης"
+    },
+    {
+      "n": 427,
+      "greek": "πίνοντας καὶ ἔδοντας· ἐπηετανὸν γὰρ ἔχουσιν."
+    },
+    {
+      "n": 428,
+      "greek": "ὣς ἐφάμην, οἱ δʼ ὦκα ἐμοῖς ἐπέεσσι πίθοντο."
+    },
+    {
+      "n": 429,
+      "greek": "Εὐρύλοχος δέ μοι οἶος ἐρύκανε πάντας ἑταίρους·"
+    },
+    {
+      "n": 430,
+      "greek": "καί σφεας φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 431,
+      "greek": "ἆ δειλοί, πόσʼ ἴμεν; τί κακῶν ἱμείρετε τούτων;"
+    },
+    {
+      "n": 432,
+      "greek": "Κίρκης ἐς μέγαρον καταβήμεναι, ἥ κεν ἅπαντας"
+    },
+    {
+      "n": 433,
+      "greek": "ἢ σῦς ἠὲ λύκους ποιήσεται ἠὲ λέοντας,"
+    },
+    {
+      "n": 434,
+      "greek": "οἵ κέν οἱ μέγα δῶμα φυλάσσοιμεν καὶ ἀνάγκῃ,"
+    },
+    {
+      "n": 435,
+      "greek": "ὥς περ Κύκλωψ ἔρξʼ, ὅτε οἱ μέσσαυλον ἵκοντο"
+    },
+    {
+      "n": 436,
+      "greek": "ἡμέτεροι ἕταροι, σὺν δʼ ὁ θρασὺς εἵπετʼ Ὀδυσσεύς·"
+    },
+    {
+      "n": 437,
+      "greek": "τούτου γὰρ καὶ κεῖνοι ἀτασθαλίῃσιν ὄλοντο."
+    },
+    {
+      "n": 438,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ γε μετὰ φρεσὶ μερμήριξα,"
+    },
+    {
+      "n": 439,
+      "greek": "σπασσάμενος τανύηκες ἄορ παχέος παρὰ μηροῦ,"
+    },
+    {
+      "n": 440,
+      "greek": "τῷ οἱ ἀποπλήξας κεφαλὴν οὖδάσδε πελάσσαι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "Then haste you, one and all, to go with me that you may see your comrades in the sacred halls of Circe, drinking and eating, for they have unfailing store.’ “So I spoke, and they quickly hearkened to my words. Eurylochus alone sought to hold back all my comrades,"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "and he spoke, and addressed them with winged words: “‘Ah, wretched men, whither are we going? Why are you so enamoured of these woes, as to go down to the house of Circe, who will change us all to swine, or wolves, or lions, that so we may guard her great house perforce?"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "Even so did the Cyclops, when our comrades went to his fold, and with them went this reckless Odysseus. For it was through this man's folly that they too perished.’ “So he spoke, and I pondered in heart, whether to draw my long sword from beside my stout thigh,"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "and therewith strike off his head, and bring it to the ground, near kinsman of mine by marriage though he was; but my comrades one after another sought to check me with gentle words: “‘O thou sprung from Zeus, as for this man, we will leave him, if thou so biddest, to abide here by the ship, and to guard the ship,"
+    }
+  ]
+}

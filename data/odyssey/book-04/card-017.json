@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "μητρὸς ἐμῆς μνηστῆρες ὑπέρβιον ὕβριν ἔχοντες."
+    },
+    {
+      "n": 322,
+      "greek": "τοὔνεκα νῦν τὰ σὰ γούναθʼ ἱκάνομαι, αἴ κʼ ἐθέλῃσθα"
+    },
+    {
+      "n": 323,
+      "greek": "κείνου λυγρὸν ὄλεθρον ἐνισπεῖν, εἴ που ὄπωπας"
+    },
+    {
+      "n": 324,
+      "greek": "ὀφθαλμοῖσι τεοῖσιν ἢ ἄλλου μῦθον ἄκουσας"
+    },
+    {
+      "n": 325,
+      "greek": "πλαζομένου· περὶ γάρ μιν ὀιζυρὸν τέκε μήτηρ."
+    },
+    {
+      "n": 326,
+      "greek": "μηδέ τί μʼ αἰδόμενος μειλίσσεο μηδʼ ἐλεαίρων,"
+    },
+    {
+      "n": 327,
+      "greek": "ἀλλʼ εὖ μοι κατάλεξον ὅπως ἤντησας ὀπωπῆς."
+    },
+    {
+      "n": 328,
+      "greek": "λίσσομαι, εἴ ποτέ τοί τι πατὴρ ἐμός, ἐσθλὸς Ὀδυσσεὺς"
+    },
+    {
+      "n": 329,
+      "greek": "ἢ ἔπος ἠέ τι ἔργον ὑποστὰς ἐξετέλεσσε"
+    },
+    {
+      "n": 330,
+      "greek": "δήμῳ ἔνι Τρώων, ὅθι πάσχετε πήματʼ Ἀχαιοί,"
+    },
+    {
+      "n": 331,
+      "greek": "τῶν νῦν μοι μνῆσαι, καί μοι νημερτὲς ἐνίσπες."
+    },
+    {
+      "n": 332,
+      "greek": "τὸν δὲ μέγʼ ὀχθήσας προσέθη ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 333,
+      "greek": "ὢ πόποι, ἦ μάλα δὴ κρατερόφρονος ἀνδρὸς ἐν εὐνῇ"
+    },
+    {
+      "n": 334,
+      "greek": "ἤθελον εὐνηθῆναι ἀνάλκιδες αὐτοὶ ἐόντες."
+    },
+    {
+      "n": 335,
+      "greek": "ὡς δʼ ὁπότʼ ἐν ξυλόχῳ ἔλαφος κρατεροῖο λέοντος"
+    },
+    {
+      "n": 336,
+      "greek": "νεβροὺς κοιμήσασα νεηγενέας γαλαθηνοὺς"
+    },
+    {
+      "n": 337,
+      "greek": "κνημοὺς ἐξερέῃσι καὶ ἄγκεα ποιήεντα"
+    },
+    {
+      "n": 338,
+      "greek": "βοσκομένη, ὁ δʼ ἔπειτα ἑὴν εἰσήλυθεν εὐνήν,"
+    },
+    {
+      "n": 339,
+      "greek": "ἀμφοτέροισι δὲ τοῖσιν ἀεικέα πότμον ἐφῆκεν,"
+    },
+    {
+      "n": 340,
+      "greek": "ὣς Ὀδυσεὺς κείνοισιν ἀεικέα πότμον ἐφήσει."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "of his wanderings; for beyond all men did his mother bear him to sorrow. And do thou no wise out of ruth or pity for me speak soothing words, but tell me truly how thou didst come to behold him. I beseech thee, if ever my father, noble Odysseus, promised aught to thee of word or deed and fulfilled it"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "in the land of the Trojans, where you Achaeans suffered woes, be mindful of it now, I pray thee, and tell me the truth.” Then, stirred to sore displeasure, fair-haired Menelaus spoke to him: “Out upon them, for verily in the bed of a man of valiant heart were they fain to lie, who are themselves cravens."
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "Even as when in the thicket-lair of a mighty lion a hind has laid to sleep her new-born suckling fawns, and roams over the mountain slopes and grassy vales seeking pasture, and then the lion comes to his lair and upon the two lets loose a cruel doom,"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "so will Odysseus let loose a cruel doom upon these men. I would, O father Zeus and Athena and Apollo, that in such strength as when once in fair-stablished Lesbos he rose up and wrestled a match with Philomeleides and threw him mightily, and all the Achaeans rejoiced,"
+    }
+  ]
+}

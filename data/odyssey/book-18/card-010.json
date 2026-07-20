@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ὤλεσαν, ἐξ οὗ κεῖνος ἔβη κοίλῃς ἐνὶ νηυσίν."
+    },
+    {
+      "n": 182,
+      "greek": "ἀλλά μοι Αὐτονόην τε καὶ Ἱπποδάμειαν ἄνωχθι"
+    },
+    {
+      "n": 183,
+      "greek": "ἐλθέμεν, ὄφρα κέ μοι παρστήετον ἐν μεγάροισιν·"
+    },
+    {
+      "n": 184,
+      "greek": "οἴη δʼ οὐκ εἴσειμι μετʼ ἀνέρας· αἰδέομαι γάρ."
+    },
+    {
+      "n": 185,
+      "greek": "ὣς ἄρʼ ἔφη, γρηῢς δὲ διὲκ μεγάροιο βεβήκει"
+    },
+    {
+      "n": 186,
+      "greek": "ἀγγελέουσα γυναιξὶ καὶ ὀτρυνέουσα νέεσθαι."
+    },
+    {
+      "n": 187,
+      "greek": "ἔνθʼ αὖτʼ ἄλλʼ ἐνόησε θεὰ γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 188,
+      "greek": "κούρῃ Ἰκαρίοιο κατὰ γλυκὺν ὕπνον ἔχευεν,"
+    },
+    {
+      "n": 189,
+      "greek": "εὗδε δʼ ἀνακλινθεῖσα, λύθεν δέ οἱ ἅψεα πάντα"
+    },
+    {
+      "n": 190,
+      "greek": "αὐτοῦ ἐνὶ κλιντῆρι· τέως δʼ ἄρα δῖα θεάων"
+    },
+    {
+      "n": 191,
+      "greek": "ἄμβροτα δῶρα δίδου, ἵνα μιν θησαίατʼ Ἀχαιοί."
+    },
+    {
+      "n": 192,
+      "greek": "κάλλεϊ μέν οἱ πρῶτα προσώπατα καλὰ κάθηρεν"
+    },
+    {
+      "n": 193,
+      "greek": "ἀμβροσίῳ, οἵῳ περ ἐϋστέφανος Κυθέρεια"
+    },
+    {
+      "n": 194,
+      "greek": "χρίεται, εὖτʼ ἂν ἴῃ Χαρίτων χορὸν ἱμερόεντα·"
+    },
+    {
+      "n": 195,
+      "greek": "καί μιν μακροτέρην καὶ πάσσονα θῆκεν ἰδέσθαι,"
+    },
+    {
+      "n": 196,
+      "greek": "λευκοτέρην δʼ ἄρα μιν θῆκε πριστοῦ ἐλέφαντος."
+    },
+    {
+      "n": 197,
+      "greek": "ἡ μὲν ἄρʼ ὣς ἔρξασʼ ἀπεβήσετο δῖα θεάων,"
+    },
+    {
+      "n": 198,
+      "greek": "ἦλθον δʼ ἀμφίπολοι λευκώλενοι ἐκ μεγάροιο"
+    },
+    {
+      "n": 199,
+      "greek": "φθόγγῳ ἐπερχόμεναι· τὴν δὲ γλυκὺς ὕπνος ἀνῆκε,"
+    },
+    {
+      "n": 200,
+      "greek": "καί ῥʼ ἀπομόρξατο χερσὶ παρειὰς φώνησέν τε·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "So she spoke, and the old woman went forth through the chamber to bear tidings to the women, and bid them come. Then again the goddess, flashing-eyed Athena, took other counsel. On the daughter of Icarius she shed sweet sleep, and she leaned back and slept"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "there on her couch, and all her joints were relaxed. And meanwhile the fair goddess was giving her immortal gifts, that the Achaeans might marvel at her. With balm she first made fair her beautiful face, with balm ambrosial, such as that wherewith Cytherea, of the fair crown, anoints herself when she goes into the lovely dance of the Graces;"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "and she made her taller, too, and statelier to behold, and made her whiter than new-sawn ivory. Now when she had done this the fair goddess departed, and the white-armed handmaids came forth from the chamber and drew near with sound of talking. Then sweet sleep released Penelope,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "and she rubbed her cheeks with her hands, and said: “Ah, in my utter wretchedness soft slumber enfolded me. Would that pure Artemis would even now give so soft a death, that I might no more waste my life away with sorrow at heart, longing for"
+    }
+  ]
+}

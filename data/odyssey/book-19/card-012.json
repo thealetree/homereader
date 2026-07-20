@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "ὦ γύναι, ἀργαλέον τόσσον χρόνον ἀμφὶς ἐόντα"
+    },
+    {
+      "n": 222,
+      "greek": "εἰπέμεν· ἤδη γάρ οἱ ἐεικοστὸν ἔτος ἐστὶν"
+    },
+    {
+      "n": 223,
+      "greek": "ἐξ οὗ κεῖθεν ἔβη καὶ ἐμῆς ἀπελήλυθε πάτρης·"
+    },
+    {
+      "n": 224,
+      "greek": "αὐτάρ τοι ἐρέω ὥς μοι ἰνδάλλεται ἦτορ."
+    },
+    {
+      "n": 225,
+      "greek": "χλαῖναν πορφυρέην οὔλην ἔχε δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 226,
+      "greek": "διπλῆν· αὐτάρ οἱ περόνη χρυσοῖο τέτυκτο"
+    },
+    {
+      "n": 227,
+      "greek": "αὐλοῖσιν διδύμοισι· πάροιθε δὲ δαίδαλον ἦεν·"
+    },
+    {
+      "n": 228,
+      "greek": "ἐν προτέροισι πόδεσσι κύων ἔχε ποικίλον ἐλλόν,"
+    },
+    {
+      "n": 229,
+      "greek": "ἀσπαίροντα λάων· τὸ δὲ θαυμάζεσκον ἅπαντες,"
+    },
+    {
+      "n": 230,
+      "greek": "ὡς οἱ χρύσεοι ἐόντες ὁ μὲν λάε νεβρὸν ἀπάγχων,"
+    },
+    {
+      "n": 231,
+      "greek": "αὐτὰρ ὁ ἐκφυγέειν μεμαὼς ἤσπαιρε πόδεσσι."
+    },
+    {
+      "n": 232,
+      "greek": "τὸν δὲ χιτῶνʼ ἐνόησα περὶ χροῒ σιγαλόεντα,"
+    },
+    {
+      "n": 233,
+      "greek": "οἷόν τε κρομύοιο λοπὸν κάτα ἰσχαλέοιο·"
+    },
+    {
+      "n": 234,
+      "greek": "τὼς μὲν ἔην μαλακός, λαμπρὸς δʼ ἦν ἠέλιος ὥς·"
+    },
+    {
+      "n": 235,
+      "greek": "ἦ μὲν πολλαί γʼ αὐτὸν ἐθηήσαντο γυναῖκες."
+    },
+    {
+      "n": 236,
+      "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·"
+    },
+    {
+      "n": 237,
+      "greek": "οὐκ οἶδʼ ἢ τάδε ἕστο περὶ χροῒ οἴκοθʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 238,
+      "greek": "ἦ τις ἑταίρων δῶκε θοῆς ἐπὶ νηὸς ἰόντι,"
+    },
+    {
+      "n": 239,
+      "greek": "ἤ τίς που καὶ ξεῖνος, ἐπεὶ πολλοῖσιν Ὀδυσσεὺς"
+    },
+    {
+      "n": 240,
+      "greek": "ἔσκε φίλος· παῦροι γὰρ Ἀχαιῶν ἦσαν ὁμοῖοι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "A fleecy cloak of purple did goodly Odysseus wear, a cloak of double fold, but the brooch upon it was fashioned of gold with double clasps, and on the front it was curiously wrought: a hound held in his fore paws a dappled fawn, and pinned it in his jaws as it writhed. And at this all men marvelled,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "how, though they were of gold, the hound was pinning the fawn and strangling it, and the fawn was writhing with its feet and striving to flee. And I noted the tunic about his body, all shining as is the sheen upon the skin of a dried onion, so soft it was; and it glistened like the sun."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "Verily many women gazed at him in wonder. And another thing will I tell thee, and do thou lay it to heart. I know not whether Odysseus was thus clothed at home, or whether one of his comrades gave him the raiment when he went on board the swift ship, or haply even some stranger, since to many men"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "was Odysseus dear, for few of the Achaeans were his peers. I, too, gave him a sword of bronze, and a fair purple cloak of double fold, and a fringed tunic, and with all honor sent him forth on his benched ship. Furthermore, a herald"
+    }
+  ]
+}

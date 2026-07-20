@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "οὐ γάρ πω σχεδὸν ἦλθον Ἀχαιΐδος, οὐδέ πω ἁμῆς"
+    },
+    {
+      "n": 482,
+      "greek": "γῆς ἐπέβην, ἀλλʼ αἰὲν ἔχω κακά. σεῖο δʼ, Ἀχιλλεῦ,"
+    },
+    {
+      "n": 483,
+      "greek": "οὔ τις ἀνὴρ προπάροιθε μακάρτατος οὔτʼ ἄρʼ ὀπίσσω."
+    },
+    {
+      "n": 484,
+      "greek": "πρὶν μὲν γάρ σε ζωὸν ἐτίομεν ἶσα θεοῖσιν"
+    },
+    {
+      "n": 485,
+      "greek": "Ἀργεῖοι, νῦν αὖτε μέγα κρατέεις νεκύεσσιν"
+    },
+    {
+      "n": 486,
+      "greek": "ἐνθάδʼ ἐών· τῷ μή τι θανὼν ἀκαχίζευ, Ἀχιλλεῦ."
+    },
+    {
+      "n": 487,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμειβόμενος προσέειπε·"
+    },
+    {
+      "n": 488,
+      "greek": "μὴ δή μοι θάνατόν γε παραύδα, φαίδιμʼ Ὀδυσσεῦ."
+    },
+    {
+      "n": 489,
+      "greek": "βουλοίμην κʼ ἐπάρουρος ἐὼν θητευέμεν ἄλλῳ,"
+    },
+    {
+      "n": 490,
+      "greek": "ἀνδρὶ παρʼ ἀκλήρῳ, ᾧ μὴ βίοτος πολὺς εἴη,"
+    },
+    {
+      "n": 491,
+      "greek": "ἢ πᾶσιν νεκύεσσι καταφθιμένοισιν ἀνάσσειν."
+    },
+    {
+      "n": 492,
+      "greek": "ἀλλʼ ἄγε μοι τοῦ παιδὸς ἀγαυοῦ μῦθον ἐνίσπες,"
+    },
+    {
+      "n": 493,
+      "greek": "ἢ ἕπετʼ ἐς πόλεμον πρόμος ἔμμεναι, ἦε καὶ οὐκί."
+    },
+    {
+      "n": 494,
+      "greek": "εἰπὲ δέ μοι Πηλῆος ἀμύμονος, εἴ τι πέπυσσαι,"
+    },
+    {
+      "n": 495,
+      "greek": "ἢ ἔτʼ ἔχει τιμὴν πολέσιν μετὰ Μυρμιδόνεσσιν,"
+    },
+    {
+      "n": 496,
+      "greek": "ἦ μιν ἀτιμάζουσιν ἀνʼ Ἑλλάδα τε Φθίην τε,"
+    },
+    {
+      "n": 497,
+      "greek": "οὕνεκά μιν κατὰ γῆρας ἔχει χεῖράς τε πόδας τε."
+    },
+    {
+      "n": 498,
+      "greek": "οὐ γὰρ ἐγὼν ἐπαρωγὸς ὑπʼ αὐγὰς ἠελίοιο,"
+    },
+    {
+      "n": 499,
+      "greek": "τοῖος ἐών, οἷός ποτʼ ἐνὶ Τροίῃ εὐρείῃ"
+    },
+    {
+      "n": 500,
+      "greek": "πέφνον λαὸν ἄριστον, ἀμύνων Ἀργείοισιν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "and now that thou art here, thou rulest mightily among the dead. Wherefore grieve not at all that thou art dead, Achilles.’ “So I spoke, and he straightway made answer and said: ‘Nay, seek not to speak soothingly to me of death, glorious Odysseus. I should choose, so I might live on earth, to serve as the hireling of another,"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "of some portionless man whose livelihood was but small, rather than to be lord over all the dead that have perished. But come, tell me tidings of my son, that lordly youth, whether or not he followed to the war to be a leader. And tell me of noble Peleus, if thou hast heard aught,"
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "whether he still has honor among the host of the Myrmidons, or whether men do him dishonor throughout Hellas and Phthia, because old age binds him hand and foot. For I am not there to bear him aid beneath the rays of the sun in such strength as once was mine in wide Troy,"
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "when I slew the best of the host in defence of the Argives. If but in such strength I could come, were it but for an hour, to my father's house, I would give many a one of those who do him violence and keep him from his honor, cause to rue my strength and my invincible hands.’ “So he spoke, and I made answer and said:"
+    }
+  ]
+}

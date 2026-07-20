@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "εἴ περ καὶ μάλα πολλὸν ἑκαστέρω ἔστʼ Εὐβοίης,"
+    },
+    {
+      "n": 322,
+      "greek": "τήν περ τηλοτάτω φάσʼ ἔμμεναι, οἵ μιν ἴδοντο"
+    },
+    {
+      "n": 323,
+      "greek": "λαῶν ἡμετέρων, ὅτε τε ξανθὸν Ῥαδάμανθυν"
+    },
+    {
+      "n": 324,
+      "greek": "ἦγον ἐποψόμενον Τιτυὸν Γαιήιον υἱόν."
+    },
+    {
+      "n": 325,
+      "greek": "καὶ μὲν οἱ ἔνθʼ ἦλθον καὶ ἄτερ καμάτοιο τέλεσσαν"
+    },
+    {
+      "n": 326,
+      "greek": "ἤματι τῷ αὐτῷ καὶ ἀπήνυσαν οἴκαδʼ ὀπίσσω."
+    },
+    {
+      "n": 327,
+      "greek": "εἰδήσεις δὲ καὶ αὐτὸς ἐνὶ φρεσὶν ὅσσον ἄρισται"
+    },
+    {
+      "n": 328,
+      "greek": "νῆες ἐμαὶ καὶ κοῦροι ἀναρρίπτειν ἅλα πηδῷ."
+    },
+    {
+      "n": 329,
+      "greek": "ὣς φάτο, γήθησεν δὲ πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 330,
+      "greek": "εὐχόμενος δʼ ἄρα εἶπεν, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 331,
+      "greek": "Ζεῦ πάτερ, αἴθʼ ὅσα εἶπε τελευτήσειεν ἅπαντα"
+    },
+    {
+      "n": 332,
+      "greek": "Ἀλκίνοος· τοῦ μέν κεν ἐπὶ ζείδωρον ἄρουραν"
+    },
+    {
+      "n": 333,
+      "greek": "ἄσβεστον κλέος εἴη, ἐγὼ δέ κε πατρίδʼ ἱκοίμην."
+    },
+    {
+      "n": 334,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον·"
+    },
+    {
+      "n": 335,
+      "greek": "κέκλετο δʼ Ἀρήτη λευκώλενος ἀμφιπόλοισιν"
+    },
+    {
+      "n": 336,
+      "greek": "δέμνιʼ ὑπʼ αἰθούσῃ θέμεναι καὶ ῥήγεα καλὰ"
+    },
+    {
+      "n": 337,
+      "greek": "πορφύρεʼ ἐμβαλέειν, στορέσαι τʼ ἐφύπερθε τάπητας"
+    },
+    {
+      "n": 338,
+      "greek": "χλαίνας τʼ ἐνθέμεναι οὔλας καθύπερθεν ἕσασθαι."
+    },
+    {
+      "n": 339,
+      "greek": "αἱ δʼ ἴσαν ἐκ μεγάροιο δάος μετὰ χερσὶν ἔχουσαι·"
+    },
+    {
+      "n": 340,
+      "greek": "αὐτὰρ ἐπεὶ στόρεσαν πυκινὸν λέχος ἐγκονέουσαι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "Thither they went, and without toil accomplished their journey, and on the selfsame day came back home. So shalt thou, too, know for thyself how far my ships are the best, and my youths at tossing the brine with the oar-blade.” So said he, and the much-enduring goodly Odysseus was glad;"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "and he spoke in prayer, and said: “Father Zeus, grant that Alcinous may bring to pass all that he has said. So shall his fame be unquenchable over the earth, the giver of grain, and I shall reach my native land.” Thus they spoke to one another,"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "and white-armed Arete bade her maidens place a bedstead under cover of the portico, and to lay on it fair blankets of purple, and to spread there over coverlets, and on these to put fleecy cloaks for clothing. So they went forth from the hall with torches in their hands."
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "But when they had busily spread the stout-built bedstead, they came to Odysseus, and called to him, and said: “Rouse thee now, stranger, to go to thy rest; thy bed is made.” Thus they spoke, and welcome did it seem to him to lay him down to sleep. So there he slept, the much-enduring goodly Odysseus,"
+    }
+  ]
+}

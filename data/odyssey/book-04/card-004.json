@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "δείπνου πασσαμένω εἰρησόμεθʼ, οἵ τινές ἐστον"
+    },
+    {
+      "n": 62,
+      "greek": "ἀνδρῶν· οὐ γὰρ σφῷν γε γένος ἀπόλωλε τοκήων,"
+    },
+    {
+      "n": 63,
+      "greek": "ἀλλʼ ἀνδρῶν γένος ἐστὲ διοτρεφέων βασιλήων"
+    },
+    {
+      "n": 64,
+      "greek": "σκηπτούχων, ἐπεὶ οὔ κε κακοὶ τοιούσδε τέκοιεν."
+    },
+    {
+      "n": 65,
+      "greek": "ὣς φάτο, καί σφιν νῶτα βοὸς παρὰ πίονα θῆκεν"
+    },
+    {
+      "n": 66,
+      "greek": "ὄπτʼ ἐν χερσὶν ἑλών, τά ῥά οἱ γέρα πάρθεσαν αὐτῷ."
+    },
+    {
+      "n": 67,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον."
+    },
+    {
+      "n": 68,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 69,
+      "greek": "δὴ τότε Τηλέμαχος προσεφώνεε Νέστορος υἱόν,"
+    },
+    {
+      "n": 70,
+      "greek": "ἄγχι σχὼν κεφαλήν, ἵνα μὴ πευθοίαθʼ οἱ ἄλλοι·"
+    },
+    {
+      "n": 71,
+      "greek": "φράζεο, Νεστορίδη, τῷ ἐμῷ κεχαρισμένε θυμῷ,"
+    },
+    {
+      "n": 72,
+      "greek": "χαλκοῦ τε στεροπὴν κὰδ δώματα ἠχήεντα"
+    },
+    {
+      "n": 73,
+      "greek": "χρυσοῦ τʼ ἠλέκτρου τε καὶ ἀργύρου ἠδʼ ἐλέφαντος."
+    },
+    {
+      "n": 74,
+      "greek": "Ζηνός που τοιήδε γʼ Ὀλυμπίου ἔνδοθεν αὐλή,"
+    },
+    {
+      "n": 75,
+      "greek": "ὅσσα τάδʼ ἄσπετα πολλά· σέβας μʼ ἔχει εἰσορόωντα."
+    },
+    {
+      "n": 76,
+      "greek": "τοῦ δʼ ἀγορεύοντος ξύνετο ξανθὸς Μενέλαος,"
+    },
+    {
+      "n": 77,
+      "greek": "καί σφεας φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 78,
+      "greek": "τέκνα φίλʼ, ἦ τοι Ζηνὶ βροτῶν οὐκ ἄν τις ἐρίζοι·"
+    },
+    {
+      "n": 79,
+      "greek": "ἀθάνατοι γὰρ τοῦ γε δόμοι καὶ κτήματʼ ἔασιν·"
+    },
+    {
+      "n": 80,
+      "greek": "ἀνδρῶν δʼ ἤ κέν τίς μοι ἐρίσσεται, ἠὲ καὶ οὐκί,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "So saying he took in his hands roast meat and set it before them, even the fat ox-chine which they had set before himself as a mess of honor. So they put forth their hands to the good cheer lying ready before them. But when they had put from them the desire of food and drink, lo, then Telemachus spoke to the son of Nestor,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "holding his head close to him, that the others might not hear: “Son of Nestor, dear to this heart of mine, mark the flashing of bronze throughout the echoing halls, and the flashing of gold, of electrum, of silver, and of ivory. Of such sort, methinks, is the court of Olympian Zeus within,"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "such untold wealth is here; amazement holds me as I look.” Now as he spoke fair-haired Menelaus heard him, and he spoke and addressed them with winged words: “Dear children, with Zeus verily no mortal man could vie, for everlasting are his halls and his possessions;"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "but of men another might vie with me in wealth or haply might not. For of a truth after many woes and wide wanderings I brought my wealth home in my ships and came in the eighth year. Over Cyprus and Phoenicia I wandered, and Egypt, and I came to the Ethiopians and the Sidonians and the Erembi,"
+    }
+  ]
+}

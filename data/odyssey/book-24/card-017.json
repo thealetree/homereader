@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "κεῖνος μέν τοι ὅδʼ αὐτὸς ἐγώ, πάτερ, ὃν σὺ μεταλλᾷς,"
+    },
+    {
+      "n": 322,
+      "greek": "ἤλυθον εἰκοστῷ ἔτεϊ ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 323,
+      "greek": "ἀλλʼ ἴσχεο κλαυθμοῖο γόοιό τε δακρυόεντος."
+    },
+    {
+      "n": 324,
+      "greek": "ἐκ γάρ τοι ἐρέω· μάλα δὲ χρὴ σπευδέμεν ἔμπης·"
+    },
+    {
+      "n": 325,
+      "greek": "μνηστῆρας κατέπεφνον ἐν ἡμετέροισι δόμοισι,"
+    },
+    {
+      "n": 326,
+      "greek": "λώβην τινύμενος θυμαλγέα καὶ κακὰ ἔργα."
+    },
+    {
+      "n": 327,
+      "greek": "τὸν δʼ αὖ Λαέρτης ἀπαμείβετο φώνησέν τε·"
+    },
+    {
+      "n": 328,
+      "greek": "εἰ μὲν δὴ Ὀδυσεύς γε ἐμὸς πάϊς ἐνθάδʼ ἱκάνεις,"
+    },
+    {
+      "n": 329,
+      "greek": "σῆμά τί μοι νῦν εἰπὲ ἀριφραδές, ὄφρα πεποίθω."
+    },
+    {
+      "n": 330,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 331,
+      "greek": "οὐλὴν μὲν πρῶτον τήνδε φράσαι ὀφθαλμοῖσι,"
+    },
+    {
+      "n": 332,
+      "greek": "τὴν ἐν Παρνησῷ μʼ ἔλασεν σῦς λευκῷ ὀδόντι"
+    },
+    {
+      "n": 333,
+      "greek": "οἰχόμενον· σὺ δέ με προΐεις καὶ πότνια μήτηρ"
+    },
+    {
+      "n": 334,
+      "greek": "ἐς πατέρʼ Αὐτόλυκον μητρὸς φίλον, ὄφρʼ ἂν ἑλοίμην"
+    },
+    {
+      "n": 335,
+      "greek": "δῶρα, τὰ δεῦρο μολών μοι ὑπέσχετο καὶ κατένευσεν."
+    },
+    {
+      "n": 336,
+      "greek": "εἰ δʼ ἄγε τοι καὶ δένδρεʼ ἐϋκτιμένην κατʼ ἀλωὴν"
+    },
+    {
+      "n": 337,
+      "greek": "εἴπω, ἅ μοί ποτʼ ἔδωκας, ἐγὼ δʼ ᾔτεόν σε ἕκαστα"
+    },
+    {
+      "n": 338,
+      "greek": "παιδνὸς ἐών, κατὰ κῆπον ἐπισπόμενος· διὰ δʼ αὐτῶν"
+    },
+    {
+      "n": 339,
+      "greek": "ἱκνεύμεσθα, σὺ δʼ ὠνόμασας καὶ ἔειπες ἕκαστα."
+    },
+    {
+      "n": 340,
+      "greek": "ὄγχνας μοι δῶκας τρισκαίδεκα καὶ δέκα μηλέας,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "The wooers have I slain in our halls, and have taken vengeance on their grievous insolence and their evil deeds.” Then Laertes answered him again, and said: “If it is indeed as Odysseus, my son, that thou art come hither, tell me now some clear sign, that I maybe sure.”"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "And Odysseus of many wiles answered him and said: “This scar first do thou mark with thine eyes, the scar of the wound which a boar dealt me with his white tusk on Parnassus, when I had gone thither. It was thou that didst send me forth, thou and my honored mother, to Autolycus, my mother's father, that I might get"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "the gifts which, when he came hither, he promised and agreed to give me. And come, I will tell thee also the trees in the well-ordered garden which once thou gavest me, and I, who was but a child, was following thee through the garden, and asking thee for this and that. It was through these very trees that we passed, and thou didst name them, and tell me of each one."
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "Pear-trees thirteen thou gavest me, and ten apple-trees, and forty fig-trees. And rows of vines too didst thou promise to give me, even as I say, fifty of them, which ripened severally at different times—and upon them are clusters of all sorts—whensoever the seasons of Zeus weighed them down from above.”"
+    }
+  ]
+}

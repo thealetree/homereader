@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "τὼ δʼ ἄρα θαμβήσαντʼ ἰθὺς κίον, ὡς ἐσιδέσθην."
+    },
+    {
+      "n": 102,
+      "greek": "ἔγνω δὲ ψυχὴ Ἀγαμέμνονος Ἀτρεΐδαο"
+    },
+    {
+      "n": 103,
+      "greek": "παῖδα φίλον Μελανῆος, ἀγακλυτὸν Ἀμφιμέδοντα·"
+    },
+    {
+      "n": 104,
+      "greek": "ξεῖνος γάρ οἱ ἔην Ἰθάκῃ ἔνι οἰκία ναίων."
+    },
+    {
+      "n": 105,
+      "greek": "τὸν προτέρη ψυχὴ προσεφώνεεν Ἀτρεΐδαο·"
+    },
+    {
+      "n": 106,
+      "greek": "Ἀμφίμεδον, τί παθόντες ἐρεμνὴν γαῖαν ἔδυτε"
+    },
+    {
+      "n": 107,
+      "greek": "πάντες κεκριμένοι καὶ ὁμήλικες; οὐδέ κεν ἄλλως"
+    },
+    {
+      "n": 108,
+      "greek": "κρινάμενος λέξαιτο κατὰ πτόλιν ἄνδρας ἀρίστους."
+    },
+    {
+      "n": 109,
+      "greek": "ἦ ὔμμʼ ἐν νήεσσι Ποσειδάων ἐδάμασσεν,"
+    },
+    {
+      "n": 110,
+      "greek": "ὄρσας ἀργαλέους ἀνέμους καὶ κύματα μακρά;"
+    },
+    {
+      "n": 111,
+      "greek": "ἦ που ἀνάρσιοι ἄνδρες ἐδηλήσαντʼ ἐπὶ χέρσου"
+    },
+    {
+      "n": 112,
+      "greek": "βοῦς περιταμνομένους ἠδʼ οἰῶν πώεα καλά,"
+    },
+    {
+      "n": 113,
+      "greek": "ἠὲ περὶ πτόλιος μαχεούμενοι ἠδὲ γυναικῶν;"
+    },
+    {
+      "n": 114,
+      "greek": "εἰπέ μοι εἰρομένῳ· ξεῖνος δέ τοι εὔχομαι εἶναι."
+    },
+    {
+      "n": 115,
+      "greek": "ἦ οὐ μέμνῃ ὅτε κεῖσε κατήλυθον ὑμέτερον δῶ,"
+    },
+    {
+      "n": 116,
+      "greek": "ὀτρυνέων Ὀδυσῆα σὺν ἀντιθέῳ Μενελάῳ"
+    },
+    {
+      "n": 117,
+      "greek": "Ἴλιον εἰς ἅμʼ ἕπεσθαι ἐϋσσέλμων ἐπὶ νηῶν;"
+    },
+    {
+      "n": 118,
+      "greek": "μηνὶ δʼ ἄρʼ οὔλῳ πάντα περήσαμεν εὐρέα πόντον,"
+    },
+    {
+      "n": 119,
+      "greek": "σπουδῇ παρπεπιθόντες Ὀδυσσῆα πτολίπορθον."
+    },
+    {
+      "n": 120,
+      "greek": "τὸν δʼ αὖτε ψυχὴ προσεφώνεεν Ἀμφιμέδοντος·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "Then the spirit of the son of Atreus spoke first to him and said “Amphimedon, what has befallen you that ye have come down beneath the dark earth, all of you picked men and of like age? One would make no other choice, were one to pick the best men in a city. Did Poseidon smite you on board your ships,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "when he had roused cruel winds and long waves? Or did foemen work you harm on the land, while you were cutting off their cattle and fair flocks of sheep, or while they fought in defence of their city and their women? Tell me what I ask; for I declare that I am a friend of thy house."
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "Dost thou not remember when I came thither to your house with godlike Menelaus to urge Odysseus to go with us to Ilios on the benched ships? A full month it took us to cross all the wide sea, for hardly could we win to our will Odysseus, the sacker of cities.”"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "Then the spirit of Amphimedon answered him, and said: “Most glorious son of Atreus, king of men, Agamemnon, I remember all these things, O thou fostered of Zeus, even as thou dost tell them; and on my part I will frankly tell thee all the truth, how for us an evil end of death was wrought."
+    }
+  ]
+}

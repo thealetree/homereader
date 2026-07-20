@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "οὐδʼ ὀρθὸς στῆναι δύναται ποσὶν οὐδὲ νέεσθαι"
+    },
+    {
+      "n": 242,
+      "greek": "οἴκαδʼ, ὅπη οἱ νόστος, ἐπεὶ φίλα γυῖα λέλυνται."
+    },
+    {
+      "n": 243,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον·"
+    },
+    {
+      "n": 244,
+      "greek": "Εὐρύμαχος δʼ ἐπέεσσι προσηύδα Πηνελόπειαν·"
+    },
+    {
+      "n": 245,
+      "greek": "κούρη Ἰκαρίοιο, περίφρον Πηνελόπεια,"
+    },
+    {
+      "n": 246,
+      "greek": "εἰ πάντες σε ἴδοιεν ἀνʼ Ἴασον Ἄργος Ἀχαιοί,"
+    },
+    {
+      "n": 247,
+      "greek": "πλέονές κε μνηστῆρες ἐν ὑμετέροισι δόμοισιν"
+    },
+    {
+      "n": 248,
+      "greek": "ἠῶθεν δαινύατʼ, ἐπεὶ περίεσσι γυναικῶν"
+    },
+    {
+      "n": 249,
+      "greek": "εἶδός τε μέγεθός τε ἰδὲ φρένας ἔνδον ἐΐσας."
+    },
+    {
+      "n": 250,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 251,
+      "greek": "Εὐρύμαχʼ, ἦ τοι ἐμὴν ἀρετὴν εἶδός τε δέμας τε"
+    },
+    {
+      "n": 252,
+      "greek": "ὤλεσαν ἀθάνατοι, ὅτε Ἴλιον εἰσανέβαινον"
+    },
+    {
+      "n": 253,
+      "greek": "Ἀργεῖοι, μετὰ τοῖσι δʼ ἐμὸς πόσις ᾖεν Ὀδυσσεύς."
+    },
+    {
+      "n": 254,
+      "greek": "εἰ κεῖνός γʼ ἐλθὼν τὸν ἐμὸν βίον ἀμφιπολεύοι,"
+    },
+    {
+      "n": 255,
+      "greek": "μεῖζόν κε κλέος εἴη ἐμὸν καὶ κάλλιον οὕτως."
+    },
+    {
+      "n": 256,
+      "greek": "νῦν δʼ ἄχομαι· τόσα γάρ μοι ἐπέσσευεν κακὰ δαίμων."
+    },
+    {
+      "n": 257,
+      "greek": "ἦ μὲν δὴ ὅτε τʼ ᾖε λιπὼν κάτα πατρίδα γαῖαν,"
+    },
+    {
+      "n": 258,
+      "greek": "δεξιτερὴν ἐπὶ καρπῷ ἑλὼν ἐμὲ χεῖρα προσηύδα·"
+    },
+    {
+      "n": 259,
+      "greek": "ὦ γύναι, οὐ γὰρ ὀΐω ἐϋκνήμιδας Ἀχαιοὺς"
+    },
+    {
+      "n": 260,
+      "greek": "ἐκ Τροίης εὖ πάντας ἀπήμονας ἀπονέεσθαι·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "“Daughter of Icarius, wise Penelope, if all the Achaeans throughout Iasian Argos could see thee, even more wooers would be feasting in your halls from to-morrow on, for thou excellest all women in comeliness and stature, and in the wise heart within thee.”"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "Then wise Penelope answered him: “Eurymachus, all excellence of mine, both of beauty and of form, the immortals destroyed on the day when the Argives embarked for Ilios, and with them went my husband Odysseus. If he might but come and watch over this life of mine,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "greater would be my fame and fairer. But now I am in sorrow, so many woes has some god brought upon me. Verily, when he went forth and left his native land, he clasped my right hand by the wrist, and said: “‘Wife, I deem not that the well-greaved Achaeans"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "will all return from Troy safe and unscathed, for the Trojans, men say, are men of war, hurlers of the spear, and drawers of the bow, and drivers of swift horses, such as most quickly decide the great strife of equal war."
+    }
+  ]
+}

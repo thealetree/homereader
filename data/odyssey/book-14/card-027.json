@@ -1,0 +1,80 @@
+{
+  "book": 14,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 533,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "πυκνὴν καὶ μεγάλην, ἥ οἱ παρεκέσκετʼ ἀμοιβάς,"
+    },
+    {
+      "n": 522,
+      "greek": "ἕννυσθαι ὅτε τις χειμὼν ἔκπαγλος ὄροιτο."
+    },
+    {
+      "n": 523,
+      "greek": "ὣς ὁ μὲν ἔνθʼ Ὀδυσεὺς κοιμήσατο, τοὶ δὲ παρʼ αὐτὸν"
+    },
+    {
+      "n": 524,
+      "greek": "ἄνδρες κοιμήσαντο νεηνίαι· οὐδὲ συβώτῃ"
+    },
+    {
+      "n": 525,
+      "greek": "ἥνδανεν αὐτόθι κοῖτος, ὑῶν ἄπο κοιμηθῆναι,"
+    },
+    {
+      "n": 526,
+      "greek": "ἀλλʼ ὅ γʼ ἄρʼ ἔξω ἰὼν ὡπλίζετο· χαῖρε δʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 527,
+      "greek": "ὅττι ῥά οἱ βιότου περικήδετο νόσφιν ἐόντος."
+    },
+    {
+      "n": 528,
+      "greek": "πρῶτον μὲν ξίφος ὀξὺ περὶ στιβαροῖς βάλετʼ ὤμοις,"
+    },
+    {
+      "n": 529,
+      "greek": "ἀμφὶ δὲ χλαῖναν ἑέσσατʼ ἀλεξάνεμον, μάλα πυκνήν,"
+    },
+    {
+      "n": 530,
+      "greek": "ἂν δὲ νάκην ἕλετʼ αἰγὸς ἐϋτρεφέος μεγάλοιο,"
+    },
+    {
+      "n": 531,
+      "greek": "εἵλετο δʼ ὀξὺν ἄκοντα, κυνῶν ἀλκτῆρα καὶ ἀνδρῶν."
+    },
+    {
+      "n": 532,
+      "greek": "βῆ δʼ ἴμεναι κείων ὅθι περ σύες ἀργιόδοντες"
+    },
+    {
+      "n": 533,
+      "greek": "πέτρῃ ὕπο γλαφυρῇ εὗδον, Βορέω ὑπʼ ἰωγῇ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "liked not a bed in that place, that he should lay him down away from the boars; so he made ready to go outside. And Odysseus was glad that he took such care of his master's substance while he was afar. First Eumaeus flung his sharp sword over his strong shoulders, and then put about him a cloak, very thick, to keep off the wind;"
+    },
+    {
+      "lines": [
+        530,
+        533
+      ],
+      "text": "and he picked up the fleece of a large, well-fatted goat, took a sharp javelin to ward off dogs and men, and went forth to lie down to sleep where the white-tusked boars slept beneath a hollow rock, in a place sheltered from the North Wind."
+    }
+  ]
+}

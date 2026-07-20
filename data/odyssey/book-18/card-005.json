@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "ἄνδρα γέροντα, δύῃ ἀρημένον, ἥ μιν ἱκάνει."
+    },
+    {
+      "n": 82,
+      "greek": "ἀλλʼ ἔκ τοι ἐρέω, τὸ δὲ καὶ τετελεσμένον ἔσται·"
+    },
+    {
+      "n": 83,
+      "greek": "αἴ κέν σʼ οὗτος νικήσῃ κρείσσων τε γένηται,"
+    },
+    {
+      "n": 84,
+      "greek": "πέμψω σʼ ἤπειρόνδε, βαλὼν ἐν νηὶ μελαίνῃ,"
+    },
+    {
+      "n": 85,
+      "greek": "εἰς Ἔχετον βασιλῆα, βροτῶν δηλήμονα πάντων,"
+    },
+    {
+      "n": 86,
+      "greek": "ὅς κʼ ἀπὸ ῥῖνα τάμῃσι καὶ οὔατα νηλέϊ χαλκῷ,"
+    },
+    {
+      "n": 87,
+      "greek": "μήδεά τʼ ἐξερύσας δώῃ κυσὶν ὠμὰ δάσασθαι."
+    },
+    {
+      "n": 88,
+      "greek": "ὣς φάτο, τῷ δʼ ἔτι μᾶλλον ὑπὸ τρόμος ἔλλαβε γυῖα."
+    },
+    {
+      "n": 89,
+      "greek": "ἐς μέσσον δʼ ἄναγον· τὼ δʼ ἄμφω χεῖρας ἀνέσχον."
+    },
+    {
+      "n": 90,
+      "greek": "δὴ τότε μερμήριξε πολύτλας δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 91,
+      "greek": "ἢ ἐλάσειʼ ὥς μιν ψυχὴ λίποι αὖθι πεσόντα,"
+    },
+    {
+      "n": 92,
+      "greek": "ἦέ μιν ἦκʼ ἐλάσειε τανύσσειέν τʼ ἐπὶ γαίῃ."
+    },
+    {
+      "n": 93,
+      "greek": "ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι,"
+    },
+    {
+      "n": 94,
+      "greek": "ἦκʼ ἐλάσαι, ἵνα μή μιν ἐπιφρασσαίατʼ Ἀχαιοί."
+    },
+    {
+      "n": 95,
+      "greek": "δὴ τότʼ ἀνασχομένω ὁ μὲν ἤλασε δεξιὸν ὦμον"
+    },
+    {
+      "n": 96,
+      "greek": "Ἶρος, ὁ δʼ αὐχένʼ ἔλασσεν ὑπʼ οὔατος, ὀστέα δʼ εἴσω"
+    },
+    {
+      "n": 97,
+      "greek": "ἔθλασεν· αὐτίκα δʼ ἦλθε κατὰ στόμα φοίνιον αἷμα,"
+    },
+    {
+      "n": 98,
+      "greek": "κὰδ δʼ ἔπεσʼ ἐν κονίῃσι μακών, σὺν δʼ ἤλασʼ ὀδόντας"
+    },
+    {
+      "n": 99,
+      "greek": "λακτίζων ποσὶ γαῖαν· ἀτὰρ μνηστῆρες ἀγαυοὶ"
+    },
+    {
+      "n": 100,
+      "greek": "χεῖρας ἀνασχόμενοι γέλῳ ἔκθανον. αὐτὰρ Ὀδυσσεὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "to King Echetus, the maimer of all men, who will cut off thy nose and ears with the pitiless bronze, and will draw forth thy vitals and give them raw to dogs to rend.” So he spoke, and thereat yet greater trembling seized the other's limbs, and they led him into the ring and both men put up their hands."
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "Then the much-enduring, goodly Odysseus was divided in mind whether he should strike him so that life should leave him even there as he fell, or whether he should deal him a light blow and stretch him on the earth. And, as he pondered, this seemed to him the better course, to deal him a light blow, that the Achaeans might not take note of him."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "Then verily, when they had put up their hands, Irus let drive at the right shoulder, but Odysseus smote him on the neck beneath the ear and crushed in the bones, and straightway the red blood ran forth from his mouth, and down he fell in the dust with a moan, and he gnashed his teeth, kicking the ground with his feet. But the lordly wooers"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "raised their hands, and were like to die with laughter. Then Odysseus seized him by the foot, and dragged him forth through the doorway until he came to the court and the gates of the portico. And he set him down and leaned him against the wall of the court, and thrust his staff into his hand and spoke, and addressed him with winged words:"
+    }
+  ]
+}

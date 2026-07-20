@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 30,
+  "lineStart": 581,
+  "lineEnd": 600,
+  "lines": [
+    {
+      "n": 581,
+      "greek": "ἂψ δʼ εἰς Αἰγύπτοιο διιπετέος ποταμοῖο"
+    },
+    {
+      "n": 582,
+      "greek": "στῆσα νέας, καὶ ἔρεξα τεληέσσας ἑκατόμβας."
+    },
+    {
+      "n": 583,
+      "greek": "αὐτὰρ ἐπεὶ κατέπαυσα θεῶν χόλον αἰὲν ἐόντων,"
+    },
+    {
+      "n": 584,
+      "greek": "χεῦʼ Ἀγαμέμνονι τύμβον, ἵνʼ ἄσβεστον κλέος εἴη."
+    },
+    {
+      "n": 585,
+      "greek": "ταῦτα τελευτήσας νεόμην, ἔδοσαν δέ μοι οὖρον"
+    },
+    {
+      "n": 586,
+      "greek": "ἀθάνατοι, τοί μʼ ὦκα φίλην ἐς πατρίδʼ ἔπεμψαν."
+    },
+    {
+      "n": 587,
+      "greek": "ἀλλʼ ἄγε νῦν ἐπίμεινον ἐνὶ μεγάροισιν ἐμοῖσιν,"
+    },
+    {
+      "n": 588,
+      "greek": "ὄφρα κεν ἑνδεκάτη τε δυωδεκάτη τε γένηται·"
+    },
+    {
+      "n": 589,
+      "greek": "καὶ τότε σʼ εὖ πέμψω, δώσω δέ τοι ἀγλαὰ δῶρα,"
+    },
+    {
+      "n": 590,
+      "greek": "τρεῖς ἵππους καὶ δίφρον ἐύξοον· αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 591,
+      "greek": "δώσω καλὸν ἄλεισον, ἵνα σπένδῃσθα θεοῖσιν"
+    },
+    {
+      "n": 592,
+      "greek": "ἀθανάτοις ἐμέθεν μεμνημένος ἤματα πάντα."
+    },
+    {
+      "n": 593,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 594,
+      "greek": "Ἀτρεΐδη, μὴ δή με πολὺν χρόνον ἐνθάδʼ ἔρυκε."
+    },
+    {
+      "n": 595,
+      "greek": "καὶ γάρ κʼ εἰς ἐνιαυτὸν ἐγὼ παρὰ σοί γʼ ἀνεχοίμην"
+    },
+    {
+      "n": 596,
+      "greek": "ἥμενος, οὐδέ κέ μʼ οἴκου ἕλοι πόθος οὐδὲ τοκήων·"
+    },
+    {
+      "n": 597,
+      "greek": "αἰνῶς γὰρ μύθοισιν ἔπεσσί τε σοῖσιν ἀκούων"
+    },
+    {
+      "n": 598,
+      "greek": "τέρπομαι. ἀλλʼ ἤδη μοι ἀνιάζουσιν ἑταῖροι"
+    },
+    {
+      "n": 599,
+      "greek": "ἐν Πύλῳ ἠγαθέῃ· σὺ δέ με χρόνον ἐνθάδʼ ἐρύκεις."
+    },
+    {
+      "n": 600,
+      "greek": "δῶρον δʼ ὅττι κέ μοι δοίης, κειμήλιον ἔστω·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        585,
+        589
+      ],
+      "text": "Then, when I had made an end of this, I set out for home, and the immortals gave me a fair wind, and brought me swiftly to my dear native land. But come now, tarry in my halls until the eleventh or the twelfth day be come. Then will I send thee forth with honor and give thee splendid gifts,"
+    },
+    {
+      "lines": [
+        590,
+        594
+      ],
+      "text": "three horses and a well-polished car; and besides I will give thee a beautiful cup, that thou mayest pour libations to the immortal gods, and remember me all thy days.” Then wise Telemachus answered him: “Son of Atreus, keep me no long time here,"
+    },
+    {
+      "lines": [
+        595,
+        599
+      ],
+      "text": "for verily for a year would I be content to sit in thy house, nor would desire for home or parents come upon me; for wondrous is the pleasure I take in listening to thy tales and thy speech. But even now my comrades are chafing in sacred Pylos, and thou art keeping me long time here."
+    },
+    {
+      "lines": [
+        600,
+        600
+      ],
+      "text": "And whatsoever gift thou wouldest give me, let it be some treasure; but horses will I not take to Ithaca, but will leave them here for thyself to delight in, for thou art lord of a wide plain, wherein is lotus in abundance, and galingale and wheat and spelt, and broad-eared white barley."
+    }
+  ]
+}

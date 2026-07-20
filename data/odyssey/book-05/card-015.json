@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "εἴσατο δʼ ὡς ὅτε ῥινὸν ἐν ἠεροειδέι πόντῳ."
+    },
+    {
+      "n": 282,
+      "greek": "τὸν δʼ ἐξ Αἰθιόπων ἀνιὼν κρείων ἐνοσίχθων"
+    },
+    {
+      "n": 283,
+      "greek": "τηλόθεν ἐκ Σολύμων ὀρέων ἴδεν· εἴσατο γάρ οἱ"
+    },
+    {
+      "n": 284,
+      "greek": "πόντον ἐπιπλώων. ὁ δʼ ἐχώσατο κηρόθι μᾶλλον,"
+    },
+    {
+      "n": 285,
+      "greek": "κινήσας δὲ κάρη προτὶ ὃν μυθήσατο θυμόν·"
+    },
+    {
+      "n": 286,
+      "greek": "ὢ πόποι, ἦ μάλα δὴ μετεβούλευσαν θεοὶ ἄλλως"
+    },
+    {
+      "n": 287,
+      "greek": "ἀμφʼ Ὀδυσῆι ἐμεῖο μετʼ Αἰθιόπεσσιν ἐόντος,"
+    },
+    {
+      "n": 288,
+      "greek": "καὶ δὴ Φαιήκων γαίης σχεδόν, ἔνθα οἱ αἶσα"
+    },
+    {
+      "n": 289,
+      "greek": "ἐκφυγέειν μέγα πεῖραρ ὀιζύος, ἥ μιν ἱκάνει."
+    },
+    {
+      "n": 290,
+      "greek": "ἀλλʼ ἔτι μέν μίν φημι ἅδην ἐλάαν κακότητος."
+    },
+    {
+      "n": 291,
+      "greek": "ὣς εἰπὼν σύναγεν νεφέλας, ἐτάραξε δὲ πόντον"
+    },
+    {
+      "n": 292,
+      "greek": "χερσὶ τρίαιναν ἑλών· πάσας δʼ ὀρόθυνεν ἀέλλας"
+    },
+    {
+      "n": 293,
+      "greek": "παντοίων ἀνέμων, σὺν δὲ νεφέεσσι κάλυψε"
+    },
+    {
+      "n": 294,
+      "greek": "γαῖαν ὁμοῦ καὶ πόντον· ὀρώρει δʼ οὐρανόθεν νύξ."
+    },
+    {
+      "n": 295,
+      "greek": "σὺν δʼ Εὖρός τε Νότος τʼ ἔπεσον Ζέφυρός τε δυσαὴς"
+    },
+    {
+      "n": 296,
+      "greek": "καὶ Βορέης αἰθρηγενέτης, μέγα κῦμα κυλίνδων."
+    },
+    {
+      "n": 297,
+      "greek": "καὶ τότʼ Ὀδυσσῆος λύτο γούνατα καὶ φίλον ἦτορ,"
+    },
+    {
+      "n": 298,
+      "greek": "ὀχθήσας δʼ ἄρα εἶπε πρὸς ὃν μεγαλήτορα θυμόν·"
+    },
+    {
+      "n": 299,
+      "greek": "ὤ μοι ἐγὼ δειλός, τί νύ μοι μήκιστα γένηται;"
+    },
+    {
+      "n": 300,
+      "greek": "δείδω μὴ δὴ πάντα θεὰ νημερτέα εἶπεν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "and shook his head, and thus he spoke to his own heart: “Out on it! Surely the gods have changed their purpose regarding Odysseus, while I was among the Ethiopians. And lo, he is near to the land of the Phaeacians, where it is his fate to escape from the great bonds of the woe which has come upon him."
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "Aye, but even yet, methinks, I shall drive him to surfeit of evil.” So saying, he gathered the clouds, and seizing his trident in his hands troubled the sea, and roused all blasts of all manner of winds, and hid with clouds land and sea alike; and night rushed down from heaven."
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "Together the East Wind and the South Wind dashed, and the fierce-blowing West Wind and the North Wind, born in the bright heaven, rolling before him a mighty wave. Then were the knees of Odysseus loosened and his heart melted, and deeply moved he spoke to his own mighty spirit: “Ah me, wretched that I am! What is to befall me at the last?"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "I fear me that verily all that the goddess said was true, when she declared that on the sea, before ever I came to my native land, I should fill up my measure of woes; and lo, all this now is being brought to pass. In such wise does Zeus overcast the broad heaven with clouds, and has stirred up the sea, and the blasts"
+    }
+  ]
+}

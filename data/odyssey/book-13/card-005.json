@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "ἡ δʼ, ὥς τʼ ἐν πεδίῳ τετράοροι ἄρσενες ἵπποι,"
+    },
+    {
+      "n": 82,
+      "greek": "πάντες ἅμʼ ὁρμηθέντες ὑπὸ πληγῇσιν ἱμάσθλης,"
+    },
+    {
+      "n": 83,
+      "greek": "ὑψόσʼ ἀειρόμενοι ῥίμφα πρήσσουσι κέλευθον,"
+    },
+    {
+      "n": 84,
+      "greek": "ὣς ἄρα τῆς πρύμνη μὲν ἀείρετο, κῦμα δʼ ὄπισθε"
+    },
+    {
+      "n": 85,
+      "greek": "πορφύρεον μέγα θῦε πολυφλοίσβοιο θαλάσσης."
+    },
+    {
+      "n": 86,
+      "greek": "ἡ δὲ μάλʼ ἀσφαλέως θέεν ἔμπεδον· οὐδέ κεν ἴρηξ"
+    },
+    {
+      "n": 87,
+      "greek": "κίρκος ὁμαρτήσειεν, ἐλαφρότατος πετεηνῶν."
+    },
+    {
+      "n": 88,
+      "greek": "ὣς ἡ ῥίμφα θέουσα θαλάσσης κύματʼ ἔταμνεν,"
+    },
+    {
+      "n": 89,
+      "greek": "ἄνδρα φέρουσα θεοῖς ἐναλίγκια μήδεʼ ἔχοντα·"
+    },
+    {
+      "n": 90,
+      "greek": "ὃς πρὶν μὲν μάλα πολλὰ πάθʼ ἄλγεα ὃν κατὰ θυμὸν"
+    },
+    {
+      "n": 91,
+      "greek": "ἀνδρῶν τε πτολέμους ἀλεγεινά τε κύματα πείρων,"
+    },
+    {
+      "n": 92,
+      "greek": "δὴ τότε γʼ ἀτρέμας εὗδε, λελασμένος ὅσσʼ ἐπεπόνθει."
+    },
+    {
+      "n": 93,
+      "greek": "εὖτʼ ἀστὴρ ὑπερέσχε φαάντατος, ὅς τε μάλιστα"
+    },
+    {
+      "n": 94,
+      "greek": "ἔρχεται ἀγγέλλων φάος Ἠοῦς ἠριγενείης,"
+    },
+    {
+      "n": 95,
+      "greek": "τῆμος δὴ νήσῳ προσεπίλνατο ποντοπόρος νηῦς."
+    },
+    {
+      "n": 96,
+      "greek": "Φόρκυνος δέ τίς ἐστι λιμήν, ἁλίοιο γέροντος,"
+    },
+    {
+      "n": 97,
+      "greek": "ἐν δήμῳ Ἰθάκης· δύο δὲ προβλῆτες ἐν αὐτῷ"
+    },
+    {
+      "n": 98,
+      "greek": "ἀκταὶ ἀπορρῶγες, λιμένος ποτιπεπτηυῖαι,"
+    },
+    {
+      "n": 99,
+      "greek": "αἵ τʼ ἀνέμων σκεπόωσι δυσαήων μέγα κῦμα"
+    },
+    {
+      "n": 100,
+      "greek": "ἔκτοθεν· ἔντοσθεν δέ τʼ ἄνευ δεσμοῖο μένουσι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "the dark wave of the loud-sounding sea foamed mightily, and she sped safely and surely on her way; not even the circling hawk, the swiftest of winged things, could have kept pace with her. Thus she sped on swiftly and clove the waves of the sea, bearing a man the peer of the gods in counsel,"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "one who in time past had suffered many griefs at heart in passing through wars of men and the grievous waves; but now he slept in peace, forgetful of all that he had suffered. Now when that brightest of stars rose which ever comes to herald the light of early Dawn,"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "even then the seafaring ship drew near to the island. There is in the land of Ithaca a certain harbor of Phorcys, the old man of the sea, and at its mouth two projecting headlands sheer to seaward, but sloping down on the side toward the harbor. These keep back the great waves raised by heavy winds"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "without, but within the benched ships lie unmoored when they have reached the point of anchorage. At the head of the harbor is a long-leafed olive tree, and near it a pleasant, shadowy cave sacred to the nymphs that are called Naiads."
+    }
+  ]
+}

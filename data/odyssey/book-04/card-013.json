@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "ὅσσοι Ὀδυσσῆος ταλασίφρονός εἰσιν ἄεθλοι·"
+    },
+    {
+      "n": 242,
+      "greek": "ἀλλʼ οἷον τόδʼ ἔρεξε καὶ ἔτλη καρτερὸς ἀνὴρ"
+    },
+    {
+      "n": 243,
+      "greek": "δήμῳ ἔνι Τρώων, ὅθι πάσχετε πήματʼ Ἀχαιοί."
+    },
+    {
+      "n": 244,
+      "greek": "αὐτόν μιν πληγῇσιν ἀεικελίῃσι δαμάσσας,"
+    },
+    {
+      "n": 245,
+      "greek": "σπεῖρα κάκʼ ἀμφʼ ὤμοισι βαλών, οἰκῆι ἐοικώς,"
+    },
+    {
+      "n": 246,
+      "greek": "ἀνδρῶν δυσμενέων κατέδυ πόλιν εὐρυάγυιαν·"
+    },
+    {
+      "n": 247,
+      "greek": "ἄλλῳ δʼ αὐτὸν φωτὶ κατακρύπτων ἤισκε,"
+    },
+    {
+      "n": 248,
+      "greek": "δέκτῃ, ὃς οὐδὲν τοῖος ἔην ἐπὶ νηυσὶν Ἀχαιῶν."
+    },
+    {
+      "n": 249,
+      "greek": "τῷ ἴκελος κατέδυ Τρώων πόλιν, οἱ δʼ ἀβάκησαν"
+    },
+    {
+      "n": 250,
+      "greek": "πάντες· ἐγὼ δέ μιν οἴη ἀνέγνων τοῖον ἐόντα,"
+    },
+    {
+      "n": 251,
+      "greek": "καί μιν ἀνηρώτων· ὁ δὲ κερδοσύνῃ ἀλέεινεν."
+    },
+    {
+      "n": 252,
+      "greek": "ἀλλʼ ὅτε δή μιν ἐγὼ λόεον καὶ χρῖον ἐλαίῳ,"
+    },
+    {
+      "n": 253,
+      "greek": "ἀμφὶ δὲ εἵματα ἕσσα καὶ ὤμοσα καρτερὸν ὅρκον"
+    },
+    {
+      "n": 254,
+      "greek": "μὴ μὲν πρὶν Ὀδυσῆα μετὰ Τρώεσσʼ ἀναφῆναι,"
+    },
+    {
+      "n": 255,
+      "greek": "πρίν γε τὸν ἐς νῆάς τε θοὰς κλισίας τʼ ἀφικέσθαι,"
+    },
+    {
+      "n": 256,
+      "greek": "καὶ τότε δή μοι πάντα νόον κατέλεξεν Ἀχαιῶν."
+    },
+    {
+      "n": 257,
+      "greek": "πολλοὺς δὲ Τρώων κτείνας ταναήκεϊ χαλκῷ"
+    },
+    {
+      "n": 258,
+      "greek": "ἦλθε μετʼ Ἀργείους, κατὰ δὲ φρόνιν ἤγαγε πολλήν."
+    },
+    {
+      "n": 259,
+      "greek": "ἔνθʼ ἄλλαι Τρῳαὶ λίγʼ ἐκώκυον· αὐτὰρ ἐμὸν κῆρ"
+    },
+    {
+      "n": 260,
+      "greek": "χαῖρʼ, ἐπεὶ ἤδη μοι κραδίη τέτραπτο νέεσθαι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "and flinging a wretched garment about his shoulders, in the fashion of a slave he entered the broad-wayed city of the foe, and he hid himself under the likeness of another, a beggar, he who was in no wise such an one at the ships of the Achaeans. In this likeness he entered the city of the Trojans, and all of them were but as babes."
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "I alone recognized him in this disguise, and questioned him, but he in his cunning sought to avoid me. Howbeit when I was bathing him and anointing him with oil, and had put on him raiment, and sworn a mighty oath not to make him known among the Trojans as Odysseus"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "before that he reached the swift ships and the huts, then at length he told me all the purpose of the Achaeans. And when he had slain many of the Trojans with the long sword, he returned to the company of the Argives and brought back plentiful tidings. Then the other Trojan women wailed aloud, but my soul"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "was glad, for already my heart was turned to go back to my home, and I groaned for the blindness that Aphrodite gave me, when she led me thither from my dear native land, forsaking my child and my bridal chamber, and my husband, a man who lacked nothing, whether in wisdom or in comeliness.”"
+    }
+  ]
+}

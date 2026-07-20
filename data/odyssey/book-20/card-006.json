@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "ἔνδοθεν, ἔκτοσθεν δὲ Διὸς τέρας ἄλλο φανήτω."
+    },
+    {
+      "n": 102,
+      "greek": "ὣς ἔφατʼ εὐχόμενος· τοῦ δʼ ἔκλυε μητίετα Ζεύς,"
+    },
+    {
+      "n": 103,
+      "greek": "αὐτίκα δʼ ἐβρόντησεν ἀπʼ αἰγλήεντος Ὀλύμπου,"
+    },
+    {
+      "n": 104,
+      "greek": "ὑψόθεν ἐκ νεφέων· γήθησε δὲ δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 105,
+      "greek": "φήμην δʼ ἐξ οἴκοιο γυνὴ προέηκεν ἀλετρὶς"
+    },
+    {
+      "n": 106,
+      "greek": "πλησίον, ἔνθʼ ἄρα οἱ μύλαι ἥατο ποιμένι λαῶν,"
+    },
+    {
+      "n": 107,
+      "greek": "τῇσιν δώδεκα πᾶσαι ἐπερρώοντο γυναῖκες"
+    },
+    {
+      "n": 108,
+      "greek": "ἄλφιτα τεύχουσαι καὶ ἀλείατα, μυελὸν ἀνδρῶν."
+    },
+    {
+      "n": 109,
+      "greek": "αἱ μὲν ἄρʼ ἄλλαι εὗδον, ἐπεὶ κατὰ πυρὸν ἄλεσσαν,"
+    },
+    {
+      "n": 110,
+      "greek": "ἡ δὲ μίʼ οὔπω παύετʼ, ἀφαυροτάτη δʼ ἐτέτυκτο·"
+    },
+    {
+      "n": 111,
+      "greek": "ἥ ῥα μύλην στήσασα ἔπος φάτο, σῆμα ἄνακτι·"
+    },
+    {
+      "n": 112,
+      "greek": "Ζεῦ πάτερ, ὅς τε θεοῖσι καὶ ἀνθρώποισιν ἀνάσσεις,"
+    },
+    {
+      "n": 113,
+      "greek": "ἦ μεγάλʼ ἐβρόντησας ἀπʼ οὐρανοῦ ἀστερόεντος,"
+    },
+    {
+      "n": 114,
+      "greek": "οὐδέ ποθι νέφος ἐστί· τέρας νύ τεῳ τόδε φαίνεις."
+    },
+    {
+      "n": 115,
+      "greek": "κρῆνον νῦν καὶ ἐμοὶ δειλῇ ἔπος, ὅττι κεν εἴπω·"
+    },
+    {
+      "n": 116,
+      "greek": "μνηστῆρες πύματόν τε καὶ ὕστατον ἤματι τῷδε"
+    },
+    {
+      "n": 117,
+      "greek": "ἐν μεγάροις Ὀδυσῆος ἑλοίατο δαῖτʼ ἐρατεινήν,"
+    },
+    {
+      "n": 118,
+      "greek": "οἳ δή μοι καμάτῳ θυμαλγέι· γούνατʼ ἔλυσαν"
+    },
+    {
+      "n": 119,
+      "greek": "ἄλφιτα τευχούσῃ· νῦν ὕστατα δειπνήσειαν."
+    },
+    {
+      "n": 120,
+      "greek": "ὣς ἄρʼ ἔφη, χαῖρεν δὲ κλεηδόνι δῖος Ὀδυσσεὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "And a woman, grinding at the mill, uttered a word of omen from within the house hard by, where the mills of the shepherd of the people were set. At these mills twelve women in all were wont to ply their tasks, making meal of barley and of wheat, the marrow of men. Now the others were sleeping, for they had ground their wheat,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "but she alone had not yet ceased, for she was the weakest of all. She now stopped her mill and spoke a word, a sign for her master: “Father Zeus, who art lord over gods and men, verily loud hast thou thundered from the starry sky, yet nowhere is there any cloud: surely this is a sign that thou art showing to some man."
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "Fulfil now even for wretched me the word that I shall speak. May the wooers this day for the last and latest time hold their glad feast in the halls of Odysseus. They that have loosened my limbs with bitter labour, as I made them barley meal, may they now sup their last.”"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "So she spoke, and goodly Odysseus was glad at the word of omen and at the thunder of Zeus, for he thought he had gotten vengeance on the guilty. Now the other maidens in the fair palace of Odysseus had gathered together and were kindling on the hearth unwearied fire, and Telemachus rose from his bed, a godlike man,"
+    }
+  ]
+}

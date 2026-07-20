@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "δὴ τότε γʼ, ὡς ἐνόησεν Ὀδυσσέα ἐγγὺς ἐόντα,"
+    },
+    {
+      "n": 302,
+      "greek": "οὐρῇ μέν ῥʼ ὅ γʼ ἔσηνε καὶ οὔατα κάββαλεν ἄμφω,"
+    },
+    {
+      "n": 303,
+      "greek": "ἆσσον δʼ οὐκέτʼ ἔπειτα δυνήσατο οἷο ἄνακτος"
+    },
+    {
+      "n": 304,
+      "greek": "ἐλθέμεν· αὐτὰρ ὁ νόσφιν ἰδὼν ἀπομόρξατο δάκρυ,"
+    },
+    {
+      "n": 305,
+      "greek": "ῥεῖα λαθὼν Εὔμαιον, ἄφαρ δʼ ἐρεείνετο μύθῳ·"
+    },
+    {
+      "n": 306,
+      "greek": "Εὔμαιʼ, ἦ μάλα θαῦμα, κύων ὅδε κεῖτʼ ἐνὶ κόπρῳ."
+    },
+    {
+      "n": 307,
+      "greek": "καλὸς μὲν δέμας ἐστίν, ἀτὰρ τόδε γʼ οὐ σάφα οἶδα,"
+    },
+    {
+      "n": 308,
+      "greek": "εἰ δὴ καὶ ταχὺς ἔσκε θέειν ἐπὶ εἴδεϊ τῷδε,"
+    },
+    {
+      "n": 309,
+      "greek": "ἦ αὔτως οἷοί τε τραπεζῆες κύνες ἀνδρῶν"
+    },
+    {
+      "n": 310,
+      "greek": "γίγνοντʼ· ἀγλαΐης δʼ ἕνεκεν κομέουσιν ἄνακτες."
+    },
+    {
+      "n": 311,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 312,
+      "greek": "καὶ λίην ἀνδρός γε κύων ὅδε τῆλε θανόντος."
+    },
+    {
+      "n": 313,
+      "greek": "εἰ τοιόσδʼ εἴη ἠμὲν δέμας ἠδὲ καὶ ἔργα,"
+    },
+    {
+      "n": 314,
+      "greek": "οἷόν μιν Τροίηνδε κιὼν κατέλειπεν Ὀδυσσεύς,"
+    },
+    {
+      "n": 315,
+      "greek": "αἶψά κε θηήσαιο ἰδὼν ταχυτῆτα καὶ ἀλκήν."
+    },
+    {
+      "n": 316,
+      "greek": "οὐ μὲν γάρ τι φύγεσκε βαθείης βένθεσιν ὕλης"
+    },
+    {
+      "n": 317,
+      "greek": "κνώδαλον, ὅττι δίοιτο· καὶ ἴχνεσι γὰρ περιῄδη·"
+    },
+    {
+      "n": 318,
+      "greek": "νῦν δʼ ἔχεται κακότητι, ἄναξ δέ οἱ ἄλλοθι πάτρης"
+    },
+    {
+      "n": 319,
+      "greek": "ὤλετο, τὸν δὲ γυναῖκες ἀκηδέες οὐ κομέουσι."
+    },
+    {
+      "n": 320,
+      "greek": "δμῶες δʼ, εὖτʼ ἂν μηκέτʼ ἐπικρατέωσιν ἄνακτες,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "easily hiding from Eumaeus what he did; and straightway he questioned him, and said: “Eumaeus, verily it is strange that this hound lies here in the dung. He is fine of form, but I do not clearly know whether he has speed of foot to match this beauty or whether he is merely as table-dogs"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "are, which their masters keep for show.” To him then, swineherd Eumaeus, didst thou make answer and say: “Aye, verily this is the hound of a man that has died in a far land. If he were but in form and in action such as he was when Odysseus left him and went to Troy,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "thou wouldest soon be amazed at seeing his speed and his strength. No creature that he started in the depths of the thick wood could escape him, and in tracking too he was keen of scent. But now he is in evil plight, and his master has perished far from his native land, and the heedless women give him no care."
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "Slaves, when their masters lose their power, are no longer minded thereafter to do honest service: for Zeus, whose voice is borne afar, takes away half his worth from a man, when the day of slavery comes upon him.” So saying, he entered the stately house"
+    }
+  ]
+}

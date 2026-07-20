@@ -1,0 +1,53 @@
+{
+  "book": 24,
+  "card": 28,
+  "lineStart": 541,
+  "lineEnd": 548,
+  "lines": [
+    {
+      "n": 541,
+      "greek": "δὴ τότʼ Ὀδυσσῆα προσέφη γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 542,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 543,
+      "greek": "ἴσχεο, παῦε δὲ νεῖκος ὁμοιΐου πολέμοιο,"
+    },
+    {
+      "n": 544,
+      "greek": "μή πως τοι Κρονίδης κεχολώσεται εὐρύοπα Ζεύς."
+    },
+    {
+      "n": 545,
+      "greek": "ὣς φάτʼ Ἀθηναίη, ὁ δʼ ἐπείθετο, χαῖρε δὲ θυμῷ."
+    },
+    {
+      "n": 546,
+      "greek": "ὅρκια δʼ αὖ κατόπισθε μετʼ ἀμφοτέροισιν ἔθηκεν"
+    },
+    {
+      "n": 547,
+      "greek": "Παλλὰς Ἀθηναίη, κούρη Διὸς αἰγιόχοιο,"
+    },
+    {
+      "n": 548,
+      "greek": "Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        548
+      ],
+      "text": "So spoke Athena, and he obeyed, and was glad at heart. Then for all time to come a solemn covenant betwixt the twain was made by Pallas Athena, daughter of Zeus, who bears the aegis, in the likeness of Mentor both in form and in voice."
+    }
+  ]
+}

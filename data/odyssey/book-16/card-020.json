@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 20,
+  "lineStart": 382,
+  "lineEnd": 401,
+  "lines": [
+    {
+      "n": 382,
+      "greek": "γαίης ἡμετέρης, ἄλλων δʼ ἀφικώμεθα δῆμον·"
+    },
+    {
+      "n": 383,
+      "greek": "ἀλλὰ φθέωμεν ἑλόντες ἐπʼ ἀγροῦ νόσφι πόληος"
+    },
+    {
+      "n": 384,
+      "greek": "ἢ ἐν ὁδῷ· βίοτον δʼ αὐτοὶ καὶ κτήματʼ ἔχωμεν,"
+    },
+    {
+      "n": 385,
+      "greek": "δασσάμενοι κατὰ μοῖραν ἐφʼ ἡμέας, οἰκία δʼ αὖτε"
+    },
+    {
+      "n": 386,
+      "greek": "κείνου μητέρι δοῖμεν ἔχειν ἠδʼ ὅστις ὀπυίοι."
+    },
+    {
+      "n": 387,
+      "greek": "εἰ δʼ ὑμῖν ὅδε μῦθος ἀφανδάνει, ἀλλὰ βόλεσθε"
+    },
+    {
+      "n": 388,
+      "greek": "αὐτόν τε ζώειν καὶ ἔχειν πατρώϊα πάντα,"
+    },
+    {
+      "n": 389,
+      "greek": "μή οἱ χρήματʼ ἔπειτα ἅλις θυμηδέʼ ἔδωμεν"
+    },
+    {
+      "n": 390,
+      "greek": "ἐνθάδʼ ἀγειρόμενοι, ἀλλʼ ἐκ μεγάροιο ἕκαστος"
+    },
+    {
+      "n": 391,
+      "greek": "μνάσθω ἐέδνοισιν διζήμενος· ἡ δέ κʼ ἔπειτα"
+    },
+    {
+      "n": 392,
+      "greek": "γήμαιθʼ ὅς κε πλεῖστα πόροι καὶ μόρσιμος ἔλθοι."
+    },
+    {
+      "n": 393,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ."
+    },
+    {
+      "n": 394,
+      "greek": "τοῖσιν δʼ Ἀμφίνομος ἀγορήσατο καὶ μετέειπε,"
+    },
+    {
+      "n": 395,
+      "greek": "Νίσου φαίδιμος υἱός, Ἀρητιάδαο ἄνακτος,"
+    },
+    {
+      "n": 396,
+      "greek": "ὅς ῥʼ ἐκ Δουλιχίου πολυπύρου, ποιήεντος,"
+    },
+    {
+      "n": 397,
+      "greek": "ἡγεῖτο μνηστῆρσι, μάλιστα δὲ Πηνελοπείῃ"
+    },
+    {
+      "n": 398,
+      "greek": "ἥνδανε μύθοισι· φρεσὶ γὰρ κέχρητʼ ἀγαθῇσιν·"
+    },
+    {
+      "n": 399,
+      "greek": "ὅ σφιν ἐϋφρονέων ἀγορήσατο καὶ μετέειπεν·"
+    },
+    {
+      "n": 400,
+      "greek": "ὦ φίλοι, οὐκ ἂν ἐγώ γε κατακτείνειν ἐθέλοιμι"
+    },
+    {
+      "n": 401,
+      "greek": "Τηλέμαχον· δεινὸν δὲ γένος βασιλήϊόν ἐστιν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "dividing them fairly among us; though the house we would give to his mother to possess, and to him who weds her. Howbeit if this plan does not please you, but you choose rather that he should live and keep all the wealth of his fathers, let us not continue to devour his store of pleasant things"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "as we gather together here, but let each man from his own hall woo her with his gifts and seek to win her; and she then would wed him who offers most, and who comes as her fated lord.” So he spoke, and they were all hushed in silence. Then Amphinomus addressed their assembly, and spoke among them."
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "He was the glorious son of the prince Nisus, son of Aretias, and he led the wooers who came from Dulichium, rich in wheat and in grass, and above all the others he pleased Penelope with his words, for he had an understanding heart. He it was who with good intent addressed their assembly, and spoke among them:"
+    },
+    {
+      "lines": [
+        400,
+        401
+      ],
+      "text": "“Friends, I surely would not choose to kill Telemachus; a dread thing is it to slay one of royal stock. Nay, let us first seek to learn the will of the gods. If the oracles of great Zeus approve, I will myself slay him, and bid all the others do so;"
+    }
+  ]
+}

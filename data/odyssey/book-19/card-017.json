@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ὥς κʼ ἔνδον παρὰ Τηλεμάχῳ δείπνοιο μέδηται"
+    },
+    {
+      "n": 322,
+      "greek": "ἥμενος ἐν μεγάρῳ· τῷ δʼ ἄλγιον ὅς κεν ἐκείνων"
+    },
+    {
+      "n": 323,
+      "greek": "τοῦτον ἀνιάζῃ θυμοφθόρος· οὐδέ τι ἔργον"
+    },
+    {
+      "n": 324,
+      "greek": "ἐνθάδʼ ἔτι πρήξει, μάλα περ κεχολωμένος αἰνῶς."
+    },
+    {
+      "n": 325,
+      "greek": "πῶς γὰρ ἐμεῦ σύ, ξεῖνε, δαήσεαι εἴ τι γυναικῶν"
+    },
+    {
+      "n": 326,
+      "greek": "ἀλλάων περίειμι νόον καὶ ἐπίφρονα μῆτιν,"
+    },
+    {
+      "n": 327,
+      "greek": "εἴ κεν ἀϋσταλέος, κακὰ εἱμένος ἐν μεγάροισιν"
+    },
+    {
+      "n": 328,
+      "greek": "δαινύῃ; ἄνθρωποι δὲ μινυνθάδιοι τελέθουσιν."
+    },
+    {
+      "n": 329,
+      "greek": "ὃς μὲν ἀπηνὴς αὐτὸς ἔῃ καὶ ἀπηνέα εἰδῇ,"
+    },
+    {
+      "n": 330,
+      "greek": "τῷ δὲ καταρῶνται πάντες βροτοὶ ἄλγεʼ ὀπίσσω"
+    },
+    {
+      "n": 331,
+      "greek": "ζωῷ, ἀτὰρ τεθνεῶτί γʼ ἐφεψιόωνται ἅπαντες·"
+    },
+    {
+      "n": 332,
+      "greek": "ὃς δʼ ἂν ἀμύμων αὐτὸς ἔῃ καὶ ἀμύμονα εἰδῇ,"
+    },
+    {
+      "n": 333,
+      "greek": "τοῦ μέν τε κλέος εὐρὺ δὶα ξεῖνοι φορέουσι"
+    },
+    {
+      "n": 334,
+      "greek": "πάντας ἐπʼ ἀνθρώπους, πολλοί τέ μιν ἐσθλὸν ἔειπον."
+    },
+    {
+      "n": 335,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 336,
+      "greek": "ὦ γύναι αἰδοίη Λαερτιάδεω Ὀδυσῆος,"
+    },
+    {
+      "n": 337,
+      "greek": "ἦ τοι ἐμοὶ χλαῖναι καὶ ῥήγεα σιγαλόεντα"
+    },
+    {
+      "n": 338,
+      "greek": "ἤχθεθʼ, ὅτε πρῶτον Κρήτης ὄρεα νιφόεντα"
+    },
+    {
+      "n": 339,
+      "greek": "νοσφισάμην ἐπὶ νηὸς ἰὼν δολιχηρέτμοιο,"
+    },
+    {
+      "n": 340,
+      "greek": "κείω δʼ ὡς τὸ πάρος περ ἀΰπνους νύκτας ἴαυον·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "For how shalt thou learn of me, stranger, whether I in any wise excel other women in wit and prudent counsel, if all unkempt and clad in poor raiment thou sittest at meat in my halls? Men are but short-lived. If one be himself hard, and have a hard heart,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "on him do all mortal men invoke woes for the time to come, while he still lives, and when he is dead all men mock at him. But if one be blameless and have a blameless heart, his fame do strangers bear far and wide among all men, and many call him a true man.”"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "Then Odysseus of many wiles answered her, and said: “Honored wife of Odysseus, son of Laertes, verily cloaks and bright coverlets became hateful in my eyes on the day when first I left behind me the snowy mountains of Crete, as I fared on my long-oared ship."
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "Nay, I will lie, as in time past I was wont to rest through sleepless nights; for many a night have I lain upon a foul bed and waited for the bright-throned Dawn. Aye, and baths for the feet give my heart no pleasure, nor shall any woman touch my foot"
+    }
+  ]
+}

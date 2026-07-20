@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ἀλλʼ ἕπευ· αὐτὰρ κεῖθι φιλήσεαι, οἷά κʼ ἔχωμεν."
+    },
+    {
+      "n": 282,
+      "greek": "ὣς ἄρα φωνήσας οἱ ἐδέξατο χάλκεον ἔγχος,"
+    },
+    {
+      "n": 283,
+      "greek": "καὶ τό γʼ ἐπʼ ἰκριόφιν τάνυσεν νεὸς ἀμφιελίσσης·"
+    },
+    {
+      "n": 284,
+      "greek": "ἂν δὲ καὶ αὐτὸς νηὸς ἐβήσετο ποντοπόροιο."
+    },
+    {
+      "n": 285,
+      "greek": "ἐν πρύμνῃ δʼ ἄρʼ ἔπειτα καθέζετο, πὰρ δὲ οἷ αὐτῷ"
+    },
+    {
+      "n": 286,
+      "greek": "εἷσε Θεοκλύμενον· τοὶ δὲ πρυμνήσιʼ ἔλυσαν."
+    },
+    {
+      "n": 287,
+      "greek": "Τηλέμαχος δʼ ἑτάροισιν ἐποτρύνας ἐκέλευσεν"
+    },
+    {
+      "n": 288,
+      "greek": "ὅπλων ἅπτεσθαι· τοὶ δʼ ἐσσυμένως ἐπίθοντο."
+    },
+    {
+      "n": 289,
+      "greek": "ἱστὸν δʼ εἰλάτινον κοίλης ἔντοσθε μεσόδμης"
+    },
+    {
+      "n": 290,
+      "greek": "στῆσαν ἀείραντες, κατὰ δὲ προτόνοισιν ἔδησαν,"
+    },
+    {
+      "n": 291,
+      "greek": "ἕλκον δʼ ἱστία λευκὰ ἐϋστρέπτοισι βοεῦσι."
+    },
+    {
+      "n": 292,
+      "greek": "τοῖσιν δʼ ἴκμενον οὖρον ἵει γλαυκῶπις Ἀθήνη,"
+    },
+    {
+      "n": 293,
+      "greek": "λάβρον ἐπαιγίζοντα διʼ αἰθέρος, ὄφρα τάχιστα"
+    },
+    {
+      "n": 294,
+      "greek": "νηῦς ἀνύσειε θέουσα θαλάσσης ἁλμυρὸν ὕδωρ."
+    },
+    {
+      "n": 295,
+      "greek": "βὰν δὲ παρὰ Κρουνοὺς καὶ Χαλκίδα καλλιρέεθρον."
+    },
+    {
+      "n": 296,
+      "greek": "δύσετό τʼ ἠέλιος σκιόωντό τε πᾶσαι ἀγυιαί·"
+    },
+    {
+      "n": 297,
+      "greek": "ἡ δὲ Φεὰς ἐπέβαλλεν ἐπειγομένη Διὸς οὔρῳ"
+    },
+    {
+      "n": 298,
+      "greek": "ἠδὲ παρʼ Ἤλιδα δῖαν, ὅθι κρατέουσιν Ἐπειοί."
+    },
+    {
+      "n": 299,
+      "greek": "ἔνθεν δʼ αὖ νήσοισιν ἐπιπροέηκε θοῇσιν,"
+    },
+    {
+      "n": 300,
+      "greek": "ὁρμαίνων ἤ κεν θάνατον φύγοι ἦ κεν ἁλώῃ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "Then he sat down in the stern and made Theoclymenus sit down beside him; and his men loosed the stern cables. And Telemachus called to his men and bade them lay hold of the tackling, and they quickly obeyed. The mast of fir"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "they raised and set in the hollow socket, and made it fast with fore-stays, and hauled up the white sail with twisted thongs of oxhide. And flashing-eyed Athena sent them a favorable wind, blowing strongly through the sky, that, speeding swiftly, the ship might accomplish her way over the salt water of the sea."
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "So they fared past Crouni and Chalcis, with its beautiful streams. Now the sun set and all the ways grew dark. And the ship drew near to Pheae, sped by the wind of Zeus, and on past goodly Elis, where the Epeans hold sway. From thence again he steered for the sharp isles"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "pondering whether he should escape death or be taken. But the two, Odysseus and the goodly swineherd, were supping in the hut, and with them supped the other men. But when they had put from them the desire of food and drink, Odysseus spoke among them, making trial of the swineherd to see"
+    }
+  ]
+}

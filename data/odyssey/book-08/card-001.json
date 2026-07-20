@@ -1,0 +1,129 @@
+{
+  "book": 8,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 2,
+      "greek": "ὤρνυτʼ ἄρʼ ἐξ εὐνῆς ἱερὸν μένος Ἀλκινόοιο,"
+    },
+    {
+      "n": 3,
+      "greek": "ἂν δʼ ἄρα διογενὴς ὦρτο πτολίπορθος Ὀδυσσεύς."
+    },
+    {
+      "n": 4,
+      "greek": "τοῖσιν δʼ ἡγεμόνευʼ ἱερὸν μένος Ἀλκινόοιο"
+    },
+    {
+      "n": 5,
+      "greek": "Φαιήκων ἀγορήνδʼ, ἥ σφιν παρὰ νηυσὶ τέτυκτο."
+    },
+    {
+      "n": 6,
+      "greek": "ἐλθόντες δὲ καθῖζον ἐπὶ ξεστοῖσι λίθοισι"
+    },
+    {
+      "n": 7,
+      "greek": "πλησίον. ἡ δʼ ἀνὰ ἄστυ μετῴχετο Παλλὰς Ἀθήνη"
+    },
+    {
+      "n": 8,
+      "greek": "εἰδομένη κήρυκι δαΐφρονος Ἀλκινόοιο,"
+    },
+    {
+      "n": 9,
+      "greek": "νόστον Ὀδυσσῆι μεγαλήτορι μητιόωσα,"
+    },
+    {
+      "n": 10,
+      "greek": "καί ῥα ἑκάστῳ φωτὶ παρισταμένη φάτο μῦθον·"
+    },
+    {
+      "n": 11,
+      "greek": "δεῦτʼ ἄγε, Φαιήκων ἡγήτορες ἠδὲ μέδοντες,"
+    },
+    {
+      "n": 12,
+      "greek": "εἰς ἀγορὴν ἰέναι, ὄφρα ξείνοιο πύθησθε,"
+    },
+    {
+      "n": 13,
+      "greek": "ὃς νέον Ἀλκινόοιο δαΐφρονος ἵκετο δῶμα"
+    },
+    {
+      "n": 14,
+      "greek": "πόντον ἐπιπλαγχθείς, δέμας ἀθανάτοισιν ὁμοῖος."
+    },
+    {
+      "n": 15,
+      "greek": "ὣς εἰποῦσʼ ὤτρυνε μένος καὶ θυμὸν ἑκάστου."
+    },
+    {
+      "n": 16,
+      "greek": "καρπαλίμως δʼ ἔμπληντο βροτῶν ἀγοραί τε καὶ ἕδραι"
+    },
+    {
+      "n": 17,
+      "greek": "ἀγρομένων· πολλοὶ δʼ ἄρʼ ἐθηήσαντο ἰδόντες"
+    },
+    {
+      "n": 18,
+      "greek": "υἱὸν Λαέρταο δαΐφρονα· τῷ δʼ ἄρʼ Ἀθήνη"
+    },
+    {
+      "n": 19,
+      "greek": "θεσπεσίην κατέχευε χάριν κεφαλῇ τε καὶ ὤμοις"
+    },
+    {
+      "n": 20,
+      "greek": "καί μιν μακρότερον καὶ πάσσονα θῆκεν ἰδέσθαι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "As soon as early Dawn appeared, the rosy-fingered, the strong and mighty Alcinous rose from his couch, and up rose also Zeus-born Odysseus, the sacker of cities. And the strong and mighty Alcinous led the way"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "to the place of assembly of the Phaeacians, which was builded for them hard by their ships. Thither they came and sat down on the polished stones close by one another; and Pallas Athena went throughout the city, in the likeness of the herald of wise Alcinous, devising a return for great-hearted Odysseus."
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "To each man's side she came, and spoke and said: “Hither now, leaders and counsellors of the Phaeacians, come to the place of assembly, that you may learn of the stranger who has newly come to the palace of wise Alcinous after his wanderings over the sea, and in form is like unto the immortals.”"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "So saying she roused the spirit and heart of each man, and speedily the place of assembly and the seats were filled with men that gathered. And many marvelled at the sight of the wise son of Laertes, for wondrous was the grace that Athena shed upon his head and shoulders;"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "and she made him taller and sturdier to behold, that he might be welcomed by all the Phaeacians, and win awe and reverence, and might accomplish the many feats wherein the Phaeacians made trial of Odysseus. Now when they were assembled and met together,"
+    }
+  ]
+}

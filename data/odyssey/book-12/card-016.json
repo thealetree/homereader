@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ἢ βοῦν ἠέ τι μῆλον ἀποκτάνῃ· ἀλλὰ ἕκηλοι"
+    },
+    {
+      "n": 302,
+      "greek": "ἐσθίετε βρώμην, τὴν ἀθανάτη πόρε Κίρκη."
+    },
+    {
+      "n": 303,
+      "greek": "ὣς ἐφάμην, οἱ δʼ αὐτίκʼ ἀπώμνυον, ὡς ἐκέλευον."
+    },
+    {
+      "n": 304,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ὄμοσάν τε τελεύτησάν τε τὸν ὅρκον,"
+    },
+    {
+      "n": 305,
+      "greek": "στήσαμεν ἐν λιμένι γλαφυρῷ ἐυεργέα νῆα"
+    },
+    {
+      "n": 306,
+      "greek": "ἄγχʼ ὕδατος γλυκεροῖο, καὶ ἐξαπέβησαν ἑταῖροι"
+    },
+    {
+      "n": 307,
+      "greek": "νηός, ἔπειτα δὲ δόρπον ἐπισταμένως τετύκοντο."
+    },
+    {
+      "n": 308,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 309,
+      "greek": "μνησάμενοι δὴ ἔπειτα φίλους ἔκλαιον ἑταίρους,"
+    },
+    {
+      "n": 310,
+      "greek": "οὓς ἔφαγε Σκύλλη γλαφυρῆς ἐκ νηὸς ἑλοῦσα·"
+    },
+    {
+      "n": 311,
+      "greek": "κλαιόντεσσι δὲ τοῖσιν ἐπήλυθε νήδυμος ὕπνος."
+    },
+    {
+      "n": 312,
+      "greek": "ἦμος δὲ τρίχα νυκτὸς ἔην, μετὰ δʼ ἄστρα βεβήκει,"
+    },
+    {
+      "n": 313,
+      "greek": "ὦρσεν ἔπι ζαῆν ἄνεμον νεφεληγερέτα Ζεὺς"
+    },
+    {
+      "n": 314,
+      "greek": "λαίλαπι θεσπεσίῃ, σὺν δὲ νεφέεσσι κάλυψε"
+    },
+    {
+      "n": 315,
+      "greek": "γαῖαν ὁμοῦ καὶ πόντον· ὀρώρει δʼ οὐρανόθεν νύξ."
+    },
+    {
+      "n": 316,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 317,
+      "greek": "νῆα μὲν ὡρμίσαμεν κοῖλον σπέος εἰσερύσαντες."
+    },
+    {
+      "n": 318,
+      "greek": "ἔνθα δʼ ἔσαν νυμφέων καλοὶ χοροὶ ἠδὲ θόωκοι·"
+    },
+    {
+      "n": 319,
+      "greek": "καὶ τότʼ ἐγὼν ἀγορὴν θέμενος μετὰ μῦθον ἔειπον·"
+    },
+    {
+      "n": 320,
+      "greek": "ὦ φίλοι, ἐν γὰρ νηὶ θοῇ βρῶσίς τε πόσις τε"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "we moored our well-built ship in the hollow harbor near a spring of sweet water, and my comrades went forth from the ship and skilfully made ready their supper. But when they had put from them the desire of food and drink, then they fell to weeping, as they remembered their dear comrades"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "whom Scylla had snatched from out the hollow ship and devoured; and sweet sleep came upon them as they wept. But when it was the third watch of the night, and the stars had turned their course, Zeus, the cloud-gatherer, roused against us a fierce wind with a wondrous tempest, and hid with clouds"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "the land and sea alike, and night rushed down from heaven. And as soon as early Dawn appeared, the rosy-fingered, we dragged our ship, and made her fast in a hollow cave, where were the fair dancing-floors and seats of the nymphs. Then I called my men together and spoke among them:"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "“‘Friends, in our swift ship is meat and drink; let us therefore keep our hands from those kine lest we come to harm, for these are the cows and goodly sheep of a dread god, even of Helios, who oversees all things and overhears all things.’ “So I spoke, and their proud hearts consented."
+    }
+  ]
+}

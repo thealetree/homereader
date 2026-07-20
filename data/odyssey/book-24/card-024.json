@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "καὶ νῦν ὧδε γένοιτο. πίθεσθέ μοι ὡς ἀγορεύω·"
+    },
+    {
+      "n": 462,
+      "greek": "μὴ ἴομεν, μή πού τις ἐπίσπαστον κακὸν εὕρῃ."
+    },
+    {
+      "n": 463,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρʼ ἀνήϊξαν μεγάλῳ ἀλαλητῷ"
+    },
+    {
+      "n": 464,
+      "greek": "ἡμίσεων πλείους· τοὶ δʼ ἀθρόοι αὐτόθι μίμνον·"
+    },
+    {
+      "n": 465,
+      "greek": "οὐ γὰρ σφιν ἅδε μῦθος ἐνὶ φρεσίν, ἀλλʼ Εὐπείθει"
+    },
+    {
+      "n": 466,
+      "greek": "πείθοντʼ· αἶψα δʼ ἔπειτʼ ἐπὶ τεύχεα ἐσσεύοντο."
+    },
+    {
+      "n": 467,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἕσσαντο περὶ χροῒ νώροπα χαλκόν,"
+    },
+    {
+      "n": 468,
+      "greek": "ἀθρόοι ἠγερέθοντο πρὸ ἄστεος εὐρυχόροιο."
+    },
+    {
+      "n": 469,
+      "greek": "τοῖσιν δʼ Εὐπείθης ἡγήσατο νηπιέῃσι·"
+    },
+    {
+      "n": 470,
+      "greek": "φῆ δʼ ὅ γε τίσεσθαι παιδὸς φόνον, οὐδʼ ἄρʼ ἔμελλεν"
+    },
+    {
+      "n": 471,
+      "greek": "ἂψ ἀπονοστήσειν, ἀλλʼ αὐτοῦ πότμον ἐφέψειν."
+    },
+    {
+      "n": 472,
+      "greek": "αὐτὰρ Ἀθηναίη Ζῆνα Κρονίωνα προσηύδα·"
+    },
+    {
+      "n": 473,
+      "greek": "ὦ πάτερ ἡμέτερε, Κρονίδη, ὕπατε κρειόντων,"
+    },
+    {
+      "n": 474,
+      "greek": "εἰπέ μοι εἰρομένῃ, τί νύ τοι νόος ἔνδοθι κεύθει;"
+    },
+    {
+      "n": 475,
+      "greek": "ἢ προτέρω πόλεμόν τε κακὸν καὶ φύλοπιν αἰνὴν"
+    },
+    {
+      "n": 476,
+      "greek": "τεύξεις, ἦ φιλότητα μετʼ ἀμφοτέροισι τίθησθα;"
+    },
+    {
+      "n": 477,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη νεφεληγερέτα Ζεύς·"
+    },
+    {
+      "n": 478,
+      "greek": "τέκνον ἐμόν, τί με ταῦτα διείρεαι ἠδὲ μεταλλᾷς;"
+    },
+    {
+      "n": 479,
+      "greek": "οὐ γὰρ δὴ τοῦτον μὲν ἐβούλευσας νόον αὐτή,"
+    },
+    {
+      "n": 480,
+      "greek": "ὡς ἦ τοι κείνους Ὀδυσεὺς ἀποτίσεται ἐλθών;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "for his speech was not to their mind, but they hearkened to Eupeithes, and quickly thereafter they rushed for their arms. Then when they had clothed their bodies in gleaming bronze, they gathered together in front of the spacious city. And Eupeithes led them in his folly,"
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "for he thought to avenge the slaying of his son; yet he was himself never more to come back, but was there to meet his doom. But Athena spoke to Zeus, son of Cronos, saying: “Father of us all, thou son of Cronos, high above all lords, tell to me that ask thee what purpose thy mind now hides within thee."
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "Wilt thou yet further bring to pass evil war and the dread din of battle, or wilt thou establish friendship betwixt the twain?” Then Zeus, the cloud-gatherer, answered her, and said: “My child, why dost thou ask and question me of this? Didst thou not thyself devise this plan,"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "that verily Odysseus should take vengeance on these men at his coming? Do as thou wilt, but I will tell thee what is fitting. Now that goodly Odysseus has taken vengeance on the wooers, let them swear a solemn oath, and let him be king all his days, and let us on our part"
+    }
+  ]
+}

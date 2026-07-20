@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "ἐν πάντεσσι πόνοισι παρίσταμαι ἠδὲ φυλάσσω,"
+    },
+    {
+      "n": 302,
+      "greek": "καὶ δέ σε Φαιήκεσσι φίλον πάντεσσιν ἔθηκα,"
+    },
+    {
+      "n": 303,
+      "greek": "νῦν αὖ δεῦρʼ ἱκόμην, ἵνα τοι σὺν μῆτιν ὑφήνω"
+    },
+    {
+      "n": 304,
+      "greek": "χρήματά τε κρύψω, ὅσα τοι Φαίηκες ἀγαυοὶ"
+    },
+    {
+      "n": 305,
+      "greek": "ὤπασαν οἴκαδʼ ἰόντι ἐμῇ βουλῇ τε νόῳ τε,"
+    },
+    {
+      "n": 306,
+      "greek": "εἴπω θʼ ὅσσα τοι αἶσα δόμοις ἔνι ποιητοῖσι"
+    },
+    {
+      "n": 307,
+      "greek": "κήδεʼ ἀνασχέσθαι· σὺ δὲ τετλάμεναι καὶ ἀνάγκῃ,"
+    },
+    {
+      "n": 308,
+      "greek": "μηδέ τῳ ἐκφάσθαι μήτʼ ἀνδρῶν μήτε γυναικῶν,"
+    },
+    {
+      "n": 309,
+      "greek": "πάντων, οὕνεκʼ ἄρʼ ἦλθες ἀλώμενος, ἀλλὰ σιωπῇ"
+    },
+    {
+      "n": 310,
+      "greek": "πάσχειν ἄλγεα πολλά, βίας ὑποδέγμενος ἀνδρῶν."
+    },
+    {
+      "n": 311,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 312,
+      "greek": "ἀργαλέον σε, θεά, γνῶναι βροτῷ ἀντιάσαντι,"
+    },
+    {
+      "n": 313,
+      "greek": "καὶ μάλʼ ἐπισταμένῳ· σὲ γὰρ αὐτὴν παντὶ ἐΐσκεις."
+    },
+    {
+      "n": 314,
+      "greek": "τοῦτο δʼ ἐγὼν εὖ οἶδʼ, ὅτι μοι πάρος ἠπίη ἦσθα,"
+    },
+    {
+      "n": 315,
+      "greek": "ἧος ἐνὶ Τροίῃ πολεμίζομεν υἷες Ἀχαιῶν."
+    },
+    {
+      "n": 316,
+      "greek": "αὐτὰρ ἐπεὶ Πριάμοιο πόλιν διεπέρσαμεν αἰπήν,"
+    },
+    {
+      "n": 317,
+      "greek": "βῆμεν δʼ ἐν νήεσσι, θεὸς δʼ ἐκέδασσεν Ἀχαιούς,"
+    },
+    {
+      "n": 318,
+      "greek": "οὔ σέ γʼ ἔπειτα ἴδον, κούρη Διός, οὐδʼ ἐνόησα"
+    },
+    {
+      "n": 319,
+      "greek": "νηὸς ἐμῆς ἐπιβᾶσαν, ὅπως τί μοι ἄλγος ἀλάλκοις."
+    },
+    {
+      "n": 320,
+      "greek": "ἀλλʼ αἰεὶ φρεσὶν ᾗσιν ἔχων δεδαϊγμένον ἦτορ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "gave thee by my counsel and will, when thou didst set out for home; and to tell thee all the measure of woe it is thy fate to fulfil in thy well-built house. But do thou be strong, for bear it thou must, and tell no man of them all nor any woman that thou hast come back from thy wanderings, but in silence"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "endure thy many griefs, and submit to the violence of men.” Then Odysseus of many wiles answered her, and said: “Hard is it, goddess, for a mortal man to know thee when he meets thee, how wise soever he be, for thou takest what shape thou wilt. But this I know well, that of old thou wast kindly toward me,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "so long as we sons of the Achaeans were warring in the land of Troy. But after we had sacked the lofty city of Priam, and had gone away in our ships, and a god had scattered the Achaeans, never since then have I seen thee, daughter of Zeus, nor marked thee coming on board my ship, that thou mightest ward off sorrow from me."
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "Nay, I ever wandered on, bearing in my breast a stricken heart, till the gods delivered me from evil, even until in the rich land of the Phaeacians thou didst cheer me with thy words, and thyself lead me to their city. But now I beseech thee by thy father—for I think not"
+    }
+  ]
+}

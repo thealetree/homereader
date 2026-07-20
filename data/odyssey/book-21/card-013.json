@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "κληῗσαι κληῗδι, θοῶς δʼ ἐπὶ δεσμὸν ἰῆλαι."
+    },
+    {
+      "n": 242,
+      "greek": "ὣς εἰπὼν εἰσῆλθε δόμους εὖ ναιετάοντας·"
+    },
+    {
+      "n": 243,
+      "greek": "ἕζετʼ ἔπειτʼ ἐπὶ δίφρον ἰών, ἔνθεν περ ἀνέστη·"
+    },
+    {
+      "n": 244,
+      "greek": "ἐς δʼ ἄρα καὶ τὼ δμῶε ἴτην θείου Ὀδυσῆος."
+    },
+    {
+      "n": 245,
+      "greek": "Εὐρύμαχος δʼ ἤδη τόξον μετὰ χερσὶν ἐνώμα,"
+    },
+    {
+      "n": 246,
+      "greek": "θάλπων ἔνθα καὶ ἔνθα σέλᾳ πυρός· ἀλλά μιν οὐδʼ ὣς"
+    },
+    {
+      "n": 247,
+      "greek": "ἐντανύσαι δύνατο, μέγα δʼ ἔστενε κυδάλιμον κῆρ·"
+    },
+    {
+      "n": 248,
+      "greek": "ὀχθήσας δʼ ἄρα εἶπεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 249,
+      "greek": "ὢ πόποι, ἧ μοι ἄχος περί τʼ αὐτοῦ καὶ περὶ πάντων·"
+    },
+    {
+      "n": 250,
+      "greek": "οὔ τι γάμου τοσσοῦτον ὀδύρομαι, ἀχνύμενός περ·"
+    },
+    {
+      "n": 251,
+      "greek": "εἰσὶ καὶ ἄλλαι πολλαὶ Ἀχαιΐδες, αἱ μὲν ἐν αὐτῇ"
+    },
+    {
+      "n": 252,
+      "greek": "ἀμφιάλῳ Ἰθάκῃ, αἱ δʼ ἄλλῃσιν πολίεσσιν·"
+    },
+    {
+      "n": 253,
+      "greek": "ἀλλʼ εἰ δὴ τοσσόνδε βίης ἐπιδευέες εἰμὲν"
+    },
+    {
+      "n": 254,
+      "greek": "ἀντιθέου Ὀδυσῆος, ὅ τʼ οὐ δυνάμεσθα τανύσσαι"
+    },
+    {
+      "n": 255,
+      "greek": "τόξον· ἐλεγχείη δὲ καὶ ἐσσομένοισι πυθέσθαι."
+    },
+    {
+      "n": 256,
+      "greek": "τὸν δʼ αὖτʼ Ἀντίνοος προσέφη, Εὐπείθεος υἱός·"
+    },
+    {
+      "n": 257,
+      "greek": "Εὐρύμαχʼ, οὐχ οὕτως ἔσται· νοέεις δὲ καὶ αὐτός."
+    },
+    {
+      "n": 258,
+      "greek": "νῦν μὲν γὰρ κατὰ δῆμον ἑορτὴ τοῖο θεοῖο"
+    },
+    {
+      "n": 259,
+      "greek": "ἁγνή· τίς δέ κε τόξα τιταίνοιτʼ; ἀλλὰ ἕκηλοι"
+    },
+    {
+      "n": 260,
+      "greek": "κάτθετʼ· ἀτὰρ πελέκεάς γε καὶ εἴ κʼ εἰῶμεν ἅπαντας"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "Eurymachus was now handling the bow, warming it on this side and on that in the light of the fire; but not even so was he able to string it; and in his noble heart he groaned, and with a burst of anger he spoke and addressed them: “Out on it! Verily I am grieved for myself and for you all."
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "It is in no wise for the marriage that I mourn so greatly, grieved though I am; for there are many other Achaean women, some in sea-girt Ithaca itself, and some in other cities; but I mourn if in truth we fall so far short of godlike Odysseus in might, seeing that we cannot string"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "his bow. This is a reproach for men that are yet to be to hear of.” Then Antinous, son of Eupeithes, answered him: “Eurymachus, this shall not be so, and thou of thyself too knowest it. For to-day throughout the land is the feast of the god—a holy feast. Who then would bend a bow? Nay, quietly"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "set it by; and as for the axes—what if we should let them all stand as they are? No man, methinks, will come to the hall of Odysseus, son of Laertes, and carry them off. Nay, come, let the bearer pour drops for libation into the cups, that we may pour libations, and lay aside the curved bow."
+    }
+  ]
+}

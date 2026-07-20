@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ἠδʼ ὁπότʼ ἂψ ἐπὶ γαῖαν ἀπʼ οὐρανόθεν προτραποίμην."
+    },
+    {
+      "n": 382,
+      "greek": "εἰ δέ μοι οὐ τίσουσι βοῶν ἐπιεικέʼ ἀμοιβήν,"
+    },
+    {
+      "n": 383,
+      "greek": "δύσομαι εἰς Ἀίδαο καὶ ἐν νεκύεσσι φαείνω."
+    },
+    {
+      "n": 384,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη νεφεληγερέτα Ζεύς·"
+    },
+    {
+      "n": 385,
+      "greek": "Ἠέλιʼ, ἦ τοι μὲν σὺ μετʼ ἀθανάτοισι φάεινε"
+    },
+    {
+      "n": 386,
+      "greek": "καὶ θνητοῖσι βροτοῖσιν ἐπὶ ζείδωρον ἄρουραν·"
+    },
+    {
+      "n": 387,
+      "greek": "τῶν δέ κʼ ἐγὼ τάχα νῆα θοὴν ἀργῆτι κεραυνῷ"
+    },
+    {
+      "n": 388,
+      "greek": "τυτθὰ βαλὼν κεάσαιμι μέσῳ ἐνὶ οἴνοπι πόντῳ."
+    },
+    {
+      "n": 389,
+      "greek": "ταῦτα δʼ ἐγὼν ἤκουσα Καλυψοῦς ἠυκόμοιο·"
+    },
+    {
+      "n": 390,
+      "greek": "ἡ δʼ ἔφη Ἑρμείαο διακτόρου αὐτὴ ἀκοῦσαι."
+    },
+    {
+      "n": 391,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐπὶ νῆα κατήλυθον ἠδὲ θάλασσαν,"
+    },
+    {
+      "n": 392,
+      "greek": "νείκεον ἄλλοθεν ἄλλον ἐπισταδόν, οὐδέ τι μῆχος"
+    },
+    {
+      "n": 393,
+      "greek": "εὑρέμεναι δυνάμεσθα, βόες δʼ ἀποτέθνασαν ἤδη."
+    },
+    {
+      "n": 394,
+      "greek": "τοῖσιν δʼ αὐτίκʼ ἔπειτα θεοὶ τέραα προύφαινον·"
+    },
+    {
+      "n": 395,
+      "greek": "εἷρπον μὲν ῥινοί, κρέα δʼ ἀμφʼ ὀβελοῖσι μεμύκει,"
+    },
+    {
+      "n": 396,
+      "greek": "ὀπταλέα τε καὶ ὠμά, βοῶν δʼ ὣς γίγνετο φωνή."
+    },
+    {
+      "n": 397,
+      "greek": "ἑξῆμαρ μὲν ἔπειτα ἐμοὶ ἐρίηρες ἑταῖροι"
+    },
+    {
+      "n": 398,
+      "greek": "δαίνυντʼ Ἠελίοιο βοῶν ἐλάσαντες ἀρίστας·"
+    },
+    {
+      "n": 399,
+      "greek": "ἀλλʼ ὅτε δὴ ἕβδομον ἦμαρ ἐπὶ Ζεὺς θῆκε Κρονίων,"
+    },
+    {
+      "n": 400,
+      "greek": "καὶ τότʼ ἔπειτʼ ἄνεμος μὲν ἐπαύσατο λαίλαπι θύων,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "‘Helios, do thou verily shine on among the immortals and among mortal men upon the earth, the giver of grain. As for these men I will soon smite their swift ship with my bright thunder-bolt, and shatter it to pieces in the midst of the wine-dark sea.’ “This I heard from fair-haired Calypso,"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "and she said that she herself had heard it from the messenger Hermes. “But when I had come down to the ship and to the sea I upbraided my men, coming up to each in turn, but we could find no remedy—the kine were already dead. For my men, then, the gods straightway shewed forth portents."
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "The hides crawled, the flesh, both roast and raw, bellowed upon the spits, and there was a lowing as of kine. “For six days, then, my trusty comrades feasted on the best of the kine of Helios which they had driven off. But when Zeus, the son of Cronos, brought upon us the seventh day,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "then the wind ceased to blow tempestuously, and we straightway went on board, and put out into the broad sea when we had set up the mast and hoisted the white sail. “But when we had left that island and no other land appeared, but only sky and sea,"
+    }
+  ]
+}

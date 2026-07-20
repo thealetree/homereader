@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 23,
+  "lineStart": 442,
+  "lineEnd": 461,
+  "lines": [
+    {
+      "n": 442,
+      "greek": "ἡμετέρῳ, ἐπεὶ ἦ καὶ ἐμὲ πτολίπορθος Ὀδυσσεὺς"
+    },
+    {
+      "n": 443,
+      "greek": "πολλάκι γούνασιν οἷσιν ἐφεσσάμενος κρέας ὀπτὸν"
+    },
+    {
+      "n": 444,
+      "greek": "ἐν χείρεσσιν ἔθηκεν, ἐπέσχε τε οἶνον ἐρυθρόν."
+    },
+    {
+      "n": 445,
+      "greek": "τῷ μοι Τηλέμαχος πάντων πολὺ φίλτατός ἐστιν"
+    },
+    {
+      "n": 446,
+      "greek": "ἀνδρῶν, οὐδέ τί μιν θάνατον τρομέεσθαι ἄνωγα"
+    },
+    {
+      "n": 447,
+      "greek": "ἔκ γε μνηστήρων· θεόθεν δʼ οὐκ ἔστʼ ἀλέασθαι."
+    },
+    {
+      "n": 448,
+      "greek": "ὣς φάτο θαρσύνων, τῷ δʼ ἤρτυεν αὐτὸς ὄλεθρον."
+    },
+    {
+      "n": 449,
+      "greek": "ἡ μὲν ἄρʼ εἰσαναβᾶσʼ ὑπερώϊα σιγαλόεντα"
+    },
+    {
+      "n": 450,
+      "greek": "κλαῖεν ἔπειτʼ Ὀδυσῆα, φίλον πόσιν, ὄφρα οἱ ὕπνον"
+    },
+    {
+      "n": 451,
+      "greek": "ἡδὺν ἐπὶ βλεφάροισι βάλε γλαυκῶπις Ἀθήνη."
+    },
+    {
+      "n": 452,
+      "greek": "ἑσπέριος δʼ Ὀδυσῆϊ καὶ υἱέϊ δῖος ὑφορβὸς"
+    },
+    {
+      "n": 453,
+      "greek": "ἤλυθεν· οἱ δʼ ἄρα δόρπον ἐπισταδὸν ὡπλίζοντο,"
+    },
+    {
+      "n": 454,
+      "greek": "σῦν ἱερεύσαντες ἐνιαύσιον. αὐτὰρ Ἀθήνη,"
+    },
+    {
+      "n": 455,
+      "greek": "ἄγχι παρισταμένη, Λαερτιάδην Ὀδυσῆα"
+    },
+    {
+      "n": 456,
+      "greek": "ῥάβδῳ πεπληγυῖα πάλιν ποίησε γέροντα,"
+    },
+    {
+      "n": 457,
+      "greek": "λυγρὰ δὲ εἵματα ἕσσε περὶ χροΐ, μή ἑ συβώτης"
+    },
+    {
+      "n": 458,
+      "greek": "γνοίη ἐσάντα ἰδὼν καὶ ἐχέφρονι Πηνελοπείῃ"
+    },
+    {
+      "n": 459,
+      "greek": "ἔλθοι ἀπαγγέλλων μηδὲ φρεσὶν εἰρύσσαιτο."
+    },
+    {
+      "n": 460,
+      "greek": "τὸν καὶ Τηλέμαχος πρότερος πρὸς μῦθον ἔειπεν·"
+    },
+    {
+      "n": 461,
+      "greek": "ἦλθες, δῖʼ Εὔμαιε. τί δὴ κλέος ἔστʼ ἀνὰ ἄστυ;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "Therefore Telemachus is far the dearest of all men to me, and I bid him have no fear of death, at least from the wooers; but from the gods can no man avoid it.” Thus he spoke to cheer her, but against that son he was himself plotting death. So she went up to her bright upper chamber"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "and then bewailed Odysseus, her dear husband, until flashing-eyed Athena cast sweet sleep upon her eyelids. But at evening the goodly swineherd came back to Odysseus and his son, and they were busily making ready their supper, and had slain a boar of a year old. Then Athena"
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "came close to Odysseus, son of Laertes, and smote him with her wand, and again made him an old man; and mean raiment she put about his body, lest the swineherd might look upon him and know him, and might go to bear tidings to constant Penelope, and not hold the secret fast in his heart."
+    },
+    {
+      "lines": [
+        460,
+        461
+      ],
+      "text": "Now Telemachus spoke first to the swineherd, and said: “Thou hast come, goodly Eumaeus. What news is there in the city? Have the proud wooers by this time come home from their ambush, or are they still watching for me where they were, to take me on my homeward way?” To him, then, swineherd Eumaeus, didst thou make answer and say:"
+    }
+  ]
+}

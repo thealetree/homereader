@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "ὣς τρίετες μὲν ἔληθε δόλῳ καὶ ἔπειθεν Ἀχαιούς·"
+    },
+    {
+      "n": 142,
+      "greek": "ἀλλʼ ὅτε τέτρατον ἦλθεν ἔτος καὶ ἐπήλυθον ὧραι,"
+    },
+    {
+      "n": 143,
+      "greek": "μηνῶν φθινόντων, περὶ δʼ ἤματα πόλλʼ ἐτελέσθη,"
+    },
+    {
+      "n": 144,
+      "greek": "καὶ τότε δή τις ἔειπε γυναικῶν, ἣ σάφα ᾔδη,"
+    },
+    {
+      "n": 145,
+      "greek": "καὶ τήν γʼ ἀλλύουσαν ἐφεύρομεν ἀγλαὸν ἱστόν."
+    },
+    {
+      "n": 146,
+      "greek": "ὣς τὸ μὲν ἐξετέλεσσε καὶ οὐκ ἐθέλουσʼ, ὑπʼ ἀνάγκης."
+    },
+    {
+      "n": 147,
+      "greek": "εὖθʼ ἡ φᾶρος ἔδειξεν, ὑφήνασα μέγαν ἱστόν,"
+    },
+    {
+      "n": 148,
+      "greek": "πλύνασʼ, ἠελίῳ ἐναλίγκιον ἠὲ σελήνῃ,"
+    },
+    {
+      "n": 149,
+      "greek": "καὶ τότε δή ῥʼ Ὀδυσῆα κακός ποθεν ἤγαγε δαίμων"
+    },
+    {
+      "n": 150,
+      "greek": "ἀγροῦ ἐπʼ ἐσχατιήν, ὅθι δώματα ναῖε συβώτης."
+    },
+    {
+      "n": 151,
+      "greek": "ἔνθʼ ἦλθεν φίλος υἱὸς Ὀδυσσῆος θείοιο,"
+    },
+    {
+      "n": 152,
+      "greek": "ἐκ Πύλου ἠμαθόεντος ἰὼν σὺν νηῒ μελαίνῃ·"
+    },
+    {
+      "n": 153,
+      "greek": "τὼ δὲ μνηστῆρσιν θάνατον κακὸν ἀρτύναντε"
+    },
+    {
+      "n": 154,
+      "greek": "ἵκοντο προτὶ ἄστυ περικλυτόν, ἦ τοι Ὀδυσσεὺς"
+    },
+    {
+      "n": 155,
+      "greek": "ὕστερος, αὐτὰρ Τηλέμαχος πρόσθʼ ἡγεμόνευε."
+    },
+    {
+      "n": 156,
+      "greek": "τὸν δὲ συβώτης ἦγε κακὰ χροῒ εἵματʼ ἔχοντα,"
+    },
+    {
+      "n": 157,
+      "greek": "πτωχῷ λευγαλέῳ ἐναλίγκιον ἠδὲ γέροντι"
+    },
+    {
+      "n": 158,
+      "greek": "σκηπτόμενον· τὰ δὲ λυγρὰ περὶ χροῒ εἵματα ἕστο·"
+    },
+    {
+      "n": 159,
+      "greek": "οὐδέ τις ἡμείων δύνατο γνῶναι τὸν ἐόντα"
+    },
+    {
+      "n": 160,
+      "greek": "ἐξαπίνης προφανέντʼ, οὐδʼ οἳ προγενέστεροι ἦσαν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "and we caught her unravelling the splendid web. So she finished it against her will perforce. “Now when she had shewn us the robe, after weaving the great web and washing it, and it shone like the sun or the moon, then it was that some cruel god brought Odysseus from somewhere"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "to the border of the land, where the swineherd dwelt. Thither too came the dear son of divine Odysseus on his return from sandy Pylos in his black ship, and these two, when they had planned an evil death for the wooers, came to the famous city, Odysseus verily"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "later, but Telemachus led the way before him. Now the swineherd brought his master, clad in mean raiment, in the likeness of a woeful and aged beggar, leaning on a staff, and miserable was the raiment that he wore about his body; and not one of us could know that it was he,"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "when he appeared so suddenly, no, not even those that were older men, but we assailed him with evil words and with missiles. Howbeit he with steadfast heart endured for a time to be pelted and taunted in his own halls; but when at last the will of Zeus, who bears the aegis, roused him,"
+    }
+  ]
+}

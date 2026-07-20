@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "ἄλλον ἐποτρύνειεν, ἐπεί ἑο κήδετο λίην·"
+    },
+    {
+      "n": 462,
+      "greek": "κέκλυθι νῦν, Εὔμαιε καὶ ἄλλοι πάντες ἑταῖροι,"
+    },
+    {
+      "n": 463,
+      "greek": "εὐξάμενός τι ἔπος ἐρέω· οἶνος γὰρ ἀνώγει"
+    },
+    {
+      "n": 464,
+      "greek": "ἠλεός, ὅς τʼ ἐφέηκε πολύφρονά περ μάλʼ ἀεῖσαι"
+    },
+    {
+      "n": 465,
+      "greek": "καί θʼ ἁπαλὸν γελάσαι, καί τʼ ὀρχήσασθαι ἀνῆκε,"
+    },
+    {
+      "n": 466,
+      "greek": "καί τι ἔπος προέηκεν ὅ περ τʼ ἄρρητον ἄμεινον."
+    },
+    {
+      "n": 467,
+      "greek": "ἀλλʼ ἐπεὶ οὖν τὸ πρῶτον ἀνέκραγον, οὐκ ἐπικεύσω."
+    },
+    {
+      "n": 468,
+      "greek": "εἴθʼ ὣς ἡβώοιμι βίη τέ μοι ἔμπεδος εἴη,"
+    },
+    {
+      "n": 469,
+      "greek": "ὡς ὅθʼ ὑπὸ Τροίην λόχον ἤγομεν ἀρτύναντες."
+    },
+    {
+      "n": 470,
+      "greek": "ἡγείσθην δʼ Ὀδυσεύς τε καὶ Ἀτρεΐδης Μενέλαος,"
+    },
+    {
+      "n": 471,
+      "greek": "τοῖσι δʼ ἅμα τρίτος ἄρχον ἐγών· αὐτοὶ γὰρ ἄνωγον."
+    },
+    {
+      "n": 472,
+      "greek": "ἀλλʼ ὅτε δή ῥʼ ἱκόμεσθα ποτὶ πτόλιν αἰπύ τε τεῖχος,"
+    },
+    {
+      "n": 473,
+      "greek": "ἡμεῖς μὲν περὶ ἄστυ κατὰ ῥωπήϊα πυκνά,"
+    },
+    {
+      "n": 474,
+      "greek": "ἂν δόνακας καὶ ἕλος, ὑπὸ τεύχεσι πεπτηῶτες"
+    },
+    {
+      "n": 475,
+      "greek": "κείμεθα. νὺξ δʼ ἄρʼ ἐπῆλθε κακὴ Βορέαο πεσόντος,"
+    },
+    {
+      "n": 476,
+      "greek": "πηγυλίς· αὐτὰρ ὕπερθε χιὼν γένετʼ ἠΰτε πάχνη,"
+    },
+    {
+      "n": 477,
+      "greek": "ψυχρή, καὶ σακέεσσι περιτρέφετο κρύσταλλος."
+    },
+    {
+      "n": 478,
+      "greek": "ἔνθʼ ἄλλοι πάντες χλαίνας ἔχον ἠδὲ χιτῶνας,"
+    },
+    {
+      "n": 479,
+      "greek": "εὗδον δʼ εὔκηλοι, σάκεσιν εἰλυμένοι ὤμους·"
+    },
+    {
+      "n": 480,
+      "greek": "αὐτὰρ ἐγὼ χλαῖναν μὲν ἰὼν ἑτάροισιν ἔλειπον"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "and laughing softly, and makes him stand up and dance, aye, and brings forth a word which were better unspoken. Still, since I have once spoken out, I will hide nothing. Would that I were young and my strength firm as when we made ready our ambush, and led it beneath the walls of Troy."
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "The leaders were Odysseus and Menelaus, son of Atreus, and with them I was third in command; for so had they ordered it themselves. Now when we had come to the city and the steep wall, round about the town in the thick brushwood among the needs and swamp-land"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "we lay, crouching beneath our arms, and night came on, foul, when the North Wind had fallen, and frosty, and snow came down on us from above, covering us like rime, bitter cold, and ice formed upon our shields. Now all the rest had cloaks and tunics, and slept in peace, with their shields covering their shoulders,"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "but I, when I set out, had left my cloak behind with my comrades in my folly, for I did not think that even so I should be cold, and had come with my shield alone and my bright kilt. But when it was the third watch of the night, and the stars had turned their course, then I spoke to Odysseus, who was near me,"
+    }
+  ]
+}

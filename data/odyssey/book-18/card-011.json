@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "ἦ με μάλʼ αἰνοπαθῆ μαλακὸν περὶ κῶμʼ ἐκάλυψεν."
+    },
+    {
+      "n": 202,
+      "greek": "αἴθε μοι ὣς μαλακὸν θάνατον πόροι Ἄρτεμις ἁγνὴ"
+    },
+    {
+      "n": 203,
+      "greek": "αὐτίκα νῦν, ἵνα μηκέτʼ ὀδυρομένη κατὰ θυμὸν"
+    },
+    {
+      "n": 204,
+      "greek": "αἰῶνα φθινύθω, πόσιος ποθέουσα φίλοιο"
+    },
+    {
+      "n": 205,
+      "greek": "παντοίην ἀρετήν, ἐπεὶ ἔξοχος ἦεν Ἀχαιῶν."
+    },
+    {
+      "n": 206,
+      "greek": "ὣς φαμένη κατέβαινʼ ὑπερώϊα σιγαλόεντα,"
+    },
+    {
+      "n": 207,
+      "greek": "οὐκ οἴη· ἅμα τῇ γε καὶ ἀμφίπολοι δύʼ ἕποντο."
+    },
+    {
+      "n": 208,
+      "greek": "ἡ δʼ ὅτε δὴ μνηστῆρας ἀφίκετο δῖα γυναικῶν,"
+    },
+    {
+      "n": 209,
+      "greek": "στῆ ῥα παρὰ σταθμὸν τέγεος πύκα ποιητοῖο,"
+    },
+    {
+      "n": 210,
+      "greek": "ἄντα παρειάων σχομένη λιπαρὰ κρήδεμνα·"
+    },
+    {
+      "n": 211,
+      "greek": "ἀμφίπολος δʼ ἄρα οἱ κεδνὴ ἑκάτερθε παρέστη."
+    },
+    {
+      "n": 212,
+      "greek": "τῶν δʼ αὐτοῦ λύτο γούνατʼ, ἔρῳ δʼ ἄρα θυμὸν ἔθελχθεν,"
+    },
+    {
+      "n": 213,
+      "greek": "πάντες δʼ ἠρήσαντο παραὶ λεχέεσσι κλιθῆναι."
+    },
+    {
+      "n": 214,
+      "greek": "ἡ δʼ αὖ Τηλέμαχον προσεφώνεεν, ὃν φίλον υἱόν·"
+    },
+    {
+      "n": 215,
+      "greek": "Τηλέμαχʼ, οὐκέτι τοι φρένες ἔμπεδοι οὐδὲ νόημα·"
+    },
+    {
+      "n": 216,
+      "greek": "παῖς ἔτʼ ἐὼν καὶ μᾶλλον ἐνὶ φρεσὶ κέρδεʼ ἐνώμας·"
+    },
+    {
+      "n": 217,
+      "greek": "νῦν δʼ, ὅτε δὴ μέγας ἐσσὶ καὶ ἥβης μέτρον ἱκάνεις,"
+    },
+    {
+      "n": 218,
+      "greek": "καί κέν τις φαίη γόνον ἔμμεναι ὀλβίου ἀνδρός,"
+    },
+    {
+      "n": 219,
+      "greek": "ἐς μέγεθος καὶ κάλλος ὁρώμενος, ἀλλότριος φώς,"
+    },
+    {
+      "n": 220,
+      "greek": "οὐκέτι τοι φρένες εἰσὶν ἐναίσιμοι οὐδὲ νόημα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "the manifold excellence of my dear husband, for that he was pre-eminent among the Achaeans.” So saying, she went down from the bright upper chamber, not alone, for two handmaids attended her. Now when the fair lady reached the wooers she stood by the doorpost of the well-built hall,"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "holding before her face her shining veil; and a faithful handmaid stood on either side of her. Straightway then the knees of the wooers were loosened and their hearts enchanted with love, and they all prayed, each that he might lie by her side. But she spoke to Telemachus, her dear son:"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "“Telemachus, thy mind and thy thoughts are no longer steadfast as heretofore. When thou wast but a child thou wast wont to revolve in thy mind thoughts more cunning; but now that thou art grown and hast reached the bounds of manhood, and wouldest be called a rich man's son by one who looked only to thy stature and thy comeliness, being himself a stranger from afar,"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "thy mind and thy thoughts are no longer right as before. What a thing is this that has been done in these halls, that thou hast suffered yon stranger to be so maltreated! How now, if the stranger, while sitting thus in our house, should come to some harm through grievous mishandling?"
+    }
+  ]
+}

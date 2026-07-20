@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "τῷ δεκάτῳ δὲ πόλιν Πριάμου πέρσαντες ἔβημεν"
+    },
+    {
+      "n": 242,
+      "greek": "οἴκαδε σὺν νήεσσι, θεὸς δʼ ἐκέδασσεν Ἀχαιούς."
+    },
+    {
+      "n": 243,
+      "greek": "αὐτὰρ ἐμοὶ δειλῷ κακὰ μήδετο μητίετα Ζεύς·"
+    },
+    {
+      "n": 244,
+      "greek": "μῆνα γὰρ οἶον ἔμεινα τεταρπόμενος τεκέεσσιν"
+    },
+    {
+      "n": 245,
+      "greek": "κουριδίῃ τʼ ἀλόχῳ καὶ κτήμασιν· αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 246,
+      "greek": "Αἴγυπτόνδε με θυμὸς ἀνώγει ναυτίλλεσθαι,"
+    },
+    {
+      "n": 247,
+      "greek": "νῆας ἐῢ στείλαντα σὺν ἀντιθέοις ἑτάροισιν."
+    },
+    {
+      "n": 248,
+      "greek": "ἐννέα νῆας στεῖλα, θοῶς δʼ ἐσαγείρατο λαός."
+    },
+    {
+      "n": 249,
+      "greek": "ἑξῆμαρ μὲν ἔπειτα ἐμοὶ ἐρίηρες ἑταῖροι"
+    },
+    {
+      "n": 250,
+      "greek": "δαίνυντʼ· αὐτὰρ ἐγὼν ἱερήϊα πολλὰ παρεῖχον"
+    },
+    {
+      "n": 251,
+      "greek": "θεοῖσίν τε ῥέζειν αὐτοῖσί τε δαῖτα πένεσθαι."
+    },
+    {
+      "n": 252,
+      "greek": "ἑβδομάτῃ δʼ ἀναβάντες ἀπὸ Κρήτης εὐρείης"
+    },
+    {
+      "n": 253,
+      "greek": "ἐπλέομεν Βορέῃ ἀνέμῳ ἀκραέϊ καλῷ"
+    },
+    {
+      "n": 254,
+      "greek": "ῥηϊδίως, ὡς εἴ τε κατὰ ῥόον· οὐδέ τις οὖν μοι"
+    },
+    {
+      "n": 255,
+      "greek": "νηῶν πημάνθη, ἀλλʼ ἀσκηθέες καὶ ἄνουσοι"
+    },
+    {
+      "n": 256,
+      "greek": "ἥμεθα, τὰς δʼ ἄνεμός τε κυβερνῆταί τʼ ἴθυνον."
+    },
+    {
+      "n": 257,
+      "greek": "πεμπταῖοι δʼ Αἴγυπτον ἐϋρρείτην ἱκόμεσθα,"
+    },
+    {
+      "n": 258,
+      "greek": "στῆσα δʼ ἐν Αἰγύπτῳ ποταμῷ νέας ἀμφιελίσσας."
+    },
+    {
+      "n": 259,
+      "greek": "ἔνθʼ ἦ τοι μὲν ἐγὼ κελόμην ἐρίηρας ἑταίρους"
+    },
+    {
+      "n": 260,
+      "greek": "αὐτοῦ πὰρ νήεσσι μένειν καὶ νῆας ἔρυσθαι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "my wedded wife, and my wealth; and then to Egypt did my spirit bid me voyage with my godlike comrades, when I had fitted out my ships with care. Nine ships I fitted out, and the host gathered speedily. Then for six days my trusty comrades"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "feasted, and I gave them many victims, that they might sacrifice to the gods, and prepare a feast for themselves; and on the seventh we embarked and set sail from broad Crete, with the North Wind blowing fresh and fair, and ran on easily as if down stream. No"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "harm came to any of my ships, but free from scathe and from disease we sat, and the wind and the helmsman guided the ships. “On the fifth day we came to fair-flowing Aegyptus, and in the river Aegyptus I moored my curved ships. Then verily I bade my trusty comrades"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "to remain there by the ships, and to guard the ships, and I sent out scouts to go to places of outlook. But my comrades, yielding to wantonness, and led on by their own might, straightway set about wasting the fair fields of the men of Egypt; and they carried off the women and little children,"
+    }
+  ]
+}

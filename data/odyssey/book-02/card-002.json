@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "τρεῖς δέ οἱ ἄλλοι ἔσαν, καὶ ὁ μὲν μνηστῆρσιν ὁμίλει,"
+    },
+    {
+      "n": 22,
+      "greek": "Εὐρύνομος, δύο δʼ αἰὲν ἔχον πατρώια ἔργα."
+    },
+    {
+      "n": 23,
+      "greek": "ἀλλʼ οὐδʼ ὣς τοῦ λήθετʼ ὀδυρόμενος καὶ ἀχεύων."
+    },
+    {
+      "n": 24,
+      "greek": "τοῦ ὅ γε δάκρυ χέων ἀγορήσατο καὶ μετέειπε·"
+    },
+    {
+      "n": 25,
+      "greek": "κέκλυτε δὴ νῦν μευ, Ἰθακήσιοι, ὅττι κεν εἴπω·"
+    },
+    {
+      "n": 26,
+      "greek": "οὔτε ποθʼ ἡμετέρη ἀγορὴ γένετʼ οὔτε θόωκος"
+    },
+    {
+      "n": 27,
+      "greek": "ἐξ οὗ Ὀδυσσεὺς δῖος ἔβη κοίλῃς ἐνὶ νηυσί."
+    },
+    {
+      "n": 28,
+      "greek": "νῦν δὲ τίς ὧδʼ ἤγειρε; τίνα χρειὼ τόσον ἵκει"
+    },
+    {
+      "n": 29,
+      "greek": "ἠὲ νέων ἀνδρῶν ἢ οἳ προγενέστεροί εἰσιν;"
+    },
+    {
+      "n": 30,
+      "greek": "ἠέ τινʼ ἀγγελίην στρατοῦ ἔκλυεν ἐρχομένοιο,"
+    },
+    {
+      "n": 31,
+      "greek": "ἥν χʼ ἡμῖν σάφα εἴποι, ὅτε πρότερός γε πύθοιτο;"
+    },
+    {
+      "n": 32,
+      "greek": "ἦέ τι δήμιον ἄλλο πιφαύσκεται ἠδʼ ἀγορεύει;"
+    },
+    {
+      "n": 33,
+      "greek": "ἐσθλός μοι δοκεῖ εἶναι, ὀνήμενος. εἴθε οἱ αὐτῷ"
+    },
+    {
+      "n": 34,
+      "greek": "Ζεὺς ἀγαθὸν τελέσειεν, ὅτι φρεσὶν ᾗσι μενοινᾷ."
+    },
+    {
+      "n": 35,
+      "greek": "ὣς φάτο, χαῖρε δὲ φήμῃ Ὀδυσσῆος φίλος υἱός,"
+    },
+    {
+      "n": 36,
+      "greek": "οὐδʼ ἄρʼ ἔτι δὴν ἧστο, μενοίνησεν δʼ ἀγορεύειν,"
+    },
+    {
+      "n": 37,
+      "greek": "στῆ δὲ μέσῃ ἀγορῇ· σκῆπτρον δέ οἱ ἔμβαλε χειρὶ"
+    },
+    {
+      "n": 38,
+      "greek": "κῆρυξ Πεισήνωρ πεπνυμένα μήδεα εἰδώς."
+    },
+    {
+      "n": 39,
+      "greek": "πρῶτον ἔπειτα γέροντα καθαπτόμενος προσέειπεν·"
+    },
+    {
+      "n": 40,
+      "greek": "ὦ γέρον, οὐχ ἑκὰς οὗτος ἀνήρ, τάχα δʼ εἴσεαι αὐτός,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "“Hearken now to me, men of Ithaca, to the word that I shall say. Never have we held assembly or session since the day when goodly Odysseus departed in the hollow ships. And now who has called us together? On whom has such need come either of the young men or of those who are older?"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "Has he heard some tidings of the army's return, which he might tell us plainly, seeing that he has first learned of it himself? Or is there some other public matter on which he is to speak and address us? A good man he seems in my eyes, a blessed man. May Zeus fulfil unto him himself some good, even whatsoever he desires in his heart.”"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "So he spoke, and the dear son of Odysseus rejoiced at the word of omen; nor did he thereafter remain seated, but was fain to speak. So he took his stand in the midst of the assembly, and the staff was placed in his hands by the herald Peisenor, wise in counsel. Then he spoke, addressing first the old man:"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "“Old man, not far off, as thou shalt soon learn thyself, is that man who has called the host together—even I; for on me above all others has sorrow come. I have neither heard any tidings of the army's return, which I might tell you plainly, seeing that I had first learned of it myself, nor is there any other public matter on which I am to speak and address you."
+    }
+  ]
+}

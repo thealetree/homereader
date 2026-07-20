@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "τὼ δʼ ἐς τεύχεα δύντε, θύρην ἐπιθέντε φαεινήν,"
+    },
+    {
+      "n": 202,
+      "greek": "βήτην εἰς Ὀδυσῆα δαΐφρονα, ποικιλομήτην."
+    },
+    {
+      "n": 203,
+      "greek": "ἔνθα μένος πνείοντες ἐφέστασαν, οἱ μὲν ἐπʼ οὐδοῦ"
+    },
+    {
+      "n": 204,
+      "greek": "τέσσαρες, οἱ δʼ ἔντοσθε δόμων πολέες τε καὶ ἐσθλοί."
+    },
+    {
+      "n": 205,
+      "greek": "τοῖσι δʼ ἐπʼ ἀγχίμολον θυγάτηρ Διὸς ἦλθεν Ἀθήνη,"
+    },
+    {
+      "n": 206,
+      "greek": "Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν."
+    },
+    {
+      "n": 207,
+      "greek": "τὴν δʼ Ὀδυσεὺς γήθησεν ἰδὼν καὶ μῦθον ἔειπε·"
+    },
+    {
+      "n": 208,
+      "greek": "Μέντορ, ἄμυνον ἀρήν, μνῆσαι δʼ ἑτάροιο φίλοιο,"
+    },
+    {
+      "n": 209,
+      "greek": "ὅς σʼ ἀγαθὰ ῥέζεσκον· ὁμηλικίην δέ μοί ἐσσι."
+    },
+    {
+      "n": 210,
+      "greek": "ὣς φάτʼ, ὀϊόμενος λαοσσόον ἔμμεν Ἀθήνην."
+    },
+    {
+      "n": 211,
+      "greek": "μνηστῆρες δʼ ἑτέρωθεν ὁμόκλεον ἐν μεγάροισι·"
+    },
+    {
+      "n": 212,
+      "greek": "πρῶτος τήν γʼ ἐνένιπε Δαμαστορίδης Ἀγέλαος·"
+    },
+    {
+      "n": 213,
+      "greek": "Μέντορ, μή σʼ ἐπέεσσι παραιπεπίθῃσιν Ὀδυσσεὺς"
+    },
+    {
+      "n": 214,
+      "greek": "μνηστήρεσσι μάχεσθαι, ἀμυνέμεναι δέ οἱ αὐτῷ."
+    },
+    {
+      "n": 215,
+      "greek": "ὧδε γὰρ ἡμέτερόν γε νόον τελέεσθαι ὀΐω·"
+    },
+    {
+      "n": 216,
+      "greek": "ὁππότε κεν τούτους κτέωμεν, πατέρʼ ἠδὲ καὶ υἱόν,"
+    },
+    {
+      "n": 217,
+      "greek": "ἐν δὲ σὺ τοῖσιν ἔπειτα πεφήσεαι, οἷα μενοινᾷς"
+    },
+    {
+      "n": 218,
+      "greek": "ἔρδειν ἐν μεγάροις· σῷ δʼ αὐτοῦ κράατι τίσεις."
+    },
+    {
+      "n": 219,
+      "greek": "αὐτὰρ ἐπὴν ὑμέων γε βίας ἀφελώμεθα χαλκῷ,"
+    },
+    {
+      "n": 220,
+      "greek": "κτήμαθʼ ὁπόσσα τοί ἐστι, τά τʼ ἔνδοθι καὶ τὰ θύρηφι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "Then Athena, daughter of Zeus, drew near them, like unto Mentor in form and voice, and Odysseus saw her, and was glad; and he spoke, saying: “Mentor, ward off ruin, and remember me, thy dear comrade, who often befriended thee. Thou art of like age with myself.”"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "So he spoke, deeming that it was Athena, the rouser of hosts. But the wooers on the other side shouted aloud in the hall, and first Agelaus, son of Damastor, rebuked Athena, saying: “Mentor, let not Odysseus beguile thee with his words to fight against the wooers and bear aid to himself."
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "For in this wise, methinks, shall our will be brought to pass: when we have killed these men, father and son, thereafter shalt thou too be slain with them, such deeds art thou minded to do in these halls: with thine own head shalt thou pay the price. But when with the sword we have stripped you of your might,"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "all the possessions that thou hast within doors and in the fields we will mingle with those of Odysseus, and will not suffer thy sons or thy daughters to dwell in thy halls, nor thy faithful wife to fare at large in the city of Ithaca.” So he spoke, and Athena waxed the more wroth at heart,"
+    }
+  ]
+}

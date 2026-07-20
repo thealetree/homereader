@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "κτήμασιν. ἦ γὰρ πολλὰ παθὼν καὶ πόλλʼ ἐπαληθεὶς"
+    },
+    {
+      "n": 82,
+      "greek": "ἠγαγόμην ἐν νηυσὶ καὶ ὀγδοάτῳ ἔτει ἦλθον,"
+    },
+    {
+      "n": 83,
+      "greek": "Κύπρον Φοινίκην τε καὶ Αἰγυπτίους ἐπαληθείς,"
+    },
+    {
+      "n": 84,
+      "greek": "Αἰθίοπάς θʼ ἱκόμην καὶ Σιδονίους καὶ Ἐρεμβοὺς"
+    },
+    {
+      "n": 85,
+      "greek": "καὶ Λιβύην, ἵνα τʼ ἄρνες ἄφαρ κεραοὶ τελέθουσι."
+    },
+    {
+      "n": 86,
+      "greek": "τρὶς γὰρ τίκτει μῆλα τελεσφόρον εἰς ἐνιαυτόν."
+    },
+    {
+      "n": 87,
+      "greek": "ἔνθα μὲν οὔτε ἄναξ ἐπιδευὴς οὔτε τι ποιμὴν"
+    },
+    {
+      "n": 88,
+      "greek": "τυροῦ καὶ κρειῶν οὐδὲ γλυκεροῖο γάλακτος,"
+    },
+    {
+      "n": 89,
+      "greek": "ἀλλʼ αἰεὶ παρέχουσιν ἐπηετανὸν γάλα θῆσθαι."
+    },
+    {
+      "n": 90,
+      "greek": "ἧος ἐγὼ περὶ κεῖνα πολὺν βίοτον συναγείρων"
+    },
+    {
+      "n": 91,
+      "greek": "ἠλώμην, τῆός μοι ἀδελφεὸν ἄλλος ἔπεφνεν"
+    },
+    {
+      "n": 92,
+      "greek": "λάθρῃ, ἀνωιστί, δόλῳ οὐλομένης ἀλόχοιο·"
+    },
+    {
+      "n": 93,
+      "greek": "ὣς οὔ τοι χαίρων τοῖσδε κτεάτεσσιν ἀνάσσω."
+    },
+    {
+      "n": 94,
+      "greek": "καὶ πατέρων τάδε μέλλετʼ ἀκουέμεν, οἵ τινες ὑμῖν"
+    },
+    {
+      "n": 95,
+      "greek": "εἰσίν, ἐπεὶ μάλα πολλὰ πάθον, καὶ ἀπώλεσα οἶκον"
+    },
+    {
+      "n": 96,
+      "greek": "εὖ μάλα ναιετάοντα, κεχανδότα πολλὰ καὶ ἐσθλά."
+    },
+    {
+      "n": 97,
+      "greek": "ὧν ὄφελον τριτάτην περ ἔχων ἐν δώμασι μοῖραν"
+    },
+    {
+      "n": 98,
+      "greek": "ναίειν, οἱ δʼ ἄνδρες σόοι ἔμμεναι, οἳ τότʼ ὄλοντο"
+    },
+    {
+      "n": 99,
+      "greek": "Τροίῃ ἐν εὐρείῃ ἑκὰς Ἄργεος ἱπποβότοιο."
+    },
+    {
+      "n": 100,
+      "greek": "ἀλλʼ ἔμπης πάντας μὲν ὀδυρόμενος καὶ ἀχεύων"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "and to Libya, where the lambs are horned from their birth. For there the ewes bear their young thrice within the full course of the year; there neither master nor shepherd has any lack of cheese or of meat or of sweet milk, but the flocks ever yield milk to the milking the year through."
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "While I wandered in those lands gathering much livelihood, meanwhile another slew my brother by stealth and at unawares, by the guile of his accursed wife. Thus, thou mayest see, I have no joy in being lord of this wealth; and you may well have heard of this from your fathers, whosoever they"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "may be, for full much did I suffer, and let fall into ruin a stately house and one stored with much goodly treasure. Would that I dwelt in my halls with but a third part of this wealth, and that those men were safe who then perished in the broad land of Troy far from horse-pasturing Argos."
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "And yet, though I often sit in my halls weeping and sorrowing for them all—one moment indeed I ease my heart with weeping, and then again I cease, for men soon have surfeit of chill lament—yet for them all I mourn not so much, despite my grief,"
+    }
+  ]
+}

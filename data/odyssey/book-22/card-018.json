@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "μεσσηγὺς κρητῆρος ἰδὲ θρόνου ἀργυροήλου,"
+    },
+    {
+      "n": 342,
+      "greek": "αὐτὸς δʼ αὖτʼ Ὀδυσῆα προσαΐξας λάβε γούνων,"
+    },
+    {
+      "n": 343,
+      "greek": "καί μιν λισσόμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 344,
+      "greek": "γουνοῦμαί σʼ, Ὀδυσεῦ· σὺ δέ μʼ αἴδεο καί μʼ ἐλέησον·"
+    },
+    {
+      "n": 345,
+      "greek": "αὐτῷ τοι μετόπισθʼ ἄχος ἔσσεται, εἴ κεν ἀοιδὸν"
+    },
+    {
+      "n": 346,
+      "greek": "πέφνῃς, ὅς τε θεοῖσι καὶ ἀνθρώποισιν ἀείδω."
+    },
+    {
+      "n": 347,
+      "greek": "αὐτοδίδακτος δʼ εἰμί, θεὸς δέ μοι ἐν φρεσὶν οἴμας"
+    },
+    {
+      "n": 348,
+      "greek": "παντοίας ἐνέφυσεν· ἔοικα δέ τοι παραείδειν"
+    },
+    {
+      "n": 349,
+      "greek": "ὥς τε θεῷ· τῷ μή με λιλαίεο δειροτομῆσαι."
+    },
+    {
+      "n": 350,
+      "greek": "καί κεν Τηλέμαχος τάδε γʼ εἴποι, σὸς φίλος υἱός,"
+    },
+    {
+      "n": 351,
+      "greek": "ὡς ἐγὼ οὔ τι ἑκὼν ἐς σὸν δόμον οὐδὲ χατίζων"
+    },
+    {
+      "n": 352,
+      "greek": "πωλεύμην μνηστῆρσιν ἀεισόμενος μετὰ δαῖτας,"
+    },
+    {
+      "n": 353,
+      "greek": "ἀλλὰ πολὺ πλέονες καὶ κρείσσονες ἦγον ἀνάγκῃ."
+    },
+    {
+      "n": 354,
+      "greek": "ὣς φάτο, τοῦ δʼ ἤκουσʼ ἱερὴ ἲς Τηλεμάχοιο,"
+    },
+    {
+      "n": 355,
+      "greek": "αἶψα δʼ ἑὸν πατέρα προσεφώνεεν ἐγγὺς ἐόντα·"
+    },
+    {
+      "n": 356,
+      "greek": "ἴσχεο μηδέ τι τοῦτον ἀναίτιον οὔταε χαλκῷ·"
+    },
+    {
+      "n": 357,
+      "greek": "καὶ κήρυκα Μέδοντα σαώσομεν, ὅς τέ μευ αἰεὶ"
+    },
+    {
+      "n": 358,
+      "greek": "οἴκῳ ἐν ἡμετέρῳ κηδέσκετο παιδὸς ἐόντος,"
+    },
+    {
+      "n": 359,
+      "greek": "εἰ δὴ μή μιν ἔπεφνε Φιλοίτιος ἠὲ συβώτης,"
+    },
+    {
+      "n": 360,
+      "greek": "ἠὲ σοὶ ἀντεβόλησεν ὀρινομένῳ κατὰ δῶμα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "on thine own self shall sorrow come hereafter, if thou slayest the minstrel, even me, who sing to gods and men. Self-taught am I, and the god has planted in my heart all manner of lays, and worthy am I to sing to thee as to a god; wherefore be not eager to cut my throat."
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "Aye, and Telemachus too will bear witness to this, thy dear son, how that through no will or desire of mine I was wont to resort to thy house to sing to the wooers at their feasts, but they, being far more and stronger, led me hither perforce.” So he spoke, and the strong and mighty Telemachus heard him,"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "and quickly spoke to his father, who was near: “Stay thy hand, and do not wound this guiltless man with the sword. Aye, and let us save also the herald, Medon, who ever cared for me in our house, when I was a child—unless perchance Philoetius has already slain him, or the swineherd,"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "or he met thee as thou didst rage through the house.” So he spoke, and Medon, wise of heart, heard him, for he lay crouching beneath a chair, and had clothed himself in the skin of an ox, newly flayed, seeking to avoid black fate. Straightway he rose from beneath the chair and stripped off the ox-hide,"
+    }
+  ]
+}

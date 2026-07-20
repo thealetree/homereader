@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "συκέας τεσσαράκοντʼ· ὄρχους δέ μοι ὧδʼ ὀνόμηνας"
+    },
+    {
+      "n": 342,
+      "greek": "δώσειν πεντήκοντα, διατρύγιος δὲ ἕκαστος"
+    },
+    {
+      "n": 343,
+      "greek": "ἤην· ἔνθα δʼ ἀνὰ σταφυλαὶ παντοῖαι ἔασιν—"
+    },
+    {
+      "n": 344,
+      "greek": "ὁππότε δὴ Διὸς ὧραι ἐπιβρίσειαν ὕπερθεν."
+    },
+    {
+      "n": 345,
+      "greek": "ὣς φάτο, τοῦ δʼ αὐτοῦ λύτο γούνατα καὶ φίλον ἦτορ,"
+    },
+    {
+      "n": 346,
+      "greek": "σήματʼ ἀναγνόντος τά οἱ ἔμπεδα πέφραδʼ Ὀδυσσεύς."
+    },
+    {
+      "n": 347,
+      "greek": "ἀμφὶ δὲ παιδὶ φίλῳ βάλε πήχεε· τὸν δὲ ποτὶ οἷ"
+    },
+    {
+      "n": 348,
+      "greek": "εἷλεν ἀποψύχοντα πολύτλας δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 349,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἄμπνυτο καὶ ἐς φρένα θυμὸς ἀγέρθη,"
+    },
+    {
+      "n": 350,
+      "greek": "ἐξαῦτις μύθοισιν ἀμειβόμενος προσέειπε·"
+    },
+    {
+      "n": 351,
+      "greek": "Ζεῦ πάτερ, ἦ ῥα ἔτʼ ἔστε θεοὶ κατὰ μακρὸν Ὄλυμπον,"
+    },
+    {
+      "n": 352,
+      "greek": "εἰ ἐτεὸν μνηστῆρες ἀτάσθαλον ὕβριν ἔτισαν."
+    },
+    {
+      "n": 353,
+      "greek": "νῦν δʼ αἰνῶς δείδοικα κατὰ φρένα μὴ τάχα πάντες"
+    },
+    {
+      "n": 354,
+      "greek": "ἐνθάδʼ ἐπέλθωσιν Ἰθακήσιοι, ἀγγελίας δὲ"
+    },
+    {
+      "n": 355,
+      "greek": "πάντη ἐποτρύνωσι Κεφαλλήνων πολίεσσι."
+    },
+    {
+      "n": 356,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 357,
+      "greek": "θάρσει, μή τοι ταῦτα μετὰ φρεσὶ σῇσι μελόντων."
+    },
+    {
+      "n": 358,
+      "greek": "ἀλλʼ ἴομεν προτὶ οἶκον, ὃς ὀρχάτου ἐγγύθι κεῖται·"
+    },
+    {
+      "n": 359,
+      "greek": "ἔνθα δὲ Τηλέμαχον καὶ βουκόλον ἠδὲ συβώτην"
+    },
+    {
+      "n": 360,
+      "greek": "προὔπεμψʼ, ὡς ἂν δεῖπνον ἐφοπλίσσωσι τάχιστα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "So he spoke, and his father's knees were loosened where he stood, and his heart melted, as he knew the sure tokens which Odysseus told him. About his dear son he flung both his arms, and the much-enduring, goodly Odysseus caught him unto him fainting. But when he revived, and his spirit returned again into his breast,"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "once more he made answer, and spoke, saying: “Father Zeus, verily ye gods yet hold sway on high Olympus, if indeed the wooers have paid the price of their wanton insolence. But now I have wondrous dread at heart, lest straightway all the men of Ithaca come hither against us, and"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "send messengers everywhere to the cities of the Cephallenians.” Then Odysseus of many wiles answered him, and said: “Be of good cheer, and let not these things distress thy heart. But let us go to the house, which lies near the orchard, for thither"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "I sent forward Telemachus and the neatherd and the swineherd, that with all speed they might prepare our meal.” So spoke the two, and went their way to the goodly house. And when they had come to the stately house, they found Telemachus, and the neatherd, and the swineherd carving flesh in abundance, and mixing the flaming wine."
+    }
+  ]
+}

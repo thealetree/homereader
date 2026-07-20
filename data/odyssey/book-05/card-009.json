@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "φθινέτω· ἤδη γάρ σε μάλα πρόφρασσʼ ἀποπέμψω."
+    },
+    {
+      "n": 162,
+      "greek": "ἀλλʼ ἄγε δούρατα μακρὰ ταμὼν ἁρμόζεο χαλκῷ"
+    },
+    {
+      "n": 163,
+      "greek": "εὐρεῖαν σχεδίην· ἀτὰρ ἴκρια πῆξαι ἐπʼ αὐτῆς"
+    },
+    {
+      "n": 164,
+      "greek": "ὑψοῦ, ὥς σε φέρῃσιν ἐπʼ ἠεροειδέα πόντον."
+    },
+    {
+      "n": 165,
+      "greek": "αὐτὰρ ἐγὼ σῖτον καὶ ὕδωρ καὶ οἶνον ἐρυθρὸν"
+    },
+    {
+      "n": 166,
+      "greek": "ἐνθήσω μενοεικέʼ, ἅ κέν τοι λιμὸν ἐρύκοι,"
+    },
+    {
+      "n": 167,
+      "greek": "εἵματά τʼ ἀμφιέσω· πέμψω δέ τοι οὖρον ὄπισθεν,"
+    },
+    {
+      "n": 168,
+      "greek": "ὥς κε μάλʼ ἀσκηθὴς σὴν πατρίδα γαῖαν ἵκηαι,"
+    },
+    {
+      "n": 169,
+      "greek": "αἴ κε θεοί γʼ ἐθέλωσι, τοὶ οὐρανὸν εὐρὺν ἔχουσιν,"
+    },
+    {
+      "n": 170,
+      "greek": "οἵ μευ φέρτεροί εἰσι νοῆσαί τε κρῆναί τε."
+    },
+    {
+      "n": 171,
+      "greek": "ὣς φάτο, ῥίγησεν δὲ πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 172,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 173,
+      "greek": "ἄλλο τι δὴ σύ, θεά, τόδε μήδεαι, οὐδέ τι πομπήν,"
+    },
+    {
+      "n": 174,
+      "greek": "ἥ με κέλεαι σχεδίῃ περάαν μέγα λαῖτμα θαλάσσης,"
+    },
+    {
+      "n": 175,
+      "greek": "δεινόν τʼ ἀργαλέον τε· τὸ δʼ οὐδʼ ἐπὶ νῆες ἐῖσαι"
+    },
+    {
+      "n": 176,
+      "greek": "ὠκύποροι περόωσιν, ἀγαλλόμεναι Διὸς οὔρῳ."
+    },
+    {
+      "n": 177,
+      "greek": "οὐδʼ ἂν ἐγὼν ἀέκητι σέθεν σχεδίης ἐπιβαίην,"
+    },
+    {
+      "n": 178,
+      "greek": "εἰ μή μοι τλαίης γε, θεά, μέγαν ὅρκον ὀμόσσαι"
+    },
+    {
+      "n": 179,
+      "greek": "μή τί μοι αὐτῷ πῆμα κακὸν βουλευσέμεν ἄλλο."
+    },
+    {
+      "n": 180,
+      "greek": "ὣς φάτο, μείδησεν δὲ Καλυψὼ δῖα θεάων,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "And I will place therein bread and water and red wine to satisfy thy heart, to keep hunger from thee. And I will clothe thee with raiment, and will send a fair wind behind thee, that all unscathed thou mayest return to thy native land, if it be the will of the gods who hold broad heaven;"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "for they are mightier than I both to purpose and to fulfil.” So she spoke, and much-enduring goodly Odysseus shuddered, and he spoke, and addressed her with winged words: “Some other thing, goddess, art thou planning in this, and not my sending, seeing that thou biddest me cross on a raft the great gulf of the sea,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "dread and grievous, over which not even the shapely, swift-faring ships pass, rejoicing in the wind of Zeus. But I will not set foot on a raft in thy despite, unless thou, goddess, wilt bring thyself to swear a mighty oath that thou wilt not plot against me any fresh mischief to my hurt.”"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "So he spoke, but Calypso, the beautiful goddess, smiled, and stroked him with her hand, and spoke, and addressed him: “Verily thou art a knave, and not stunted in wit, that thou hast bethought thee to utter such a word. Now therefore let earth be witness to this, and the broad heaven above,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "ὦ πάτερ, ἤδη τοι σάκος οἴσω καὶ δύο δοῦρε"
+    },
+    {
+      "n": 102,
+      "greek": "καὶ κυνέην πάγχαλκον, ἐπὶ κροτάφοις ἀραρυῖαν"
+    },
+    {
+      "n": 103,
+      "greek": "αὐτός τʼ ἀμφιβαλεῦμαι ἰών, δώσω δὲ συβώτῃ"
+    },
+    {
+      "n": 104,
+      "greek": "καὶ τῷ βουκόλῳ ἄλλα· τετευχῆσθαι γὰρ ἄμεινον."
+    },
+    {
+      "n": 105,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 106,
+      "greek": "οἶσε θέων, ἧός μοι ἀμύνεσθαι πάρʼ ὀϊστοί,"
+    },
+    {
+      "n": 107,
+      "greek": "μή μʼ ἀποκινήσωσι θυράων μοῦνον ἐόντα."
+    },
+    {
+      "n": 108,
+      "greek": "ὣς φάτο, Τηλέμαχος δὲ φίλῳ ἐπεπείθετο πατρί,"
+    },
+    {
+      "n": 109,
+      "greek": "βῆ δʼ ἴμεναι θάλαμόνδʼ, ὅθι οἱ κλυτὰ τεύχεα κεῖτο."
+    },
+    {
+      "n": 110,
+      "greek": "ἔνθεν τέσσαρα μὲν σάκεʼ ἔξελε, δούρατα δʼ ὀκτὼ"
+    },
+    {
+      "n": 111,
+      "greek": "καὶ πίσυρας κυνέας χαλκήρεας ἱπποδασείας·"
+    },
+    {
+      "n": 112,
+      "greek": "βῆ δὲ φέρων, μάλα δʼ ὦκα φίλον πατέρʼ εἰσαφίκανεν,"
+    },
+    {
+      "n": 113,
+      "greek": "αὐτὸς δὲ πρώτιστα περὶ χροῒ δύσετο χαλκόν·"
+    },
+    {
+      "n": 114,
+      "greek": "ὣς δʼ αὔτως τὼ δμῶε δυέσθην τεύχεα καλά,"
+    },
+    {
+      "n": 115,
+      "greek": "ἔσταν δʼ ἀμφʼ Ὀδυσῆα δαΐφρονα ποικιλομήτην."
+    },
+    {
+      "n": 116,
+      "greek": "αὐτὰρ ὅ γʼ, ὄφρα μὲν αὐτῷ ἀμύνεσθαι ἔσαν ἰοί."
+    },
+    {
+      "n": 117,
+      "greek": "τόφρα μνηστήρων ἕνα γʼ αἰεὶ ᾧ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 118,
+      "greek": "βάλλε τιτυσκόμενος· τοὶ δʼ ἀγχιστῖνοι ἔπιπτον."
+    },
+    {
+      "n": 119,
+      "greek": "αὐτὰρ ἐπεὶ λίπον ἰοὶ ὀϊστεύοντα ἄνακτα,"
+    },
+    {
+      "n": 120,
+      "greek": "τόξον μὲν πρὸς σταθμὸν ἐϋσταθέος μεγάροιο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "Then Odysseus of many wiles answered him and said: “Run, and bring them, while yet I have arrows to defend me, lest they thrust me from the door, alone as I am.” So he spoke, and Telemachus hearkened to his dear father, and went his way to the store-chamber where the glorious arms were stored."
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "Thence he took four shields and eight spears and four helmets of bronze, with thick plumes of horse-hair; and he bore them forth, and quickly came to his dear father. Then first of all he himself girded the bronze about his body, and even in like manner the two slaves put on them the beautiful armour,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "and took their stand on either side of Odysseus, the wise and crafty-minded. But he, so long as he had arrows to defend him, would ever aim, and smite the wooers one by one in his house, and they fell thick and fast. But when the arrows failed the prince, as he shot,"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "he leaned the bow against the door-post of the well-built hall, and let it stand against the bright entrance wall. For himself, he put about his shoulders a four-fold shield, and set on his mighty head a well-wrought helmet with horse-hair plume, and terribly did the plume wave above him;"
+    }
+  ]
+}

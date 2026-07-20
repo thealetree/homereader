@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "ἔνθα δʼ ἔγημε γυναῖκα καὶ ὑψερεφὲς θέτο δῶμα,"
+    },
+    {
+      "n": 242,
+      "greek": "γείνατο δʼ Ἀντιφάτην καὶ Μάντιον, υἷε κραταιώ."
+    },
+    {
+      "n": 243,
+      "greek": "Ἀντιφάτης μὲν ἔτικτεν Ὀϊκλῆα μεγάθυμον,"
+    },
+    {
+      "n": 244,
+      "greek": "αὐτὰρ Ὀϊκλείης λαοσσόον Ἀμφιάραον,"
+    },
+    {
+      "n": 245,
+      "greek": "ὃν περὶ κῆρι φίλει Ζεύς τʼ αἰγίοχος καὶ Ἀπόλλων"
+    },
+    {
+      "n": 246,
+      "greek": "παντοίην φιλότητʼ· οὐδʼ ἵκετο γήραος οὐδόν,"
+    },
+    {
+      "n": 247,
+      "greek": "ἀλλʼ ὄλετʼ ἐν Θήβῃσι γυναίων εἵνεκα δώρων."
+    },
+    {
+      "n": 248,
+      "greek": "τοῦ δʼ υἱεῖς ἐγένοντʼ Ἀλκμαίων Ἀμφίλοχός τε."
+    },
+    {
+      "n": 249,
+      "greek": "Μάντιος αὖ τέκετο Πολυφείδεά τε Κλεῖτόν τε·"
+    },
+    {
+      "n": 250,
+      "greek": "ἀλλʼ ἦ τοι Κλεῖτον χρυσόθρονος ἥρπασεν Ἠὼς"
+    },
+    {
+      "n": 251,
+      "greek": "κάλλεος εἵνεκα οἷο, ἵνʼ ἀθανάτοισι μετείη·"
+    },
+    {
+      "n": 252,
+      "greek": "αὐτὰρ ὑπέρθυμον Πολυφείδεα μάντιν Ἀπόλλων"
+    },
+    {
+      "n": 253,
+      "greek": "θῆκε βροτῶν ὄχʼ ἄριστον, ἐπεὶ θάνεν Ἀμφιάραος·"
+    },
+    {
+      "n": 254,
+      "greek": "ὅς ῥʼ Ὑπερησίηνδʼ ἀπενάσσατο πατρὶ χολωθείς,"
+    },
+    {
+      "n": 255,
+      "greek": "ἔνθʼ ὅ γε ναιετάων μαντεύετο πᾶσι βροτοῖσιν."
+    },
+    {
+      "n": 256,
+      "greek": "τοῦ μὲν ἄρʼ υἱὸς ἐπῆλθε, Θεοκλύμενος δʼ ὄνομʼ ἦεν,"
+    },
+    {
+      "n": 257,
+      "greek": "ὃς τότε Τηλεμάχου πέλας ἵστατο· τὸν δʼ ἐκίχανεν"
+    },
+    {
+      "n": 258,
+      "greek": "σπένδοντʼ εὐχόμενόν τε θοῇ παρὰ νηῒ μελαίνῃ,"
+    },
+    {
+      "n": 259,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 260,
+      "greek": "ὦ φίλʼ, ἐπεί σε θύοντα κιχάνω τῷδʼ ἐνὶ χώρῳ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "whom Zeus, who bears the aegis, and Apollo heartily loved with all manner of love. Yet he did not reach the threshold of old age, but died in Thebe, because of a woman's gifts. To him were born sons, Alcmaeon and Amphilochus. And Mantius on his part begot Polypheides and Cleitus."
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "Now Cleitus golden-throned Dawn snatched away by reason of his beauty, that he might dwell with the immortals; but of Polypheides, high of heart, Apollo made a seer, far the best of mortals, after that Amphiaraus was dead. He removed to Hyperesia, having waxed wroth with his father,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "and there he dwelt and prophesied to all men. His son it was, Theoclymenus by name, who now came and stood by Telemachus; and he found him pouring libations and praying by his swift, black ship, and he spoke, and addressed him with winged words:"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "“Friend, since I find thee making burnt-offering in this place, I beseech thee by thine offerings and by the god, aye, and by thine own life and the lives of thy comrades who follow thee, tell me truly what I ask, and hide it not. Who art thou among men, and from whence? Where is thy city, and where thy parents?”"
+    }
+  ]
+}

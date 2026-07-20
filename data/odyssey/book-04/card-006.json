@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "πολλάκις ἐν μεγάροισι καθήμενος ἡμετέροισιν"
+    },
+    {
+      "n": 102,
+      "greek": "ἄλλοτε μέν τε γόῳ φρένα τέρπομαι, ἄλλοτε δʼ αὖτε"
+    },
+    {
+      "n": 103,
+      "greek": "παύομαι· αἰψηρὸς δὲ κόρος κρυεροῖο γόοιο."
+    },
+    {
+      "n": 104,
+      "greek": "τῶν πάντων οὐ τόσσον ὀδύρομαι, ἀχνύμενός περ,"
+    },
+    {
+      "n": 105,
+      "greek": "ὡς ἑνός, ὅς τέ μοι ὕπνον ἀπεχθαίρει καὶ ἐδωδὴν"
+    },
+    {
+      "n": 106,
+      "greek": "μνωομένῳ, ἐπεὶ οὔ τις Ἀχαιῶν τόσσʼ ἐμόγησεν,"
+    },
+    {
+      "n": 107,
+      "greek": "ὅσσʼ Ὀδυσεὺς ἐμόγησε καὶ ἤρατο. τῷ δʼ ἄρʼ ἔμελλεν"
+    },
+    {
+      "n": 108,
+      "greek": "αὐτῷ κήδεʼ ἔσεσθαι, ἐμοὶ δʼ ἄχος αἰὲν ἄλαστον"
+    },
+    {
+      "n": 109,
+      "greek": "κείνου, ὅπως δὴ δηρὸν ἀποίχεται, οὐδέ τι ἴδμεν,"
+    },
+    {
+      "n": 110,
+      "greek": "ζώει ὅ γʼ ἦ τέθνηκεν. ὀδύρονταί νύ που αὐτὸν"
+    },
+    {
+      "n": 111,
+      "greek": "Λαέρτης θʼ ὁ γέρων καὶ ἐχέφρων Πηνελόπεια"
+    },
+    {
+      "n": 112,
+      "greek": "Τηλέμαχός θʼ, ὃν ἔλειπε νέον γεγαῶτʼ ἐνὶ οἴκῳ."
+    },
+    {
+      "n": 113,
+      "greek": "ὣς φάτο, τῷ δʼ ἄρα πατρὸς ὑφʼ ἵμερον ὦρσε γόοιο."
+    },
+    {
+      "n": 114,
+      "greek": "δάκρυ δʼ ἀπὸ βλεφάρων χαμάδις βάλε πατρὸς ἀκούσας,"
+    },
+    {
+      "n": 115,
+      "greek": "χλαῖναν πορφυρέην ἄντʼ ὀφθαλμοῖιν ἀνασχὼν"
+    },
+    {
+      "n": 116,
+      "greek": "ἀμφοτέρῃσιν χερσί. νόησε δέ μιν Μενέλαος,"
+    },
+    {
+      "n": 117,
+      "greek": "μερμήριξε δʼ ἔπειτα κατὰ φρένα καὶ κατὰ θυμόν,"
+    },
+    {
+      "n": 118,
+      "greek": "ἠέ μιν αὐτὸν πατρὸς ἐάσειε μνησθῆναι"
+    },
+    {
+      "n": 119,
+      "greek": "ἦ πρῶτʼ ἐξερέοιτο ἕκαστά τε πειρήσαιτο."
+    },
+    {
+      "n": 120,
+      "greek": "ἧος ὁ ταῦθʼ ὥρμαινε κατὰ φρένα καὶ κατὰ θυμόν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "as for one only, who makes me to loathe both sleep and food, when I think of him; for no one of the Achaeans toiled so much as Odysseus toiled and endured. But to himself, as it seems, his portion was to be but woe, and for me there is sorrow never to be forgotten for him, in that he is gone so long, nor do we know aught"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "whether he be alive or dead. Mourned is he, I ween, by the old man Laertes, and by constant Penelope, and by Telemachus, whom he left a new-born child in his house.” So he spoke, and in Telemachus he roused the desire to weep for his father. Tears from his eyelids he let fall upon the ground, when he heard his father's name,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "and with both hands held up his purple cloak before his eyes. And Menelaus noted him, and debated in mind and heart whether he should leave him to speak of his father himself, or whether he should first question him and prove him in each thing."
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "While he pondered thus in mind and heart, forth then from her fragrant high-roofed chamber came Helen, like Artemis of the golden arrows; and with her came Adraste, and placed for her a chair, beautifully wrought, and Alcippe brought a rug of soft wool"
+    }
+  ]
+}

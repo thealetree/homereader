@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "δαμνᾷ, ἐπεί κε πρῶτα λίπῃ λεύκʼ ὀστέα θυμός,"
+    },
+    {
+      "n": 222,
+      "greek": "ψυχὴ δʼ ἠύτʼ ὄνειρος ἀποπταμένη πεπότηται."
+    },
+    {
+      "n": 223,
+      "greek": "ἀλλὰ φόωσδε τάχιστα λιλαίεο· ταῦτα δὲ πάντα"
+    },
+    {
+      "n": 224,
+      "greek": "ἴσθʼ, ἵνα καὶ μετόπισθε τεῇ εἴπῃσθα γυναικί."
+    },
+    {
+      "n": 225,
+      "greek": "νῶι μὲν ὣς ἐπέεσσιν ἀμειβόμεθʼ, αἱ δὲ γυναῖκες"
+    },
+    {
+      "n": 226,
+      "greek": "ἤλυθον, ὤτρυνεν γὰρ ἀγαυὴ Περσεφόνεια,"
+    },
+    {
+      "n": 227,
+      "greek": "ὅσσαι ἀριστήων ἄλοχοι ἔσαν ἠδὲ θύγατρες."
+    },
+    {
+      "n": 228,
+      "greek": "αἱ δʼ ἀμφʼ αἷμα κελαινὸν ἀολλέες ἠγερέθοντο,"
+    },
+    {
+      "n": 229,
+      "greek": "αὐτὰρ ἐγὼ βούλευον ὅπως ἐρέοιμι ἑκάστην."
+    },
+    {
+      "n": 230,
+      "greek": "ἥδε δέ μοι κατὰ θυμὸν ἀρίστη φαίνετο βουλή·"
+    },
+    {
+      "n": 231,
+      "greek": "σπασσάμενος τανύηκες ἄορ παχέος παρὰ μηροῦ"
+    },
+    {
+      "n": 232,
+      "greek": "οὐκ εἴων πίνειν ἅμα πάσας αἷμα κελαινόν."
+    },
+    {
+      "n": 233,
+      "greek": "αἱ δὲ προμνηστῖναι ἐπήισαν, ἠδὲ ἑκάστη"
+    },
+    {
+      "n": 234,
+      "greek": "ὃν γόνον ἐξαγόρευεν· ἐγὼ δʼ ἐρέεινον ἁπάσας."
+    },
+    {
+      "n": 235,
+      "greek": "ἔνθʼ ἦ τοι πρώτην Τυρὼ ἴδον εὐπατέρειαν,"
+    },
+    {
+      "n": 236,
+      "greek": "ἣ φάτο Σαλμωνῆος ἀμύμονος ἔκγονος εἶναι,"
+    },
+    {
+      "n": 237,
+      "greek": "φῆ δὲ Κρηθῆος γυνὴ ἔμμεναι Αἰολίδαο·"
+    },
+    {
+      "n": 238,
+      "greek": "ἣ ποταμοῦ ἠράσσατʼ Ἐνιπῆος θείοιο,"
+    },
+    {
+      "n": 239,
+      "greek": "ὃς πολὺ κάλλιστος ποταμῶν ἐπὶ γαῖαν ἵησι,"
+    },
+    {
+      "n": 240,
+      "greek": "καί ῥʼ ἐπʼ Ἐνιπῆος πωλέσκετο καλὰ ῥέεθρα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "“Thus we two talked with one another; and the women came, for august Persephone sent them forth, even all those that had been the wives and the daughters of chieftains. These flocked in throngs about the dark blood, and I considered how I might question each;"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "and this seemed to my mind the best counsel. I drew my long sword from beside my stout thigh, and would not suffer them to drink of the dark blood all at one time. So they drew near, one after the other, and each declared her birth, and I questioned them all."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "“Then verily the first that I saw was high-born Tyro, who said that she was the daughter of noble Salmoneus, and declared herself to be the wife of Cretheus, son of Aeolus. She became enamoured of the river, divine Enipeus, who is far the fairest of rivers that send forth their streams upon the earth,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "and she was wont to resort to the fair waters of Enipeus. But the Enfolder and Shaker of the earth took his form, and lay with her at the mouths of the eddying river. And the dark wave stood about them like a mountain, vaulted-over, and hid the god and the mortal woman."
+    }
+  ]
+}

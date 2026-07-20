@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "ξεῖνʼ, εἴ σʼ ὀτρύνει κραδίη καὶ θυμὸς ἀγήνωρ"
+    },
+    {
+      "n": 62,
+      "greek": "τοῦτον ἀλέξασθαι, τῶν δʼ ἄλλων μή τινʼ Ἀχαιῶν"
+    },
+    {
+      "n": 63,
+      "greek": "δείδιθʼ, ἐπεὶ πλεόνεσσι μαχήσεται ὅς κέ σε θείνῃ·"
+    },
+    {
+      "n": 64,
+      "greek": "ξεινοδόκος μὲν ἐγών, ἐπὶ δʼ αἰνεῖτον βασιλῆες,"
+    },
+    {
+      "n": 65,
+      "greek": "Ἀντίνοός τε καὶ Εὐρύμαχος, πεπνυμένω ἄμφω."
+    },
+    {
+      "n": 66,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπῄνεον· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 67,
+      "greek": "ζώσατο μὲν ῥάκεσιν περὶ μήδεα, φαῖνε δὲ μηροὺς"
+    },
+    {
+      "n": 68,
+      "greek": "καλούς τε μεγάλους τε, φάνεν δέ οἱ εὐρέες ὦμοι"
+    },
+    {
+      "n": 69,
+      "greek": "στήθεά τε στιβαροί τε βραχίονες· αὐτὰρ Ἀθήνη"
+    },
+    {
+      "n": 70,
+      "greek": "ἄγχι παρισταμένη μέλεʼ ἤλδανε ποιμένι λαῶν."
+    },
+    {
+      "n": 71,
+      "greek": "μνηστῆρες δʼ ἄρα πάντες ὑπερφιάλως ἀγάσαντο·"
+    },
+    {
+      "n": 72,
+      "greek": "ὧδε δέ τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄλλον·"
+    },
+    {
+      "n": 73,
+      "greek": "ἦ τάχα Ἶρος Ἄϊρος ἐπίσπαστον κακὸν ἕξει,"
+    },
+    {
+      "n": 74,
+      "greek": "οἵην ἐκ ῥακέων ὁ γέρων ἐπιγουνίδα φαίνει."
+    },
+    {
+      "n": 75,
+      "greek": "ὣς ἄρʼ ἔφαν, Ἴρῳ δὲ κακῶς ὠρίνετο θυμός."
+    },
+    {
+      "n": 76,
+      "greek": "ἀλλὰ καὶ ὣς δρηστῆρες ἄγον ζώσαντες ἀνάγκῃ"
+    },
+    {
+      "n": 77,
+      "greek": "δειδιότα· σάρκες δὲ περιτρομέοντο μέλεσσιν."
+    },
+    {
+      "n": 78,
+      "greek": "Ἀντίνοος δʼ ἐνένιπεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 79,
+      "greek": "νῦν μὲν μήτʼ εἴης, βουγάϊε, μήτε γένοιο,"
+    },
+    {
+      "n": 80,
+      "greek": "εἰ δὴ τοῦτόν γε τρομέεις καὶ δείδιας αἰνῶς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "Antinous and Eurymachus, men of prudence both.” So he spoke, and they all praised his words. But Odysseus girded his rags about his loins and showed his thighs, comely and great, and his broad shoulders came to view, and his chest and mighty arms. And Athena"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "drew nigh and made greater the limbs of the shepherd of the people. Then all the wooers marvelled exceedingly, and thus would one speak with a glance at his neighbor: “Right soon shall Irus, un-Irused, have a bane of his own bringing, such a thigh does yon old man show from beneath his rags.”"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "So they spoke, and the mind of Irus was miserably shaken; yet even so the serving men girded him, and led him out perforce all filled with dread, and his flesh trembled on his limbs. Then Antinous rated him and spoke, and addressed him: “Better were it now, thou braggart, that thou wert not living, nor hadst ever been born,"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "if thou quailest and art so terribly afraid of this fellow—a man that is old and overcome by the woe that has come upon him. But I will speak out to thee, and this word shall verily be brought to pass. If this fellow conquers thee and proves the better man, I will fling thee into a black ship and send thee to the mainland"
+    }
+  ]
+}

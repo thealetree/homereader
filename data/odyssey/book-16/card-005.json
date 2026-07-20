@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "πέμψω δʼ ὅππη μιν κραδίη θυμός τε κελεύει."
+    },
+    {
+      "n": 82,
+      "greek": "εἰ δʼ ἐθέλεις, σὺ κόμισσον ἐνὶ σταθμοῖσιν ἐρύξας·"
+    },
+    {
+      "n": 83,
+      "greek": "εἵματα δʼ ἐνθάδʼ ἐγὼ πέμψω καὶ σῖτον ἅπαντα"
+    },
+    {
+      "n": 84,
+      "greek": "ἔδμεναι, ὡς ἂν μή σε κατατρύχῃ καὶ ἑταίρους."
+    },
+    {
+      "n": 85,
+      "greek": "κεῖσε δʼ ἂν οὔ μιν ἐγώ γε μετὰ μνηστῆρας ἐῷμι"
+    },
+    {
+      "n": 86,
+      "greek": "ἔρχεσθαι· λίην γὰρ ἀτάσθαλον ὕβριν ἔχουσι·"
+    },
+    {
+      "n": 87,
+      "greek": "μή μιν κερτομέωσιν, ἐμοὶ δʼ ἄχος ἔσσεται αἰνόν."
+    },
+    {
+      "n": 88,
+      "greek": "πρῆξαι δʼ ἀργαλέον τι μετὰ πλεόνεσσιν ἐόντα"
+    },
+    {
+      "n": 89,
+      "greek": "ἄνδρα καὶ ἴφθιμον, ἐπεὶ ἦ πολὺ φέρτεροί εἰσι."
+    },
+    {
+      "n": 90,
+      "greek": "τὸν δʼ αὖτε προσέειπε πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 91,
+      "greek": "ὦ φίλʼ, ἐπεί θήν μοι καὶ ἀμείψασθαι θέμις ἐστίν,"
+    },
+    {
+      "n": 92,
+      "greek": "ἦ μάλα μευ καταδάπτετʼ ἀκούοντος φίλον ἦτορ,"
+    },
+    {
+      "n": 93,
+      "greek": "οἷά φατε μνηστῆρας ἀτάσθαλα μηχανάασθαι"
+    },
+    {
+      "n": 94,
+      "greek": "ἐν μεγάροις, ἀέκητι σέθεν τοιούτου ἐόντος."
+    },
+    {
+      "n": 95,
+      "greek": "εἰπέ μοι ἠὲ ἑκὼν ὑποδάμνασαι, ἦ σέ γε λαοὶ"
+    },
+    {
+      "n": 96,
+      "greek": "ἐχθαίρουσʼ ἀνὰ δῆμον, ἐπισπόμενοι θεοῦ ὀμφῇ,"
+    },
+    {
+      "n": 97,
+      "greek": "ἦ τι κασιγνήτοις ἐπιμέμφεαι, οἷσί περ ἀνὴρ"
+    },
+    {
+      "n": 98,
+      "greek": "μαρναμένοισι πέποιθε, καὶ εἰ μέγα νεῖκος ὄρηται."
+    },
+    {
+      "n": 99,
+      "greek": "αἲ γάρ ἐγὼν οὕτω νέος εἴην τῷδʼ ἐπὶ θυμῷ,"
+    },
+    {
+      "n": 100,
+      "greek": "ἢ παῖς ἐξ Ὀδυσῆος ἀμύμονος ἠὲ καὶ αὐτός·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "But thither will I not suffer him to go, to join the company of the wooers, for they are over-full of wanton insolence, lest they mock him, and dread grief come upon me. And to achieve aught is hard for one man among many, how mighty soever he be, for verily they are far stronger.”"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "Then the much-enduring, goodly Odysseus answered him: “Friend, since surely it is right for me to make answer—verily ye rend my heart, as I hear your words, such wantonness you say the wooers devise in the halls in despite of thee, so goodly a man."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "Tell me, art thou willingly thus oppressed? Or do the people throughout the land hate thee, following the voice of a god? Or hast thou cause to blame thy brothers, in whose fighting a man trusts even if a great strife arise. Would that with my present temper I were as young as thou,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "either the son of blameless Odysseus, or Odysseus himself, straightway then might some stranger cut my head from off my neck, if I did not prove myself the bane of them all when I had come to the halls of Odysseus, son of Laertes."
+    }
+  ]
+}

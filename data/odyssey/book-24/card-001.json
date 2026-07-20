@@ -1,0 +1,129 @@
+{
+  "book": 24,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "Ἑρμῆς δὲ ψυχὰς Κυλλήνιος ἐξεκαλεῖτο"
+    },
+    {
+      "n": 2,
+      "greek": "ἀνδρῶν μνηστήρων· ἔχε δὲ ῥάβδον μετὰ χερσὶν"
+    },
+    {
+      "n": 3,
+      "greek": "καλὴν χρυσείην, τῇ τʼ ἀνδρῶν ὄμματα θέλγει"
+    },
+    {
+      "n": 4,
+      "greek": "ὧν ἐθέλει, τοὺς δʼ αὖτε καὶ ὑπνώοντας ἐγείρει·"
+    },
+    {
+      "n": 5,
+      "greek": "τῇ ῥʼ ἄγε κινήσας, ταὶ δὲ τρίζουσαι ἕποντο."
+    },
+    {
+      "n": 6,
+      "greek": "ὡς δʼ ὅτε νυκτερίδες μυχῷ ἄντρου θεσπεσίοιο"
+    },
+    {
+      "n": 7,
+      "greek": "τρίζουσαι ποτέονται, ἐπεί κέ τις ἀποπέσῃσιν"
+    },
+    {
+      "n": 8,
+      "greek": "ὁρμαθοῦ ἐκ πέτρης, ἀνά τʼ ἀλλήλῃσιν ἔχονται,"
+    },
+    {
+      "n": 9,
+      "greek": "ὣς αἱ τετριγυῖαι ἅμʼ ἤϊσαν· ἦρχε δʼ ἄρα σφιν"
+    },
+    {
+      "n": 10,
+      "greek": "Ἑρμείας ἀκάκητα κατʼ εὐρώεντα κέλευθα."
+    },
+    {
+      "n": 11,
+      "greek": "πὰρ δʼ ἴσαν Ὠκεανοῦ τε ῥοὰς καὶ Λευκάδα πέτρην,"
+    },
+    {
+      "n": 12,
+      "greek": "ἠδὲ παρʼ Ἠελίοιο πύλας καὶ δῆμον ὀνείρων"
+    },
+    {
+      "n": 13,
+      "greek": "ἤϊσαν· αἶψα δʼ ἵκοντο κατʼ ἀσφοδελὸν λειμῶνα,"
+    },
+    {
+      "n": 14,
+      "greek": "ἔνθα τε ναίουσι ψυχαί, εἴδωλα καμόντων."
+    },
+    {
+      "n": 15,
+      "greek": "εὗρον δὲ ψυχὴν Πηληϊάδεω Ἀχιλῆος"
+    },
+    {
+      "n": 16,
+      "greek": "καὶ Πατροκλῆος καὶ ἀμύμονος Ἀντιλόχοιο"
+    },
+    {
+      "n": 17,
+      "greek": "Αἴαντός θʼ, ὃς ἄριστος ἔην εἶδός τε δέμας τε"
+    },
+    {
+      "n": 18,
+      "greek": "τῶν ἄλλων Δαναῶν μετʼ ἀμύμονα Πηλεΐδαο"
+    },
+    {
+      "n": 19,
+      "greek": "ὣς οἱ μὲν περὶ κεῖνον ὁμίλεον· ἀγχίμολον δὲ"
+    },
+    {
+      "n": 20,
+      "greek": "ἤλυθʼ ἔπι ψυχὴ Ἀγαμέμνονος Ἀτρεΐδαο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "Meanwhile Cyllenian Hermes called forth the spirits of the wooers. He held in his hands his wand, a fair wand of gold, wherewith he lulls to sleep the eyes of whom he will, while others again he wakens even out of slumber;"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "with this he roused and led the spirits, and they followed gibbering. And as in the innermost recess of a wondrous cave bats flit about gibbering, when one has fallen from off the rock from the chain in which they cling to one another, so these went with him gibbering, and"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "Hermes, the Helper, led them down the dank ways. Past the streams of Oceanus they went, past the rock Leucas, past the gates of the sun and the land of dreams, and quickly came to the mead of asphodel, where the spirits dwell, phantoms of men who have done with toils."
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "Here they found the spirit of Achilles, son of Peleus, and those of Patroclus, of peerless Antilochus, and of Aias, who in comeliness and form was the goodliest of all the Danaans after the peerless son of Peleus. So these were thronging about Achilles, and near to them"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "drew the spirit of Agamemnon, son of Atreus, sorrowing; and round about him others were gathered, the spirits of all those who were slain with him in the house of Aegisthus, and met their fate. And the spirit of the son of Peleus was first to address him, saying: “Son of Atreus, we deemed that thou"
+    }
+  ]
+}

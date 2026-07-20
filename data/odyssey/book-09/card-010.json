@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ἀλλʼ ὅτε δὴ τὸν χῶρον ἀφικόμεθʼ ἐγγὺς ἐόντα,"
+    },
+    {
+      "n": 182,
+      "greek": "ἔνθα δʼ ἐπʼ ἐσχατιῇ σπέος εἴδομεν ἄγχι θαλάσσης,"
+    },
+    {
+      "n": 183,
+      "greek": "ὑψηλόν, δάφνῃσι κατηρεφές. ἔνθα δὲ πολλὰ"
+    },
+    {
+      "n": 184,
+      "greek": "μῆλʼ, ὄιές τε καὶ αἶγες, ἰαύεσκον· περὶ δʼ αὐλὴ"
+    },
+    {
+      "n": 185,
+      "greek": "ὑψηλὴ δέδμητο κατωρυχέεσσι λίθοισι"
+    },
+    {
+      "n": 186,
+      "greek": "μακρῇσίν τε πίτυσσιν ἰδὲ δρυσὶν ὑψικόμοισιν."
+    },
+    {
+      "n": 187,
+      "greek": "ἔνθα δʼ ἀνὴρ ἐνίαυε πελώριος, ὅς ῥα τὰ μῆλα"
+    },
+    {
+      "n": 188,
+      "greek": "οἶος ποιμαίνεσκεν ἀπόπροθεν· οὐδὲ μετʼ ἄλλους"
+    },
+    {
+      "n": 189,
+      "greek": "πωλεῖτʼ, ἀλλʼ ἀπάνευθεν ἐὼν ἀθεμίστια ᾔδη."
+    },
+    {
+      "n": 190,
+      "greek": "καὶ γὰρ θαῦμʼ ἐτέτυκτο πελώριον, οὐδὲ ἐῴκει"
+    },
+    {
+      "n": 191,
+      "greek": "ἀνδρί γε σιτοφάγῳ, ἀλλὰ ῥίῳ ὑλήεντι"
+    },
+    {
+      "n": 192,
+      "greek": "ὑψηλῶν ὀρέων, ὅ τε φαίνεται οἶον ἀπʼ ἄλλων."
+    },
+    {
+      "n": 193,
+      "greek": "δὴ τότε τοὺς ἄλλους κελόμην ἐρίηρας ἑταίρους"
+    },
+    {
+      "n": 194,
+      "greek": "αὐτοῦ πὰρ νηί τε μένειν καὶ νῆα ἔρυσθαι,"
+    },
+    {
+      "n": 195,
+      "greek": "αὐτὰρ ἐγὼ κρίνας ἑτάρων δυοκαίδεκʼ ἀρίστους"
+    },
+    {
+      "n": 196,
+      "greek": "βῆν· ἀτὰρ αἴγεον ἀσκὸν ἔχον μέλανος οἴνοιο"
+    },
+    {
+      "n": 197,
+      "greek": "ἡδέος, ὅν μοι ἔδωκε Μάρων, Εὐάνθεος υἱός,"
+    },
+    {
+      "n": 198,
+      "greek": "ἱρεὺς Ἀπόλλωνος, ὃς Ἴσμαρον ἀμφιβεβήκει,"
+    },
+    {
+      "n": 199,
+      "greek": "οὕνεκά μιν σὺν παιδὶ περισχόμεθʼ ἠδὲ γυναικὶ"
+    },
+    {
+      "n": 200,
+      "greek": "ἁζόμενοι· ᾤκει γὰρ ἐν ἄλσεϊ δενδρήεντι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "a high court was built with stones set deep in the earth, and with tall pines and high-crested oaks. There a monstrous man was wont to sleep, who shepherded his flocks alone and afar, and mingled not with others, but lived apart, with his heart set on lawlessness."
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "For he was fashioned a wondrous monster, and was not like a man that lives by bread, but like a wooded peak of lofty mountains, which stands out to view alone, apart from the rest. “Then I bade the rest of my trusty comrades to remain there by the ship and to guard the ship,"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "but I chose twelve of the best of my comrades and went my way. With me I had a goat-skin of the dark, sweet wine, which Maro, son of Euanthes, had given me, the priest of Apollo, the god who used to watch over Ismarus. And he had given it me because we had protected him with his child and wife"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "out of reverence; for he dwelt in a wooded grove of Phoebus Apollo. And he gave me splendid gifts: of well-wrought gold he gave me seven talents, and he gave me a mixing-bowl all of silver; and besides these, wine, wherewith he filled twelve jars in all,"
+    }
+  ]
+}

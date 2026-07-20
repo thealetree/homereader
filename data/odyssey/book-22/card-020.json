@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "πάπτηνεν δʼ Ὀδυσεὺς καθʼ ἑὸν δόμον, εἴ τις ἔτʼ ἀνδρῶν"
+    },
+    {
+      "n": 382,
+      "greek": "ζωὸς ὑποκλοπέοιτο, ἀλύσκων κῆρα μέλαιναν."
+    },
+    {
+      "n": 383,
+      "greek": "τοὺς δὲ ἴδεν μάλα πάντας ἐν αἵματι καὶ κονίῃσι"
+    },
+    {
+      "n": 384,
+      "greek": "πεπτεῶτας πολλούς, ὥστʼ ἰχθύας, οὕς θʼ ἁλιῆες"
+    },
+    {
+      "n": 385,
+      "greek": "κοῖλον ἐς αἰγιαλὸν πολιῆς ἔκτοσθε θαλάσσης"
+    },
+    {
+      "n": 386,
+      "greek": "δικτύῳ ἐξέρυσαν πολυωπῷ· οἱ δέ τε πάντες"
+    },
+    {
+      "n": 387,
+      "greek": "κύμαθʼ ἁλὸς ποθέοντες ἐπὶ ψαμάθοισι κέχυνται·"
+    },
+    {
+      "n": 388,
+      "greek": "τῶν μέν τʼ Ἠέλιος φαέθων ἐξείλετο θυμόν·"
+    },
+    {
+      "n": 389,
+      "greek": "ὣς τότʼ ἄρα μνηστῆρες ἐπʼ ἀλλήλοισι κέχυντο."
+    },
+    {
+      "n": 390,
+      "greek": "δὴ τότε Τηλέμαχον προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 391,
+      "greek": "Τηλέμαχʼ, εἰ δʼ ἄγε μοι κάλεσον τροφὸν Εὐρύκλειαν,"
+    },
+    {
+      "n": 392,
+      "greek": "ὄφρα ἔπος εἴπωμι τό μοι καταθύμιόν ἐστιν."
+    },
+    {
+      "n": 393,
+      "greek": "ὣς φάτο, Τηλέμαχος δὲ φίλῳ ἐπεπείθετο πατρί,"
+    },
+    {
+      "n": 394,
+      "greek": "κινήσας δὲ θύρην προσέφη τροφὸν Εὐρύκλειαν·"
+    },
+    {
+      "n": 395,
+      "greek": "δεῦρο δὴ ὄρσο, γρηῢ παλαιγενές, ἥ τε γυναικῶν"
+    },
+    {
+      "n": 396,
+      "greek": "δμῳάων σκοπός ἐσσι κατὰ μέγαρʼ ἡμετεράων·"
+    },
+    {
+      "n": 397,
+      "greek": "ἔρχεο· κικλήσκει σε πατὴρ ἐμός, ὄφρα τι εἴπῃ."
+    },
+    {
+      "n": 398,
+      "greek": "ὣς ἄρʼ ἐφώνησεν, τῇ δʼ ἄπτερος ἔπλετο μῦθος,"
+    },
+    {
+      "n": 399,
+      "greek": "ὤϊξεν δὲ θύρας μεγάρων εὖ ναιεταόντων,"
+    },
+    {
+      "n": 400,
+      "greek": "βῆ δʼ ἴμεν· αὐτὰρ Τηλέμαχος πρόσθʼ ἡγεμόνευεν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "have drawn forth in the meshes of their net from the grey sea upon the curving beach, and they all lie heaped upon the sand, longing for the waves of the sea, and the bright sun takes away their life; even so now the wooers lay heaped upon each other."
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "Then Odysseus of many wiles spoke to Telemachus: “Telemachus, go call me the nurse Eurycleia, that I may tell her the word that is in my mind.” So he spoke, and Telemachus hearkened to his dear father, and shaking the door said to Eurycleia:"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "“Up and hither, aged wife, that hast charge of all our woman servants in the halls. Come, my father calls thee, that he may tell thee somewhat.” So he spoke, but her word remained unwinged; she opened the doors of the stately hall,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "and came forth, and Telemachus led the way before her. There she found Odysseus amid the bodies of the slain, all befouled with blood and filth, like a lion that comes from feeding on an ox of the farmstead, and all his breast and his cheeks on either side"
+    }
+  ]
+}

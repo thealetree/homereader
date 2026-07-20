@@ -1,0 +1,129 @@
+{
+  "book": 19,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "αὐτὰρ ὁ ἐν μεγάρῳ ὑπελείπετο δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 2,
+      "greek": "μνηστήρεσσι φόνον σὺν Ἀθήνῃ μερμηρίζων·"
+    },
+    {
+      "n": 3,
+      "greek": "αἶψα δὲ Τηλέμαχον ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 4,
+      "greek": "Τηλέμαχε, χρὴ τεύχεʼ ἀρήϊα κατθέμεν εἴσω"
+    },
+    {
+      "n": 5,
+      "greek": "πάντα μάλʼ· αὐτὰρ μνηστῆρας μαλακοῖς ἐπέεσσι"
+    },
+    {
+      "n": 6,
+      "greek": "παρφάσθαι, ὅτε κέν σε μεταλλῶσιν ποθέοντες·"
+    },
+    {
+      "n": 7,
+      "greek": "ἐκ καπνοῦ κατέθηκʼ, ἐπεὶ οὐκέτι τοῖσιν ἐῴκει"
+    },
+    {
+      "n": 8,
+      "greek": "οἷά ποτε Τροίηνδε κιὼν κατέλειπεν Ὀδυσσεύς,"
+    },
+    {
+      "n": 9,
+      "greek": "ἀλλὰ κατῄκισται, ὅσσον πυρὸς ἵκετʼ ἀϋτμή."
+    },
+    {
+      "n": 10,
+      "greek": "πρὸς δʼ ἔτι καὶ τόδε μεῖζον ἐνὶ φρεσὶν ἔβαλε δαίμων"
+    },
+    {
+      "n": 11,
+      "greek": "μή πως οἰνωθέντες, ἔριν στήσαντες ἐν ὑμῖν,"
+    },
+    {
+      "n": 12,
+      "greek": "ἀλλήλους τρώσητε καταισχύνητέ τε δαῖτα"
+    },
+    {
+      "n": 13,
+      "greek": "καὶ μνηστύν· αὐτὸς γὰρ ἐφέλκεται ἄνδρα σίδηρος."
+    },
+    {
+      "n": 14,
+      "greek": "ὣς φάτο, Τηλέμαχος δὲ φίλῳ ἐπεπείθετο πατρί,"
+    },
+    {
+      "n": 15,
+      "greek": "ἐκ δὲ καλεσσάμενος προσέφη τροφὸν Εὐρύκλειαν·"
+    },
+    {
+      "n": 16,
+      "greek": "μαῖʼ, ἄγε δή μοι ἔρυξον ἐνὶ μεγάροισι γυναῖκας,"
+    },
+    {
+      "n": 17,
+      "greek": "ὄφρα κεν ἐς θάλαμον καταθείομαι ἔντεα πατρὸς"
+    },
+    {
+      "n": 18,
+      "greek": "καλά, τά μοι κατὰ οἶκον ἀκηδέα καπνὸς ἀμέρδει"
+    },
+    {
+      "n": 19,
+      "greek": "πατρὸς ἀποιχομένοιο· ἐγὼ δʼ ἔτι νήπιος ἦα."
+    },
+    {
+      "n": 20,
+      "greek": "νῦν δʼ ἐθέλω καταθέσθαι, ἵνʼ οὐ πυρὸς ἵξετʼ ἀϋτμή."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "So goodly Odysseus was left behind in the hall, planning with Athena's aid the slaying of the wooers, and he straightway spoke winged words to Telemachus: “Telemachus, the weapons of war thou must needs lay away within"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "one and all, and when the wooers miss them and question thee, thou must beguile them with gentle words, saying: ‘Out of the smoke have I laid them, since they are no longer like those which of old Odysseus left behind him, when he went forth to Troy, but are all befouled, so far as the breath of fire has reached them."
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "And furthermore this greater fear has a god put in my heart, lest haply, when heated with wine, you may set a quarrel afoot among you, and wound one another, and so bring shame on your feast and on your wooing. For of itself does the iron draw a man to it.’” So he spoke, and Telemachus hearkened to his dear father,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "and calling forth the nurse Eurycleia, said to her: “Nurse, come now, I bid thee, shut up the women in their rooms, while I lay away in the store-room the weapons of my father, the goodly weapons which all uncared-for the smoke bedims in the hall since my father went forth, and I was still a child."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "But now I am minded to lay them away, where the breath of the fire will not come upon them.” Then the dear nurse Eurycleia answered him: “Aye, child, I would thou mightest ever take thought to care for the house and guard all its wealth. But come, who then shall fetch a light and bear it for thee,"
+    }
+  ]
+}

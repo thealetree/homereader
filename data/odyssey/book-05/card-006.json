@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "ἄσπετον; οὐδέ τις ἄγχι βροτῶν πόλις, οἵ τε θεοῖσιν"
+    },
+    {
+      "n": 102,
+      "greek": "ἱερά τε ῥέζουσι καὶ ἐξαίτους ἑκατόμβας."
+    },
+    {
+      "n": 103,
+      "greek": "ἀλλὰ μάλʼ οὔ πως ἔστι Διὸς νόον αἰγιόχοιο"
+    },
+    {
+      "n": 104,
+      "greek": "οὔτε παρεξελθεῖν ἄλλον θεὸν οὔθʼ ἁλιῶσαι."
+    },
+    {
+      "n": 105,
+      "greek": "φησί τοι ἄνδρα παρεῖναι ὀιζυρώτατον ἄλλων,"
+    },
+    {
+      "n": 106,
+      "greek": "τῶν ἀνδρῶν, οἳ ἄστυ πέρι Πριάμοιο μάχοντο"
+    },
+    {
+      "n": 107,
+      "greek": "εἰνάετες, δεκάτῳ δὲ πόλιν πέρσαντες ἔβησαν"
+    },
+    {
+      "n": 108,
+      "greek": "οἴκαδʼ· ἀτὰρ ἐν νόστῳ Ἀθηναίην ἀλίτοντο,"
+    },
+    {
+      "n": 109,
+      "greek": "ἥ σφιν ἐπῶρσʼ ἄνεμόν τε κακὸν καὶ κύματα μακρά."
+    },
+    {
+      "n": 110,
+      "greek": "ἔνθʼ ἄλλοι μὲν πάντες ἀπέφθιθεν ἐσθλοὶ ἑταῖροι,"
+    },
+    {
+      "n": 111,
+      "greek": "τὸν δʼ ἄρα δεῦρʼ ἄνεμός τε φέρων καὶ κῦμα πέλασσε."
+    },
+    {
+      "n": 112,
+      "greek": "τὸν νῦν σʼ ἠνώγειν ἀποπεμπέμεν ὅττι τάχιστα·"
+    },
+    {
+      "n": 113,
+      "greek": "οὐ γάρ οἱ τῇδʼ αἶσα φίλων ἀπονόσφιν ὀλέσθαι,"
+    },
+    {
+      "n": 114,
+      "greek": "ἀλλʼ ἔτι οἱ μοῖρʼ ἐστὶ φίλους τʼ ἰδέειν καὶ ἱκέσθαι"
+    },
+    {
+      "n": 115,
+      "greek": "οἶκον ἐς ὑψόροφον καὶ ἑὴν ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 116,
+      "greek": "ὣς φάτο, ῥίγησεν δὲ Καλυψώ, δῖα θεάων,"
+    },
+    {
+      "n": 117,
+      "greek": "καί μιν φωνήσασʼ ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 118,
+      "greek": "σχέτλιοί ἐστε, θεοί, ζηλήμονες ἔξοχον ἄλλων,"
+    },
+    {
+      "n": 119,
+      "greek": "οἵ τε θεαῖς ἀγάασθε παρʼ ἀνδράσιν εὐνάζεσθαι"
+    },
+    {
+      "n": 120,
+      "greek": "ἀμφαδίην, ἤν τίς τε φίλον ποιήσετʼ ἀκοίτην."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "He says that there is here with thee a man most wretched above all those warriors who around the city of Priam fought for nine years, and in the tenth year sacked the city and departed homeward. But on the way they sinned against Athena, and she sent upon them an evil wind and long waves."
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "There all the rest of his goodly comrades perished, but as for him, the wind and the wave, as they bore him, brought him hither. Him now Zeus bids thee to send on his way with all speed, for it is not his fate to perish here far from his friends, but it is still his lot to see his friends and reach"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "his high-roofed house and his native land.” So he spoke, and Calypso, the beautiful goddess, shuddered, and she spoke, and addressed him with winged words: “Cruel are ye, O ye gods, and quick to envy above all others, seeing that ye begrudge goddesses that they should mate with men"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "openly, if any takes a mortal as her dear bed-fellow. Thus, when rosy-fingered Dawn took to herself Orion, ye gods that live at ease begrudged her, till in Ortygia chaste Artemis of the golden throne assailed him with her gentle shafts and slew him."
+    }
+  ]
+}

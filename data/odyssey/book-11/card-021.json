@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "ἦέ σʼ ἀνάρσιοι ἄνδρες ἐδηλήσαντʼ ἐπὶ χέρσου"
+    },
+    {
+      "n": 402,
+      "greek": "βοῦς περιταμνόμενον ἠδʼ οἰῶν πώεα καλά,"
+    },
+    {
+      "n": 403,
+      "greek": "ἠὲ περὶ πτόλιος μαχεούμενον ἠδὲ γυναικῶν;"
+    },
+    {
+      "n": 404,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμειβόμενος προσέειπε·"
+    },
+    {
+      "n": 405,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 406,
+      "greek": "οὔτʼ ἐμέ γʼ ἐν νήεσσι Ποσειδάων ἐδάμασσεν"
+    },
+    {
+      "n": 407,
+      "greek": "ὄρσας ἀργαλέων ἀνέμων ἀμέγαρτον ἀυτμήν,"
+    },
+    {
+      "n": 408,
+      "greek": "οὔτε μʼ ἀνάρσιοι ἄνδρες ἐδηλήσαντʼ ἐπὶ χέρσου,"
+    },
+    {
+      "n": 409,
+      "greek": "ἀλλά μοι Αἴγισθος τεύξας θάνατόν τε μόρον τε"
+    },
+    {
+      "n": 410,
+      "greek": "ἔκτα σὺν οὐλομένῃ ἀλόχῳ, οἶκόνδε καλέσσας,"
+    },
+    {
+      "n": 411,
+      "greek": "δειπνίσσας, ὥς τίς τε κατέκτανε βοῦν ἐπὶ φάτνῃ."
+    },
+    {
+      "n": 412,
+      "greek": "ὣς θάνον οἰκτίστῳ θανάτῳ· περὶ δʼ ἄλλοι ἑταῖροι"
+    },
+    {
+      "n": 413,
+      "greek": "νωλεμέως κτείνοντο σύες ὣς ἀργιόδοντες,"
+    },
+    {
+      "n": 414,
+      "greek": "οἵ ῥά τʼ ἐν ἀφνειοῦ ἀνδρὸς μέγα δυναμένοιο"
+    },
+    {
+      "n": 415,
+      "greek": "ἢ γάμῳ ἢ ἐράνῳ ἢ εἰλαπίνῃ τεθαλυίῃ."
+    },
+    {
+      "n": 416,
+      "greek": "ἤδη μὲν πολέων φόνῳ ἀνδρῶν ἀντεβόλησας,"
+    },
+    {
+      "n": 417,
+      "greek": "μουνὰξ κτεινομένων καὶ ἐνὶ κρατερῇ ὑσμίνῃ·"
+    },
+    {
+      "n": 418,
+      "greek": "ἀλλά κε κεῖνα μάλιστα ἰδὼν ὀλοφύραο θυμῷ,"
+    },
+    {
+      "n": 419,
+      "greek": "ὡς ἀμφὶ κρητῆρα τραπέζας τε πληθούσας"
+    },
+    {
+      "n": 420,
+      "greek": "κείμεθʼ ἐνὶ μεγάρῳ, δάπεδον δʼ ἅπαν αἵματι θῦεν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "‘Son of Laertes, sprung from Zeus, Odysseus of many devices, neither did Poseidon smite me on board my ships, when he had roused a furious blast of cruel winds, nor did foemen work me harm on the land, but Aegisthus wrought for me death and fate,"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "and slew me with the aid of my accursed wife, when he had bidden me to his house and made me a feast, even as one slays an ox at the stall. So I died by a most pitiful death, and round about me the rest of my comrades were slain unceasingly like white-tusked swine, which are slaughtered in the house of a rich man of great might"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "at a marriage feast, or a joint meal, or a rich drinking-bout. Ere now thou hast been present at the slaying of many men, killed in single combat or in the press of the fight, but in heart thou wouldst have felt most pity hadst thou seen that sight, how about the mixing bowl and the laden tables"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "we lay in the hall, and the floor all swam with blood. But the most piteous cry that I heard was that of the daughter of Priam, Cassandra, whom guileful Clytemnestra slew by my side. And I sought to raise my hands and smite down the murderess, dying though I was, pierced through with the sword. But she, the shameless one,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "παιδνὸς ἐών· πρὸ γὰρ ἧκε πατὴρ ἄλλοι τε γέροντες."
+    },
+    {
+      "n": 22,
+      "greek": "Ἴφιτος αὖθʼ ἵππους διζήμενος, αἵ οἱ ὄλοντο"
+    },
+    {
+      "n": 23,
+      "greek": "δώδεκα θήλειαι, ὑπὸ δʼ ἡμίονοι ταλαεργοί·"
+    },
+    {
+      "n": 24,
+      "greek": "αἳ δή οἱ καὶ ἔπειτα φόνος καὶ μοῖρα γένοντο,"
+    },
+    {
+      "n": 25,
+      "greek": "ἐπεὶ δὴ Διὸς υἱὸν ἀφίκετο καρτερόθυμον,"
+    },
+    {
+      "n": 26,
+      "greek": "φῶθʼ Ἡρακλῆα, μεγάλων ἐπιίστορα ἔργων,"
+    },
+    {
+      "n": 27,
+      "greek": "ὅς μιν ξεῖνον ἐόντα κατέκτανεν ᾧ ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 28,
+      "greek": "σχέτλιος, οὐδὲ θεῶν ὄπιν ᾐδέσατʼ οὐδὲ τράπεζαν,"
+    },
+    {
+      "n": 29,
+      "greek": "τὴν ἥν οἱ παρέθηκεν· ἔπειτα δὲ πέφνε καὶ αὐτόν,"
+    },
+    {
+      "n": 30,
+      "greek": "ἵππους δʼ αὐτὸς ἔχε κρατερώνυχας ἐν μεγάροισι."
+    },
+    {
+      "n": 31,
+      "greek": "τὰς ἐρέων Ὀδυσῆϊ συνήντετο, δῶκε δὲ τόξον,"
+    },
+    {
+      "n": 32,
+      "greek": "τὸ πρὶν μέν ῥʼ ἐφόρει μέγας Εὔρυτος, αὐτὰρ ὁ παιδὶ"
+    },
+    {
+      "n": 33,
+      "greek": "κάλλιπʼ ἀποθνῄσκων ἐν δώμασιν ὑψηλοῖσι."
+    },
+    {
+      "n": 34,
+      "greek": "τῷ δʼ Ὀδυσεὺς ξίφος ὀξὺ καὶ ἄλκιμον ἔγχος ἔδωκεν,"
+    },
+    {
+      "n": 35,
+      "greek": "ἀρχὴν ξεινοσύνης προσκηδέος· οὐδὲ τραπέζῃ"
+    },
+    {
+      "n": 36,
+      "greek": "γνώτην ἀλλήλων· πρὶν γὰρ Διὸς υἱὸς ἔπεφνεν"
+    },
+    {
+      "n": 37,
+      "greek": "Ἴφιτον Εὐρυτίδην, ἐπιείκελον ἀθανάτοισιν,"
+    },
+    {
+      "n": 38,
+      "greek": "ὅς οἱ τόξον ἔδωκε. τὸ δʼ οὔ ποτε δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 39,
+      "greek": "ἐρχόμενος πόλεμόνδε μελαινάων ἐπὶ νηῶν"
+    },
+    {
+      "n": 40,
+      "greek": "ᾑρεῖτʼ, ἀλλʼ αὐτοῦ μνῆμα ξείνοιο φίλοιο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "when he came to the stout-hearted son of Zeus, the man Heracles, who well knew deeds of daring; for Heracles slew him, his guest though he was, in his own house, ruthlessly, and had regard neither for the wrath of the gods nor for the table which he had set before him, but slew the man thereafter,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "and himself kept the stout-hoofed mares in his halls. It was while asking for these that Iphitus met Odysseus, and gave him the bow, which of old great Eurytus had been wont to bear, and had left at his death to his son in his lofty house. And to Iphitus Odysseus gave a sharp sword and a mighty spear,"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "as the beginning of loving friendship; yet they never knew one another at the table, for ere that might be the son of Zeus had slain Iphitus, son of Eurytus, a man like unto the immortals, who gave Odysseus the bow. This bow goodly Odysseus, when going forth to war, would never"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "take with him on the black ships, but it lay in his halls at home as a memorial of a dear friend, and he carried it in his own land. Now when the fair lady had come to the store-room, and had stepped upon the threshold of oak, which of old the carpenter had skilfully planed and made straight to the line—"
+    }
+  ]
+}

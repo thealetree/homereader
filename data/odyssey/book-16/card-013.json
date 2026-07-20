@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 13,
+  "lineStart": 242,
+  "lineEnd": 261,
+  "lines": [
+    {
+      "n": 242,
+      "greek": "χεῖράς τʼ αἰχμητὴν ἔμεναι καὶ ἐπίφρονα βουλήν·"
+    },
+    {
+      "n": 243,
+      "greek": "ἀλλὰ λίην μέγα εἶπες· ἄγη μʼ ἔχει· οὐδέ κεν εἴη"
+    },
+    {
+      "n": 244,
+      "greek": "ἄνδρε δύω πολλοῖσι καὶ ἰφθίμοισι μάχεσθαι."
+    },
+    {
+      "n": 245,
+      "greek": "μνηστήρων δʼ οὔτʼ ἂρ δεκὰς ἀτρεκὲς οὔτε δύʼ οἶαι,"
+    },
+    {
+      "n": 246,
+      "greek": "ἀλλὰ πολὺ πλέονες· τάχα δʼ εἴσεαι ἐνθάδʼ ἀριθμόν."
+    },
+    {
+      "n": 247,
+      "greek": "ἐκ μὲν Δουλιχίοιο δύω καὶ πεντήκοντα"
+    },
+    {
+      "n": 248,
+      "greek": "κοῦροι κεκριμένοι, ἓξ δὲ δρηστῆρες ἕπονται·"
+    },
+    {
+      "n": 249,
+      "greek": "ἐκ δὲ Σάμης πίσυρές τε καὶ εἴκοσι φῶτες ἔασιν,"
+    },
+    {
+      "n": 250,
+      "greek": "ἐκ δὲ Ζακύνθου ἔασιν ἐείκοσι κοῦροι Ἀχαιῶν,"
+    },
+    {
+      "n": 251,
+      "greek": "ἐκ δʼ αὐτῆς Ἰθάκης δυοκαίδεκα πάντες ἄριστοι,"
+    },
+    {
+      "n": 252,
+      "greek": "καί σφιν ἅμʼ ἐστὶ Μέδων κῆρυξ καὶ θεῖος ἀοιδὸς"
+    },
+    {
+      "n": 253,
+      "greek": "καὶ δοιὼ θεράποντε, δαήμονε δαιτροσυνάων."
+    },
+    {
+      "n": 254,
+      "greek": "τῶν εἴ κεν πάντων ἀντήσομεν ἔνδον ἐόντων,"
+    },
+    {
+      "n": 255,
+      "greek": "μὴ πολύπικρα καὶ αἰνὰ βίας ἀποτίσεαι ἐλθών."
+    },
+    {
+      "n": 256,
+      "greek": "ἀλλὰ σύ γʼ, εἰ δύνασαί τινʼ ἀμύντορα μερμηρίξαι,"
+    },
+    {
+      "n": 257,
+      "greek": "φράζευ, ὅ κέν τις νῶϊν ἀμύνοι πρόφρονι θυμῷ."
+    },
+    {
+      "n": 258,
+      "greek": "τὸν δʼ αὖτε προσέειπε πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 259,
+      "greek": "τοιγὰρ ἐγὼν ἐρέω, σὺ δὲ σύνθεο καί μευ ἄκουσον·"
+    },
+    {
+      "n": 260,
+      "greek": "καὶ φράσαι ἤ κεν νῶϊν Ἀθήνη σὺν Διὶ πατρὶ"
+    },
+    {
+      "n": 261,
+      "greek": "ἀρκέσει, ἦέ τινʼ ἄλλον ἀμύντορα μερμηρίξω."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "For of the wooers there are not ten alone, or twice ten, but full many more. Here as we are shalt thou straightway learn their number. From Dulichium there are two and fifty chosen youths, and six serving men attend them; from Same came four and twenty men;"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "from Zacynthus there are twenty youths of the Achaeans; and from Ithaca itself twelve men, all of them the noblest, and with them is Medon, the herald, and the divine minstrel, and two squires skilled in carving meats. If we shall meet all these within the halls,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "bitter, I fear, and with bane will be thy coming to avenge violence. Nay, do thou consider, if thou canst bethink thee of any helper—one that would aid us two with a ready heart.” Then the much-enduring, goodly Odysseus answered him:“Well, then, I will tell thee, and do thou give heed and hearken to my words,"
+    },
+    {
+      "lines": [
+        260,
+        261
+      ],
+      "text": "and consider whether for us two Athena, with father Zeus, will be enough, or whether I shall bethink me of some other helper.” Then wise Telemachus answered him: “Good, thou mayest be sure, are these two helpers whom thou dost mention, though high in the clouds do they abide, and they"
+    }
+  ]
+}

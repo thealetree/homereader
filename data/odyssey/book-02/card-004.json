@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "λευγαλέοι τʼ ἐσόμεσθα καὶ οὐ δεδαηκότες ἀλκήν."
+    },
+    {
+      "n": 62,
+      "greek": "ἦ τʼ ἂν ἀμυναίμην, εἴ μοι δύναμίς γε παρείη."
+    },
+    {
+      "n": 63,
+      "greek": "οὐ γὰρ ἔτʼ ἀνσχετὰ ἔργα τετεύχαται, οὐδʼ ἔτι καλῶς"
+    },
+    {
+      "n": 64,
+      "greek": "οἶκος ἐμὸς διόλωλε. νεμεσσήθητε καὶ αὐτοί,"
+    },
+    {
+      "n": 65,
+      "greek": "ἄλλους τʼ αἰδέσθητε περικτίονας ἀνθρώπους,"
+    },
+    {
+      "n": 66,
+      "greek": "οἳ περιναιετάουσι· θεῶν δʼ ὑποδείσατε μῆνιν,"
+    },
+    {
+      "n": 67,
+      "greek": "μή τι μεταστρέψωσιν ἀγασσάμενοι κακὰ ἔργα."
+    },
+    {
+      "n": 68,
+      "greek": "λίσσομαι ἠμὲν Ζηνὸς Ὀλυμπίου ἠδὲ Θέμιστος,"
+    },
+    {
+      "n": 69,
+      "greek": "ἥ τʼ ἀνδρῶν ἀγορὰς ἠμὲν λύει ἠδὲ καθίζει·"
+    },
+    {
+      "n": 70,
+      "greek": "σχέσθε, φίλοι, καί μʼ οἶον ἐάσατε πένθεϊ λυγρῷ"
+    },
+    {
+      "n": 71,
+      "greek": "τείρεσθʼ, εἰ μή πού τι πατὴρ ἐμὸς ἐσθλὸς Ὀδυσσεὺς"
+    },
+    {
+      "n": 72,
+      "greek": "δυσμενέων κάκʼ ἔρεξεν ἐυκνήμιδας Ἀχαιούς,"
+    },
+    {
+      "n": 73,
+      "greek": "τῶν μʼ ἀποτινύμενοι κακὰ ῥέζετε δυσμενέοντες,"
+    },
+    {
+      "n": 74,
+      "greek": "τούτους ὀτρύνοντες. ἐμοὶ δέ κε κέρδιον εἴη"
+    },
+    {
+      "n": 75,
+      "greek": "ὑμέας ἐσθέμεναι κειμήλιά τε πρόβασίν τε."
+    },
+    {
+      "n": 76,
+      "greek": "εἴ χʼ ὑμεῖς γε φάγοιτε, τάχʼ ἄν ποτε καὶ τίσις εἴη·"
+    },
+    {
+      "n": 77,
+      "greek": "τόφρα γὰρ ἂν κατὰ ἄστυ ποτιπτυσσοίμεθα μύθῳ"
+    },
+    {
+      "n": 78,
+      "greek": "χρήματʼ ἀπαιτίζοντες, ἕως κʼ ἀπὸ πάντα δοθείη·"
+    },
+    {
+      "n": 79,
+      "greek": "νῦν δέ μοι ἀπρήκτους ὀδύνας ἐμβάλλετε θυμῷ."
+    },
+    {
+      "n": 80,
+      "greek": "ὣς φάτο χωόμενος, ποτὶ δὲ σκῆπτρον βάλε γαίῃ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "and have regard to your neighbors who dwell roundabout, and fear the wrath of the gods, lest haply they turn against you in anger at your evil deeds. I pray you by Olympian Zeus, and by Themis who looses and gathers the assemblies of men,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "forbear, my friends, and leave me alone to pine in bitter grief—unless indeed my father, goodly Odysseus, despitefully wrought the well-greaved Achaeans woe, in requital whereof ye work me woe despitefully by urging these men on. For me it were better"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "that ye should yourselves eat up my treasures and my flocks. If ye were to devour them, recompense would haply be made some day; for just so long should we go up and down the city, pressing our suit and asking back our goods, until all was given back. But now past cure are the woes ye put upon my heart.”"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "Thus he spoke in wrath, and dashed the staff down upon the ground, bursting into tears; and pity fell upon all the people. Then all the others kept silent, and no man had the heart to answer Telemachus with angry words. Antinous alone answered him, and said:"
+    }
+  ]
+}

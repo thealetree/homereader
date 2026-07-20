@@ -1,0 +1,129 @@
+{
+  "book": 9,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 2,
+      "greek": "Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν,"
+    },
+    {
+      "n": 3,
+      "greek": "ἦ τοι μὲν τόδε καλὸν ἀκουέμεν ἐστὶν ἀοιδοῦ"
+    },
+    {
+      "n": 4,
+      "greek": "τοιοῦδʼ οἷος ὅδʼ ἐστί, θεοῖς ἐναλίγκιος αὐδήν."
+    },
+    {
+      "n": 5,
+      "greek": "οὐ γὰρ ἐγώ γέ τί φημι τέλος χαριέστερον εἶναι"
+    },
+    {
+      "n": 6,
+      "greek": "ἢ ὅτʼ ἐυφροσύνη μὲν ἔχῃ κάτα δῆμον ἅπαντα,"
+    },
+    {
+      "n": 7,
+      "greek": "δαιτυμόνες δʼ ἀνὰ δώματʼ ἀκουάζωνται ἀοιδοῦ"
+    },
+    {
+      "n": 8,
+      "greek": "ἥμενοι ἑξείης, παρὰ δὲ πλήθωσι τράπεζαι"
+    },
+    {
+      "n": 9,
+      "greek": "σίτου καὶ κρειῶν, μέθυ δʼ ἐκ κρητῆρος ἀφύσσων"
+    },
+    {
+      "n": 10,
+      "greek": "οἰνοχόος φορέῃσι καὶ ἐγχείῃ δεπάεσσι·"
+    },
+    {
+      "n": 11,
+      "greek": "τοῦτό τί μοι κάλλιστον ἐνὶ φρεσὶν εἴδεται εἶναι."
+    },
+    {
+      "n": 12,
+      "greek": "σοὶ δʼ ἐμὰ κήδεα θυμὸς ἐπετράπετο στονόεντα"
+    },
+    {
+      "n": 13,
+      "greek": "εἴρεσθʼ, ὄφρʼ ἔτι μᾶλλον ὀδυρόμενος στεναχίζω·"
+    },
+    {
+      "n": 14,
+      "greek": "τί πρῶτόν τοι ἔπειτα, τί δʼ ὑστάτιον καταλέξω;"
+    },
+    {
+      "n": 15,
+      "greek": "κήδεʼ ἐπεί μοι πολλὰ δόσαν θεοὶ Οὐρανίωνες."
+    },
+    {
+      "n": 16,
+      "greek": "νῦν δʼ ὄνομα πρῶτον μυθήσομαι, ὄφρα καὶ ὑμεῖς"
+    },
+    {
+      "n": 17,
+      "greek": "εἴδετʼ, ἐγὼ δʼ ἂν ἔπειτα φυγὼν ὕπο νηλεὲς ἦμαρ"
+    },
+    {
+      "n": 18,
+      "greek": "ὑμῖν ξεῖνος ἔω καὶ ἀπόπροθι δώματα ναίων."
+    },
+    {
+      "n": 19,
+      "greek": "εἴμʼ Ὀδυσεὺς Λαερτιάδης, ὃς πᾶσι δόλοισιν"
+    },
+    {
+      "n": 20,
+      "greek": "ἀνθρώποισι μέλω, καί μευ κλέος οὐρανὸν ἵκει."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "Then Odysseus, of many wiles, answered him, and said: “Lord Alcinous, renowned above all men, verily this is a good thing, to listen to a minstrel such as this man is, like unto the gods in voice."
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "For myself I declare that there is no greater fulfillment of delight than when joy possesses a whole people, and banqueters in the halls listen to a minstrel as they sit in order due, and by them tables are laden with bread and meat, and the cup-bearer draws wine from the bowl"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "and bears it round and pours it into the cups. This seems to my mind the fairest thing there is. But thy heart is turned to ask of my grievous woes, that I may weep and groan the more. What, then, shall I tell thee first, what last?"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "for woes full many have the heavenly gods given me. First now will I tell my name, that ye, too, may know it, and that I hereafter, when I have escaped from the pitiless day of doom, may be your host, though I dwell in a home that is afar. I am Odysseus, son of Laertes, who"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "am known among men for all manner of wiles, and my fame reaches unto heaven. But I dwell in clear-seen Ithaca, wherein is a mountain, Neriton, covered with waving forests, conspicuous from afar; and round it lie many isles hard by one another, Dulichium, and Same, and wooded Zacynthus."
+    }
+  ]
+}

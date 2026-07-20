@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "τόν ῥά οἱ Εὐρύκλεια φίλοις ἐπὶ γούνασι θῆκε"
+    },
+    {
+      "n": 402,
+      "greek": "παυομένῳ δόρποιο, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 403,
+      "greek": "Αὐτόλυκʼ, αὐτὸς νῦν ὄνομʼ εὕρεο ὅττι κε θῆαι"
+    },
+    {
+      "n": 404,
+      "greek": "παιδὸς παιδὶ φίλῳ· πολυάρητος δέ τοί ἐστιν."
+    },
+    {
+      "n": 405,
+      "greek": "τὴν δʼ αὖτʼ Αὐτόλυκος ἀπαμείβετο φώνησέν τε·"
+    },
+    {
+      "n": 406,
+      "greek": "γαμβρὸς ἐμὸς θυγάτηρ τε, τίθεσθʼ ὄνομʼ ὅττι κεν εἴπω·"
+    },
+    {
+      "n": 407,
+      "greek": "πολλοῖσιν γὰρ ἐγώ γε ὀδυσσάμενος τόδʼ ἱκάνω,"
+    },
+    {
+      "n": 408,
+      "greek": "ἀνδράσιν ἠδὲ γυναιξὶν ἀνὰ χθόνα πουλυβότειραν·"
+    },
+    {
+      "n": 409,
+      "greek": "τῷ δʼ Ὀδυσεὺς ὄνομʼ ἔστω ἐπώνυμον· αὐτὰρ ἐγώ γε,"
+    },
+    {
+      "n": 410,
+      "greek": "ὁππότʼ ἂν ἡβήσας μητρώϊον ἐς μέγα δῶμα"
+    },
+    {
+      "n": 411,
+      "greek": "ἔλθῃ Παρνησόνδʼ, ὅθι πού μοι κτήματʼ ἔασι,"
+    },
+    {
+      "n": 412,
+      "greek": "τῶν οἱ ἐγὼ δώσω καί μιν χαίροντʼ ἀποπέμψω."
+    },
+    {
+      "n": 413,
+      "greek": "τῶν ἕνεκʼ ἦλθʼ Ὀδυσεύς, ἵνα οἱ πόροι ἀγλαὰ δῶρα."
+    },
+    {
+      "n": 414,
+      "greek": "τὸν μὲν ἄρʼ Αὐτόλυκός τε καὶ υἱέες Αὐτολύκοιο"
+    },
+    {
+      "n": 415,
+      "greek": "χερσίν τʼ ἠσπάζοντο ἔπεσσί τε μειλιχίοισι·"
+    },
+    {
+      "n": 416,
+      "greek": "μήτηρ δʼ Ἀμφιθέη μητρὸς περιφῦσʼ Ὀδυσῆϊ"
+    },
+    {
+      "n": 417,
+      "greek": "κύσσʼ ἄρα μιν κεφαλήν τε καὶ ἄμφω φάεα καλά."
+    },
+    {
+      "n": 418,
+      "greek": "Αὐτόλυκος δʼ υἱοῖσιν ἐκέκλετο κυδαλίμοισι"
+    },
+    {
+      "n": 419,
+      "greek": "δεῖπνον ἐφοπλίσσαι· τοὶ δʼ ὀτρύνοντος ἄκουσαν,"
+    },
+    {
+      "n": 420,
+      "greek": "αὐτίκα δʼ εἰσάγαγον βοῦν ἄρσενα πενταέτηρον·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "Then Autolycus answered her, and said: “My daughter's husband and my daughter, give him whatsoever name I say. Lo, inasmuch as I am come hither as one that has been angered with many, both men and women, over the fruitful earth, therefore let the name by which the child is named be Odysseus. And for my part,"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "when he is a man grown and comes to the great house of his mother's kin at Parnassus, where are my possessions, I will give him thereof and send him back rejoicing.” It was for this reason that Odysseus had come, that Autolycus might give him the glorious gifts. And Autolycus and the sons of Autolycus"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "clasped his hands in welcome and greeted him with gentle words, and Amphithea, his mother's mother, took Odysseus in her arms and kissed his head and both his beautiful eyes. But Autolycus called to his glorious sons to make ready the meal, and they hearkened to his call."
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "At once they led in a bull, five years old, which they flayed and dressed, and cut up all the limbs. Then they sliced these cunningly and pierced them with spits, and roasted them skilfully and distributed the portions. So, then, all day long till set of sun"
+    }
+  ]
+}

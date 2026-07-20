@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "ὤλονθʼ· οἱ δʼ ἄλλοι φύγομεν θάνατόν τε μόρον τε."
+    },
+    {
+      "n": 62,
+      "greek": "ἔνθεν δὲ προτέρω πλέομεν ἀκαχήμενοι ἦτορ,"
+    },
+    {
+      "n": 63,
+      "greek": "ἄσμενοι ἐκ θανάτοιο, φίλους ὀλέσαντες ἑταίρους."
+    },
+    {
+      "n": 64,
+      "greek": "οὐδʼ ἄρα μοι προτέρω νῆες κίον ἀμφιέλισσαι,"
+    },
+    {
+      "n": 65,
+      "greek": "πρίν τινα τῶν δειλῶν ἑτάρων τρὶς ἕκαστον ἀῦσαι,"
+    },
+    {
+      "n": 66,
+      "greek": "οἳ θάνον ἐν πεδίῳ Κικόνων ὕπο δῃωθέντες."
+    },
+    {
+      "n": 67,
+      "greek": "νηυσὶ δʼ ἐπῶρσʼ ἄνεμον Βορέην νεφεληγερέτα Ζεὺς"
+    },
+    {
+      "n": 68,
+      "greek": "λαίλαπι θεσπεσίῃ, σὺν δὲ νεφέεσσι κάλυψε"
+    },
+    {
+      "n": 69,
+      "greek": "γαῖαν ὁμοῦ καὶ πόντον· ὀρώρει δʼ οὐρανόθεν νύξ."
+    },
+    {
+      "n": 70,
+      "greek": "αἱ μὲν ἔπειτʼ ἐφέροντʼ ἐπικάρσιαι, ἱστία δέ σφιν"
+    },
+    {
+      "n": 71,
+      "greek": "τριχθά τε καὶ τετραχθὰ διέσχισεν ἲς ἀνέμοιο."
+    },
+    {
+      "n": 72,
+      "greek": "καὶ τὰ μὲν ἐς νῆας κάθεμεν, δείσαντες ὄλεθρον,"
+    },
+    {
+      "n": 73,
+      "greek": "αὐτὰς δʼ ἐσσυμένως προερέσσαμεν ἤπειρόνδε."
+    },
+    {
+      "n": 74,
+      "greek": "ἔνθα δύω νύκτας δύο τʼ ἤματα συνεχὲς αἰεὶ"
+    },
+    {
+      "n": 75,
+      "greek": "κείμεθʼ, ὁμοῦ καμάτῳ τε καὶ ἄλγεσι θυμὸν ἔδοντες."
+    },
+    {
+      "n": 76,
+      "greek": "ἀλλʼ ὅτε δὴ τρίτον ἦμαρ ἐυπλόκαμος τέλεσʼ Ἠώς,"
+    },
+    {
+      "n": 77,
+      "greek": "ἱστοὺς στησάμενοι ἀνά θʼ ἱστία λεύκʼ ἐρύσαντες"
+    },
+    {
+      "n": 78,
+      "greek": "ἥμεθα, τὰς δʼ ἄνεμός τε κυβερνῆταί τʼ ἴθυνον."
+    },
+    {
+      "n": 79,
+      "greek": "καί νύ κεν ἀσκηθὴς ἱκόμην ἐς πατρίδα γαῖαν·"
+    },
+    {
+      "n": 80,
+      "greek": "ἀλλά με κῦμα ῥόος τε περιγνάμπτοντα Μάλειαν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "till we had called thrice on each of those hapless comrades of ours who died on the plain, cut down by the Cicones. But against our ships Zeus, the cloud-gatherer, roused the North Wind with a wondrous tempest, and hid with clouds the land and the sea alike, and night rushed down from heaven."
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "Then the ships were driven headlong, and their sails were torn to shreds by the violence of the wind. So we lowered the sails and stowed them aboard, in fear of death, and rowed the ships hurriedly toward the land. There for two nights and two days continuously"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "we lay, eating our hearts for weariness and sorrow. But when now fair-tressed Dawn brought to its birth the third day, we set up the masts and hoisted the white sails, and took our seats, and the wind and the helmsmen steered the ships. And now all unscathed should I have reached my native land,"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "but the wave and the current and the North Wind beat me back as I was rounding Malea, and drove me from my course past Cythera. “Thence for nine days' space I was borne by direful winds over the teeming deep; but on the tenth we set foot on the land of the Lotus-eaters, who eat a flowery food."
+    }
+  ]
+}

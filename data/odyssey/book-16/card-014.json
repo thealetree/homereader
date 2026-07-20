@@ -1,0 +1,115 @@
+{
+  "book": 16,
+  "card": 14,
+  "lineStart": 262,
+  "lineEnd": 281,
+  "lines": [
+    {
+      "n": 262,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 263,
+      "greek": "ἐσθλώ τοι τούτω γʼ ἐπαμύντορε, τοὺς ἀγορεύεις,"
+    },
+    {
+      "n": 264,
+      "greek": "ὕψι περ ἐν νεφέεσσι καθημένω· ὥ τε καὶ ἄλλοις"
+    },
+    {
+      "n": 265,
+      "greek": "ἀνδράσι τε κρατέουσι καὶ ἀθανάτοισι θεοῖσι."
+    },
+    {
+      "n": 266,
+      "greek": "τὸν δʼ αὖτε προσέειπε πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 267,
+      "greek": "οὐ μέν τοι κείνω γε πολὺν χρόνον ἀμφὶς ἔσεσθον"
+    },
+    {
+      "n": 268,
+      "greek": "φυλόπιδος κρατερῆς, ὁπότε μνηστῆρσι καὶ ἡμῖν"
+    },
+    {
+      "n": 269,
+      "greek": "ἐν μεγάροισιν ἐμοῖσι μένος κρίνηται Ἄρηος."
+    },
+    {
+      "n": 270,
+      "greek": "ἀλλὰ σὺ μὲν νῦν ἔρχευ ἅμʼ ἠοῖ φαινομένηφιν"
+    },
+    {
+      "n": 271,
+      "greek": "οἴκαδε, καὶ μνηστῆρσιν ὑπερφιάλοισιν ὁμίλει·"
+    },
+    {
+      "n": 272,
+      "greek": "αὐτὰρ ἐμὲ προτὶ ἄστυ συβώτης ὕστερον ἄξει,"
+    },
+    {
+      "n": 273,
+      "greek": "πτωχῷ λευγαλέῳ ἐναλίγκιον ἠδὲ γέροντι."
+    },
+    {
+      "n": 274,
+      "greek": "εἰ δέ μʼ ἀτιμήσουσι δόμον κάτα, σὸν δὲ φίλον κῆρ"
+    },
+    {
+      "n": 275,
+      "greek": "τετλάτω ἐν στήθεσσι κακῶς πάσχοντος ἐμεῖο,"
+    },
+    {
+      "n": 276,
+      "greek": "ἤν περ καὶ διὰ δῶμα ποδῶν ἕλκωσι θύραζε"
+    },
+    {
+      "n": 277,
+      "greek": "ἢ βέλεσι βάλλωσι· σὺ δʼ εἰσορόων ἀνέχεσθαι."
+    },
+    {
+      "n": 278,
+      "greek": "ἀλλʼ ἦ τοι παύεσθαι ἀνωγέμεν ἀφροσυνάων,"
+    },
+    {
+      "n": 279,
+      "greek": "μειλιχίοις ἐπέεσσι παραυδῶν· οἱ δέ τοι οὔ τι"
+    },
+    {
+      "n": 280,
+      "greek": "πείσονται· δὴ γάρ σφι παρίσταται αἴσιμον ἦμαρ."
+    },
+    {
+      "n": 281,
+      "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "rule over all men alike and the immortal gods.” Then the much-enduring, goodly Odysseus answered: “Not long of a surety will those two hold aloof from the mighty fray, when between the wooers and us in my halls the might of Ares is put to the test."
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "But for the present, do thou go at daybreak to thy house and join the company of the haughty wooers. As for me, the swineherd will lead me later on to the city in the likeness of a woeful and aged beggar. And if they shall put despite on me in the house,"
+    },
+    {
+      "lines": [
+        275,
+        281
+      ],
+      "text": "let the heart in thy breast endure while I am evil entreated, even if they drag me by the feet through the house to the door, or hurl at me and smite me; still do thou endure to behold it. Thou shalt indeed bid them cease their folly, seeking to dissuade them with gentle words; yet in no wise"
+    }
+  ]
+}

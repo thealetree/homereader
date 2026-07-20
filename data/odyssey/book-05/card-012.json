@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "εἰ δʼ αὖ τις ῥαίῃσι θεῶν ἐνὶ οἴνοπι πόντῳ,"
+    },
+    {
+      "n": 222,
+      "greek": "τλήσομαι ἐν στήθεσσιν ἔχων ταλαπενθέα θυμόν·"
+    },
+    {
+      "n": 223,
+      "greek": "ἤδη γὰρ μάλα πολλὰ πάθον καὶ πολλὰ μόγησα"
+    },
+    {
+      "n": 224,
+      "greek": "κύμασι καὶ πολέμῳ· μετὰ καὶ τόδε τοῖσι γενέσθω."
+    },
+    {
+      "n": 225,
+      "greek": "ὣς ἔφατʼ, ἠέλιος δʼ ἄρʼ ἔδυ καὶ ἐπὶ κνέφας ἦλθεν·"
+    },
+    {
+      "n": 226,
+      "greek": "ἐλθόντες δʼ ἄρα τώ γε μυχῷ σπείους γλαφυροῖο"
+    },
+    {
+      "n": 227,
+      "greek": "τερπέσθην φιλότητι, παρʼ ἀλλήλοισι μένοντες."
+    },
+    {
+      "n": 228,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 229,
+      "greek": "αὐτίχʼ ὁ μὲν χλαῖνάν τε χιτῶνά τε ἕννυτʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 230,
+      "greek": "αὐτὴ δʼ ἀργύφεον φᾶρος μέγα ἕννυτο νύμφη,"
+    },
+    {
+      "n": 231,
+      "greek": "λεπτὸν καὶ χαρίεν, περὶ δὲ ζώνην βάλετʼ ἰξυῖ"
+    },
+    {
+      "n": 232,
+      "greek": "καλὴν χρυσείην, κεφαλῇ δʼ ἐφύπερθε καλύπτρην."
+    },
+    {
+      "n": 233,
+      "greek": "καὶ τότʼ Ὀδυσσῆι μεγαλήτορι μήδετο πομπήν·"
+    },
+    {
+      "n": 234,
+      "greek": "δῶκέν οἱ πέλεκυν μέγαν, ἄρμενον ἐν παλάμῃσι,"
+    },
+    {
+      "n": 235,
+      "greek": "χάλκεον, ἀμφοτέρωθεν ἀκαχμένον· αὐτὰρ ἐν αὐτῷ"
+    },
+    {
+      "n": 236,
+      "greek": "στειλειὸν περικαλλὲς ἐλάινον, εὖ ἐναρηρός·"
+    },
+    {
+      "n": 237,
+      "greek": "δῶκε δʼ ἔπειτα σκέπαρνον ἐύξοον· ἦρχε δʼ ὁδοῖο"
+    },
+    {
+      "n": 238,
+      "greek": "νήσου ἐπʼ ἐσχατιῆς, ὅθι δένδρεα μακρὰ πεφύκει,"
+    },
+    {
+      "n": 239,
+      "greek": "κλήθρη τʼ αἴγειρός τʼ, ἐλάτη τʼ ἦν οὐρανομήκης,"
+    },
+    {
+      "n": 240,
+      "greek": "αὖα πάλαι, περίκηλα, τά οἱ πλώοιεν ἐλαφρῶς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "So he spoke, and the sun set and darkness came on. And the two went into the innermost recess of the hollow cave, and took their joy of love, abiding each by the other's side. As soon as early Dawn appeared, the rosy-fingered, straightway Odysseus put on a cloak and a tunic,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "and the nymph clothed herself in a long white robe, finely woven and beautiful, and about her waist she cast a fair girdle of gold, and on her head a veil above. Then she set herself to plan the sending of the great-hearted Odysseus. She gave him a great axe, well fitted to his hands,"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "an axe of bronze, sharpened on both sides; and in it was a beautiful handle of olive wood, securely fastened; and thereafter she gave him a polished adze. Then she led the way to the borders of the island where tall trees were standing, alder and popular and fir, reaching to the skies,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "long dry and well-seasoned, which would float for him lightly. But when she had shewn him where the tall trees grew, Calypso, the beautiful goddess, returned homewards, but he fell to cutting timbers, and his work went forward apace. Twenty trees in all did he fell, and trimmed them with the axe;"
+    }
+  ]
+}

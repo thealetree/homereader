@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ὣς ἄρʼ ἔφη, γρηῢς δὲ κατέσχετο χερσὶ πρόσωπα,"
+    },
+    {
+      "n": 362,
+      "greek": "δάκρυα δʼ ἔκβαλε θερμά, ἔπος δʼ ὀλοφυδνὸν ἔειπεν·"
+    },
+    {
+      "n": 363,
+      "greek": "ὤ μοι ἐγὼ σέο, τέκνον, ἀμήχανος· ἦ σε περὶ Ζεὺς"
+    },
+    {
+      "n": 364,
+      "greek": "ἀνθρώπων ἤχθηρε θεουδέα θυμὸν ἔχοντα."
+    },
+    {
+      "n": 365,
+      "greek": "οὐ γάρ πώ τις τόσσα βροτῶν Διὶ τερπικεραύνῳ"
+    },
+    {
+      "n": 366,
+      "greek": "πίονα μηρίʼ ἔκηʼ οὐδʼ ἐξαίτους ἑκατόμβας,"
+    },
+    {
+      "n": 367,
+      "greek": "ὅσσα σὺ τῷ ἐδίδους, ἀρώμενος ἧος ἵκοιο"
+    },
+    {
+      "n": 368,
+      "greek": "γῆράς τε λιπαρὸν θρέψαιό τε φαίδιμον υἱόν·"
+    },
+    {
+      "n": 369,
+      "greek": "νῦν δέ τοι οἴῳ πάμπαν ἀφείλετο νόστιμον ἦμαρ."
+    },
+    {
+      "n": 370,
+      "greek": "οὕτω που καὶ κείνῳ ἐφεψιόωντο γυναῖκες"
+    },
+    {
+      "n": 371,
+      "greek": "ξείνων τηλεδαπῶν, ὅτε τευ κλυτὰ δώμαθʼ ἵκοιτο,"
+    },
+    {
+      "n": 372,
+      "greek": "ὡς σέθεν αἱ κύνες αἵδε καθεψιόωνται ἅπασαι,"
+    },
+    {
+      "n": 373,
+      "greek": "τάων νῦν λώβην τε καὶ αἴσχεα πόλλʼ ἀλεείνων"
+    },
+    {
+      "n": 374,
+      "greek": "οὐκ ἐάας νίζειν· ἐμὲ δʼ οὐκ ἀέκουσαν ἄνωγε"
+    },
+    {
+      "n": 375,
+      "greek": "κούρη Ἰκαρίοιο, περίφρων Πηνελόπεια."
+    },
+    {
+      "n": 376,
+      "greek": "τῷ σε πόδας νίψω ἅμα τʼ αὐτῆς Πηνελοπείης"
+    },
+    {
+      "n": 377,
+      "greek": "καὶ σέθεν εἵνεκʼ, ἐπεί μοι ὀρώρεται ἔνδοθι θυμὸς"
+    },
+    {
+      "n": 378,
+      "greek": "κήδεσιν. ἀλλʼ ἄγε νῦν ξυνίει ἔπος, ὅττι κεν εἴπω·"
+    },
+    {
+      "n": 379,
+      "greek": "πολλοὶ δὴ ξεῖνοι ταλαπείριοι ἐνθάδʼ ἵκοντο,"
+    },
+    {
+      "n": 380,
+      "greek": "ἀλλʼ οὔ πώ τινά φημι ἐοικότα ὧδε ἰδέσθαι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "For never yet did any mortal burn to Zeus, who hurls the thunderbolt, so many fat thigh-pieces or so many choice hecatombs as thou gavest him, with prayers that thou mightest reach a sleek old age and rear thy glorious son. But lo, now, from thee alone has he wholly cut off the day of thy returning."
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "Even thus, I ween, did women mock at him too, in a strange and distant land, when he came to some man's glorious house, as these shameless creatures here all mock at thee. It is to shun insult now from them and their many taunts that thou dost not suffer them to wash thy feet, but me, who am nothing loath, has"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "the daughter of Icarius, wise Penelope, bidden to wash thee. Therefore will I wash thy feet, both for Penelope's own sake and for thine, for the heart within me is stirred with sorrow. But come now, hearken to the word that I shall speak. Many sore-tried strangers have come hither,"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "but I declare that never yet have I seen any man so like another as thou in form, and in voice, and in feet art like Odysseus.” Then Odysseus of many wiles answered her, and said: “Old dame, so say all men whose eyes have beheld us two, that"
+    }
+  ]
+}

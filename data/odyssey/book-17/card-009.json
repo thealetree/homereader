@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "ἥμενος ἐφρασάμην καὶ Τηλεμάχῳ ἐγεγώνευν."
+    },
+    {
+      "n": 162,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 163,
+      "greek": "αἲ γὰρ τοῦτο, ξεῖνε, ἔπος τετελεσμένον εἴη·"
+    },
+    {
+      "n": 164,
+      "greek": "τῷ κε τάχα γνοίης φιλότητά τε πολλά τε δῶρα"
+    },
+    {
+      "n": 165,
+      "greek": "ἐξ ἐμεῦ, ὡς ἄν τίς σε συναντόμενος μακαρίζοι."
+    },
+    {
+      "n": 166,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον,"
+    },
+    {
+      "n": 167,
+      "greek": "μνηστῆρες δὲ πάροιθεν Ὀδυσσῆος μεγάροιο"
+    },
+    {
+      "n": 168,
+      "greek": "δίσκοισιν τέρποντο καὶ αἰγανέῃσιν ἱέντες,"
+    },
+    {
+      "n": 169,
+      "greek": "ἐν τυκτῷ δαπέδῳ, ὅθι περ πάρος ὕβριν ἔχοντες."
+    },
+    {
+      "n": 170,
+      "greek": "ἀλλʼ ὅτε δὴ δείπνηστος ἔην καὶ ἐπήλυθε μῆλα"
+    },
+    {
+      "n": 171,
+      "greek": "πάντοθεν ἐξ ἀγρῶν, οἱ δʼ ἤγαγον οἳ τὸ πάρος περ,"
+    },
+    {
+      "n": 172,
+      "greek": "καὶ τότε δή σφιν ἔειπε Μέδων· ὃς γάρ ῥα μάλιστα"
+    },
+    {
+      "n": 173,
+      "greek": "ἥνδανε κηρύκων, καὶ σφιν παρεγίγνετο δαιτί·"
+    },
+    {
+      "n": 174,
+      "greek": "κοῦροι, ἐπεὶ δὴ πάντες ἐτέρφθητε φρένʼ ἀέθλοις,"
+    },
+    {
+      "n": 175,
+      "greek": "ἔρχεσθε πρὸς δώμαθʼ, ἵνʼ ἐντυνώμεθα δαῖτα·"
+    },
+    {
+      "n": 176,
+      "greek": "οὐ μὲν γάρ τι χέρειον ἐν ὥρῃ δεῖπνον ἑλέσθαι."
+    },
+    {
+      "n": 177,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἀνστάντες ἔβαν πείθοντό τε μύθῳ."
+    },
+    {
+      "n": 178,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἵκοντο δόμους εὖ ναιετάοντας,"
+    },
+    {
+      "n": 179,
+      "greek": "χλαίνας μὲν κατέθεντο κατὰ κλισμούς τε θρόνους τε,"
+    },
+    {
+      "n": 180,
+      "greek": "οἱ δʼ ἱέρευον ὄϊς μεγάλους καὶ πίονας αἶγας,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "from me, so that one who met thee would call the blessed.” Thus they spoke to one another. And the wooers meanwhile in front of the palace of Odysseus were making merry, throwing the discus and the javelin in a levelled place, as their wont was, in insolence of heart."
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "But when it was the hour for dinner, and the flocks came in from all sides from the fields, and the men led them who were wont to lead, then Medon, who of all the heralds was most to their liking and was ever present at their feasts, spoke to them, saying: “Youths, now that you have all made glad your hearts with sport,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "come to the house that we may make ready a feast; for it is no bad thing to take one's dinner in season.” So he spoke, and they rose up and went, and hearkened to his word. And when they had come to the stately house they laid their cloaks on the chairs and high seats,"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "and men fell to slaying great sheep and fat goats, aye, and fatted and swine, and a heifer of the herd, and so made ready the meal. But Odysseus and the goodly swineherd were making haste to go from the field to the city; and the swineherd, a leader of men, spoke first, and said:"
+    }
+  ]
+}

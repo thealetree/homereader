@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "νῶι μὲν ὣς ἐπέεσσιν ἀμειβομένω στυγεροῖσιν"
+    },
+    {
+      "n": 82,
+      "greek": "ἥμεθʼ, ἐγὼ μὲν ἄνευθεν ἐφʼ αἵματι φάσγανον ἴσχων,"
+    },
+    {
+      "n": 83,
+      "greek": "εἴδωλον δʼ ἑτέρωθεν ἑταίρου πόλλʼ ἀγόρευεν·"
+    },
+    {
+      "n": 84,
+      "greek": "ἦλθε δʼ ἐπὶ ψυχὴ μητρὸς κατατεθνηυίης,"
+    },
+    {
+      "n": 85,
+      "greek": "Αὐτολύκου θυγάτηρ μεγαλήτορος Ἀντίκλεια,"
+    },
+    {
+      "n": 86,
+      "greek": "τὴν ζωὴν κατέλειπον ἰὼν εἰς Ἴλιον ἱρήν."
+    },
+    {
+      "n": 87,
+      "greek": "τὴν μὲν ἐγὼ δάκρυσα ἰδὼν ἐλέησά τε θυμῷ·"
+    },
+    {
+      "n": 88,
+      "greek": "ἀλλʼ οὐδʼ ὣς εἴων προτέρην, πυκινόν περ ἀχεύων,"
+    },
+    {
+      "n": 89,
+      "greek": "αἵματος ἆσσον ἴμεν, πρὶν Τειρεσίαο πυθέσθαι."
+    },
+    {
+      "n": 90,
+      "greek": "ἦλθε δʼ ἐπὶ ψυχὴ Θηβαίου Τειρεσίαο"
+    },
+    {
+      "n": 91,
+      "greek": "χρύσεον σκῆπτρον ἔχων, ἐμὲ δʼ ἔγνω καὶ προσέειπεν·"
+    },
+    {
+      "n": 92,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 93,
+      "greek": "τίπτʼ αὖτʼ, ὦ δύστηνε, λιπὼν φάος ἠελίοιο"
+    },
+    {
+      "n": 94,
+      "greek": "ἤλυθες, ὄφρα ἴδῃ νέκυας καὶ ἀτερπέα χῶρον;"
+    },
+    {
+      "n": 95,
+      "greek": "ἀλλʼ ἀποχάζεο βόθρου, ἄπισχε δὲ φάσγανον ὀξύ,"
+    },
+    {
+      "n": 96,
+      "greek": "αἵματος ὄφρα πίω καί τοι νημερτέα εἴπω."
+    },
+    {
+      "n": 97,
+      "greek": "ὣς φάτʼ, ἐγὼ δʼ ἀναχασσάμενος ξίφος ἀργυρόηλον"
+    },
+    {
+      "n": 98,
+      "greek": "κουλεῷ ἐγκατέπηξʼ. ὁ δʼ ἐπεὶ πίεν αἷμα κελαινόν,"
+    },
+    {
+      "n": 99,
+      "greek": "καὶ τότε δή μʼ ἐπέεσσι προσηύδα μάντις ἀμύμων·"
+    },
+    {
+      "n": 100,
+      "greek": "νόστον δίζηαι μελιηδέα, φαίδιμʼ Ὀδυσσεῦ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "Anticleia, the daughter of great-hearted Autolycus, whom I had left alive when I departed for sacred Ilios. At sight of her I wept, and my heart had compassion on her, but even so I would not suffer her to come near the blood, for all my great sorrow, until I had enquired of Teiresias."
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "“Then there came up the spirit of the Theban Teiresias, bearing his golden staff in his hand, and he knew me and spoke to me: ‘Son of Laertes, sprung from Zeus, Odysseus of many devices, what now, hapless man? Why hast thou left the light of the sun and come hither to behold the dead and a region where is no joy?"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "Nay, give place from the pit and draw back thy sharp sword, that I may drink of the blood and tell thee sooth.’ “So he spoke, and I gave place and thrust my silver-studded sword into its sheath, and when he had drunk the dark blood, then the blameless seer spoke to me and said:"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "“‘Thou askest of thy honey-sweet return, glorious Odysseus, but this shall a god make grievous unto thee; for I think not that thou shalt elude the Earth-shaker, seeing that he has laid up wrath in his heart against thee, angered that thou didst blind his dear son. Yet even so ye may reach home, though in evil plight,"
+    }
+  ]
+}

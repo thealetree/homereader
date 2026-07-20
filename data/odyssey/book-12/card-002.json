@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "σχέτλιοι, οἳ ζώοντες ὑπήλθετε δῶμʼ Ἀίδαο,"
+    },
+    {
+      "n": 22,
+      "greek": "δισθανέες, ὅτε τʼ ἄλλοι ἅπαξ θνῄσκουσʼ ἄνθρωποι."
+    },
+    {
+      "n": 23,
+      "greek": "ἀλλʼ ἄγετʼ ἐσθίετε βρώμην καὶ πίνετε οἶνον"
+    },
+    {
+      "n": 24,
+      "greek": "αὖθι πανημέριοι· ἅμα δʼ ἠοῖ φαινομένηφι"
+    },
+    {
+      "n": 25,
+      "greek": "πλεύσεσθʼ· αὐτὰρ ἐγὼ δείξω ὁδὸν ἠδὲ ἕκαστα"
+    },
+    {
+      "n": 26,
+      "greek": "σημανέω, ἵνα μή τι κακορραφίῃ ἀλεγεινῇ"
+    },
+    {
+      "n": 27,
+      "greek": "ἢ ἁλὸς ἢ ἐπὶ γῆς ἀλγήσετε πῆμα παθόντες."
+    },
+    {
+      "n": 28,
+      "greek": "ὣς ἔφαθʼ, ἡμῖν δʼ αὖτʼ ἐπεπείθετο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 29,
+      "greek": "ὣς τότε μὲν πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα"
+    },
+    {
+      "n": 30,
+      "greek": "ἥμεθα δαινύμενοι κρέα τʼ ἄσπετα καὶ μέθυ ἡδύ·"
+    },
+    {
+      "n": 31,
+      "greek": "ἦμος δʼ ἠέλιος κατέδυ καὶ ἐπὶ κνέφας ἦλθεν,"
+    },
+    {
+      "n": 32,
+      "greek": "οἱ μὲν κοιμήσαντο παρὰ πρυμνήσια νηός,"
+    },
+    {
+      "n": 33,
+      "greek": "ἡ δʼ ἐμὲ χειρὸς ἑλοῦσα φίλων ἀπονόσφιν ἑταίρων"
+    },
+    {
+      "n": 34,
+      "greek": "εἷσέ τε καὶ προσέλεκτο καὶ ἐξερέεινεν ἕκαστα·"
+    },
+    {
+      "n": 35,
+      "greek": "αὐτὰρ ἐγὼ τῇ πάντα κατὰ μοῖραν κατέλεξα."
+    },
+    {
+      "n": 36,
+      "greek": "καὶ τότε δή μʼ ἐπέεσσι προσηύδα πότνια Κίρκη·"
+    },
+    {
+      "n": 37,
+      "greek": "ταῦτα μὲν οὕτω πάντα πεπείρανται, σὺ δʼ ἄκουσον,"
+    },
+    {
+      "n": 38,
+      "greek": "ὥς τοι ἐγὼν ἐρέω, μνήσει δέ σε καὶ θεὸς αὐτός."
+    },
+    {
+      "n": 39,
+      "greek": "Σειρῆνας μὲν πρῶτον ἀφίξεαι, αἵ ῥά τε πάντας"
+    },
+    {
+      "n": 40,
+      "greek": "ἀνθρώπους θέλγουσιν, ὅτις σφεας εἰσαφίκηται."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "ye shall set sail, and I will point out the way and declare to you each thing, in order that ye may not suffer pain and woes through wretched ill-contriving either by sea or on land.’ “So she spoke, and our proud hearts consented. So then all day long till set of sun"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "we sat feasting on abundant flesh and sweet wine. But when the sun set and darkness came on, they lay down to rest beside the stern cables of the ship; but Circe took me by the hand, and leading me apart from my dear comrades, made me to sit, and herself lay down close at hand and asked me all the tale."
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "And I told her all in due order. Then queenly Circe spoke to me and said: “All these things have thus found an end; but do thou hearken as I shall tell thee, and a god shall himself bring it to thy mind. To the Sirens first shalt thou come, who"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "beguile all men whosoever comes to them. Whoso in ignorance draws near to them and hears the Sirens' voice, he nevermore returns, that his wife and little children may stand at his side rejoicing, but the Sirens beguile him with their clear-toned song,"
+    }
+  ]
+}

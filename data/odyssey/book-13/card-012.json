@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "πόλλʼ ὀλοφυρόμενος. σχεδόθεν δέ οἱ ἦλθεν Ἀθήνη,"
+    },
+    {
+      "n": 222,
+      "greek": "ἀνδρὶ δέμας εἰκυῖα νέῳ, ἐπιβώτορι μήλων,"
+    },
+    {
+      "n": 223,
+      "greek": "παναπάλῳ, οἷοί τε ἀνάκτων παῖδες ἔασι,"
+    },
+    {
+      "n": 224,
+      "greek": "δίπτυχον ἀμφʼ ὤμοισιν ἔχουσʼ εὐεργέα λώπην·"
+    },
+    {
+      "n": 225,
+      "greek": "ποσσὶ δʼ ὑπὸ λιπαροῖσι πέδιλʼ ἔχε, χερσὶ δʼ ἄκοντα."
+    },
+    {
+      "n": 226,
+      "greek": "τὴν δʼ Ὀδυσεὺς γήθησεν ἰδὼν καὶ ἐναντίος ἦλθε,"
+    },
+    {
+      "n": 227,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 228,
+      "greek": "ὦ φίλʼ, ἐπεί σε πρῶτα κιχάνω τῷδʼ ἐνὶ χώρῳ,"
+    },
+    {
+      "n": 229,
+      "greek": "χαῖρέ τε καὶ μή μοί τι κακῷ νόῳ ἀντιβολήσαις,"
+    },
+    {
+      "n": 230,
+      "greek": "ἀλλὰ σάω μὲν ταῦτα, σάω δʼ ἐμέ· σοὶ γὰρ ἐγώ γε"
+    },
+    {
+      "n": 231,
+      "greek": "εὔχομαι ὥς τε θεῷ καί σευ φίλα γούναθʼ ἱκάνω."
+    },
+    {
+      "n": 232,
+      "greek": "καί μοι τοῦτʼ ἀγόρευσον ἐτήτυμον, ὄφρʼ ἐῢ εἰδῶ·"
+    },
+    {
+      "n": 233,
+      "greek": "τίς γῆ, τίς δῆμος, τίνες ἀνέρες ἐγγεγάασιν;"
+    },
+    {
+      "n": 234,
+      "greek": "ἦ πού τις νήσων εὐδείελος, ἦέ τις ἀκτὴ"
+    },
+    {
+      "n": 235,
+      "greek": "κεῖθʼ ἁλὶ κεκλιμένη ἐριβώλακος ἠπείροιο;"
+    },
+    {
+      "n": 236,
+      "greek": "τὸν δʼ αὖτε προσέειπε θεὰ γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 237,
+      "greek": "νήπιός εἰς, ὦ ξεῖνʼ, ἢ τηλόθεν εἰλήλουθας,"
+    },
+    {
+      "n": 238,
+      "greek": "εἰ δὴ τήνδε τε γαῖαν ἀνείρεαι. οὐδέ τι λίην"
+    },
+    {
+      "n": 239,
+      "greek": "οὕτω νώνυμός ἐστιν· ἴσασι δέ μιν μάλα πολλοί,"
+    },
+    {
+      "n": 240,
+      "greek": "ἠμὲν ὅσοι ναίουσι πρὸς ἠῶ τʼ ἠέλιόν τε,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "and beneath her shining feet she had sandals, and in her hands a spear. Then Odysseus was glad at sight of her, and came to meet her, and he spoke, and addressed her with winged words: “Friend, since thou art the first to whom I have come in this land, hail to thee, and mayst thou meet me with no evil mind."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "Nay, save this treasure, and save me; for to thee do I pray, as to a god, and am come to thy dear knees. And tell me this also truly, that I may know full well. What land, what people is this? What men dwell here? Is it some clear-seen island, or a shore"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "of the deep-soiled mainland that lies resting on the sea?” Then the goddess, flashing-eyed Athena, answered him: “A fool art thou, stranger, or art come from far, if indeed thou askest of this land. Surely it is no wise so nameless, but full many know it,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "both all those who dwell toward the dawn and the sun, and all those that are behind toward the murky darkness. It is a rugged isle, not fit for driving horses, yet it is not utterly poor, though it be but narrow. Therein grows corn beyond measure, and the wine-grape as well,"
+    }
+  ]
+}

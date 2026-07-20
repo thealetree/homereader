@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "οὐκ ἔσθʼ οὗτος ἀνὴρ διερὸς βροτὸς οὐδὲ γένηται,"
+    },
+    {
+      "n": 202,
+      "greek": "ὅς κεν Φαιήκων ἀνδρῶν ἐς γαῖαν ἵκηται"
+    },
+    {
+      "n": 203,
+      "greek": "δηιοτῆτα φέρων· μάλα γὰρ φίλοι ἀθανάτοισιν."
+    },
+    {
+      "n": 204,
+      "greek": "οἰκέομεν δʼ ἀπάνευθε πολυκλύστῳ ἐνὶ πόντῳ,"
+    },
+    {
+      "n": 205,
+      "greek": "ἔσχατοι, οὐδέ τις ἄμμι βροτῶν ἐπιμίσγεται ἄλλος."
+    },
+    {
+      "n": 206,
+      "greek": "ἀλλʼ ὅδε τις δύστηνος ἀλώμενος ἐνθάδʼ ἱκάνει,"
+    },
+    {
+      "n": 207,
+      "greek": "τὸν νῦν χρὴ κομέειν· πρὸς γὰρ Διός εἰσιν ἅπαντες"
+    },
+    {
+      "n": 208,
+      "greek": "ξεῖνοί τε πτωχοί τε, δόσις δʼ ὀλίγη τε φίλη τε."
+    },
+    {
+      "n": 209,
+      "greek": "ἀλλὰ δότʼ, ἀμφίπολοι, ξείνῳ βρῶσίν τε πόσιν τε,"
+    },
+    {
+      "n": 210,
+      "greek": "λούσατέ τʼ ἐν ποταμῷ, ὅθʼ ἐπὶ σκέπας ἔστʼ ἀνέμοιο."
+    },
+    {
+      "n": 211,
+      "greek": "ὣς ἔφαθʼ, αἱ δʼ ἔσταν τε καὶ ἀλλήλῃσι κέλευσαν,"
+    },
+    {
+      "n": 212,
+      "greek": "κὰδ δʼ ἄρʼ Ὀδυσσῆʼ εἷσαν ἐπὶ σκέπας, ὡς ἐκέλευσεν"
+    },
+    {
+      "n": 213,
+      "greek": "Ναυσικάα θυγάτηρ μεγαλήτορος Ἀλκινόοιο·"
+    },
+    {
+      "n": 214,
+      "greek": "πὰρ δʼ ἄρα οἱ φᾶρός τε χιτῶνά τε εἵματʼ ἔθηκαν,"
+    },
+    {
+      "n": 215,
+      "greek": "δῶκαν δὲ χρυσέῃ ἐν ληκύθῳ ὑγρὸν ἔλαιον,"
+    },
+    {
+      "n": 216,
+      "greek": "ἤνωγον δʼ ἄρα μιν λοῦσθαι ποταμοῖο ῥοῇσιν."
+    },
+    {
+      "n": 217,
+      "greek": "δή ῥα τότʼ ἀμφιπόλοισι μετηύδα δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 218,
+      "greek": "ἀμφίπολοι, στῆθʼ οὕτω ἀπόπροθεν, ὄφρʼ ἐγὼ αὐτὸς"
+    },
+    {
+      "n": 219,
+      "greek": "ἅλμην ὤμοιιν ἀπολούσομαι, ἀμφὶ δʼ ἐλαίῳ"
+    },
+    {
+      "n": 220,
+      "greek": "χρίσομαι· ἦ γὰρ δηρὸν ἀπὸ χροός ἐστιν ἀλοιφή."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "the furthermost of men, and no other mortals have dealings with us. Nay, this is some hapless wanderer that has come hither. Him must we now tend; for from Zeus are all strangers and beggars, and a gift, though small, is welcome. Come, then, my maidens, give to the stranger food and drink,"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "and bathe him in the river in a spot where there is shelter from the wind.” So she spoke, and they halted and called to each other. Then they set Odysseus in a sheltered place, as Nausicaa, the daughter of great-hearted Alcinous, bade, and beside him they put a cloak and a tunic for raiment,"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "and gave him soft olive oil in the flask of gold, and bade him bathe in the streams of the river. Then among the maidens spoke goodly Odysseus: “Maidens, stand yonder apart, that by myself I may wash the brine from my shoulders, and"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "anoint myself with olive oil; for of a truth it is long since oil came near my skin. But in your presence will I not bathe, for I am ashamed to make me naked in the midst of fair-tressed maidens.” So he said, and they went apart and told the princess. But with water from the river goodly Odysseus washed from his skin"
+    }
+  ]
+}

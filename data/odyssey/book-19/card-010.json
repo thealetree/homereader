@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "Δευκαλίων δʼ ἐμὲ τίκτε καὶ Ἰδομενῆα ἄνακτα·"
+    },
+    {
+      "n": 182,
+      "greek": "ἀλλʼ ὁ μὲν ἐν νήεσσι κορωνίσιν Ἴλιον ἴσω"
+    },
+    {
+      "n": 183,
+      "greek": "ᾤχεθʼ ἅμʼ Ἀτρείδῃσιν, ἐμοὶ δʼ ὄνομα κλυτὸν Αἴθων,"
+    },
+    {
+      "n": 184,
+      "greek": "ὁπλότερος γενεῇ· ὁ δʼ ἄρα πρότερος καὶ ἀρείων."
+    },
+    {
+      "n": 185,
+      "greek": "ἔνθʼ Ὀδυσῆα ἐγὼν ἰδόμην καὶ ξείνια δῶκα."
+    },
+    {
+      "n": 186,
+      "greek": "καὶ γὰρ τὸν Κρήτηνδε κατήγαγεν ἲς ἀνέμοιο,"
+    },
+    {
+      "n": 187,
+      "greek": "ἱέμενον Τροίηνδε παραπλάγξασα Μαλειῶν·"
+    },
+    {
+      "n": 188,
+      "greek": "στῆσε δʼ ἐν Ἀμνισῷ, ὅθι τε σπέος Εἰλειθυίης,"
+    },
+    {
+      "n": 189,
+      "greek": "ἐν λιμέσιν χαλεποῖσι, μόγις δʼ ὑπάλυξεν ἀέλλας."
+    },
+    {
+      "n": 190,
+      "greek": "αὐτίκα δʼ Ἰδομενῆα μετάλλα ἄστυδʼ ἀνελθών·"
+    },
+    {
+      "n": 191,
+      "greek": "ξεῖνον γάρ οἱ ἔφασκε φίλον τʼ ἔμεν αἰδοῖόν τε."
+    },
+    {
+      "n": 192,
+      "greek": "τῷ δʼ ἤδη δεκάτη ἢ ἑνδεκάτη πέλεν ἠὼς"
+    },
+    {
+      "n": 193,
+      "greek": "οἰχομένῳ σὺν νηυσὶ κορωνίσιν Ἴλιον εἴσω."
+    },
+    {
+      "n": 194,
+      "greek": "τὸν μὲν ἐγὼ πρὸς δώματʼ ἄγων ἐῢ ἐξείνισσα,"
+    },
+    {
+      "n": 195,
+      "greek": "ἐνδυκέως φιλέων, πολλῶν κατὰ οἶκον ἐόντων·"
+    },
+    {
+      "n": 196,
+      "greek": "καί οἱ τοῖς ἄλλοις ἑτάροις, οἳ ἅμʼ αὐτῷ ἕποντο,"
+    },
+    {
+      "n": 197,
+      "greek": "δημόθεν ἄλφιτα δῶκα καὶ αἴθοπα οἶνον ἀγείρας"
+    },
+    {
+      "n": 198,
+      "greek": "καὶ βοῦς ἱρεύσασθαι, ἵνα πλησαίατο θυμόν."
+    },
+    {
+      "n": 199,
+      "greek": "ἔνθα δυώδεκα μὲν μένον ἤματα δῖοι Ἀχαιοί·"
+    },
+    {
+      "n": 200,
+      "greek": "εἴλει γὰρ Βορέης ἄνεμος μέγας οὐδʼ ἐπὶ γαίῃ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "There it was that I saw Odysseus and gave him gifts of entertainment; for the force of the wind had brought him too to Crete, as he was making for the land of Troy, and drove him out of his course past Malea. So he anchored his ships at Amnisus, where is the cave of Eilithyia, in a difficult harbor, and hardly did he escape the storm."
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "Then straightway he went up to the city and asked for Idomeneus; for he declared that he was his friend, beloved and honored. But it was now the tenth or the eleventh dawn since Idomeneus had gone in his beaked ships to Ilios. So I took him to the house, and gave him entertainment"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "with kindly welcome of the rich store that was in the house, and to the rest of his comrades who followed with him I gathered and gave out of the public store barley meal and flaming wine and bulls for sacrifice, that their hearts might be satisfied. There for twelve days the goodly Achaeans tarried,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "for the strong North Wind penned them there, and would not suffer them to stand upon their feet on the land, for some angry god had roused it. But on the thirteenth day the wind fell and they put to sea.” He spoke, and made the many falsehoods of his tale seem like the truth, and as she listened her tears flowed and her face melted"
+    }
+  ]
+}

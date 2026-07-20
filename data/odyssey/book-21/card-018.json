@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "καὶ ξίφος ἄμφηκες· δώσω δʼ ὑπὸ ποσσὶ πέδιλα,"
+    },
+    {
+      "n": 342,
+      "greek": "πέμψω δʼ ὅππη μιν κραδίη θυμός τε κελεύει."
+    },
+    {
+      "n": 343,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 344,
+      "greek": "μῆτερ ἐμή, τόξον μὲν Ἀχαιῶν οὔ τις ἐμεῖο"
+    },
+    {
+      "n": 345,
+      "greek": "κρείσσων, ᾧ κʼ ἐθέλω, δόμεναί τε καὶ ἀρνήσασθαι,"
+    },
+    {
+      "n": 346,
+      "greek": "οὔθʼ ὅσσοι κραναὴν Ἰθάκην κάτα κοιρανέουσιν,"
+    },
+    {
+      "n": 347,
+      "greek": "οὔθʼ ὅσσοι νήσοισι πρὸς Ἤλιδος ἱπποβότοιο·"
+    },
+    {
+      "n": 348,
+      "greek": "τῶν οὔ τίς μʼ ἀέκοντα βιήσεται, αἴ κʼ ἐθέλωμι"
+    },
+    {
+      "n": 349,
+      "greek": "καὶ καθάπαξ ξείνῳ δόμεναι τάδε τόξα φέρεσθαι."
+    },
+    {
+      "n": 350,
+      "greek": "ἀλλʼ εἰς οἶκον ἰοῦσα τὰ σʼ αὐτῆς ἔργα κόμιζε,"
+    },
+    {
+      "n": 351,
+      "greek": "ἱστόν τʼ ἠλακάτην τε, καὶ ἀμφιπόλοισι κέλευε"
+    },
+    {
+      "n": 352,
+      "greek": "ἔργον ἐποίχεσθαι· τόξον δʼ ἄνδρεσσι μελήσει"
+    },
+    {
+      "n": 353,
+      "greek": "πᾶσι, μάλιστα δʼ ἐμοί· τοῦ γὰρ κράτος ἔστʼ ἐνὶ οἴκῳ."
+    },
+    {
+      "n": 354,
+      "greek": "ἡ μὲν θαμβήσασα πάλιν οἶκόνδε βεβήκει·"
+    },
+    {
+      "n": 355,
+      "greek": "παιδὸς γὰρ μῦθον πεπνυμένον ἔνθετο θυμῷ."
+    },
+    {
+      "n": 356,
+      "greek": "ἐς δʼ ὑπερῷʼ ἀναβᾶσα σὺν ἀμφιπόλοισι γυναιξὶ"
+    },
+    {
+      "n": 357,
+      "greek": "κλαῖεν ἔπειτʼ Ὀδυσῆα, φίλον πόσιν, ὄφρα οἱ ὕπνον"
+    },
+    {
+      "n": 358,
+      "greek": "ἡδὺν ἐπὶ βλεφάροισι βάλε γλαυκῶπις Ἀθήνη."
+    },
+    {
+      "n": 359,
+      "greek": "αὐτὰρ ὁ τόξα λαβὼν φέρε καμπύλα δῖος ὑφορβός·"
+    },
+    {
+      "n": 360,
+      "greek": "μνηστῆρες δʼ ἄρα πάντες ὁμόκλεον ἐν μεγάροισιν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "has a better right than I to give or to deny it to whomsoever I will—no, not all those who lord it in rocky Ithaca, or in the islands towards horse-pasturing Elis. No man among these shall thwart me against my will, even though I should wish to give this bow outright to the stranger to bear away with him."
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "But do thou go thy chamber, and busy thyself with thine own tasks, the loom and the distaff, and bid thy handmaids ply their tasks. The bow shall be for men, for all, but most of all for me; since mine is the authority in the house.” She then, seized with wonder, went back to her chamber,"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "for she laid to heart the wise saying of her son. Up to her upper chamber she went with her handmaids, and then bewailed Odysseus, her dear husband, until flashing-eyed Athena cast sweet sleep upon her eyelids. Now the goodly swineherd had taken the curved bow and was bearing it,"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "but the wooers all cried out in the halls. And thus would one of the proud youths speak: “Whither, pray, art thou bearing the curved bow, miserable swineherd, thou man distraught? Soon by thy swine, alone and apart from men, shall the swift hounds devour thee—hounds thyself didst rear—if but Apollo"
+    }
+  ]
+}

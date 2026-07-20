@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 29,
+  "lineStart": 561,
+  "lineEnd": 580,
+  "lines": [
+    {
+      "n": 561,
+      "greek": "σοὶ δʼ οὐ θέσφατόν ἐστι, διοτρεφὲς ὦ Μενέλαε,"
+    },
+    {
+      "n": 562,
+      "greek": "Ἄργει ἐν ἱπποβότῳ θανέειν καὶ πότμον ἐπισπεῖν,"
+    },
+    {
+      "n": 563,
+      "greek": "ἀλλά σʼ ἐς Ἠλύσιον πεδίον καὶ πείρατα γαίης"
+    },
+    {
+      "n": 564,
+      "greek": "ἀθάνατοι πέμψουσιν, ὅθι ξανθὸς Ῥαδάμανθυς,"
+    },
+    {
+      "n": 565,
+      "greek": "τῇ περ ῥηίστη βιοτὴ πέλει ἀνθρώποισιν·"
+    },
+    {
+      "n": 566,
+      "greek": "οὐ νιφετός, οὔτʼ ἂρ χειμὼν πολὺς οὔτε ποτʼ ὄμβρος,"
+    },
+    {
+      "n": 567,
+      "greek": "ἀλλʼ αἰεὶ Ζεφύροιο λιγὺ πνείοντος ἀήτας"
+    },
+    {
+      "n": 568,
+      "greek": "Ὠκεανὸς ἀνίησιν ἀναψύχειν ἀνθρώπους·"
+    },
+    {
+      "n": 569,
+      "greek": "οὕνεκʼ ἔχεις Ἑλένην καί σφιν γαμβρὸς Διός ἐσσι."
+    },
+    {
+      "n": 570,
+      "greek": "ὣς εἰπὼν ὑπὸ πόντον ἐδύσετο κυμαίνοντα."
+    },
+    {
+      "n": 571,
+      "greek": "αὐτὰρ ἐγὼν ἐπὶ νῆας ἅμʼ ἀντιθέοις ἑτάροισιν"
+    },
+    {
+      "n": 572,
+      "greek": "ἤια, πολλὰ δέ μοι κραδίη πόρφυρε κιόντι."
+    },
+    {
+      "n": 573,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐπὶ νῆα κατήλθομεν ἠδὲ θάλασσαν,"
+    },
+    {
+      "n": 574,
+      "greek": "δόρπον θʼ ὁπλισάμεσθʼ, ἐπί τʼ ἤλυθεν ἀμβροσίη νύξ,"
+    },
+    {
+      "n": 575,
+      "greek": "δὴ τότε κοιμήθημεν ἐπὶ ῥηγμῖνι θαλάσσης."
+    },
+    {
+      "n": 576,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 577,
+      "greek": "νῆας μὲν πάμπρωτον ἐρύσσαμεν εἰς ἅλα δῖαν,"
+    },
+    {
+      "n": 578,
+      "greek": "ἐν δʼ ἱστοὺς τιθέμεσθα καὶ ἱστία νηυσὶν ἐίσῃς,"
+    },
+    {
+      "n": 579,
+      "greek": "ἂν δὲ καὶ αὐτοὶ βάντες ἐπὶ κληῖσι καθῖζον·"
+    },
+    {
+      "n": 580,
+      "greek": "ἑξῆς δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        565,
+        569
+      ],
+      "text": "and where life is easiest for men. No snow is there, nor heavy storm, nor ever rain, but ever does Ocean send up blasts of the shrill-blowing West Wind that they may give cooling to men; for thou hast Helen to wife, and art in their eyes the husband of the daughter of Zeus.’"
+    },
+    {
+      "lines": [
+        570,
+        574
+      ],
+      "text": "“So saying he plunged beneath the surging sea, but I went to my ships with my god like comrades, and many things did my heart darkly ponder as I went. But when I had come down to the ship and to the sea, and we had made ready our supper, and immortal night had come on,"
+    },
+    {
+      "lines": [
+        575,
+        579
+      ],
+      "text": "then we lay down to rest on the shore of the sea. And as soon as early Dawn appeared, the rosy-fingered, our ships first of all we drew down to the bright sea, and set the masts and the sails in the shapely ships, and the men, too, went on board and sat down upon the benches,"
+    },
+    {
+      "lines": [
+        580,
+        580
+      ],
+      "text": "and sitting well in order smote the grey sea with their oars. So back again to the waters of Aegyptus, the heaven-fed river, I sailed, and there moored my ships and offered hecatombs that bring fulfillment. But when I had stayed the wrath of the gods that are forever, I heaped up a mound to Agamemnon, that his fame might be unquenchable."
+    }
+  ]
+}

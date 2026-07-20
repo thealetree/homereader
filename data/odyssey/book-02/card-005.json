@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "δάκρυʼ ἀναπρήσας· οἶκτος δʼ ἕλε λαὸν ἅπαντα."
+    },
+    {
+      "n": 82,
+      "greek": "ἔνθʼ ἄλλοι μὲν πάντες ἀκὴν ἔσαν, οὐδέ τις ἔτλη"
+    },
+    {
+      "n": 83,
+      "greek": "Τηλέμαχον μύθοισιν ἀμείψασθαι χαλεποῖσιν·"
+    },
+    {
+      "n": 84,
+      "greek": "Ἀντίνοος δέ μιν οἶος ἀμειβόμενος προσέειπε·"
+    },
+    {
+      "n": 85,
+      "greek": "Τηλέμαχʼ ὑψαγόρη, μένος ἄσχετε, ποῖον ἔειπες"
+    },
+    {
+      "n": 86,
+      "greek": "ἡμέας αἰσχύνων· ἐθέλοις δέ κε μῶμον ἀνάψαι."
+    },
+    {
+      "n": 87,
+      "greek": "σοὶ δʼ οὔ τι μνηστῆρες Ἀχαιῶν αἴτιοί εἰσιν,"
+    },
+    {
+      "n": 88,
+      "greek": "ἀλλὰ φίλη μήτηρ, ἥ τοι πέρι κέρδεα οἶδεν."
+    },
+    {
+      "n": 89,
+      "greek": "ἤδη γὰρ τρίτον ἐστὶν ἔτος, τάχα δʼ εἶσι τέταρτον,"
+    },
+    {
+      "n": 90,
+      "greek": "ἐξ οὗ ἀτέμβει θυμὸν ἐνὶ στήθεσσιν Ἀχαιῶν."
+    },
+    {
+      "n": 91,
+      "greek": "πάντας μέν ῥʼ ἔλπει καὶ ὑπίσχεται ἀνδρὶ ἑκάστῳ"
+    },
+    {
+      "n": 92,
+      "greek": "ἀγγελίας προϊεῖσα, νόος δέ οἱ ἄλλα μενοινᾷ."
+    },
+    {
+      "n": 93,
+      "greek": "ἡ δὲ δόλον τόνδʼ ἄλλον ἐνὶ φρεσὶ μερμήριξε·"
+    },
+    {
+      "n": 94,
+      "greek": "στησαμένη μέγαν ἱστὸν ἐνὶ μεγάροισιν ὕφαινε,"
+    },
+    {
+      "n": 95,
+      "greek": "λεπτὸν καὶ περίμετρον· ἄφαρ δʼ ἡμῖν μετέειπε·"
+    },
+    {
+      "n": 96,
+      "greek": "κοῦροι ἐμοὶ μνηστῆρες, ἐπεὶ θάνε δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 97,
+      "greek": "μίμνετʼ ἐπειγόμενοι τὸν ἐμὸν γάμον, εἰς ὅ κε φᾶρος"
+    },
+    {
+      "n": 98,
+      "greek": "ἐκτελέσω, μή μοι μεταμώνια νήματʼ ὄληται,"
+    },
+    {
+      "n": 99,
+      "greek": "Λαέρτῃ ἥρωι ταφήιον, εἰς ὅτε κέν μιν"
+    },
+    {
+      "n": 100,
+      "greek": "μοῖρʼ ὀλοὴ καθέλῃσι τανηλεγέος θανάτοιο,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "“Telemachus, thou braggart, unrestrained in daring, what a thing hast thou said, putting us to shame, and wouldest fain fasten reproach upon us! Nay, I tell thee, it is not the Achaean wooers who are anywise at fault, but thine own mother, for she is crafty above all women. For it is now the third year and the fourth will soon pass,"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "since she has been deceiving the hearts of the Achaeans in their breasts. To all she offers hopes, and has promises for each man, sending them messages, but her mind is set on other things. And she devised in her heart this guileful thing also: she set up in her halls a great web, and fell to weaving—"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "fine of thread was the web and very wide; and straightway she spoke among us: “‘Young men, my wooers, since goodly Odysseus is dead, be patient, though eager for my marriage, until I finish this robe—I would not that my spinning should come to naught—a shroud for the lord Laertes, against the time when"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "the fell fate of grievous death shall strike him down; lest any of the Achaean women in the land should be wroth with me, if he, who had won great possessions, were to lie without a shroud.’ “So she spoke, and our proud hearts consented. Then day by day she would weave at the great web,"
+    }
+  ]
+}

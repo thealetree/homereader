@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "ἐξάγαγʼ ἐξ ἄντροιο ὀϊόμενον θανέεσθαι."
+    },
+    {
+      "n": 22,
+      "greek": "ὣς ἔφατʼ, ἐν στήθεσσι καθαπτόμενος φίλον ἦτορ·"
+    },
+    {
+      "n": 23,
+      "greek": "τῷ δὲ μάλʼ ἐν πείσῃ κραδίη μένε τετληυῖα"
+    },
+    {
+      "n": 24,
+      "greek": "νωλεμέως· ἀτὰρ αὐτὸς ἑλίσσετο ἔνθα καὶ ἔνθα."
+    },
+    {
+      "n": 25,
+      "greek": "ὡς δʼ ὅτε γαστέρʼ ἀνὴρ πολέος πυρὸς αἰθομένοιο,"
+    },
+    {
+      "n": 26,
+      "greek": "ἐμπλείην κνίσης τε καὶ αἵματος, ἔνθα καὶ ἔνθα"
+    },
+    {
+      "n": 27,
+      "greek": "αἰόλλῃ, μάλα δʼ ὦκα λιλαίεται ὀπτηθῆναι,"
+    },
+    {
+      "n": 28,
+      "greek": "ὣς ἄρʼ ὅ γʼ ἔνθα καὶ ἔνθα ἑλίσσετο, μερμηρίζων"
+    },
+    {
+      "n": 29,
+      "greek": "ὅππως δὴ μνηστῆρσιν ἀναιδέσι χεῖρας ἐφήσει"
+    },
+    {
+      "n": 30,
+      "greek": "μοῦνος ἐὼν πολέσι. σχεδόθεν δέ οἱ ἦλθεν Ἀθήνη"
+    },
+    {
+      "n": 31,
+      "greek": "οὐρανόθεν καταβᾶσα· δέμας δʼ ἤϊκτο γυναικί·"
+    },
+    {
+      "n": 32,
+      "greek": "στῆ δʼ ἄρʼ ὑπὲρ κεφαλῆς καί μιν πρὸς μῦθον ἔειπε·"
+    },
+    {
+      "n": 33,
+      "greek": "τίπτʼ αὖτʼ ἐγρήσσεις, πάντων περὶ κάμμορε φωτῶν;"
+    },
+    {
+      "n": 34,
+      "greek": "οἶκος μέν τοι ὅδʼ ἐστί, γυνὴ δέ τοι ἥδʼ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 35,
+      "greek": "καὶ, πάϊς, οἷόν πού τις ἐέλδεται ἔμμεναι υἷα."
+    },
+    {
+      "n": 36,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 37,
+      "greek": "ναὶ δὴ ταῦτά γε πάντα, θεά, κατὰ μοῖραν ἔειπες·"
+    },
+    {
+      "n": 38,
+      "greek": "ἀλλά τί μοι τόδε θυμὸς ἐνὶ φρεσὶ μερμηρίζει,"
+    },
+    {
+      "n": 39,
+      "greek": "ὅππως δὴ μνηστῆρσιν ἀναιδέσι χεῖρας ἐφήσω,"
+    },
+    {
+      "n": 40,
+      "greek": "μοῦνος ἐών· οἱ δʼ αἰὲν ἀολλέες ἔνδον ἔασι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "And as when a man before a great blazing fire turns swiftly this way and that a paunch full of fat and blood, and is very eager to have it roasted quickly, so Odysseus tossed from side to side, pondering how he might put forth his hands upon the shameless wooers,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "one man as he was against so many. Then Athena came down from heaven and drew near to him in the likeness of a woman, and she stood above his head, and spoke to him, and said: “Why now again art thou wakeful, ill-fated above all men? Lo, this is thy house, and here within is thy wife"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "and thy child, such a man, methinks, as anyone might pray to have for his son.” And Odysseus of many wiles answered her, and said: “Yea, goddess, all this hast thou spoken aright. But the heart in my breast is pondering somewhat upon this, how I may put forth my hands upon the shameless wooers,"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "all alone as I am, while they remain always in a body in the house. And furthermore this other and harder thing I ponder in my mind: even if I were to slay them by the will of Zeus and of thyself, where then should I find escape from bane? Of this I bid thee take thought.” Then the goddess, flashing-eyed Athena, answered him:"
+    }
+  ]
+}

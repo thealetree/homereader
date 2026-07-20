@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ἄνδρας μνηστῆρας· τῷ κε σφέων γούνατʼ ἔλυσα"
+    },
+    {
+      "n": 382,
+      "greek": "πολλῶν ἐν μεγάροισι, σὺ δὲ φρένας ἔνδον ἐγήθεις."
+    },
+    {
+      "n": 383,
+      "greek": "ὣς οἷ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον."
+    },
+    {
+      "n": 384,
+      "greek": "οἱ δʼ ἐπεὶ οὖν παύσαντο πόνου τετύκοντό τε δαῖτα,"
+    },
+    {
+      "n": 385,
+      "greek": "ἑξείης ἕζοντο κατὰ κλισμούς τε θρόνους τε·"
+    },
+    {
+      "n": 386,
+      "greek": "ἔνθʼ οἱ μὲν δείπνῳ ἐπεχείρεον, ἀγχίμολον δὲ"
+    },
+    {
+      "n": 387,
+      "greek": "ἦλθʼ ὁ γέρων Δολίος, σὺν δʼ υἱεῖς τοῖο γέροντος,"
+    },
+    {
+      "n": 388,
+      "greek": "ἐξ ἔργων μογέοντες, ἐπεὶ προμολοῦσα κάλεσσεν"
+    },
+    {
+      "n": 389,
+      "greek": "μήτηρ γρηῦς Σικελή, ἥ σφεας τρέφε καί ῥα γέροντα"
+    },
+    {
+      "n": 390,
+      "greek": "ἐνδυκέως κομέεσκεν, ἐπεὶ κατὰ γῆρας ἔμαρψεν."
+    },
+    {
+      "n": 391,
+      "greek": "οἱ δʼ ὡς οὖν Ὀδυσῆα ἴδον φράσσαντό τε θυμῷ,"
+    },
+    {
+      "n": 392,
+      "greek": "ἔσταν ἐνὶ μεγάροισι τεθηπότες· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 393,
+      "greek": "μειλιχίοις ἐπέεσσι καθαπτόμενος προσέειπεν·"
+    },
+    {
+      "n": 394,
+      "greek": "ὦ γέρον, ἵζʼ ἐπὶ δεῖπνον, ἀπεκλελάθεσθε δὲ θάμβευς·"
+    },
+    {
+      "n": 395,
+      "greek": "δηρὸν γὰρ σίτῳ ἐπιχειρήσειν μεμαῶτες"
+    },
+    {
+      "n": 396,
+      "greek": "μίμνομεν ἐν μεγάροις, ὑμέας ποτιδέγμενοι αἰεί."
+    },
+    {
+      "n": 397,
+      "greek": "ὣς ἄρ ἔφη, Δολίος δʼ ἰθὺς κίε χεῖρε πετάσσας"
+    },
+    {
+      "n": 398,
+      "greek": "ἀμφοτέρας, Ὀδυσεῦς δὲ λαβὼν κύσε χεῖρʼ ἐπὶ καρπῷ,"
+    },
+    {
+      "n": 399,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 400,
+      "greek": "ὦ φίλʼ, ἐπεὶ νόστησας ἐελδομένοισι μάλʼ ἡμῖν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "they sat down in order on the chairs and high seats. Then they were about to set hands to their food, when the old man Dolius drew near, and with him the old man's sons, wearied from their work in the fields, for their mother, the old Sicilian woman, had gone forth and called them, she who"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "saw to their food, and tended the old man with kindly care, now that old age had laid hold of him. And they, when they saw Odysseus, and marked him in their minds, stood in the halls lost in wonder. But Odysseus addressed them with gentle words, and said: “Old man, sit down to dinner, and do ye wholly forget your wonder,"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "for long have we waited in the halls, though eager to set hands to the food, ever expecting your coming.” So he spoke, and Dolius ran straight toward him with both hands outstretched, and he clasped the hand of Odysseus and kissed it on the wrist, and spoke, and addressed him with winged words:"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "“Dear master, since thou hast come back to us, who sorely longed for thee, but had no more thought to see thee, and the gods themselves have brought thee—hail to thee, and all welcome, and may the gods grant thee happiness. And tell me this also truly, that I may know full well. Does wise Penelope yet know surely"
+    }
+  ]
+}

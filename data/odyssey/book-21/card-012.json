@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "ὣς εἰπὼν ῥάκεα μεγάλης ἀποέργαθεν οὐλῆς."
+    },
+    {
+      "n": 222,
+      "greek": "τὼ δʼ ἐπεὶ εἰσιδέτην εὖ τʼ ἐφράσσαντο ἕκαστα,"
+    },
+    {
+      "n": 223,
+      "greek": "κλαῖον ἄρʼ ἀμφʼ Ὀδυσῆϊ δαΐφρονι χεῖρε βαλόντε,"
+    },
+    {
+      "n": 224,
+      "greek": "καὶ κύνεον ἀγαπαζόμενοι κεφαλήν τε καὶ ὤμους"
+    },
+    {
+      "n": 225,
+      "greek": "ὣς δʼ αὔτως Ὀδυσεὺς κεφαλὰς καὶ χεῖρας ἔκυσσε."
+    },
+    {
+      "n": 226,
+      "greek": "καί νύ κʼ ὀδυρομένοισιν ἔδυ φάος ἠελίοιο,"
+    },
+    {
+      "n": 227,
+      "greek": "εἰ μὴ Ὀδυσσεὺς αὐτὸς ἐρύκακε φώνησέν τε·"
+    },
+    {
+      "n": 228,
+      "greek": "παύεσθον κλαυθμοῖο γόοιό τε, μή τις ἴδηται"
+    },
+    {
+      "n": 229,
+      "greek": "ἐξελθὼν μεγάροιο, ἀτὰρ εἴπῃσι καὶ εἴσω."
+    },
+    {
+      "n": 230,
+      "greek": "ἀλλὰ προμνηστῖνοι ἐσέλθετε, μηδʼ ἅμα πάντες,"
+    },
+    {
+      "n": 231,
+      "greek": "πρῶτος ἐγώ, μετὰ δʼ ὔμμες· ἀτὰρ τόδε σῆμα τετύχθω·"
+    },
+    {
+      "n": 232,
+      "greek": "ἄλλοι μὲν γὰρ πάντες, ὅσοι μνηστῆρες ἀγαυοί,"
+    },
+    {
+      "n": 233,
+      "greek": "οὐκ ἐάσουσιν ἐμοὶ δόμεναι βιὸν ἠδὲ φαρέτρην·"
+    },
+    {
+      "n": 234,
+      "greek": "ἀλλὰ σύ, δῖʼ Εὔμαιε, φέρων ἀνὰ δώματα τόξον"
+    },
+    {
+      "n": 235,
+      "greek": "ἐν χείρεσσιν ἐμοὶ θέμεναι, εἰπεῖν τε γυναιξὶ"
+    },
+    {
+      "n": 236,
+      "greek": "κληῗσαι μεγάροιο θύρας πυκινῶς ἀραρυίας,"
+    },
+    {
+      "n": 237,
+      "greek": "ἢν δέ τις ἢ στοναχῆς ἠὲ κτύπου ἔνδον ἀκούσῃ"
+    },
+    {
+      "n": 238,
+      "greek": "ἀνδρῶν ἡμετέροισιν ἐν ἕρκεσι, μή τι θύραζε"
+    },
+    {
+      "n": 239,
+      "greek": "προβλώσκειν, ἀλλʼ αὐτοῦ ἀκὴν ἔμεναι παρὰ ἔργῳ."
+    },
+    {
+      "n": 240,
+      "greek": "σοὶ δέ, Φιλοίτιε δῖε, θύρας ἐπιτέλλομαι αὐλῆς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "And even in like manner Odysseus kissed their heads and hands. And now the light of the sun would have gone down upon their weeping, had not Odysseus himself checked them, and said: “Cease now from weeping and wailing, lest some one come forth from the hall and see us, and make it known within as well."
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "But go within one after another, not all together, I first and you thereafter, and let this be made a sign. All the rest, as many as are lordly wooers, will not suffer the bow and the quiver to be given to me; but do thou, goodly Eumaeus, as thou bearest the bow through the halls,"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "place it in my hands, and bid the women bar the close-fitting doors of their hall. And if any one of them hears groanings or the din of men within our walls, let them not rush out, but remain where they are in silence at their work."
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "But to thee, goodly Philoetius, do I give charge to fasten with a bar the gate of the court, and swiftly to cast a cord upon it.” So saying, he entered the stately house, and went and sat down on the seat from which he had risen. And the two slaves of divine Odysseus went in as well."
+    }
+  ]
+}

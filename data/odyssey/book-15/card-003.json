@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ἀγγελίην ἐρέοντα περίφρονι Πηνελοπείῃ,"
+    },
+    {
+      "n": 42,
+      "greek": "οὕνεκά οἱ σῶς ἐσσὶ καὶ ἐκ Πύλου εἰλήλουθας."
+    },
+    {
+      "n": 43,
+      "greek": "ἡ μὲν ἄρʼ ὣς εἰποῦσʼ ἀπέβη πρὸς μακρὸν Ὄλυμπον,"
+    },
+    {
+      "n": 44,
+      "greek": "αὐτὰρ ὁ Νεστορίδην ἐξ ἡδέος ὕπνου ἔγειρεν"
+    },
+    {
+      "n": 45,
+      "greek": "λὰξ ποδὶ κινήσας, καί μιν πρὸς μῦθον ἔειπεν·"
+    },
+    {
+      "n": 46,
+      "greek": "ἔγρεο, Νεστορίδη Πεισίστρατε, μώνυχας ἵππους"
+    },
+    {
+      "n": 47,
+      "greek": "ζεῦξον ὑφʼ ἅρματʼ ἄγων, ὄφρα πρήσσωμεν ὁδοῖο."
+    },
+    {
+      "n": 48,
+      "greek": "τὸν δʼ αὖ Νεστορίδης Πεισίστρατος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 49,
+      "greek": "Τηλέμαχʼ, οὔ πως ἔστιν ἐπειγομένους περ ὁδοῖο"
+    },
+    {
+      "n": 50,
+      "greek": "νύκτα διὰ δνοφερὴν ἐλάαν· τάχα δʼ ἔσσεται ἠώς."
+    },
+    {
+      "n": 51,
+      "greek": "ἀλλὰ μένʼ εἰς ὅ κε δῶρα φέρων ἐπιδίφρια θήῃ"
+    },
+    {
+      "n": 52,
+      "greek": "ἥρως Ἀτρείδης, δουρικλειτὸς Μενέλαος,"
+    },
+    {
+      "n": 53,
+      "greek": "καὶ μύθοις ἀγανοῖσι παραυδήσας ἀποπέμψῃ."
+    },
+    {
+      "n": 54,
+      "greek": "τοῦ γάρ τε ξεῖνος μιμνήσκεται ἤματα πάντα"
+    },
+    {
+      "n": 55,
+      "greek": "ἀνδρὸς ξεινοδόκου, ὅς κεν φιλότητα παράσχῃ."
+    },
+    {
+      "n": 56,
+      "greek": "ὣς ἔφατʼ, αὐτίκα δὲ χρυσόθρονος ἤλυθεν Ἠώς."
+    },
+    {
+      "n": 57,
+      "greek": "ἀγχίμολον δέ σφʼ ἦλθε βοὴν ἀγαθὸς Μενέλαος,"
+    },
+    {
+      "n": 58,
+      "greek": "ἀνστὰς ἐξ εὐνῆς, Ἑλένης πάρα καλλικόμοιο."
+    },
+    {
+      "n": 59,
+      "greek": "τὸν δʼ ὡς οὖν ἐνόησεν Ὀδυσσῆος φίλος υἱός,"
+    },
+    {
+      "n": 60,
+      "greek": "σπερχόμενός ῥα χιτῶνα περὶ χροῒ σιγαλόεντα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "rousing him with a touch of his heel, and spoke to him, saying: “Awake, Peisistratus, son of Nestor; bring up thy fiery-hoofed horses, and yoke them beneath the car, that we may speed on our way.” Then Peisistratus, son of Nestor, answered, and said: “Telemachus, in no wise may we"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "drive through the dark night, how eager soever for our journey; and soon it will be dawn. Wait then, until the warrior son of Atreus, Menelaus, famed for his spear, shall bring gifts and set them on the car, and shall send us on our way with kindly words of farewell. For a guest remembers all his days"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "the host who shews him kindness.” So he spoke, and presently came golden-throned Dawn. Up to them then came Menelaus, good at the war-cry, rising from his couch from beside fair-tressed Helen. And when the prince, the dear son of Odysseus, saw him,"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "he made haste to put about him his bright tunic, and to fling over his mighty shoulders a great cloak, and went forth. Then Telemachus, the dear son of divine Odysseus, came up to Menelaus, and addressed him, saying: “Menelaus, son of Atreus, fostered of Zeus, leader of hosts,"
+    }
+  ]
+}

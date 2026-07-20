@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ἦ ῥα, καὶ ἐκ χειρὸς χεῖρα σπάσατʼ Ἀντινόοιο"
+    },
+    {
+      "n": 322,
+      "greek": "ῥεῖα· μνηστῆρες δὲ δόμον κάτα δαῖτα πένοντο."
+    },
+    {
+      "n": 323,
+      "greek": "οἱ δʼ ἐπελώβευον καὶ ἐκερτόμεον ἐπέεσσιν."
+    },
+    {
+      "n": 324,
+      "greek": "ὧδε δέ τις εἴπεσκε νέων ὑπερηνορεόντων·"
+    },
+    {
+      "n": 325,
+      "greek": "ἦ μάλα Τηλέμαχος φόνον ἡμῖν μερμηρίζει."
+    },
+    {
+      "n": 326,
+      "greek": "ἤ τινας ἐκ Πύλου ἄξει ἀμύντορας ἠμαθόεντος"
+    },
+    {
+      "n": 327,
+      "greek": "ἢ ὅ γε καὶ Σπάρτηθεν, ἐπεί νύ περ ἵεται αἰνῶς·"
+    },
+    {
+      "n": 328,
+      "greek": "ἠὲ καὶ εἰς Ἐφύρην ἐθέλει, πίειραν ἄρουραν,"
+    },
+    {
+      "n": 329,
+      "greek": "ἐλθεῖν, ὄφρʼ ἔνθεν θυμοφθόρα φάρμακʼ ἐνείκῃ,"
+    },
+    {
+      "n": 330,
+      "greek": "ἐν δὲ βάλῃ κρητῆρι καὶ ἡμέας πάντας ὀλέσσῃ."
+    },
+    {
+      "n": 331,
+      "greek": "ἄλλος δʼ αὖτʼ εἴπεσκε νέων ὑπερηνορεόντων·"
+    },
+    {
+      "n": 332,
+      "greek": "τίς δʼ οἶδʼ, εἴ κε καὶ αὐτὸς ἰὼν κοίλης ἐπὶ νηὸς"
+    },
+    {
+      "n": 333,
+      "greek": "τῆλε φίλων ἀπόληται ἀλώμενος ὥς περ Ὀδυσσεύς;"
+    },
+    {
+      "n": 334,
+      "greek": "οὕτω κεν καὶ μᾶλλον ὀφέλλειεν πόνον ἄμμιν·"
+    },
+    {
+      "n": 335,
+      "greek": "κτήματα γάρ κεν πάντα δασαίμεθα, οἰκία δʼ αὖτε"
+    },
+    {
+      "n": 336,
+      "greek": "τούτου μητέρι δοῖμεν ἔχειν ἠδʼ ὅς τις ὀπυίοι."
+    },
+    {
+      "n": 337,
+      "greek": "ὣς φάν, ὁ δʼ ὑψόροφον θάλαμον κατεβήσετο πατρὸς"
+    },
+    {
+      "n": 338,
+      "greek": "εὐρύν, ὅθι νητὸς χρυσὸς καὶ χαλκὸς ἔκειτο"
+    },
+    {
+      "n": 339,
+      "greek": "ἐσθής τʼ ἐν χηλοῖσιν ἅλις τʼ ἐυῶδες ἔλαιον·"
+    },
+    {
+      "n": 340,
+      "greek": "ἐν δὲ πίθοι οἴνοιο παλαιοῦ ἡδυπότοιο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "“Aye, verily Telemachus is planning our murder. He will bring men to aid him from sandy Pylos or even from Sparta, so terribly is he set upon it. Or he means to go to Ephyre, that rich land, to bring from thence deadly drugs,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "that he may cast them in the wine-bowl, and destroy us all.” And again another of the proud youths would say: “Who knows but he himself as he goes on the hollow ship may perish wandering far from his friends, even as Odysseus did? So would he cause us yet more labour;"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "for we should have to divide all his possessions, and his house we should give to his mother to possess, and to him who should wed her.” So they spoke, but Telemachus went down to the high-roofed treasure-chamber of his father, a wide room where gold and bronze lay piled, and raiment in chests, and stores of fragrant oil."
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "There, too, stood great jars of wine, old and sweet, holding within them an unmixed divine drink, and ranged in order along the wall, if ever Odysseus should return home even after many grievous toils. Shut were"
+    }
+  ]
+}

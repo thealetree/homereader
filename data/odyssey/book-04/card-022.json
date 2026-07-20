@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "τοῖος ἐὼν οἷόν κε κατευνηθέντα ἴδησθε,"
+    },
+    {
+      "n": 422,
+      "greek": "καὶ τότε δὴ σχέσθαι τε βίης λῦσαί τε γέροντα,"
+    },
+    {
+      "n": 423,
+      "greek": "ἥρως, εἴρεσθαι δέ, θεῶν ὅς τίς σε χαλέπτει,"
+    },
+    {
+      "n": 424,
+      "greek": "νόστον θʼ, ὡς ἐπὶ πόντον ἐλεύσεαι ἰχθυόεντα."
+    },
+    {
+      "n": 425,
+      "greek": "ὣς εἰποῦσʼ ὑπὸ πόντον ἐδύσετο κυμαίνοντα."
+    },
+    {
+      "n": 426,
+      "greek": "αὐτὰρ ἐγὼν ἐπὶ νῆας, ὅθʼ ἕστασαν ἐν ψαμάθοισιν,"
+    },
+    {
+      "n": 427,
+      "greek": "ἤια· πολλὰ δέ μοι κραδίη πόρφυρε κιόντι."
+    },
+    {
+      "n": 428,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐπὶ νῆα κατήλυθον ἠδὲ θάλασσαν,"
+    },
+    {
+      "n": 429,
+      "greek": "δόρπον θʼ ὁπλισάμεσθʼ, ἐπί τʼ ἤλυθεν ἀμβροσίη νύξ·"
+    },
+    {
+      "n": 430,
+      "greek": "δὴ τότε κοιμήθημεν ἐπὶ ῥηγμῖνι θαλάσσης."
+    },
+    {
+      "n": 431,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 432,
+      "greek": "καὶ τότε δὴ παρὰ θῖνα θαλάσσης εὐρυπόροιο"
+    },
+    {
+      "n": 433,
+      "greek": "ἤια πολλὰ θεοὺς γουνούμενος· αὐτὰρ ἑταίρους"
+    },
+    {
+      "n": 434,
+      "greek": "τρεῖς ἄγον, οἷσι μάλιστα πεποίθεα πᾶσαν ἐπʼ ἰθύν."
+    },
+    {
+      "n": 435,
+      "greek": "τόφρα δʼ ἄρʼ ἥ γʼ ὑποδῦσα θαλάσσης εὐρέα κόλπον"
+    },
+    {
+      "n": 436,
+      "greek": "τέσσαρα φωκάων ἐκ πόντου δέρματʼ ἔνεικε·"
+    },
+    {
+      "n": 437,
+      "greek": "πάντα δʼ ἔσαν νεόδαρτα· δόλον δʼ ἐπεμήδετο πατρί."
+    },
+    {
+      "n": 438,
+      "greek": "εὐνὰς δʼ ἐν ψαμάθοισι διαγλάψασʼ ἁλίῃσιν"
+    },
+    {
+      "n": 439,
+      "greek": "ἧστο μένουσʼ· ἡμεῖς δὲ μάλα σχεδὸν ἤλθομεν αὐτῆς·"
+    },
+    {
+      "n": 440,
+      "greek": "ἑξείης δʼ εὔνησε, βάλεν δʼ ἐπὶ δέρμα ἑκάστῳ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "“So saying she plunged beneath the surging sea, but I went to my ships, where they stood on the sand, and many things did my heart darkly ponder as I went. But when I had come down to the ship and to the sea, and we had made ready our supper, and immortal night had come on,"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "then we lay down to rest on the shore of the sea. And as soon as early Dawn appeared, the rosy-fingered, I went along the shore of the broad-wayed sea, praying earnestly to the gods; and I took with me three of my comrades, in whom I trusted most for every adventure."
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "“She meanwhile had plunged beneath the broad bosom of the sea, and had brought forth from the deep the skins of four seals, and all were newly flayed; and she devised a plot against her father. She had scooped out lairs in the sand of the sea, and sat waiting; and we came very near to her,"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "and she made us to lie down in a row, and cast a skin over each. Then would our ambush have proved most terrible, for terribly did the deadly stench of the brine-bred seals distress us—who would lay him down by a beast of the sea?—but she of herself delivered us, and devised a great boon;"
+    }
+  ]
+}

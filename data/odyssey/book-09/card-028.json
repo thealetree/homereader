@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 28,
+  "lineStart": 541,
+  "lineEnd": 560,
+  "lines": [
+    {
+      "n": 541,
+      "greek": "ἐκλύσθη δὲ θάλασσα κατερχομένης ὑπὸ πέτρης·"
+    },
+    {
+      "n": 542,
+      "greek": "τὴν δὲ πρόσω φέρε κῦμα, θέμωσε δὲ χέρσον ἱκέσθαι."
+    },
+    {
+      "n": 543,
+      "greek": "ἀλλʼ ὅτε δὴ τὴν νῆσον ἀφικόμεθʼ, ἔνθα περ ἄλλαι"
+    },
+    {
+      "n": 544,
+      "greek": "νῆες ἐύσσελμοι μένον ἁθρόαι, ἀμφὶ δʼ ἑταῖροι"
+    },
+    {
+      "n": 545,
+      "greek": "ἥατʼ ὀδυρόμενοι, ἡμέας ποτιδέγμενοι αἰεί,"
+    },
+    {
+      "n": 546,
+      "greek": "νῆα μὲν ἔνθʼ ἐλθόντες ἐκέλσαμεν ἐν ψαμάθοισιν,"
+    },
+    {
+      "n": 547,
+      "greek": "ἐκ δὲ καὶ αὐτοὶ βῆμεν ἐπὶ ῥηγμῖνι θαλάσσης."
+    },
+    {
+      "n": 548,
+      "greek": "μῆλα δὲ Κύκλωπος γλαφυρῆς ἐκ νηὸς ἑλόντες"
+    },
+    {
+      "n": 549,
+      "greek": "δασσάμεθʼ, ὡς μή τίς μοι ἀτεμβόμενος κίοι ἴσης."
+    },
+    {
+      "n": 550,
+      "greek": "ἀρνειὸν δʼ ἐμοὶ οἴῳ ἐυκνήμιδες ἑταῖροι"
+    },
+    {
+      "n": 551,
+      "greek": "μήλων δαιομένων δόσαν ἔξοχα· τὸν δʼ ἐπὶ θινὶ"
+    },
+    {
+      "n": 552,
+      "greek": "Ζηνὶ κελαινεφέι Κρονίδῃ, ὃς πᾶσιν ἀνάσσει,"
+    },
+    {
+      "n": 553,
+      "greek": "ῥέξας μηρίʼ ἔκαιον· ὁ δʼ οὐκ ἐμπάζετο ἱρῶν,"
+    },
+    {
+      "n": 554,
+      "greek": "ἀλλʼ ὅ γε μερμήριξεν ὅπως ἀπολοίατο πᾶσαι"
+    },
+    {
+      "n": 555,
+      "greek": "νῆες ἐύσσελμοι καὶ ἐμοὶ ἐρίηρες ἑταῖροι."
+    },
+    {
+      "n": 556,
+      "greek": "ὣς τότε μὲν πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα"
+    },
+    {
+      "n": 557,
+      "greek": "ἥμεθα δαινύμενοι κρέα τʼ ἄσπετα καὶ μέθυ ἡδύ·"
+    },
+    {
+      "n": 558,
+      "greek": "ἦμος δʼ ἠέλιος κατέδυ καὶ ἐπὶ κνέφας ἦλθε,"
+    },
+    {
+      "n": 559,
+      "greek": "δὴ τότε κοιμήθημεν ἐπὶ ῥηγμῖνι θαλάσσης."
+    },
+    {
+      "n": 560,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        549
+      ],
+      "text": "ever expecting us, sat weeping, then, on coming thither, we beached our ship on the sands, and ourselves went forth upon the shore of the sea. Then we took from out the hollow ship the flocks of the Cyclops, and divided them, that so far as in me lay no man might go defrauded of an equal share."
+    },
+    {
+      "lines": [
+        550,
+        554
+      ],
+      "text": "But the ram my well-greaved comrades gave to me alone, when the flocks were divided, as a gift apart; and on the shore I sacrificed him to Zeus, son of Cronos, god of the dark clouds, who is lord of all, and burned the thigh-pieces. Howbeit he heeded not my sacrifice, but was planning how all"
+    },
+    {
+      "lines": [
+        555,
+        559
+      ],
+      "text": "my well-benched ships might perish and my trusty comrades. “So, then, all day long till set of sun we sat feasting on abundant flesh and sweet wine; but when the sun set and darkness came on, then we lay down to rest on the shore of the sea."
+    },
+    {
+      "lines": [
+        560,
+        560
+      ],
+      "text": "And as soon as early Dawn appeared, the rosy-fingered, I roused my comrades, and bade them themselves to embark and to loose the stern cables. So they went on board straightway and sat down upon the benches, and sitting well in order smote the grey sea with their oars."
+    }
+  ]
+}

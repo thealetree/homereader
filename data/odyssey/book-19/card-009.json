@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "οἴκου κήδεσθαι, τῷ τε Ζεὺς κῦδος ὀπάζει."
+    },
+    {
+      "n": 162,
+      "greek": "ἀλλὰ καὶ ὥς μοι εἰπὲ τεὸν γένος, ὁππόθεν ἐσσί."
+    },
+    {
+      "n": 163,
+      "greek": "οὐ γὰρ ἀπὸ δρυός ἐσσι παλαιφάτου οὐδʼ ἀπὸ πέτρης."
+    },
+    {
+      "n": 164,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 165,
+      "greek": "ὦ γύναι αἰδοίη Λαερτιάδεω Ὀδυσῆος,"
+    },
+    {
+      "n": 166,
+      "greek": "οὐκέτʼ ἀπολλήξεις τὸν ἐμὸν γόνον ἐξερέουσα;"
+    },
+    {
+      "n": 167,
+      "greek": "ἀλλʼ ἔκ τοι ἐρέω· ἦ μέν μʼ ἀχέεσσί γε δώσεις"
+    },
+    {
+      "n": 168,
+      "greek": "πλείοσιν ἢ ἔχομαι· ἡ γὰρ δίκη, ὁππότε πάτρης"
+    },
+    {
+      "n": 169,
+      "greek": "ἧς ἀπέῃσιν ἀνὴρ τόσσον χρόνον ὅσσον ἐγὼ νῦν,"
+    },
+    {
+      "n": 170,
+      "greek": "πολλὰ βροτῶν ἐπὶ ἄστεʼ ἀλώμενος, ἄλγεα πάσχων·"
+    },
+    {
+      "n": 171,
+      "greek": "ἀλλὰ καὶ ὣς ἐρέω ὅ μʼ ἀνείρεαι ἠδὲ μεταλλᾷς."
+    },
+    {
+      "n": 172,
+      "greek": "Κρήτη τις γαῖʼ ἔστι, μέσῳ ἐνὶ οἴνοπι πόντῳ,"
+    },
+    {
+      "n": 173,
+      "greek": "καλὴ καὶ πίειρα, περίρρυτος· ἐν δʼ ἄνθρωποι"
+    },
+    {
+      "n": 174,
+      "greek": "πολλοί, ἀπειρέσιοι, καὶ ἐννήκοντα πόληες."
+    },
+    {
+      "n": 175,
+      "greek": "ἄλλη δʼ ἄλλων γλῶσσα μεμιγμένη· ἐν μὲν Ἀχαιοί,"
+    },
+    {
+      "n": 176,
+      "greek": "ἐν δʼ Ἐτεόκρητες μεγαλήτορες, ἐν δὲ Κύδωνες,"
+    },
+    {
+      "n": 177,
+      "greek": "Δωριέες τε τριχάϊκες δῖοί τε Πελασγοί."
+    },
+    {
+      "n": 178,
+      "greek": "τῇσι δʼ ἐνὶ Κνωσός, μεγάλη πόλις, ἔνθα τε Μίνως"
+    },
+    {
+      "n": 179,
+      "greek": "ἐννέωρος βασίλευε Διὸς μεγάλου ὀαριστής,"
+    },
+    {
+      "n": 180,
+      "greek": "πατρὸς ἐμοῖο πατήρ, μεγαθύμου Δευκαλίωνος"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "“Honored wife of Odysseus, son of Laertes, wilt thou never cease to ask me of my lineage? Well, I will tell thee; though verily thou wilt give me over to pains yet more than those by which I am now held in thrall; for so it ever is, when a man has been far from his country as long as I have now,"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "wandering through the many cities of men in sore distress. Yet even so will I tell thee what thou dost ask and enquire. There is a land called Crete, in the midst of the wine-dark sea, a fair, rich land, begirt with water, and therein are many men, past counting, and ninety cities."
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "They have not all the same speech, but their tongues are mixed. There dwell Achaeans, there great-hearted native Cretans, there Cydonians, and Dorians of waving plumes, and goodly Pelasgians. Among their cities is the great city Cnosus, where Minos reigned when nine years old, he that held converse with great Zeus,"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "and was father of my father, great-hearted Deucalion. Now Deucalion begat me and prince Idomeneus. Idomeneus had gone forth in his beaked ships to Ilios with the sons of Atreus; but my famous name is Aethon; I was the younger by birth, while he was the elder and the better man."
+    }
+  ]
+}

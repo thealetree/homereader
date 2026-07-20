@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "ὤπασαν οἴκαδʼ ἰόντι διὰ μεγάθυμον Ἀθήνην."
+    },
+    {
+      "n": 122,
+      "greek": "καὶ τὰ μὲν οὖν παρὰ πυθμένʼ ἐλαίης ἀθρόα θῆκαν"
+    },
+    {
+      "n": 123,
+      "greek": "ἐκτὸς ὁδοῦ, μή πώς τις ὁδιτάων ἀνθρώπων,"
+    },
+    {
+      "n": 124,
+      "greek": "πρίν γʼ Ὀδυσῆʼ ἔγρεσθαι, ἐπελθὼν δηλήσαιτο·"
+    },
+    {
+      "n": 125,
+      "greek": "αὐτοὶ δʼ αὖτʼ οἶκόνδε πάλιν κίον. οὐδʼ ἐνοσίχθων"
+    },
+    {
+      "n": 126,
+      "greek": "λήθετʼ ἀπειλάων, τὰς ἀντιθέῳ Ὀδυσῆϊ"
+    },
+    {
+      "n": 127,
+      "greek": "πρῶτον ἐπηπείλησε, Διὸς δʼ ἐξείρετο βουλήν·"
+    },
+    {
+      "n": 128,
+      "greek": "Ζεῦ πάτερ, οὐκέτʼ ἐγώ γε μετʼ ἀθανάτοισι θεοῖσι"
+    },
+    {
+      "n": 129,
+      "greek": "τιμήεις ἔσομαι, ὅτε με βροτοὶ οὔ τι τίουσιν,"
+    },
+    {
+      "n": 130,
+      "greek": "Φαίηκες, τοί πέρ τοι ἐμῆς ἔξ εἰσι γενέθλης."
+    },
+    {
+      "n": 131,
+      "greek": "καὶ γὰρ νῦν Ὀδυσῆʼ ἐφάμην κακὰ πολλὰ παθόντα"
+    },
+    {
+      "n": 132,
+      "greek": "οἴκαδʼ ἐλεύσεσθαι· νόστον δέ οἱ οὔ ποτʼ ἀπηύρων"
+    },
+    {
+      "n": 133,
+      "greek": "πάγχυ, ἐπεὶ σὺ πρῶτον ὑπέσχεο καὶ κατένευσας."
+    },
+    {
+      "n": 134,
+      "greek": "οἱ δʼ εὕδοντʼ ἐν νηῒ θοῇ ἐπὶ πόντον ἄγοντες"
+    },
+    {
+      "n": 135,
+      "greek": "κάτθεσαν εἰν Ἰθάκῃ, ἔδοσαν δέ οἱ ἄσπετα δῶρα,"
+    },
+    {
+      "n": 136,
+      "greek": "χαλκόν τε χρυσόν τε ἅλις ἐσθῆτά θʼ ὑφαντήν,"
+    },
+    {
+      "n": 137,
+      "greek": "πόλλʼ, ὅσʼ ἂν οὐδέ ποτε Τροίης ἐξήρατʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 138,
+      "greek": "εἴ περ ἀπήμων ἦλθε, λαχὼν ἀπὸ ληΐδος αἶσαν."
+    },
+    {
+      "n": 139,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη νεφεληγερέτα Ζεὺς·"
+    },
+    {
+      "n": 140,
+      "greek": "ὢ πόποι, ἐννοσίγαιʼ εὐρυσθενές, οἷον ἔειπες."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "Then they themselves returned home again. But the Shaker of the Earth did not forget the threats wherewith at the first he had threatened godlike Odysseus, and he thus enquired of the purpose of Zeus: “Father Zeus, no longer shall I, even I, be held in honor among the immortal gods, seeing that mortals honor me not a whit—"
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "even the Phaeacians, who, thou knowest, are of my own lineage. For I but now declared that Odysseus should suffer many woes ere he reached his home, though I did not wholly rob him of his return when once thou hadst promised it and confirmed it with thy nod; yet in his sleep these men have borne him in a swift ship over the sea"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "and set him down in Ithaca, and have given him gifts past telling, stores of bronze and gold and woven raiment, more than Odysseus would ever have won for himself from Troy, if he had returned unscathed with his due share of the spoil.” Then Zeus, the cloud-gatherer, answered him, and said:"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "“Ah me, thou shaker of the earth, wide of sway, what a thing hast thou said! The gods do thee no dishonor; hard indeed would it be to assail with dishonor our eldest and best. But as for men, if any one, yielding to his might and strength, fails to do thee honor in aught, thou mayest ever take vengeance, even thereafter."
+    }
+  ]
+}

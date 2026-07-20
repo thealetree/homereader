@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 25,
+  "lineStart": 482,
+  "lineEnd": 501,
+  "lines": [
+    {
+      "n": 482,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδων·"
+    },
+    {
+      "n": 483,
+      "greek": "ὢ Κίρκη, τέλεσόν μοι ὑπόσχεσιν ἥν περ ὑπέστης,"
+    },
+    {
+      "n": 484,
+      "greek": "οἴκαδε πεμψέμεναι· θυμὸς δέ μοι ἔσσυται ἤδη,"
+    },
+    {
+      "n": 485,
+      "greek": "ἠδʼ ἄλλων ἑτάρων, οἵ μευ φθινύθουσι φίλον κῆρ"
+    },
+    {
+      "n": 486,
+      "greek": "ἀμφʼ ἔμʼ ὀδυρόμενοι, ὅτε που σύ γε νόσφι γένηαι."
+    },
+    {
+      "n": 487,
+      "greek": "ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀμείβετο δῖα θεάων·"
+    },
+    {
+      "n": 488,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 489,
+      "greek": "μηκέτι νῦν ἀέκοντες ἐμῷ ἐνὶ μίμνετε οἴκῳ."
+    },
+    {
+      "n": 490,
+      "greek": "ἀλλʼ ἄλλην χρὴ πρῶτον ὁδὸν τελέσαι καὶ ἱκέσθαι"
+    },
+    {
+      "n": 491,
+      "greek": "εἰς Ἀίδαο δόμους καὶ ἐπαινῆς Περσεφονείης,"
+    },
+    {
+      "n": 492,
+      "greek": "ψυχῇ χρησομένους Θηβαίου Τειρεσίαο,"
+    },
+    {
+      "n": 493,
+      "greek": "μάντηος ἀλαοῦ, τοῦ τε φρένες ἔμπεδοί εἰσι·"
+    },
+    {
+      "n": 494,
+      "greek": "τῷ καὶ τεθνηῶτι νόον πόρε Περσεφόνεια,"
+    },
+    {
+      "n": 495,
+      "greek": "οἴῳ πεπνῦσθαι, τοὶ δὲ σκιαὶ ἀίσσουσιν."
+    },
+    {
+      "n": 496,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐμοί γε κατεκλάσθη φίλον ἦτορ·"
+    },
+    {
+      "n": 497,
+      "greek": "κλαῖον δʼ ἐν λεχέεσσι καθήμενος, οὐδέ νύ μοι κῆρ"
+    },
+    {
+      "n": 498,
+      "greek": "ἤθελʼ ἔτι ζώειν καὶ ὁρᾶν φάος ἠελίοιο."
+    },
+    {
+      "n": 499,
+      "greek": "αὐτὰρ ἐπεὶ κλαίων τε κυλινδόμενος τʼ ἐκορέσθην,"
+    },
+    {
+      "n": 500,
+      "greek": "καὶ τότε δή μιν ἔπεσσιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 501,
+      "greek": "ὢ Κίρκη, τίς γὰρ ταύτην ὁδὸν ἡγεμονεύσει;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "and the spirit of my comrades, who make my heart to pine, as they sit about me mourning, whensoever thou haply art not at hand.’ “So I spoke, and the beautiful goddess straightway made answer: ‘Son of Laertes, sprung from Zeus, Odysseus of many devices, abide ye now no longer in my house against your will;"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "but you must first complete another journey, and come to the house of Hades and dread Persephone, to seek soothsaying of the spirit of Theban Teiresias, the blind seer, whose mind abides steadfast. To him even in death Persephone has granted reason,"
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "that he alone should have understanding; but the others flit about as shadows.’ “So she spoke, and my spirit was broken within me, and I wept as I sat on the bed, nor had my heart any longer desire to live and behold the light of the sun. But when I had my fill of weeping and writhing,"
+    },
+    {
+      "lines": [
+        500,
+        501
+      ],
+      "text": "then I made answer, and addressed her, saying: “‘O Circe, who will guide us on this journey? To Hades no man ever yet went in a black ship.’ “So I spoke, and the beautiful goddess straightway made answer: ‘Son of Laertes, sprung from Zeus, Odysseus of many devices,"
+    }
+  ]
+}

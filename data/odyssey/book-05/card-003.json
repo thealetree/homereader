@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ὣς γάρ οἱ μοῖρʼ ἐστὶ φίλους τʼ ἰδέειν καὶ ἱκέσθαι"
+    },
+    {
+      "n": 42,
+      "greek": "οἶκον ἐς ὑψόροφον καὶ ἑὴν ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 43,
+      "greek": "ὣς ἔφατʼ, οὐδʼ ἀπίθησε διάκτορος ἀργεϊφόντης."
+    },
+    {
+      "n": 44,
+      "greek": "αὐτίκʼ ἔπειθʼ ὑπὸ ποσσὶν ἐδήσατο καλὰ πέδιλα,"
+    },
+    {
+      "n": 45,
+      "greek": "ἀμβρόσια χρύσεια, τά μιν φέρον ἠμὲν ἐφʼ ὑγρὴν"
+    },
+    {
+      "n": 46,
+      "greek": "ἠδʼ ἐπʼ ἀπείρονα γαῖαν ἅμα πνοιῇς ἀνέμοιο."
+    },
+    {
+      "n": 47,
+      "greek": "εἵλετο δὲ ῥάβδον, τῇ τʼ ἀνδρῶν ὄμματα θέλγει,"
+    },
+    {
+      "n": 48,
+      "greek": "ὧν ἐθέλει, τοὺς δʼ αὖτε καὶ ὑπνώοντας ἐγείρει."
+    },
+    {
+      "n": 49,
+      "greek": "τὴν μετὰ χερσὶν ἔχων πέτετο κρατὺς ἀργεϊφόντης."
+    },
+    {
+      "n": 50,
+      "greek": "Πιερίην δʼ ἐπιβὰς ἐξ αἰθέρος ἔμπεσε πόντῳ·"
+    },
+    {
+      "n": 51,
+      "greek": "σεύατʼ ἔπειτʼ ἐπὶ κῦμα λάρῳ ὄρνιθι ἐοικώς,"
+    },
+    {
+      "n": 52,
+      "greek": "ὅς τε κατὰ δεινοὺς κόλπους ἁλὸς ἀτρυγέτοιο"
+    },
+    {
+      "n": 53,
+      "greek": "ἰχθῦς ἀγρώσσων πυκινὰ πτερὰ δεύεται ἅλμῃ·"
+    },
+    {
+      "n": 54,
+      "greek": "τῷ ἴκελος πολέεσσιν ὀχήσατο κύμασιν Ἑρμῆς."
+    },
+    {
+      "n": 55,
+      "greek": "ἀλλʼ ὅτε δὴ τὴν νῆσον ἀφίκετο τηλόθʼ ἐοῦσαν,"
+    },
+    {
+      "n": 56,
+      "greek": "ἔνθʼ ἐκ πόντου βὰς ἰοειδέος ἤπειρόνδε"
+    },
+    {
+      "n": 57,
+      "greek": "ἤιεν, ὄφρα μέγα σπέος ἵκετο, τῷ ἔνι νύμφη"
+    },
+    {
+      "n": 58,
+      "greek": "ναῖεν ἐυπλόκαμος· τὴν δʼ ἔνδοθι τέτμεν ἐοῦσαν."
+    },
+    {
+      "n": 59,
+      "greek": "πῦρ μὲν ἐπʼ ἐσχαρόφιν μέγα καίετο, τηλόσε δʼ ὀδμὴ"
+    },
+    {
+      "n": 60,
+      "greek": "κέδρου τʼ εὐκεάτοιο θύου τʼ ἀνὰ νῆσον ὀδώδει"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "immortal, golden, which were wont to bear him over the waters of the sea and over the boundless land swift as the blasts of the wind. And he took the wand wherewith he lulls to sleep the eyes of whom he will, while others again he awakens even out of slumber. With this in his hand the strong Argeiphontes flew."
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "On to Pieria he stepped from the upper air, and swooped down upon the sea, and then sped over the wave like a bird, the cormorant, which in quest of fish over the dread gulfs of the unresting sea wets its thick plumage in the brine. In such wise did Hermes ride upon the multitudinous waves."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "But when he had reached the island which lay afar, then forth from the violet sea he came to land, and went his way until he came to a great cave, wherein dwelt the fair-tressed nymph; and he found her within. A great fire was burning on the hearth, and from afar over the isle there was a fragrance"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "of cleft cedar and juniper, as they burned; but she within was singing with a sweet voice as she went to and fro before the loom, weaving with a golden shuttle. Round about the cave grew a luxuriant wood, alder and poplar and sweet-smelling cypress,"
+    }
+  ]
+}

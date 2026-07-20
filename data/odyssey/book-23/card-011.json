@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 11,
+  "lineStart": 202,
+  "lineEnd": 221,
+  "lines": [
+    {
+      "n": 202,
+      "greek": "οὕτω τοι τόδε σῆμα πιφαύσκομαι· οὐδέ τι οἶδα,"
+    },
+    {
+      "n": 203,
+      "greek": "ἤ μοι ἔτʼ ἔμπεδόν ἐστι, γύναι, λέχος, ἦέ τις ἤδη"
+    },
+    {
+      "n": 204,
+      "greek": "ἀνδρῶν ἄλλοσε θῆκε, ταμὼν ὕπο πυθμένʼ ἐλαίης."
+    },
+    {
+      "n": 205,
+      "greek": "ὣς φάτο, τῆς δʼ αὐτοῦ λύτο γούνατα καὶ φίλον ἦτορ,"
+    },
+    {
+      "n": 206,
+      "greek": "σήματʼ ἀναγνούσῃ τά οἱ ἔμπεδα πέφραδʼ Ὀδυσσεύς·"
+    },
+    {
+      "n": 207,
+      "greek": "δακρύσασα δʼ ἔπειτʼ ἰθὺς δράμεν, ἀμφὶ δὲ χεῖρας"
+    },
+    {
+      "n": 208,
+      "greek": "δειρῇ βάλλʼ Ὀδυσῆϊ, κάρη δʼ ἔκυσʼ ἠδὲ προσηύδα·"
+    },
+    {
+      "n": 209,
+      "greek": "μή μοι, Ὀδυσσεῦ, σκύζευ, ἐπεὶ τά περ ἄλλα μάλιστα"
+    },
+    {
+      "n": 210,
+      "greek": "ἀνθρώπων πέπνυσο· θεοὶ δʼ ὤπαζον ὀϊζύν,"
+    },
+    {
+      "n": 211,
+      "greek": "οἳ νῶϊν ἀγάσαντο παρʼ ἀλλήλοισι μένοντε"
+    },
+    {
+      "n": 212,
+      "greek": "ἥβης ταρπῆναι καὶ γήραος οὐδὸν ἱκέσθαι."
+    },
+    {
+      "n": 213,
+      "greek": "αὐτὰρ μὴ νῦν μοι τόδε χώεο μηδὲ νεμέσσα,"
+    },
+    {
+      "n": 214,
+      "greek": "οὕνεκά σʼ οὐ τὸ πρῶτον, ἐπεὶ ἴδον, ὧδʼ ἀγάπησα."
+    },
+    {
+      "n": 215,
+      "greek": "αἰεὶ γάρ μοι θυμὸς ἐνὶ στήθεσσι φίλοισιν"
+    },
+    {
+      "n": 216,
+      "greek": "ἐρρίγει μή τίς με βροτῶν ἀπάφοιτο ἔπεσσιν"
+    },
+    {
+      "n": 217,
+      "greek": "ἐλθών· πολλοὶ γὰρ κακὰ κέρδεα βουλεύουσιν."
+    },
+    {
+      "n": 218,
+      "greek": "οὐδέ κεν Ἀργείη Ἑλένη, Διὸς ἐκγεγαυῖα,"
+    },
+    {
+      "n": 219,
+      "greek": "ἀνδρὶ παρʼ ἀλλοδαπῷ ἐμίγη φιλότητι καὶ εὐνῇ,"
+    },
+    {
+      "n": 220,
+      "greek": "εἰ ᾔδη ὅ μιν αὖτις ἀρήϊοι υἷες Ἀχαιῶν"
+    },
+    {
+      "n": 221,
+      "greek": "ἀξέμεναι οἶκόνδε φίλην ἐς πατρίδʼ ἔμελλον."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "So he spoke, and her knees were loosened where she sat, and her heart melted, as she knew the sure tokens which Odysseus told her. Then with a burst of tears she ran straight toward him, and flung her arms about the neck of Odysseus, and kissed his head, and spoke, saying: “Be not vexed with me, Odysseus, for in all else"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "thou wast ever the wisest of men. It is the gods that gave us sorrow, the gods who begrudged that we two should remain with each other and enjoy our youth, and come to the threshold of old age. But be not now wroth with me for this, nor full of indignation, because at the first, when I saw thee, I did not thus give thee welcome."
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "For always the heart in my breast was full of dread, lest some man should come and beguile me with his words; for there are many that plan devices of evil. Nay, even Argive Helen, daughter of Zeus, would not have lain in love with a man of another folk,"
+    },
+    {
+      "lines": [
+        220,
+        221
+      ],
+      "text": "had she known that the warlike sons of the Achaeans were to bring her home again to her dear native land. Yet verily in her case a god prompted her to work a shameful deed; nor until then did she lay up in her mind the thought of that folly, the grievous folly from which at the first sorrow came upon us too."
+    }
+  ]
+}

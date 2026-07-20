@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "τὸν δʼ αἰσχρῶς ἐνένιπε Μελανθὼ καλλιπάρῃος,"
+    },
+    {
+      "n": 322,
+      "greek": "τὴν Δολίος μὲν ἔτικτε, κόμισσε δὲ Πηνελόπεια,"
+    },
+    {
+      "n": 323,
+      "greek": "παῖδα δὲ ὣς ἀτίταλλε, δίδου δʼ ἄρʼ ἀθύρματα θυμῷ·"
+    },
+    {
+      "n": 324,
+      "greek": "ἀλλʼ οὐδʼ ὣς ἔχε πένθος ἐνὶ φρεσὶ Πηνελοπείης,"
+    },
+    {
+      "n": 325,
+      "greek": "ἀλλʼ ἥ γʼ Εὐρυμάχῳ μισγέσκετο καὶ φιλέεσκεν."
+    },
+    {
+      "n": 326,
+      "greek": "ἥ ῥʼ Ὀδυσῆʼ ἐνένιπεν ὀνειδείοις ἐπέεσσιν·"
+    },
+    {
+      "n": 327,
+      "greek": "ξεῖνε τάλαν, σύ γέ τις φρένας ἐκπεπαταγμένος ἐσσί,"
+    },
+    {
+      "n": 328,
+      "greek": "οὐδʼ ἐθέλεις εὕδειν χαλκήϊον ἐς δόμον ἐλθών,"
+    },
+    {
+      "n": 329,
+      "greek": "ἠέ που ἐς λέσχην, ἀλλʼ ἐνθάδε πόλλʼ ἀγορεύεις,"
+    },
+    {
+      "n": 330,
+      "greek": "θαρσαλέως πολλοῖσι μετʼ ἀνδράσιν, οὐδέ τι θυμῷ"
+    },
+    {
+      "n": 331,
+      "greek": "ταρβεῖς· ἦ ῥά σε οἶνος ἔχει φρένας, ἤ νύ τοι αἰεὶ"
+    },
+    {
+      "n": 332,
+      "greek": "τοιοῦτος νόος ἐστίν· ὃ καὶ μεταμώνια βάζεις."
+    },
+    {
+      "n": 333,
+      "greek": "ἦ ἀλύεις, ὅτι Ἶρον ἐνίκησας τὸν ἀλήτην;"
+    },
+    {
+      "n": 334,
+      "greek": "μή τίς τοι τάχα Ἴρου ἀμείνων ἄλλος ἀναστῇ,"
+    },
+    {
+      "n": 335,
+      "greek": "ὅς τίς σʼ ἀμφὶ κάρη κεκοπὼς χερσὶ στιβαρῇσι"
+    },
+    {
+      "n": 336,
+      "greek": "δώματος ἐκπέμψῃσι, φορύξας αἵματι πολλῷ."
+    },
+    {
+      "n": 337,
+      "greek": "τὴν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 338,
+      "greek": "ἦ τάχα Τηλεμάχῳ ἐρέω, κύον, οἷʼ ἀγορεύεις,"
+    },
+    {
+      "n": 339,
+      "greek": "κεῖσʼ ἐλθών, ἵνα σʼ αὖθι διὰ μελεϊστὶ τάμῃσιν."
+    },
+    {
+      "n": 340,
+      "greek": "ὣς εἰπὼν ἐπέεσσι διεπτοίησε γυναῖκας."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "but she loved Eurymachus and was wont to lie with him. She then rated Odysseus with reviling words: “Wretched stranger, thou art but a crack-brained fellow, unwilling to go to a smithy to sleep, or to a common lodge, but pratest here continually,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "unabashed in the company of many lords, and hast no fear at heart. Surely wine has mastered thy wits, or else thy mind is ever thus, that thou dost babble idly. Art thou beside thyself because thou hast beaten that vagrant Irus? Beware, lest presently another better than Irus shall rise up against thee"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "to beat thee about the head with heavy hands, and befoul thee with streams of blood, and send thee forth from the house.” Then with an angry glance from beneath his brows Odysseus of many wiles answered her: “Presently shall I go yonder, thou shameless thing, and tell Telemachus, since thou speakest thus, that on the spot he may cut thee limb from limb.”"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "So he spoke, and with his words scattered the women, who fled through the hall, and the limbs of each were loosened beneath her in terror, for they thought that he spoke truth. But Odysseus took his stand by the burning braziers to give light, and looked upon all the men."
+    }
+  ]
+}

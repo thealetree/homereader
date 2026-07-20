@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 17,
+  "lineStart": 322,
+  "lineEnd": 341,
+  "lines": [
+    {
+      "n": 322,
+      "greek": "ἡ δʼ ἄρʼ ἔπειτʼ Ἰθάκηνδε κατήγετο νηῦς εὐεργής,"
+    },
+    {
+      "n": 323,
+      "greek": "ἣ φέρε Τηλέμαχον Πυλόθεν καὶ πάντας ἑταίρους."
+    },
+    {
+      "n": 324,
+      "greek": "οἱ δʼ ὅτε δὴ λιμένος πολυβενθέος ἐντὸς ἵκοντο,"
+    },
+    {
+      "n": 325,
+      "greek": "νῆα μὲν οἵ γε μέλαιναν ἐπʼ ἠπείροιο ἔρυσσαν,"
+    },
+    {
+      "n": 326,
+      "greek": "τεύχεα δέ σφʼ ἀπένεικαν ὑπέρθυμοι θεράποντες,"
+    },
+    {
+      "n": 327,
+      "greek": "αὐτίκα δʼ ἐς Κλυτίοιο φέρον περικαλλέα δῶρα."
+    },
+    {
+      "n": 328,
+      "greek": "αὐτὰρ κήρυκα πρόεσαν δόμον εἰς Ὀδυσῆος,"
+    },
+    {
+      "n": 329,
+      "greek": "ἀγγελίην ἐρέοντα περίφρονι Πηνελοπείῃ,"
+    },
+    {
+      "n": 330,
+      "greek": "οὕνεκα Τηλέμαχος μὲν ἐπʼ ἀγροῦ, νῆα δʼ ἀνώγει"
+    },
+    {
+      "n": 331,
+      "greek": "ἄστυδʼ ἀποπλείειν, ἵνα μὴ δείσασʼ ἐνὶ θυμῷ"
+    },
+    {
+      "n": 332,
+      "greek": "ἰφθίμη βασίλεια τέρεν κατὰ δάκρυον εἴβοι"
+    },
+    {
+      "n": 333,
+      "greek": "τὼ δὲ συναντήτην κῆρυξ καὶ δῖος ὑφορβὸς"
+    },
+    {
+      "n": 334,
+      "greek": "τῆς αὐτῆς ἕνεκʼ ἀγγελίης, ἐρέοντε γυναικί."
+    },
+    {
+      "n": 335,
+      "greek": "ἀλλʼ ὅτε δή ῥʼ ἵκοντο δόμον θείου βασιλῆος,"
+    },
+    {
+      "n": 336,
+      "greek": "κῆρυξ μέν ῥα μέσῃσι μετὰ δμῳῇσιν ἔειπεν·"
+    },
+    {
+      "n": 337,
+      "greek": "ἤδη τοι, βασίλεια, φίλος πάϊς εἰλήλουθε."
+    },
+    {
+      "n": 338,
+      "greek": "Πηνελοπείῃ δʼ εἶπε συβώτης ἄγχι παραστὰς"
+    },
+    {
+      "n": 339,
+      "greek": "πάνθʼ ὅσα οἱ φίλος υἱὸς ἀνώγει μυθήσασθαι."
+    },
+    {
+      "n": 340,
+      "greek": "αὐτὰρ ἐπεὶ δὴ πᾶσαν ἐφημοσύνην ἀπέειπε,"
+    },
+    {
+      "n": 341,
+      "greek": "βῆ ῥʼ ἴμεναι μεθʼ ὕας, λίπε δʼ ἕρκεά τε μέγαρόν τε."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "drew the black ship up on the shore, while proud squires bore forth their armour and straightway carried the beauteous gifts to the house of Clytius. But they sent a herald forth to the house of Odysseus to bear word to wise Penelope"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "that Telemachus was at the farm, and had bidden the ship to sail on to the city, lest the noble queen might grow anxious and let round tears fall. So the two met, the herald and the goodly swineherd, on the self-same errand, to bear tidings to the lady."
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "And when they reached the palace of the godlike king, the herald spoke out in the midst of the handmaids, and said: “Even now, queen, thy son has come back from Pylos.” But the swineherd came close to Penelope and told her all that her dear son had bidden him say."
+    },
+    {
+      "lines": [
+        340,
+        341
+      ],
+      "text": "And when he had fully told all that had been commanded him, he went his way to the swine and left the courtyard and the hall. But the wooers were dismayed and downcast in spirit, and forth they went from the hall past the great wall of the court, and there before the gates they sat down."
+    }
+  ]
+}

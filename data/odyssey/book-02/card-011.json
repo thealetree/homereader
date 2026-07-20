@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "οὔτε θεοπροπίης ἐμπαζόμεθʼ, ἣν σύ, γεραιέ,"
+    },
+    {
+      "n": 202,
+      "greek": "μυθέαι ἀκράαντον, ἀπεχθάνεαι δʼ ἔτι μᾶλλον."
+    },
+    {
+      "n": 203,
+      "greek": "χρήματα δʼ αὖτε κακῶς βεβρώσεται, οὐδέ ποτʼ ἶσα"
+    },
+    {
+      "n": 204,
+      "greek": "ἔσσεται, ὄφρα κεν ἥ γε διατρίβῃσιν Ἀχαιοὺς"
+    },
+    {
+      "n": 205,
+      "greek": "ὃν γάμον· ἡμεῖς δʼ αὖ ποτιδέγμενοι ἤματα πάντα"
+    },
+    {
+      "n": 206,
+      "greek": "εἵνεκα τῆς ἀρετῆς ἐριδαίνομεν, οὐδὲ μετʼ ἄλλας"
+    },
+    {
+      "n": 207,
+      "greek": "ἐρχόμεθʼ, ἃς ἐπιεικὲς ὀπυιέμεν ἐστὶν ἑκάστῳ."
+    },
+    {
+      "n": 208,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 209,
+      "greek": "Εὐρύμαχʼ ἠδὲ καὶ ἄλλοι, ὅσοι μνηστῆρες ἀγαυοί,"
+    },
+    {
+      "n": 210,
+      "greek": "ταῦτα μὲν οὐχ ὑμέας ἔτι λίσσομαι οὐδʼ ἀγορεύω·"
+    },
+    {
+      "n": 211,
+      "greek": "ἤδη γὰρ τὰ ἴσασι θεοὶ καὶ πάντες Ἀχαιοί."
+    },
+    {
+      "n": 212,
+      "greek": "ἀλλʼ ἄγε μοι δότε νῆα θοὴν καὶ εἴκοσʼ ἑταίρους,"
+    },
+    {
+      "n": 213,
+      "greek": "οἵ κέ μοι ἔνθα καὶ ἔνθα διαπρήσσωσι κέλευθον."
+    },
+    {
+      "n": 214,
+      "greek": "εἶμι γὰρ ἐς Σπάρτην τε καὶ ἐς Πύλον ἠμαθόεντα"
+    },
+    {
+      "n": 215,
+      "greek": "νόστον πευσόμενος πατρὸς δὴν οἰχομένοιο,"
+    },
+    {
+      "n": 216,
+      "greek": "ἤν τίς μοι εἴπῃσι βροτῶν ἢ ὄσσαν ἀκούσω"
+    },
+    {
+      "n": 217,
+      "greek": "ἐκ Διός, ἥ τε μάλιστα φέρει κλέος ἀνθρώποισιν·"
+    },
+    {
+      "n": 218,
+      "greek": "εἰ μέν κεν πατρὸς βίοτον καὶ νόστον ἀκούσω,"
+    },
+    {
+      "n": 219,
+      "greek": "ἦ τʼ ἄν, τρυχόμενός περ, ἔτι τλαίην ἐνιαυτόν·"
+    },
+    {
+      "n": 220,
+      "greek": "εἰ δέ κε τεθνηῶτος ἀκούσω μηδʼ ἔτʼ ἐόντος,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "in the matter of her marriage. And we on our part waiting here day after day are rivals by reason of her excellence, and go not after other women, whom each one might fitly wed.” Then wise Telemachus answered him: “Eurymachus and all ye other lordly wooers,"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "in this matter I entreat you no longer nor speak thereof, for now the gods know it, and all the Achaeans. But come, give me a swift ship and twenty comrades who will accomplish my journey for me to and fro. For I shall go to Sparta and to sandy Pylos"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "to seek tidings of the return of my father that has long been gone, if haply any mortal man may tell me, or I may hear a voice from Zeus, which oftenest brings tidings to men."
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "If so be I shall hear that my father is alive and coming home, then verily, though I am sore afflicted, I could endure for yet a year. But if I shall hear that he is dead and gone, then I will return to my dear native land and heap up a mound for him, and over it pay funeral rites, full many, as is due, and give my mother to a husband.” So saying he sat down, and among them rose"
+    }
+  ]
+}

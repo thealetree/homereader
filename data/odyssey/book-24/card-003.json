@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ἡμεῖς δὲ πρόπαν ἦμαρ ἐμαρνάμεθʼ· οὐδέ κε πάμπαν"
+    },
+    {
+      "n": 42,
+      "greek": "παυσάμεθα πτολέμου, εἰ μὴ Ζεὺς λαίλαπι παῦσεν."
+    },
+    {
+      "n": 43,
+      "greek": "αὐτὰρ ἐπεί σʼ ἐπὶ νῆας ἐνείκαμεν ἐκ πολέμοιο,"
+    },
+    {
+      "n": 44,
+      "greek": "κάτθεμεν ἐν λεχέεσσι, καθήραντες χρόα καλὸν"
+    },
+    {
+      "n": 45,
+      "greek": "ὕδατί τε λιαρῷ καὶ ἀλείφατι· πολλὰ δέ σʼ ἀμφὶ"
+    },
+    {
+      "n": 46,
+      "greek": "δάκρυα θερμὰ χέον Δαναοὶ κείροντό τε χαίτας."
+    },
+    {
+      "n": 47,
+      "greek": "μήτηρ δʼ ἐξ ἁλὸς ἦλθε σὺν ἀθανάτῃς ἁλίῃσιν"
+    },
+    {
+      "n": 48,
+      "greek": "ἀγγελίης ἀΐουσα· βοὴ δʼ ἐπὶ πόντον ὀρώρει"
+    },
+    {
+      "n": 49,
+      "greek": "θεσπεσίη, ὑπὸ δὲ τρόμος ἔλλαβε πάντας Ἀχαιούς·"
+    },
+    {
+      "n": 50,
+      "greek": "καί νύ κʼ ἀναΐξαντες ἔβαν κοίλας ἐπὶ νῆας,"
+    },
+    {
+      "n": 51,
+      "greek": "εἰ μὴ ἀνὴρ κατέρυκε παλαιά τε πολλά τε εἰδώς,"
+    },
+    {
+      "n": 52,
+      "greek": "Νέστωρ, οὗ καὶ πρόσθεν ἀρίστη φαίνετο βουλή·"
+    },
+    {
+      "n": 53,
+      "greek": "ὅ σφιν ἐϋφρονέων ἀγορήσατο καὶ μετέειπεν·"
+    },
+    {
+      "n": 54,
+      "greek": "ἴσχεσθʼ, Ἀργεῖοι, μὴ φεύγετε, κοῦροι Ἀχαιῶν·"
+    },
+    {
+      "n": 55,
+      "greek": "μήτηρ ἐξ ἁλὸς ἥδε σὺν ἀθανάτῃς ἁλίῃσιν"
+    },
+    {
+      "n": 56,
+      "greek": "ἔρχεται, οὗ παιδὸς τεθνηότος ἀντιόωσα."
+    },
+    {
+      "n": 57,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἔσχοντο φόβου μεγάθυμοι Ἀχαιοί·"
+    },
+    {
+      "n": 58,
+      "greek": "ἀμφὶ δέ σʼ ἔστησαν κοῦραι ἁλίοιο γέροντος"
+    },
+    {
+      "n": 59,
+      "greek": "οἴκτρʼ ὀλοφυρόμεναι, περὶ δʼ ἄμβροτα εἵματα ἕσσαν."
+    },
+    {
+      "n": 60,
+      "greek": "Μοῦσαι δʼ ἐννέα πᾶσαι ἀμειβόμεναι ὀπὶ καλῇ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "with warm water and with ointment, and many hot tears did the Danaans shed around thee, and they shore their hair. And thy mother came forth from the sea with the immortal sea-nymphs, when she heard the tidings, and a wondrous cry arose over the deep, and thereat trembling laid hold of all the Achaeans."
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "Then would they all have sprung up and rushed to the hollow ships, had not a man, wise in the wisdom of old, stayed them, even Nestor, whose counsel had before appeared the best. He with good intent addressed their assembly, and said: “‘Hold, ye Argives; flee not, Achaean youths."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "'Tis his mother who comes here forth from the sea with the immortal sea-nymphs to look upon the face of her dead son.’ “So he spoke, and the great-hearted Achaeans ceased from their flight. Then around thee stood the daughters of the old man of the sea wailing piteously, and they clothed thee about with immortal raiment."
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "And the Muses, nine in all, replying to one another with sweet voices, led the dirge. There couldst thou not have seen an Argive but was in tears, so deeply did the clear-toned Muse move their hearts. Thus for seventeen days alike by night and day did we bewail thee, immortal gods and mortal men,"
+    }
+  ]
+}

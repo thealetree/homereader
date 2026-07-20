@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "εἰ τοιόσδʼ ἔλθοιμι μίνυνθά περ ἐς πατέρος δῶ·"
+    },
+    {
+      "n": 502,
+      "greek": "τῷ κέ τεῳ στύξαιμι μένος καὶ χεῖρας ἀάπτους,"
+    },
+    {
+      "n": 503,
+      "greek": "οἳ κεῖνον βιόωνται ἐέργουσίν τʼ ἀπὸ τιμῆς."
+    },
+    {
+      "n": 504,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 505,
+      "greek": "ἦ τοι μὲν Πηλῆος ἀμύμονος οὔ τι πέπυσμαι,"
+    },
+    {
+      "n": 506,
+      "greek": "αὐτάρ τοι παιδός γε Νεοπτολέμοιο φίλοιο"
+    },
+    {
+      "n": 507,
+      "greek": "πᾶσαν ἀληθείην μυθήσομαι, ὥς με κελεύεις·"
+    },
+    {
+      "n": 508,
+      "greek": "αὐτὸς γάρ μιν ἐγὼ κοίλης ἐπὶ νηὸς ἐίσης"
+    },
+    {
+      "n": 509,
+      "greek": "ἤγαγον ἐκ Σκύρου μετʼ ἐυκνήμιδας Ἀχαιούς."
+    },
+    {
+      "n": 510,
+      "greek": "ἦ τοι ὅτʼ ἀμφὶ πόλιν Τροίην φραζοίμεθα βουλάς,"
+    },
+    {
+      "n": 511,
+      "greek": "αἰεὶ πρῶτος ἔβαζε καὶ οὐχ ἡμάρτανε μύθων·"
+    },
+    {
+      "n": 512,
+      "greek": "Νέστωρ ἀντίθεος καὶ ἐγὼ νικάσκομεν οἴω."
+    },
+    {
+      "n": 513,
+      "greek": "αὐτὰρ ὅτʼ ἐν πεδίῳ Τρώων μαρναίμεθα χαλκῷ,"
+    },
+    {
+      "n": 514,
+      "greek": "οὔ ποτʼ ἐνὶ πληθυῖ μένεν ἀνδρῶν οὐδʼ ἐν ὁμίλῳ,"
+    },
+    {
+      "n": 515,
+      "greek": "ἀλλὰ πολὺ προθέεσκε τὸ ὃν μένος οὐδενὶ εἴκων,"
+    },
+    {
+      "n": 516,
+      "greek": "πολλοὺς δʼ ἄνδρας ἔπεφνεν ἐν αἰνῇ δηιοτῆτι."
+    },
+    {
+      "n": 517,
+      "greek": "πάντας δʼ οὐκ ἂν ἐγὼ μυθήσομαι οὐδʼ ὀνομήνω,"
+    },
+    {
+      "n": 518,
+      "greek": "ὅσσον λαὸν ἔπεφνεν ἀμύνων Ἀργείοισιν,"
+    },
+    {
+      "n": 519,
+      "greek": "ἀλλʼ οἷον τὸν Τηλεφίδην κατενήρατο χαλκῷ,"
+    },
+    {
+      "n": 520,
+      "greek": "ἥρωʼ Εὐρύπυλον, πολλοὶ δʼ ἀμφʼ αὐτὸν ἑταῖροι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "‘Verily of noble Peleus have I heard naught, but as touching thy dear son, Neoptolemus, I will tell thee all the truth, as thou biddest me. I it was, myself, who brought him from Scyros in my shapely, hollow ship to join the host of the well-greaved Archaeans."
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "And verily, as often as we took counsel around the city of Troy, he was ever the first to speak, and made no miss of words; godlike Nestor and I alone surpassed him. But as often as we fought with the bronze on the Trojan plain, he would never remain behind in the throng or press of men,"
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "but would ever run forth far to the front, yielding to none in his might; and many men he slew in dread combat. All of them I could not tell or name, all the host that he slew in defence of the Argives; but what a warrior was that son of Telephus whom he slew with the sword,"
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "the prince Eurypylus! Aye, and many of his comrades, the Ceteians, were slain about him, because of gifts a woman craved. He verily was the comeliest man I saw, next to goodly Memnon. And again, when we, the best of the Argives, were about to go down into the horse which Epeus made, and the command of all was laid upon me,"
+    }
+  ]
+}

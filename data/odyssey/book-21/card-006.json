@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "τοῖσι δὲ καὶ μετέειφʼ ἱερὴ ἲς Τηλεμάχοιο·"
+    },
+    {
+      "n": 102,
+      "greek": "ὢ πόποι, ἦ μάλα με Ζεὺς ἄφρονα θῆκε Κρονίων·"
+    },
+    {
+      "n": 103,
+      "greek": "μήτηρ μέν μοί φησι φίλη, πινυτή περ ἐοῦσα,"
+    },
+    {
+      "n": 104,
+      "greek": "ἄλλῳ ἅμʼ ἕψεσθαι νοσφισσαμένη τόδε δῶμα·"
+    },
+    {
+      "n": 105,
+      "greek": "αὐτὰρ ἐγὼ γελόω καὶ τέρπομαι ἄφρονι θυμῷ."
+    },
+    {
+      "n": 106,
+      "greek": "ἀλλʼ ἄγετε, μνηστῆρες, ἐπεὶ τόδε φαίνετʼ ἄεθλον,"
+    },
+    {
+      "n": 107,
+      "greek": "οἵη νῦν οὐκ ἔστι γυνὴ κατʼ Ἀχαιΐδα γαῖαν,"
+    },
+    {
+      "n": 108,
+      "greek": "οὔτε Πύλου ἱερῆς οὔτʼ Ἄργεος οὔτε Μυκήνης·"
+    },
+    {
+      "n": 109,
+      "greek": "οὔτʼ αὐτῆς Ἰθάκης οὔτʼ ἠπείροιο μελαίνης·"
+    },
+    {
+      "n": 110,
+      "greek": "καὶ δʼ αὐτοὶ τόδε γʼ ἴστε· τί με χρὴ μητέρος αἴνου;"
+    },
+    {
+      "n": 111,
+      "greek": "ἀλλʼ ἄγε μὴ μύνῃσι παρέλκετε μηδʼ ἔτι τόξου"
+    },
+    {
+      "n": 112,
+      "greek": "δηρὸν ἀποτρωπᾶσθε τανυστύος, ὄφρα ἴδωμεν."
+    },
+    {
+      "n": 113,
+      "greek": "καὶ δέ κεν αὐτὸς ἐγὼ τοῦ τόξου πειρησαίμην·"
+    },
+    {
+      "n": 114,
+      "greek": "εἰ δέ κεν ἐντανύσω διοϊστεύσω τε σιδήρου,"
+    },
+    {
+      "n": 115,
+      "greek": "οὔ κέ μοι ἀχνυμένῳ τάδε δώματα πότνια μήτηρ"
+    },
+    {
+      "n": 116,
+      "greek": "λείποι ἅμʼ ἄλλῳ ἰοῦσʼ, ὅτʼ ἐγὼ κατόπισθε λιποίμην"
+    },
+    {
+      "n": 117,
+      "greek": "οἷός τʼ ἤδη πατρὸς ἀέθλια κάλʼ ἀνελέσθαι."
+    },
+    {
+      "n": 118,
+      "greek": "ἦ καὶ ἀπʼ ὤμοιϊν χλαῖναν θέτο φοινικόεσσαν"
+    },
+    {
+      "n": 119,
+      "greek": "ὀρθὸς ἀναΐξας, ἀπὸ δὲ ξίφος ὀξὺ θέτʼ ὤμων."
+    },
+    {
+      "n": 120,
+      "greek": "πρῶτον μὲν πελέκεας στῆσεν, διὰ τάφρον ὀρύξας"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "yet I laugh, and am glad with a witless mind. Come then, ye wooers, since this is shewn to be your prize, a lady, the like of whom is not now in the Achaean land, neither in sacred Pylos, nor in Argos, nor in Mycene, nor yet in Ithaca itself, nor in the dark mainland."
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "Nay, but of yourselves you know this—what need have I to praise my mother? Come then, put not the matter aside with excuses, nor any more turn away too long from the drawing of the bow, that we may see the issue. Yea, and I would myself make trial of yon bow. If I shall string it and shoot an arrow through the iron,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "it will not vex me that my honored mother should leave this house and go along with another, seeing that I should be left here able now to wield the goodly battle-gear of my father.” With this he flung the scarlet cloak from off his back, and sprang up erect; and he laid his sharp sword from off his shoulders."
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "First then he set up the axes, when he had dug a trench, one long trench for all, and made it straight to the line, and about them he stamped in the earth. And amazement seized all who saw him, that he set them out so orderly, though before he had never seen them. Then he went and stood upon the threshold, and began to try the bow."
+    }
+  ]
+}

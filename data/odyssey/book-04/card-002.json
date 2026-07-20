@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "Τηλέμαχός θʼ ἥρως καὶ Νέστορος ἀγλαὸς υἱός,"
+    },
+    {
+      "n": 22,
+      "greek": "στῆσαν· ὁ δὲ προμολὼν ἴδετο κρείων Ἐτεωνεύς,"
+    },
+    {
+      "n": 23,
+      "greek": "ὀτρηρὸς θεράπων Μενελάου κυδαλίμοιο,"
+    },
+    {
+      "n": 24,
+      "greek": "βῆ δʼ ἴμεν ἀγγελέων διὰ δώματα ποιμένι λαῶν,"
+    },
+    {
+      "n": 25,
+      "greek": "ἀγχοῦ δʼ ἱστάμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 26,
+      "greek": "ξείνω δή τινε τώδε, διοτρεφὲς ὦ Μενέλαε,"
+    },
+    {
+      "n": 27,
+      "greek": "ἄνδρε δύω, γενεῇ δὲ Διὸς μεγάλοιο ἔικτον."
+    },
+    {
+      "n": 28,
+      "greek": "ἀλλʼ εἴπʼ, ἤ σφωιν καταλύσομεν ὠκέας ἵππους,"
+    },
+    {
+      "n": 29,
+      "greek": "ἦ ἄλλον πέμπωμεν ἱκανέμεν, ὅς κε φιλήσῃ."
+    },
+    {
+      "n": 30,
+      "greek": "τὸν δὲ μέγʼ ὀχθήσας προσέφη ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 31,
+      "greek": "οὐ μὲν νήπιος ἦσθα, Βοηθοΐδη Ἐτεωνεῦ,"
+    },
+    {
+      "n": 32,
+      "greek": "τὸ πρίν· ἀτὰρ μὲν νῦν γε πάϊς ὣς νήπια βάζεις."
+    },
+    {
+      "n": 33,
+      "greek": "ἦ μὲν δὴ νῶι ξεινήια πολλὰ φαγόντε"
+    },
+    {
+      "n": 34,
+      "greek": "ἄλλων ἀνθρώπων δεῦρʼ ἱκόμεθʼ, αἴ κέ ποθι Ζεὺς"
+    },
+    {
+      "n": 35,
+      "greek": "ἐξοπίσω περ παύσῃ ὀιζύος. ἀλλὰ λύʼ ἵππους"
+    },
+    {
+      "n": 36,
+      "greek": "ξείνων, ἐς δʼ αὐτοὺς προτέρω ἄγε θοινηθῆναι."
+    },
+    {
+      "n": 37,
+      "greek": "ὣς φάθʼ, ὁ δὲ μεγάροιο διέσσυτο, κέκλετο δʼ ἄλλους"
+    },
+    {
+      "n": 38,
+      "greek": "ὀτρηροὺς θεράποντας ἅμα σπέσθαι ἑοῖ αὐτῷ."
+    },
+    {
+      "n": 39,
+      "greek": "οἱ δʼ ἵππους μὲν λῦσαν ὑπὸ ζυγοῦ ἱδρώοντας,"
+    },
+    {
+      "n": 40,
+      "greek": "καὶ τοὺς μὲν κατέδησαν ἐφʼ ἱππείῃσι κάπῃσι,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "So he came near and spoke to him winged words: “Here are two strangers, Menelaus, fostered of Zeus, two men that are like the seed of great Zeus. But tell me, shall we unyoke for them their swift horses, or send them on their way to some other host, who will give them entertainment?”"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "Then, stirred to sore displeasure, fair-haired Menelaus spoke to him: “Aforetime thou was not wont to be a fool, Eteoneus, son of Boethous, but now like a child thou talkest folly. Surely we two ate full often hospitable cheer of other men, ere we came hither in the hope that Zeus"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "would hereafter grant us respite from sorrow. Nay, unyoke the strangers' horses, and lead the men forward into the house, that they may feast.” So he spoke, and the other hastened through the hall, and called to the other busy squires to follow along with him. They loosed the sweating horses from beneath the yoke"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "and tied them at the stalls of the horses, and flung before them spelt, and mixed therewith white barley. Then they tilted the chariot against the bright entrance walls, and led the men into the divine palace. But at the sight they marvelled as they passed through the palace of the king, fostered of Zeus;"
+    }
+  ]
+}

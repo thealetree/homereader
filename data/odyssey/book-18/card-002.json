@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "μή σε γέρων περ ἐὼν στῆθος καὶ χείλεα φύρσω"
+    },
+    {
+      "n": 22,
+      "greek": "αἵματος· ἡσυχίη δʼ ἂν ἐμοὶ καὶ μᾶλλον ἔτʼ εἴη"
+    },
+    {
+      "n": 23,
+      "greek": "αὔριον· οὐ μὲν γάρ τί σʼ ὑποστρέψεσθαι ὀΐω"
+    },
+    {
+      "n": 24,
+      "greek": "δεύτερον ἐς μέγαρον Λαερτιάδεω Ὀδυσῆος."
+    },
+    {
+      "n": 25,
+      "greek": "τὸν δὲ χολωσάμενος προσεφώνεεν Ἶρος ἀλήτης·"
+    },
+    {
+      "n": 26,
+      "greek": "ὢ πόποι, ὡς ὁ μολοβρὸς ἐπιτροχάδην ἀγορεύει,"
+    },
+    {
+      "n": 27,
+      "greek": "γρηῒ καμινοῖ ἶσος· ὃν ἂν κακὰ μητισαίμην"
+    },
+    {
+      "n": 28,
+      "greek": "κόπτων ἀμφοτέρῃσι, χαμαὶ δέ κε πάντας ὀδόντας"
+    },
+    {
+      "n": 29,
+      "greek": "γναθμῶν ἐξελάσαιμι συὸς ὣς ληϊβοτείρης."
+    },
+    {
+      "n": 30,
+      "greek": "ζῶσαι νῦν, ἵνα πάντες ἐπιγνώωσι καὶ οἵδε"
+    },
+    {
+      "n": 31,
+      "greek": "μαρναμένους· πῶς δʼ ἂν σὺ νεωτέρῳ ἀνδρὶ μάχοιο;"
+    },
+    {
+      "n": 32,
+      "greek": "ὣς οἱ μὲν προπάροιθε θυράων ὑψηλάων"
+    },
+    {
+      "n": 33,
+      "greek": "οὐδοῦ ἔπι ξεστοῦ πανθυμαδὸν ὀκριόωντο."
+    },
+    {
+      "n": 34,
+      "greek": "τοῖϊν δὲ ξυνέηχʼ ἱερὸν μένος Ἀντινόοιο,"
+    },
+    {
+      "n": 35,
+      "greek": "ἡδὺ δʼ ἄρʼ ἐκγελάσας μετεφώνει μνηστήρεσσιν·"
+    },
+    {
+      "n": 36,
+      "greek": "ὦ φίλοι, οὐ μέν πώ τι πάρος τοιοῦτον ἐτύχθη,"
+    },
+    {
+      "n": 37,
+      "greek": "οἵην τερπωλὴν θεὸς ἤγαγεν ἐς τόδε δῶμα."
+    },
+    {
+      "n": 38,
+      "greek": "ὁ ξεῖνός τε καὶ Ἶρος ἐρίζετον ἀλλήλοιϊν"
+    },
+    {
+      "n": 39,
+      "greek": "χερσὶ μαχέσσασθαι· ἀλλὰ ξυνελάσσομεν ὦκα."
+    },
+    {
+      "n": 40,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἀνήϊξαν γελόωντες,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "Then, waxing wroth, the vagrant Irus said to him: “Now see how glibly the filthy wretch talks, like an old kitchen-wife. But I will devise evil for him, smiting him left and right, and will scatter on the ground all the teeth from his jaws, as though he were a swine wasting the corn."
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "Gird thyself now, that these men, too, may all know our fighting. But how couldst thou fight with a younger man?” Thus on the polished threshold before the lofty doors they stirred one another's rage right heartily. And the strong and mighty Antinous heard the two,"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "and, breaking into a merry laugh, he spoke among the wooers: “Friends, never before has such a thing come to pass, that a god has brought sport like this to this house. Yon stranger and Irus are provoking one another to blows. Come, let us quickly set them on.”"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "So he spoke, and they all sprang up laughing and gathered about the tattered beggars. And Antinous, son of Eupeithes, spoke among them, and said: “Hear me, ye proud wooers, that I may say somewhat. Here at the fire are goats' paunches lying, which"
+    }
+  ]
+}

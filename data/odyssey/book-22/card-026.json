@@ -1,0 +1,17 @@
+{
+  "book": 22,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 501,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "κλαυθμοῦ καὶ στοναχῆς, γίγνωσκε δʼ ἄρα φρεσὶ πάσας."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": []
+}

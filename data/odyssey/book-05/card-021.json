@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "καὶ δὴ δοῦπον ἄκουσε ποτὶ σπιλάδεσσι θαλάσσης·"
+    },
+    {
+      "n": 402,
+      "greek": "ῥόχθει γὰρ μέγα κῦμα ποτὶ ξερὸν ἠπείροιο"
+    },
+    {
+      "n": 403,
+      "greek": "δεινὸν ἐρευγόμενον, εἴλυτο δὲ πάνθʼ ἁλὸς ἄχνῃ·"
+    },
+    {
+      "n": 404,
+      "greek": "οὐ γὰρ ἔσαν λιμένες νηῶν ὄχοι, οὐδʼ ἐπιωγαί."
+    },
+    {
+      "n": 405,
+      "greek": "ἀλλʼ ἀκταὶ προβλῆτες ἔσαν σπιλάδες τε πάγοι τε·"
+    },
+    {
+      "n": 406,
+      "greek": "καὶ τότʼ Ὀδυσσῆος λύτο γούνατα καὶ φίλον ἦτορ,"
+    },
+    {
+      "n": 407,
+      "greek": "ὀχθήσας δʼ ἄρα εἶπε πρὸς ὃν μεγαλήτορα θυμόν·"
+    },
+    {
+      "n": 408,
+      "greek": "ὤ μοι, ἐπεὶ δὴ γαῖαν ἀελπέα δῶκεν ἰδέσθαι"
+    },
+    {
+      "n": 409,
+      "greek": "Ζεύς, καὶ δὴ τόδε λαῖτμα διατμήξας ἐπέρησα,"
+    },
+    {
+      "n": 410,
+      "greek": "ἔκβασις οὔ πῃ φαίνεθʼ ἁλὸς πολιοῖο θύραζε·"
+    },
+    {
+      "n": 411,
+      "greek": "ἔκτοσθεν μὲν γὰρ πάγοι ὀξέες, ἀμφὶ δὲ κῦμα"
+    },
+    {
+      "n": 412,
+      "greek": "βέβρυχεν ῥόθιον, λισσὴ δʼ ἀναδέδρομε πέτρη,"
+    },
+    {
+      "n": 413,
+      "greek": "ἀγχιβαθὴς δὲ θάλασσα, καὶ οὔ πως ἔστι πόδεσσι"
+    },
+    {
+      "n": 414,
+      "greek": "στήμεναι ἀμφοτέροισι καὶ ἐκφυγέειν κακότητα·"
+    },
+    {
+      "n": 415,
+      "greek": "μή πώς μʼ ἐκβαίνοντα βάλῃ λίθακι ποτὶ πέτρῃ"
+    },
+    {
+      "n": 416,
+      "greek": "κῦμα μέγʼ ἁρπάξαν· μελέη δέ μοι ἔσσεται ὁρμή."
+    },
+    {
+      "n": 417,
+      "greek": "εἰ δέ κʼ ἔτι προτέρω παρανήξομαι, ἤν που ἐφεύρω"
+    },
+    {
+      "n": 418,
+      "greek": "ἠιόνας τε παραπλῆγας λιμένας τε θαλάσσης,"
+    },
+    {
+      "n": 419,
+      "greek": "δείδω μή μʼ ἐξαῦτις ἀναρπάξασα θύελλα"
+    },
+    {
+      "n": 420,
+      "greek": "πόντον ἐπʼ ἰχθυόεντα φέρῃ βαρέα στενάχοντα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "but projecting headlands, and reefs, and cliffs—then the knees of Odysseus were loosened and his heart melted, and deeply moved he spoke to his own mighty spirit: “Ah me, when Zeus has at length granted me to see the land beyond my hopes, and lo, I have prevailed to cleave my way and to cross this gulf,"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "nowhere doth there appear a way to come forth from the grey sea. For without are sharp crags, and around them the wave roars foaming, and the rock runs up sheer, and the water is deep close in shore, so that in no wise is it possible to plant both feet firmly and escape ruin."
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "Haply were I to seek to land, a great wave may seize me and dash me against the jagged rock, and so shall my striving be in vain. But if I swim on yet further in hope to find shelving beaches and harbors of the sea, I fear me lest the storm-wind may catch me up again,"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "and bear me, groaning heavily, over the teeming deep; or lest some god may even send forth upon me some great monster from out the sea—and many such does glorious Amphitrite breed. For I know that the glorious Earth-shaker is filled with wrath against me.” While he pondered thus in mind and heart,"
+    }
+  ]
+}

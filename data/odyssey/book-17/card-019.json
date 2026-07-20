@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ἄγχι παρισταμένη Λαερτιάδην Ὀδυσῆα"
+    },
+    {
+      "n": 362,
+      "greek": "ὤτρυνʼ, ὡς ἂν πύρνα κατὰ μνηστῆρας ἀγείροι,"
+    },
+    {
+      "n": 363,
+      "greek": "γνοίη θʼ οἵ τινές εἰσιν ἐναίσιμοι οἵ τʼ ἀθέμιστοι·"
+    },
+    {
+      "n": 364,
+      "greek": "ἀλλʼ οὐδʼ ὥς τινʼ ἔμελλʼ ἀπαλεξήσειν κακότητος."
+    },
+    {
+      "n": 365,
+      "greek": "βῆ δʼ ἴμεν αἰτήσων ἐνδέξια φῶτα ἕκαστον,"
+    },
+    {
+      "n": 366,
+      "greek": "πάντοσε χεῖρʼ ὀρέγων, ὡς εἰ πτωχὸς πάλαι εἴη."
+    },
+    {
+      "n": 367,
+      "greek": "οἱ δʼ ἐλεαίροντες δίδοσαν, καὶ ἐθάμβεον αὐτόν,"
+    },
+    {
+      "n": 368,
+      "greek": "ἀλλήλους τʼ εἴροντο τίς εἴη καὶ πόθεν ἔλθοι."
+    },
+    {
+      "n": 369,
+      "greek": "τοῖσι δὲ καὶ μετέειπε Μελάνθιος, αἰπόλος αἰγῶν·"
+    },
+    {
+      "n": 370,
+      "greek": "κέκλυτέ μευ, μνηστῆρες ἀγακλειτῆς βασιλείης,"
+    },
+    {
+      "n": 371,
+      "greek": "τοῦδε περὶ ξείνου· ἦ γάρ μιν πρόσθεν ὄπωπα."
+    },
+    {
+      "n": 372,
+      "greek": "ἦ τοι μέν οἱ δεῦρο συβώτης ἡγεμόνευεν,"
+    },
+    {
+      "n": 373,
+      "greek": "αὐτὸν δʼ οὐ σάφα οἶδα, πόθεν γένος εὔχεται εἶναι."
+    },
+    {
+      "n": 374,
+      "greek": "ὣς ἔφατʼ, Ἀντίνοος δʼ ἔπεσιν νείκεσσε συβώτην·"
+    },
+    {
+      "n": 375,
+      "greek": "ὦ ἀρίγνωτε συβῶτα, τίη δὲ σὺ τόνδε πόλινδε"
+    },
+    {
+      "n": 376,
+      "greek": "ἤγαγες; ἦ οὐχ ἅλις ἧμιν ἀλήμονές εἰσι καὶ ἄλλοι,"
+    },
+    {
+      "n": 377,
+      "greek": "πτωχοὶ ἀνιηροί, δαιτῶν ἀπολυμαντῆρες;"
+    },
+    {
+      "n": 378,
+      "greek": "ἦ ὄνοσαι ὅτι τοι βίοτον κατέδουσιν ἄνακτος"
+    },
+    {
+      "n": 379,
+      "greek": "ἐνθάδʼ ἀγειρόμενοι, σὺ δὲ καὶ προτὶ τόνδʼ ἐκάλεσσας;"
+    },
+    {
+      "n": 380,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "So he set out to beg of every man, beginning on the right, stretching out his hand on every side, as though he had been long a beggar. And they pitied him and gave, and marvelled at him, asking one another who he was and whence he came. Then among them spoke Melanthius, the goatherd:"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "“Hear me, wooers of the glorious queen, regarding this stranger, for verily I have seen him before. Truly it was the swineherd that led him hither, but of the man himself I know not surely from whence he declares his birth to be.” So he spoke, and Antinous rebuked the swineherd, saying:"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "“Notorious swineherd, why, pray, didst thou bring this man to the city? Have we not vagabonds enough without him, nuisances of beggars to mar our feast? Dost thou not think it enough that they gather here and devour the substance of thy master, that thou dost bid this fellow too?”"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "To him then, swineherd Eumaeus, didst thou make answer, and say: “Antinous, no fair words are these thou speakest, noble though thou art. Who pray, of himself ever seeks out and bids a stranger from abroad, unless it be one of those that are masters of some public craft, a prophet, or a healer of ills, or a builder,"
+    }
+  ]
+}

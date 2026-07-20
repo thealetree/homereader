@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "ἐν δέπαϊ χρυσέῳ, καί μιν πρὸς μῦθον ἔειπεν·"
+    },
+    {
+      "n": 262,
+      "greek": "ἐνταυθοῖ νῦν ἧσο μετʼ ἀνδράσιν οἰνοποτάζων·"
+    },
+    {
+      "n": 263,
+      "greek": "κερτομίας δέ τοι αὐτὸς ἐγὼ καὶ χεῖρας ἀφέξω"
+    },
+    {
+      "n": 264,
+      "greek": "πάντων μνηστήρων, ἐπεὶ οὔ τοι δήμιός ἐστιν"
+    },
+    {
+      "n": 265,
+      "greek": "οἶκος ὅδʼ, ἀλλʼ Ὀδυσῆος, ἐμοὶ δʼ ἐκτήσατο κεῖνος."
+    },
+    {
+      "n": 266,
+      "greek": "ὑμεῖς δέ, μνηστῆρες, ἐπίσχετε θυμὸν ἐνιπῆς"
+    },
+    {
+      "n": 267,
+      "greek": "καὶ χειρῶν, ἵνα μή τις ἔρις καὶ νεῖκος ὄρηται."
+    },
+    {
+      "n": 268,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ὀδὰξ ἐν χείλεσι φύντες"
+    },
+    {
+      "n": 269,
+      "greek": "Τηλέμαχον θαύμαζον, ὃ θαρσαλέως ἀγόρευε."
+    },
+    {
+      "n": 270,
+      "greek": "τοῖσιν δʼ Ἀντίνοος μετέφη, Εὐπείθεος υἱός·"
+    },
+    {
+      "n": 271,
+      "greek": "καὶ χαλεπόν περ ἐόντα δεχώμεθα μῦθον, Ἀχαιοί,"
+    },
+    {
+      "n": 272,
+      "greek": "Τηλεμάχου· μάλα δʼ ἧμιν ἀπειλήσας ἀγορεύει."
+    },
+    {
+      "n": 273,
+      "greek": "οὐ γὰρ Ζεὺς εἴασε Κρονίων· τῷ κέ μιν ἤδη"
+    },
+    {
+      "n": 274,
+      "greek": "παύσαμεν ἐν μεγάροισι, λιγύν περ ἐόντʼ ἀγορητήν."
+    },
+    {
+      "n": 275,
+      "greek": "ὣς ἔφατʼ Ἀντίνοος· ὁ δʼ ἄρʼ οὐκ ἐμπάζετο μύθων."
+    },
+    {
+      "n": 276,
+      "greek": "κήρυκες δʼ ἀνὰ ἄστυ θεῶν ἱερὴν ἑκατόμβην"
+    },
+    {
+      "n": 277,
+      "greek": "ἦγον· τοὶ δʼ ἀγέροντο κάρη κομόωντες Ἀχαιοὶ"
+    },
+    {
+      "n": 278,
+      "greek": "ἄλσος ὕπο σκιερὸν ἑκατηβόλου Ἀπόλλωνος."
+    },
+    {
+      "n": 279,
+      "greek": "οἱ δʼ ἐπεὶ ὤπτησαν κρέʼ ὑπέρτερα καὶ ἐρύσαντο,"
+    },
+    {
+      "n": 280,
+      "greek": "μοίρας δασσάμενοι δαίνυντʼ ἐρικυδέα δαῖτα·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "resort, but the house of Odysseus, and it was for me that he won it. And for your part, ye wooers, refrain your minds from rebukes and blows, that no strife or quarrel may arise.” So he spoke, and they all bit their lips and marvelled at Telemachus for that he spoke boldly;"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "and Antinous, son of Eupeithes, spoke among them, saying: “Hard though it be, Achaeans, let us accept the word of Telemachus, though boldly he threatens us in his speech. For Zeus, son of Cronos, did not suffer it, else would we ere now have silenced him in the halls, clear-voiced talker though he is.”"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "So spoke Antinous, but Telemachus paid no heed to his words. Meanwhile the heralds were leading through the city the holy hecatomb of the gods, and the long-haired Achaeans gathered together beneath a shady grove of Apollo, the archer-god. But when they had roasted the outer flesh and drawn it off the spits,"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "they divided the portions and feasted a glorious feast. And by Odysseus those who served set a portion equal to that which they received themselves, for so Telemachus commanded, the dear son of divine Odysseus. But the proud wooers Athena"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "δίφρον ἐΰξεστον καὶ ἐπʼ αὐτῷ κῶας ἔβαλλεν·"
+    },
+    {
+      "n": 102,
+      "greek": "ἔνθα καθέζετʼ ἔπειτα πολύτλας δῖος Ὀδυσσεύς."
+    },
+    {
+      "n": 103,
+      "greek": "τοῖσι δὲ μύθων ἦρχε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 104,
+      "greek": "ξεῖνε, τὸ μέν σε πρῶτον ἐγὼν εἰρήσομαι αὐτή·"
+    },
+    {
+      "n": 105,
+      "greek": "τίς πόθεν εἶς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες;"
+    },
+    {
+      "n": 106,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 107,
+      "greek": "ὦ γύναι, οὐκ ἄν τίς σε βροτῶν ἐπʼ ἀπείρονα γαῖαν"
+    },
+    {
+      "n": 108,
+      "greek": "νεικέοι· ἦ γάρ σευ κλέος οὐρανὸν εὐρὺν ἱκάνει,"
+    },
+    {
+      "n": 109,
+      "greek": "ὥς τέ τευ ἢ βασιλῆος ἀμύμονος, ὅς τε θεουδὴς"
+    },
+    {
+      "n": 110,
+      "greek": "ἀνδράσιν ἐν πολλοῖσι καὶ ἰφθίμοισιν ἀνάσσων"
+    },
+    {
+      "n": 111,
+      "greek": "εὐδικίας ἀνέχῃσι, φέρῃσι δὲ γαῖα μέλαινα"
+    },
+    {
+      "n": 112,
+      "greek": "πυροὺς καὶ κριθάς, βρίθῃσι δὲ δένδρεα καρπῷ,"
+    },
+    {
+      "n": 113,
+      "greek": "τίκτῃ δʼ ἔμπεδα μῆλα, θάλασσα δὲ παρέχῃ ἰχθῦς"
+    },
+    {
+      "n": 114,
+      "greek": "ἐξ εὐηγεσίης, ἀρετῶσι δὲ λαοὶ ὑπʼ αὐτοῦ."
+    },
+    {
+      "n": 115,
+      "greek": "τῷ ἐμὲ νῦν τὰ μὲν ἄλλα μετάλλα σῷ ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 116,
+      "greek": "μηδʼ ἐμὸν ἐξερέεινε γένος καὶ πατρίδα γαῖαν,"
+    },
+    {
+      "n": 117,
+      "greek": "μή μοι μᾶλλον θυμὸν ἐνιπλήσῃς ὀδυνάων"
+    },
+    {
+      "n": 118,
+      "greek": "μνησαμένῳ μάλα δʼ εἰμὶ πολύστονος· οὐδέ τί με χρὴ"
+    },
+    {
+      "n": 119,
+      "greek": "οἴκῳ ἐν ἀλλοτρίῳ γοόωντά τε μυρόμενόν τε"
+    },
+    {
+      "n": 120,
+      "greek": "ἧσθαι, ἐπεὶ κάκιον πενθήμεναι ἄκριτον αἰεί·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "Who art thou among men, and from whence? Where is thy city, and where thy parents?” Then Odysseus of many wiles answered her, and said: “Lady, no one of mortals upon the boundless earth could find fault with thee, for thy fame goes up to the broad heaven, as does the fame of some blameless king, who with the fear of the gods in his heart,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "is lord over many mighty men, upholding justice; and the black earth bears wheat and barley, and the trees are laden with fruit, the flocks bring forth young unceasingly, and the sea yields fish, all from his good leading; and the people prosper under him."
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "Wherefore question me now in thy house of all things else, but ask not concerning my race and my native land, lest thou fill my heart the more with pains, as I think thereon; for I am a man of many sorrows. Moreover it is not fitting"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "that I should sit weeping and wailing in another's house, for it is ill to grieve ever without ceasing. I would not that one of thy maidens or thine own self be vexed with me, and say that I swim in tears because my mind is heavy with wine.” Then wise Penelope answered him: “Stranger, all excellence of mine, both of beauty and of form,"
+    }
+  ]
+}

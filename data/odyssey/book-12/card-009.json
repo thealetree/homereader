@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "δήσατʼ ἐν ἀργαλέῳ, ὄφρʼ ἔμπεδον αὐτόθι μίμνω,"
+    },
+    {
+      "n": 162,
+      "greek": "ὀρθὸν ἐν ἱστοπέδῃ, ἐκ δʼ αὐτοῦ πείρατʼ ἀνήφθω."
+    },
+    {
+      "n": 163,
+      "greek": "εἰ δέ κε λίσσωμαι ὑμέας λῦσαί τε κελεύω,"
+    },
+    {
+      "n": 164,
+      "greek": "ὑμεῖς δὲ πλεόνεσσι τότʼ ἐν δεσμοῖσι πιέζειν."
+    },
+    {
+      "n": 165,
+      "greek": "ἦ τοι ἐγὼ τὰ ἕκαστα λέγων ἑτάροισι πίφαυσκον·"
+    },
+    {
+      "n": 166,
+      "greek": "τόφρα δὲ καρπαλίμως ἐξίκετο νηῦς ἐυεργὴς"
+    },
+    {
+      "n": 167,
+      "greek": "νῆσον Σειρήνοιιν· ἔπειγε γὰρ οὖρος ἀπήμων."
+    },
+    {
+      "n": 168,
+      "greek": "αὐτίκʼ ἔπειτʼ ἄνεμος μὲν ἐπαύσατο ἠδὲ γαλήνη"
+    },
+    {
+      "n": 169,
+      "greek": "ἔπλετο νηνεμίη, κοίμησε δὲ κύματα δαίμων."
+    },
+    {
+      "n": 170,
+      "greek": "ἀνστάντες δʼ ἕταροι νεὸς ἱστία μηρύσαντο"
+    },
+    {
+      "n": 171,
+      "greek": "καὶ τὰ μὲν ἐν νηὶ γλαφυρῇ θέσαν, οἱ δʼ ἐπʼ ἐρετμὰ"
+    },
+    {
+      "n": 172,
+      "greek": "ἑζόμενοι λεύκαινον ὕδωρ ξεστῇς ἐλάτῃσιν."
+    },
+    {
+      "n": 173,
+      "greek": "αὐτὰρ ἐγὼ κηροῖο μέγαν τροχὸν ὀξέι χαλκῷ"
+    },
+    {
+      "n": 174,
+      "greek": "τυτθὰ διατμήξας χερσὶ στιβαρῇσι πίεζον·"
+    },
+    {
+      "n": 175,
+      "greek": "αἶψα δʼ ἰαίνετο κηρός, ἐπεὶ κέλετο μεγάλη ἲς"
+    },
+    {
+      "n": 176,
+      "greek": "Ἠελίου τʼ αὐγὴ Ὑπεριονίδαο ἄνακτος·"
+    },
+    {
+      "n": 177,
+      "greek": "ἑξείης δʼ ἑτάροισιν ἐπʼ οὔατα πᾶσιν ἄλειψα."
+    },
+    {
+      "n": 178,
+      "greek": "οἱ δʼ ἐν νηί μʼ ἔδησαν ὁμοῦ χεῖράς τε πόδας τε"
+    },
+    {
+      "n": 179,
+      "greek": "ὀρθὸν ἐν ἱστοπέδῃ, ἐκ δʼ αὐτοῦ πείρατʼ ἀνῆπτον·"
+    },
+    {
+      "n": 180,
+      "greek": "αὐτοὶ δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "“Thus I rehearsed all these things and told them to my comrades. Meanwhile the well-built ship speedily came to the isle of the two Sirens, for a fair and gentle wind bore her on. Then presently the wind ceased and there was a windless calm, and a god lulled the waves to sleep."
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "But my comrades rose up and furled the sail and stowed it in the hollow ship, and thereafter sat at the oars and made the water white with their polished oars of fir. But I with my sharp sword cut into small bits a great round cake of wax, and kneaded it with my strong hands,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "and soon the wax grew warm, forced by the strong pressure and the rays of the lord Helios Hyperion. Then I anointed with this the ears of all my comrades in turn; and they bound me in the ship hand and foot, upright in the step of the mast, and made the ropes fast at the ends to the mast itself;"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "and themselves sitting down smote the grey sea with their oars. But when we were as far distant as a man can make himself heard when he shouts, driving swiftly on our way, the Sirens failed not to note the swift ship as it drew near, and they raised their clear-toned song: “‘Come hither, as thou farest, renowned Odysseus, great glory of the Achaeans;"
+    }
+  ]
+}

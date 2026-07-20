@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "καρπαλίμως ἔρχεσθαι· ἐγὼ δʼ ὁδὸν ἡγεμονεύσω."
+    },
+    {
+      "n": 262,
+      "greek": "αὐτὰρ ἐπὴν πόλιος ἐπιβήομεν, ἣν πέρι πύργος"
+    },
+    {
+      "n": 263,
+      "greek": "ὑψηλός, καλὸς δὲ λιμὴν ἑκάτερθε πόληος,"
+    },
+    {
+      "n": 264,
+      "greek": "λεπτὴ δʼ εἰσίθμη· νῆες δʼ ὁδὸν ἀμφιέλισσαι"
+    },
+    {
+      "n": 265,
+      "greek": "εἰρύαται· πᾶσιν γὰρ ἐπίστιόν ἐστιν ἑκάστῳ."
+    },
+    {
+      "n": 266,
+      "greek": "ἔνθα δέ τέ σφʼ ἀγορὴ καλὸν Ποσιδήιον ἀμφίς,"
+    },
+    {
+      "n": 267,
+      "greek": "ῥυτοῖσιν λάεσσι κατωρυχέεσσʼ ἀραρυῖα."
+    },
+    {
+      "n": 268,
+      "greek": "ἔνθα δὲ νηῶν ὅπλα μελαινάων ἀλέγουσι,"
+    },
+    {
+      "n": 269,
+      "greek": "πείσματα καὶ σπεῖρα, καὶ ἀποξύνουσιν ἐρετμά."
+    },
+    {
+      "n": 270,
+      "greek": "οὐ γὰρ Φαιήκεσσι μέλει βιὸς οὐδὲ φαρέτρη,"
+    },
+    {
+      "n": 271,
+      "greek": "ἀλλʼ ἱστοὶ καὶ ἐρετμὰ νεῶν καὶ νῆες ἐῖσαι,"
+    },
+    {
+      "n": 272,
+      "greek": "ᾗσιν ἀγαλλόμενοι πολιὴν περόωσι θάλασσαν."
+    },
+    {
+      "n": 273,
+      "greek": "τῶν ἀλεείνω φῆμιν ἀδευκέα, μή τις ὀπίσσω"
+    },
+    {
+      "n": 274,
+      "greek": "μωμεύῃ· μάλα δʼ εἰσὶν ὑπερφίαλοι κατὰ δῆμον·"
+    },
+    {
+      "n": 275,
+      "greek": "καί νύ τις ὧδʼ εἴπῃσι κακώτερος ἀντιβολήσας·"
+    },
+    {
+      "n": 276,
+      "greek": "τίς δʼ ὅδε Ναυσικάᾳ ἕπεται καλός τε μέγας τε"
+    },
+    {
+      "n": 277,
+      "greek": "ξεῖνος; ποῦ δέ μιν εὗρε; πόσις νύ οἱ ἔσσεται αὐτῇ."
+    },
+    {
+      "n": 278,
+      "greek": "ἦ τινά που πλαγχθέντα κομίσσατο ἧς ἀπὸ νηὸς"
+    },
+    {
+      "n": 279,
+      "greek": "ἀνδρῶν τηλεδαπῶν, ἐπεὶ οὔ τινες ἐγγύθεν εἰσίν·"
+    },
+    {
+      "n": 280,
+      "greek": "ἤ τίς οἱ εὐξαμένῃ πολυάρητος θεὸς ἦλθεν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "are drawn up along the road, for they all have stations for their ships, each man one for himself. There, too, is their place of assembly about the fair temple of Poseidon, fitted with huge stones set deep in the earth. Here the men are busied with the tackle of their black ships, with cables and sails, and here they shape the thin oar-blades."
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "For the Phaeacians care not for bow or quiver, but for masts and oars of ships, and for the shapely ships, rejoicing in which they cross over the grey sea. It is their ungentle speech that I shun, lest hereafter some man should taunt me, for indeed there are insolent folk in the land,"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "and thus might some baser fellow say, shall he meet us: ‘Who is this that follows Nausicaa, a comely man and tall, a stranger? Where did she find him? He will doubtless be a husband for her. Haply she has brought from his ship some wanderer of a folk that dwell afar—for none are near us—"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "or some god, long prayed-for, has come down from heaven in answer to her prayers, and she will have him as her husband all her days. Better so, even if she has herself gone forth and found a husband from another people; for of a truth she scorns the Phaeacians here in the land, where she has wooers many and noble!’"
+    }
+  ]
+}

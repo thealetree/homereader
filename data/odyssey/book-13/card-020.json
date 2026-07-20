@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ἀγγελίας προϊεῖσα, νόος δέ οἱ ἄλλα μενοινᾷ."
+    },
+    {
+      "n": 382,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 383,
+      "greek": "ὢ πόποι, ἦ μάλα δὴ Ἀγαμέμνονος Ἀτρεΐδαο"
+    },
+    {
+      "n": 384,
+      "greek": "φθίσεσθαι κακὸν οἶτον ἐνὶ μεγάροισιν ἔμελλον,"
+    },
+    {
+      "n": 385,
+      "greek": "εἰ μή μοι σὺ ἕκαστα, θεά, κατὰ μοῖραν ἔειπες."
+    },
+    {
+      "n": 386,
+      "greek": "ἀλλʼ ἄγε μῆτιν ὕφηνον, ὅπως ἀποτίσομαι αὐτούς·"
+    },
+    {
+      "n": 387,
+      "greek": "πὰρ δέ μοι αὐτὴ στῆθι, μένος πολυθαρσὲς ἐνεῖσα,"
+    },
+    {
+      "n": 388,
+      "greek": "οἷον ὅτε Τροίης λύομεν λιπαρὰ κρήδεμνα."
+    },
+    {
+      "n": 389,
+      "greek": "αἴ κέ μοι ὣς μεμαυῖα παρασταίης, γλαυκῶπι,"
+    },
+    {
+      "n": 390,
+      "greek": "καί κε τριηκοσίοισιν ἐγὼν ἄνδρεσσι μαχοίμην"
+    },
+    {
+      "n": 391,
+      "greek": "σὺν σοί, πότνα θεά, ὅτε μοι πρόφρασσʼ ἐπαρήγοις."
+    },
+    {
+      "n": 392,
+      "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα θεὰ γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 393,
+      "greek": "καὶ λίην τοι ἐγώ γε παρέσσομαι, οὐδέ με λήσεις,"
+    },
+    {
+      "n": 394,
+      "greek": "ὁππότε κεν δὴ ταῦτα πενώμεθα· καί τινʼ ὀΐω"
+    },
+    {
+      "n": 395,
+      "greek": "αἵματί τʼ ἐγκεφάλῳ τε παλαξέμεν ἄσπετον οὖδας"
+    },
+    {
+      "n": 396,
+      "greek": "ἀνδρῶν μνηστήρων, οἵ τοι βίοτον κατέδουσιν."
+    },
+    {
+      "n": 397,
+      "greek": "ἀλλʼ ἄγε σʼ ἄγνωστον τεύξω πάντεσσι βροτοῖσι·"
+    },
+    {
+      "n": 398,
+      "greek": "κάρψω μὲν χρόα καλὸν ἐνὶ γναμπτοῖσι μέλεσσι,"
+    },
+    {
+      "n": 399,
+      "greek": "ξανθὰς δʼ ἐκ κεφαλῆς ὀλέσω τρίχας, ἀμφὶ δὲ λαῖφος"
+    },
+    {
+      "n": 400,
+      "greek": "ἕσσω ὅ κε στυγέῃσιν ἰδὼν ἄνθρωπον ἔχοντα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "hadst not thou, goddess, duly told me all. But come, weave some plan by which I may requite them; and stand thyself by my side, and endue me with dauntless courage, even as when we loosed the bright diadem of Troy. Wouldest thou but stand by my side, thou flashing-eyed one, as eager as thou wast then,"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "I would fight even against three hundred men, with thee, mighty goddess, if with a ready heart thou wouldest give me aid.” Then the goddess, flashing-eyed Athena, answered him: “Yea verily, I will be with thee, and will not forget thee, when we are busied with this work; and methinks many a one"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "of the wooers that devour thy substance shall bespatter the vast earth with his blood and brains. But come, I will make thee unknown to all mortals. I will shrivel the fair skin on thy supple limbs, and destroy the flaxen hair from off thy head, and clothe thee in a ragged garment,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "such that one would shudder to see a man clad therein. And I will dim thy two eyes that were before so beautiful, that thou mayest appear mean in the sight of all the wooers, and of thy wife, and of thy son, whom thou didst leave in thy halls. And for thyself, do thou go first of all"
+    }
+  ]
+}

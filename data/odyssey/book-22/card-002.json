@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "σῖτός τε κρέα τʼ ὀπτὰ φορύνετο. τοὶ δʼ ὁμάδησαν"
+    },
+    {
+      "n": 22,
+      "greek": "μνηστῆρες κατὰ δώμαθʼ, ὅπως ἴδον ἄνδρα πεσόντα,"
+    },
+    {
+      "n": 23,
+      "greek": "ἐκ δὲ θρόνων ἀνόρουσαν ὀρινθέντες κατὰ δῶμα,"
+    },
+    {
+      "n": 24,
+      "greek": "πάντοσε παπταίνοντες ἐϋδμήτους ποτὶ τοίχους·"
+    },
+    {
+      "n": 25,
+      "greek": "οὐδέ πη ἀσπὶς ἔην οὐδʼ ἄλκιμον ἔγχος ἑλέσθαι."
+    },
+    {
+      "n": 26,
+      "greek": "νείκειον δʼ Ὀδυσῆα χολωτοῖσιν ἐπέεσσι·"
+    },
+    {
+      "n": 27,
+      "greek": "ξεῖνε, κακῶς ἀνδρῶν τοξάζεαι· οὐκέτʼ ἀέθλων"
+    },
+    {
+      "n": 28,
+      "greek": "ἄλλων ἀντιάσεις· νῦν τοι σῶς αἰπὺς ὄλεθρος."
+    },
+    {
+      "n": 29,
+      "greek": "καὶ γὰρ δὴ νῦν φῶτα κατέκτανες ὃς μέγʼ ἄριστος"
+    },
+    {
+      "n": 30,
+      "greek": "κούρων εἰν Ἰθάκῃ· τῷ σʼ ἐνθάδε γῦπες ἔδονται."
+    },
+    {
+      "n": 31,
+      "greek": "ἴσκεν ἕκαστος ἀνήρ, ἐπεὶ ἦ φάσαν οὐκ ἐθέλοντα"
+    },
+    {
+      "n": 32,
+      "greek": "ἄνδρα κατακτεῖναι· τὸ δὲ νήπιοι οὐκ ἐνόησαν,"
+    },
+    {
+      "n": 33,
+      "greek": "ὡς δή σφιν καὶ πᾶσιν ὀλέθρου πείρατʼ ἐφῆπτο."
+    },
+    {
+      "n": 34,
+      "greek": "τοὺς δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 35,
+      "greek": "ὦ κύνες, οὔ μʼ ἔτʼ ἐφάσκεθʼ ὑπότροπον οἴκαδʼ ἱκέσθαι"
+    },
+    {
+      "n": 36,
+      "greek": "δήμου ἄπο Τρώων, ὅτι μοι κατεκείρετε οἶκον,"
+    },
+    {
+      "n": 37,
+      "greek": "δμῳῇσιν δὲ γυναιξὶ παρευνάζεσθε βιαίως,"
+    },
+    {
+      "n": 38,
+      "greek": "αὐτοῦ τε ζώοντος ὑπεμνάασθε γυναῖκα,"
+    },
+    {
+      "n": 39,
+      "greek": "οὔτε θεοὺς δείσαντες, οἳ οὐρανὸν εὐρὺν ἔχουσιν,"
+    },
+    {
+      "n": 40,
+      "greek": "οὔτε τινʼ ἀνθρώπων νέμεσιν κατόπισθεν ἔσεσθαι·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "but nowhere was there a shield or mighty spear to seize. But they railed at Odysseus with angry words: “Stranger, to thy cost dost thou shoot at men; never again shalt thou take part in other contests; now is thy utter destruction sure. Aye, for thou hast now slain a man who was far the best"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "of the youths in Ithaca; therefore shall vultures devour thee here.” So spoke each man, for verily they thought that he had not slain the man willfully; and in their folly they knew not this, that over themselves one and all the cords of destruction had been made fast. Then with an angry glance from beneath his brows Odysseus of many wiles answered them:"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "“Ye dogs, ye thought that I should never more come home from the land of the Trojans, seeing that ye wasted my house, and lay with the maidservants by force, and while yet I lived covertly wooed my wife, having no fear of the gods, who hold broad heaven,"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "nor of the indignation of men, that is to be hereafter. Now over you one and all have the cords of destruction been made fast.” So he spoke, and thereat pale fear seized them all, and each man gazed about to see how he might escape utter destruction; Eurymachus alone answered him, and said:"
+    }
+  ]
+}

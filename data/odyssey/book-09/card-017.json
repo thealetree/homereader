@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "αὐανθέν. τὸ μὲν ἄμμες ἐίσκομεν εἰσορόωντες"
+    },
+    {
+      "n": 322,
+      "greek": "ὅσσον θʼ ἱστὸν νηὸς ἐεικοσόροιο μελαίνης,"
+    },
+    {
+      "n": 323,
+      "greek": "φορτίδος εὐρείης, ἥ τʼ ἐκπεράᾳ μέγα λαῖτμα·"
+    },
+    {
+      "n": 324,
+      "greek": "τόσσον ἔην μῆκος, τόσσον πάχος εἰσοράασθαι."
+    },
+    {
+      "n": 325,
+      "greek": "τοῦ μὲν ὅσον τʼ ὄργυιαν ἐγὼν ἀπέκοψα παραστὰς"
+    },
+    {
+      "n": 326,
+      "greek": "καὶ παρέθηχʼ ἑτάροισιν, ἀποξῦναι δʼ ἐκέλευσα·"
+    },
+    {
+      "n": 327,
+      "greek": "οἱ δʼ ὁμαλὸν ποίησαν· ἐγὼ δʼ ἐθόωσα παραστὰς"
+    },
+    {
+      "n": 328,
+      "greek": "ἄκρον, ἄφαρ δὲ λαβὼν ἐπυράκτεον ἐν πυρὶ κηλέῳ."
+    },
+    {
+      "n": 329,
+      "greek": "καὶ τὸ μὲν εὖ κατέθηκα κατακρύψας ὑπὸ κόπρῳ,"
+    },
+    {
+      "n": 330,
+      "greek": "ἥ ῥα κατὰ σπείους κέχυτο μεγάλʼ ἤλιθα πολλή·"
+    },
+    {
+      "n": 331,
+      "greek": "αὐτὰρ τοὺς ἄλλους κλήρῳ πεπαλάσθαι ἄνωγον,"
+    },
+    {
+      "n": 332,
+      "greek": "ὅς τις τολμήσειεν ἐμοὶ σὺν μοχλὸν ἀείρας"
+    },
+    {
+      "n": 333,
+      "greek": "τρῖψαι ἐν ὀφθαλμῷ, ὅτε τὸν γλυκὺς ὕπνος ἱκάνοι."
+    },
+    {
+      "n": 334,
+      "greek": "οἱ δʼ ἔλαχον τοὺς ἄν κε καὶ ἤθελον αὐτὸς ἑλέσθαι,"
+    },
+    {
+      "n": 335,
+      "greek": "τέσσαρες, αὐτὰρ ἐγὼ πέμπτος μετὰ τοῖσιν ἐλέγμην."
+    },
+    {
+      "n": 336,
+      "greek": "ἑσπέριος δʼ ἦλθεν καλλίτριχα μῆλα νομεύων."
+    },
+    {
+      "n": 337,
+      "greek": "αὐτίκα δʼ εἰς εὐρὺ σπέος ἤλασε πίονα μῆλα"
+    },
+    {
+      "n": 338,
+      "greek": "πάντα μάλʼ, οὐδέ τι λεῖπε βαθείης ἔκτοθεν αὐλῆς,"
+    },
+    {
+      "n": 339,
+      "greek": "ἤ τι ὀισάμενος, ἢ καὶ θεὸς ὣς ἐκέλευσεν."
+    },
+    {
+      "n": 340,
+      "greek": "αὐτὰρ ἔπειτʼ ἐπέθηκε θυρεὸν μέγαν ὑψόσʼ ἀείρας,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "To this I came, and cut off therefrom about a fathom's length and handed it to my comrades, bidding them dress it down; and they made it smooth, and I, standing by, sharpened it at the point, and then straightway took it and hardened it in the blazing fire. Then I laid it carefully away, hiding it beneath the dung,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "which lay in great heaps throughout the cave. And I bade my comrades cast lots among them, which of them should have the hardihood with me to lift the stake and grind it into his eye when sweet sleep should come upon him. And the lot fell upon those whom I myself would fain have chosen;"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "four they were, and I was numbered with them as the fifth. At even then he came, herding his flocks of goodly fleece, and straightway drove into the wide cave his fat flocks one and all, and left not one without in the deep court, either from some foreboding or because a god so bade him."
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "Then he lifted on high and set in place the great door-stone, and sitting down he milked the ewes and bleating goats all in turn, and beneath each dam he placed her young. But when he had busily performed his tasks, again he seized two men at once and made ready his supper."
+    }
+  ]
+}

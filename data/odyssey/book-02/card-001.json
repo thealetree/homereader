@@ -1,0 +1,129 @@
+{
+  "book": 2,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 2,
+      "greek": "ὤρνυτʼ ἄρʼ ἐξ εὐνῆφιν Ὀδυσσῆος φίλος υἱὸς"
+    },
+    {
+      "n": 3,
+      "greek": "εἵματα ἑσσάμενος, περὶ δὲ ξίφος ὀξὺ θέτʼ ὤμῳ,"
+    },
+    {
+      "n": 4,
+      "greek": "ποσσὶ δʼ ὑπὸ λιπαροῖσιν ἐδήσατο καλὰ πέδιλα,"
+    },
+    {
+      "n": 5,
+      "greek": "βῆ δʼ ἴμεν ἐκ θαλάμοιο θεῷ ἐναλίγκιος ἄντην."
+    },
+    {
+      "n": 6,
+      "greek": "αἶψα δὲ κηρύκεσσι λιγυφθόγγοισι κέλευσε"
+    },
+    {
+      "n": 7,
+      "greek": "κηρύσσειν ἀγορήνδε κάρη κομόωντας Ἀχαιούς."
+    },
+    {
+      "n": 8,
+      "greek": "οἱ μὲν ἐκήρυσσον, τοὶ δʼ ἠγείροντο μάλʼ ὦκα."
+    },
+    {
+      "n": 9,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἤγερθεν ὁμηγερέες τʼ ἐγένοντο,"
+    },
+    {
+      "n": 10,
+      "greek": "βῆ ῥʼ ἴμεν εἰς ἀγορήν, παλάμῃ δʼ ἔχε χάλκεον ἔγχος,"
+    },
+    {
+      "n": 11,
+      "greek": "οὐκ οἶος, ἅμα τῷ γε δύω κύνες ἀργοὶ ἕποντο."
+    },
+    {
+      "n": 12,
+      "greek": "θεσπεσίην δʼ ἄρα τῷ γε χάριν κατέχευεν Ἀθήνη."
+    },
+    {
+      "n": 13,
+      "greek": "τὸν δʼ ἄρα πάντες λαοὶ ἐπερχόμενον θηεῦντο·"
+    },
+    {
+      "n": 14,
+      "greek": "ἕζετο δʼ ἐν πατρὸς θώκῳ, εἶξαν δὲ γέροντες."
+    },
+    {
+      "n": 15,
+      "greek": "τοῖσι δʼ ἔπειθʼ ἥρως Αἰγύπτιος ἦρχʼ ἀγορεύειν,"
+    },
+    {
+      "n": 16,
+      "greek": "ὃς δὴ γήραϊ κυφὸς ἔην καὶ μυρία ᾔδη."
+    },
+    {
+      "n": 17,
+      "greek": "καὶ γὰρ τοῦ φίλος υἱὸς ἅμʼ ἀντιθέῳ Ὀδυσῆι"
+    },
+    {
+      "n": 18,
+      "greek": "Ἴλιον εἰς ἐύπωλον ἔβη κοίλῃς ἐνὶ νηυσίν,"
+    },
+    {
+      "n": 19,
+      "greek": "Ἄντιφος αἰχμητής· τὸν δʼ ἄγριος ἔκτανε Κύκλωψ"
+    },
+    {
+      "n": 20,
+      "greek": "ἐν σπῆι γλαφυρῷ, πύματον δʼ ὡπλίσσατο δόρπον."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "Soon as early Dawn appeared, the rosy-fingered, up from his bed arose the dear son of Odysseus and put on his clothing. About his shoulder he slung his sharp sword, and beneath his shining feet bound his fair sandals,"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "and went forth from his chamber like a god to look upon. Straightway he bade the clear-voiced heralds to summon to the assembly the long-haired Achaeans. And the heralds made the summons, and the Achaeans assembled full quickly. Now when they were assembled and met together,"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "Telemachus went his way to the place of assembly, holding in his hand a spear of bronze—not alone, for along with him two swift hounds followed; and wondrous was the grace that Athena shed upon him, and all the people marvelled at him as he came. But he sat down in his father's seat, and the elders gave place."
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "Then among them the lord Aegyptius was the first to speak, a man bowed with age and wise with wisdom untold. Now he spoke, because his dear son had gone in the hollow ships to Ilius, famed for its horses, in the company of godlike Odysseus, even the warrior Antiphus. But him the savage Cyclops had slain"
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "in his hollow cave, and made of him his latest meal. Three others there were; one, Eurynomus, consorted with the wooers, and two ever kept their father's farm. Yet, even so, he could not forget that other, mourning and sorrowing; and weeping for him he addressed the assembly, and spoke among them:"
+    }
+  ]
+}

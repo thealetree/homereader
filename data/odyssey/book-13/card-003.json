@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "πομπὴ καὶ φίλα δῶρα, τά μοι θεοὶ Οὐρανίωνες"
+    },
+    {
+      "n": 42,
+      "greek": "ὄλβια ποιήσειαν· ἀμύμονα δʼ οἴκοι ἄκοιτιν"
+    },
+    {
+      "n": 43,
+      "greek": "νοστήσας εὕροιμι σὺν ἀρτεμέεσσι φίλοισιν."
+    },
+    {
+      "n": 44,
+      "greek": "ὑμεῖς δʼ αὖθι μένοντες ἐϋφραίνοιτε γυναῖκας"
+    },
+    {
+      "n": 45,
+      "greek": "κουριδίας καὶ τέκνα· θεοὶ δʼ ἀρετὴν ὀπάσειαν"
+    },
+    {
+      "n": 46,
+      "greek": "παντοίην, καὶ μή τι κακὸν μεταδήμιον εἴη."
+    },
+    {
+      "n": 47,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπῄνεον ἠδʼ ἐκέλευον"
+    },
+    {
+      "n": 48,
+      "greek": "πεμπέμεναι τὸν ξεῖνον, ἐπεὶ κατὰ μοῖραν ἔειπεν."
+    },
+    {
+      "n": 49,
+      "greek": "καὶ τότε κήρυκα προσέφη μένος Ἀλκινόοιο·"
+    },
+    {
+      "n": 50,
+      "greek": "Ποντόνοε, κρητῆρα κερασσάμενος μέθυ νεῖμον"
+    },
+    {
+      "n": 51,
+      "greek": "πᾶσιν ἀνὰ μέγαρον, ὄφρʼ εὐξάμενοι Διὶ πατρὶ"
+    },
+    {
+      "n": 52,
+      "greek": "τὸν ξεῖνον πέμπωμεν ἑὴν ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 53,
+      "greek": "ὣς φάτο, Ποντόνοος δὲ μελίφρονα οἶνον ἐκίρνα,"
+    },
+    {
+      "n": 54,
+      "greek": "νώμησεν δʼ ἄρα πᾶσιν ἐπισταδόν· οἱ δὲ θεοῖσιν"
+    },
+    {
+      "n": 55,
+      "greek": "ἔσπεισαν μακάρεσσι, τοὶ οὐρανὸν εὐρὺν ἔχουσιν,"
+    },
+    {
+      "n": 56,
+      "greek": "αὐτόθεν ἐξ ἑδρέων. ἀνὰ δʼ ἵστατο δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 57,
+      "greek": "Ἀρήτῃ δʼ ἐν χειρὶ τίθει δέπας ἀμφικύπελλον,"
+    },
+    {
+      "n": 58,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 59,
+      "greek": "χαῖρέ μοι, ὦ βασίλεια, διαμπερές, εἰς ὅ κε γῆρας"
+    },
+    {
+      "n": 60,
+      "greek": "ἔλθῃ καὶ θάνατος, τά τʼ ἐπʼ ἀνθρώποισι πέλονται."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "your wedded wives and children; and may the gods grant you prosperity of every sort, and may no evil come upon your people.” So he spoke, and they all praised his words, and bade send the stranger on his way, since he had spoken fittingly. Then the mighty Alcinous spoke to the herald, saying:"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "“Pontonous, mix the bowl, and serve out wine to all in the hall, in order that, when we have made prayer to father Zeus, we may send forth the stranger to his own native land.” So he spoke, and Pontonous mixed the honey hearted wine and served out to all, coming up to each in turn;"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "and they poured libations to the blessed gods, who hold broad heaven, from where they sat. But goodly Odysseus arose, and placed in the hand of Arete the two-handled cup, and spoke, and addressed her with winged words: “Fare thee well, O queen, throughout all the years, till old age"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "and death come, which are the lot of mortals. As for me, I go my way, but do thou in this house have joy of thy children and thy people and Alcinous the king.” So the goodly Odysseus spake and passed over the threshold. And with him the mighty Alcinous sent forth a herald"
+    }
+  ]
+}

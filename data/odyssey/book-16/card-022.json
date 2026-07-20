@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 22,
+  "lineStart": 422,
+  "lineEnd": 441,
+  "lines": [
+    {
+      "n": 422,
+      "greek": "ῥάπτεις, οὐδʼ ἱκέτας ἐμπάζεαι, οἷσιν ἄρα Ζεὺς"
+    },
+    {
+      "n": 423,
+      "greek": "μάρτυρος; οὐδʼ ὁσίη κακὰ ῥάπτειν ἀλλήλοισιν."
+    },
+    {
+      "n": 424,
+      "greek": "ἦ οὐκ οἶσθʼ ὅτε δεῦρο πατὴρ τεὸς ἵκετο φεύγων,"
+    },
+    {
+      "n": 425,
+      "greek": "δῆμον ὑποδείσας; δὴ γὰρ κεχολώατο λίην,"
+    },
+    {
+      "n": 426,
+      "greek": "οὕνεκα ληϊστῆρσιν ἐπισπόμενος Ταφίοισιν"
+    },
+    {
+      "n": 427,
+      "greek": "ἤκαχε Θεσπρωτούς· οἱ δʼ ἡμῖν ἄρθμιοι ἦσαν·"
+    },
+    {
+      "n": 428,
+      "greek": "τόν ῥʼ ἔθελον φθῖσαι καὶ ἀπορραῖσαι φίλον ἦτορ"
+    },
+    {
+      "n": 429,
+      "greek": "ἠδὲ κατὰ ζωὴν φαγέειν μενοεικέα πολλήν·"
+    },
+    {
+      "n": 430,
+      "greek": "ἀλλʼ Ὀδυσεὺς κατέρυκε καὶ ἔσχεθεν ἱεμένους περ."
+    },
+    {
+      "n": 431,
+      "greek": "τοῦ νῦν οἶκον ἄτιμον ἔδεις, μνάᾳ δὲ γυναῖκα"
+    },
+    {
+      "n": 432,
+      "greek": "παῖδά τʼ ἀποκτείνεις, ἐμὲ δὲ μεγάλως ἀκαχίζεις·"
+    },
+    {
+      "n": 433,
+      "greek": "ἀλλά σε παύσασθαι κέλομαι καὶ ἀνωγέμεν ἄλλους."
+    },
+    {
+      "n": 434,
+      "greek": "τὴν δʼ αὖτʼ Εὐρύμαχος, Πολύβου πάϊς, ἀντίον ηὔδα·"
+    },
+    {
+      "n": 435,
+      "greek": "κούρη Ἰκαρίοιο, περίφρον Πηνελόπεια,"
+    },
+    {
+      "n": 436,
+      "greek": "θάρσει· μή τοι ταῦτα μετὰ φρεσὶ σῇσι μελόντων."
+    },
+    {
+      "n": 437,
+      "greek": "οὐκ ἔσθʼ οὗτος ἀνὴρ οὐδʼ ἔσσεται οὐδὲ γένηται,"
+    },
+    {
+      "n": 438,
+      "greek": "ὅς κεν Τηλεμάχῳ σῷ υἱέϊ χεῖρας ἐποίσει"
+    },
+    {
+      "n": 439,
+      "greek": "ζώοντός γʼ ἐμέθεν καὶ ἐπὶ χθονὶ δερκομένοιο."
+    },
+    {
+      "n": 440,
+      "greek": "ὧδε γὰρ ἐξερέω, καὶ μὴν τετελεσμένον ἔσται·"
+    },
+    {
+      "n": 441,
+      "greek": "αἶψά οἱ αἷμα κελαινὸν ἐρωήσει περὶ δουρὶ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "in terror of the people? For of a truth they were greatly wroth with him because he had joined Taphian pirates and harried the Thesprotians, who were in league with us. Him, then, they were minded to slay, and take from him his life by violence, and utterly to devour his great and pleasant livelihood;"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "but Odysseus held them back, and stayed them despite their eagerness. His house it is that thou consumest now without atonement, and wooest his wife, and seekest to slay his son, and on me thou bringest great distress. Nay, forbear, I charge thee, and bid the rest forbear.” Then Eurymachus, son of Polybus, answered her:"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "“Daughter of Icarius, wise Penelope, be of good cheer, and let not things distress thy heart. That man lives not, nor shall live, nor shall ever be born, who shall lay hands upon thy son Telemachus while I live and behold the light upon the earth."
+    },
+    {
+      "lines": [
+        440,
+        441
+      ],
+      "text": "For thus will I speak out to thee, and verily it shall be brought to pass. Quickly shall that man's black blood flow forth about my spear; for of a truth me, too, did Odysseus the sacker of cities often set upon his knees, and put roast meat in my hands, and hold to my lips red wine."
+    }
+  ]
+}

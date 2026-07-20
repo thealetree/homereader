@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "ἡμεῖς δʼ αἶψʼ ἀναβάντες ἐνήκαμεν εὐρέι πόντῳ,"
+    },
+    {
+      "n": 402,
+      "greek": "ἱστὸν στησάμενοι ἀνά θʼ ἱστία λεύκʼ ἐρύσαντες."
+    },
+    {
+      "n": 403,
+      "greek": "ἀλλʼ ὅτε δὴ τὴν νῆσον ἐλείπομεν, οὐδέ τις ἄλλη"
+    },
+    {
+      "n": 404,
+      "greek": "φαίνετο γαιάων, ἀλλʼ οὐρανὸς ἠδὲ θάλασσα,"
+    },
+    {
+      "n": 405,
+      "greek": "δὴ τότε κυανέην νεφέλην ἔστησε Κρονίων"
+    },
+    {
+      "n": 406,
+      "greek": "νηὸς ὕπερ γλαφυρῆς, ἤχλυσε δὲ πόντος ὑπʼ αὐτῆς."
+    },
+    {
+      "n": 407,
+      "greek": "ἡ δʼ ἔθει οὐ μάλα πολλὸν ἐπὶ χρόνον· αἶψα γὰρ ἦλθε"
+    },
+    {
+      "n": 408,
+      "greek": "κεκληγὼς Ζέφυρος μεγάλῃ σὺν λαίλαπι θύων,"
+    },
+    {
+      "n": 409,
+      "greek": "ἱστοῦ δὲ προτόνους ἔρρηξʼ ἀνέμοιο θύελλα"
+    },
+    {
+      "n": 410,
+      "greek": "ἀμφοτέρους· ἱστὸς δʼ ὀπίσω πέσεν, ὅπλα τε πάντα"
+    },
+    {
+      "n": 411,
+      "greek": "εἰς ἄντλον κατέχυνθʼ. ὁ δʼ ἄρα πρυμνῇ ἐνὶ νηὶ"
+    },
+    {
+      "n": 412,
+      "greek": "πλῆξε κυβερνήτεω κεφαλήν, σὺν δʼ ὀστέʼ ἄραξε"
+    },
+    {
+      "n": 413,
+      "greek": "πάντʼ ἄμυδις κεφαλῆς· ὁ δʼ ἄρʼ ἀρνευτῆρι ἐοικὼς"
+    },
+    {
+      "n": 414,
+      "greek": "κάππεσʼ ἀπʼ ἰκριόφιν, λίπε δʼ ὀστέα θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 415,
+      "greek": "Ζεὺς δʼ ἄμυδις βρόντησε καὶ ἔμβαλε νηὶ κεραυνόν·"
+    },
+    {
+      "n": 416,
+      "greek": "ἡ δʼ ἐλελίχθη πᾶσα Διὸς πληγεῖσα κεραυνῷ,"
+    },
+    {
+      "n": 417,
+      "greek": "ἐν δὲ θεείου πλῆτο, πέσον δʼ ἐκ νηὸς ἑταῖροι."
+    },
+    {
+      "n": 418,
+      "greek": "οἱ δὲ κορώνῃσιν ἴκελοι περὶ νῆα μέλαιναν"
+    },
+    {
+      "n": 419,
+      "greek": "κύμασιν ἐμφορέοντο, θεὸς δʼ ἀποαίνυτο νόστον."
+    },
+    {
+      "n": 420,
+      "greek": "αὐτὰρ ἐγὼ διὰ νηὸς ἐφοίτων, ὄφρʼ ἀπὸ τοίχους"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "then verily the son of Cronos set a black cloud above the hollow ship, and the sea grew dark beneath it. She ran on for no long time, for straightway came the shrieking West Wind, blowing with a furious tempest, and the blast of the wind snapped both the fore-stays of the mast,"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "so that the mast fell backward and all its tackling was strewn in the bilge. On the stern of the ship the mast struck the head of the pilot and crushed all the bones of his skull together, and like a diver he fell from the deck and his proud spirit left his bones."
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "Therewith Zeus thundered and hurled his bolt upon the ship, and she quivered from stem to stern, smitten by the bolt of Zeus, and was filled with sulphurous smoke, and my comrades fell from out the ship. Like sea-crows they were borne on the waves about the black ship, and the god took from them their returning."
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "But I kept pacing up and down the ship till the surge tore the sides from the keel, and the wave bore her on dismantled and snapped the mast off at the keel; but over the mast had been flung the back-stay fashioned of ox-hide; with this I lashed the two together, both keel and mast,"
+    }
+  ]
+}

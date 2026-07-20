@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ὧδε δέ τις εἴπεσκε νέων ὑπερηνορεόντων·"
+    },
+    {
+      "n": 362,
+      "greek": "πῆ δὴ καμπύλα τόξα φέρεις, ἀμέγαρτε συβῶτα,"
+    },
+    {
+      "n": 363,
+      "greek": "πλαγκτέ; τάχʼ αὖ σʼ ἐφʼ ὕεσσι κύνες ταχέες κατέδονται"
+    },
+    {
+      "n": 364,
+      "greek": "οἶον ἀπʼ ἀνθρώπων, οὓς ἔτρεφες, εἴ κεν Ἀπόλλων"
+    },
+    {
+      "n": 365,
+      "greek": "ἡμῖν ἱλήκῃσι καὶ ἀθάνατοι θεοὶ ἄλλοι."
+    },
+    {
+      "n": 366,
+      "greek": "ὣς φάσαν, αὐτὰρ, ὁ θῆκε φέρων αὐτῇ ἐνὶ χώρῃ,"
+    },
+    {
+      "n": 367,
+      "greek": "δείσας, οὕνεκα πολλοὶ ὁμόκλεον ἐν μεγάροισιν."
+    },
+    {
+      "n": 368,
+      "greek": "Τηλέμαχος δʼ ἑτέρωθεν ἀπειλήσας ἐγεγώνει·"
+    },
+    {
+      "n": 369,
+      "greek": "ἄττα, πρόσω φέρε τόξα· τάχʼ οὐκ εὖ πᾶσι πιθήσεις"
+    },
+    {
+      "n": 370,
+      "greek": "μή σε καὶ ὁπλότερός περ ἐὼν ἀγρόνδε δίωμαι,"
+    },
+    {
+      "n": 371,
+      "greek": "βάλλων χερμαδίοισι· βίηφι δὲ φέρτερός εἰμι."
+    },
+    {
+      "n": 372,
+      "greek": "αἲ γὰρ πάντων τόσσον, ὅσοι κατὰ δώματʼ ἔασι,"
+    },
+    {
+      "n": 373,
+      "greek": "μνηστήρων χερσίν τε βίηφί τε φέρτερος εἴην·"
+    },
+    {
+      "n": 374,
+      "greek": "τῷ κε τάχα στυγερῶς τινʼ ἐγὼ πέμψαιμι νέεσθαι"
+    },
+    {
+      "n": 375,
+      "greek": "ἡμετέρου ἐξ οἴκου, ἐπεὶ κακὰ μηχανόωνται."
+    },
+    {
+      "n": 376,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπʼ αὐτῷ ἡδὺ γέλασσαν"
+    },
+    {
+      "n": 377,
+      "greek": "μνηστῆρες, καὶ δὴ μέθιεν χαλεποῖο χόλοιο"
+    },
+    {
+      "n": 378,
+      "greek": "Τηλεμάχῳ· τὰ δὲ τόξα φέρων ἀνὰ δῶμα συβώτης"
+    },
+    {
+      "n": 379,
+      "greek": "ἐν χείρεσσʼ Ὀδυσῆϊ δαΐφρονι θῆκε παραστάς."
+    },
+    {
+      "n": 380,
+      "greek": "ἐκ δὲ καλεσσάμενος προσέφη τροφὸν Εὐρύκλειαν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "be gracious to us, and the other immortal gods.” So they spoke, and he set down the bow, as he bore it, in that very place, seized with fear because many men were crying out aloud in the halls. But Telemachus on the other side called out threateningly: “Father, bear the bow onward—soon shalt thou rue giving heed to all—"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "lest, younger though I am, I drive thee to the field, and pelt thee with stones; for in strength I am the better. I would that I were even so much better in strength and might than all the wooers that are in the house; then would I soon send many a one"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "forth from our house to go his way in evil case; for they devise wickedness.” So he spoke, but all the wooers laughed merrily at him, and relaxed the bitterness of their anger against Telemachus. Howbeit the swineherd bore the bow through the hall, and came up to wise Odysseus, and put it in his hands."
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "Then he called forth the nurse Eurycleia, and said to her: “Telemachus bids thee, wise Eurycleia, to bar the close-fitting doors of the hall, and if any of the women hear within groanings or the din of men within our walls, let them not"
+    }
+  ]
+}

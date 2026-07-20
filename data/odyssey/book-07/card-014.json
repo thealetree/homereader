@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "ἀλλʼ ὅτε δὴ ὀγδόατόν μοι ἐπιπλόμενον ἔτος ἦλθεν,"
+    },
+    {
+      "n": 262,
+      "greek": "καὶ τότε δή μʼ ἐκέλευσεν ἐποτρύνουσα νέεσθαι"
+    },
+    {
+      "n": 263,
+      "greek": "Ζηνὸς ὑπʼ ἀγγελίης, ἢ καὶ νόος ἐτράπετʼ αὐτῆς."
+    },
+    {
+      "n": 264,
+      "greek": "πέμπε δʼ ἐπὶ σχεδίης πολυδέσμου, πολλὰ δʼ ἔδωκε,"
+    },
+    {
+      "n": 265,
+      "greek": "σῖτον καὶ μέθυ ἡδύ, καὶ ἄμβροτα εἵματα ἕσσεν,"
+    },
+    {
+      "n": 266,
+      "greek": "οὖρον δὲ προέηκεν ἀπήμονά τε λιαρόν τε."
+    },
+    {
+      "n": 267,
+      "greek": "ἑπτὰ δὲ καὶ δέκα μὲν πλέον ἤματα ποντοπορεύων,"
+    },
+    {
+      "n": 268,
+      "greek": "ὀκτωκαιδεκάτῃ δʼ ἐφάνη ὄρεα σκιόεντα"
+    },
+    {
+      "n": 269,
+      "greek": "γαίης ὑμετέρης, γήθησε δέ μοι φίλον ἦτορ"
+    },
+    {
+      "n": 270,
+      "greek": "δυσμόρῳ· ἦ γὰρ ἔμελλον ἔτι ξυνέσεσθαι ὀιζυῖ"
+    },
+    {
+      "n": 271,
+      "greek": "πολλῇ, τήν μοι ἐπῶρσε Ποσειδάων ἐνοσίχθων,"
+    },
+    {
+      "n": 272,
+      "greek": "ὅς μοι ἐφορμήσας ἀνέμους κατέδησε κέλευθον,"
+    },
+    {
+      "n": 273,
+      "greek": "ὤρινεν δὲ θάλασσαν ἀθέσφατον, οὐδέ τι κῦμα"
+    },
+    {
+      "n": 274,
+      "greek": "εἴα ἐπὶ σχεδίης ἁδινὰ στενάχοντα φέρεσθαι."
+    },
+    {
+      "n": 275,
+      "greek": "τὴν μὲν ἔπειτα θύελλα διεσκέδασʼ· αὐτὰρ ἐγώ γε"
+    },
+    {
+      "n": 276,
+      "greek": "νηχόμενος τόδε λαῖτμα διέτμαγον, ὄφρα με γαίῃ"
+    },
+    {
+      "n": 277,
+      "greek": "ὑμετέρῃ ἐπέλασσε φέρων ἄνεμός τε καὶ ὕδωρ."
+    },
+    {
+      "n": 278,
+      "greek": "ἔνθα κέ μʼ ἐκβαίνοντα βιήσατο κῦμʼ ἐπὶ χέρσου,"
+    },
+    {
+      "n": 279,
+      "greek": "πέτρῃς πρὸς μεγάλῃσι βαλὸν καὶ ἀτερπέι χώρῳ·"
+    },
+    {
+      "n": 280,
+      "greek": "ἀλλʼ ἀναχασσάμενος νῆχον πάλιν, ἧος ἐπῆλθον"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "of bread and sweet wine, and clad me in immortal raiment, and sent forth a gentle wind and warm. So for seventeen days I sailed over the sea, and on the eighteenth appeared the shadowy mountains of your land; and my heart was glad,"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "ill-starred that I was; for verily I was yet to have fellowship with great woe, which Poseidon, the earth-shaker, sent upon me. For he stirred up the winds against me and stayed my course, and wondrously roused the sea, nor would the wave suffer me to be borne upon my raft, as I groaned ceaselessly."
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "My raft indeed the storm shattered, but by swimming I clove my way through yon gulf of the sea, until the wind and the waves, as they bore me, brought me to your shores. There, had I sought to land, the waves would have hurled me upon the shore, and dashed me against the great crags and a cheerless place,"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "but I gave way, and swam back until I came to a river, where seemed to me the best place, since it was smooth of rocks, and besides there was shelter from the wind. Forth then I staggered, and sank down, gasping for breath, and immortal night came on. Then I went forth from the heaven-fed river,"
+    }
+  ]
+}

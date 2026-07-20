@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "οὐ γάρ πω ἴδον ὧδε θεοὺς ἀναφανδὰ φιλεῦντας,"
+    },
+    {
+      "n": 222,
+      "greek": "ὡς κείνῳ ἀναφανδὰ παρίστατο Παλλὰς Ἀθήνη—"
+    },
+    {
+      "n": 223,
+      "greek": "εἴ σʼ οὕτως ἐθέλοι φιλέειν κήδοιτό τε θυμῷ,"
+    },
+    {
+      "n": 224,
+      "greek": "τῶ κέν τις κείνων γε καὶ ἐκλελάθοιτο γάμοιο."
+    },
+    {
+      "n": 225,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 226,
+      "greek": "ὦ γέρον, οὔ πω τοῦτο ἔπος τελέεσθαι ὀίω·"
+    },
+    {
+      "n": 227,
+      "greek": "λίην γὰρ μέγα εἶπες· ἄγη μʼ ἔχει. οὐκ ἂν ἐμοί γε"
+    },
+    {
+      "n": 228,
+      "greek": "ἐλπομένῳ τὰ γένοιτʼ, οὐδʼ εἰ θεοὶ ὣς ἐθέλοιεν."
+    },
+    {
+      "n": 229,
+      "greek": "τὸν δʼ αὖτε προσέειπε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 230,
+      "greek": "Τηλέμαχε, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων."
+    },
+    {
+      "n": 231,
+      "greek": "ῥεῖα θεός γʼ ἐθέλων καὶ τηλόθεν ἄνδρα σαώσαι."
+    },
+    {
+      "n": 232,
+      "greek": "βουλοίμην δʼ ἂν ἐγώ γε καὶ ἄλγεα πολλὰ μογήσας"
+    },
+    {
+      "n": 233,
+      "greek": "οἴκαδέ τʼ ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι,"
+    },
+    {
+      "n": 234,
+      "greek": "ἢ ἐλθὼν ἀπολέσθαι ἐφέστιος, ὡς Ἀγαμέμνων"
+    },
+    {
+      "n": 235,
+      "greek": "ὤλεθʼ ὑπʼ Αἰγίσθοιο δόλῳ καὶ ἧς ἀλόχοιο."
+    },
+    {
+      "n": 236,
+      "greek": "ἀλλʼ ἦ τοι θάνατον μὲν ὁμοίιον οὐδὲ θεοί περ"
+    },
+    {
+      "n": 237,
+      "greek": "καὶ φίλῳ ἀνδρὶ δύνανται ἀλαλκέμεν, ὁππότε κεν δὴ"
+    },
+    {
+      "n": 238,
+      "greek": "μοῖρʼ ὀλοὴ καθέλῃσι τανηλεγέος θανάτοιο."
+    },
+    {
+      "n": 239,
+      "greek": "τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 240,
+      "greek": "Μέντορ, μηκέτι ταῦτα λεγώμεθα κηδόμενοί περ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "Then wise Telemachus answered him: “Old man, in no wise do I deem that this word will be brought to pass. Too great is what thou sayest; amazement holds me. No hope have I that this will come to pass, no, not though the gods should so will it.” Then the goddess, flashing-eyed Athena, spoke to him, and said:"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "“Telemachus, what a word has escaped the barrier of thy teeth! Easily might a god who willed it bring a man safe home, even from afar. But for myself, I had rather endure many grievous toils ere I reached home and saw the day of my returning, than after my return be slain at my hearth, as Agamemnon"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "was slain by the guile of Aegisthus and of his own wife. But of a truth death that is common to all the gods themselves cannot ward from a man they love, when the fell fate of grievous death shall strike him down.” Then wise Telemachus answered her:"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "“Mentor, no longer let us tell of these things despite our grief. For him no return can ever more be brought to pass; nay, ere this the immortals have devised for him death and black fate. But now I would make enquiry and ask Nestor regarding another matter, since beyond all others he knows judgments and wisdom;"
+    }
+  ]
+}

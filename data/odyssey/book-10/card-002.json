@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "κεῖνον γὰρ ταμίην ἀνέμων ποίησε Κρονίων,"
+    },
+    {
+      "n": 22,
+      "greek": "ἠμὲν παυέμεναι ἠδʼ ὀρνύμεν, ὅν κʼ ἐθέλῃσι."
+    },
+    {
+      "n": 23,
+      "greek": "νηὶ δʼ ἐνὶ γλαφυρῇ κατέδει μέρμιθι φαεινῇ"
+    },
+    {
+      "n": 24,
+      "greek": "ἀργυρέῃ, ἵνα μή τι παραπνεύσῃ ὀλίγον περ·"
+    },
+    {
+      "n": 25,
+      "greek": "αὐτὰρ ἐμοὶ πνοιὴν Ζεφύρου προέηκεν ἀῆναι,"
+    },
+    {
+      "n": 26,
+      "greek": "ὄφρα φέροι νῆάς τε καὶ αὐτούς· οὐδʼ ἄρʼ ἔμελλεν"
+    },
+    {
+      "n": 27,
+      "greek": "ἐκτελέειν· αὐτῶν γὰρ ἀπωλόμεθʼ ἀφραδίῃσιν."
+    },
+    {
+      "n": 28,
+      "greek": "ἐννῆμαρ μὲν ὁμῶς πλέομεν νύκτας τε καὶ ἦμαρ,"
+    },
+    {
+      "n": 29,
+      "greek": "τῇ δεκάτῃ δʼ ἤδη ἀνεφαίνετο πατρὶς ἄρουρα,"
+    },
+    {
+      "n": 30,
+      "greek": "καὶ δὴ πυρπολέοντας ἐλεύσσομεν ἐγγὺς ἐόντες·"
+    },
+    {
+      "n": 31,
+      "greek": "ἔνθʼ ἐμὲ μὲν γλυκὺς ὕπνος ἐπήλυθε κεκμηῶτα,"
+    },
+    {
+      "n": 32,
+      "greek": "αἰεὶ γὰρ πόδα νηὸς ἐνώμων, οὐδέ τῳ ἄλλῳ"
+    },
+    {
+      "n": 33,
+      "greek": "δῶχʼ ἑτάρων, ἵνα θᾶσσον ἱκοίμεθα πατρίδα γαῖαν·"
+    },
+    {
+      "n": 34,
+      "greek": "οἱ δʼ ἕταροι ἐπέεσσι πρὸς ἀλλήλους ἀγόρευον,"
+    },
+    {
+      "n": 35,
+      "greek": "καί μʼ ἔφασαν χρυσόν τε καὶ ἄργυρον οἴκαδʼ ἄγεσθαι"
+    },
+    {
+      "n": 36,
+      "greek": "δῶρα παρʼ Αἰόλου μεγαλήτορος Ἱπποτάδαο."
+    },
+    {
+      "n": 37,
+      "greek": "ὧδε δέ τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄλλον·"
+    },
+    {
+      "n": 38,
+      "greek": "ὦ πόποι, ὡς ὅδε πᾶσι φίλος καὶ τίμιός ἐστιν"
+    },
+    {
+      "n": 39,
+      "greek": "ἀνθρώποις, ὅτεών τε πόλιν καὶ γαῖαν ἵκηται."
+    },
+    {
+      "n": 40,
+      "greek": "πολλὰ μὲν ἐκ Τροίης ἄγεται κειμήλια καλὰ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "But for my furtherance he sent forth the breath of the West Wind to blow, that it might bear on their way both ships and men. Yet this he was not to bring to pass, for we were lost through our own folly. “For nine days we sailed, night and day alike, and now on the tenth our native land came in sight,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "and lo, we were so near that we saw men tending the beacon fires. Then upon me came sweet sleep in my weariness, for I had ever kept in hand the sheet of the ship, and had yielded it to none other of my comrades, that we might the sooner come to our native land. But my comrades meanwhile began to speak one to another,"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "and said that I was bringing home for myself gold and silver as gifts from Aeolus, the great-hearted son of Hippotas. And thus would one speak, with a glance at his neighbor: “‘Out on it, how beloved and honored this man is by all men, to whose city and land soever he comes!"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "Much goodly treasure is he carrying with him from the land of Troy from out the spoil, while we, who have accomplished the same journey as he, are returning, bearing with us empty hands. And now Aeolus has given him these gifts, granting them freely of his love. Nay, come, let us quickly see what is here,"
+    }
+  ]
+}

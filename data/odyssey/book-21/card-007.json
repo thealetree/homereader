@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 7,
+  "lineStart": 121,
+  "lineEnd": 140,
+  "lines": [
+    {
+      "n": 121,
+      "greek": "πᾶσι μίαν μακρήν, καὶ ἐπὶ στάθμην ἴθυνεν,"
+    },
+    {
+      "n": 122,
+      "greek": "ἀμφὶ δὲ γαῖαν ἔναξε· τάφος δʼ ἕλε πάντας ἰδόντας,"
+    },
+    {
+      "n": 123,
+      "greek": "ὡς εὐκόσμως στῆσε· πάρος δʼ οὐ πώ ποτʼ ὀπώπει."
+    },
+    {
+      "n": 124,
+      "greek": "στῆ δʼ ἄρʼ ἐπʼ οὐδὸν ἰὼν καὶ τόξου πειρήτιζε."
+    },
+    {
+      "n": 125,
+      "greek": "τρὶς μέν μιν πελέμιξεν ἐρύσσεσθαι μενεαίνων,"
+    },
+    {
+      "n": 126,
+      "greek": "τρὶς δὲ μεθῆκε βίης, ἐπιελπόμενος τό γε θυμῷ,"
+    },
+    {
+      "n": 127,
+      "greek": "νευρὴν ἐντανύειν διοϊστεύσειν τε σιδήρου."
+    },
+    {
+      "n": 128,
+      "greek": "καί νύ κε δή ῥʼ ἐτάνυσσε βίῃ τὸ τέταρτον ἀνέλκων,"
+    },
+    {
+      "n": 129,
+      "greek": "ἀλλʼ Ὀδυσεὺς ἀνένευε καὶ ἔσχεθεν ἱέμενόν περ."
+    },
+    {
+      "n": 130,
+      "greek": "τοῖς δʼ αὖτις μετέειφʼ ἱερὴ ἲς Τηλεμάχοιο·"
+    },
+    {
+      "n": 131,
+      "greek": "ὢ πόποι, ἦ καὶ ἔπειτα κακός τʼ ἔσομαι καὶ ἄκικυς,"
+    },
+    {
+      "n": 132,
+      "greek": "ἠὲ νεώτερός εἰμι καὶ οὔ πω χερσὶ πέποιθα"
+    },
+    {
+      "n": 133,
+      "greek": "ἄνδρʼ ἀπαμύνασθαι, ὅτε τις πρότερος χαλεπήνῃ."
+    },
+    {
+      "n": 134,
+      "greek": "ἀλλʼ ἄγεθʼ, οἵ περ ἐμεῖο βίῃ προφερέστεροί ἐστε,"
+    },
+    {
+      "n": 135,
+      "greek": "τόξου πειρήσασθε, καὶ ἐκτελέωμεν ἄεθλον."
+    },
+    {
+      "n": 136,
+      "greek": "ὣς εἰπὼν τόξον μὲν ἀπὸ ἕο θῆκε χαμᾶζε,"
+    },
+    {
+      "n": 137,
+      "greek": "κλίνας κολλητῇσιν ἐϋξέστῃς σανίδεσσιν,"
+    },
+    {
+      "n": 138,
+      "greek": "αὐτοῦ δʼ ὠκὺ βέλος καλῇ προσέκλινε κορώνῃ,"
+    },
+    {
+      "n": 139,
+      "greek": "ἂψ δʼ αὖτις κατʼ ἄρʼ ἕζετʼ ἐπὶ θρόνου ἔνθεν ἀνέστη."
+    },
+    {
+      "n": 140,
+      "greek": "τοῖσιν δʼ Ἀντίνοος μετέφη, Εὐπείθεος υἱός·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "Thrice he made it quiver in his eagerness to draw it, and thrice he relaxed his effort, though in his heart he hoped to string the bow and shoot an arrow through the iron. And now at the last he would haply have strung it in his might, as for the fourth time he sought to draw up the string, but Odysseus nodded in dissent, and checked him in his eagerness."
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "Then the strong and mighty Telemachus spoke among them again: “Out on it, even in days to come shall I be a coward and a weakling, or else I am too young, and have not yet trust in my might to defend me against a man, when one waxes wroth without a cause. But, come now, you that are mightier than I,"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "make trial of the bow, and let us end the contest.” So saying, he set the bow from him on the ground, leaning it against the jointed, polished door, and hard by he leaned the swift arrow against the fair bow-tip, and then sat down again on the seat from which he had risen."
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "Then Antinous, son of Eupeithes, spoke among them: “Rise up in order, all you of our company, from left to right, beginning from the place where the cupbearer pours the wine.” So spoke Antinous, and his word was pleasing to them. Then first arose Leiodes, son of Oenops,"
+    }
+  ]
+}

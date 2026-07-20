@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "χεῖρας νιψάμενος πολιῆς ἁλὸς εὔχετʼ Ἀθήνῃ·"
+    },
+    {
+      "n": 262,
+      "greek": "κλῦθί μευ, ὃ χθιζὸς θεὸς ἤλυθες ἡμέτερον δῶ"
+    },
+    {
+      "n": 263,
+      "greek": "καί μʼ ἐν νηὶ κέλευσας ἐπʼ ἠεροειδέα πόντον"
+    },
+    {
+      "n": 264,
+      "greek": "νόστον πευσόμενον πατρὸς δὴν οἰχομένοιο"
+    },
+    {
+      "n": 265,
+      "greek": "ἔρχεσθαι· τὰ δὲ πάντα διατρίβουσιν Ἀχαιοί,"
+    },
+    {
+      "n": 266,
+      "greek": "μνηστῆρες δὲ μάλιστα κακῶς ὑπερηνορέοντες."
+    },
+    {
+      "n": 267,
+      "greek": "ὣς ἔφατʼ εὐχόμενος, σχεδόθεν δέ οἱ ἦλθεν Ἀθήνη,"
+    },
+    {
+      "n": 268,
+      "greek": "Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν,"
+    },
+    {
+      "n": 269,
+      "greek": "καί μιν φωνήσασʼ ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 270,
+      "greek": "Τηλέμαχʼ, οὐδʼ ὄπιθεν κακὸς ἔσσεαι οὐδʼ ἀνοήμων,"
+    },
+    {
+      "n": 271,
+      "greek": "εἰ δή τοι σοῦ πατρὸς ἐνέστακται μένος ἠύ,"
+    },
+    {
+      "n": 272,
+      "greek": "οἷος κεῖνος ἔην τελέσαι ἔργον τε ἔπος τε·"
+    },
+    {
+      "n": 273,
+      "greek": "οὔ τοι ἔπειθʼ ἁλίη ὁδὸς ἔσσεται οὐδʼ ἀτέλεστος."
+    },
+    {
+      "n": 274,
+      "greek": "εἰ δʼ οὐ κείνου γʼ ἐσσὶ γόνος καὶ Πηνελοπείης,"
+    },
+    {
+      "n": 275,
+      "greek": "οὐ σέ γʼ ἔπειτα ἔολπα τελευτήσειν, ἃ μενοινᾷς."
+    },
+    {
+      "n": 276,
+      "greek": "παῦροι γάρ τοι παῖδες ὁμοῖοι πατρὶ πέλονται,"
+    },
+    {
+      "n": 277,
+      "greek": "οἱ πλέονες κακίους, παῦροι δέ τε πατρὸς ἀρείους."
+    },
+    {
+      "n": 278,
+      "greek": "ἀλλʼ ἐπεὶ οὐδʼ ὄπιθεν κακὸς ἔσσεαι οὐδʼ ἀνοήμων,"
+    },
+    {
+      "n": 279,
+      "greek": "οὐδέ σε πάγχυ γε μῆτις Ὀδυσσῆος προλέλοιπεν,"
+    },
+    {
+      "n": 280,
+      "greek": "ἐλπωρή τοι ἔπειτα τελευτῆσαι τάδε ἔργα."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "Lo, all this the Achaeans hinder, but the wooers most of all in their evil insolence.” So he spoke in prayer, and Athena drew near to him in the likeness of Mentor, both in form and invoice; and she spoke, and addressed him with winged words:"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "“Telemachus, neither hereafter shalt thou be a base man or a witless, if aught of thy father's goodly spirit has been instilled into thee, such a man was he to fulfil both deed and word. So then shall this journey of thine be neither vain nor unfulfilled. But if thou art not the son of him and of Penelope,"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "then I have no hope that thou wilt accomplish thy desire. Few sons indeed are like their fathers; most are worse, few better than their fathers. But since neither hereafter shalt thou be a base man or a witless, nor has the wisdom of Odysseus wholly failed thee,"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "there is therefore hope that thou wilt accomplish this work. Now then let be the will and counsel of the wooers—fools, for they are in no wise either prudent or just, nor do they know aught of death or black fate, which verily is near at hand for them, that they shall all perish in a day."
+    }
+  ]
+}

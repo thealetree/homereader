@@ -1,0 +1,129 @@
+{
+  "book": 12,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "αὐτὰρ ἐπεὶ ποταμοῖο λίπεν ῥόον Ὠκεανοῖο"
+    },
+    {
+      "n": 2,
+      "greek": "νηῦς, ἀπὸ δʼ ἵκετο κῦμα θαλάσσης εὐρυπόροιο"
+    },
+    {
+      "n": 3,
+      "greek": "νῆσόν τʼ Αἰαίην, ὅθι τʼ Ἠοῦς ἠριγενείης"
+    },
+    {
+      "n": 4,
+      "greek": "οἰκία καὶ χοροί εἰσι καὶ ἀντολαὶ Ἠελίοιο,"
+    },
+    {
+      "n": 5,
+      "greek": "νῆα μὲν ἔνθʼ ἐλθόντες ἐκέλσαμεν ἐν ψαμάθοισιν,"
+    },
+    {
+      "n": 6,
+      "greek": "ἐκ δὲ καὶ αὐτοὶ βῆμεν ἐπὶ ῥηγμῖνι θαλάσσης·"
+    },
+    {
+      "n": 7,
+      "greek": "ἔνθα δʼ ἀποβρίξαντες ἐμείναμεν Ἠῶ δῖαν."
+    },
+    {
+      "n": 8,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 9,
+      "greek": "δὴ τότʼ ἐγὼν ἑτάρους προΐειν ἐς δώματα Κίρκης"
+    },
+    {
+      "n": 10,
+      "greek": "οἰσέμεναι νεκρόν, Ἐλπήνορα τεθνηῶτα."
+    },
+    {
+      "n": 11,
+      "greek": "φιτροὺς δʼ αἶψα ταμόντες, ὅθʼ ἀκροτάτη πρόεχʼ ἀκτή,"
+    },
+    {
+      "n": 12,
+      "greek": "θάπτομεν ἀχνύμενοι θαλερὸν κατὰ δάκρυ χέοντες."
+    },
+    {
+      "n": 13,
+      "greek": "αὐτὰρ ἐπεὶ νεκρός τʼ ἐκάη καὶ τεύχεα νεκροῦ,"
+    },
+    {
+      "n": 14,
+      "greek": "τύμβον χεύαντες καὶ ἐπὶ στήλην ἐρύσαντες"
+    },
+    {
+      "n": 15,
+      "greek": "πήξαμεν ἀκροτάτῳ τύμβῳ ἐυῆρες ἐρετμόν."
+    },
+    {
+      "n": 16,
+      "greek": "ἡμεῖς μὲν τὰ ἕκαστα διείπομεν· οὐδʼ ἄρα Κίρκην"
+    },
+    {
+      "n": 17,
+      "greek": "ἐξ Ἀίδεω ἐλθόντες ἐλήθομεν, ἀλλὰ μάλʼ ὦκα"
+    },
+    {
+      "n": 18,
+      "greek": "ἦλθʼ ἐντυναμένη· ἅμα δʼ ἀμφίπολοι φέρον αὐτῇ"
+    },
+    {
+      "n": 19,
+      "greek": "σῖτον καὶ κρέα πολλὰ καὶ αἴθοπα οἶνον ἐρυθρόν."
+    },
+    {
+      "n": 20,
+      "greek": "ἡ δʼ ἐν μέσσῳ στᾶσα μετηύδα δῖα θεάων·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "“Now after our ship had left the stream of the river Oceanus and had come to the wave of the broad sea, and the Aeaean isle, where is the dwelling of early Dawn and her dancing-lawns, and the risings of the sun,"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "there on our coming we beached our ship on the sands, and ourselves went forth upon the shore of the sea, and there we fell asleep, and waited for the bright Dawn. “As soon as early Dawn appeared, the rosy-fingered, then I sent forth my comrades to the house of Circe"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "to fetch the body of the dead Elpenor. Straightway then we cut billets of wood and gave him burial where the headland runs furthest out to sea, sorrowing and shedding big tears. But when the dead man was burned, and the armour of the dead, we heaped up a mound and dragged on to it a pillar,"
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "and on the top of the mound we planted his shapely oar. “We then were busied with these several tasks, howbeit Circe was not unaware of our coming forth from the house of Hades, but speedily she arrayed herself and came, and her handmaids brought with her bread and meat in abundance and flaming red wine."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "And the beautiful goddess stood in our midst, and spoke among us, saying: “‘Rash men, who have gone down alive to the house of Hades to meet death twice, while other men die but once. Nay, come, eat food and drink wine here this whole day through; but at the coming of Dawn"
+    }
+  ]
+}

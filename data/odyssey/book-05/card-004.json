@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "δαιομένων· ἡ δʼ ἔνδον ἀοιδιάουσʼ ὀπὶ καλῇ"
+    },
+    {
+      "n": 62,
+      "greek": "ἱστὸν ἐποιχομένη χρυσείῃ κερκίδʼ ὕφαινεν."
+    },
+    {
+      "n": 63,
+      "greek": "ὕλη δὲ σπέος ἀμφὶ πεφύκει τηλεθόωσα,"
+    },
+    {
+      "n": 64,
+      "greek": "κλήθρη τʼ αἴγειρός τε καὶ εὐώδης κυπάρισσος."
+    },
+    {
+      "n": 65,
+      "greek": "ἔνθα δέ τʼ ὄρνιθες τανυσίπτεροι εὐνάζοντο,"
+    },
+    {
+      "n": 66,
+      "greek": "σκῶπές τʼ ἴρηκές τε τανύγλωσσοί τε κορῶναι"
+    },
+    {
+      "n": 67,
+      "greek": "εἰνάλιαι, τῇσίν τε θαλάσσια ἔργα μέμηλεν."
+    },
+    {
+      "n": 68,
+      "greek": "ἡ δʼ αὐτοῦ τετάνυστο περὶ σπείους γλαφυροῖο"
+    },
+    {
+      "n": 69,
+      "greek": "ἡμερὶς ἡβώωσα, τεθήλει δὲ σταφυλῇσι."
+    },
+    {
+      "n": 70,
+      "greek": "κρῆναι δʼ ἑξείης πίσυρες ῥέον ὕδατι λευκῷ,"
+    },
+    {
+      "n": 71,
+      "greek": "πλησίαι ἀλλήλων τετραμμέναι ἄλλυδις ἄλλη."
+    },
+    {
+      "n": 72,
+      "greek": "ἀμφὶ δὲ λειμῶνες μαλακοὶ ἴου ἠδὲ σελίνου"
+    },
+    {
+      "n": 73,
+      "greek": "θήλεον. ἔνθα κʼ ἔπειτα καὶ ἀθάνατός περ ἐπελθὼν"
+    },
+    {
+      "n": 74,
+      "greek": "θηήσαιτο ἰδὼν καὶ τερφθείη φρεσὶν ᾗσιν."
+    },
+    {
+      "n": 75,
+      "greek": "ἔνθα στὰς θηεῖτο διάκτορος ἀργεϊφόντης."
+    },
+    {
+      "n": 76,
+      "greek": "αὐτὰρ ἐπεὶ δὴ πάντα ἑῷ θηήσατο θυμῷ,"
+    },
+    {
+      "n": 77,
+      "greek": "αὐτίκʼ ἄρʼ εἰς εὐρὺ σπέος ἤλυθεν. οὐδέ μιν ἄντην"
+    },
+    {
+      "n": 78,
+      "greek": "ἠγνοίησεν ἰδοῦσα Καλυψώ, δῖα θεάων·"
+    },
+    {
+      "n": 79,
+      "greek": "οὐ γάρ τʼ ἀγνῶτες θεοὶ ἀλλήλοισι πέλονται"
+    },
+    {
+      "n": 80,
+      "greek": "ἀθάνατοι, οὐδʼ εἴ τις ἀπόπροθι δώματα ναίει."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "wherein birds long of wing were wont to nest, owls and falcons and sea-crows with chattering tongues, who ply their business on the sea. And right there about the hollow cave ran trailing a garden vine, in pride of its prime, richly laden with clusters."
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "And fountains four in a row were flowing with bright water hard by one another, turned one this way, one that. And round about soft meadows of violets and parsley were blooming. There even an immortal, who chanced to come, might gaze and marvel, and delight his soul;"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "and there the messenger Argeiphontes stood and marvelled. But when he had marvelled in his heart at all things, straightway he went into the wide cave; nor did Calypso, the beautiful goddess, fail to know him, when she saw him face to face; for not unknown are"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "the immortal gods to one another, even though one dwells in a home far away. But the great-hearted Odysseus he found not within; for he sat weeping on the shore, as his wont had been, racking his soul with tears and groans and griefs, and he would look over the unresting sea, shedding tears."
+    }
+  ]
+}

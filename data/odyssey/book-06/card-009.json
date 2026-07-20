@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "οὔτʼ ἄνδρʼ οὔτε γυναῖκα· σέβας μʼ ἔχει εἰσορόωντα."
+    },
+    {
+      "n": 162,
+      "greek": "Δήλῳ δή ποτε τοῖον Ἀπόλλωνος παρὰ βωμῷ"
+    },
+    {
+      "n": 163,
+      "greek": "φοίνικος νέον ἔρνος ἀνερχόμενον ἐνόησα·"
+    },
+    {
+      "n": 164,
+      "greek": "ἦλθον γὰρ καὶ κεῖσε, πολὺς δέ μοι ἕσπετο λαός,"
+    },
+    {
+      "n": 165,
+      "greek": "τὴν ὁδὸν ᾗ δὴ μέλλεν ἐμοὶ κακὰ κήδεʼ ἔσεσθαι."
+    },
+    {
+      "n": 166,
+      "greek": "ὣς δʼ αὔτως καὶ κεῖνο ἰδὼν ἐτεθήπεα θυμῷ"
+    },
+    {
+      "n": 167,
+      "greek": "δήν, ἐπεὶ οὔ πω τοῖον ἀνήλυθεν ἐκ δόρυ γαίης,"
+    },
+    {
+      "n": 168,
+      "greek": "ὡς σέ, γύναι, ἄγαμαί τε τέθηπά τε, δείδια δʼ αἰνῶς"
+    },
+    {
+      "n": 169,
+      "greek": "γούνων ἅψασθαι· χαλεπὸν δέ με πένθος ἱκάνει."
+    },
+    {
+      "n": 170,
+      "greek": "χθιζὸς ἐεικοστῷ φύγον ἤματι οἴνοπα πόντον·"
+    },
+    {
+      "n": 171,
+      "greek": "τόφρα δέ μʼ αἰεὶ κῦμʼ ἐφόρει κραιπναί τε θύελλαι"
+    },
+    {
+      "n": 172,
+      "greek": "νήσου ἀπʼ Ὠγυγίης. νῦν δʼ ἐνθάδε κάββαλε δαίμων,"
+    },
+    {
+      "n": 173,
+      "greek": "ὄφρʼ ἔτι που καὶ τῇδε πάθω κακόν· οὐ γὰρ ὀίω"
+    },
+    {
+      "n": 174,
+      "greek": "παύσεσθʼ, ἀλλʼ ἔτι πολλὰ θεοὶ τελέουσι πάροιθεν."
+    },
+    {
+      "n": 175,
+      "greek": "ἀλλά, ἄνασσʼ, ἐλέαιρε· σὲ γὰρ κακὰ πολλὰ μογήσας"
+    },
+    {
+      "n": 176,
+      "greek": "ἐς πρώτην ἱκόμην, τῶν δʼ ἄλλων οὔ τινα οἶδα"
+    },
+    {
+      "n": 177,
+      "greek": "ἀνθρώπων, οἳ τήνδε πόλιν καὶ γαῖαν ἔχουσιν."
+    },
+    {
+      "n": 178,
+      "greek": "ἄστυ δέ μοι δεῖξον, δὸς δὲ ῥάκος ἀμφιβαλέσθαι,"
+    },
+    {
+      "n": 179,
+      "greek": "εἴ τί που εἴλυμα σπείρων ἔχες ἐνθάδʼ ἰοῦσα."
+    },
+    {
+      "n": 180,
+      "greek": "σοὶ δὲ θεοὶ τόσα δοῖεν ὅσα φρεσὶ σῇσι μενοινᾷς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "on that journey on which evil woes were to be my portion;—even so, when I saw that, I marvelled long at heart, for never yet did such a tree spring up from the earth. And in like manner, lady, do I marvel at thee, and am amazed, and fear greatly to touch thy knees; but sore grief has come upon me."
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "Yesterday, on the twentieth day, I escaped from the wine-dark sea, but ever until then the wave and the swift winds bore me from the island of Ogygia; and now fate has cast me ashore here, that here too, haply, I may suffer some ill. For not yet, methinks, will my troubles cease, but the gods ere that will bring many to pass."
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "Nay, O queen, have pity; for it is to thee first that I am come after many grievous toils, and of the others who possess this city and land I know not one. Shew me the city, and give me some rag to throw about me, if thou hadst any wrapping for the clothes when thou camest hither."
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "And for thyself, may the gods grant thee all that thy heart desires; a husband and a home may they grant thee, and oneness of heart—a goodly gift. For nothing is greater or better than this, when man and wife dwell in a home in one accord, a great grief to their foes"
+    }
+  ]
+}

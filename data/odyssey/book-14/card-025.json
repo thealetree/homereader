@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "ἀφραδίῃς, ἐπεὶ οὐκ ἐφάμην ῥιγωσέμεν ἔμπης,"
+    },
+    {
+      "n": 482,
+      "greek": "ἀλλʼ ἑπόμην σάκος οἶον ἔχων καὶ ζῶμα φαεινόν."
+    },
+    {
+      "n": 483,
+      "greek": "ἀλλʼ ὅτε δὴ τρίχα νυκτὸς ἔην, μετὰ δʼ ἄστρα βεβήκει,"
+    },
+    {
+      "n": 484,
+      "greek": "καὶ τότʼ ἐγὼν Ὀδυσῆα προσηύδων ἐγγὺς ἐόντα"
+    },
+    {
+      "n": 485,
+      "greek": "ἀγκῶνι νύξας· ὁ δʼ ἄρʼ ἐμμαπέως ὑπάκουσε·"
+    },
+    {
+      "n": 486,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 487,
+      "greek": "οὔ τοι ἔτι ζωοῖσι μετέσσομαι, ἀλλά με χεῖμα"
+    },
+    {
+      "n": 488,
+      "greek": "δάμναται· οὐ γὰρ ἔχω χλαῖναν· παρά μʼ ἤπαφε δαίμων"
+    },
+    {
+      "n": 489,
+      "greek": "οἰοχίτωνʼ ἔμεναι· νῦν δʼ οὐκέτι φυκτὰ πέλονται."
+    },
+    {
+      "n": 490,
+      "greek": "ὣς ἐφάμην, ὁ δʼ ἔπειτα νόον σχέθε τόνδʼ ἐνὶ θυμῷ,"
+    },
+    {
+      "n": 491,
+      "greek": "οἷος κεῖνος ἔην βουλευέμεν ἠδὲ μάχεσθαι·"
+    },
+    {
+      "n": 492,
+      "greek": "φθεγξάμενος δʼ ὀλίγῃ ὀπί με πρὸς μῦθον ἔειπε·"
+    },
+    {
+      "n": 493,
+      "greek": "σίγα νῦν, μή τίς σευ Ἀχαιῶν ἄλλος ἀκούσῃ."
+    },
+    {
+      "n": 494,
+      "greek": "ἦ καὶ ἐπʼ ἀγκῶνος κεφαλὴν σχέθεν εἶπέ τε μῦθον·"
+    },
+    {
+      "n": 495,
+      "greek": "κλῦτε, φίλοι· θεῖός μοι ἐνύπνιον ἦλθεν ὄνειρος."
+    },
+    {
+      "n": 496,
+      "greek": "λίην γὰρ νηῶν ἑκὰς ἤλθομεν· ἀλλά τις εἴη"
+    },
+    {
+      "n": 497,
+      "greek": "εἰπεῖν Ἀτρεΐδῃ Ἀγαμέμνονι, ποιμένι λαῶν,"
+    },
+    {
+      "n": 498,
+      "greek": "εἰ πλέονας παρὰ ναῦφιν ἐποτρύνειε νέεσθαι."
+    },
+    {
+      "n": 499,
+      "greek": "ὣς ἔφατʼ, ὦρτο δʼ ἔπειτα Θόας, Ἀνδραίμονος υἱός,"
+    },
+    {
+      "n": 500,
+      "greek": "καρπαλίμως, ἀπὸ δὲ χλαῖναν θέτο φοινικόεσσαν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "nudging him with my elbow; and he straightway gave ear: “Son of Laertes, sprung from Zeus, Odysseus of many devices, lo now, no longer shall I be among the living. Nay, the cold is killing me, for I have no cloak. Some god beguiled me to wear my tunic only, and now there is no more escape.’"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "“So I spoke, and he then devised this plan in his heart, such a man was he both to plan and to fight; and speaking in a low voice he said to me: ‘Be silent now, lest another of the Achaeans hear thee.’ “With this he raised his head upon his elbow, and spoke, saying:"
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "‘Hear me, friends; a dream from the gods came to me in my sleep. Lo, we have come very far from the ships, and I would that there were one to bear word to Agamemnon, son of Atreus, shepherd of the host, in the hope that he might bid more men to come from the ships.’ “So he spoke, and Thoas, son of Andraemon, sprang up"
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "quickly, and from him flung his purple cloak, and set out to run to the ships. Then in his garment I gladly lay, and golden-throned Dawn appeared. Would that I were young as then, and my strength as firm; then would one of the swineherds in the farmstead give me a cloak"
+    }
+  ]
+}

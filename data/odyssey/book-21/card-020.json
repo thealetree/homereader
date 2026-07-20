@@ -1,0 +1,122 @@
+{
+  "book": 21,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "Τηλέμαχος κέλεταί σε, περίφρων Εὐρύκλεια,"
+    },
+    {
+      "n": 382,
+      "greek": "κληῗσαι μεγάροιο θύρας πυκινῶς ἀραρυίας."
+    },
+    {
+      "n": 383,
+      "greek": "ἢν δέ τις ἤ στοναχῆς ἠὲ κτύπου ἔνδον ἀκούσῃ"
+    },
+    {
+      "n": 384,
+      "greek": "ἀνδρῶν ἡμετέροισιν ἐν ἕρκεσι, μή τι θύραζε"
+    },
+    {
+      "n": 385,
+      "greek": "προβλώσκειν, ἀλλʼ αὐτοῦ ἀκὴν ἔμεναι παρὰ ἔργῳ."
+    },
+    {
+      "n": 386,
+      "greek": "ὣς ἄρʼ ἐφώνησεν, τῇ δʼ ἄπτερος ἔπλετο μῦθος,"
+    },
+    {
+      "n": 387,
+      "greek": "κλήϊσεν δὲ θύρας μεγάρων εὖ ναιεταόντων."
+    },
+    {
+      "n": 388,
+      "greek": "σιγῇ δʼ ἐξ οἴκοιο Φιλοίτιος ἆλτο θύραζε,"
+    },
+    {
+      "n": 389,
+      "greek": "κλήϊσεν δʼ ἄρʼ ἔπειτα θύρας εὐερκέος αὐλῆς."
+    },
+    {
+      "n": 390,
+      "greek": "κεῖτο δʼ ὑπʼ αἰθούσῃ ὅπλον νεὸς ἀμφιελίσσης"
+    },
+    {
+      "n": 391,
+      "greek": "βύβλινον, ᾧ ῥʼ ἐπέδησε θύρας, ἐς δʼ ἤϊεν αὐτός·"
+    },
+    {
+      "n": 392,
+      "greek": "ἕζετʼ ἔπειτʼ ἐπὶ δίφρον ἰών, ἔνθεν περ ἀνέστη,"
+    },
+    {
+      "n": 393,
+      "greek": "εἰσορόων Ὀδυσῆα. ὁ δʼ ἤδη τόξον ἐνώμα"
+    },
+    {
+      "n": 394,
+      "greek": "πάντη ἀναστρωφῶν, πειρώμενος ἔνθα καὶ ἔνθα,"
+    },
+    {
+      "n": 395,
+      "greek": "μὴ κέρα ἶπες ἔδοιεν ἀποιχομένοιο ἄνακτος."
+    },
+    {
+      "n": 396,
+      "greek": "ὧδε τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄλλον·"
+    },
+    {
+      "n": 397,
+      "greek": "ἦ τις θηητὴρ καὶ ἐπίκλοπος ἔπλετο τόξων·"
+    },
+    {
+      "n": 398,
+      "greek": "ἤ ῥά νύ που τοιαῦτα καὶ αὐτῷ οἴκοθι κεῖται"
+    },
+    {
+      "n": 399,
+      "greek": "ἢ ὅ γʼ ἐφορμᾶται ποιησέμεν, ὡς ἐνὶ χερσὶ"
+    },
+    {
+      "n": 400,
+      "greek": "νωμᾷ ἔνθα καὶ ἔνθα κακῶν ἔμπαιος ἀλήτης."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "rush out, but remain where they are in silence at their work.” So he spoke, but her word remained unwinged; and she barred the doors of the stately halls. But in silence Philoetius hastened forth from the house, and barred the gates of the well-fenced court."
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "Now there lay beneath the portico the cable of a curved ship, made of byblus plant, wherewith he made fast the gates, and then himself went within. Thereafter he came and sat down on the seat from which he had risen, and gazed upon Odysseus; now he was already handling the bow, turning it round and round, and trying it this way and that,"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "lest worms might have eaten the horns, while its lord was afar. And thus would one speak with a glance at his neighbor: “Verily he has a shrewd eye, and is a cunning knave with a bow. It may be haply that he has himself such bows stored away at home, or else he is minded to make one, that he thus"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "turns it this way and that in his hands, the rascally vagabond.” And again another of the proud youths would say: “Would that the fellow might find profit in just such measure as he shall prove able ever to string this bow.” So spoke the wooers, but Odysseus of many wiles,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "πὰρ δʼ ἄρʼ Ὀδυσσῆϊ μοῖραν θέσαν οἳ πονέοντο"
+    },
+    {
+      "n": 282,
+      "greek": "ἴσην, ὡς αὐτοί περ ἐλάγχανον· ὣς γὰρ ἀνώγει"
+    },
+    {
+      "n": 283,
+      "greek": "Τηλέμαχος, φίλος υἱὸς Ὀδυσσῆος θείοιο."
+    },
+    {
+      "n": 284,
+      "greek": "μνηστῆρας δʼ οὐ πάμπαν ἀγήνορας εἴα Ἀθήνη"
+    },
+    {
+      "n": 285,
+      "greek": "λώβης ἴσχεσθαι θυμαλγέος, ὄφρʼ ἔτι μᾶλλον"
+    },
+    {
+      "n": 286,
+      "greek": "δύη ἄχος κραδίην Λαερτιάδην Ὀδυσῆα."
+    },
+    {
+      "n": 287,
+      "greek": "ἦν δέ τις ἐν μνηστῆρσιν ἀνὴρ ἀθεμίστια εἰδώς,"
+    },
+    {
+      "n": 288,
+      "greek": "Κτήσιππος δʼ ὄνομʼ ἔσκε, Σάμῃ δʼ ἐνὶ οἰκία ναῖεν·"
+    },
+    {
+      "n": 289,
+      "greek": "ὃς δή τοι κτεάτεσσι πεποιθὼς θεσπεσίοισι"
+    },
+    {
+      "n": 290,
+      "greek": "μνάσκετʼ Ὀδυσσῆος δὴν οἰχομένοιο δάμαρτα."
+    },
+    {
+      "n": 291,
+      "greek": "ὅς ῥα τότε μνηστῆρσιν ὑπερφιάλοισι μετηύδα·"
+    },
+    {
+      "n": 292,
+      "greek": "κέκλυτέ μευ, μνηστῆρες ἀγήνορες, ὄφρα τι εἴπω·"
+    },
+    {
+      "n": 293,
+      "greek": "μοῖραν μὲν δὴ ξεῖνος ἔχει πάλαι, ὡς ἐπέοικεν,"
+    },
+    {
+      "n": 294,
+      "greek": "ἴσην· οὐ γὰρ καλὸν ἀτέμβειν οὐδὲ δίκαιον"
+    },
+    {
+      "n": 295,
+      "greek": "ξείνους Τηλεμάχου, ὅς κεν τάδε δώμαθʼ ἵκηται."
+    },
+    {
+      "n": 296,
+      "greek": "ἀλλʼ ἄγε οἱ καὶ ἐγὼ δῶ ξείνιον, ὄφρα καὶ αὐτὸς"
+    },
+    {
+      "n": 297,
+      "greek": "ἠὲ λοετροχόῳ δώῃ γέρας ἠέ τῳ ἄλλῳ"
+    },
+    {
+      "n": 298,
+      "greek": "δμώων, οἳ κατὰ δώματʼ Ὀδυσσῆος θείοιο."
+    },
+    {
+      "n": 299,
+      "greek": "ὣς εἰπὼν ἔρριψε βοὸς πόδα χειρὶ παχείῃ."
+    },
+    {
+      "n": 300,
+      "greek": "κείμενον ἐκ κανέοιο λαβών· ὁ δʼ ἀλεύατʼ Ὀδυσσεὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "would in no wise suffer to abstain from bitter outrage, that pain might sink yet deeper into the heart of Odysseus, son of Laertes. There was among the wooers a man with his heart set on lawlessness—Ctesippus was his name, and in Same was his dwelling—who, trusting forsooth in his boundless wealth,"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "wooed the wife of Odysseus, that had long been gone. He it was who now spoke among the haughty wooers: “Hear me, ye proud wooers, that I may say somewhat. A portion has the stranger long had, an equal portion, as is meet; for it is not well nor just to rob of their due"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "the guests of Telemachus, whosoever he be that comes to this house. Nay, come, I too will give him a stranger's-gift, that he in turn may give a present either to the bath-woman or to some other of the slaves who are in the house of godlike Odysseus.” So saying, he hurled with strong hand the hoof of an ox,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "taking it up from the basket where it lay. But Odysseus avoided it with a quick turn of his head, and in his heart he smiled a right grim and bitter smile; and the ox's hoof struck the well-built wall. Then Telemachus rebuked Ctesippus, and said: “Ctesippus, verily this thing fell out more to thy soul's profit."
+    }
+  ]
+}

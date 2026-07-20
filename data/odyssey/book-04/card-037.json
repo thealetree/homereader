@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 37,
+  "lineStart": 721,
+  "lineEnd": 740,
+  "lines": [
+    {
+      "n": 721,
+      "greek": "τῇς δʼ ἁδινὸν γοόωσα μετηύδα Πηνελόπεια·"
+    },
+    {
+      "n": 722,
+      "greek": "κλῦτε, φίλαι· πέρι γάρ μοι Ὀλύμπιος ἄλγεʼ ἔδωκεν"
+    },
+    {
+      "n": 723,
+      "greek": "ἐκ πασέων, ὅσσαι μοι ὁμοῦ τράφεν ἠδʼ ἐγένοντο·"
+    },
+    {
+      "n": 724,
+      "greek": "ἣ πρὶν μὲν πόσιν ἐσθλὸν ἀπώλεσα θυμολέοντα,"
+    },
+    {
+      "n": 725,
+      "greek": "παντοίῃς ἀρετῇσι κεκασμένον ἐν Δαναοῖσιν,"
+    },
+    {
+      "n": 726,
+      "greek": "ἐσθλόν, τοῦ κλέος εὐρὺ καθʼ Ἑλλάδα καὶ μέσον Ἄργος."
+    },
+    {
+      "n": 727,
+      "greek": "νῦν αὖ παῖδʼ ἀγαπητὸν ἀνηρείψαντο θύελλαι"
+    },
+    {
+      "n": 728,
+      "greek": "ἀκλέα ἐκ μεγάρων, οὐδʼ ὁρμηθέντος ἄκουσα."
+    },
+    {
+      "n": 729,
+      "greek": "σχέτλιαι, οὐδʼ ὑμεῖς περ ἐνὶ φρεσὶ θέσθε ἑκάστη"
+    },
+    {
+      "n": 730,
+      "greek": "ἐκ λεχέων μʼ ἀνεγεῖραι, ἐπιστάμεναι σάφα θυμῷ,"
+    },
+    {
+      "n": 731,
+      "greek": "ὁππότʼ ἐκεῖνος ἔβη κοίλην ἐπὶ νῆα μέλαιναν."
+    },
+    {
+      "n": 732,
+      "greek": "εἰ γὰρ ἐγὼ πυθόμην ταύτην ὁδὸν ὁρμαίνοντα,"
+    },
+    {
+      "n": 733,
+      "greek": "τῷ κε μάλʼ ἤ κεν ἔμεινε καὶ ἐσσύμενός περ ὁδοῖο,"
+    },
+    {
+      "n": 734,
+      "greek": "ἤ κέ με τεθνηκυῖαν ἐνὶ μεγάροισιν ἔλειπεν."
+    },
+    {
+      "n": 735,
+      "greek": "ἀλλά τις ὀτρηρῶς Δολίον καλέσειε γέροντα,"
+    },
+    {
+      "n": 736,
+      "greek": "δμῶʼ ἐμόν, ὅν μοι δῶκε πατὴρ ἔτι δεῦρο κιούσῃ,"
+    },
+    {
+      "n": 737,
+      "greek": "καί μοι κῆπον ἔχει πολυδένδρεον, ὄφρα τάχιστα"
+    },
+    {
+      "n": 738,
+      "greek": "Λαέρτῃ τάδε πάντα παρεζόμενος καταλέξῃ,"
+    },
+    {
+      "n": 739,
+      "greek": "εἰ δή πού τινα κεῖνος ἐνὶ φρεσὶ μῆτιν ὑφήνας"
+    },
+    {
+      "n": 740,
+      "greek": "ἐξελθὼν λαοῖσιν ὀδύρεται, οἳ μεμάασιν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        725,
+        729
+      ],
+      "text": "pre-eminent in all manner of worth among the Danaans, my noble husband, whose fame is wide through Hellas and mid-Argos. And now again my well-loved son have the storm-winds swept away from our halls without tidings, nor did I hear of his setting forth. Cruel, that ye are! Not even you took thought, any one of you,"
+    },
+    {
+      "lines": [
+        730,
+        734
+      ],
+      "text": "to rouse me from my couch, though in your hearts ye knew full well when he went on board the hollow black ship. For had I learned that he was pondering this journey, he should verily have stayed here, how eager soever to be gone, or he should have left me dead in the halls."
+    },
+    {
+      "lines": [
+        735,
+        739
+      ],
+      "text": "But now let one hasten to call hither the aged Dolius, my servant, whom my father gave me or ever I came hither, and who keeps my garden of many trees, that he may straightway go and sit by Laertes, and tell him of all these things. So haply may Laertes weave some plan in his heart,"
+    },
+    {
+      "lines": [
+        740,
+        740
+      ],
+      "text": "and go forth and with weeping make his plea to the people, who are minded to destroy his race and that of godlike Odysseus.” Then the good nurse Eurycleia answered her:“Dear lady, thou mayest verily slay me with the pitiless sword or let me abide in the house, yet will I not hide my word from thee."
+    }
+  ]
+}

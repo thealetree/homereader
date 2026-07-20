@@ -1,0 +1,115 @@
+{
+  "book": 4,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "οὐ γάρ πώ τινά φημι ἐοικότα ὧδε ἰδέσθαι"
+    },
+    {
+      "n": 142,
+      "greek": "οὔτʼ ἄνδρʼ οὔτε γυναῖκα, σέβας μʼ ἔχει εἰσορόωσαν,"
+    },
+    {
+      "n": 143,
+      "greek": "ὡς ὅδʼ Ὀδυσσῆος μεγαλήτορος υἷι ἔοικε,"
+    },
+    {
+      "n": 144,
+      "greek": "Τηλεμάχῳ, τὸν ἔλειπε νέον γεγαῶτʼ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 145,
+      "greek": "κεῖνος ἀνήρ, ὅτʼ ἐμεῖο κυνώπιδος εἵνεκʼ Ἀχαιοὶ"
+    },
+    {
+      "n": 146,
+      "greek": "ἤλθεθʼ ὑπὸ Τροίην πόλεμον θρασὺν ὁρμαίνοντες."
+    },
+    {
+      "n": 147,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 148,
+      "greek": "οὕτω νῦν καὶ ἐγὼ νοέω, γύναι, ὡς σὺ ἐίσκεις·"
+    },
+    {
+      "n": 149,
+      "greek": "κείνου γὰρ τοιοίδε πόδες τοιαίδε τε χεῖρες"
+    },
+    {
+      "n": 150,
+      "greek": "ὀφθαλμῶν τε βολαὶ κεφαλή τʼ ἐφύπερθέ τε χαῖται."
+    },
+    {
+      "n": 151,
+      "greek": "καὶ νῦν ἦ τοι ἐγὼ μεμνημένος ἀμφʼ Ὀδυσῆι"
+    },
+    {
+      "n": 152,
+      "greek": "μυθεόμην, ὅσα κεῖνος ὀιζύσας ἐμόγησεν"
+    },
+    {
+      "n": 153,
+      "greek": "ἀμφʼ ἐμοί, αὐτὰρ ὁ πικρὸν ὑπʼ ὀφρύσι δάκρυον εἶβε,"
+    },
+    {
+      "n": 154,
+      "greek": "χλαῖναν πορφυρέην ἄντʼ ὀφθαλμοῖιν ἀνασχών."
+    },
+    {
+      "n": 155,
+      "greek": "τὸν δʼ αὖ Νεστορίδης Πεισίστρατος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 156,
+      "greek": "Ἀτρεΐδη Μενέλαε διοτρεφές, ὄρχαμε λαῶν,"
+    },
+    {
+      "n": 157,
+      "greek": "κείνου μέν τοι ὅδʼ υἱὸς ἐτήτυμον, ὡς ἀγορεύεις·"
+    },
+    {
+      "n": 158,
+      "greek": "ἀλλὰ σαόφρων ἐστί, νεμεσσᾶται δʼ ἐνὶ θυμῷ"
+    },
+    {
+      "n": 159,
+      "greek": "ὧδʼ ἐλθὼν τὸ πρῶτον ἐπεσβολίας ἀναφαίνειν"
+    },
+    {
+      "n": 160,
+      "greek": "ἄντα σέθεν, τοῦ νῶι θεοῦ ὣς τερπόμεθʼ αὐδῇ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "and the glances of his eyes, and his head and hair above. And verily but now, as I made mention of Odysseus and was telling of all the woe and toil he endured for my sake, this youth let fall a bitter tear from beneath his brows, holding up his purple cloak before his eyes.”"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "Then Peisistratus, son of Nestor, answered him:“Menelaus, son of Atreus, fostered of Zeus, leader of hosts, his son indeed this youth is, as thou sayest. But he is of prudent mind and feels shame at heart thus on his first coming to make a show of forward words"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "in the presence of thee, in whose voice we both take delight as in a god's. But the horseman, Nestor of Gerenia, sent me forth to go with him as his guide, for he was eager to see thee, that thou mightest put in his heart some word or some deed. For many sorrows has a son"
+    }
+  ]
+}

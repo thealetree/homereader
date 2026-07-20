@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 30,
+  "lineStart": 581,
+  "lineEnd": 600,
+  "lines": [
+    {
+      "n": 581,
+      "greek": "Πυθώδʼ ἐρχομένην διὰ καλλιχόρου Πανοπῆος."
+    },
+    {
+      "n": 582,
+      "greek": "καὶ μὴν Τάνταλον εἰσεῖδον κρατέρʼ ἄλγεʼ ἔχοντα"
+    },
+    {
+      "n": 583,
+      "greek": "ἑστεῶτʼ ἐν λίμνῃ· ἡ δὲ προσέπλαζε γενείῳ·"
+    },
+    {
+      "n": 584,
+      "greek": "στεῦτο δὲ διψάων, πιέειν δʼ οὐκ εἶχεν ἑλέσθαι·"
+    },
+    {
+      "n": 585,
+      "greek": "ὁσσάκι γὰρ κύψειʼ ὁ γέρων πιέειν μενεαίνων,"
+    },
+    {
+      "n": 586,
+      "greek": "τοσσάχʼ ὕδωρ ἀπολέσκετʼ ἀναβροχέν, ἀμφὶ δὲ ποσσὶ"
+    },
+    {
+      "n": 587,
+      "greek": "γαῖα μέλαινα φάνεσκε, καταζήνασκε δὲ δαίμων."
+    },
+    {
+      "n": 588,
+      "greek": "δένδρεα δʼ ὑψιπέτηλα κατὰ κρῆθεν χέε καρπόν,"
+    },
+    {
+      "n": 589,
+      "greek": "ὄγχναι καὶ ῥοιαὶ καὶ μηλέαι ἀγλαόκαρποι"
+    },
+    {
+      "n": 590,
+      "greek": "συκέαι τε γλυκεραὶ καὶ ἐλαῖαι τηλεθόωσαι·"
+    },
+    {
+      "n": 591,
+      "greek": "τῶν ὁπότʼ ἰθύσειʼ ὁ γέρων ἐπὶ χερσὶ μάσασθαι,"
+    },
+    {
+      "n": 592,
+      "greek": "τὰς δʼ ἄνεμος ῥίπτασκε ποτὶ νέφεα σκιόεντα."
+    },
+    {
+      "n": 593,
+      "greek": "καὶ μὴν Σίσυφον εἰσεῖδον κρατέρʼ ἄλγεʼ ἔχοντα"
+    },
+    {
+      "n": 594,
+      "greek": "λᾶαν βαστάζοντα πελώριον ἀμφοτέρῃσιν."
+    },
+    {
+      "n": 595,
+      "greek": "ἦ τοι ὁ μὲν σκηριπτόμενος χερσίν τε ποσίν τε"
+    },
+    {
+      "n": 596,
+      "greek": "λᾶαν ἄνω ὤθεσκε ποτὶ λόφον· ἀλλʼ ὅτε μέλλοι"
+    },
+    {
+      "n": 597,
+      "greek": "ἄκρον ὑπερβαλέειν, τότʼ ἀποστρέψασκε κραταιίς·"
+    },
+    {
+      "n": 598,
+      "greek": "αὖτις ἔπειτα πέδονδε κυλίνδετο λᾶας ἀναιδής."
+    },
+    {
+      "n": 599,
+      "greek": "αὐτὰρ ὅ γʼ ἂψ ὤσασκε τιταινόμενος, κατὰ δʼ ἱδρὼς"
+    },
+    {
+      "n": 600,
+      "greek": "ἔρρεεν ἐκ μελέων, κονίη δʼ ἐκ κρατὸς ὀρώρει."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        585,
+        589
+      ],
+      "text": "for as often as that old man stooped down, eager to drink, so often would the water be swallowed up and vanish away, and at his feet the black earth would appear, for some god made all dry. And trees, high and leafy, let stream their fruits above his head, pears, and pomegranates, and apple trees with their bright fruit,"
+    },
+    {
+      "lines": [
+        590,
+        594
+      ],
+      "text": "and sweet figs, and luxuriant olives. But as often as that old man would reach out toward these, to clutch them with his hands, the wind would toss them to the shadowy clouds. “Aye, and I saw Sisyphus in violent torment, seeking to raise a monstrous stone with both his hands."
+    },
+    {
+      "lines": [
+        595,
+        599
+      ],
+      "text": "Verily he would brace himself with hands and feet, and thrust the stone toward the crest of a hill, but as often as he was about to heave it over the top, the weight would turn it back, and then down again to the plain would come rolling the ruthless stone. But he would strain again and thrust it back, and the sweat"
+    },
+    {
+      "lines": [
+        600,
+        600
+      ],
+      "text": "flowed down from his limbs, and dust rose up from his head. “And after him I marked the mighty Heracles—his phantom; for he himself among the immortal gods takes his joy in the feast, and has to wife Hebe, of the fair ankles, daughter of great Zeus and of Here, of the golden sandals."
+    }
+  ]
+}

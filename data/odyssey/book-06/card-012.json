@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 12,
+  "lineStart": 221,
+  "lineEnd": 240,
+  "lines": [
+    {
+      "n": 221,
+      "greek": "ἄντην δʼ οὐκ ἂν ἐγώ γε λοέσσομαι· αἰδέομαι γὰρ"
+    },
+    {
+      "n": 222,
+      "greek": "γυμνοῦσθαι κούρῃσιν ἐυπλοκάμοισι μετελθών."
+    },
+    {
+      "n": 223,
+      "greek": "ὣς ἔφαθʼ, αἱ δʼ ἀπάνευθεν ἴσαν, εἶπον δʼ ἄρα κούρῃ."
+    },
+    {
+      "n": 224,
+      "greek": "αὐτὰρ ὁ ἐκ ποταμοῦ χρόα νίζετο δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 225,
+      "greek": "ἅλμην, ἥ οἱ νῶτα καὶ εὐρέας ἄμπεχεν ὤμους,"
+    },
+    {
+      "n": 226,
+      "greek": "ἐκ κεφαλῆς δʼ ἔσμηχεν ἁλὸς χνόον ἀτρυγέτοιο."
+    },
+    {
+      "n": 227,
+      "greek": "αὐτὰρ ἐπεὶ δὴ πάντα λοέσσατο καὶ λίπʼ ἄλειψεν,"
+    },
+    {
+      "n": 228,
+      "greek": "ἀμφὶ δὲ εἵματα ἕσσαθʼ ἅ οἱ πόρε παρθένος ἀδμής,"
+    },
+    {
+      "n": 229,
+      "greek": "τὸν μὲν Ἀθηναίη θῆκεν Διὸς ἐκγεγαυῖα"
+    },
+    {
+      "n": 230,
+      "greek": "μείζονά τʼ εἰσιδέειν καὶ πάσσονα, κὰδ δὲ κάρητος"
+    },
+    {
+      "n": 231,
+      "greek": "οὔλας ἧκε κόμας, ὑακινθίνῳ ἄνθει ὁμοίας."
+    },
+    {
+      "n": 232,
+      "greek": "ὡς δʼ ὅτε τις χρυσὸν περιχεύεται ἀργύρῳ ἀνὴρ"
+    },
+    {
+      "n": 233,
+      "greek": "ἴδρις, ὃν Ἥφαιστος δέδαεν καὶ Παλλὰς Ἀθήνη"
+    },
+    {
+      "n": 234,
+      "greek": "τέχνην παντοίην, χαρίεντα δὲ ἔργα τελείει,"
+    },
+    {
+      "n": 235,
+      "greek": "ὣς ἄρα τῷ κατέχευε χάριν κεφαλῇ τε καὶ ὤμοις."
+    },
+    {
+      "n": 236,
+      "greek": "ἕζετʼ ἔπειτʼ ἀπάνευθε κιὼν ἐπὶ θῖνα θαλάσσης,"
+    },
+    {
+      "n": 237,
+      "greek": "κάλλεϊ καὶ χάρισι στίλβων· θηεῖτο δὲ κούρη."
+    },
+    {
+      "n": 238,
+      "greek": "δή ῥα τότʼ ἀμφιπόλοισιν ἐυπλοκάμοισι μετηύδα·"
+    },
+    {
+      "n": 239,
+      "greek": "κλῦτέ μευ, ἀμφίπολοι λευκώλενοι, ὄφρα τι εἴπω."
+    },
+    {
+      "n": 240,
+      "greek": "οὐ πάντων ἀέκητι θεῶν, οἳ Ὄλυμπον ἔχουσιν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "the brine which clothed his back and broad shoulders, and from his head he wiped the scurf of the unresting sea. But when he had washed his whole body and anointed himself with oil, and had put on him the raiment which the unwedded maid had given him, then Athena, the daughter of Zeus, made him"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "taller to look upon and mightier, and from his head she made the locks to flow in curls like unto the hyacinth flower. And as when a man overlays silver with gold, a cunning workman whom Hephaestus and Pallas Athena have taught all manner of craft, and full of grace is the work he produces,"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "even so the goddess shed grace upon his head and shoulders. Then he went apart and sat down on the shore of the sea, gleaming with beauty and grace; and the damsel marvelled at him, and spoke to her fair-tressed handmaids, saying: “Listen, white-armed maidens, that I may say somewhat."
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "Not without the will of all the gods who hold Olympus does this man come among the godlike Phaeacians. Before he seemed to me uncouth, but now he is like the gods, who hold broad heaven. Would that a man such as he might be called my husband,"
+    }
+  ]
+}

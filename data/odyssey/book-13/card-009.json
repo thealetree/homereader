@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "ἔνθʼ ἔμενʼ· ἡ δὲ μάλα σχεδὸν ἤλυθε ποντοπόρος νηῦς"
+    },
+    {
+      "n": 162,
+      "greek": "ῥίμφα διωκομένη· τῆς δὲ σχεδὸν ἦλθʼ ἐνοσίχθων,"
+    },
+    {
+      "n": 163,
+      "greek": "ὅς μιν λᾶαν ἔθηκε καὶ ἐρρίζωσεν ἔνερθε"
+    },
+    {
+      "n": 164,
+      "greek": "χειρὶ καταπρηνεῖ ἐλάσας· ὁ δὲ νόσφι βεβήκει."
+    },
+    {
+      "n": 165,
+      "greek": "οἱ δὲ πρὸς ἀλλήλους ἔπεα πτερόεντʼ ἀγόρευον"
+    },
+    {
+      "n": 166,
+      "greek": "Φαίηκες δολιχήρετμοι, ναυσίκλυτοι ἄνδρες."
+    },
+    {
+      "n": 167,
+      "greek": "ὧδε δέ τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄλλον·"
+    },
+    {
+      "n": 168,
+      "greek": "ὤ μοι, τίς δὴ νῆα θοὴν ἐπέδησʼ ἐνὶ πόντῳ"
+    },
+    {
+      "n": 169,
+      "greek": "οἴκαδʼ ἐλαυνομένην; καὶ δὴ προὐφαίνετο πᾶσα."
+    },
+    {
+      "n": 170,
+      "greek": "ὣς ἄρα τις εἴπεσκε· τὰ δʼ οὐκ ἴσαν ὡς ἐτέτυκτο."
+    },
+    {
+      "n": 171,
+      "greek": "τοῖσιν δʼ Ἀλκίνοος ἀγορήσατο καὶ μετέειπεν·"
+    },
+    {
+      "n": 172,
+      "greek": "ὢ πόποι, ἦ μάλα δή με παλαίφατα θέσφαθʼ ἱκάνει"
+    },
+    {
+      "n": 173,
+      "greek": "πατρὸς ἐμοῦ, ὃς ἔφασκε Ποσειδάωνʼ ἀγάσασθαι"
+    },
+    {
+      "n": 174,
+      "greek": "ἡμῖν, οὕνεκα πομποὶ ἀπήμονές εἰμεν ἁπάντων."
+    },
+    {
+      "n": 175,
+      "greek": "φῆ ποτὲ Φαιήκων ἀνδρῶν περικαλλέα, νῆα,"
+    },
+    {
+      "n": 176,
+      "greek": "ἐκ πομπῆς ἀνιοῦσαν, ἐν ἠεροειδέϊ πόντῳ"
+    },
+    {
+      "n": 177,
+      "greek": "ῥαισέμεναι, μέγα δʼ ἧμιν ὄρος πόλει ἀμφικαλύψειν."
+    },
+    {
+      "n": 178,
+      "greek": "ὣς ἀγόρευʼ ὁ γέρων· τὰ δὲ δὴ νῦν πάντα τελεῖται."
+    },
+    {
+      "n": 179,
+      "greek": "ἀλλʼ ἄγεθʼ, ὡς ἂν ἐγὼ εἴπω, πειθώμεθα πάντες·"
+    },
+    {
+      "n": 180,
+      "greek": "πομπῆς μὲν παύσασθε βροτῶν, ὅτε κέν τις ἵκηται"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "But they spoke winged words to one another, the Phaeacians of the long oars, men famed for their ships. And thus would one speak, with a glance at his neighbor: “Ah me, who has now bound our swift ship on the sea as she sped homeward? Lo, she was in plain sight.”"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "So would one of them speak, but they knew not how these things were to be. Then Alcinous addressed their company and said: “Lo now, verily the oracles of my father, uttered long ago, have come upon me. He was wont to say that Poseidon was wroth with us because we give safe convoy to all men."
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "He said that some day, as a beautiful ship of the Phaeacians was returning from a convoy over the misty deep, Poseidon would smite her, and would fling a great mountain about our town. So that old man spoke, and lo, now all this is being brought to pass. But now come, as I bid let us all obey."
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "Cease ye to give convoy to mortals, when anyone comes to our city, and let us sacrifice to Poseidon twelve choice bulls, if haply he may take pity, and not fling a lofty mountain about our town.” So he spoke, and they were seized with fear and made ready the bulls."
+    }
+  ]
+}

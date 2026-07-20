@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "ἀλλʼ ὅτε δή ῥʼ ἵκανον ὅθι κειμήλια κεῖτο,"
+    },
+    {
+      "n": 102,
+      "greek": "Ἀτρεΐδης μὲν ἔπειτα δέπας λάβεν ἀμφικύπελλον,"
+    },
+    {
+      "n": 103,
+      "greek": "υἱὸν δὲ κρητῆρα φέρειν Μεγαπένθεʼ ἄνωγεν"
+    },
+    {
+      "n": 104,
+      "greek": "ἀργύρεον· Ἑλένη δὲ παρίστατο φωριαμοῖσιν,"
+    },
+    {
+      "n": 105,
+      "greek": "ἔνθʼ ἔσαν οἱ πέπλοι παμποίκιλοι, οὓς κάμεν αὐτή."
+    },
+    {
+      "n": 106,
+      "greek": "τῶν ἕνʼ ἀειραμένη Ἑλένη φέρε, δῖα γυναικῶν,"
+    },
+    {
+      "n": 107,
+      "greek": "ὃς κάλλιστος ἔην ποικίλμασιν ἠδὲ μέγιστος,"
+    },
+    {
+      "n": 108,
+      "greek": "ἀστὴρ δʼ ὣς ἀπέλαμπεν· ἔκειτο δὲ νείατος ἄλλων."
+    },
+    {
+      "n": 109,
+      "greek": "βὰν δʼ ἰέναι προτέρω διὰ δώματος, ἧος ἵκοντο"
+    },
+    {
+      "n": 110,
+      "greek": "Τηλέμαχον· τὸν δὲ προσέφη ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 111,
+      "greek": "Τηλέμαχʼ, ἦ τοι νόστον, ὅπως φρεσὶ σῇσι μενοινᾷς,"
+    },
+    {
+      "n": 112,
+      "greek": "ὥς τοι Ζεὺς τελέσειεν, ἐρίγδουπος πόσις Ἥρης."
+    },
+    {
+      "n": 113,
+      "greek": "δώρων δʼ, ὅσσʼ ἐν ἐμῷ οἴκῳ κειμήλια κεῖται,"
+    },
+    {
+      "n": 114,
+      "greek": "δώσω ὃ κάλλιστον καὶ τιμηέστατόν ἐστι."
+    },
+    {
+      "n": 115,
+      "greek": "δώσω τοι κρητῆρα τετυγμένον· ἀργύρεος δὲ"
+    },
+    {
+      "n": 116,
+      "greek": "ἐστὶν ἅπας, χρυσῷ δʼ ἐπὶ χείλεα κεκράανται,"
+    },
+    {
+      "n": 117,
+      "greek": "ἔργον δʼ Ἡφαίστοιο· πόρεν δέ ἑ Φαίδιμος ἥρως,"
+    },
+    {
+      "n": 118,
+      "greek": "Σιδονίων βασιλεύς, ὅθʼ ἑὸς δόμος ἀμφεκάλυψε"
+    },
+    {
+      "n": 119,
+      "greek": "κεῖσέ με νοστήσαντα· τεῒν δʼ ἐθέλω τόδʼ ὀπάσσαι."
+    },
+    {
+      "n": 120,
+      "greek": "ὣς εἰπὼν ἐν χειρὶ τίθει δέπας ἀμφικύπελλον"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "in which were her richly-broidered robes, that she herself had wrought. One of these Helen, the beautiful lady, lifted out and bore away, the one that was fairest in its broideries, and the amplest. It shone like a star, and lay beneath all the rest. Then they went forth through the house until they came to"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "Telemachus; and fair-haired Menelaus spoke to him, and said: “Telemachus, may Zeus, the loud-thundering lord of Here, verily bring to pass for thee thy return, even as thy heart desires. And of all the gifts that lie stored as treasures in my house, I will give thee that one which is fairest and costliest."
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "I will give thee a well-wrought mixing-bowl. It is all of silver, and with gold are the rims thereof gilded, the work of Hephaestus; and the warrior Phaedimus, king of the Sidonians, gave it me, when his house sheltered me as I came thither; and now I am minded to give it to thee.”"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "So saying, the warrior, son of Atreus, placed the two-handled cup in his hands. And the strong Megapenthes brought the bright mixing-bowl of silver and set it before him, and fair-cheeked Helen came up with the robe in her hands, and spoke, and addressed him:"
+    }
+  ]
+}

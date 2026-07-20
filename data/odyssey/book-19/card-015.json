@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "καί οἱ πολλὰ δόσαν πέμπειν τέ μιν ἤθελον αὐτοὶ"
+    },
+    {
+      "n": 282,
+      "greek": "οἴκαδʼ ἀπήμαντον. καί κεν πάλαι ἐνθάδʼ Ὀδυσσεὺς"
+    },
+    {
+      "n": 283,
+      "greek": "ἤην· ἀλλʼ ἄρα οἱ τό γε κέρδιον εἴσατο θυμῷ,"
+    },
+    {
+      "n": 284,
+      "greek": "χρήματʼ ἀγυρτάζειν πολλὴν ἐπὶ γαῖαν ἰόντι·"
+    },
+    {
+      "n": 285,
+      "greek": "ὣς περὶ κέρδεα πολλὰ καταθνητῶν ἀνθρώπων"
+    },
+    {
+      "n": 286,
+      "greek": "οἶδʼ Ὀδυσεύς, οὐδʼ ἄν τις ἐρίσσειε βροτὸς ἄλλος."
+    },
+    {
+      "n": 287,
+      "greek": "ὥς μοι Θεσπρωτῶν βασιλεὺς μυθήσατο Φείδων·"
+    },
+    {
+      "n": 288,
+      "greek": "ὤμνυε δὲ πρὸς ἔμʼ αὐτόν, ἀποσπένδων ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 289,
+      "greek": "νῆα κατειρύσθαι καὶ ἐπαρτέας ἔμμεν ἑταίρους,"
+    },
+    {
+      "n": 290,
+      "greek": "οἳ δή μιν πέμψουσι φίλην ἐς πατρίδα γαῖαν."
+    },
+    {
+      "n": 291,
+      "greek": "ἀλλʼ ἐμὲ πρὶν ἀπέπεμψε· τύχησε γὰρ ἐρχομένη νηῦς"
+    },
+    {
+      "n": 292,
+      "greek": "ἀνδρῶν Θεσπρωτῶν ἐς Δουλίχιον πολύπυρον."
+    },
+    {
+      "n": 293,
+      "greek": "καί μοι κτήματʼ ἔδειξεν, ὅσα ξυναγείρατʼ Ὀδυσσεύς·"
+    },
+    {
+      "n": 294,
+      "greek": "καί νύ κεν ἐς δεκάτην γενεὴν ἕτερόν γʼ ἔτι βόσκοι,"
+    },
+    {
+      "n": 295,
+      "greek": "ὅσσα οἱ ἐν μεγάροις κειμήλια κεῖτο ἄνακτος."
+    },
+    {
+      "n": 296,
+      "greek": "τὸν δʼ ἐς Δωδώνην φάτο βήμεναι, ὄφρα θεοῖο"
+    },
+    {
+      "n": 297,
+      "greek": "ἐκ δρυὸς ὑψικόμοιο Διὸς βουλὴν ἐπακούσαι,"
+    },
+    {
+      "n": 298,
+      "greek": "ὅππως νοστήσειε φίλην ἐς πατρίδα γαῖαν"
+    },
+    {
+      "n": 299,
+      "greek": "ἤδη δὴν ἀπεών, ἤ ἀμφαδὸν ἦε κρυφηδόν."
+    },
+    {
+      "n": 300,
+      "greek": "ὣς ὁ μὲν οὕτως ἐστὶ σόος καὶ ἐλεύσεται ἤδη"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "so truly does Odysseus beyond all mortal men know many gainful ways, nor could any mortal beside vie with him. Thus Pheidon, king of the Thesprotians, told me the tale. Moreover he swore in my own presence, as he poured libations in his halls, that the ship was launched and the men ready"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "who were to convey him to his dear native land. But me he sent forth first, for a ship of the Thesprotians chanced to be setting out for Dulichium, rich in wheat. And he showed me all the treasure that Odysseus had gathered; verily unto the tenth generation would it feed his children after him,"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "so great was the wealth that lay stored for him in the halls of the king. But Odysseus, he said, had gone to Dodona to hear the will of Zeus from the high-crested oak of the god, even how he might return to his dear native land after so long an absence, whether openly or in secret."
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "“Thus, as I tell thee, he is safe, and will presently come; he is very near, and not long will he now be far from his friends and his native land. Yet will I give thee an oath. Be Zeus my witness first, highest and best of gods, and the hearth of noble Odysseus to which I am come,"
+    }
+  ]
+}

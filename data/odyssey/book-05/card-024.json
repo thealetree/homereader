@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "ἂψ δʼ ἔφερεν μέγα κῦμα κατὰ ῥόον, αἶψα δʼ ἄρʼ Ἰνὼ"
+    },
+    {
+      "n": 462,
+      "greek": "δέξατο χερσὶ φίλῃσιν· ὁ δʼ ἐκ ποταμοῖο λιασθεὶς"
+    },
+    {
+      "n": 463,
+      "greek": "σχοίνῳ ὑπεκλίνθη, κύσε δὲ ζείδωρον ἄρουραν."
+    },
+    {
+      "n": 464,
+      "greek": "ὀχθήσας δʼ ἄρα εἶπε πρὸς ὃν μεγαλήτορα θυμόν·"
+    },
+    {
+      "n": 465,
+      "greek": "ὤ μοι ἐγώ, τί πάθω; τί νύ μοι μήκιστα γένηται;"
+    },
+    {
+      "n": 466,
+      "greek": "εἰ μέν κʼ ἐν ποταμῷ δυσκηδέα νύκτα φυλάσσω,"
+    },
+    {
+      "n": 467,
+      "greek": "μή μʼ ἄμυδις στίβη τε κακὴ καὶ θῆλυς ἐέρση"
+    },
+    {
+      "n": 468,
+      "greek": "ἐξ ὀλιγηπελίης δαμάσῃ κεκαφηότα θυμόν·"
+    },
+    {
+      "n": 469,
+      "greek": "αὔρη δʼ ἐκ ποταμοῦ ψυχρὴ πνέει ἠῶθι πρό."
+    },
+    {
+      "n": 470,
+      "greek": "εἰ δέ κεν ἐς κλιτὺν ἀναβὰς καὶ δάσκιον ὕλην"
+    },
+    {
+      "n": 471,
+      "greek": "θάμνοις ἐν πυκινοῖσι καταδράθω, εἴ με μεθείη"
+    },
+    {
+      "n": 472,
+      "greek": "ῥῖγος καὶ κάματος, γλυκερὸς δέ μοι ὕπνος ἐπέλθῃ,"
+    },
+    {
+      "n": 473,
+      "greek": "δείδω, μὴ θήρεσσιν ἕλωρ καὶ κύρμα γένωμαι."
+    },
+    {
+      "n": 474,
+      "greek": "ὣς ἄρα οἱ φρονέοντι δοάσσατο κέρδιον εἶναι·"
+    },
+    {
+      "n": 475,
+      "greek": "βῆ ῥʼ ἴμεν εἰς ὕλην· τὴν δὲ σχεδὸν ὕδατος εὗρεν"
+    },
+    {
+      "n": 476,
+      "greek": "ἐν περιφαινομένῳ· δοιοὺς δʼ ἄρʼ ὑπήλυθε θάμνους,"
+    },
+    {
+      "n": 477,
+      "greek": "ἐξ ὁμόθεν πεφυῶτας· ὁ μὲν φυλίης, ὁ δʼ ἐλαίης."
+    },
+    {
+      "n": 478,
+      "greek": "τοὺς μὲν ἄρʼ οὔτʼ ἀνέμων διάη μένος ὑγρὸν ἀέντων,"
+    },
+    {
+      "n": 479,
+      "greek": "οὔτε ποτʼ ἠέλιος φαέθων ἀκτῖσιν ἔβαλλεν,"
+    },
+    {
+      "n": 480,
+      "greek": "οὔτʼ ὄμβρος περάασκε διαμπερές· ὣς ἄρα πυκνοὶ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "“Ah, woe is me! what is to befall me? What will happen to me at the last? If here in the river bed I keep watch throughout the weary night, I fear that together the bitter frost and the fresh dew may overcome me, when from feebleness I have breathed forth my spirit; and the breeze from the river blows cold in the early morning."
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "But if I climb up the slope to the shady wood and lie down to rest in the thick brushwood, in the hope that the cold and weariness might leave me, and if sweet sleep comes over me, I fear me lest I become a prey and spoil to wild beasts.” Then, as he pondered, this thing seemed to him the better:"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "he went his way to the wood and found it near the water in a clear space; and he crept beneath two bushes that grew from the same spot, one of thorn and one of olive. Through these the strength of the wet winds could never blow, nor the rays of the bright sun beat,"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "nor could the rain pierce through them, so closely did they grow, intertwining one with the other. Beneath these Odysseus crept and straightway gathered with his hands a broad bed, for fallen leaves were there in plenty, enough to shelter two men or three"
+    }
+  ]
+}

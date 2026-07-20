@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "τὸν δʼ αὖτε προσέειπε θεὰ γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 362,
+      "greek": "θάρσει, μή τοι ταῦτα μετὰ φρεσὶ σῇσι μελόντων."
+    },
+    {
+      "n": 363,
+      "greek": "ἀλλὰ χρήματα μὲν μυχῷ ἄντρου θεσπεσίοιο"
+    },
+    {
+      "n": 364,
+      "greek": "θείμεν αὐτίκα νῦν, ἵνα περ τάδε τοι σόα μίμνῃ·"
+    },
+    {
+      "n": 365,
+      "greek": "αὐτοὶ δὲ φραζώμεθʼ ὅπως ὄχʼ ἄριστα γένηται."
+    },
+    {
+      "n": 366,
+      "greek": "ὣς εἰποῦσα θεὰ δῦνε σπέος ἠεροειδές,"
+    },
+    {
+      "n": 367,
+      "greek": "μαιομένη κευθμῶνας ἀνὰ σπέος· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 368,
+      "greek": "ἆσσον πάντʼ ἐφόρει, χρυσὸν καὶ ἀτειρέα χαλκὸν"
+    },
+    {
+      "n": 369,
+      "greek": "εἵματά τʼ εὐποίητα, τά οἱ Φαίηκες ἔδωκαν."
+    },
+    {
+      "n": 370,
+      "greek": "καὶ τὰ μὲν εὖ κατέθηκε, λίθον δʼ ἐπέθηκε θύρῃσι"
+    },
+    {
+      "n": 371,
+      "greek": "Παλλὰς Ἀθηναίη, κούρη Διὸς αἰγιόχοιο."
+    },
+    {
+      "n": 372,
+      "greek": "τὼ δὲ καθεζομένω ἱερῆς παρὰ πυθμένʼ ἐλαίης"
+    },
+    {
+      "n": 373,
+      "greek": "φραζέσθην μνηστῆρσιν ὑπερφιάλοισιν ὄλεθρον."
+    },
+    {
+      "n": 374,
+      "greek": "τοῖσι δὲ μύθων ἦρχε θεὰ γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 375,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 376,
+      "greek": "φράζευ ὅπως μνηστῆρσιν ἀναιδέσι χεῖρας ἐφήσεις,"
+    },
+    {
+      "n": 377,
+      "greek": "οἳ δή τοι τρίετες μέγαρον κάτα κοιρανέουσι,"
+    },
+    {
+      "n": 378,
+      "greek": "μνώμενοι ἀντιθέην ἄλοχον καὶ ἕδνα διδόντες·"
+    },
+    {
+      "n": 379,
+      "greek": "ἡ δὲ σὸν αἰεὶ νόστον ὀδυρομένη κατὰ θυμὸν"
+    },
+    {
+      "n": 380,
+      "greek": "πάντας μέν ῥʼ ἔλπει καὶ ὑπίσχεται ἀνδρὶ ἑκάστῳ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "and let us ourselves take thought how all may be far the best.” So saying, the goddess entered the shadowy cave and searched out its hiding-places. And Odysseus brought all the treasure thither, the gold and the stubborn bronze and the finely-wrought raiment, which the Phaeacians gave him."
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "These things he carefully laid away, and Pallas Athena, daughter of Zeus, who bears the aegis, set a stone at the door. Then the two sat them down by the trunk of the sacred olive tree, and devised death for the insolent wooers. And the goddess, flashing-eyed Athena, was the first to speak, saying:"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "“Son of Laertes, sprung from Zeus, Odysseus of many devices, take thought how thou mayest put forth thy hands on the shameless wooers, who now for three years have been lording it in thy halls, wooing thy godlike wife, and offering wooers' gifts. And she, as she mournfully looks for thy coming,"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "offers hopes to all, and has promises for each man, sending them messages, but her mind is set on other things.” Then Odysseus of many wiles answered her, and said: “Lo now, of a surety I was like to have perished in my halls by the evil fate of Agamemnon, son of Atreus,"
+    }
+  ]
+}

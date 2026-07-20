@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "πεντήκοντά τοί εἰσιν ἐνὶ μεγάροισι γυναῖκες"
+    },
+    {
+      "n": 422,
+      "greek": "δμῳαί, τὰς μέν τʼ ἔργα διδάξαμεν ἐργάζεσθαι,"
+    },
+    {
+      "n": 423,
+      "greek": "εἴριά τε ξαίνειν καὶ δουλοσύνην ἀνέχεσθαι·"
+    },
+    {
+      "n": 424,
+      "greek": "τάων δώδεκα πᾶσαι ἀναιδείης ἐπέβησαν,"
+    },
+    {
+      "n": 425,
+      "greek": "οὔτʼ ἐμὲ τίουσαι οὔτʼ αὐτὴν Πηνελόπειαν."
+    },
+    {
+      "n": 426,
+      "greek": "Τηλέμαχος δὲ νέον μὲν ἀέξετο, οὐδέ ἑ μήτηρ"
+    },
+    {
+      "n": 427,
+      "greek": "σημαίνειν εἴασκεν ἐπὶ δμῳῇσι γυναιξίν."
+    },
+    {
+      "n": 428,
+      "greek": "ἀλλʼ ἄγʼ ἐγὼν ἀναβᾶσʼ ὑπερώϊα σιγαλόεντα"
+    },
+    {
+      "n": 429,
+      "greek": "εἴπω σῇ ἀλόχῳ, τῇ τις θεὸς ὕπνον ἐπῶρσε."
+    },
+    {
+      "n": 430,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς"
+    },
+    {
+      "n": 431,
+      "greek": "μή πω τήνδʼ ἐπέγειρε· σὺ δʼ ἐνθάδε εἰπὲ γυναιξὶν"
+    },
+    {
+      "n": 432,
+      "greek": "ἐλθέμεν, αἵ περ πρόσθεν ἀεικέα μηχανόωντο."
+    },
+    {
+      "n": 433,
+      "greek": "ὣς ἄρʼ ἔφη, γρηῢς δὲ διὲκ μεγάροιο βεβήκει"
+    },
+    {
+      "n": 434,
+      "greek": "ἀγγελέουσα γυναιξὶ καὶ ὀτρυνέουσα νέεσθαι."
+    },
+    {
+      "n": 435,
+      "greek": "αὐτὰρ ὁ Τηλέμαχον καὶ βουκόλον ἠδὲ συβώτην"
+    },
+    {
+      "n": 436,
+      "greek": "εἰς ἓ καλεσσάμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 437,
+      "greek": "ἄρχετε νῦν νέκυας φορέειν καὶ ἄνωχθε γυναῖκας·"
+    },
+    {
+      "n": 438,
+      "greek": "αὐτὰρ ἔπειτα θρόνους περικαλλέας ἠδὲ τραπέζας"
+    },
+    {
+      "n": 439,
+      "greek": "ὕδατι καὶ σπόγγοισι πολυτρήτοισι καθαίρειν."
+    },
+    {
+      "n": 440,
+      "greek": "αὐτὰρ ἐπὴν δὴ πάντα δόμον κατακοσμήσησθε,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "and regard not me nor Penelope herself. And Telemachus is but newly grown to manhood, and his mother would not suffer him to rule over the women servants. But come, let me go up to the bright upper chamber and bear word to thy wife, on whom some god has sent sleep.”"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "Then Odysseus of many wiles answered her, and said: “Wake her not yet, but do thou bid come hither the women, who in time past have contrived shameful deeds.” So he spoke, and the old dame went forth through the hall to bear tidings to the women, and bid them come;"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "but Odysseus called to him Telemachus and the neatherd and the swineherd, and spoke to them winged words: “Begin now to bear forth the dead bodies and bid the women help you, and thereafter cleanse the beautiful chairs and the tables with water and porous sponges."
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "But when you have set all the house in order, lead the women forth from the well-built hall to a place between the dome and the goodly fence of the court, and there strike them down with your long swords, until you take away the life from them all, and they forget the love"
+    }
+  ]
+}

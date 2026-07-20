@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 25,
+  "lineStart": 481,
+  "lineEnd": 500,
+  "lines": [
+    {
+      "n": 481,
+      "greek": "ἔρξον ὅπως ἐθέλεις· ἐρέω τέ τοι ὡς ἐπέοικεν."
+    },
+    {
+      "n": 482,
+      "greek": "ἐπεὶ δὴ μνηστῆρας ἐτίσατο δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 483,
+      "greek": "ὅρκια πιστὰ ταμόντες ὁ μὲν βασιλευέτω αἰεί,"
+    },
+    {
+      "n": 484,
+      "greek": "ἡμεῖς δʼ αὖ παίδων τε κασιγνήτων τε φόνοιο"
+    },
+    {
+      "n": 485,
+      "greek": "ἔκλησιν θέωμεν· τοὶ δʼ ἀλλήλους φιλεόντων"
+    },
+    {
+      "n": 486,
+      "greek": "ὡς τὸ πάρος, πλοῦτος δὲ καὶ εἰρήνη ἅλις ἔστω."
+    },
+    {
+      "n": 487,
+      "greek": "ὣς εἰπὼν ὤτρυνε πάρος μεμαυῖαν Ἀθήνην,"
+    },
+    {
+      "n": 488,
+      "greek": "βῆ δὲ κατʼ Οὐλύμποιο καρήνων ἀΐξασα."
+    },
+    {
+      "n": 489,
+      "greek": "οἱ δʼ ἐπεὶ οὖν σίτοιο μελίφρονος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 490,
+      "greek": "τοῖς δʼ ἄρα μύθων ἦρχε πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 491,
+      "greek": "ἐξελθών τις ἴδοι μὴ δὴ σχεδὸν ὦσι κιόντες."
+    },
+    {
+      "n": 492,
+      "greek": "ὣς ἔφατʼ· ἐκ δʼ υἱὸς Δολίου κίεν, ὡς ἐκέλευεν·"
+    },
+    {
+      "n": 493,
+      "greek": "στῆ δʼ ἄρʼ ἐπʼ οὐδὸν ἰών, τοὺς δὲ σχεδὸν ἔσιδε πάντας·"
+    },
+    {
+      "n": 494,
+      "greek": "αἶψα δʼ Ὀδυσσῆα ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 495,
+      "greek": "οἵδε δὴ ἐγγὺς ἔασʼ· ἀλλʼ ὁπλιζώμεθα θᾶσσον."
+    },
+    {
+      "n": 496,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ὤρνυντο καὶ ἐν τεύχεσσι δύοντο,"
+    },
+    {
+      "n": 497,
+      "greek": "τέσσαρες ἀμφʼ Ὀδυσῆʼ, ἓξ δʼ υἱεῖς οἱ Δολίοιο·"
+    },
+    {
+      "n": 498,
+      "greek": "ἐν δʼ ἄρα Λαέρτης Δολίος τʼ ἐς τεύχεʼ ἔδυνον,"
+    },
+    {
+      "n": 499,
+      "greek": "καὶ πολιοί περ ἐόντες, ἀναγκαῖοι πολεμισταί."
+    },
+    {
+      "n": 500,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἕσσαντο περὶ χροῒ νώροπα χαλκόν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        485,
+        489
+      ],
+      "text": "bring about a forgetting of the slaying of their sons and brothers; and let them love one another as before, and let wealth and peace abound.” So saying, he roused Athena, who was already eager, and she went darting down from the heights of Olympus. But when they had put from them the desire of honey-hearted food,"
+    },
+    {
+      "lines": [
+        490,
+        494
+      ],
+      "text": "the much-enduring, goodly Odysseus was the first to speak among his company, saying: “Let one go forth and see whether they be not now drawing near.” So he spoke, and a son of Dolius went forth, as he bade; he went and stood upon the threshold, and saw them all close at hand, and straightway he spoke to Odysseus winged words:"
+    },
+    {
+      "lines": [
+        495,
+        499
+      ],
+      "text": "“Here they are close at hand. Quick, let us arm.” So he spoke, and they rose up and arrayed themselves in armour: Odysseus and his men were four, and six the sons of Dolius, and among them Laertes and Dolius donned their armour, grey-headed though they were, warriors perforce."
+    },
+    {
+      "lines": [
+        500,
+        500
+      ],
+      "text": "But when they had clothed their bodies in gleaming bronze, they opened the doors and went forth, and Odysseus led them. Then Athena, daughter of Zeus, drew near them in the likeness of Mentor both in form and in voice, and the much-enduring, goodly Odysseus was glad at sight of her,"
+    }
+  ]
+}

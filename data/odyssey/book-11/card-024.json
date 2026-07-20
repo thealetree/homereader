@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "οὐ γάρ πω τέθνηκεν ἐπὶ χθονὶ δῖος Ὀρέστης."
+    },
+    {
+      "n": 462,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 463,
+      "greek": "Ἀτρεΐδη, τί με ταῦτα διείρεαι; οὐδέ τι οἶδα,"
+    },
+    {
+      "n": 464,
+      "greek": "ζώει ὅ γʼ ἦ τέθνηκε· κακὸν δʼ ἀνεμώλια βάζειν."
+    },
+    {
+      "n": 465,
+      "greek": "νῶι μὲν ὣς ἐπέεσσιν ἀμειβομένω στυγεροῖσιν"
+    },
+    {
+      "n": 466,
+      "greek": "ἕσταμεν ἀχνύμενοι θαλερὸν κατὰ δάκρυ χέοντες·"
+    },
+    {
+      "n": 467,
+      "greek": "ἦλθε δʼ ἐπὶ ψυχὴ Πηληϊάδεω Ἀχιλῆος"
+    },
+    {
+      "n": 468,
+      "greek": "καὶ Πατροκλῆος καὶ ἀμύμονος Ἀντιλόχοιο"
+    },
+    {
+      "n": 469,
+      "greek": "Αἴαντός θʼ, ὃς ἄριστος ἔην εἶδός τε δέμας τε"
+    },
+    {
+      "n": 470,
+      "greek": "τῶν ἄλλων Δαναῶν μετʼ ἀμύμονα Πηλεΐωνα."
+    },
+    {
+      "n": 471,
+      "greek": "ἔγνω δὲ ψυχή με ποδώκεος Αἰακίδαο"
+    },
+    {
+      "n": 472,
+      "greek": "καί ῥʼ ὀλοφυρομένη ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 473,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 474,
+      "greek": "σχέτλιε, τίπτʼ ἔτι μεῖζον ἐνὶ φρεσὶ μήσεαι ἔργον;"
+    },
+    {
+      "n": 475,
+      "greek": "πῶς ἔτλης Ἄϊδόσδε κατελθέμεν, ἔνθα τε νεκροὶ"
+    },
+    {
+      "n": 476,
+      "greek": "ἀφραδέες ναίουσι, βροτῶν εἴδωλα καμόντων;"
+    },
+    {
+      "n": 477,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 478,
+      "greek": "ὦ Ἀχιλεῦ Πηλῆος υἱέ, μέγα φέρτατʼ Ἀχαιῶν,"
+    },
+    {
+      "n": 479,
+      "greek": "ἦλθον Τειρεσίαο κατὰ χρέος, εἴ τινα βουλὴν"
+    },
+    {
+      "n": 480,
+      "greek": "εἴποι, ὅπως Ἰθάκην ἐς παιπαλόεσσαν ἱκοίμην·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "“Thus we two stood and held sad converse with one another, sorrowing and shedding big tears; and there came up the spirit of Achilles, son of Peleus, and those of Patroclus and of peerless Antilochus and of Aias, who in comeliness and form was the goodliest"
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "of all the Danaans after the peerless son of Peleus. And the spirit of the swift-footed son of Aeacus recognized me, and weeping, spoke to me winged words: “Son of Laertes, sprung from Zeus, Odysseus of many devices, rash man, what deed yet greater than this wilt thou devise in thy heart?"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "How didst thou dare to come down to Hades, where dwell the unheeding dead, the phantoms of men outworn.’ “‘So he spoke, and I made answer and said:‘Achilles, son of Peleus, far the mightiest of the Achaeans, I came through need of Teiresias, if haply"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "he would tell me some plan whereby I might reach rugged Ithaca. For not yet have I come near to the land of Achaea, nor have I as yet set foot on my own country, but am ever suffering woes; whereas than thou, Achilles, no man aforetime was more blessed nor shall ever be hereafter. For of old, when thou wast alive, we Argives honored thee even as the gods,"
+    }
+  ]
+}

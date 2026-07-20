@@ -1,0 +1,45 @@
+{
+  "book": 8,
+  "card": 30,
+  "lineStart": 581,
+  "lineEnd": 586,
+  "lines": [
+    {
+      "n": 581,
+      "greek": "ἦ τίς τοι καὶ πηὸς ἀπέφθιτο Ἰλιόθι πρὸ"
+    },
+    {
+      "n": 582,
+      "greek": "ἐσθλὸς ἐών, γαμβρὸς ἢ πενθερός, οἵ τε μάλιστα"
+    },
+    {
+      "n": 583,
+      "greek": "κήδιστοι τελέθουσι μεθʼ αἷμά τε καὶ γένος αὐτῶν;"
+    },
+    {
+      "n": 584,
+      "greek": "ἦ τίς που καὶ ἑταῖρος ἀνὴρ κεχαρισμένα εἰδώς,"
+    },
+    {
+      "n": 585,
+      "greek": "ἐσθλός; ἐπεὶ οὐ μέν τι κασιγνήτοιο χερείων"
+    },
+    {
+      "n": 586,
+      "greek": "γίγνεται, ὅς κεν ἑταῖρος ἐὼν πεπνυμένα εἰδῇ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        585,
+        586
+      ],
+      "text": "some good, true man? For no whit worse than a brother is a comrade who has an understanding heart.”"
+    }
+  ]
+}

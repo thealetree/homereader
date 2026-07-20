@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "οἵ τινες ἀνέρες εἶεν ἐπὶ χθονὶ σῖτον ἔδοντες,"
+    },
+    {
+      "n": 102,
+      "greek": "ἄνδρε δύω κρίνας, τρίτατον κήρυχʼ ἅμʼ ὀπάσσας."
+    },
+    {
+      "n": 103,
+      "greek": "οἱ δʼ ἴσαν ἐκβάντες λείην ὁδόν, ᾗ περ ἄμαξαι"
+    },
+    {
+      "n": 104,
+      "greek": "ἄστυδʼ ἀφʼ ὑψηλῶν ὀρέων καταγίνεον ὕλην,"
+    },
+    {
+      "n": 105,
+      "greek": "κούρῃ δὲ ξύμβληντο πρὸ ἄστεος ὑδρευούσῃ,"
+    },
+    {
+      "n": 106,
+      "greek": "θυγατέρʼ ἰφθίμῃ Λαιστρυγόνος Ἀντιφάταο."
+    },
+    {
+      "n": 107,
+      "greek": "ἡ μὲν ἄρʼ ἐς κρήνην κατεβήσετο καλλιρέεθρον"
+    },
+    {
+      "n": 108,
+      "greek": "Ἀρτακίην· ἔνθεν γὰρ ὕδωρ προτὶ ἄστυ φέρεσκον·"
+    },
+    {
+      "n": 109,
+      "greek": "οἱ δὲ παριστάμενοι προσεφώνεον ἔκ τʼ ἐρέοντο"
+    },
+    {
+      "n": 110,
+      "greek": "ὅς τις τῶνδʼ εἴη βασιλεὺς καὶ οἷσιν ἀνάσσοι·"
+    },
+    {
+      "n": 111,
+      "greek": "ἡ δὲ μάλʼ αὐτίκα πατρὸς ἐπέφραδεν ὑψερεφὲς δῶ."
+    },
+    {
+      "n": 112,
+      "greek": "οἱ δʼ ἐπεὶ εἰσῆλθον κλυτὰ δώματα, τὴν δὲ γυναῖκα"
+    },
+    {
+      "n": 113,
+      "greek": "εὗρον, ὅσην τʼ ὄρεος κορυφήν, κατὰ δʼ ἔστυγον αὐτήν."
+    },
+    {
+      "n": 114,
+      "greek": "ἡ δʼ αἶψʼ ἐξ ἀγορῆς ἐκάλει κλυτὸν Ἀντιφατῆα,"
+    },
+    {
+      "n": 115,
+      "greek": "ὃν πόσιν, ὃς δὴ τοῖσιν ἐμήσατο λυγρὸν ὄλεθρον."
+    },
+    {
+      "n": 116,
+      "greek": "αὐτίχʼ ἕνα μάρψας ἑτάρων ὡπλίσσατο δεῖπνον·"
+    },
+    {
+      "n": 117,
+      "greek": "τὼ δὲ δύʼ ἀίξαντε φυγῇ ἐπὶ νῆας ἱκέσθην."
+    },
+    {
+      "n": 118,
+      "greek": "αὐτὰρ ὁ τεῦχε βοὴν διὰ ἄστεος· οἱ δʼ ἀίοντες"
+    },
+    {
+      "n": 119,
+      "greek": "φοίτων ἴφθιμοι Λαιστρυγόνες ἄλλοθεν ἄλλος,"
+    },
+    {
+      "n": 120,
+      "greek": "μυρίοι, οὐκ ἄνδρεσσιν ἐοικότες, ἀλλὰ Γίγασιν."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "And before the city they met a maiden drawing water, the goodly daughter of Laestrygonian Antiphates, who had come down to the fair-flowing spring Artacia, from whence they were wont to bear water to the town. So they came up to her and spoke to her,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "and asked her who was king of this folk, and who they were of whom he was lord. And she showed them forth with the high-roofed house of her father. Now when they had entered the glorious house, they found there his wife, huge as the peak of a mountain, and they were aghast at her. At once she called from the place of assembly the glorious Antiphates,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "her husband, and he devised for them woeful destruction. Straightway he seized one of my comrades and made ready his meal, but the other two sprang up and came in flight to the ships. Then he raised a cry throughout the city, and as they heard it the mighty Laestrygonians came thronging from all sides,"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "a host past counting, not like men but like the Giants. They hurled at us from the cliffs with rocks huge as a man could lift, and at once there rose throughout the ships a dreadful din, alike from men that were dying and from ships that were being crushed. And spearing them like fishes they bore them home, a loathly meal."
+    }
+  ]
+}

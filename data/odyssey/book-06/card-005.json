@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "ἡ δʼ ἔλαβεν μάστιγα καὶ ἡνία σιγαλόεντα,"
+    },
+    {
+      "n": 82,
+      "greek": "μάστιξεν δʼ ἐλάαν· καναχὴ δʼ ἦν ἡμιόνοιιν."
+    },
+    {
+      "n": 83,
+      "greek": "αἱ δʼ ἄμοτον τανύοντο, φέρον δʼ ἐσθῆτα καὶ αὐτήν,"
+    },
+    {
+      "n": 84,
+      "greek": "οὐκ οἴην, ἅμα τῇ γε καὶ ἀμφίπολοι κίον ἄλλαι."
+    },
+    {
+      "n": 85,
+      "greek": "αἱ δʼ ὅτε δὴ ποταμοῖο ῥόον περικαλλέʼ ἵκοντο,"
+    },
+    {
+      "n": 86,
+      "greek": "ἔνθʼ ἦ τοι πλυνοὶ ἦσαν ἐπηετανοί, πολὺ δʼ ὕδωρ"
+    },
+    {
+      "n": 87,
+      "greek": "καλὸν ὑπεκπρόρεεν μάλα περ ῥυπόωντα καθῆραι,"
+    },
+    {
+      "n": 88,
+      "greek": "ἔνθʼ αἵ γʼ ἡμιόνους μὲν ὑπεκπροέλυσαν ἀπήνης."
+    },
+    {
+      "n": 89,
+      "greek": "καὶ τὰς μὲν σεῦαν ποταμὸν πάρα δινήεντα"
+    },
+    {
+      "n": 90,
+      "greek": "τρώγειν ἄγρωστιν μελιηδέα· ταὶ δʼ ἀπʼ ἀπήνης"
+    },
+    {
+      "n": 91,
+      "greek": "εἵματα χερσὶν ἕλοντο καὶ ἐσφόρεον μέλαν ὕδωρ,"
+    },
+    {
+      "n": 92,
+      "greek": "στεῖβον δʼ ἐν βόθροισι θοῶς ἔριδα προφέρουσαι."
+    },
+    {
+      "n": 93,
+      "greek": "αὐτὰρ ἐπεὶ πλῦνάν τε κάθηράν τε ῥύπα πάντα,"
+    },
+    {
+      "n": 94,
+      "greek": "ἑξείης πέτασαν παρὰ θῖνʼ ἁλός, ἧχι μάλιστα"
+    },
+    {
+      "n": 95,
+      "greek": "λάιγγας ποτὶ χέρσον ἀποπλύνεσκε θάλασσα."
+    },
+    {
+      "n": 96,
+      "greek": "αἱ δὲ λοεσσάμεναι καὶ χρισάμεναι λίπʼ ἐλαίῳ"
+    },
+    {
+      "n": 97,
+      "greek": "δεῖπνον ἔπειθʼ εἵλοντο παρʼ ὄχθῃσιν ποταμοῖο,"
+    },
+    {
+      "n": 98,
+      "greek": "εἵματα δʼ ἠελίοιο μένον τερσήμεναι αὐγῇ."
+    },
+    {
+      "n": 99,
+      "greek": "αὐτὰρ ἐπεὶ σίτου τάρφθεν δμῳαί τε καὶ αὐτή,"
+    },
+    {
+      "n": 100,
+      "greek": "σφαίρῃ ταὶ δʼ ἄρʼ ἔπαιζον, ἀπὸ κρήδεμνα βαλοῦσαι·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "Now when they came to the beautiful streams of the river, where were the washing tanks that never failed—for abundant clear water welled up from beneath and flowed over, to cleanse garments however soiled—there they loosed the mules from under the wagon and drove them along the eddying river"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "to graze on the honey-sweet water-grass, and themselves took in their arms the raiment from the wagon, and bore it into the dark water, and trampled it in the trenches, busily vying each with each. Now when they had washed the garments, and had cleansed them of all the stains, they spread them out in rows on the shore of the sea where"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "the waves dashing against the land washed the pebbles cleanest; and they, after they had bathed and anointed themselves richly with oil, took their meal on the river's banks, and waited for the clothing to dry in the bright sunshine. Then when they had had their joy of food, she and her handmaids,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "they threw off their head-gear and fell to playing at ball, and white-armed Nausicaa was leader in the song. And even as Artemis, the archer, roves over the mountains, along the ridges of lofty Taygetus or Erymanthus, joying in the pursuit of boars and swift deer,"
+    }
+  ]
+}

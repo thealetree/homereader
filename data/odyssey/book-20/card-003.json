@@ -1,0 +1,122 @@
+{
+  "book": 20,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "πρὸς δʼ ἔτι καὶ τόδε μεῖζον ἐνὶ φρεσὶ μερμηρίζω·"
+    },
+    {
+      "n": 42,
+      "greek": "εἴ περ γὰρ κτείναιμι Διός τε σέθεν τε ἕκητι,"
+    },
+    {
+      "n": 43,
+      "greek": "πῆ κεν ὑπεκπροφύγοιμι; τά σε φράζεσθαι ἄνωγα."
+    },
+    {
+      "n": 44,
+      "greek": "τὸν δʼ αὖτε προσέειπε θεὰ γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 45,
+      "greek": "σχέτλιε, καὶ μέν τίς τε χερείονι πείθεθʼ ἑταίρῳ,"
+    },
+    {
+      "n": 46,
+      "greek": "ὅς περ θνητός τʼ ἐστὶ καὶ οὐ τόσα μήδεα οἶδεν·"
+    },
+    {
+      "n": 47,
+      "greek": "αὐτὰρ ἐγὼ θεός εἰμι, διαμπερὲς ἥ σε φυλάσσω"
+    },
+    {
+      "n": 48,
+      "greek": "ἐν πάντεσσι πόνοις. ἐρέω δέ τοι ἐξαναφανδόν·"
+    },
+    {
+      "n": 49,
+      "greek": "εἴ περ πεντήκοντα λόχοι μερόπων ἀνθρώπων"
+    },
+    {
+      "n": 50,
+      "greek": "νῶϊ περισταῖεν, κτεῖναι μεμαῶτες Ἄρηϊ,"
+    },
+    {
+      "n": 51,
+      "greek": "καί κεν τῶν ἐλάσαιο βόας καὶ ἴφια μῆλα."
+    },
+    {
+      "n": 52,
+      "greek": "ἀλλʼ ἑλέτω σε καὶ ὕπνος· ἀνίη καὶ τὸ φυλάσσειν"
+    },
+    {
+      "n": 53,
+      "greek": "πάννυχον ἐγρήσσοντα, κακῶν δʼ ὑποδύσεαι ἤδη."
+    },
+    {
+      "n": 54,
+      "greek": "ὣς φάτο, καί ῥά οἱ ὕπνον ἐπὶ βλεφάροισιν ἔχευεν,"
+    },
+    {
+      "n": 55,
+      "greek": "αὐτὴ δʼ ἂψ ἐς Ὄλυμπον ἀφίκετο δῖα θεάων."
+    },
+    {
+      "n": 56,
+      "greek": "εὖτε τὸν ὕπνος ἔμαρπτε, λύων μελεδήματα θυμοῦ,"
+    },
+    {
+      "n": 57,
+      "greek": "λυσιμελής, ἄλοχος δʼ ἄρʼ ἐπέγρετο κεδνὰ ἰδυῖα·"
+    },
+    {
+      "n": 58,
+      "greek": "κλαῖε δʼ ἄρʼ ἐν λέκτροισι καθεζομένη μαλακοῖσιν."
+    },
+    {
+      "n": 59,
+      "greek": "αὐτὰρ ἐπεὶ κλαίουσα κορέσσατο ὃν κατὰ θυμόν,"
+    },
+    {
+      "n": 60,
+      "greek": "Ἀρτέμιδι πρώτιστον ἐπεύξατο δῖα γυναικῶν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "“Obstinate one, many a man puts his trust even in a weaker friend than I am, one that is mortal, and knows not such wisdom as mine; but I am a god, that guard thee to the end in all thy toils. And I will tell thee openly; if fifty troops of mortal men"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "should stand about us, eager to slay us in battle, even their cattle and goodly sheep shouldest thou drive off. Nay, let sleep now come over thee. There is weariness also in keeping wakeful watch the whole night through; and even now shalt thou come forth from out thy perils.” So she spoke, and shed sleep upon his eyelids,"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "but herself, the fair goddess, went back to Olympus. Now while sleep seized him, loosening the cares of his heart, sleep that loosens the limbs of men, his true-hearted wife awoke, and wept, as she sat upon her soft bed. But when her heart had had its fill of weeping,"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "to Artemis first of all the fair lady made her prayer: “Artemis, mighty goddess, daughter of Zeus, would that now thou wouldest fix thy arrow in my breast and take away my life even in this hour; or that a storm-wind might catch me up and bear me hence over the murky ways,"
+    }
+  ]
+}

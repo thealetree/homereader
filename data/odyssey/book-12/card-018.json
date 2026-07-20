@@ -1,0 +1,122 @@
+{
+  "book": 12,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "πάντες μὲν στυγεροὶ θάνατοι δειλοῖσι βροτοῖσι,"
+    },
+    {
+      "n": 342,
+      "greek": "λιμῷ δʼ οἴκτιστον θανέειν καὶ πότμον ἐπισπεῖν."
+    },
+    {
+      "n": 343,
+      "greek": "ἀλλʼ ἄγετʼ, Ἠελίοιο βοῶν ἐλάσαντες ἀρίστας"
+    },
+    {
+      "n": 344,
+      "greek": "ῥέξομεν ἀθανάτοισι, τοὶ οὐρανὸν εὐρὺν ἔχουσιν."
+    },
+    {
+      "n": 345,
+      "greek": "εἰ δέ κεν εἰς Ἰθάκην ἀφικοίμεθα, πατρίδα γαῖαν,"
+    },
+    {
+      "n": 346,
+      "greek": "αἶψά κεν Ἠελίῳ Ὑπερίονι πίονα νηὸν"
+    },
+    {
+      "n": 347,
+      "greek": "τεύξομεν, ἐν δέ κε θεῖμεν ἀγάλματα πολλὰ καὶ ἐσθλά."
+    },
+    {
+      "n": 348,
+      "greek": "εἰ δὲ χολωσάμενός τι βοῶν ὀρθοκραιράων"
+    },
+    {
+      "n": 349,
+      "greek": "νῆʼ ἐθέλῃ ὀλέσαι, ἐπὶ δʼ ἕσπωνται θεοὶ ἄλλοι,"
+    },
+    {
+      "n": 350,
+      "greek": "βούλομʼ ἅπαξ πρὸς κῦμα χανὼν ἀπὸ θυμὸν ὀλέσσαι,"
+    },
+    {
+      "n": 351,
+      "greek": "ἢ δηθὰ στρεύγεσθαι ἐὼν ἐν νήσῳ ἐρήμῃ."
+    },
+    {
+      "n": 352,
+      "greek": "ὣς ἔφατʼ Εὐρύλοχος, ἐπὶ δʼ ᾔνεον ἄλλοι ἑταῖροι."
+    },
+    {
+      "n": 353,
+      "greek": "αὐτίκα δʼ Ἠελίοιο βοῶν ἐλάσαντες ἀρίστας"
+    },
+    {
+      "n": 354,
+      "greek": "ἐγγύθεν, οὐ γὰρ τῆλε νεὸς κυανοπρῴροιο"
+    },
+    {
+      "n": 355,
+      "greek": "βοσκέσκονθʼ ἕλικες καλαὶ βόες εὐρυμέτωποι·"
+    },
+    {
+      "n": 356,
+      "greek": "τὰς δὲ περίστησάν τε καὶ εὐχετόωντο θεοῖσιν,"
+    },
+    {
+      "n": 357,
+      "greek": "φύλλα δρεψάμενοι τέρενα δρυὸς ὑψικόμοιο·"
+    },
+    {
+      "n": 358,
+      "greek": "οὐ γὰρ ἔχον κρῖ λευκὸν ἐυσσέλμου ἐπὶ νηός."
+    },
+    {
+      "n": 359,
+      "greek": "αὐτὰρ ἐπεί ῥʼ εὔξαντο καὶ ἔσφαξαν καὶ ἔδειραν,"
+    },
+    {
+      "n": 360,
+      "greek": "μηρούς τʼ ἐξέταμον κατά τε κνίσῃ ἐκάλυψαν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "And if we ever reach Ithaca, our native land, we will straightway build a rich temple to Helios Hyperion and put therein many goodly offerings. And if haply he be wroth at all because of his straight-horned kine, and be minded to destroy our ship, and the other gods consent,"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "rather would I lose my life once for all with a gulp at the wave, than pine slowly away in a desert isle.’ “So spoke Eurylochus, and the rest of my comrades gave assent. Straightway they drove off the best of the kine of Helios from near at hand, for not far from the dark-prowed ship"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "were grazing the fair, sleek kine, broad of brow. Around these, then, they stood and made prayer to the gods, plucking the tender leaves from off a high-crested oak; for they had no white barley on board the well-benched ship. Now when they had prayed and had cut the throats of the kine and flayed them,"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "they cut out the thigh-pieces and covered them with a double layer of fat and laid raw flesh upon them. They had no wine to pour over the blazing sacrifice, but they made libations with water, and roasted all the entrails over the fire. Now when the thighs were wholly burned and they had tasted the inner parts,"
+    }
+  ]
+}

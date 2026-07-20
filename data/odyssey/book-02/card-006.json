@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "μή τίς μοι κατὰ δῆμον Ἀχαιϊάδων νεμεσήσῃ."
+    },
+    {
+      "n": 102,
+      "greek": "αἴ κεν ἄτερ σπείρου κεῖται πολλὰ κτεατίσσας."
+    },
+    {
+      "n": 103,
+      "greek": "ὣς ἔφαθʼ, ἡμῖν δʼ αὖτʼ ἐπεπείθετο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 104,
+      "greek": "ἔνθα καὶ ἠματίη μὲν ὑφαίνεσκεν μέγαν ἱστόν,"
+    },
+    {
+      "n": 105,
+      "greek": "νύκτας δʼ ἀλλύεσκεν, ἐπεὶ δαΐδας παραθεῖτο."
+    },
+    {
+      "n": 106,
+      "greek": "ὣς τρίετες μὲν ἔληθε δόλῳ καὶ ἔπειθεν Ἀχαιούς·"
+    },
+    {
+      "n": 107,
+      "greek": "ἀλλʼ ὅτε τέτρατον ἦλθεν ἔτος καὶ ἐπήλυθον ὧραι,"
+    },
+    {
+      "n": 108,
+      "greek": "καὶ τότε δή τις ἔειπε γυναικῶν, ἣ σάφα ᾔδη,"
+    },
+    {
+      "n": 109,
+      "greek": "καὶ τήν γʼ ἀλλύουσαν ἐφεύρομεν ἀγλαὸν ἱστόν."
+    },
+    {
+      "n": 110,
+      "greek": "ὣς τὸ μὲν ἐξετέλεσσε καὶ οὐκ ἐθέλουσʼ ὑπʼ ἀνάγκης·"
+    },
+    {
+      "n": 111,
+      "greek": "σοὶ δʼ ὧδε μνηστῆρες ὑποκρίνονται, ἵνʼ εἰδῇς"
+    },
+    {
+      "n": 112,
+      "greek": "αὐτὸς σῷ θυμῷ, εἰδῶσι δὲ πάντες Ἀχαιοί·"
+    },
+    {
+      "n": 113,
+      "greek": "μητέρα σὴν ἀπόπεμψον, ἄνωχθι δέ μιν γαμέεσθαι"
+    },
+    {
+      "n": 114,
+      "greek": "τῷ ὅτεῴ τε πατὴρ κέλεται καὶ ἁνδάνει αὐτῇ."
+    },
+    {
+      "n": 115,
+      "greek": "εἰ δʼ ἔτʼ ἀνιήσει γε πολὺν χρόνον υἷας Ἀχαιῶν,"
+    },
+    {
+      "n": 116,
+      "greek": "τὰ φρονέουσʼ ἀνὰ θυμόν, ὅ οἱ πέρι δῶκεν Ἀθήνη"
+    },
+    {
+      "n": 117,
+      "greek": "ἔργα τʼ ἐπίστασθαι περικαλλέα καὶ φρένας ἐσθλὰς"
+    },
+    {
+      "n": 118,
+      "greek": "κέρδεά θʼ, οἷʼ οὔ πώ τινʼ ἀκούομεν οὐδὲ παλαιῶν,"
+    },
+    {
+      "n": 119,
+      "greek": "τάων αἳ πάρος ἦσαν ἐυπλοκαμῖδες Ἀχαιαί,"
+    },
+    {
+      "n": 120,
+      "greek": "Τυρώ τʼ Ἀλκμήνη τε ἐυστέφανός τε Μυκήνη·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "but by night would unravel it, when she had let place torches by her. Thus for three years she by her craft kept the Achaeans from knowing, and beguiled them; but when the fourth year came as the seasons rolled on, even then one of her women who knew all told us, and we caught her unravelling the splendid web."
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "So she finished it against her will, perforce. Therefore to thee the wooers make answer thus, that thou mayest thyself know it in thine heart, and that all the Achaeans may know. Send away thy mother, and command her to wed whomsoever her father bids, and whoso is pleasing to her."
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "But if she shall continue long time to vex the sons of the Achaeans, mindful in her heart of this, that Athena has endowed her above other women with knowledge of fair handiwork and an understanding heart, and wiles, such as we have never yet heard that any even of the women of old knew, of those who long ago were fair-tressed Achaean women—"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "Tyro and Alcmene and Mycene of the fair crown—of whom not one was like Penelope in shrewd device; yet this at least she devised not aright. For so long shall men devour thy livelihood and thy possessions, even as long as she shall keep the counsel which"
+    }
+  ]
+}

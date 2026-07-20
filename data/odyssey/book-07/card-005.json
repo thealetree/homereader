@@ -1,0 +1,122 @@
+{
+  "book": 7,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "δῦνε δʼ Ἐρεχθῆος πυκινὸν δόμον. αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 82,
+      "greek": "Ἀλκινόου πρὸς δώματʼ ἴε κλυτά· πολλὰ δέ οἱ κῆρ"
+    },
+    {
+      "n": 83,
+      "greek": "ὥρμαινʼ ἱσταμένῳ, πρὶν χάλκεον οὐδὸν ἱκέσθαι."
+    },
+    {
+      "n": 84,
+      "greek": "ὥς τε γὰρ ἠελίου αἴγλη πέλεν ἠὲ σελήνης"
+    },
+    {
+      "n": 85,
+      "greek": "δῶμα καθʼ ὑψερεφὲς μεγαλήτορος Ἀλκινόοιο."
+    },
+    {
+      "n": 86,
+      "greek": "χάλκεοι μὲν γὰρ τοῖχοι ἐληλέδατʼ ἔνθα καὶ ἔνθα,"
+    },
+    {
+      "n": 87,
+      "greek": "ἐς μυχὸν ἐξ οὐδοῦ, περὶ δὲ θριγκὸς κυάνοιο·"
+    },
+    {
+      "n": 88,
+      "greek": "χρύσειαι δὲ θύραι πυκινὸν δόμον ἐντὸς ἔεργον·"
+    },
+    {
+      "n": 89,
+      "greek": "σταθμοὶ δʼ ἀργύρεοι ἐν χαλκέῳ ἕστασαν οὐδῷ,"
+    },
+    {
+      "n": 90,
+      "greek": "ἀργύρεον δʼ ἐφʼ ὑπερθύριον, χρυσέη δὲ κορώνη."
+    },
+    {
+      "n": 91,
+      "greek": "χρύσειοι δʼ ἑκάτερθε καὶ ἀργύρεοι κύνες ἦσαν,"
+    },
+    {
+      "n": 92,
+      "greek": "οὓς Ἥφαιστος ἔτευξεν ἰδυίῃσι πραπίδεσσι"
+    },
+    {
+      "n": 93,
+      "greek": "δῶμα φυλασσέμεναι μεγαλήτορος Ἀλκινόοιο,"
+    },
+    {
+      "n": 94,
+      "greek": "ἀθανάτους ὄντας καὶ ἀγήρως ἤματα πάντα."
+    },
+    {
+      "n": 95,
+      "greek": "ἐν δὲ θρόνοι περὶ τοῖχον ἐρηρέδατʼ ἔνθα καὶ ἔνθα,"
+    },
+    {
+      "n": 96,
+      "greek": "ἐς μυχὸν ἐξ οὐδοῖο διαμπερές, ἔνθʼ ἐνὶ πέπλοι"
+    },
+    {
+      "n": 97,
+      "greek": "λεπτοὶ ἐύννητοι βεβλήατο, ἔργα γυναικῶν."
+    },
+    {
+      "n": 98,
+      "greek": "ἔνθα δὲ Φαιήκων ἡγήτορες ἑδριόωντο"
+    },
+    {
+      "n": 99,
+      "greek": "πίνοντες καὶ ἔδοντες· ἐπηετανὸν γὰρ ἔχεσκον."
+    },
+    {
+      "n": 100,
+      "greek": "χρύσειοι δʼ ἄρα κοῦροι ἐυδμήτων ἐπὶ βωμῶν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "over the high-roofed house of great-hearted Alcinous. Of bronze were the walls that stretched this way and that from the threshold to the innermost chamber, and around was a cornice of cyanus. Golden were the doors that shut in the well-built house, and doorposts of silver were set in a threshold of bronze."
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "Of silver was the lintel above, and of gold the handle. On either side of the door there stood gold and silver dogs, which Hephaestus had fashioned with cunning skill to guard the palace of great-hearted Alcinous; immortal were they and ageless all their days."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "Within, seats were fixed along the wall on either hand, from the threshold to the innermost chamber, and on them were thrown robes of soft fabric, cunningly woven, the handiwork of women. On these the leaders of the Phaeacians were wont to sit drinking and eating, for they had unfailing store."
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "And golden youths stood on well-built pedestals, holding lighted torches in their hands to give light by night to the banqueters in the hall. And fifty slave-women he had in the house, of whom some grind the yellow grain on the millstone,"
+    }
+  ]
+}

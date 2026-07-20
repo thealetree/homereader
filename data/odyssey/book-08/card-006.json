@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 6,
+  "lineStart": 101,
+  "lineEnd": 120,
+  "lines": [
+    {
+      "n": 101,
+      "greek": "πάντων, ὥς χʼ ὁ ξεῖνος ἐνίσπῃ οἷσι φίλοισιν"
+    },
+    {
+      "n": 102,
+      "greek": "οἴκαδε νοστήσας, ὅσσον περιγιγνόμεθʼ ἄλλων"
+    },
+    {
+      "n": 103,
+      "greek": "πύξ τε παλαιμοσύνῃ τε καὶ ἅλμασιν ἠδὲ πόδεσσιν."
+    },
+    {
+      "n": 104,
+      "greek": "ὣς ἄρα φωνήσας ἡγήσατο, τοὶ δʼ ἅμʼ ἕποντο."
+    },
+    {
+      "n": 105,
+      "greek": "κὰδ δʼ ἐκ πασσαλόφι κρέμασεν φόρμιγγα λίγειαν,"
+    },
+    {
+      "n": 106,
+      "greek": "Δημοδόκου δʼ ἕλε χεῖρα καὶ ἔξαγεν ἐκ μεγάροιο"
+    },
+    {
+      "n": 107,
+      "greek": "κῆρυξ· ἦρχε δὲ τῷ αὐτὴν ὁδὸν ἥν περ οἱ ἄλλοι"
+    },
+    {
+      "n": 108,
+      "greek": "Φαιήκων οἱ ἄριστοι, ἀέθλια θαυμανέοντες."
+    },
+    {
+      "n": 109,
+      "greek": "βὰν δʼ ἴμεν εἰς ἀγορήν, ἅμα δʼ ἕσπετο πουλὺς ὅμιλος,"
+    },
+    {
+      "n": 110,
+      "greek": "μυρίοι· ἂν δʼ ἵσταντο νέοι πολλοί τε καὶ ἐσθλοί."
+    },
+    {
+      "n": 111,
+      "greek": "ὦρτο μὲν Ἀκρόνεώς τε καὶ Ὠκύαλος καὶ Ἐλατρεύς,"
+    },
+    {
+      "n": 112,
+      "greek": "Ναυτεύς τε Πρυμνεύς τε καὶ Ἀγχίαλος καὶ Ἐρετμεύς,"
+    },
+    {
+      "n": 113,
+      "greek": "Ποντεύς τε Πρωρεύς τε, Θόων Ἀναβησίνεώς τε"
+    },
+    {
+      "n": 114,
+      "greek": "Ἀμφίαλός θʼ, υἱὸς Πολυνήου Τεκτονίδαο·"
+    },
+    {
+      "n": 115,
+      "greek": "ἂν δὲ καὶ Εὐρύαλος, βροτολοιγῷ ἶσος Ἄρηϊ,"
+    },
+    {
+      "n": 116,
+      "greek": "Ναυβολίδης, ὃς ἄριστος ἔην εἶδός τε δέμας τε"
+    },
+    {
+      "n": 117,
+      "greek": "πάντων Φαιήκων μετʼ ἀμύμονα Λαοδάμαντα."
+    },
+    {
+      "n": 118,
+      "greek": "ἂν δʼ ἔσταν τρεῖς παῖδες ἀμύμονος Ἀλκινόοιο,"
+    },
+    {
+      "n": 119,
+      "greek": "Λαοδάμας θʼ Ἅλιός τε καὶ ἀντίθεος Κλυτόνηος."
+    },
+    {
+      "n": 120,
+      "greek": "οἱ δʼ ἦ τοι πρῶτον μὲν ἐπειρήσαντο πόδεσσι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "From the peg the herald hung the clear-toned lyre, and took Demodocus by the hand, and led him forth from the hall, guiding him by the self-same road by which the others, the nobles of the Phaeacians, had gone to gaze upon the games. They went their way to the place of assembly, and with them went a great throng,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "past counting; and up rose many noble youths. There rose Acroneus, and Ocyalus, and Elatreus, and Nauteus, and Prymneus, and Anchialus, and Eretmeus, and Ponteus, and Proreus, Thoon and Anabesineus,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "and Amphialus, son of Polyneus, son of Tecton; and up rose also Euryalus, the peer of man-destroying Ares, the son of Naubolus, who in comeliness and form was the best of all the Phaeacians after peerless Laodamas; and up rose the three sons of noble Alcinous, Laodamas, and Halius, and godlike Clytoneus."
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "These then first made trial in the foot-race. A course was marked out for them from the turning point, and they all sped swiftly, raising the dust of the plain; but among them noble Clytoneus was far the best at running, and by as far as is the range of a team of mules in fallow land,"
+    }
+  ]
+}

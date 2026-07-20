@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "τῷ νῦν μή ποτε καὶ σὺ γυναικί περ ἤπιος εἶναι·"
+    },
+    {
+      "n": 442,
+      "greek": "μή οἱ μῦθον ἅπαντα πιφαυσκέμεν, ὅν κʼ ἐὺ εἰδῇς,"
+    },
+    {
+      "n": 443,
+      "greek": "ἀλλὰ τὸ μὲν φάσθαι, τὸ δὲ καὶ κεκρυμμένον εἶναι."
+    },
+    {
+      "n": 444,
+      "greek": "ἀλλʼ οὐ σοί γʼ, Ὀδυσεῦ, φόνος ἔσσεται ἔκ γε γυναικός·"
+    },
+    {
+      "n": 445,
+      "greek": "λίην γὰρ πινυτή τε καὶ εὖ φρεσὶ μήδεα οἶδε"
+    },
+    {
+      "n": 446,
+      "greek": "κούρη Ἰκαρίοιο, περίφρων Πηνελόπεια."
+    },
+    {
+      "n": 447,
+      "greek": "ἦ μέν μιν νύμφην γε νέην κατελείπομεν ἡμεῖς"
+    },
+    {
+      "n": 448,
+      "greek": "ἐρχόμενοι πόλεμόνδε· πάϊς δέ οἱ ἦν ἐπὶ μαζῷ"
+    },
+    {
+      "n": 449,
+      "greek": "νήπιος, ὅς που νῦν γε μετʼ ἀνδρῶν ἵζει ἀριθμῷ,"
+    },
+    {
+      "n": 450,
+      "greek": "ὄλβιος· ἦ γὰρ τόν γε πατὴρ φίλος ὄψεται ἐλθών,"
+    },
+    {
+      "n": 451,
+      "greek": "καὶ κεῖνος πατέρα προσπτύξεται, ἣ θέμις ἐστίν."
+    },
+    {
+      "n": 452,
+      "greek": "ἡ δʼ ἐμὴ οὐδέ περ υἷος ἐνιπλησθῆναι ἄκοιτις"
+    },
+    {
+      "n": 453,
+      "greek": "ὀφθαλμοῖσιν ἔασε· πάρος δέ με πέφνε καὶ αὐτόν."
+    },
+    {
+      "n": 454,
+      "greek": "ἄλλο δέ τοι ἐρέω, σὺ δʼ ἐνὶ φρεσὶ βάλλεο σῇσιν·"
+    },
+    {
+      "n": 455,
+      "greek": "κρύβδην, μηδʼ ἀναφανδά, φίλην ἐς πατρίδα γαῖαν"
+    },
+    {
+      "n": 456,
+      "greek": "νῆα κατισχέμεναι· ἐπεὶ οὐκέτι πιστὰ γυναιξίν."
+    },
+    {
+      "n": 457,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,"
+    },
+    {
+      "n": 458,
+      "greek": "εἴ που ἔτι ζώοντος ἀκούετε παιδὸς ἐμοῖο,"
+    },
+    {
+      "n": 459,
+      "greek": "ἤ που ἐν Ὀρχομενῷ ἢ ἐν Πύλῳ ἠμαθόεντι,"
+    },
+    {
+      "n": 460,
+      "greek": "ἤ που πὰρ Μενελάῳ ἐνὶ Σπάρτῃ εὐρείῃ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "for very prudent and of an understanding heart is the daughter of Icarius, wise Penelope. Verily we left her a bride newly wed, when we went to the war, and a boy was at her breast, a babe, who now, I ween, sits in the ranks of men,"
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "happy in that his dear father will behold him when he comes, and he will greet his father as is meet. But my wife did not let me sate my eyes even with sight of my own son. Nay, ere that she slew even me, her husband. And another thing will I tell thee, and do thou lay it to heart:"
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "in secret and not openly do thou bring thy ship to the shore of thy dear native land; for no longer is there faith in women. But, come, tell me this, and declare it truly, whether haply ye hear of my son as yet alive in Orchomenus it may be, or in sandy Pylos,"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "or yet with Menelaus in wide Sparta; for not yet has goodly Orestes perished on the earth.’ “So he spoke, and I made answer and said: ‘Son of Atreus, wherefore dost thou question me of this? I know not at all whether he be alive or dead, and it is an ill thing to speak words vain as wind.’"
+    }
+  ]
+}

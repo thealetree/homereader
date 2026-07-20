@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "ἀλλʼ ἄγʼ ὁ μὲν πεδίονδʼ ἐπὶ βοῦν, ἴτω, ὄφρα τάχιστα"
+    },
+    {
+      "n": 422,
+      "greek": "ἔλθῃσιν, ἐλάσῃ δὲ βοῶν ἐπιβουκόλος ἀνήρ·"
+    },
+    {
+      "n": 423,
+      "greek": "εἷς δʼ ἐπὶ Τηλεμάχου μεγαθύμου νῆα μέλαιναν"
+    },
+    {
+      "n": 424,
+      "greek": "πάντας ἰὼν ἑτάρους ἀγέτω, λιπέτω δὲ δύʼ οἴους·"
+    },
+    {
+      "n": 425,
+      "greek": "εἷς δʼ αὖ χρυσοχόον Λαέρκεα δεῦρο κελέσθω"
+    },
+    {
+      "n": 426,
+      "greek": "ἐλθεῖν, ὄφρα βοὸς χρυσὸν κέρασιν περιχεύῃ."
+    },
+    {
+      "n": 427,
+      "greek": "οἱ δʼ ἄλλοι μένετʼ αὐτοῦ ἀολλέες, εἴπατε δʼ εἴσω"
+    },
+    {
+      "n": 428,
+      "greek": "δμῳῇσιν κατὰ δώματʼ ἀγακλυτὰ δαῖτα πένεσθαι,"
+    },
+    {
+      "n": 429,
+      "greek": "ἕδρας τε ξύλα τʼ ἀμφὶ καὶ ἀγλαὸν οἰσέμεν ὕδωρ."
+    },
+    {
+      "n": 430,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐποίπνυον. ἦλθε μὲν ἂρ βοῦς"
+    },
+    {
+      "n": 431,
+      "greek": "ἐκ πεδίου, ἦλθον δὲ θοῆς παρὰ νηὸς ἐίσης"
+    },
+    {
+      "n": 432,
+      "greek": "Τηλεμάχου ἕταροι μεγαλήτορος, ἦλθε δὲ χαλκεὺς"
+    },
+    {
+      "n": 433,
+      "greek": "ὅπλʼ ἐν χερσὶν ἔχων χαλκήια, πείρατα τέχνης,"
+    },
+    {
+      "n": 434,
+      "greek": "ἄκμονά τε σφῦραν τʼ ἐυποίητόν τε πυράγρην,"
+    },
+    {
+      "n": 435,
+      "greek": "οἷσίν τε χρυσὸν εἰργάζετο· ἦλθε δʼ Ἀθήνη"
+    },
+    {
+      "n": 436,
+      "greek": "ἱρῶν ἀντιόωσα. γέρων δʼ ἱππηλάτα Νέστωρ"
+    },
+    {
+      "n": 437,
+      "greek": "χρυσὸν ἔδωχʼ· ὁ δʼ ἔπειτα βοὸς κέρασιν περίχευεν"
+    },
+    {
+      "n": 438,
+      "greek": "ἀσκήσας, ἵνʼ ἄγαλμα θεὰ κεχάροιτο ἰδοῦσα."
+    },
+    {
+      "n": 439,
+      "greek": "βοῦν δʼ ἀγέτην κεράων Στρατίος καὶ δῖος Ἐχέφρων."
+    },
+    {
+      "n": 440,
+      "greek": "χέρνιβα δέ σφʼ Ἄρητος ἐν ἀνθεμόεντι λέβητι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "and let one again bid the goldsmith Laerces come hither, that he may overlay the heifer's horns with gold. And do ye others abide here together; and bid the handmaids within to make ready a feast throughout our glorious halls, to fetch seats, and logs to set on either side of the altar, and to bring clear water.”"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "So he spoke, and they all set busily to work. The heifer came from the plain and from the swift, shapely ship came the comrades of great-hearted Telemachus; the smith came, bearing in his hands his tools of bronze, the implements of his craft, anvil and hammer and well-made tongs,"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "wherewith he wrought the gold; and Athena came to accept the sacrifice. Then the old man, Nestor, the driver of chariots, gave gold, and the smith prepared it, and overlaid therewith the horns of the heifer, that the goddess might rejoice when she beheld the offering. And Stratius and goodly Echephron led the heifer by the horns,"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "and Aretus came from the chamber, bringing them water for the hands in a basin embossed with flowers, and in the other hand he held barley grains in a basket; and Thrasymedes, steadfast in fight, stood by, holding in his hands a sharp axe, to fell the heifer; and Perseus held the bowl for the blood. Then the old man, Nestor, driver of chariots,"
+    }
+  ]
+}

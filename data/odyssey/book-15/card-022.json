@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "εὐνῇ καὶ φιλότητι, τά τε φρένας ἠπεροπεύει"
+    },
+    {
+      "n": 422,
+      "greek": "θηλυτέρῃσι γυναιξί, καὶ ἥ κʼ εὐεργὸς ἔῃσιν."
+    },
+    {
+      "n": 423,
+      "greek": "εἰρώτα δὴ ἔπειτα τίς εἴη καὶ πόθεν ἔλθοι·"
+    },
+    {
+      "n": 424,
+      "greek": "ἡ δὲ μάλʼ αὐτίκα πατρὸς ἐπέφραδεν ὑψερεφὲς δῶ·"
+    },
+    {
+      "n": 425,
+      "greek": "ἐκ μὲν Σιδῶνος πολυχάλκου εὔχομαι εἶναι,"
+    },
+    {
+      "n": 426,
+      "greek": "κούρη δʼ εἴμʼ Ἀρύβαντος ἐγὼ ῥυδὸν ἀφνειοῖο·"
+    },
+    {
+      "n": 427,
+      "greek": "ἀλλά μʼ ἀνήρπαξαν Τάφιοι ληΐστορες ἄνδρες"
+    },
+    {
+      "n": 428,
+      "greek": "ἀγρόθεν ἐρχομένην, πέρασαν δέ τε δεῦρʼ ἀγαγόντες"
+    },
+    {
+      "n": 429,
+      "greek": "τοῦδʼ ἀνδρὸς πρὸς δώμαθʼ· ὁ δʼ ἄξιον ὦνον ἔδωκε."
+    },
+    {
+      "n": 430,
+      "greek": "τὴν δʼ αὖτε προσέειπεν ἀνήρ, ὃς ἐμίσγετο λάθρη·"
+    },
+    {
+      "n": 431,
+      "greek": "ἦ ῥά κε νῦν πάλιν αὖτις ἅμʼ ἡμῖν οἴκαδʼ ἕποιο,"
+    },
+    {
+      "n": 432,
+      "greek": "ὄφρα ἴδῃ πατρὸς καὶ μητέρος ὑψερεφὲς δῶ"
+    },
+    {
+      "n": 433,
+      "greek": "αὐτούς τʼ; ἦ γὰρ ἔτʼ εἰσὶ καὶ ἀφνειοὶ καλέονται."
+    },
+    {
+      "n": 434,
+      "greek": "τὸν δʼ αὖτε προσέειπε γυνὴ καὶ ἀμείβετο μύθῳ·"
+    },
+    {
+      "n": 435,
+      "greek": "εἴη κεν καὶ τοῦτʼ, εἴ μοι ἐθέλοιτέ γε, ναῦται,"
+    },
+    {
+      "n": 436,
+      "greek": "ὅρκῳ πιστωθῆναι ἀπήμονά μʼ οἴκαδʼ ἀπάξειν."
+    },
+    {
+      "n": 437,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ἐπώμνυον ὡς ἐκέλευεν."
+    },
+    {
+      "n": 438,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ὄμοσάν τε τελεύτησάν τε τὸν ὅρκον,"
+    },
+    {
+      "n": 439,
+      "greek": "τοῖς δʼ αὖτις μετέειπε γυνὴ καὶ ἀμείβετο μύθῳ·"
+    },
+    {
+      "n": 440,
+      "greek": "σιγῇ νῦν, μή τίς με προσαυδάτω ἐπέεσσιν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "“‘Out of Sidon, rich in bronze, I declare that I come, and I am the daughter of Arybas, to whom wealth flowed in streams. But Taphian pirates seized me, as I was coming from the fields, and brought me hither, and sold me to the house of yonder man, and he paid for me a goodly price.’"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "“Then the man who had lain with her in secret answered her: ‘Wouldest thou then return again with us to thy home, that thou mayest see the high-roofed house of thy father and mother, and see them too? For of a truth they yet live, and are accounted rich.’ “Then the woman answered him, and said:"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "‘This may well be, if you sailors will pledge yourselves by an oath, that you will bring me safely home.’ “So she spoke, and they all gave an oath thereto, as she bade them. But when they had sworn and made an end of the oath, the woman again spoke among them, and made answer:"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "“‘Be silent now, and let no one of your company speak to me, if he meets me in the street or haply at the well, lest some one go to the palace and tell the old king, and he wax suspicious and bind me with grievous bonds, and devise death for you."
+    }
+  ]
+}

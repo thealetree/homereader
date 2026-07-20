@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "ξεῖνός τις δύστηνος ἀλητεύει κατὰ δῶμα"
+    },
+    {
+      "n": 502,
+      "greek": "ἀνέρας αἰτίζων· ἀχρημοσύνη γὰρ ἀνώγει·"
+    },
+    {
+      "n": 503,
+      "greek": "ἔνθʼ ἄλλοι μὲν πάντες ἐνέπλησάν τʼ ἔδοσάν τε,"
+    },
+    {
+      "n": 504,
+      "greek": "οὗτος δὲ θρήνυι πρυμνὸν βάλε δεξιὸν ὦμον."
+    },
+    {
+      "n": 505,
+      "greek": "ἡ μὲν ἄρʼ ὣς ἀγόρευε μετὰ δμῳῇσι γυναιξίν,"
+    },
+    {
+      "n": 506,
+      "greek": "ἡμένη ἐν θαλάμῳ· ὁ δʼ ἐδείπνεε δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 507,
+      "greek": "ἡ δʼ ἐπὶ οἷ καλέσασα προσηύδα δῖον ὑφορβόν·"
+    },
+    {
+      "n": 508,
+      "greek": "ἔρχεο, δῖʼ Εὔμαιε, κιὼν τὸν ξεῖνον ἄνωχθι"
+    },
+    {
+      "n": 509,
+      "greek": "ἐλθέμεν, ὄφρα τί μιν προσπτύξομαι ἠδʼ ἐρέωμαι"
+    },
+    {
+      "n": 510,
+      "greek": "εἴ που Ὀδυσσῆος ταλασίφρονος ἠὲ πέπυσται"
+    },
+    {
+      "n": 511,
+      "greek": "ἢ ἴδεν ὀφθαλμοῖσι· πολυπλάγκτῳ γὰρ ἔοικε."
+    },
+    {
+      "n": 512,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα"
+    },
+    {
+      "n": 513,
+      "greek": "εἰ γάρ τοι, βασίλεια, σιωπήσειαν Ἀχαιοί·"
+    },
+    {
+      "n": 514,
+      "greek": "οἷʼ ὅ γε μυθεῖται, θέλγοιτό κέ τοι φίλον ἦτορ."
+    },
+    {
+      "n": 515,
+      "greek": "τρεῖς γὰρ δή μιν νύκτας ἔχον, τρία δʼ ἤματʼ ἔρυξα"
+    },
+    {
+      "n": 516,
+      "greek": "ἐν κλισίῃ· πρῶτον γὰρ ἔμʼ ἵκετο νηὸς ἀποδράς·"
+    },
+    {
+      "n": 517,
+      "greek": "ἀλλʼ οὔ πω κακότητα διήνυσεν ἣν ἀγορεύων."
+    },
+    {
+      "n": 518,
+      "greek": "ὡς δʼ ὅτʼ ἀοιδὸν ἀνὴρ ποτιδέρκεται, ὅς τε θεῶν ἒξ"
+    },
+    {
+      "n": 519,
+      "greek": "ἀείδει δεδαὼς ἔπεʼ ἱμερόεντα βροτοῖσι,"
+    },
+    {
+      "n": 520,
+      "greek": "τοῦ δʼ ἄμοτον μεμάασιν ἀκουέμεν, ὁππότʼ ἀείδῃ·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "So she spoke among her handmaids, sitting in her chamber, while goodly Odysseus was at meat. Then she called to her the goodly swineherd, and said: “Go, goodly Eumaeus, and bid the stranger come hither, that I may give him greeting, and ask him"
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "if haply he has heard of Odysseus of the steadfast heart, or has seen him with his eyes. He seems like one that has wandered far.” To her, then, swineherd Eumaeus, didst thou make answer, and say: “I would, O queen, that the Achaeans would keep silence, for he speaks such words as would charm thy very soul."
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "Three nights I had him by me, and three days I kept him in my hut, for to me first he came when he fled by stealth from a ship, but he had not yet ended the tale of his sufferings. Even as when a man gazes upon a minstrel who sings to mortals songs of longing that the gods have taught him,"
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "and their desire to hear him has no end, whensoever he sings, even so he charmed me as he sat in my hall. He says that he is an ancestral friend of Odysseus, and that he dwells in Crete, where is the race of Minos. From thence has he now come on this journey hither, ever suffering woes"
+    }
+  ]
+}

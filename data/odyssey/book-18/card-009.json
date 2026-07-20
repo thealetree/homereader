@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "θυμὸν μνηστήρων ἰδὲ τιμήεσσα γένοιτο"
+    },
+    {
+      "n": 162,
+      "greek": "μᾶλλον πρὸς πόσιός τε καὶ υἱέος ἢ πάρος ἦεν."
+    },
+    {
+      "n": 163,
+      "greek": "ἀχρεῖον δʼ ἐγέλασσεν ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 164,
+      "greek": "Εὐρυνόμη, θυμός μοι ἐέλδεται, οὔ τι πάρος γε,"
+    },
+    {
+      "n": 165,
+      "greek": "μνηστήρεσσι φανῆναι, ἀπεχθομένοισί περ ἔμπης·"
+    },
+    {
+      "n": 166,
+      "greek": "παιδὶ δέ κεν εἴποιμι ἔπος, τό κε κέρδιον εἴη,"
+    },
+    {
+      "n": 167,
+      "greek": "μὴ πάντα μνηστῆρσιν ὑπερφιάλοισιν ὁμιλεῖν,"
+    },
+    {
+      "n": 168,
+      "greek": "οἵ τʼ εὖ μὲν βάζουσι, κακῶς δʼ ὄπιθεν φρονέουσι."
+    },
+    {
+      "n": 169,
+      "greek": "τὴν δʼ αὖτʼ Εὐρυνόμη ταμίη πρὸς μῦθον ἔειπεν·"
+    },
+    {
+      "n": 170,
+      "greek": "ναὶ δὴ ταῦτά γε πάντα, τέκος, κατὰ μοῖραν ἔειπες."
+    },
+    {
+      "n": 171,
+      "greek": "ἀλλʼ ἴθι καὶ σῷ παιδὶ ἔπος φάο μηδʼ ἐπίκευθε,"
+    },
+    {
+      "n": 172,
+      "greek": "χρῶτʼ ἀπονιψαμένη καὶ ἐπιχρίσασα παρειάς·"
+    },
+    {
+      "n": 173,
+      "greek": "μηδʼ οὕτω δακρύοισι πεφυρμένη ἀμφὶ πρόσωπα"
+    },
+    {
+      "n": 174,
+      "greek": "ἔρχευ, ἐπεὶ κάκιον πενθήμεναι ἄκριτον αἰεί."
+    },
+    {
+      "n": 175,
+      "greek": "ἤδη μὲν γάρ τοι παῖς τηλίκος, ὃν σὺ μάλιστα"
+    },
+    {
+      "n": 176,
+      "greek": "ἠρῶ ἀθανάτοισι γενειήσαντα ἰδέσθαι."
+    },
+    {
+      "n": 177,
+      "greek": "τὴν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 178,
+      "greek": "Εὐρυνόμη, μὴ ταῦτα παραύδα, κηδομένη περ,"
+    },
+    {
+      "n": 179,
+      "greek": "χρῶτʼ ἀπονίπτεσθαι καὶ ἐπιχρίεσθαι ἀλοιφῇ·"
+    },
+    {
+      "n": 180,
+      "greek": "ἀγλαΐην γὰρ ἐμοί γε θεοί, τοὶ Ὄλυμπον ἔχουσιν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "to show myself to the wooers, hateful though they are. Also I would say a word to my son that will be for his profit, namely, that he should not consort ever with the overweening wooers, who speak him fair but have evil plans thereafter.” Then the housewife, Eurynome, spoke to her and said:"
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "“Aye, verily, child, all this hast thou spoken aright. Go, then, reveal thy word to thy son and hide it not; but first wash thy body and anoint thy face, and go not as thou art with both cheeks stained with tears. Go, for it is ill to grieve ever without ceasing."
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "For now, behold, thy son is of such an age, and it has been thy dearest prayer to the immortals to see him a bearded man.” Then wise Penelope answered her again: “Eurynome, beguile me not thus in thy love to wash my body and anoint me with oil."
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "All beauty of mine have the gods, that hold Olympus, destroyed since the day when my lord departed in the hollow ships. But bid Autonoe and Hippodameia come to me, that they may stand by my side in the hall. Alone I will not go among men, for I am ashamed.”"
+    }
+  ]
+}

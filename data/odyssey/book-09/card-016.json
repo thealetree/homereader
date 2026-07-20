@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "οὐτάμεναι πρὸς στῆθος, ὅθι φρένες ἧπαρ ἔχουσι,"
+    },
+    {
+      "n": 302,
+      "greek": "χείρʼ ἐπιμασσάμενος· ἕτερος δέ με θυμὸς ἔρυκεν."
+    },
+    {
+      "n": 303,
+      "greek": "αὐτοῦ γάρ κε καὶ ἄμμες ἀπωλόμεθʼ αἰπὺν ὄλεθρον·"
+    },
+    {
+      "n": 304,
+      "greek": "οὐ γάρ κεν δυνάμεσθα θυράων ὑψηλάων"
+    },
+    {
+      "n": 305,
+      "greek": "χερσὶν ἀπώσασθαι λίθον ὄβριμον, ὃν προσέθηκεν."
+    },
+    {
+      "n": 306,
+      "greek": "ὣς τότε μὲν στενάχοντες ἐμείναμεν Ἠῶ δῖαν."
+    },
+    {
+      "n": 307,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 308,
+      "greek": "καὶ τότε πῦρ ἀνέκαιε καὶ ἤμελγε κλυτὰ μῆλα,"
+    },
+    {
+      "n": 309,
+      "greek": "πάντα κατὰ μοῖραν, καὶ ὑπʼ ἔμβρυον ἧκεν ἑκάστῃ."
+    },
+    {
+      "n": 310,
+      "greek": "αὐτὰρ ἐπεὶ δὴ σπεῦσε πονησάμενος τὰ ἃ ἔργα,"
+    },
+    {
+      "n": 311,
+      "greek": "σὺν δʼ ὅ γε δὴ αὖτε δύω μάρψας ὡπλίσσατο δεῖπνον."
+    },
+    {
+      "n": 312,
+      "greek": "δειπνήσας δʼ ἄντρου ἐξήλασε πίονα μῆλα,"
+    },
+    {
+      "n": 313,
+      "greek": "ῥηιδίως ἀφελὼν θυρεὸν μέγαν· αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 314,
+      "greek": "ἂψ ἐπέθηχʼ, ὡς εἴ τε φαρέτρῃ πῶμʼ ἐπιθείη."
+    },
+    {
+      "n": 315,
+      "greek": "πολλῇ δὲ ῥοίζῳ πρὸς ὄρος τρέπε πίονα μῆλα"
+    },
+    {
+      "n": 316,
+      "greek": "Κύκλωψ· αὐτὰρ ἐγὼ λιπόμην κακὰ βυσσοδομεύων,"
+    },
+    {
+      "n": 317,
+      "greek": "εἴ πως τισαίμην, δοίη δέ μοι εὖχος Ἀθήνη."
+    },
+    {
+      "n": 318,
+      "greek": "ἥδε δέ μοι κατὰ θυμὸν ἀρίστη φαίνετο βουλή."
+    },
+    {
+      "n": 319,
+      "greek": "Κύκλωπος γὰρ ἔκειτο μέγα ῥόπαλον παρὰ σηκῷ,"
+    },
+    {
+      "n": 320,
+      "greek": "χλωρὸν ἐλαΐνεον· τὸ μὲν ἔκταμεν, ὄφρα φοροίη"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "to thrust back with our hands from the high door the mighty stone which he had set there. So then, with wailing, we waited for the bright Dawn. “As soon as early Dawn appeared, the rosy-fingered, he rekindled the fire and milked his goodly flocks all in turn, and beneath each dam placed her young."
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "Then, when he had busily performed his tasks, again he seized two men at once and made ready his meal. And when he had made his meal he drove his fat flocks forth from the cave, easily moving away the great door-stone; and then he put it in place again, as one might set the lid upon a quiver."
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "Then with loud whistling the Cyclops turned his fat flocks toward the mountain, and I was left there, devising evil in the deep of my heart, if in any way I might take vengeance on him, and Athena grant me glory. “Now this seemed to my mind the best plan. There lay beside a sheep-pen a great club of the Cyclops,"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "a staff of green olive-wood, which he had cut to carry with him when dry; and as we looked at it we thought it as large as is the mast of a black ship of twenty oars, a merchantman, broad of beam, which crosses over the great gulf; so huge it was in length and in breadth to look upon."
+    }
+  ]
+}

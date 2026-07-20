@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 35,
+  "lineStart": 681,
+  "lineEnd": 700,
+  "lines": [
+    {
+      "n": 681,
+      "greek": "κῆρυξ, τίπτε δέ σε πρόεσαν μνηστῆρες ἀγαυοί;"
+    },
+    {
+      "n": 682,
+      "greek": "ἦ εἰπέμεναι δμῳῇσιν Ὀδυσσῆος θείοιο"
+    },
+    {
+      "n": 683,
+      "greek": "ἔργων παύσασθαι, σφίσι δʼ αὐτοῖς δαῖτα πένεσθαι;"
+    },
+    {
+      "n": 684,
+      "greek": "μὴ μνηστεύσαντες μηδʼ ἄλλοθʼ ὁμιλήσαντες"
+    },
+    {
+      "n": 685,
+      "greek": "ὕστατα καὶ πύματα νῦν ἐνθάδε δειπνήσειαν·"
+    },
+    {
+      "n": 686,
+      "greek": "οἳ θάμʼ ἀγειρόμενοι βίοτον κατακείρετε πολλόν,"
+    },
+    {
+      "n": 687,
+      "greek": "κτῆσιν Τηλεμάχοιο δαΐφρονος· οὐδέ τι πατρῶν"
+    },
+    {
+      "n": 688,
+      "greek": "ὑμετέρων τὸ πρόσθεν ἀκούετε, παῖδες ἐόντες,"
+    },
+    {
+      "n": 689,
+      "greek": "οἷος Ὀδυσσεὺς ἔσκε μεθʼ ὑμετέροισι τοκεῦσιν,"
+    },
+    {
+      "n": 690,
+      "greek": "οὔτε τινὰ ῥέξας ἐξαίσιον οὔτε τι εἰπὼν"
+    },
+    {
+      "n": 691,
+      "greek": "ἐν δήμῳ, ἥ τʼ ἐστὶ δίκη θείων βασιλήων·"
+    },
+    {
+      "n": 692,
+      "greek": "ἄλλον κʼ ἐχθαίρῃσι βροτῶν, ἄλλον κε φιλοίη."
+    },
+    {
+      "n": 693,
+      "greek": "κεῖνος δʼ οὔ ποτε πάμπαν ἀτάσθαλον ἄνδρα ἐώργει."
+    },
+    {
+      "n": 694,
+      "greek": "ἀλλʼ ὁ μὲν ὑμέτερος θυμὸς καὶ ἀεικέα ἔργα"
+    },
+    {
+      "n": 695,
+      "greek": "φαίνεται, οὐδέ τίς ἐστι χάρις μετόπισθʼ ἐυεργέων."
+    },
+    {
+      "n": 696,
+      "greek": "τὴν δʼ αὖτε προσέειπε Μέδων πεπνυμένα εἰδώς·"
+    },
+    {
+      "n": 697,
+      "greek": "αἲ γὰρ δή, βασίλεια, τόδε πλεῖστον κακὸν εἴη."
+    },
+    {
+      "n": 698,
+      "greek": "ἀλλὰ πολὺ μεῖζόν τε καὶ ἀργαλεώτερον ἄλλο"
+    },
+    {
+      "n": 699,
+      "greek": "μνηστῆρες φράζονται, ὃ μὴ τελέσειε Κρονίων·"
+    },
+    {
+      "n": 700,
+      "greek": "Τηλέμαχον μεμάασι κατακτάμεν ὀξέι χαλκῷ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        685,
+        689
+      ],
+      "text": "may they now feast here their latest and their last—even ye who are ever thronging here and wasting much livelihood, the wealth of wise Telemachus. Surely ye hearkened not at all in olden days, when ye were children, when your fathers told what manner of man Odysseus was among them that begat you,"
+    },
+    {
+      "lines": [
+        690,
+        694
+      ],
+      "text": "in that he wrought no wrong in deed or word to any man in the land, as the wont is of divine kings—one man they hate and another they love. Yet he never wrought iniquity at all to any man. But your mind and your unseemly deeds"
+    },
+    {
+      "lines": [
+        695,
+        699
+      ],
+      "text": "are plain to see, nor is there in after days any gratitude for good deeds done.” Then Medon, wise of heart, answered her: “I would, O queen, that this were the greatest evil. But another greater far and more grievous are the wooers planning, which I pray that the son of Cronos may never bring to pass."
+    },
+    {
+      "lines": [
+        700,
+        700
+      ],
+      "text": "They are minded to slay Telemachus with the sharp sword on his homeward way; for he went in quest of tidings of his father to sacred Pylos and to goodly Lacedaemon.” So he spoke, and her knees were loosened where she sat, and her heart melted. Long time she was speechless, and both her eyes"
+    }
+  ]
+}

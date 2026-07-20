@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "αὐτὸν ἔχοντά σε βούλομʼ ἐπαυρέμεν, ἤ τινα τῶνδε·"
+    },
+    {
+      "n": 82,
+      "greek": "εἰ δέ κʼ ἐγὼ τούτοισι φόνον καὶ κῆρα φυτεύσω,"
+    },
+    {
+      "n": 83,
+      "greek": "δὴ τότε μοι χαίροντι φέρειν πρὸς δώματα χαίρων."
+    },
+    {
+      "n": 84,
+      "greek": "ὣς εἰπὼν ξεῖνον ταλαπείριον ἦγεν ἐς οἶκον."
+    },
+    {
+      "n": 85,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἵκοντο δόμους εὖ ναιετάοντας,"
+    },
+    {
+      "n": 86,
+      "greek": "χλαίνας μὲν κατέθεντο κατὰ κλισμούς τε θρόνους τε,"
+    },
+    {
+      "n": 87,
+      "greek": "ἐς δʼ ἀσαμίνθους βάντες ἐϋξέστας λούσαντο."
+    },
+    {
+      "n": 88,
+      "greek": "τοὺς δʼ ἐπεὶ οὖν δμῳαὶ λοῦσαν καὶ χρῖσαν ἐλαίῳ,"
+    },
+    {
+      "n": 89,
+      "greek": "ἀμφὶ δʼ ἄρα χλαίνας οὔλας βάλον ἠδὲ χιτῶνας,"
+    },
+    {
+      "n": 90,
+      "greek": "ἔκ ῥʼ ἀσαμίνθων βάντες ἐπὶ κλισμοῖσι καθῖζον."
+    },
+    {
+      "n": 91,
+      "greek": "χέρνιβα δʼ ἀμφίπολος προχόῳ ἐπέχευε φέρουσα"
+    },
+    {
+      "n": 92,
+      "greek": "καλῇ χρυσείῃ, ὑπὲρ ἀργυρέοιο λέβητος,"
+    },
+    {
+      "n": 93,
+      "greek": "νίψασθαι· παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν."
+    },
+    {
+      "n": 94,
+      "greek": "σῖτον δʼ αἰδοίη ταμίη παρέθηκε φέρουσα,"
+    },
+    {
+      "n": 95,
+      "greek": "εἴδατα πόλλʼ ἐπιθεῖσα, χαριζομένη παρεόντων."
+    },
+    {
+      "n": 96,
+      "greek": "μήτηρ δʼ ἀντίον ἷζε παρὰ σταθμὸν μεγάροιο"
+    },
+    {
+      "n": 97,
+      "greek": "κλισμῷ κεκλιμένη, λέπτʼ ἠλάκατα στρωφῶσα."
+    },
+    {
+      "n": 98,
+      "greek": "οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον,"
+    },
+    {
+      "n": 99,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 100,
+      "greek": "τοῖσι δὲ μύθων ἦρχε περίφρων Πηνελόπεια·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "Now when they had come to the stately house they laid their cloaks on the chairs and high seats, and went into the polished baths and bathed. And when the maids had bathed them and anointed them with oil, and had cast about them fleecy cloaks and tunics,"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "they came forth from the baths and sat down upon the chairs. Then a handmaid brought water for the hands in a fair pitcher of gold, and poured it over a silver basin for them to wash, and beside them drew up a polished table. And the grave housewife brought and set before them bread,"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "and therewith meats in abundance, granting freely of her store. And his mother sat over against Telemachus by the door-post of the hall, leaning against a chair and spinning fine threads of yarn. So they put forth their hands to the good cheer lying ready before them. But when they had put from them the desire of food and drink,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "the wise Penelope spoke first among them: “Telemachus, I truly will go to my upper chamber and lay me on my bed, which has become for me a bed of wailing, ever wet with my tears, since the day when Odysseus set forth with the sons of Atreus for Ilios. But thou tookest no care,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "ἱέμενος φιλέειν· ἐμὲ δὲ χρεὼ θᾶσσον ἱκέσθαι."
+    },
+    {
+      "n": 202,
+      "greek": "ὣς φάτο, Νεστορίδης δʼ ἄρʼ ἑῷ συμφράσσατο θυμῷ,"
+    },
+    {
+      "n": 203,
+      "greek": "ὅππως οἱ κατὰ μοῖραν ὑποσχόμενος τελέσειεν."
+    },
+    {
+      "n": 204,
+      "greek": "ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι·"
+    },
+    {
+      "n": 205,
+      "greek": "στρέψʼ ἵππους ἐπὶ νῆα θοὴν καὶ θῖνα θαλάσσης,"
+    },
+    {
+      "n": 206,
+      "greek": "νηῒ δʼ ἐνὶ πρύμνῃ ἐξαίνυτο κάλλιμα δῶρα,"
+    },
+    {
+      "n": 207,
+      "greek": "ἐσθῆτα χρυσόν τε, τά οἱ Μενέλαος ἔδωκε·"
+    },
+    {
+      "n": 208,
+      "greek": "καί μιν ἐποτρύνων ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 209,
+      "greek": "σπουδῇ νῦν ἀνάβαινε κέλευέ τε πάντας ἑταίρους,"
+    },
+    {
+      "n": 210,
+      "greek": "πρὶν ἐμὲ οἴκαδʼ ἱκέσθαι ἀπαγγεῖλαί τε γέροντι."
+    },
+    {
+      "n": 211,
+      "greek": "εὖ γὰρ ἐγὼ τόδε οἶδα κατὰ φρένα καὶ κατὰ θυμόν·"
+    },
+    {
+      "n": 212,
+      "greek": "οἷος κείνου θυμὸς ὑπέρβιος, οὔ σε μεθήσει,"
+    },
+    {
+      "n": 213,
+      "greek": "ἀλλʼ αὐτὸς καλέων δεῦρʼ εἴσεται, οὐδέ ἕ φημι"
+    },
+    {
+      "n": 214,
+      "greek": "ἂψ ἰέναι κενεόν· μάλα γὰρ κεχολώσεται ἔμπης."
+    },
+    {
+      "n": 215,
+      "greek": "ὣς ἄρα φωνήσας ἔλασεν καλλίτριχας ἵππους"
+    },
+    {
+      "n": 216,
+      "greek": "ἂψ Πυλίων εἰς ἄστυ, θοῶς δʼ ἄρα δώμαθʼ ἵκανε."
+    },
+    {
+      "n": 217,
+      "greek": "Τηλέμαχος δʼ ἑτάροισιν ἐποτρύνων ἐκέλευσεν·"
+    },
+    {
+      "n": 218,
+      "greek": "ἐγκοσμεῖτε τὰ τεύχεʼ, ἑταῖροι, νηῒ μελαίνῃ,"
+    },
+    {
+      "n": 219,
+      "greek": "αὐτοί τʼ ἀμβαίνωμεν, ἵνα πρήσσωμεν ὁδοῖο."
+    },
+    {
+      "n": 220,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἄρα τοῦ μάλα μὲν κλύον ἠδʼ ἐπίθοντο,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "He turned his horses to the swift ship and the shore of the sea, and took out, and set in the stern of the ship the beautiful gifts, the raiment and gold, which Menelaus gave him. And he urged on Telemachus, and addressed him with winged words: “Make haste now to go on board, and bid all thy comrades to do likewise,"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "before I reach home and bring the old man word. For well I know this in mind and heart, so masterful is his spirit he will not let thee go, but will himself come hither to bid thee to his house; and, I tell thee, he will not go back without thee; for very wroth will he be, despite of all.”"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "So saying, he drove his horses with beautiful mane back to the city of the Pylians, and speedily reached the palace. And Telemachus called to his men, and gave command to them, saying: “Set all the gear in order, men, in the black ship, and let us go on board ourselves, that we may speed on our way.”"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "So he spoke, and they readily hearkened and obeyed; and at once they went on board, and sat down upon the benches. He verily was busied thus, and was praying and offering sacrifice to Athena by the stern of the ship, when there drew nigh to him a man from a far land, one that was fleeing out of Argos because he had slain a man;"
+    }
+  ]
+}

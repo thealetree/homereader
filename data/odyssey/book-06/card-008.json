@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "στῆ δʼ ἄντα σχομένη· ὁ δὲ μερμήριξεν Ὀδυσσεύς,"
+    },
+    {
+      "n": 142,
+      "greek": "ἢ γούνων λίσσοιτο λαβὼν ἐυώπιδα κούρην,"
+    },
+    {
+      "n": 143,
+      "greek": "ἦ αὔτως ἐπέεσσιν ἀποσταδὰ μειλιχίοισι"
+    },
+    {
+      "n": 144,
+      "greek": "λίσσοιτʼ, εἰ δείξειε πόλιν καὶ εἵματα δοίη."
+    },
+    {
+      "n": 145,
+      "greek": "ὣς ἄρα οἱ φρονέοντι δοάσσατο κέρδιον εἶναι,"
+    },
+    {
+      "n": 146,
+      "greek": "λίσσεσθαι ἐπέεσσιν ἀποσταδὰ μειλιχίοισι,"
+    },
+    {
+      "n": 147,
+      "greek": "μή οἱ γοῦνα λαβόντι χολώσαιτο φρένα κούρη."
+    },
+    {
+      "n": 148,
+      "greek": "αὐτίκα μειλίχιον καὶ κερδαλέον φάτο μῦθον."
+    },
+    {
+      "n": 149,
+      "greek": "γουνοῦμαί σε, ἄνασσα· θεός νύ τις, ἦ βροτός ἐσσι;"
+    },
+    {
+      "n": 150,
+      "greek": "εἰ μέν τις θεός ἐσσι, τοὶ οὐρανὸν εὐρὺν ἔχουσιν,"
+    },
+    {
+      "n": 151,
+      "greek": "Ἀρτέμιδί σε ἐγώ γε, Διὸς κούρῃ μεγάλοιο,"
+    },
+    {
+      "n": 152,
+      "greek": "εἶδός τε μέγεθός τε φυήν τʼ ἄγχιστα ἐίσκω·"
+    },
+    {
+      "n": 153,
+      "greek": "εἰ δέ τίς ἐσσι βροτῶν, τοὶ ἐπὶ χθονὶ ναιετάουσιν,"
+    },
+    {
+      "n": 154,
+      "greek": "τρὶς μάκαρες μὲν σοί γε πατὴρ καὶ πότνια μήτηρ,"
+    },
+    {
+      "n": 155,
+      "greek": "τρὶς μάκαρες δὲ κασίγνητοι· μάλα πού σφισι θυμὸς"
+    },
+    {
+      "n": 156,
+      "greek": "αἰὲν ἐυφροσύνῃσιν ἰαίνεται εἵνεκα σεῖο,"
+    },
+    {
+      "n": 157,
+      "greek": "λευσσόντων τοιόνδε θάλος χορὸν εἰσοιχνεῦσαν."
+    },
+    {
+      "n": 158,
+      "greek": "κεῖνος δʼ αὖ περὶ κῆρι μακάρτατος ἔξοχον ἄλλων,"
+    },
+    {
+      "n": 159,
+      "greek": "ὅς κέ σʼ ἐέδνοισι βρίσας οἶκόνδʼ ἀγάγηται."
+    },
+    {
+      "n": 160,
+      "greek": "οὐ γάρ πω τοιοῦτον ἴδον βροτὸν ὀφθαλμοῖσιν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "And, as he pondered, it seemed to him better to stand apart and beseech her with gentle words, lest the maiden's heart should be wroth with him if he clasped her knees; so straightway he spoke a gentle word and crafty: “I beseech thee, O queen,—a goddess art thou, or art thou mortal?"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "If thou art a goddess, one of those who hold broad heaven, to Artemis, the daughter of great Zeus, do I liken thee most nearly in comeliness and in stature and in form. But if thou art one of mortals who dwell upon the earth, thrice-blessed then are thy father and thy honored mother,"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "and thrice-blessed thy brethren. Full well, I ween, are their hearts ever warmed with joy because of thee, as they see thee entering the dance, a plant so fair. But he again is blessed in heart above all others, who shall prevail with his gifts of wooing and lead thee to his home."
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "For never yet have mine eyes looked upon a mortal such as thou, whether man or woman; amazement holds me as I look on thee. Of a truth in Delos once I saw such a thing, a young shoot of a palm springing up beside the altar of Apollo—for thither, too, I went, and much people followed with me,"
+    }
+  ]
+}

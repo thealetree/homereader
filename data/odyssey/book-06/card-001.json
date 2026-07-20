@@ -1,0 +1,129 @@
+{
+  "book": 6,
+  "card": 1,
+  "lineStart": 1,
+  "lineEnd": 20,
+  "lines": [
+    {
+      "n": 1,
+      "greek": "ὣς ὁ μὲν ἔνθα καθεῦδε πολύτλας δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 2,
+      "greek": "ὕπνῳ καὶ καμάτῳ ἀρημένος· αὐτὰρ Ἀθήνη"
+    },
+    {
+      "n": 3,
+      "greek": "βῆ ῥʼ ἐς Φαιήκων ἀνδρῶν δῆμόν τε πόλιν τε,"
+    },
+    {
+      "n": 4,
+      "greek": "οἳ πρὶν μέν ποτʼ ἔναιον ἐν εὐρυχόρῳ Ὑπερείῃ,"
+    },
+    {
+      "n": 5,
+      "greek": "ἀγχοῦ Κυκλώπων ἀνδρῶν ὑπερηνορεόντων,"
+    },
+    {
+      "n": 6,
+      "greek": "οἵ σφεας σινέσκοντο, βίηφι δὲ φέρτεροι ἦσαν."
+    },
+    {
+      "n": 7,
+      "greek": "ἔνθεν ἀναστήσας ἄγε Ναυσίθοος θεοειδής,"
+    },
+    {
+      "n": 8,
+      "greek": "εἷσεν δὲ Σχερίῃ, ἑκὰς ἀνδρῶν ἀλφηστάων,"
+    },
+    {
+      "n": 9,
+      "greek": "ἀμφὶ δὲ τεῖχος ἔλασσε πόλει, καὶ ἐδείματο οἴκους,"
+    },
+    {
+      "n": 10,
+      "greek": "καὶ νηοὺς ποίησε θεῶν, καὶ ἐδάσσατʼ ἀρούρας."
+    },
+    {
+      "n": 11,
+      "greek": "ἀλλʼ ὁ μὲν ἤδη κηρὶ δαμεὶς Ἄϊδόσδε βεβήκει,"
+    },
+    {
+      "n": 12,
+      "greek": "Ἀλκίνοος δὲ τότʼ ἦρχε, θεῶν ἄπο μήδεα εἰδώς."
+    },
+    {
+      "n": 13,
+      "greek": "τοῦ μὲν ἔβη πρὸς δῶμα θεά, γλαυκῶπις Ἀθήνη,"
+    },
+    {
+      "n": 14,
+      "greek": "νόστον Ὀδυσσῆι μεγαλήτορι μητιόωσα."
+    },
+    {
+      "n": 15,
+      "greek": "βῆ δʼ ἴμεν ἐς θάλαμον πολυδαίδαλον, ᾧ ἔνι κούρη"
+    },
+    {
+      "n": 16,
+      "greek": "κοιμᾶτʼ ἀθανάτῃσι φυὴν καὶ εἶδος ὁμοίη,"
+    },
+    {
+      "n": 17,
+      "greek": "Ναυσικάα, θυγάτηρ μεγαλήτορος Ἀλκινόοιο,"
+    },
+    {
+      "n": 18,
+      "greek": "πὰρ δὲ δύʼ ἀμφίπολοι, Χαρίτων ἄπο κάλλος ἔχουσαι,"
+    },
+    {
+      "n": 19,
+      "greek": "σταθμοῖιν ἑκάτερθε· θύραι δʼ ἐπέκειντο φαειναί."
+    },
+    {
+      "n": 20,
+      "greek": "ἡ δʼ ἀνέμου ὡς πνοιὴ ἐπέσσυτο δέμνια κούρης,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        1,
+        4
+      ],
+      "text": "So he lay there asleep, the much-enduring goodly Odysseus, overcome with sleep and weariness; but Athena went to the land and city of the Phaeacians. These dwelt of old in spacious Hypereia"
+    },
+    {
+      "lines": [
+        5,
+        9
+      ],
+      "text": "hard by the Cyclopes, men overweening in pride who plundered them continually and were mightier than they. From thence Nausithous, the godlike, had removed them, and led and settled them in Scheria far from men that live by toil. About the city he had drawn a wall, he had built houses"
+    },
+    {
+      "lines": [
+        10,
+        14
+      ],
+      "text": "and made temples for the gods, and divided the ploughlands; but he, ere now, had been stricken by fate and had gone to the house of Hades, and Alcinous was now king, made wise in counsel by the gods. To his house went the goddess, flashing-eyed Athena, to contrive the return of great-hearted Odysseus."
+    },
+    {
+      "lines": [
+        15,
+        19
+      ],
+      "text": "She went to a chamber, richly wrought, wherein slept a maiden like the immortal goddesses in form and comeliness, Nausicaa, the daughter of great-hearted Alcinous; hard by slept two hand-maidens, gifted with beauty by the Graces, one on either side of the door-posts, and the bright doors were shut."
+    },
+    {
+      "lines": [
+        20,
+        20
+      ],
+      "text": "But like a breath of air the goddess sped to the couch of the maiden, and stood above her head, and spoke to her, taking the form of the daughter of Dymas, famed for his ships, a girl who was of like age with Nausicaa, and was dear to her heart. Likening herself to her, the flashing-eyed Athena spoke and said:"
+    }
+  ]
+}

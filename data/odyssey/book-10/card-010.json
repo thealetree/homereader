@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "αὐτὰρ ἐπεὶ τάρπησαν ὁρώμενοι ὀφθαλμοῖσιν,"
+    },
+    {
+      "n": 182,
+      "greek": "χεῖρας νιψάμενοι τεύχοντʼ ἐρικυδέα δαῖτα."
+    },
+    {
+      "n": 183,
+      "greek": "ὣς τότε μὲν πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα"
+    },
+    {
+      "n": 184,
+      "greek": "ἥμεθα δαινύμενοι κρέα τʼ ἄσπετα καὶ μέθυ ἡδύ·"
+    },
+    {
+      "n": 185,
+      "greek": "ἦμος δʼ ἠέλιος κατέδυ καὶ ἐπὶ κνέφας ἦλθε,"
+    },
+    {
+      "n": 186,
+      "greek": "δὴ τότε κοιμήθημεν ἐπὶ ῥηγμῖνι θαλάσσης."
+    },
+    {
+      "n": 187,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 188,
+      "greek": "καὶ τότʼ ἐγὼν ἀγορὴν θέμενος μετὰ πᾶσιν ἔειπον·"
+    },
+    {
+      "n": 189,
+      "greek": "κέκλυτέ μευ μύθων, κακά περ πάσχοντες ἑταῖροι·"
+    },
+    {
+      "n": 190,
+      "greek": "ὦ φίλοι, οὐ γάρ τʼ ἴδμεν, ὅπῃ ζόφος οὐδʼ ὅπῃ ἠώς,"
+    },
+    {
+      "n": 191,
+      "greek": "οὐδʼ ὅπῃ ἠέλιος φαεσίμβροτος εἶσʼ ὑπὸ γαῖαν,"
+    },
+    {
+      "n": 192,
+      "greek": "οὐδʼ ὅπῃ ἀννεῖται· ἀλλὰ φραζώμεθα θᾶσσον"
+    },
+    {
+      "n": 193,
+      "greek": "εἴ τις ἔτʼ ἔσται μῆτις. ἐγὼ δʼ οὔκ οἴομαι εἶναι."
+    },
+    {
+      "n": 194,
+      "greek": "εἶδον γὰρ σκοπιὴν ἐς παιπαλόεσσαν ἀνελθὼν"
+    },
+    {
+      "n": 195,
+      "greek": "νῆσον, τὴν πέρι πόντος ἀπείριτος ἐστεφάνωται·"
+    },
+    {
+      "n": 196,
+      "greek": "αὐτὴ δὲ χθαμαλὴ κεῖται· καπνὸν δʼ ἐνὶ μέσσῃ"
+    },
+    {
+      "n": 197,
+      "greek": "ἔδρακον ὀφθαλμοῖσι διὰ δρυμὰ πυκνὰ καὶ ὕλην."
+    },
+    {
+      "n": 198,
+      "greek": "ὣς ἐφάμην, τοῖσιν δὲ κατεκλάσθη φίλον ἦτορ"
+    },
+    {
+      "n": 199,
+      "greek": "μνησαμένοις ἔργων Λαιστρυγόνος Ἀντιφάταο"
+    },
+    {
+      "n": 200,
+      "greek": "Κύκλωπός τε βίης μεγαλήτορος, ἀνδροφάγοιο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "But when the sun set and darkness came on, then we lay down to rest on the shore of the sea. And as soon as early Dawn appeared, the rosy-fingered, I called my men together, and spoke among them all: “‘Hearken to my words, comrades, for all your evil plight."
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "My friends, we know not where the darkness is or where the dawn, neither where the sun, who give light to mortals, goes beneath the earth, nor where he rises; but let us straightway take thought if any device be still left us. As for me I think not that there is. For I climbed to a rugged point of outlook, and beheld"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "the island, about which is set as a crown the boundless deep. The isle itself lies low, and in the midst of it my eyes saw smoke through the thick brush and the wood.’ “So I spoke, and their spirit was broken within them, as they remembered the deeds of the Laestrygonian, Antiphates,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "and the violence of the great-hearted Cyclops, the man-eater. And they wailed aloud, and shed big tears. But no good came of their mourning. “Then I told off in two bands all my well-greaved comrades, and appointed a leader for each band."
+    }
+  ]
+}

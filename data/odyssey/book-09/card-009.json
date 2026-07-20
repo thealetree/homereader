@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 9,
+  "lineStart": 161,
+  "lineEnd": 180,
+  "lines": [
+    {
+      "n": 161,
+      "greek": "ὣς τότε μὲν πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα"
+    },
+    {
+      "n": 162,
+      "greek": "ἥμεθα δαινύμενοι κρέα τʼ ἄσπετα καὶ μέθυ ἡδύ·"
+    },
+    {
+      "n": 163,
+      "greek": "οὐ γάρ πω νηῶν ἐξέφθιτο οἶνος ἐρυθρός,"
+    },
+    {
+      "n": 164,
+      "greek": "ἀλλʼ ἐνέην· πολλὸν γὰρ ἐν ἀμφιφορεῦσιν ἕκαστοι"
+    },
+    {
+      "n": 165,
+      "greek": "ἠφύσαμεν Κικόνων. ἱερὸν πτολίεθρον ἑλόντες."
+    },
+    {
+      "n": 166,
+      "greek": "Κυκλώπων δʼ ἐς γαῖαν ἐλεύσσομεν ἐγγὺς ἐόντων,"
+    },
+    {
+      "n": 167,
+      "greek": "καπνόν τʼ αὐτῶν τε φθογγὴν ὀίων τε καὶ αἰγῶν."
+    },
+    {
+      "n": 168,
+      "greek": "ἦμος δʼ ἠέλιος κατέδυ καὶ ἐπὶ κνέφας ἦλθε,"
+    },
+    {
+      "n": 169,
+      "greek": "δὴ τότε κοιμήθημεν ἐπὶ ῥηγμῖνι θαλάσσης."
+    },
+    {
+      "n": 170,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 171,
+      "greek": "καὶ τότʼ ἐγὼν ἀγορὴν θέμενος μετὰ πᾶσιν ἔειπον·"
+    },
+    {
+      "n": 172,
+      "greek": "ἄλλοι μὲν νῦν μίμνετʼ, ἐμοὶ ἐρίηρες ἑταῖροι·"
+    },
+    {
+      "n": 173,
+      "greek": "αὐτὰρ ἐγὼ σὺν νηί τʼ ἐμῇ καὶ ἐμοῖς ἑτάροισιν"
+    },
+    {
+      "n": 174,
+      "greek": "ἐλθὼν τῶνδʼ ἀνδρῶν πειρήσομαι, οἵ τινές εἰσιν,"
+    },
+    {
+      "n": 175,
+      "greek": "ἤ ῥʼ οἵ γʼ ὑβρισταί τε καὶ ἄγριοι οὐδὲ δίκαιοι,"
+    },
+    {
+      "n": 176,
+      "greek": "ἦε φιλόξεινοι, καί σφιν νόος ἐστὶ θεουδής."
+    },
+    {
+      "n": 177,
+      "greek": "ὣς εἰπὼν ἀνὰ νηὸς ἔβην, ἐκέλευσα δʼ ἑταίρους"
+    },
+    {
+      "n": 178,
+      "greek": "αὐτούς τʼ ἀμβαίνειν ἀνά τε πρυμνήσια λῦσαι."
+    },
+    {
+      "n": 179,
+      "greek": "οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον,"
+    },
+    {
+      "n": 180,
+      "greek": "ἑξῆς δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "had we drawn in jars for each crew when we took the sacred citadel of the Cicones. And we looked across to the land of the Cyclopes, who dwelt close at hand, and marked the smoke, and the voice of men, and of the sheep, and of the goats. But when the sun set and darkness came on, then we lay down to rest on the shore of the sea."
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "And as soon as early Dawn appeared, the rosy-fingered, I called my men together and spoke among them all: “‘Remain here now, all the rest of you, my trusty comrades, but I with my own ship and my own company will go and make trial of yonder men, to learn who they are,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "whether they are cruel, and wild, and unjust, or whether they love strangers and fear the gods in their thoughts.’ “So saying, I went on board the ship and bade my comrades themselves to embark, and to loose the stern cables. So they went on board straightway and sat down upon the benches,"
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "and sitting well in order smote the grey sea with their oars. But when we had reached the place, which lay close at hand, there on the land's edge hard by the sea we saw a high cave, roofed over with laurels, and there many flocks, sheep and goats alike, were wont to sleep. Round about it"
+    }
+  ]
+}

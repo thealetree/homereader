@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "τοὺς ἄμφω ζωοὺς κατέχει φυσίζοος αἶα·"
+    },
+    {
+      "n": 302,
+      "greek": "οἳ καὶ νέρθεν γῆς τιμὴν πρὸς Ζηνὸς ἔχοντες"
+    },
+    {
+      "n": 303,
+      "greek": "ἄλλοτε μὲν ζώουσʼ ἑτερήμεροι, ἄλλοτε δʼ αὖτε"
+    },
+    {
+      "n": 304,
+      "greek": "τεθνᾶσιν· τιμὴν δὲ λελόγχασιν ἶσα θεοῖσι."
+    },
+    {
+      "n": 305,
+      "greek": "τὴν δὲ μετʼ Ἰφιμέδειαν, Ἀλωῆος παράκοιτιν"
+    },
+    {
+      "n": 306,
+      "greek": "εἴσιδον, ἣ δὴ φάσκε Ποσειδάωνι μιγῆναι,"
+    },
+    {
+      "n": 307,
+      "greek": "καί ῥʼ ἔτεκεν δύο παῖδε, μινυνθαδίω δʼ ἐγενέσθην,"
+    },
+    {
+      "n": 308,
+      "greek": "Ὦτόν τʼ ἀντίθεον τηλεκλειτόν τʼ Ἐφιάλτην,"
+    },
+    {
+      "n": 309,
+      "greek": "οὓς δὴ μηκίστους θρέψε ζείδωρος ἄρουρα"
+    },
+    {
+      "n": 310,
+      "greek": "καὶ πολὺ καλλίστους μετά γε κλυτὸν Ὠρίωνα·"
+    },
+    {
+      "n": 311,
+      "greek": "ἐννέωροι γὰρ τοί γε καὶ ἐννεαπήχεες ἦσαν"
+    },
+    {
+      "n": 312,
+      "greek": "εὖρος, ἀτὰρ μῆκός γε γενέσθην ἐννεόργυιοι."
+    },
+    {
+      "n": 313,
+      "greek": "οἵ ῥα καὶ ἀθανάτοισιν ἀπειλήτην ἐν Ὀλύμπῳ"
+    },
+    {
+      "n": 314,
+      "greek": "φυλόπιδα στήσειν πολυάικος πολέμοιο."
+    },
+    {
+      "n": 315,
+      "greek": "Ὄσσαν ἐπʼ Οὐλύμπῳ μέμασαν θέμεν, αὐτὰρ ἐπʼ Ὄσσῃ"
+    },
+    {
+      "n": 316,
+      "greek": "Πήλιον εἰνοσίφυλλον, ἵνʼ οὐρανὸς ἀμβατὸς εἴη."
+    },
+    {
+      "n": 317,
+      "greek": "καί νύ κεν ἐξετέλεσσαν, εἰ ἥβης μέτρον ἵκοντο·"
+    },
+    {
+      "n": 318,
+      "greek": "ἀλλʼ ὄλεσεν Διὸς υἱός, ὃν ἠύκομος τέκε Λητώ,"
+    },
+    {
+      "n": 319,
+      "greek": "ἀμφοτέρω, πρίν σφωιν ὑπὸ κροτάφοισιν ἰούλους"
+    },
+    {
+      "n": 320,
+      "greek": "ἀνθῆσαι πυκάσαι τε γένυς ἐυανθέι λάχνῃ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "“And after her I saw Iphimedeia, wife of Aloeus, who declared that she had lain with Poseidon. She bore two sons, but short of life were they, godlike Otus, and far-famed Ephialtes—men whom the earth, the giver of grain, reared as the tallest,"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "and far the comeliest, after the famous Orion. For at nine years they were nine cubits in breadth and in height nine fathoms. Yea, and they threatened to raise the din of furious war against the immortals in Olympus."
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "They were fain to pile Ossa on Olympus, and Pelion, with its waving forests, on Ossa, that so heaven might be scaled. And this they would have accomplished, if they had reached the measure of manhood; but the son of Zeus, whom fair-haired Leto bore, slew them both before"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "the down blossomed beneath their temples and covered their chins with a full growth of beard. “And Phaedra and Procris I saw, and fair Ariadne, the daughter of Minos of baneful mind, whom once Theseus was fain to bear from Crete to the hill of sacred Athens; but he had no joy of her, for ere that Artemis slew her"
+    }
+  ]
+}

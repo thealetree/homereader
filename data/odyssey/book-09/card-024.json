@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 24,
+  "lineStart": 461,
+  "lineEnd": 480,
+  "lines": [
+    {
+      "n": 461,
+      "greek": "ὣς εἰπὼν τὸν κριὸν ἀπὸ ἕο πέμπε θύραζε."
+    },
+    {
+      "n": 462,
+      "greek": "ἐλθόντες δʼ ἠβαιὸν ἀπὸ σπείους τε καὶ αὐλῆς"
+    },
+    {
+      "n": 463,
+      "greek": "πρῶτος ὑπʼ ἀρνειοῦ λυόμην, ὑπέλυσα δʼ ἑταίρους."
+    },
+    {
+      "n": 464,
+      "greek": "καρπαλίμως δὲ τὰ μῆλα ταναύποδα, πίονα δημῷ,"
+    },
+    {
+      "n": 465,
+      "greek": "πολλὰ περιτροπέοντες ἐλαύνομεν, ὄφρʼ ἐπὶ νῆα"
+    },
+    {
+      "n": 466,
+      "greek": "ἱκόμεθʼ. ἀσπάσιοι δὲ φίλοις ἑτάροισι φάνημεν,"
+    },
+    {
+      "n": 467,
+      "greek": "οἳ φύγομεν θάνατον, τοὺς δὲ στενάχοντο γοῶντες."
+    },
+    {
+      "n": 468,
+      "greek": "ἀλλʼ ἐγὼ οὐκ εἴων, ἀνὰ δʼ ὀφρύσι νεῦον ἑκάστῳ,"
+    },
+    {
+      "n": 469,
+      "greek": "κλαίειν, ἀλλʼ ἐκέλευσα θοῶς καλλίτριχα μῆλα"
+    },
+    {
+      "n": 470,
+      "greek": "πόλλʼ ἐν νηὶ βαλόντας ἐπιπλεῖν ἁλμυρὸν ὕδωρ."
+    },
+    {
+      "n": 471,
+      "greek": "οἱ δʼ αἶψʼ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον,"
+    },
+    {
+      "n": 472,
+      "greek": "ἑξῆς δʼ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς."
+    },
+    {
+      "n": 473,
+      "greek": "ἀλλʼ ὅτε τόσσον ἀπῆν, ὅσσον τε γέγωνε βοήσας,"
+    },
+    {
+      "n": 474,
+      "greek": "καὶ τότʼ ἐγὼ Κύκλωπα προσηύδων κερτομίοισι·"
+    },
+    {
+      "n": 475,
+      "greek": "Κύκλωψ, οὐκ ἄρʼ ἔμελλες ἀνάλκιδος ἀνδρὸς ἑταίρους"
+    },
+    {
+      "n": 476,
+      "greek": "ἔδμεναι ἐν σπῆι γλαφυρῷ κρατερῆφι βίηφι."
+    },
+    {
+      "n": 477,
+      "greek": "καὶ λίην σέ γʼ ἔμελλε κιχήσεσθαι κακὰ ἔργα,"
+    },
+    {
+      "n": 478,
+      "greek": "σχέτλιʼ, ἐπεὶ ξείνους οὐχ ἅζεο σῷ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 479,
+      "greek": "ἐσθέμεναι· τῷ σε Ζεὺς τίσατο καὶ θεοὶ ἄλλοι."
+    },
+    {
+      "n": 480,
+      "greek": "ὣς ἐφάμην, ὁ δʼ ἔπειτα χολώσατο κηρόθι μᾶλλον,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "turning full often to look about until we came to the ship. And welcome to our dear comrades was the sight of us who had escaped death, but for the others they wept and wailed; yet I would not suffer them to weep, but with a frown forbade each man. Rather I bade them"
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "to fling on board with speed the many sheep of goodly fleece, and sail over the salt water. So they went on board straightway and sat down upon the benches, and sitting well in order smote the grey sea with their oars. But when I was as far away as a man's voice carries when he shouts, then I spoke to the Cyclops with mocking words:"
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "“‘Cyclops, that man, it seems, was no weakling, whose comrades thou wast minded to devour by brutal strength in thy hollow cave. Full surely were thy evil deeds to fall on thine own head, thou cruel wretch, who didst not shrink from eating thy guests in thine own house. Therefore has Zeus taken vengeance on thee, and the other gods.’"
+    },
+    {
+      "lines": [
+        480,
+        480
+      ],
+      "text": "“So I spoke, and he waxed the more wroth at heart, and broke off the peak of a high mountain and hurled it at us, and cast it in front of the dark-prowed ship. And the sea surged beneath the stone as it fell,"
+    }
+  ]
+}

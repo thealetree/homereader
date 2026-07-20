@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "γιγνώσκω, φρονέω· τά γε δὴ νοέοντι κελεύεις."
+    },
+    {
+      "n": 282,
+      "greek": "ἀλλʼ ἔρχευ προπάροιθεν, ἐγὼ δʼ ὑπολείψομαι αὐτοῦ."
+    },
+    {
+      "n": 283,
+      "greek": "οὐ γάρ τι πληγέων ἀδαήμων οὐδὲ βολάων·"
+    },
+    {
+      "n": 284,
+      "greek": "τολμήεις μοι θυμός, ἐπεὶ κακὰ πολλὰ πέπονθα"
+    },
+    {
+      "n": 285,
+      "greek": "κύμασι καὶ πολέμῳ· μετὰ καὶ τόδε τοῖσι γενέσθω·"
+    },
+    {
+      "n": 286,
+      "greek": "γαστέρα δʼ οὔ πως ἔστιν ἀποκρύψαι μεμαυῖαν,"
+    },
+    {
+      "n": 287,
+      "greek": "οὐλομένην, ἣ πολλὰ κάκʼ ἀνθρώποισι δίδωσι,"
+    },
+    {
+      "n": 288,
+      "greek": "τῆς ἕνεκεν καὶ νῆες ἐΰζυγοι ὁπλίζονται"
+    },
+    {
+      "n": 289,
+      "greek": "πόντον ἐπʼ ἀτρύγετον, κακὰ δυσμενέεσσι φέρουσαι."
+    },
+    {
+      "n": 290,
+      "greek": "ὣς οἱ μὲν τοιαῦτα πρὸς ἀλλήλους ἀγόρευον·"
+    },
+    {
+      "n": 291,
+      "greek": "ἂν δὲ κύων κεφαλήν τε καὶ οὔατα κείμενος ἔσχεν,"
+    },
+    {
+      "n": 292,
+      "greek": "Ἄργος, Ὀδυσσῆος ταλασίφρονος, ὅν ῥά ποτʼ αὐτὸς"
+    },
+    {
+      "n": 293,
+      "greek": "θρέψε μέν, οὐδʼ ἀπόνητο, πάρος δʼ εἰς Ἴλιον ἱρὴν"
+    },
+    {
+      "n": 294,
+      "greek": "ᾤχετο. τὸν δὲ πάροιθεν ἀγίνεσκον νέοι ἄνδρες"
+    },
+    {
+      "n": 295,
+      "greek": "αἶγας ἐπʼ ἀγροτέρας ἠδὲ πρόκας ἠδὲ λαγωούς·"
+    },
+    {
+      "n": 296,
+      "greek": "δὴ τότε κεῖτʼ ἀπόθεστος ἀποιχομένοιο ἄνακτος,"
+    },
+    {
+      "n": 297,
+      "greek": "ἐν πολλῇ κόπρῳ, ἥ οἱ προπάροιθε θυράων"
+    },
+    {
+      "n": 298,
+      "greek": "ἡμιόνων τε βοῶν τε ἅλις κέχυτʼ, ὄφρʼ ἂν ἄγοιεν"
+    },
+    {
+      "n": 299,
+      "greek": "δμῶες Ὀδυσσῆος τέμενος μέγα κοπρήσοντες·"
+    },
+    {
+      "n": 300,
+      "greek": "ἔνθα κύων κεῖτʼ Ἄργος, ἐνίπλειος κυνοραιστέων."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "amid the waves and in war; let this too be added to what has gone before. But a ravening belly may no man hide, an accursed plague that brings many evils upon men. Because of it are the benched ships also made ready, that bear evil to foemen over the unresting sea.”"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "Thus they spoke to one another. And a hound that lay there raised his head and pricked up his ears, Argos, the hound of Odysseus, of the steadfast heart, whom of old he had himself bred, but had no joy of him, for ere that he went to sacred Ilios. In days past the young men were wont to take the hound to hunt"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "the wild goats, and deer, and hares; but now he lay neglected, his master gone, in the deep dung of mules and cattle, which lay in heaps before the doors, till the slaves of Odysseus should take it away to dung his wide lands."
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "There lay the hound Argos, full of vermin; yet even now, when he marked Odysseus standing near, he wagged his tail and dropped both his ears, but nearer to his master he had no longer strength to move. Then Odysseus looked aside and wiped away a tear,"
+    }
+  ]
+}

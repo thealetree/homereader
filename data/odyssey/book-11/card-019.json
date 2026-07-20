@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "πᾶσιν, ὅσοι μʼ Ἰθάκηνδε ἰδοίατο νοστήσαντα."
+    },
+    {
+      "n": 362,
+      "greek": "τὸν δʼ αὖτʼ Ἀλκίνοος ἀπαμείβετο φώνησέν τε·"
+    },
+    {
+      "n": 363,
+      "greek": "ὦ Ὀδυσεῦ, τὸ μὲν οὔ τί σʼ ἐίσκομεν εἰσορόωντες,"
+    },
+    {
+      "n": 364,
+      "greek": "ἠπεροπῆά τʼ ἔμεν καὶ ἐπίκλοπον, οἷά τε πολλοὺς"
+    },
+    {
+      "n": 365,
+      "greek": "βόσκει γαῖα μέλαινα πολυσπερέας ἀνθρώπους,"
+    },
+    {
+      "n": 366,
+      "greek": "ψεύδεά τʼ ἀρτύνοντας ὅθεν κέ τις οὐδὲ ἴδοιτο·"
+    },
+    {
+      "n": 367,
+      "greek": "σοὶ δʼ ἔπι μὲν μορφὴ ἐπέων, ἔνι δὲ φρένες ἐσθλαί."
+    },
+    {
+      "n": 368,
+      "greek": "μῦθον δʼ ὡς ὅτʼ ἀοιδὸς ἐπισταμένως κατέλεξας,"
+    },
+    {
+      "n": 369,
+      "greek": "πάντων τʼ Ἀργείων σέο τʼ αὐτοῦ κήδεα λυγρά."
+    },
+    {
+      "n": 370,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,"
+    },
+    {
+      "n": 371,
+      "greek": "εἴ τινας ἀντιθέων ἑτάρων ἴδες, οἵ τοι ἅμʼ αὐτῷ"
+    },
+    {
+      "n": 372,
+      "greek": "Ἴλιον εἰς ἅμʼ ἕποντο καὶ αὐτοῦ πότμον ἐπέσπον."
+    },
+    {
+      "n": 373,
+      "greek": "νὺξ δʼ ἥδε μάλα μακρή, ἀθέσφατος· οὐδέ πω ὥρη"
+    },
+    {
+      "n": 374,
+      "greek": "εὕδειν ἐν μεγάρῳ, σὺ δέ μοι λέγε θέσκελα ἔργα."
+    },
+    {
+      "n": 375,
+      "greek": "καί κεν ἐς ἠῶ δῖαν ἀνασχοίμην, ὅτε μοι σὺ"
+    },
+    {
+      "n": 376,
+      "greek": "τλαίης ἐν μεγάρῳ τὰ σὰ κήδεα μυθήσασθαι."
+    },
+    {
+      "n": 377,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 378,
+      "greek": "Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν,"
+    },
+    {
+      "n": 379,
+      "greek": "ὥρη μὲν πολέων μύθων, ὥρη δὲ καὶ ὕπνου·"
+    },
+    {
+      "n": 380,
+      "greek": "εἰ δʼ ἔτʼ ἀκουέμεναί γε λιλαίεαι, οὐκ ἂν ἐγώ γε"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "whom the dark earth breeds scattered far and wide, men that fashion lies out of what no man can even see. But upon thee is grace of words, and within thee is a heart of wisdom, and thy tale thou hast told with skill, as doth a minstrel, even the grievous woes of all the Argives and of thine own self."
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "But come, tell me this, and declare it truly, whether thou sawest any of thy godlike comrades, who went to Ilios together with thee, and there met their fate. The night is before us, long, aye, wondrous long, and it is not yet the time for sleep in the hall. Tell on, I pray thee, the tale of these wondrous deeds."
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "Verily I could abide until bright dawn, so thou wouldest be willing to tell in the hall of these woes of thine.” Then Odysseus of many wiles answered him and said: “Lord Alcinous, renowned above all men, there is a time for many words and there is a time also for sleep."
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "But if thou art fain still to listen, I would not begrudge to tell thee of other things more pitiful still than these, even the woes of my comrades, who perished afterward, who escaped from the dread battle-cry of the Trojans, but perished on their return through the will of an evil woman."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 17,
+  "lineStart": 321,
+  "lineEnd": 340,
+  "lines": [
+    {
+      "n": 321,
+      "greek": "ἐς πέλαγος μέγα τοῖον, ὅθεν τέ περ οὐδʼ οἰωνοὶ"
+    },
+    {
+      "n": 322,
+      "greek": "αὐτόετες οἰχνεῦσιν, ἐπεὶ μέγα τε δεινόν τε."
+    },
+    {
+      "n": 323,
+      "greek": "ἀλλʼ ἴθι νῦν σὺν νηί τε σῇ καὶ σοῖς ἑτάροισιν·"
+    },
+    {
+      "n": 324,
+      "greek": "εἰ δʼ ἐθέλεις πεζός, πάρα τοι δίφρος τε καὶ ἵπποι,"
+    },
+    {
+      "n": 325,
+      "greek": "πὰρ δέ τοι υἷες ἐμοί, οἵ τοι πομπῆες ἔσονται"
+    },
+    {
+      "n": 326,
+      "greek": "ἐς Λακεδαίμονα δῖαν, ὅθι ξανθὸς Μενέλαος."
+    },
+    {
+      "n": 327,
+      "greek": "λίσσεσθαι δέ μιν αὐτός, ἵνα νημερτὲς ἐνίσπῃ·"
+    },
+    {
+      "n": 328,
+      "greek": "ψεῦδος δʼ οὐκ ἐρέει· μάλα γὰρ πεπνυμένος ἐστίν."
+    },
+    {
+      "n": 329,
+      "greek": "ὣς ἔφατʼ, ἠέλιος δʼ ἄρʼ ἔδυ καὶ ἐπὶ κνέφας ἦλθε."
+    },
+    {
+      "n": 330,
+      "greek": "τοῖσι δὲ καὶ μετέειπε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 331,
+      "greek": "ὦ γέρον, ἦ τοι ταῦτα κατὰ μοῖραν κατέλεξας·"
+    },
+    {
+      "n": 332,
+      "greek": "ἀλλʼ ἄγε τάμνετε μὲν γλώσσας, κεράασθε δὲ οἶνον,"
+    },
+    {
+      "n": 333,
+      "greek": "ὄφρα Ποσειδάωνι καὶ ἄλλοις ἀθανάτοισιν"
+    },
+    {
+      "n": 334,
+      "greek": "σπείσαντες κοίτοιο μεδώμεθα· τοῖο γὰρ ὥρη."
+    },
+    {
+      "n": 335,
+      "greek": "ἤδη γὰρ φάος οἴχεθʼ ὑπὸ ζόφον, οὐδὲ ἔοικεν·"
+    },
+    {
+      "n": 336,
+      "greek": "δηθὰ θεῶν ἐν δαιτὶ θαασσέμεν, ἀλλὰ νέεσθαι."
+    },
+    {
+      "n": 337,
+      "greek": "ἦ ῥα Διὸς θυγάτηρ, οἱ δʼ ἔκλυον αὐδησάσης."
+    },
+    {
+      "n": 338,
+      "greek": "τοῖσι δὲ κήρυκες μὲν ὕδωρ ἐπὶ χεῖρας ἔχευαν,"
+    },
+    {
+      "n": 339,
+      "greek": "κοῦροι δὲ κρητῆρας ἐπεστέψαντο ποτοῖο,"
+    },
+    {
+      "n": 340,
+      "greek": "νώμησαν δʼ ἄρα πᾶσιν ἐπαρξάμενοι δεπάεσσι·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "and here at thy service are my sons, who will be thy guides to goodly Lacedaemon, where lives fair-haired Menelaus. And do thou beseech him thyself that he may tell thee the very truth. A lie will be not utter, for he is wise indeed.” So he spoke, and the sun set, and darkness came on."
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "Then among them spoke the goddess, flashing-eyed Athena: “Old man, of a truth thou hast told this tale aright. But come, cut out the tongues of the victims and mix the wine, that when we have poured libations to Poseidon and the other immortals, we may bethink us of sleep; for it is the time thereto."
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "Even now has the light gone down beneath the darkness, and it is not fitting to sit long at the feast of the gods, but to go our way.” So spoke the daughter of Zeus, and they hearkenened to her voice. Heralds poured water over their hands, and youths filled the bowls brim full of drink,"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "and served out to all, pouring first drops for libation into the cups. Then they cast the tongues upon the fire, and, rising up, poured libations upon them. But when they had poured libations and had drunk to their heart's content, then verily Athena and godlike Telemachus were both fain to return to the hollow ship;"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "Μέντορι εἰδομένη ἠμὲν δέμας ἠδὲ καὶ αὐδήν·"
+    },
+    {
+      "n": 402,
+      "greek": "Τηλέμαχʼ, ἤδη μέν τοι ἐυκνήμιδες ἑταῖροι"
+    },
+    {
+      "n": 403,
+      "greek": "ἥατʼ ἐπήρετμοι τὴν σὴν ποτιδέγμενοι ὁρμήν·"
+    },
+    {
+      "n": 404,
+      "greek": "ἀλλʼ ἴομεν, μὴ δηθὰ διατρίβωμεν ὁδοῖο."
+    },
+    {
+      "n": 405,
+      "greek": "ὣς ἄρα φωνήσασʼ ἡγήσατο Παλλὰς Ἀθήνη"
+    },
+    {
+      "n": 406,
+      "greek": "καρπαλίμως· ὁ δʼ ἔπειτα μετʼ ἴχνια βαῖνε θεοῖο."
+    },
+    {
+      "n": 407,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐπὶ νῆα κατήλυθον ἠδὲ θάλασσαν,"
+    },
+    {
+      "n": 408,
+      "greek": "εὗρον ἔπειτʼ ἐπὶ θινὶ κάρη κομόωντας ἑταίρους."
+    },
+    {
+      "n": 409,
+      "greek": "τοῖσι δὲ καὶ μετέειφʼ ἱερὴ ἲς Τηλεμάχοιο·"
+    },
+    {
+      "n": 410,
+      "greek": "δεῦτε, φίλοι, ἤια φερώμεθα· πάντα γὰρ ἤδη"
+    },
+    {
+      "n": 411,
+      "greek": "ἁθρόʼ ἐνὶ μεγάρῳ. μήτηρ δʼ ἐμὴ οὔ τι πέπυσται,"
+    },
+    {
+      "n": 412,
+      "greek": "οὐδʼ ἄλλαι δμωαί, μία δʼ οἴη μῦθον ἄκουσεν."
+    },
+    {
+      "n": 413,
+      "greek": "ὣς ἄρα φωνήσας ἡγήσατο, τοὶ δʼ ἅμʼ ἕποντο."
+    },
+    {
+      "n": 414,
+      "greek": "οἱ δʼ ἄρα πάντα φέροντες ἐυσσέλμῳ ἐπὶ νηὶ"
+    },
+    {
+      "n": 415,
+      "greek": "κάτθεσαν, ὡς ἐκέλευσεν Ὀδυσσῆος φίλος υἱός."
+    },
+    {
+      "n": 416,
+      "greek": "ἂν δʼ ἄρα Τηλέμαχος νηὸς βαῖνʼ, ἦρχε δʼ Ἀθήνη,"
+    },
+    {
+      "n": 417,
+      "greek": "νηὶ δʼ ἐνὶ πρυμνῇ κατʼ ἄρʼ ἕζετο· ἄγχι δʼ ἄρʼ αὐτῆς"
+    },
+    {
+      "n": 418,
+      "greek": "ἕζετο Τηλέμαχος. τοὶ δὲ πρυμνήσιʼ ἔλυσαν,"
+    },
+    {
+      "n": 419,
+      "greek": "ἂν δὲ καὶ αὐτοὶ βάντες ἐπὶ κληῖσι καθῖζον."
+    },
+    {
+      "n": 420,
+      "greek": "τοῖσιν δʼ ἴκμενον οὖρον ἵει γλαυκῶπις Ἀθήνη,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "So saying, Pallas Athena led the way quickly, and he followed in the footsteps of the goddess. Now when they had come down to the ship and to the sea, they found on the shore their long-haired comrades, and the strong and mighty Telemachus spoke among them:"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "“Come, friends, let us fetch the stores, for all are now gathered together in the hall. My mother knows naught hereof, nor the handmaids either: one only heard my word.” Thus saying, he led the way, and they went along with him. So they brought and"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "stowed everything in the well-benched ship, as the dear son of Odysseus bade. Then on board the ship stepped Telemachus, and Athena went before him and sat down in the stern of the ship, and near her sat Telemachus, while the men loosed the stern cables and themselves stepped on board, and sat down upon the benches."
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "And flashing-eyed Athena sent them a favorable wind, a strong-blowing West wind that sang over the wine-dark sea. And Telemachus called to his men, and bade them lay hold of the tackling, and they hearkened to his call. The mast of fir"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 22,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "νῦν ὑμῖν καὶ πᾶσιν ὀλέθρου πείρατʼ ἐφῆπται."
+    },
+    {
+      "n": 42,
+      "greek": "ὣς φάτο, τοὺς δʼ ἄρα πάντας ὑπὸ χλωρὸν δέος εἷλεν·"
+    },
+    {
+      "n": 43,
+      "greek": "πάπτηνεν δὲ ἕκαστος ὅπη φύγοι αἰπὺν ὄλεθρον."
+    },
+    {
+      "n": 44,
+      "greek": "Εὐρύμαχος δέ μιν οἶος ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 45,
+      "greek": "εἰ μὲν δὴ Ὀδυσεὺς Ἰθακήσιος εἰλήλουθας,"
+    },
+    {
+      "n": 46,
+      "greek": "ταῦτα μὲν αἴσιμα εἶπας, ὅσα ῥέζεσκον Ἀχαιοί,"
+    },
+    {
+      "n": 47,
+      "greek": "πολλὰ μὲν ἐν μεγάροισιν ἀτάσθαλα, πολλὰ δʼ ἐπʼ ἀγροῦ."
+    },
+    {
+      "n": 48,
+      "greek": "ἀλλʼ ὁ μὲν ἤδη κεῖται ὃς αἴτιος ἔπλετο πάντων,"
+    },
+    {
+      "n": 49,
+      "greek": "Ἀντίνοος· οὗτος γὰρ ἐπίηλεν τάδε ἔργα,"
+    },
+    {
+      "n": 50,
+      "greek": "οὔ τι γάμου τόσσον κεχρημένος οὐδὲ χατίζων,"
+    },
+    {
+      "n": 51,
+      "greek": "ἀλλʼ ἄλλα φρονέων, τά οἱ οὐκ ἐτέλεσσε Κρονίων,"
+    },
+    {
+      "n": 52,
+      "greek": "ὄφρʼ Ἰθάκης κατὰ δῆμον ἐϋκτιμένης βασιλεύοι"
+    },
+    {
+      "n": 53,
+      "greek": "αὐτός, ἀτὰρ σὸν παῖδα κατακτείνειε λοχήσας."
+    },
+    {
+      "n": 54,
+      "greek": "νῦν δʼ ὁ μὲν ἐν μοίρῃ πέφαται, σὺ δὲ φείδεο λαῶν"
+    },
+    {
+      "n": 55,
+      "greek": "σῶν· ἀτὰρ ἄμμες ὄπισθεν ἀρεσσάμενοι κατὰ δῆμον,"
+    },
+    {
+      "n": 56,
+      "greek": "ὅσσα τοι ἐκπέποται καὶ ἐδήδοται ἐν μεγάροισι,"
+    },
+    {
+      "n": 57,
+      "greek": "τιμὴν ἀμφὶς ἄγοντες ἐεικοσάβοιον ἕκαστος,"
+    },
+    {
+      "n": 58,
+      "greek": "χαλκόν τε χρυσόν τʼ ἀποδώσομεν, εἰς ὅ κε σὸν κῆρ"
+    },
+    {
+      "n": 59,
+      "greek": "ἰανθῇ· πρὶν δʼ οὔ τι νεμεσσητὸν κεχολῶσθαι."
+    },
+    {
+      "n": 60,
+      "greek": "τὸν δʼ ἄρʼ ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "“If thou art indeed Odysseus of Ithaca, come home again, this that thou sayest is just regarding all that the Achaeans have wrought—many deeds of wanton folly in thy halls and many in the field. But he now lies dead, who was to blame for all, even Antinous; for it was he who set on foot these deeds,"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "not so much through desire or need of the marriage, but with another purpose, which the son of Cronos did not bring to pass for him, that in the land of settled Ithaca he might himself be king, and might lie in wait for thy son and slay him. But now he lies slain, as was his due, but do thou spare the people"
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "that are thine own; and we will hereafter go about the land and get thee recompense for all that has been drunk and eaten in thy halls, and will bring each man for himself in requital the worth of twenty oxen, and pay thee back in bronze and gold until thy heart be warmed; but till then no one could blame thee that thou art wroth.”"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "Then with an angry glance from beneath his brows Odysseus of many wiles answered him: “Eurymachus, not even if you should give me in requital all that your fathers left you, even all that you now have, and should add other wealth thereto from whence ye might, not even so would I henceforth stay my hands from slaying until the wooers had paid the full price of all their transgression."
+    }
+  ]
+}

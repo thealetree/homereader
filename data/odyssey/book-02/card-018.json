@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "ἕστασαν, ἄκρητον θεῖον ποτὸν ἐντὸς ἔχοντες,"
+    },
+    {
+      "n": 342,
+      "greek": "ἑξείης ποτὶ τοῖχον ἀρηρότες, εἴ ποτʼ Ὀδυσσεὺς"
+    },
+    {
+      "n": 343,
+      "greek": "οἴκαδε νοστήσειε καὶ ἄλγεα πολλὰ μογήσας."
+    },
+    {
+      "n": 344,
+      "greek": "κληισταὶ δʼ ἔπεσαν σανίδες πυκινῶς ἀραρυῖαι,"
+    },
+    {
+      "n": 345,
+      "greek": "δικλίδες· ἐν δὲ γυνὴ ταμίη νύκτας τε καὶ ἦμαρ"
+    },
+    {
+      "n": 346,
+      "greek": "ἔσχʼ, ἣ πάντʼ ἐφύλασσε νόου πολυϊδρείῃσιν,"
+    },
+    {
+      "n": 347,
+      "greek": "Εὐρύκλειʼ, Ὦπος θυγάτηρ Πεισηνορίδαο."
+    },
+    {
+      "n": 348,
+      "greek": "τὴν τότε Τηλέμαχος προσέφη θαλαμόνδε καλέσσας·"
+    },
+    {
+      "n": 349,
+      "greek": "μαῖʼ, ἄγε δή μοι οἶνον ἐν ἀμφιφορεῦσιν ἄφυσσον"
+    },
+    {
+      "n": 350,
+      "greek": "ἡδύν, ὅτις μετὰ τὸν λαρώτατος ὃν σὺ φυλάσσεις"
+    },
+    {
+      "n": 351,
+      "greek": "κεῖνον ὀιομένη τὸν κάμμορον, εἴ ποθεν ἔλθοι"
+    },
+    {
+      "n": 352,
+      "greek": "διογενὴς Ὀδυσεὺς θάνατον καὶ κῆρας ἀλύξας."
+    },
+    {
+      "n": 353,
+      "greek": "δώδεκα δʼ ἔμπλησον καὶ πώμασιν ἄρσον ἅπαντας."
+    },
+    {
+      "n": 354,
+      "greek": "ἐν δέ μοι ἄλφιτα χεῦον ἐϋρραφέεσσι δοροῖσιν·"
+    },
+    {
+      "n": 355,
+      "greek": "εἴκοσι δʼ ἔστω μέτρα μυληφάτου ἀλφίτου ἀκτῆς."
+    },
+    {
+      "n": 356,
+      "greek": "αὐτὴ δʼ οἴη ἴσθι· τὰ δʼ ἁθρόα πάντα τετύχθω·"
+    },
+    {
+      "n": 357,
+      "greek": "ἑσπέριος γὰρ ἐγὼν αἱρήσομαι, ὁππότε κεν δὴ"
+    },
+    {
+      "n": 358,
+      "greek": "μήτηρ εἰς ὑπερῷʼ ἀναβῇ κοίτου τε μέδηται."
+    },
+    {
+      "n": 359,
+      "greek": "εἶμι γὰρ ἐς Σπάρτην τε καὶ ἐς Πύλον ἠμαθόεντα"
+    },
+    {
+      "n": 360,
+      "greek": "νόστον πευσόμενος πατρὸς φίλου, ἤν που ἀκούσω."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "the double doors, close-fitted; and there both night and day a stewardess abode, who guarded all in wisdom of mind, Eurycleia, daughter of Ops, son of Peisenor. To her now Telemachus, when he had called her to the treasure-chamber, spoke, and said: “Nurse, draw me off wine in jars,"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "sweet wine that is the choicest next to that which thou guardest ever thinking upon that ill-fated one, if haply Zeus-born Odysseus may come I know not whence, having escaped from death and the fates. Fill twelve jars and fit them all with covers, and pour me barley meal into well-sewn skins,"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "and let there be twenty measures of ground barley meal. But keep knowledge hereof to thyself, and have all these things brought together; for at evening I will fetch them, when my mother goes to her upper chamber and bethinks her of her rest. For I am going to Sparta and to sandy Pylos"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "to seek tidings of the return of my dear father, if haply I may hear any.” So he spoke, and the dear nurse, Eurycleia, uttered a shrill cry, and weeping spoke to him winged words:“Ah, dear child, how has this thought come into thy mind? Whither art thou minded to go over the wide earth,"
+    }
+  ]
+}

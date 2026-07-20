@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ἡμέτερον προτὶ ἄστυ· Ποσειδάωνι δὲ ταύρους"
+    },
+    {
+      "n": 182,
+      "greek": "δώδεκα κεκριμένους ἱερεύσομεν, αἴ κʼ ἐλεήσῃ,"
+    },
+    {
+      "n": 183,
+      "greek": "μηδʼ ἡμῖν περίμηκες ὄρος πόλει ἀμφικαλύψῃ."
+    },
+    {
+      "n": 184,
+      "greek": "ὣς ἔφαθʼ, οἱ δʼ ἔδεισαν, ἑτοιμάσσαντο δὲ ταύρους."
+    },
+    {
+      "n": 185,
+      "greek": "ὣς οἱ μέν ῥʼ εὔχοντο Ποσειδάωνι ἄνακτι"
+    },
+    {
+      "n": 186,
+      "greek": "δήμου Φαιήκων ἡγήτορες ἠδὲ μέδοντες,"
+    },
+    {
+      "n": 187,
+      "greek": "ἑσταότες περὶ βωμόν. ὁ δʼ ἔγρετο δῖος Ὀδυσσεὺς"
+    },
+    {
+      "n": 188,
+      "greek": "εὕδων ἐν γαίῃ πατρωΐῃ, οὐδέ μιν ἔγνω,"
+    },
+    {
+      "n": 189,
+      "greek": "ἤδη δὴν ἀπεών· περὶ γὰρ θεὸς ἠέρα χεῦε"
+    },
+    {
+      "n": 190,
+      "greek": "Παλλὰς Ἀθηναίη, κούρη Διός, ὄφρα μιν αὐτὸν"
+    },
+    {
+      "n": 191,
+      "greek": "ἄγνωστον τεύξειεν ἕκαστά τε μυθήσαιτο,"
+    },
+    {
+      "n": 192,
+      "greek": "μή μιν πρὶν ἄλοχος γνοίη ἀστοί τε φίλοι τε,"
+    },
+    {
+      "n": 193,
+      "greek": "πρὶν πᾶσαν μνηστῆρας ὑπερβασίην ἀποτῖσαι."
+    },
+    {
+      "n": 194,
+      "greek": "τοὔνεκʼ ἄρʼ ἀλλοειδέα φαινέσκετο πάντα ἄνακτι,"
+    },
+    {
+      "n": 195,
+      "greek": "ἀτραπιτοί τε διηνεκέες λιμένες τε πάνορμοι"
+    },
+    {
+      "n": 196,
+      "greek": "πέτραι τʼ ἠλίβατοι καὶ δένδρεα τηλεθόωντα."
+    },
+    {
+      "n": 197,
+      "greek": "στῆ δʼ ἄρʼ ἀναΐξας καί ῥʼ εἴσιδε πατρίδα γαῖαν·"
+    },
+    {
+      "n": 198,
+      "greek": "ᾤμωξέν τʼ ἄρ ἔπειτα καὶ ὣ πεπλήγετο μηρὼ"
+    },
+    {
+      "n": 199,
+      "greek": "χερσὶ καταπρηνέσσʼ, ὀλοφυρόμενος δʼ ἔπος ηὔδα·"
+    },
+    {
+      "n": 200,
+      "greek": "ὤ μοι ἐγώ, τέων αὖτε βροτῶν ἐς γαῖαν ἱκάνω;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "Thus they were praying to the lord Poseidon, the leaders and counsellors of the land of the Phaeacians, as they stood about the altar, but Odysseus awoke out of his sleep in his native land. Yet he knew it not after his long absence, for about him the goddess had shed a mist,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "even Pallas Athena, daughter of Zeus, that she might render him unknown, and tell him all things, so that his wife might not know him, nor his townsfolk, nor his friends, until the wooers had paid the full price of all their transgressions. Therefore all things seemed strange to their lord,"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "the long paths, the bays offering safe anchorage, the sheer cliffs, and the luxuriant trees. So he sprang up and stood and looked upon his native land, and then he groaned and smote both of his thighs with the flat of his hands, and mournfully spoke, and said:"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "“Woe is me, to the land of what mortals am I now come? Are they cruel, and wild, and unjust, or do they love strangers and fear the gods in their thoughts? Whither shall I bear all this wealth, or whither shall I myself go wandering on? Would that I had remained there among the Phaeacians,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "πῇ δὴ αὖτʼ, ὦ δύστηνε, διʼ ἄκριας ἔρχεαι οἶος,"
+    },
+    {
+      "n": 282,
+      "greek": "χώρου ἄιδρις ἐών; ἕταροι δέ τοι οἵδʼ ἐνὶ Κίρκης"
+    },
+    {
+      "n": 283,
+      "greek": "ἔρχαται ὥς τε σύες πυκινοὺς κευθμῶνας ἔχοντες."
+    },
+    {
+      "n": 284,
+      "greek": "ἦ τοὺς λυσόμενος δεῦρʼ ἔρχεαι; οὐδέ σέ φημι"
+    },
+    {
+      "n": 285,
+      "greek": "αὐτὸν νοστήσειν, μενέεις δὲ σύ γʼ, ἔνθα περ ἄλλοι."
+    },
+    {
+      "n": 286,
+      "greek": "ἀλλʼ ἄγε δή σε κακῶν ἐκλύσομαι ἠδὲ σαώσω."
+    },
+    {
+      "n": 287,
+      "greek": "τῆ, τόδε φάρμακον ἐσθλὸν ἔχων ἐς δώματα Κίρκης"
+    },
+    {
+      "n": 288,
+      "greek": "ἔρχευ, ὅ κέν τοι κρατὸς ἀλάλκῃσιν κακὸν ἦμαρ."
+    },
+    {
+      "n": 289,
+      "greek": "πάντα δέ τοι ἐρέω ὀλοφώια δήνεα Κίρκης."
+    },
+    {
+      "n": 290,
+      "greek": "τεύξει τοι κυκεῶ, βαλέει δʼ ἐν φάρμακα σίτῳ."
+    },
+    {
+      "n": 291,
+      "greek": "ἀλλʼ οὐδʼ ὣς θέλξαι σε δυνήσεται· οὐ γὰρ ἐάσει"
+    },
+    {
+      "n": 292,
+      "greek": "φάρμακον ἐσθλόν, ὅ τοι δώσω, ἐρέω δὲ ἕκαστα."
+    },
+    {
+      "n": 293,
+      "greek": "ὁππότε κεν Κίρκη σʼ ἐλάσῃ περιμήκεϊ ῥάβδῳ,"
+    },
+    {
+      "n": 294,
+      "greek": "δὴ τότε σὺ ξίφος ὀξὺ ἐρυσσάμενος παρὰ μηροῦ"
+    },
+    {
+      "n": 295,
+      "greek": "Κίρκῃ ἐπαῖξαι, ὥς τε κτάμεναι μενεαίνων."
+    },
+    {
+      "n": 296,
+      "greek": "ἡ δέ σʼ ὑποδείσασα κελήσεται εὐνηθῆναι·"
+    },
+    {
+      "n": 297,
+      "greek": "ἔνθα σὺ μηκέτʼ ἔπειτʼ ἀπανήνασθαι θεοῦ εὐνήν,"
+    },
+    {
+      "n": 298,
+      "greek": "ὄφρα κέ τοι λύσῃ θʼ ἑτάρους αὐτόν τε κομίσσῃ·"
+    },
+    {
+      "n": 299,
+      "greek": "ἀλλὰ κέλεσθαί μιν μακάρων μέγαν ὅρκον ὀμόσσαι,"
+    },
+    {
+      "n": 300,
+      "greek": "μή τί τοι αὐτῷ πῆμα κακὸν βουλευσέμεν ἄλλο,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "thyself return, but shalt remain there with the others. But come, I will free thee from harm, and save thee. Here, take this potent herb, and go to the house of Circe, and it shall ward off from thy head the evil day. And I will tell thee all the baneful wiles of Circe."
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "She will mix thee a potion, and cast drugs into the food; but even so she shall not be able to bewitch thee, for the potent herb that I shall give thee will not suffer it. And I will tell thee all. When Circe shall smite thee with her long wand, then do thou draw thy sharp sword from beside thy thigh,"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "and rush upon Circe, as though thou wouldst slay her. And she will be seized with fear, and will bid thee lie with her. Then do not thou thereafter refuse the couch of the goddess, that she may set free thy comrades, and give entertainment to thee. But bid her swear a great oath by the blessed gods,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "that she will not plot against thee any fresh mischief to thy hurt, lest when she has thee stripped she may render thee a weakling and unmanned.’ “So saying, Argeiphontes gave me the herb, drawing it from the ground, and showed me its nature. At the root it was black, but its flower was like milk."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "δέμνια δὲ στόρεσαν· ἐκ δὲ ξείνους ἄγε κῆρυξ."
+    },
+    {
+      "n": 302,
+      "greek": "οἱ μὲν ἄρʼ ἐν προδόμῳ δόμου αὐτόθι κοιμήσαντο,"
+    },
+    {
+      "n": 303,
+      "greek": "Τηλέμαχός θʼ ἥρως καὶ Νέστορος ἀγλαὸς υἱός·"
+    },
+    {
+      "n": 304,
+      "greek": "Ἀτρεΐδης δὲ καθεῦδε μυχῷ δόμου ὑψηλοῖο,"
+    },
+    {
+      "n": 305,
+      "greek": "πὰρ δʼ Ἑλένη τανύπεπλος ἐλέξατο, δῖα γυναικῶν."
+    },
+    {
+      "n": 306,
+      "greek": "ἦμος δʼ ἠριγένεια φάνη ῥοδοδάκτυλος Ἠώς,"
+    },
+    {
+      "n": 307,
+      "greek": "ὤρνυτʼ ἄρʼ ἐξ εὐνῆφι βοὴν ἀγαθὸς Μενέλαος"
+    },
+    {
+      "n": 308,
+      "greek": "εἵματα ἑσσάμενος, περὶ δὲ ξίφος ὀξὺ θέτʼ ὤμῳ,"
+    },
+    {
+      "n": 309,
+      "greek": "ποσσὶ δʼ ὑπὸ λιπαροῖσιν ἐδήσατο καλὰ πέδιλα,"
+    },
+    {
+      "n": 310,
+      "greek": "βῆ δʼ ἴμεν ἐκ θαλάμοιο θεῷ ἐναλίγκιος ἄντην,"
+    },
+    {
+      "n": 311,
+      "greek": "Τηλεμάχῳ δὲ παρῖζεν, ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 312,
+      "greek": "τίπτε δέ σε χρειὼ δεῦρʼ ἤγαγε, Τηλέμαχʼ ἥρως,"
+    },
+    {
+      "n": 313,
+      "greek": "ἐς Λακεδαίμονα δῖαν, ἐπʼ εὐρέα νῶτα θαλάσσης;"
+    },
+    {
+      "n": 314,
+      "greek": "δήμιον ἦ ἴδιον; τόδε μοι νημερτὲς ἐνίσπες."
+    },
+    {
+      "n": 315,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 316,
+      "greek": "Ἀτρεΐδη Μενέλαε διοτρεφές, ὄρχαμε λαῶν,"
+    },
+    {
+      "n": 317,
+      "greek": "ἤλυθον, εἴ τινά μοι κληηδόνα πατρὸς ἐνίσποις."
+    },
+    {
+      "n": 318,
+      "greek": "ἐσθίεταί μοι οἶκος, ὄλωλε δὲ πίονα ἔργα,"
+    },
+    {
+      "n": 319,
+      "greek": "δυσμενέων δʼ ἀνδρῶν πλεῖος δόμος, οἵ τέ μοι αἰεὶ"
+    },
+    {
+      "n": 320,
+      "greek": "μῆλʼ ἁδινὰ σφάζουσι καὶ εἰλίποδας ἕλικας βοῦς,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "and beside him lay long-robed Helen, peerless among women. So soon as early Dawn appeared, the rosy-fingered, up from his bed arose Menelaus, good at the war-cry, and put on his clothing. About his shoulders he slung his sharp sword, and beneath his shining feet bound his fair sandals,"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "and went forth from his chamber like unto a god to look upon. Then he sat down beside Telemachus, and spoke, and addressed him: “What need has brought thee hither, prince Telemachus, to goodly Lacedaemon over the broad back of the sea? Is it a public matter, or thine own? Tell me the truth of this.”"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "Then wise Telemachus answered him: “Menelaus, son of Atreus, fostered of Zeus, leader of hosts, I came if haply thou mightest tell me some tidings of my father. My home is being devoured and my rich lands are ruined; with men that are foes my house is filled, who are ever"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "slaying my thronging sheep and my sleek kine of shambling gait, even the wooers of my mother, overweening in their insolence. Therefore am I now come to thy knees, if perchance thou wilt be willing to tell me of his woeful death, whether thou sawest it haply with thine own eyes, or didst hear from some other the story"
+    }
+  ]
+}

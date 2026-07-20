@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "κτήματʼ ἐνὶ μεγάροισι θεῶν ἰότητι κέονται."
+    },
+    {
+      "n": 342,
+      "greek": "τοῖσι δὲ καὶ μετέειπε γέρων ἥρως Ἐχένηος,"
+    },
+    {
+      "n": 343,
+      "greek": "ὃς δὴ Φαιήκων ἀνδρῶν προγενέστερος ἦεν·"
+    },
+    {
+      "n": 344,
+      "greek": "ὦ φίλοι, οὐ μὰν ἧμιν ἀπὸ σκοποῦ οὐδʼ ἀπὸ δόξης"
+    },
+    {
+      "n": 345,
+      "greek": "μυθεῖται βασίλεια περίφρων· ἀλλὰ πίθεσθε."
+    },
+    {
+      "n": 346,
+      "greek": "Ἀλκινόου δʼ ἐκ τοῦδʼ ἔχεται ἔργον τε ἔπος τε."
+    },
+    {
+      "n": 347,
+      "greek": "τὸν δʼ αὖτʼ Ἀλκίνοος ἀπαμείβετο φώνησέν τε·"
+    },
+    {
+      "n": 348,
+      "greek": "τοῦτο μὲν οὕτω δὴ ἔσται ἔπος, αἴ κεν ἐγώ γε"
+    },
+    {
+      "n": 349,
+      "greek": "ζωὸς Φαιήκεσσι φιληρέτμοισιν ἀνάσσω·"
+    },
+    {
+      "n": 350,
+      "greek": "ξεῖνος δὲ τλήτω μάλα περ νόστοιο χατίζων"
+    },
+    {
+      "n": 351,
+      "greek": "ἔμπης οὖν ἐπιμεῖναι ἐς αὔριον, εἰς ὅ κε πᾶσαν"
+    },
+    {
+      "n": 352,
+      "greek": "δωτίνην τελέσω· πομπὴ δʼ ἄνδρεσσι μελήσει"
+    },
+    {
+      "n": 353,
+      "greek": "πᾶσι, μάλιστα δʼ ἐμοί· τοῦ γὰρ κράτος ἔστʼ ἐνὶ δήμῳ."
+    },
+    {
+      "n": 354,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 355,
+      "greek": "Ἀλκίνοε κρεῖον, πάντων ἀριδείκετε λαῶν,"
+    },
+    {
+      "n": 356,
+      "greek": "εἴ με καὶ εἰς ἐνιαυτὸν ἀνώγοιτʼ αὐτόθι μίμνειν,"
+    },
+    {
+      "n": 357,
+      "greek": "πομπὴν δʼ ὀτρύνοιτε καὶ ἀγλαὰ δῶρα διδοῖτε,"
+    },
+    {
+      "n": 358,
+      "greek": "καὶ κε τὸ βουλοίμην, καί κεν πολὺ κέρδιον εἴη,"
+    },
+    {
+      "n": 359,
+      "greek": "πλειοτέρῃ σὺν χειρὶ φίλην ἐς πατρίδʼ ἱκέσθαι·"
+    },
+    {
+      "n": 360,
+      "greek": "καί κʼ αἰδοιότερος καὶ φίλτερος ἀνδράσιν εἴην"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "are the words of our wise queen. Nay, do you give heed to them. Yet it is on Alcinous here that deed and word depend.” Then again Alcinous answered him and said:“This word of hers shall verily hold, as surely as I live and am lord over the Phaeacians, lovers of the oar."
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "But let our guest, for all his great longing to return, nevertheless endure to remain until tomorrow, till I shall make all our gift complete. His sending shall rest with the men, with all, but most of all with me; for mine is the control in the land.” Then Odysseus of many wiles answered him and said:"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "“Lord Alcinous, renowned above all men, if you should bid me abide here even for a year, and should further my sending, and give glorious gifts, even that would I choose; and it would be better far to come with a fuller hand to my dear native land."
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "Aye, and I should win more respect and love from all men who should see me when I had returned to Ithaca.” Then again Alcinous made answer and said:“Odysseus, in no wise as we look on thee do we deem this of thee, that thou art a cheat and a dissembler, such as are many"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "ξέσσεν ἐπισταμένως καὶ ἐπὶ στάθμην ἴθυνεν."
+    },
+    {
+      "n": 342,
+      "greek": "Τηλέμαχος δʼ ἐπὶ οἷ καλέσας προσέειπε συβώτην,"
+    },
+    {
+      "n": 343,
+      "greek": "ἄρτον τʼ οὖλον ἑλὼν περικαλλέος ἐκ κανέοιο"
+    },
+    {
+      "n": 344,
+      "greek": "καὶ κρέας, ὥς οἱ χεῖρες ἐχάνδανον ἀμφιβαλόντι·"
+    },
+    {
+      "n": 345,
+      "greek": "δὸς τῷ ξείνῳ ταῦτα φέρων αὐτόν τε κέλευε"
+    },
+    {
+      "n": 346,
+      "greek": "αἰτίζειν μάλα πάντας ἐποιχόμενον μνηστῆρας·"
+    },
+    {
+      "n": 347,
+      "greek": "αἰδὼς δʼ οὐκ ἀγαθὴ κεχρημένῳ ἀνδρὶ παρεῖναι."
+    },
+    {
+      "n": 348,
+      "greek": "ὣς φάτο, βῆ δὲ συφορβός, ἐπεὶ τὸν μῦθον ἄκουσεν,"
+    },
+    {
+      "n": 349,
+      "greek": "ἀγχοῦ δʼ ἱστάμενος ἔπεα πτερόεντʼ ἀγόρευε·"
+    },
+    {
+      "n": 350,
+      "greek": "Τηλέμαχός τοι, ξεῖνε, διδοῖ τάδε, καί σε κελεύει"
+    },
+    {
+      "n": 351,
+      "greek": "αἰτίζειν μάλα πάντας ἐποιχόμενον μνηστῆρας·"
+    },
+    {
+      "n": 352,
+      "greek": "αἰδῶ δʼ οὐκ ἀγαθήν φησʼ ἔμμεναι ἀνδρὶ προΐκτῃ."
+    },
+    {
+      "n": 353,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 354,
+      "greek": "Ζεῦ ἄνα, Τηλέμαχόν μοι ἐν ἀνδράσιν ὄλβιον εἶναι,"
+    },
+    {
+      "n": 355,
+      "greek": "καί οἱ πάντα γένοιθʼ ὅσσα φρεσὶν ᾗσι μενοινᾷ."
+    },
+    {
+      "n": 356,
+      "greek": "ἦ ῥα καὶ ἀμφοτέρῃσιν ἐδέξατο καὶ κατέθηκεν"
+    },
+    {
+      "n": 357,
+      "greek": "αὖθι ποδῶν προπάροιθεν, ἀεικελίης ἐπὶ πήρης,"
+    },
+    {
+      "n": 358,
+      "greek": "ἤσθιε δʼ ἧος ἀοιδὸς ἐνὶ μεγάροισιν ἄειδεν·"
+    },
+    {
+      "n": 359,
+      "greek": "εὖθʼ ὁ δεδειπνήκειν, ὁ δʼ ἐπαύετο θεῖος ἀοιδός."
+    },
+    {
+      "n": 360,
+      "greek": "μνηστῆρες δʼ ὁμάδησαν ἀνὰ μέγαρʼ. αὐτὰρ Ἀθήνη,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "“Take, and give this mess to yon stranger, and bid him go about himself and beg of the wooers one and all. Shame is no good comrade for a man that is in need.” So he spoke, and the swineherd went, when he had heard this saying, and coming up to Odysseus spoke to him winged words:"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "“Stranger, Telemachus gives thee these, and bids thee go about and beg of the wooers one and all. Shame, he says, is no good thing in a beggar man.” Then Odysseus of many wiles answered him, and said, “King Zeus, grant, I pray thee, that Telemachus may be blest among men,"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "and may have all that his heart desires.” He spoke, and took the mess in both his hands and set it down there before his feet on his miserable wallet. Then he ate so long as the minstrel sang in the halls. But when he had dined and the divine minstrel was ceasing to sing,"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "the wooers broke into uproar throughout the halls; but Athena drew close to the side of Odysseus, son of Laertes, and roused him to go among the wooers and gather bits of bread, and learn which of them were righteous and which lawless. Yet even so she was not minded to save one of them from ruin."
+    }
+  ]
+}

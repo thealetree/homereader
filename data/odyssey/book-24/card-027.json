@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 540,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "εὐξάμενος δʼ ἄρʼ ἔπειτα Διὸς κούρῃ μεγάλοιο,"
+    },
+    {
+      "n": 522,
+      "greek": "αἶψα μάλʼ ἀμπεπαλὼν προΐει δολιχόσκιον ἔγχος,"
+    },
+    {
+      "n": 523,
+      "greek": "καὶ βάλεν Εὐπείθεα κόρυθος διὰ χαλκοπαρῄου."
+    },
+    {
+      "n": 524,
+      "greek": "ἡ δʼ οὐκ ἔγχος ἔρυτο, διαπρὸ δὲ εἴσατο χαλκός,"
+    },
+    {
+      "n": 525,
+      "greek": "δούπησεν δὲ πεσών, ἀράβησε δὲ τεύχεʼ ἐπʼ αὐτῷ."
+    },
+    {
+      "n": 526,
+      "greek": "ἐν δʼ ἔπεσον προμάχοις Ὀδυσεὺς καὶ φαίδιμος υἱός,"
+    },
+    {
+      "n": 527,
+      "greek": "τύπτον δὲ ξίφεσίν τε καὶ ἔγχεσιν ἀμφιγύοισι."
+    },
+    {
+      "n": 528,
+      "greek": "καί νύ κε δὴ πάντας ὄλεσαν καὶ ἔθηκαν ἀνόστους,"
+    },
+    {
+      "n": 529,
+      "greek": "εἰ μὴ Ἀθηναίη, κούρη Διὸς αἰγιόχοιο,"
+    },
+    {
+      "n": 530,
+      "greek": "ἤϋσεν φωνῇ, κατὰ ἔσχεθε λαὸν ἅπαντα."
+    },
+    {
+      "n": 531,
+      "greek": "ἴσχεσθε πτολέμου, Ἰθακήσιοι, ἀργαλέοιο,"
+    },
+    {
+      "n": 532,
+      "greek": "ὥς κεν ἀναιμωτί γε διακρινθῆτε τάχιστα."
+    },
+    {
+      "n": 533,
+      "greek": "ὣς φάτʼ Ἀθηναίη, τοὺς δὲ χλωρὸν δέος εἷλεν·"
+    },
+    {
+      "n": 534,
+      "greek": "τῶν δʼ ἄρα δεισάντων ἐκ χειρῶν ἔπτατο τεύχεα,"
+    },
+    {
+      "n": 535,
+      "greek": "πάντα δʼ ἐπὶ χθονὶ πῖπτε, θεᾶς ὄπα φωνησάσης·"
+    },
+    {
+      "n": 536,
+      "greek": "πρὸς δὲ πόλιν τρωπῶντο λιλαιόμενοι βιότοιο."
+    },
+    {
+      "n": 537,
+      "greek": "σμερδαλέον δʼ ἐβόησε πολύτλας δῖος Ὀδυσσεύς,"
+    },
+    {
+      "n": 538,
+      "greek": "οἴμησεν δὲ ἀλεὶς ὥς τʼ αἰετὸς ὑψιπετήεις."
+    },
+    {
+      "n": 539,
+      "greek": "καὶ τότε δὴ Κρονίδης ἀφίει ψολόεντα κεραυνόν,"
+    },
+    {
+      "n": 540,
+      "greek": "κὰδ δʼ ἔπεσε πρόσθε γλαυκώπιδος ὀβριμοπάτρης."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "and he fell with a thud, and his armour clanged about him. Then on the foremost fighters fell Odysseus and his glorious son, and thrust at them with swords and double-pointed spears. And now would they have slain them all, and cut them off from returning, had not Athena, daughter of Zeus, who bears the aegis,"
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "shouted aloud, and checked all the host, saying: “Refrain, men of Ithaca, from grievous war, that with all speed you may part, and that without bloodshed.” So spoke Athena, and pale fear seized them. Then in their terror the arms flew from their hands"
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "and fell one and all to the ground, as the goddess uttered her voice, and they turned toward the city, eager to save their lives. Terribly then shouted the much-enduring, goodly Odysseus, and gathering himself together he swooped upon them like an eagle of lofty flight, and at that moment the son of Cronos cast a flaming thunderbolt,"
+    },
+    {
+      "lines": [
+        540,
+        540
+      ],
+      "text": "and down it fell before the flashing-eyed daughter of the mighty sire. Then flashing-eyed Athena spoke to Odysseus saying: “Son of Laertes, sprung from Zeus, Odysseus of many devices, stay thy hand, and make the strife of equal war to cease, lest haply the son of Cronos be wroth with thee, even Zeus, whose voice is borne afar.”"
+    }
+  ]
+}

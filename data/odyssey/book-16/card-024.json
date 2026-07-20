@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 24,
+  "lineStart": 462,
+  "lineEnd": 481,
+  "lines": [
+    {
+      "n": 462,
+      "greek": "ἦ ῥʼ ἤδη μνηστῆρες ἀγήνορες ἔνδον ἔασιν"
+    },
+    {
+      "n": 463,
+      "greek": "ἐκ λόχου, ἦ ἔτι μʼ αὖτʼ εἰρύαται οἴκαδʼ ἰόντα;"
+    },
+    {
+      "n": 464,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 465,
+      "greek": "οὐκ ἔμελέν μοι ταῦτα μεταλλῆσαι καὶ ἐρέσθαι"
+    },
+    {
+      "n": 466,
+      "greek": "ἄστυ καταβλώσκοντα· τάχιστά με θυμὸς ἀνώγει"
+    },
+    {
+      "n": 467,
+      "greek": "ἀγγελίην εἰπόντα πάλιν δεῦρʼ ἀπονέεσθαι."
+    },
+    {
+      "n": 468,
+      "greek": "ὡμήρησε δέ μοι παρʼ ἑταίρων ἄγγελος ὠκύς,"
+    },
+    {
+      "n": 469,
+      "greek": "κῆρυξ, ὃς δὴ πρῶτος ἔπος σῇ μητρὶ ἔειπεν."
+    },
+    {
+      "n": 470,
+      "greek": "ἄλλο δέ τοι τό γε οἶδα· τὸ γὰρ ἴδον ὀφθαλμοῖσιν."
+    },
+    {
+      "n": 471,
+      "greek": "ἤδη ὑπὲρ πόλιος, ὅθι θʼ Ἕρμαιος λόφος ἐστίν,"
+    },
+    {
+      "n": 472,
+      "greek": "ἦα κιών, ὅτε νῆα θοὴν ἰδόμην κατιοῦσαν"
+    },
+    {
+      "n": 473,
+      "greek": "ἐς λιμένʼ ἡμέτερον· πολλοὶ δʼ ἔσαν ἄνδρες ἐν αὐτῇ,"
+    },
+    {
+      "n": 474,
+      "greek": "βεβρίθει δὲ σάκεσσι καὶ ἔγχεσιν ἀμφιγύοισι·"
+    },
+    {
+      "n": 475,
+      "greek": "καὶ σφέας ὠΐσθην τοὺς ἔμμεναι, οὐδέ τι οἶδα."
+    },
+    {
+      "n": 476,
+      "greek": "ὣς φάτο, μείδησεν δʼ ἱερὴ ἲς Τηλεμάχοιο"
+    },
+    {
+      "n": 477,
+      "greek": "ἐς πατέρʼ ὀφθαλμοῖσιν ἰδών, ἀλέεινε δʼ ὑφορβόν."
+    },
+    {
+      "n": 478,
+      "greek": "οἱ δʼ ἐπεὶ οὖν παύσαντο πόνου τετύκοντό τε δαῖτα,"
+    },
+    {
+      "n": 479,
+      "greek": "δαίνυντʼ, οὐδέ τι θυμὸς ἐδεύετο δαιτὸς ἐΐσης."
+    },
+    {
+      "n": 480,
+      "greek": "αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,"
+    },
+    {
+      "n": 481,
+      "greek": "κοίτου τε μνήσαντο καὶ ὕπνου δῶρον ἕλοντο."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        465,
+        469
+      ],
+      "text": "“I was not minded to go about the city, asking and enquiring of this; my heart bade me with all speed to come back hither when I had given my message. But there joined me a swift messenger from thy companions, a herald, who was the first to tell the news to thy mother."
+    },
+    {
+      "lines": [
+        470,
+        474
+      ],
+      "text": "And this further thing I know, for I saw it with my eyes. I was now above the city, as I went on my way, where the hill of Hermes is, when I saw a swift ship putting into our harbor, and there were many men in her, and she was laden with shields and double-pointed spears."
+    },
+    {
+      "lines": [
+        475,
+        479
+      ],
+      "text": "And I thought it was they, but I have no knowledge.” So he spoke, and the strong and mighty Telemachus smiled and with his eyes he glanced at his father, but shunned the swineherd's eye. And when they had ceased from their labour and had made ready the meal, they fell to feasting, nor did their hearts lack aught of the equal feast."
+    },
+    {
+      "lines": [
+        480,
+        481
+      ],
+      "text": "But when they had put from them the desire of food and drink, they bethought them of rest, and took the gift of sleep."
+    }
+  ]
+}

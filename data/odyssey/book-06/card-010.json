@@ -1,0 +1,122 @@
+{
+  "book": 6,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ἄνδρα τε καὶ οἶκον, καὶ ὁμοφροσύνην ὀπάσειαν"
+    },
+    {
+      "n": 182,
+      "greek": "ἐσθλήν· οὐ μὲν γὰρ τοῦ γε κρεῖσσον καὶ ἄρειον,"
+    },
+    {
+      "n": 183,
+      "greek": "ἢ ὅθʼ ὁμοφρονέοντε νοήμασιν οἶκον ἔχητον"
+    },
+    {
+      "n": 184,
+      "greek": "ἀνὴρ ἠδὲ γυνή· πόλλʼ ἄλγεα δυσμενέεσσι,"
+    },
+    {
+      "n": 185,
+      "greek": "χάρματα δʼ εὐμενέτῃσι, μάλιστα δέ τʼ ἔκλυον αὐτοί."
+    },
+    {
+      "n": 186,
+      "greek": "τὸν δʼ αὖ Ναυσικάα λευκώλενος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 187,
+      "greek": "ξεῖνʼ, ἐπεὶ οὔτε κακῷ οὔτʼ ἄφρονι φωτὶ ἔοικας·"
+    },
+    {
+      "n": 188,
+      "greek": "Ζεὺς δʼ αὐτὸς νέμει ὄλβον Ὀλύμπιος ἀνθρώποισιν,"
+    },
+    {
+      "n": 189,
+      "greek": "ἐσθλοῖς ἠδὲ κακοῖσιν, ὅπως ἐθέλῃσιν, ἑκάστῳ·"
+    },
+    {
+      "n": 190,
+      "greek": "καί που σοὶ τάδʼ ἔδωκε, σὲ δὲ χρὴ τετλάμεν ἔμπης."
+    },
+    {
+      "n": 191,
+      "greek": "νῦν δʼ, ἐπεὶ ἡμετέρην τε πόλιν καὶ γαῖαν ἱκάνεις,"
+    },
+    {
+      "n": 192,
+      "greek": "οὔτʼ οὖν ἐσθῆτος δευήσεαι οὔτε τευ ἄλλου,"
+    },
+    {
+      "n": 193,
+      "greek": "ὧν ἐπέοιχʼ ἱκέτην ταλαπείριον ἀντιάσαντα."
+    },
+    {
+      "n": 194,
+      "greek": "ἄστυ δέ τοι δείξω, ἐρέω δέ τοι οὔνομα λαῶν."
+    },
+    {
+      "n": 195,
+      "greek": "Φαίηκες μὲν τήνδε πόλιν καὶ γαῖαν ἔχουσιν,"
+    },
+    {
+      "n": 196,
+      "greek": "εἰμὶ δʼ ἐγὼ θυγάτηρ μεγαλήτορος Ἀλκινόοιο,"
+    },
+    {
+      "n": 197,
+      "greek": "τοῦ δʼ ἐκ Φαιήκων ἔχεται κάρτος τε βίη τε."
+    },
+    {
+      "n": 198,
+      "greek": "ἦ ῥα καὶ ἀμφιπόλοισιν ἐυπλοκάμοισι κέλευσε·"
+    },
+    {
+      "n": 199,
+      "greek": "στῆτέ μοι, ἀμφίπολοι· πόσε φεύγετε φῶτα ἰδοῦσαι;"
+    },
+    {
+      "n": 200,
+      "greek": "ἦ μή πού τινα δυσμενέων φάσθʼ ἔμμεναι ἀνδρῶν;"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "and a joy to their friends; but they know it best themselves.” Then white-armed Nausicaa answered him:“Stranger, since thou seemest to be neither an evil man nor a witless, and it is Zeus himself, the Olympian, that gives happy fortune to men, both to the good and the evil, to each man as he will;"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "so to thee, I ween, he has given this lot, and thou must in any case endure it. But now, since thou hast come to our city and land, thou shalt not lack clothing or aught else of those things which befit a sore-tried suppliant when he cometh in the way. The city will I shew thee, and will tell thee the name of the people."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "The Phaeacians possess this city and land, and I am the daughter of great-hearted Alcinous, upon whom depend the might and power of the Phaeacians.” She spoke, and called to her fair-tressed handmaids:“Stand, my maidens. Whither do ye flee at the sight of a man?"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "Ye do not think, surely, that he is an enemy? That mortal man lives not, or exists nor shall ever be born who shall come to the land of the Phaeacians as a foeman, for we are very dear to the immortals. Far off we dwell in the surging sea,"
+    }
+  ]
+}

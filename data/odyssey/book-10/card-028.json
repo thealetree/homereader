@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 28,
+  "lineStart": 542,
+  "lineEnd": 561,
+  "lines": [
+    {
+      "n": 542,
+      "greek": "ἀμφὶ δέ με χλαῖνάν τε χιτῶνά τε εἵματα ἕσσεν·"
+    },
+    {
+      "n": 543,
+      "greek": "αὐτὴ δʼ ἀργύφεον φᾶρος μέγα ἕννυτο νύμφη,"
+    },
+    {
+      "n": 544,
+      "greek": "λεπτὸν καὶ χαρίεν, περὶ δὲ ζώνην βάλετʼ ἰξυῖ"
+    },
+    {
+      "n": 545,
+      "greek": "καλὴν χρυσείην, κεφαλῇ δʼ ἐπέθηκε καλύπτρην."
+    },
+    {
+      "n": 546,
+      "greek": "αὐτὰρ ἐγὼ διὰ δώματʼ ἰὼν ὤτρυνον ἑταίρους"
+    },
+    {
+      "n": 547,
+      "greek": "μειλιχίοις ἐπέεσσι παρασταδὸν ἄνδρα ἕκαστον·"
+    },
+    {
+      "n": 548,
+      "greek": "μηκέτι νῦν εὕδοντες ἀωτεῖτε γλυκὺν ὕπνον,"
+    },
+    {
+      "n": 549,
+      "greek": "ἀλλʼ ἴομεν· δὴ γάρ μοι ἐπέφραδε πότνια Κίρκη."
+    },
+    {
+      "n": 550,
+      "greek": "ὣς ἐφάμην, τοῖσιν δʼ ἐπεπείθετο θυμὸς ἀγήνωρ."
+    },
+    {
+      "n": 551,
+      "greek": "οὐδὲ μὲν οὐδʼ ἔνθεν περ ἀπήμονας ἦγον ἑταίρους."
+    },
+    {
+      "n": 552,
+      "greek": "Ἐλπήνωρ δέ τις ἔσκε νεώτατος, οὔτε τι λίην"
+    },
+    {
+      "n": 553,
+      "greek": "ἄλκιμος ἐν πολέμῳ οὔτε φρεσὶν ᾗσιν ἀρηρώς·"
+    },
+    {
+      "n": 554,
+      "greek": "ὅς μοι ἄνευθʼ ἑτάρων ἱεροῖς ἐν δώμασι Κίρκης,"
+    },
+    {
+      "n": 555,
+      "greek": "ψύχεος ἱμείρων, κατελέξατο οἰνοβαρείων."
+    },
+    {
+      "n": 556,
+      "greek": "κινυμένων δʼ ἑτάρων ὅμαδον καὶ δοῦπον ἀκούσας"
+    },
+    {
+      "n": 557,
+      "greek": "ἐξαπίνης ἀνόρουσε καὶ ἐκλάθετο φρεσὶν ᾗσιν"
+    },
+    {
+      "n": 558,
+      "greek": "ἄψορρον καταβῆναι ἰὼν ἐς κλίμακα μακρήν,"
+    },
+    {
+      "n": 559,
+      "greek": "ἀλλὰ καταντικρὺ τέγεος πέσεν· ἐκ δέ οἱ αὐχὴν"
+    },
+    {
+      "n": 560,
+      "greek": "ἀστραγάλων ἐάγη, ψυχὴ δʼ Ἄϊδόσδε κατῆλθεν."
+    },
+    {
+      "n": 561,
+      "greek": "ἐρχομένοισι δὲ τοῖσιν ἐγὼ μετὰ μῦθον ἔειπον·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        545,
+        549
+      ],
+      "text": "a fair girdle of gold, and upon her head she put a veil. But I went through the halls, and roused my men with gentle words, coming up to each man in turn. “‘No longer now sleep ye, and drowse in sweet slumber, but let us go; lo! queenly Circe has told me all.’"
+    },
+    {
+      "lines": [
+        550,
+        554
+      ],
+      "text": "“So I spoke, and their proud hearts consented. But not even from thence could I lead my men unscathed. There was one, Elpenor, the youngest of all, not over valiant in war nor sound of understanding, who had laid him down apart from his comrades in the sacred house of Circe,"
+    },
+    {
+      "lines": [
+        555,
+        559
+      ],
+      "text": "seeking the cool air, for he was heavy with wine. He heard the noise and the bustle of his comrades as they moved about, and suddenly sprang up, and forgot to go to the long ladder that he might come down again, but fell headlong from the roof, and his neck"
+    },
+    {
+      "lines": [
+        560,
+        561
+      ],
+      "text": "was broken away from the spine, and his spirit went down to the house of Hades. “But as my men were going on their way I spoke among them, saying: ‘Ye think, forsooth, that ye are going to your dear native land; but Circe has pointed out for us another journey, even to the house of Hades and dread Persephone,"
+    }
+  ]
+}

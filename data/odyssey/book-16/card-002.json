@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 2,
+  "lineStart": 21,
+  "lineEnd": 40,
+  "lines": [
+    {
+      "n": 21,
+      "greek": "πάντα κύσεν περιφύς, ὡς ἐκ θανάτοιο φυγόντα·"
+    },
+    {
+      "n": 22,
+      "greek": "καί ῥʼ ὀλοφυρόμενος ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 23,
+      "greek": "ἦλθες, Τηλέμαχε, γλυκερὸν φάος. οὔ σʼ ἔτʼ ἐγώ γε"
+    },
+    {
+      "n": 24,
+      "greek": "ὄψεσθαι ἐφάμην, ἐπεὶ ᾤχεο νηῒ Πύλονδε."
+    },
+    {
+      "n": 25,
+      "greek": "ἀλλʼ ἄγε νῦν εἴσελθε, φίλον τέκος, ὄφρα σε θυμῷ"
+    },
+    {
+      "n": 26,
+      "greek": "τέρψομαι εἰσορόων νέον ἄλλοθεν ἔνδον ἐόντα."
+    },
+    {
+      "n": 27,
+      "greek": "οὐ μὲν γάρ τι θάμʼ ἀγρὸν ἐπέρχεαι οὐδὲ νομῆας,"
+    },
+    {
+      "n": 28,
+      "greek": "ἀλλʼ ἐπιδημεύεις· ὣς γάρ νύ τοι εὔαδε θυμῷ,"
+    },
+    {
+      "n": 29,
+      "greek": "ἀνδρῶν μνηστήρων ἐσορᾶν ἀΐδηλον ὅμιλον."
+    },
+    {
+      "n": 30,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 31,
+      "greek": "ἔσσεται οὕτως, ἄττα· σέθεν δʼ ἕνεκʼ ἐνθάδʼ ἱκάνω,"
+    },
+    {
+      "n": 32,
+      "greek": "ὄφρα σέ τʼ ὀφθαλμοῖσιν ἴδω καὶ μῦθον ἀκούσω,"
+    },
+    {
+      "n": 33,
+      "greek": "ἤ μοι ἔτʼ ἐν μεγάροις μήτηρ μένει, ἦέ τις ἤδη"
+    },
+    {
+      "n": 34,
+      "greek": "ἀνδρῶν ἄλλος ἔγημεν, Ὀδυσσῆος δέ που εὐνὴ"
+    },
+    {
+      "n": 35,
+      "greek": "χήτει ἐνευναίων κάκʼ ἀράχνια κεῖται ἔχουσα."
+    },
+    {
+      "n": 36,
+      "greek": "τὸν δʼ αὖτε προσέειπε συβώτης, ὄρχαμος ἀνδρῶν·"
+    },
+    {
+      "n": 37,
+      "greek": "καὶ λίην κείνη γε μένει τετληότι θυμῷ"
+    },
+    {
+      "n": 38,
+      "greek": "σοῖσιν ἐνὶ μεγάροισιν· ὀϊζυραὶ δέ οἱ αἰεὶ"
+    },
+    {
+      "n": 39,
+      "greek": "φθίνουσιν νύκτες τε καὶ ἤματα δάκρυ χεούσῃ."
+    },
+    {
+      "n": 40,
+      "greek": "ὣς ἄρα φωνήσας οἱ ἐδέξατο χάλκεον ἔγχος·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "But come, enter in, dear child, that I may delight my heart with looking at thee here in my house, who art newly come from other lands. For thou dost not often visit the farm and the herdsmen, but abidest in the town; so, I ween, has it seemed good to thy heart, to look upon the destructive throng of the wooers.”"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "Then wise Telemachus answered him: “So shall it be, father. It is for thy sake that I am come hither, to see thee with my eyes, and to hear thee tell whether my mother still abides in the halls, or whether by now some other man has wedded her, and the couch of Odysseus"
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "lies haply in want of bedding, covered with foul spider-webs.” Then the swineherd, a leader of men, answered him: “Aye, verily, she abides with steadfast heart in thy halls, and ever sorrowfully for her the nights and the days wane as she weeps.”"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "So saying, he took from him the spear of bronze, and Telemachus went in and passed over the stone threshold. As he drew near, his father, Odysseus, rose from his seat and gave him place, but Telemachus on his part checked him, and said: “Be seated, stranger, and we shall find a seat elsewhere"
+    }
+  ]
+}

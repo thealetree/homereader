@@ -1,0 +1,122 @@
+{
+  "book": 2,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "ὄρνιθες δέ τε πολλοὶ ὑπʼ αὐγὰς ἠελίοιο"
+    },
+    {
+      "n": 182,
+      "greek": "φοιτῶσʼ, οὐδέ τε πάντες ἐναίσιμοι· αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 183,
+      "greek": "ὤλετο τῆλʼ, ὡς καὶ σὺ καταφθίσθαι σὺν ἐκείνῳ"
+    },
+    {
+      "n": 184,
+      "greek": "ὤφελες. οὐκ ἂν τόσσα θεοπροπέων ἀγόρευες,"
+    },
+    {
+      "n": 185,
+      "greek": "οὐδέ κε Τηλέμαχον κεχολωμένον ὧδʼ ἀνιείης,"
+    },
+    {
+      "n": 186,
+      "greek": "σῷ οἴκῳ δῶρον ποτιδέγμενος, αἴ κε πόρῃσιν."
+    },
+    {
+      "n": 187,
+      "greek": "ἀλλʼ ἔκ τοι ἐρέω, τὸ δὲ καὶ τετελεσμένον ἔσται·"
+    },
+    {
+      "n": 188,
+      "greek": "αἴ κε νεώτερον ἄνδρα παλαιά τε πολλά τε εἰδὼς"
+    },
+    {
+      "n": 189,
+      "greek": "παρφάμενος ἐπέεσσιν ἐποτρύνῃς χαλεπαίνειν,"
+    },
+    {
+      "n": 190,
+      "greek": "αὐτῷ μέν οἱ πρῶτον ἀνιηρέστερον ἔσται,"
+    },
+    {
+      "n": 191,
+      "greek": "πρῆξαι δʼ ἔμπης οὔ τι δυνήσεται εἵνεκα τῶνδε·"
+    },
+    {
+      "n": 192,
+      "greek": "σοὶ δέ, γέρον, θωὴν ἐπιθήσομεν, ἥν κʼ ἐνὶ θυμῷ"
+    },
+    {
+      "n": 193,
+      "greek": "τίνων ἀσχάλλῃς· χαλεπὸν δέ τοι ἔσσεται ἄλγος."
+    },
+    {
+      "n": 194,
+      "greek": "Τηλεμάχῳ δʼ ἐν πᾶσιν ἐγὼν ὑποθήσομαι αὐτός·"
+    },
+    {
+      "n": 195,
+      "greek": "μητέρα ἣν ἐς πατρὸς ἀνωγέτω ἀπονέεσθαι·"
+    },
+    {
+      "n": 196,
+      "greek": "οἱ δὲ γάμον τεύξουσι καὶ ἀρτυνέουσιν ἔεδνα"
+    },
+    {
+      "n": 197,
+      "greek": "πολλὰ μάλʼ, ὅσσα ἔοικε φίλης ἐπὶ παιδὸς ἕπεσθαι."
+    },
+    {
+      "n": 198,
+      "greek": "οὐ γὰρ πρὶν παύσεσθαι ὀίομαι υἷας Ἀχαιῶν"
+    },
+    {
+      "n": 199,
+      "greek": "μνηστύος ἀργαλέης, ἐπεὶ οὔ τινα δείδιμεν ἔμπης,"
+    },
+    {
+      "n": 200,
+      "greek": "οὔτʼ οὖν Τηλέμαχον μάλα περ πολύμυθον ἐόντα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "or be urging Telemachus on in his wrath, hoping for some gift for thy house, if haply he shall give it. But I will speak out to thee, and this word shall verily be brought to pass. If thou, wise in the wisdom of old, shalt beguile with thy talk a younger man, and set him on to be wroth,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "for him in the first place it shall be the more grievous, and he will in no case be able to do aught because of these men here, and on thee, old man, will we lay a fine which it will grieve thy soul to pay, and bitter shall be thy sorrow. And to Telemachus I myself, here among all, will offer this counsel."
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "His mother let him bid to go back to the house of her father, and they will prepare a wedding feast and make ready the gifts full many,—aye, all that should follow after a well-loved daughter. For ere that, methinks, the sons of the Achaeans will not cease from their grievous wooing, since in any case we fear no man,—"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "no, not Telemachus for all his many words,—nor do we reck of any soothsaying which thou, old man, mayest declare; it will fail of fulfillment, and thou shalt be hated the more. Aye, and his possessions shall be devoured in evil wise, nor shall requital ever be made, so long as she shall put off the Achaeans"
+    }
+  ]
+}

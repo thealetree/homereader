@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 5,
+  "lineStart": 81,
+  "lineEnd": 100,
+  "lines": [
+    {
+      "n": 81,
+      "greek": "οὐδʼ ἄρʼ Ὀδυσσῆα μεγαλήτορα ἔνδον ἔτετμεν,"
+    },
+    {
+      "n": 82,
+      "greek": "ἀλλʼ ὅ γʼ ἐπʼ ἀκτῆς κλαῖε καθήμενος, ἔνθα πάρος περ,"
+    },
+    {
+      "n": 83,
+      "greek": "δάκρυσι καὶ στοναχῇσι καὶ ἄλγεσι θυμὸν ἐρέχθων."
+    },
+    {
+      "n": 84,
+      "greek": "πόντον ἐπʼ ἀτρύγετον δερκέσκετο δάκρυα λείβων."
+    },
+    {
+      "n": 85,
+      "greek": "Ἑρμείαν δʼ ἐρέεινε Καλυψώ, δῖα θεάων,"
+    },
+    {
+      "n": 86,
+      "greek": "ἐν θρόνῳ ἱδρύσασα φαεινῷ σιγαλόεντι·"
+    },
+    {
+      "n": 87,
+      "greek": "τίπτε μοι, Ἑρμεία χρυσόρραπι, εἰλήλουθας"
+    },
+    {
+      "n": 88,
+      "greek": "αἰδοῖός τε φίλος τε; πάρος γε μὲν οὔ τι θαμίζεις."
+    },
+    {
+      "n": 89,
+      "greek": "αὔδα ὅ τι φρονέεις· τελέσαι δέ με θυμὸς ἄνωγεν,"
+    },
+    {
+      "n": 90,
+      "greek": "εἰ δύναμαι τελέσαι γε καὶ εἰ τετελεσμένον ἐστίν."
+    },
+    {
+      "n": 91,
+      "greek": "ἀλλʼ ἕπεο προτέρω, ἵνα τοι πὰρ ξείνια θείω."
+    },
+    {
+      "n": 92,
+      "greek": "ὥς ἄρα φωνήσασα θεὰ παρέθηκε τράπεζαν"
+    },
+    {
+      "n": 93,
+      "greek": "ἀμβροσίης πλήσασα, κέρασσε δὲ νέκταρ ἐρυθρόν."
+    },
+    {
+      "n": 94,
+      "greek": "αὐτὰρ ὁ πῖνε καὶ ἦσθε διάκτορος ἀργεϊφόντης."
+    },
+    {
+      "n": 95,
+      "greek": "αὐτὰρ ἐπεὶ δείπνησε καὶ ἤραρε θυμὸν ἐδωδῇ,"
+    },
+    {
+      "n": 96,
+      "greek": "καὶ τότε δή μιν ἔπεσσιν ἀμειβόμενος προσέειπεν·"
+    },
+    {
+      "n": 97,
+      "greek": "εἰρωτᾷς μʼ ἐλθόντα θεὰ θεόν· αὐτὰρ ἐγώ τοι"
+    },
+    {
+      "n": 98,
+      "greek": "νημερτέως τὸν μῦθον ἐνισπήσω· κέλεαι γάρ."
+    },
+    {
+      "n": 99,
+      "greek": "Ζεὺς ἐμέ γʼ ἠνώγει δεῦρʼ ἐλθέμεν οὐκ ἐθέλοντα·"
+    },
+    {
+      "n": 100,
+      "greek": "τίς δʼ ἂν ἑκὼν τοσσόνδε διαδράμοι ἁλμυρὸν ὕδωρ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "And Calypso, the beautiful goddess, questioned Hermes, when she had made him sit on a bright shining chair: “Why, pray, Hermes of the golden wand, hast thou come, an honorable guest and welcome? heretofore thou hast not been wont to come. Speak what is in thy mind; my heart bids me fulfil it,"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "if fulfil it I can, and it is a thing that hath fulfillment. But follow me further, that I may set before thee entertainment.” So saying, the goddess set before him a table laden with ambrosia, and mixed the ruddy nectar. So he drank and ate, the messenger Argeiphontes."
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "But when he had dined and satisfied his soul with food, then he made answer, and addressed her, saying: “Thou, a goddess, dost question me, a god, upon my coming, and I will speak my word truly, since thou biddest me. It was Zeus who bade me come hither against my will."
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "Who of his own will would speed over so great space of salt sea-water, great past telling? Nor is there at hand any city of mortals who offer to the gods sacrifice and choice hecatombs. But it is in no wise possible for any other god to evade or make void the will of Zeus, who bears the aegis."
+    }
+  ]
+}

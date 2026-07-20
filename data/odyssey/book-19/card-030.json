@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 30,
+  "lineStart": 581,
+  "lineEnd": 600,
+  "lines": [
+    {
+      "n": 581,
+      "greek": "τοῦ ποτὲ μεμνήσεσθαι ὀΐομαι ἔν περ ὀνείρῳ."
+    },
+    {
+      "n": 582,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς"
+    },
+    {
+      "n": 583,
+      "greek": "ὦ γύναι αἰδοίη Λαερτιάδεω Ὀδυσῆος,"
+    },
+    {
+      "n": 584,
+      "greek": "μηκέτι νῦν ἀνάβαλλε δόμοις ἔνι τοῦτον ἄεθλον·"
+    },
+    {
+      "n": 585,
+      "greek": "πρὶν γάρ τοι πολύμητις ἐλεύσεται ἐνθάδʼ Ὀδυσσεύς,"
+    },
+    {
+      "n": 586,
+      "greek": "πρὶν τούτους τόδε τόξον ἐΰξοον ἀμφαφόωντας"
+    },
+    {
+      "n": 587,
+      "greek": "νευρήν τʼ ἐντανύσαι διοϊστεῦσαί τε σιδήρου."
+    },
+    {
+      "n": 588,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 589,
+      "greek": "εἴ κʼ ἐθέλοις μοι, ξεῖνε, παρήμενος ἐν μεγάροισι"
+    },
+    {
+      "n": 590,
+      "greek": "τέρπειν, οὔ κέ μοι ὕπνος ἐπὶ βλεφάροισι χυθείη."
+    },
+    {
+      "n": 591,
+      "greek": "ἀλλʼ οὐ γάρ πως ἔστιν ἀΰπνους ἔμμεναι αἰεὶ"
+    },
+    {
+      "n": 592,
+      "greek": "ἀνθρώπους· ἐπὶ γάρ τοι ἑκάστῳ μοῖραν ἔθηκαν"
+    },
+    {
+      "n": 593,
+      "greek": "ἀθάνατοι θνητοῖσιν ἐπὶ ζείδωρον ἄρουραν."
+    },
+    {
+      "n": 594,
+      "greek": "ἀλλʼ ἦ τοι μὲν ἐγὼν ὑπερώϊον εἰσαναβᾶσα"
+    },
+    {
+      "n": 595,
+      "greek": "λέξομαι εἰς εὐνήν, ἥ μοι στονόεσσα τέτυκται,"
+    },
+    {
+      "n": 596,
+      "greek": "αἰεὶ δάκρυσʼ ἐμοῖσι πεφυρμένη, ἐξ οὗ Ὀδυσσεὺς"
+    },
+    {
+      "n": 597,
+      "greek": "ᾤχετʼ ἐποψόμενος Κακοΐλιον οὐκ ὀνομαστήν."
+    },
+    {
+      "n": 598,
+      "greek": "ἔνθα κε λεξαίμην· σὺ δὲ λέξεο τῷδʼ ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 599,
+      "greek": "ἢ χαμάδις στορέσας ἤ τοι κατὰ δέμνια θέντων."
+    },
+    {
+      "n": 600,
+      "greek": "ὣς εἰποῦσʼ ἀνέβαινʼ ὑπερώϊα σιγαλόεντα,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        585,
+        589
+      ],
+      "text": "for, I tell thee, Odysseus of many wiles will be here, ere these men, handling this polished bow, shall have strung it, and shot an arrow through the iron.” Then wise Penelope answered him: “If thou couldest but wish, stranger, to sit here in my halls"
+    },
+    {
+      "lines": [
+        590,
+        594
+      ],
+      "text": "and give me joy, sleep should never be shed over my eyelids. But it is in no wise possible that men should forever be sleepless, for the immortals have appointed a proper time for each thing upon the earth, the giver of grain. But I verily will go to my upper chamber"
+    },
+    {
+      "lines": [
+        595,
+        599
+      ],
+      "text": "and lay me on my bed, which has become for me a bed of wailings, ever bedewed with my tears, since the day when Odysseus went to see evil Ilios, that should never be named. There will I lay me down, but do thou lie down here in the hall, when thou hast strewn bedding on the floor; or let the maids set a bedstead for thee.”"
+    },
+    {
+      "lines": [
+        600,
+        600
+      ],
+      "text": "So saying, she went up to her bright upper chamber, not alone, for with her went her handmaids as well. And when she had gone up to her upper chamber with her handmaids, she then bewailed Odysseus, her dear husband, until flashing-eyed Athena cast sweet sleep upon her eyelids."
+    }
+  ]
+}

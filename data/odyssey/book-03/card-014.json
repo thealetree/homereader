@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "κλαῦσεν Ἀχαιιάδων· μάλα γὰρ μέγα μήσατο ἔργον."
+    },
+    {
+      "n": 262,
+      "greek": "ἡμεῖς μὲν γὰρ κεῖθι πολέας τελέοντες ἀέθλους"
+    },
+    {
+      "n": 263,
+      "greek": "ἥμεθʼ· ὁ δʼ εὔκηλος μυχῷ Ἄργεος ἱπποβότοιο"
+    },
+    {
+      "n": 264,
+      "greek": "πόλλʼ Ἀγαμεμνονέην ἄλοχον θέλγεσκʼ ἐπέεσσιν."
+    },
+    {
+      "n": 265,
+      "greek": "ἡ δʼ ἦ τοι τὸ πρὶν μὲν ἀναίνετο ἔργον ἀεικὲς"
+    },
+    {
+      "n": 266,
+      "greek": "δῖα Κλυταιμνήστρη· φρεσὶ γὰρ κέχρητʼ ἀγαθῇσι·"
+    },
+    {
+      "n": 267,
+      "greek": "πὰρ δʼ ἄρʼ ἔην καὶ ἀοιδὸς ἀνήρ, ᾧ πόλλʼ ἐπέτελλεν"
+    },
+    {
+      "n": 268,
+      "greek": "Ἀτρεΐδης Τροίηνδε κιὼν εἴρυσθαι ἄκοιτιν."
+    },
+    {
+      "n": 269,
+      "greek": "ἀλλʼ ὅτε δή μιν μοῖρα θεῶν ἐπέδησε δαμῆναι,"
+    },
+    {
+      "n": 270,
+      "greek": "δὴ τότε τὸν μὲν ἀοιδὸν ἄγων ἐς νῆσον ἐρήμην"
+    },
+    {
+      "n": 271,
+      "greek": "κάλλιπεν οἰωνοῖσιν ἕλωρ καὶ κύρμα γενέσθαι,"
+    },
+    {
+      "n": 272,
+      "greek": "τὴν δʼ ἐθέλων ἐθέλουσαν ἀνήγαγεν ὅνδε δόμονδε."
+    },
+    {
+      "n": 273,
+      "greek": "πολλὰ δὲ μηρίʼ ἔκηε θεῶν ἱεροῖς ἐπὶ βωμοῖς,"
+    },
+    {
+      "n": 274,
+      "greek": "πολλὰ δʼ ἀγάλματʼ ἀνῆψεν, ὑφάσματά τε χρυσόν τε,"
+    },
+    {
+      "n": 275,
+      "greek": "ἐκτελέσας μέγα ἔργον, ὃ οὔ ποτε ἔλπετο θυμῷ."
+    },
+    {
+      "n": 276,
+      "greek": "ἡμεῖς μὲν γὰρ ἅμα πλέομεν Τροίηθεν ἰόντες,"
+    },
+    {
+      "n": 277,
+      "greek": "Ἀτρεΐδης καὶ ἐγώ, φίλα εἰδότες ἀλλήλοισιν·"
+    },
+    {
+      "n": 278,
+      "greek": "ἀλλʼ ὅτε Σούνιον ἱρὸν ἀφικόμεθʼ, ἄκρον Ἀθηνέων,"
+    },
+    {
+      "n": 279,
+      "greek": "ἔνθα κυβερνήτην Μενελάου Φοῖβος Ἀπόλλων"
+    },
+    {
+      "n": 280,
+      "greek": "οἷς ἀγανοῖς βελέεσσιν ἐποιχόμενος κατέπεφνε,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "Now at the first she put from her the unseemly deed, the beautiful Clytemnestra, for she had an understanding heart; and with her was furthermore a minstrel whom the son of Atreus straitly charged, when he set forth for the land of Troy, to guard his wife. But when at length the doom of the gods bound her that she should be overcome,"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "then verily Aegisthus took the minstrel to a desert isle and left him to be the prey and spoil of birds; and her, willing as he was willing, he led to his own house. And many thigh-pieces he burned upon the holy altars of the gods, and many offerings he hung up, woven stuffs and gold,"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "since he had accomplished a mighty deed beyond all his heart had hoped. “Now we were sailing together on our way from Troy, the son of Atreus and I, in all friendship; but when we came to holy Sunium, the cape of Athens, there Phoebus Apollo"
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "assailed with his gentle shafts and slew the helmsman of Menelaus, as he held in his hands the steering-oar of the speeding ship, even Phrontis, son of Onetor, who excelled the tribes of men in piloting a ship when the storm winds blow strong. So Menelaus tarried there, though eager for his journey,"
+    }
+  ]
+}

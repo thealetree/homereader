@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 15,
+  "lineStart": 281,
+  "lineEnd": 300,
+  "lines": [
+    {
+      "n": 281,
+      "greek": "ὣς φάτο πειράζων, ἐμὲ δʼ οὐ λάθεν εἰδότα πολλά,"
+    },
+    {
+      "n": 282,
+      "greek": "ἀλλά μιν ἄψορρον προσέφην δολίοις ἐπέεσσι·"
+    },
+    {
+      "n": 283,
+      "greek": "νέα μέν μοι κατέαξε Ποσειδάων ἐνοσίχθων"
+    },
+    {
+      "n": 284,
+      "greek": "πρὸς πέτρῃσι βαλὼν ὑμῆς ἐπὶ πείρασι γαίης,"
+    },
+    {
+      "n": 285,
+      "greek": "ἄκρῃ προσπελάσας· ἄνεμος δʼ ἐκ πόντου ἔνεικεν·"
+    },
+    {
+      "n": 286,
+      "greek": "αὐτὰρ ἐγὼ σὺν τοῖσδε ὑπέκφυγον αἰπὺν ὄλεθρον."
+    },
+    {
+      "n": 287,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ οὐδὲν ἀμείβετο νηλέι θυμῷ,"
+    },
+    {
+      "n": 288,
+      "greek": "ἀλλʼ ὅ γʼ ἀναΐξας ἑτάροις ἐπὶ χεῖρας ἴαλλε,"
+    },
+    {
+      "n": 289,
+      "greek": "σὺν δὲ δύω μάρψας ὥς τε σκύλακας ποτὶ γαίῃ"
+    },
+    {
+      "n": 290,
+      "greek": "κόπτʼ· ἐκ δʼ ἐγκέφαλος χαμάδις ῥέε, δεῦε δὲ γαῖαν."
+    },
+    {
+      "n": 291,
+      "greek": "τοὺς δὲ διὰ μελεϊστὶ ταμὼν ὡπλίσσατο δόρπον·"
+    },
+    {
+      "n": 292,
+      "greek": "ἤσθιε δʼ ὥς τε λέων ὀρεσίτροφος, οὐδʼ ἀπέλειπεν,"
+    },
+    {
+      "n": 293,
+      "greek": "ἔγκατά τε σάρκας τε καὶ ὀστέα μυελόεντα."
+    },
+    {
+      "n": 294,
+      "greek": "ἡμεῖς δὲ κλαίοντες ἀνεσχέθομεν Διὶ χεῖρας,"
+    },
+    {
+      "n": 295,
+      "greek": "σχέτλια ἔργʼ ὁρόωντες, ἀμηχανίη δʼ ἔχε θυμόν."
+    },
+    {
+      "n": 296,
+      "greek": "αὐτὰρ ἐπεὶ Κύκλωψ μεγάλην ἐμπλήσατο νηδὺν"
+    },
+    {
+      "n": 297,
+      "greek": "ἀνδρόμεα κρέʼ ἔδων καὶ ἐπʼ ἄκρητον γάλα πίνων,"
+    },
+    {
+      "n": 298,
+      "greek": "κεῖτʼ ἔντοσθʼ ἄντροιο τανυσσάμενος διὰ μήλων."
+    },
+    {
+      "n": 299,
+      "greek": "τὸν μὲν ἐγὼ βούλευσα κατὰ μεγαλήτορα θυμὸν"
+    },
+    {
+      "n": 300,
+      "greek": "ἆσσον ἰών, ξίφος ὀξὺ ἐρυσσάμενος παρὰ μηροῦ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "for he brought her close to the headland, and the wind drove her in from the sea. But I, with these men here, escaped utter destruction.’ “So I spoke, but from his pitiless heart he made no answer, but sprang up and put forth his hands upon my comrades. Two of them at once he seized and dashed to the earth like puppies,"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "and the brain flowed forth upon the ground and wetted the earth. Then he cut them limb from limb and made ready his supper, and ate them as a mountain-nurtured lion, leaving naught—ate the entrails, and the flesh, and the marrowy bones. And we with wailing held up our hands to Zeus,"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "beholding his cruel deeds; and helplessness possessed our souls. But when the Cyclops had filled his huge maw by eating human flesh and thereafter drinking pure milk, he lay down within the cave, stretched out among the sheep. And I formed a plan in my great heart"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "to steal near him, and draw my sharp sword from beside my thigh and smite him in the breast, where the midriff holds the liver, feeling for the place with my hand. But a second thought checked me, for right there should we, too, have perished in utter ruin. For we should not have been able"
+    }
+  ]
+}

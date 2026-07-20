@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "ἆσέ με δαίμονος αἶσα κακὴ καὶ ἀθέσφατος οἶνος."
+    },
+    {
+      "n": 62,
+      "greek": "Κίρκης δʼ ἐν μεγάρῳ καταλέγμενος οὐκ ἐνόησα"
+    },
+    {
+      "n": 63,
+      "greek": "ἄψορρον καταβῆναι ἰὼν ἐς κλίμακα μακρήν,"
+    },
+    {
+      "n": 64,
+      "greek": "ἀλλὰ καταντικρὺ τέγεος πέσον· ἐκ δέ μοι αὐχὴν"
+    },
+    {
+      "n": 65,
+      "greek": "ἀστραγάλων ἐάγη, ψυχὴ δʼ Ἄϊδόσδε κατῆλθε."
+    },
+    {
+      "n": 66,
+      "greek": "νῦν δέ σε τῶν ὄπιθεν γουνάζομαι, οὐ παρεόντων,"
+    },
+    {
+      "n": 67,
+      "greek": "πρός τʼ ἀλόχου καὶ πατρός, ὅ σʼ ἔτρεφε τυτθὸν ἐόντα,"
+    },
+    {
+      "n": 68,
+      "greek": "Τηλεμάχου θʼ, ὃν μοῦνον ἐνὶ μεγάροισιν ἔλειπες·"
+    },
+    {
+      "n": 69,
+      "greek": "οἶδα γὰρ ὡς ἐνθένδε κιὼν δόμου ἐξ Ἀίδαο"
+    },
+    {
+      "n": 70,
+      "greek": "νῆσον ἐς Αἰαίην σχήσεις ἐυεργέα νῆα·"
+    },
+    {
+      "n": 71,
+      "greek": "ἔνθα σʼ ἔπειτα, ἄναξ, κέλομαι μνήσασθαι ἐμεῖο."
+    },
+    {
+      "n": 72,
+      "greek": "μή μʼ ἄκλαυτον ἄθαπτον ἰὼν ὄπιθεν καταλείπειν"
+    },
+    {
+      "n": 73,
+      "greek": "νοσφισθείς, μή τοί τι θεῶν μήνιμα γένωμαι,"
+    },
+    {
+      "n": 74,
+      "greek": "ἀλλά με κακκῆαι σὺν τεύχεσιν, ἅσσα μοι ἔστιν,"
+    },
+    {
+      "n": 75,
+      "greek": "σῆμά τέ μοι χεῦαι πολιῆς ἐπὶ θινὶ θαλάσσης,"
+    },
+    {
+      "n": 76,
+      "greek": "ἀνδρὸς δυστήνοιο καὶ ἐσσομένοισι πυθέσθαι."
+    },
+    {
+      "n": 77,
+      "greek": "ταῦτά τέ μοι τελέσαι πῆξαί τʼ ἐπὶ τύμβῳ ἐρετμόν,"
+    },
+    {
+      "n": 78,
+      "greek": "τῷ καὶ ζωὸς ἔρεσσον ἐὼν μετʼ ἐμοῖς ἑτάροισιν."
+    },
+    {
+      "n": 79,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 80,
+      "greek": "ταῦτά τοι, ὦ δύστηνε, τελευτήσω τε καὶ ἔρξω."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "was broken away from the spine and my spirit went down to the house of Hades. Now I beseech thee by those whom we left behind, who are not present with us, by thy wife and thy father who reared thee when a babe, and by Telemachus whom thou didst leave an only son in thy halls; for I know that as thou goest hence from the house of Hades"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "thou wilt touch at the Aeaean isle with thy well-built ship. There, then, O prince, I bid thee remember me. Leave me not behind thee unwept and unburied as thou goest thence, and turn not away from me, lest haply I bring the wrath of the gods upon thee. Nay, burn me with my armour, all that is mine,"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "and heap up a mound for me on the shore of the grey sea, in memory of an unhappy man, that men yet to be may learn of me. Fulfil this my prayer, and fix upon the mound my oar wherewith I rowed in life when I was among my comrades.’ “So he spoke, and I made answer and said:"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "‘All this, unhappy man, will I perform and do.’ “Thus we two sat and held sad converse one with the other, I on one side holding my sword over the blood, while on the other side the phantom of my comrade spoke at large. “Then there came up the spirit of my dead mother,"
+    }
+  ]
+}

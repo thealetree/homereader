@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "τοῖσιν δʼ ἡγεμόνευʼ ἱερὸν μένος Ἀλκινόοιο,"
+    },
+    {
+      "n": 422,
+      "greek": "ἐλθόντες δὲ καθῖζον ἐν ὑψηλοῖσι θρόνοισι."
+    },
+    {
+      "n": 423,
+      "greek": "δή ῥα τότʼ Ἀρήτην προσέφη μένος Ἀλκινόοιο·"
+    },
+    {
+      "n": 424,
+      "greek": "δεῦρο, γύναι, φέρε χηλὸν ἀριπρεπέʼ, ἥ τις ἀρίστη·"
+    },
+    {
+      "n": 425,
+      "greek": "ἐν δʼ αὐτὴ θὲς φᾶρος ἐυπλυνὲς ἠδὲ χιτῶνα."
+    },
+    {
+      "n": 426,
+      "greek": "ἀμφὶ δέ οἱ πυρὶ χαλκὸν ἰήνατε, θέρμετε δʼ ὕδωρ,"
+    },
+    {
+      "n": 427,
+      "greek": "ὄφρα λοεσσάμενός τε ἰδών τʼ ἐὺ κείμενα πάντα"
+    },
+    {
+      "n": 428,
+      "greek": "δῶρα, τά οἱ Φαίηκες ἀμύμονες ἐνθάδʼ ἔνεικαν,"
+    },
+    {
+      "n": 429,
+      "greek": "δαιτί τε τέρπηται καὶ ἀοιδῆς ὕμνον ἀκούων."
+    },
+    {
+      "n": 430,
+      "greek": "καί οἱ ἐγὼ τόδʼ ἄλεισον ἐμὸν περικαλλὲς ὀπάσσω,"
+    },
+    {
+      "n": 431,
+      "greek": "χρύσεον, ὄφρʼ ἐμέθεν μεμνημένος ἤματα πάντα"
+    },
+    {
+      "n": 432,
+      "greek": "σπένδῃ ἐνὶ μεγάρῳ Διί τʼ ἄλλοισίν τε θεοῖσιν."
+    },
+    {
+      "n": 433,
+      "greek": "ὣς ἔφατʼ, Ἀρήτη δὲ μετὰ δμῳῇσιν ἔειπεν"
+    },
+    {
+      "n": 434,
+      "greek": "ἀμφὶ πυρὶ στῆσαι τρίποδα μέγαν ὅττι τάχιστα."
+    },
+    {
+      "n": 435,
+      "greek": "αἱ δὲ λοετροχόον τρίποδʼ ἵστασαν ἐν πυρὶ κηλέῳ,"
+    },
+    {
+      "n": 436,
+      "greek": "ἔν δʼ ἄρʼ ὕδωρ ἔχεαν, ὑπὸ δὲ ξύλα δαῖον ἑλοῦσαι."
+    },
+    {
+      "n": 437,
+      "greek": "γάστρην μὲν τρίποδος πῦρ ἄμφεπε, θέρμετο δʼ ὕδωρ·"
+    },
+    {
+      "n": 438,
+      "greek": "τόφρα δʼ ἄρʼ Ἀρήτη ξείνῳ περικαλλέα χηλὸν"
+    },
+    {
+      "n": 439,
+      "greek": "ἐξέφερεν θαλάμοιο, τίθει δʼ ἐνὶ κάλλιμα δῶρα,"
+    },
+    {
+      "n": 440,
+      "greek": "ἐσθῆτα χρυσόν τε, τά οἱ Φαίηκες ἔδωκαν·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "and thyself place in it a newly-washed cloak and tunic; and do ye heat for the stranger a cauldron on the fire, and warm water, that when he has bathed and has seen well bestowed all the gifts which the noble Phaeacians have brought hither, he may take pleasure in the feast, and in hearing the strains of the song."
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "And I will give him this beautiful cup of mine, wrought of gold, that he may remember me all his days as he pours libations in his halls to Zeus and to the other gods.” So he spoke, and Arete bade her handmaids to set a great cauldron on the fire with all speed."
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "And they set on the blazing fire the cauldron for filling the bath, and poured in water, and took billets of wood and kindled them beneath it. Then the fire played about the belly of the cauldron, and the water grew warm; but meanwhile Arete brought forth for the stranger a beautiful chest from the treasure chamber, and placed in it the goodly gifts,"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "the raiment and the gold, which the Phaeacians gave. And therein she herself placed a cloak and a fair tunic; and she spoke and addressed Odysseus with winged words: “Look now thyself to the lid, and quickly cast a cord upon it, lest some one despoil thee of thy goods on the way, when later on"
+    }
+  ]
+}

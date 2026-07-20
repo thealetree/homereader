@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "εὖ νυ καὶ αὐτὸς ἐγὼ φράσομαι καὶ εἴσομʼ ἑκάστην·"
+    },
+    {
+      "n": 502,
+      "greek": "ἀλλʼ ἔχε σιγῇ μῦθον, ἐπίτρεψον δὲ θεοῖσιν."
+    },
+    {
+      "n": 503,
+      "greek": "ὣς ἄρʼ ἔφη, γρηῢς δὲ διὲκ μεγάροιο βεβήκει"
+    },
+    {
+      "n": 504,
+      "greek": "οἰσομένη ποδάνιπτρα· τὰ γὰρ πρότερʼ ἔκχυτο πάντα."
+    },
+    {
+      "n": 505,
+      "greek": "αὐτὰρ ἐπεὶ νίψεν τε καὶ ἤλειψεν λίπʼ ἐλαίῳ,"
+    },
+    {
+      "n": 506,
+      "greek": "αὖτις ἄρʼ ἀσσοτέρω πυρὸς ἕλκετο δίφρον Ὀδυσσεὺς"
+    },
+    {
+      "n": 507,
+      "greek": "θερσόμενος, οὐλὴν δὲ κατὰ ῥακέεσσι κάλυψε."
+    },
+    {
+      "n": 508,
+      "greek": "τοῖσι δὲ μύθων ἦρχε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 509,
+      "greek": "ξεῖνε, τὸ μέν σʼ ἔτι τυτθὸν ἐγὼν εἰρήσομαι αὐτή·"
+    },
+    {
+      "n": 510,
+      "greek": "καὶ γὰρ δὴ κοίτοιο τάχʼ ἔσσεται ἡδέος ὥρη,"
+    },
+    {
+      "n": 511,
+      "greek": "ὅν τινά γʼ ὕπνος ἕλοι γλυκερός, καὶ κηδόμενόν περ."
+    },
+    {
+      "n": 512,
+      "greek": "αὐτὰρ ἐμοὶ καὶ πένθος ἀμέτρητον πόρε δαίμων·"
+    },
+    {
+      "n": 513,
+      "greek": "ἤματα μὲν γὰρ τέρπομʼ ὀδυρομένη, γοόωσα,"
+    },
+    {
+      "n": 514,
+      "greek": "ἔς τʼ ἐμὰ ἔργʼ ὁρόωσα καὶ ἀμφιπόλων ἐνὶ οἴκῳ·"
+    },
+    {
+      "n": 515,
+      "greek": "αὐτὰρ ἐπὴν νὺξ ἔλθῃ, ἕλῃσί τε κοῖτος ἅπαντας,"
+    },
+    {
+      "n": 516,
+      "greek": "κεῖμαι ἐνὶ λέκτρῳ, πυκιναὶ δέ μοι ἀμφʼ ἀδινὸν κῆρ"
+    },
+    {
+      "n": 517,
+      "greek": "ὀξεῖαι μελεδῶνες ὀδυρομένην ἐρέθουσιν."
+    },
+    {
+      "n": 518,
+      "greek": "ὡς δʼ ὅτε Πανδαρέου κούρη, χλωρηῒς ἀηδών,"
+    },
+    {
+      "n": 519,
+      "greek": "καλὸν ἀείδῃσιν ἔαρος νέον ἱσταμένοιο,"
+    },
+    {
+      "n": 520,
+      "greek": "δενδρέων ἐν πετάλοισι καθεζομένη πυκινοῖσιν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "And when she had washed him, and anointed him richly with oil, Odysseus again drew his chair nearer to the fire to warm himself, and hid the scar with his rags. Then wise Penelope was the first to speak, saying: “Stranger, this little thing further will I ask thee myself,"
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "for it will soon be the hour for pleasant rest, for him at least on whom sweet sleep may come despite his care. But to me has a god given sorrow that is beyond all measure, for day by day I find my joy in mourning and lamenting, while looking to my household tasks and those of my women in the house,"
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "but when night comes and sleep lays hold of all, I lie upon my bed, and sharp cares, crowding close about my throbbing heart, disquiet me, as I mourn. Even as when the daughter of Pandareus, the nightingale of the greenwood, sings sweetly, when spring is newly come,"
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "as she sits perched amid the thick leafage of the trees, and with many trilling notes pours forth her rich voice in wailing for her child, dear Itylus, whom she had one day slain with the sword unwittingly, Itylus, the son of king Zethus; even so my heart sways to and fro in doubt,"
+    }
+  ]
+}

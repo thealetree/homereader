@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 440,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "οἰκτροτάτην δʼ ἤκουσα ὄπα Πριάμοιο θυγατρός,"
+    },
+    {
+      "n": 422,
+      "greek": "Κασσάνδρης, τὴν κτεῖνε Κλυταιμνήστρη δολόμητις"
+    },
+    {
+      "n": 423,
+      "greek": "ἀμφʼ ἐμοί, αὐτὰρ ἐγὼ ποτὶ γαίῃ χεῖρας ἀείρων"
+    },
+    {
+      "n": 424,
+      "greek": "βάλλον ἀποθνήσκων περὶ φασγάνῳ· ἡ δὲ κυνῶπις"
+    },
+    {
+      "n": 425,
+      "greek": "νοσφίσατʼ, οὐδέ μοι ἔτλη ἰόντι περ εἰς Ἀίδαο"
+    },
+    {
+      "n": 426,
+      "greek": "χερσὶ κατʼ ὀφθαλμοὺς ἑλέειν σύν τε στόμʼ ἐρεῖσαι."
+    },
+    {
+      "n": 427,
+      "greek": "ὣς οὐκ αἰνότερον καὶ κύντερον ἄλλο γυναικός,"
+    },
+    {
+      "n": 428,
+      "greek": "ἥ τις δὴ τοιαῦτα μετὰ φρεσὶν ἔργα βάληται·"
+    },
+    {
+      "n": 429,
+      "greek": "οἷον δὴ καὶ κείνη ἐμήσατο ἔργον ἀεικές,"
+    },
+    {
+      "n": 430,
+      "greek": "κουριδίῳ τεύξασα πόσει φόνον. ἦ τοι ἔφην γε"
+    },
+    {
+      "n": 431,
+      "greek": "ἀσπάσιος παίδεσσιν ἰδὲ δμώεσσιν ἐμοῖσιν"
+    },
+    {
+      "n": 432,
+      "greek": "οἴκαδʼ ἐλεύσεσθαι· ἡ δʼ ἔξοχα λυγρὰ ἰδυῖα"
+    },
+    {
+      "n": 433,
+      "greek": "οἷ τε κατʼ αἶσχος ἔχευε καὶ ἐσσομένῃσιν ὀπίσσω"
+    },
+    {
+      "n": 434,
+      "greek": "θηλυτέρῃσι γυναιξί, καὶ ἥ κʼ ἐυεργὸς ἔῃσιν."
+    },
+    {
+      "n": 435,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 436,
+      "greek": "ὢ πόποι, ἦ μάλα δὴ γόνον Ἀτρέος εὐρύοπα Ζεὺς"
+    },
+    {
+      "n": 437,
+      "greek": "ἐκπάγλως ἤχθηρε γυναικείας διὰ βουλὰς"
+    },
+    {
+      "n": 438,
+      "greek": "ἐξ ἀρχῆς· Ἑλένης μὲν ἀπωλόμεθʼ εἵνεκα πολλοί,"
+    },
+    {
+      "n": 439,
+      "greek": "σοὶ δὲ Κλυταιμνήστρη δόλον ἤρτυε τηλόθʼ ἐόντι."
+    },
+    {
+      "n": 440,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ αὐτίκʼ ἀμειβόμενος προσέειπε·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "turned her back upon me, and even though I was going to the house of Hades deigned neither to draw down my eyelids with her fingers nor to close my mouth. So true is it that there is nothing more dread or more shameless than a woman who puts into her heart such deeds, even as she too devised a monstrous thing,"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "contriving death for her wedded husband. Verily I thought that I should come home welcome to my children and to my slaves; but she, with her heart set on utter wickedness, has shed shame on herself and on women yet to be, even upon her that doeth uprightly.’"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "“So he spoke, and I made answer and said: ‘Ah, verily has Zeus, whose voice is borne afar, visited wondrous hatred on the race of Atreus from the first because of the counsels of women. For Helen's sake many of us perished, and against thee Clytemnestra spread a snare whilst thou wast afar.’"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "“So I spoke, and he straightway made answer and said: ‘Wherefore in thine own case be thou never gentle even to thy wife. Declare not to her all the thoughts of thy heart, but tell her somewhat, and let somewhat also be hidden. Yet not upon thee, Odysseus, shall death come from thy wife,"
+    }
+  ]
+}

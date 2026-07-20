@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 26,
+  "lineStart": 501,
+  "lineEnd": 520,
+  "lines": [
+    {
+      "n": 501,
+      "greek": "βῆ δὲ θέειν ἐπὶ νῆας· ἐγὼ δʼ ἐνὶ εἵματι κείνου"
+    },
+    {
+      "n": 502,
+      "greek": "κείμην ἀσπασίως, φάε δὲ χρυσόθρονος Ἠώς."
+    },
+    {
+      "n": 503,
+      "greek": "ὣς νῦν ἡβώοιμι βίη τέ μοι ἔμπεδος εἴη·"
+    },
+    {
+      "n": 504,
+      "greek": "δοίη κέν τις χλαῖναν ἐνὶ σταθμοῖσι συφορβῶν,"
+    },
+    {
+      "n": 505,
+      "greek": "ἀμφότερον, φιλότητι καὶ αἰδοῖ φωτὸς ἑῆος·"
+    },
+    {
+      "n": 506,
+      "greek": "νῦν δέ μʼ ἀτιμάζουσι κακὰ χροῒ εἵματʼ ἔχοντα."
+    },
+    {
+      "n": 507,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφης, Εὔμαιε συβῶτα·"
+    },
+    {
+      "n": 508,
+      "greek": "ὦ γέρον, αἶνος μέν τοι ἀμύμων, ὃν κατέλεξας,"
+    },
+    {
+      "n": 509,
+      "greek": "οὐδέ τί πω παρὰ μοῖραν ἔπος νηκερδὲς ἔειπες·"
+    },
+    {
+      "n": 510,
+      "greek": "τῷ οὔτʼ ἐσθῆτος δευήσεαι οὔτε τευ ἄλλου,"
+    },
+    {
+      "n": 511,
+      "greek": "ὧν ἐπέοιχʼ ἱκέτην ταλαπείριον ἀντιάσαντα,"
+    },
+    {
+      "n": 512,
+      "greek": "νῦν· ἀτὰρ ἠῶθέν γε τὰ σὰ ῥάκεα δνοπαλίξεις."
+    },
+    {
+      "n": 513,
+      "greek": "οὐ γὰρ πολλαὶ χλαῖναι ἐπημοιβοί τε χιτῶνες"
+    },
+    {
+      "n": 514,
+      "greek": "ἐνθάδε ἕννυσθαι, μία δʼ οἴη φωτὶ ἑκάστῳ."
+    },
+    {
+      "n": 515,
+      "greek": "αὐτὰρ ἐπὴν ἔλθῃσιν Ὀδυσσῆος φίλος υἱός,"
+    },
+    {
+      "n": 516,
+      "greek": "αὐτός τοι χλαῖνάν τε χιτῶνά τε εἵματα δώσει,"
+    },
+    {
+      "n": 517,
+      "greek": "πέμψει δʼ ὅππῃ σε κραδίη θυμός τε κελεύει."
+    },
+    {
+      "n": 518,
+      "greek": "ὣς εἰπὼν ἀνόρουσε, τίθει δʼ ἄρα οἱ πυρὸς ἐγγὺς"
+    },
+    {
+      "n": 519,
+      "greek": "εὐνήν, ἐν δʼ ὀΐων τε καὶ αἰγῶν δέρματʼ ἔβαλλεν."
+    },
+    {
+      "n": 520,
+      "greek": "ἔνθʼ Ὀδυσεὺς κατέλεκτʼ· ἐπὶ δὲ χλαῖναν βάλεν αὐτῷ"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        505,
+        509
+      ],
+      "text": "both from kindness and from respect for a brave warrior. But as it is they scorn me, since I have foul raiment about me.” To him then, swineherd Eumaeus, didst thou make answer, and say: “Old man, the tale thou hast told is a good one, nor hast thou thus far spoken aught amiss or unprofitably."
+    },
+    {
+      "lines": [
+        510,
+        514
+      ],
+      "text": "Wherefore thou shalt lack neither clothing nor aught else that a sore-tried suppliant should receive, when he meets one—for this night at least; but in the morning thou shalt shake about thee those rags of thine. For not many cloaks are here or changes of tunics to put on, but each man has one alone."
+    },
+    {
+      "lines": [
+        515,
+        519
+      ],
+      "text": "But when the dear son of Odysseus comes, he will himself give thee a cloak and a tunic as raiment, and will send thee whithersoever thy heart and spirit bid thee go.” So saying, he sprang up and placed a bed for Odysseus near the fire, and cast upon it skins of sheep and goats."
+    },
+    {
+      "lines": [
+        520,
+        520
+      ],
+      "text": "There Odysseus lay down, and the swineherd threw over him a great thick cloak, which he kept at hand for a change of clothing whenever a terrible storm should arise. So there Odysseus slept, and beside him slept the young men. But the swineherd"
+    }
+  ]
+}

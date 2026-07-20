@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 16,
+  "lineStart": 302,
+  "lineEnd": 321,
+  "lines": [
+    {
+      "n": 302,
+      "greek": "ἡ μὲν ὅσʼ ἐν μεγάροισιν ἀνέσχετο δῖα γυναικῶν,"
+    },
+    {
+      "n": 303,
+      "greek": "ἀνδρῶν μνηστήρων ἐσορῶσʼ ἀΐδηλον ὅμιλον,"
+    },
+    {
+      "n": 304,
+      "greek": "οἳ ἕθεν εἵνεκα πολλά, βόας καὶ ἴφια μῆλα,"
+    },
+    {
+      "n": 305,
+      "greek": "ἔσφαζον, πολλὸς δὲ πίθων ἠφύσσετο οἶνος·"
+    },
+    {
+      "n": 306,
+      "greek": "αὐτὰρ ὁ διογενὴς Ὀδυσεὺς ὅσα κήδεʼ ἔθηκεν"
+    },
+    {
+      "n": 307,
+      "greek": "ἀνθρώποις ὅσα τʼ αὐτὸς ὀϊζύσας ἐμόγησε,"
+    },
+    {
+      "n": 308,
+      "greek": "πάντʼ ἔλεγʼ· ἡ δʼ ἄρʼ ἐτέρπετʼ ἀκούουσʼ, οὐδέ οἱ ὕπνος"
+    },
+    {
+      "n": 309,
+      "greek": "πῖπτεν ἐπὶ βλεφάροισι πάρος καταλέξαι ἅπαντα."
+    },
+    {
+      "n": 310,
+      "greek": "ἤρξατο δʼ ὡς πρῶτον Κίκονας δάμασʼ, αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 311,
+      "greek": "ἦλθʼ ἐς Λωτοφάγων ἀνδρῶν πίειραν ἄρουραν·"
+    },
+    {
+      "n": 312,
+      "greek": "ἠδʼ ὅσα Κύκλωψ ἔρξε, καὶ ὡς ἀπετίσατο ποινὴν"
+    },
+    {
+      "n": 313,
+      "greek": "ἰφθίμων ἑτάρων, οὓς ἤσθιεν οὐδʼ ἐλέαιρεν·"
+    },
+    {
+      "n": 314,
+      "greek": "ἠδʼ ὡς Αἴολον ἵκεθʼ, ὅ μιν πρόφρων ὑπέδεκτο"
+    },
+    {
+      "n": 315,
+      "greek": "καὶ πέμπʼ, οὐδέ πω αἶσα φίλην ἐς πατρίδʼ ἱκέσθαι"
+    },
+    {
+      "n": 316,
+      "greek": "ἤην, ἀλλά μιν αὖτις ἀναρπάξασα θύελλα"
+    },
+    {
+      "n": 317,
+      "greek": "πόντον ἐπʼ ἰχθυόεντα φέρεν βαρέα στενάχοντα·"
+    },
+    {
+      "n": 318,
+      "greek": "ἠδʼ ὡς Τηλέπυλον Λαιστρυγονίην ἀφίκανεν,"
+    },
+    {
+      "n": 319,
+      "greek": "οἳ νῆάς τʼ ὄλεσαν καὶ ἐϋκνήμιδας ἑταίρους"
+    },
+    {
+      "n": 320,
+      "greek": "πάντας· Ὀδυσσεὺς δʼ οἶος ὑπέκφυγε νηῒ μελαίνῃ·"
+    },
+    {
+      "n": 321,
+      "greek": "καὶ Κίρκης κατέλεξε δόλον πολυμηχανίην τε,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "slew many beasts, cattle and goodly sheep; and great store of wine was drawn from the jars. But Zeus-born Odysseus recounted all the woes that he had brought on men, and all the toil that in his sorrow he had himself endured, and she was glad to listen, nor did sweet sleep fall upon her eyelids, till he had told all the tale."
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "He began by telling how at the first he overcame the Cicones, and then came to the rich land of the Lotus-eaters, and all that the Cyclops wrought, and how he made him pay the price for his mighty comrades, whom the Cyclops had eaten, and had shown no pity. Then how he came to Aeolus, who received him with a ready heart,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "and sent him on his way; but it was not yet his fate to come to his dear native land, nay, the storm-wind caught him up again, and bore him over the teeming deep, groaning heavily. Next how he came to Telepylus of the Laestrygonians, who destroyed his ships and his well-greaved comrades"
+    },
+    {
+      "lines": [
+        320,
+        321
+      ],
+      "text": "one and all, and Odysseus alone escaped in his black ship. Then he told of all the wiles and craftiness of Circe, and how in his benched ship he had gone to the dank house of Hades to consult the spirit of Theban Teiresias, and had seen all his comrades"
+    }
+  ]
+}

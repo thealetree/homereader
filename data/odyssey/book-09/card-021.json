@@ -1,0 +1,122 @@
+{
+  "book": 9,
+  "card": 21,
+  "lineStart": 401,
+  "lineEnd": 420,
+  "lines": [
+    {
+      "n": 401,
+      "greek": "οἱ δὲ βοῆς ἀίοντες ἐφοίτων ἄλλοθεν ἄλλος,"
+    },
+    {
+      "n": 402,
+      "greek": "ἱστάμενοι δʼ εἴροντο περὶ σπέος ὅττι ἑ κήδοι·"
+    },
+    {
+      "n": 403,
+      "greek": "τίπτε τόσον, Πολύφημʼ, ἀρημένος ὧδʼ ἐβόησας"
+    },
+    {
+      "n": 404,
+      "greek": "νύκτα διʼ ἀμβροσίην καὶ ἀύπνους ἄμμε τίθησθα;"
+    },
+    {
+      "n": 405,
+      "greek": "ἦ μή τίς σευ μῆλα βροτῶν ἀέκοντος ἐλαύνει;"
+    },
+    {
+      "n": 406,
+      "greek": "ἦ μή τίς σʼ αὐτὸν κτείνει δόλῳ ἠὲ βίηφιν;"
+    },
+    {
+      "n": 407,
+      "greek": "τοὺς δʼ αὖτʼ ἐξ ἄντρου προσέφη κρατερὸς Πολύφημος·"
+    },
+    {
+      "n": 408,
+      "greek": "ὦ φίλοι, Οὖτίς με κτείνει δόλῳ οὐδὲ βίηφιν."
+    },
+    {
+      "n": 409,
+      "greek": "οἱ δʼ ἀπαμειβόμενοι ἔπεα πτερόεντʼ ἀγόρευον·"
+    },
+    {
+      "n": 410,
+      "greek": "εἰ μὲν δὴ μή τίς σε βιάζεται οἶον ἐόντα,"
+    },
+    {
+      "n": 411,
+      "greek": "νοῦσον γʼ οὔ πως ἔστι Διὸς μεγάλου ἀλέασθαι,"
+    },
+    {
+      "n": 412,
+      "greek": "ἀλλὰ σύ γʼ εὔχεο πατρὶ Ποσειδάωνι ἄνακτι."
+    },
+    {
+      "n": 413,
+      "greek": "ὣς ἄρʼ ἔφαν ἀπιόντες, ἐμὸν δʼ ἐγέλασσε φίλον κῆρ,"
+    },
+    {
+      "n": 414,
+      "greek": "ὡς ὄνομʼ ἐξαπάτησεν ἐμὸν καὶ μῆτις ἀμύμων."
+    },
+    {
+      "n": 415,
+      "greek": "Κύκλωψ δὲ στενάχων τε καὶ ὠδίνων ὀδύνῃσι"
+    },
+    {
+      "n": 416,
+      "greek": "χερσὶ ψηλαφόων ἀπὸ μὲν λίθον εἷλε θυράων,"
+    },
+    {
+      "n": 417,
+      "greek": "αὐτὸς δʼ εἰνὶ θύρῃσι καθέζετο χεῖρε πετάσσας,"
+    },
+    {
+      "n": 418,
+      "greek": "εἴ τινά που μετʼ ὄεσσι λάβοι στείχοντα θύραζε·"
+    },
+    {
+      "n": 419,
+      "greek": "οὕτω γάρ πού μʼ ἤλπετʼ ἐνὶ φρεσὶ νήπιον εἶναι."
+    },
+    {
+      "n": 420,
+      "greek": "αὐτὰρ ἐγὼ βούλευον, ὅπως ὄχʼ ἄριστα γένοιτο,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "Can it be that some mortal man is driving off thy flocks against thy will, or slaying thee thyself by guile or by might?’ “‘Then from out the cave the mighty Polyphemus answered them: ‘My friends, it is Noman that is slaying me by guile and not by force.’ “And they made answer and addressed him with winged words:"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "‘If, then, no man does violence to thee in thy loneliness, sickness which comes from great Zeus thou mayest in no wise escape. Nay, do thou pray to our father, the lord Poseidon.’ “So they spoke and went their way; and my heart laughed within me that my name and cunning device had so beguiled."
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "But the Cyclops, groaning and travailing in anguish, groped with his hands and took away the stone from the door, and himself sat in the doorway with arms outstretched in the hope of catching anyone who sought to go forth with the sheep—so witless, forsooth, he thought in his heart to find me."
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "But I took counsel how all might be the very best, if I might haply find some way of escape from death for my comrades and for myself. And I wove all manner of wiles and counsel, as a man will in a matter of life and death; for great was the evil that was nigh us. And this seemed to my mind the best plan."
+    }
+  ]
+}

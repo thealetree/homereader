@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 13,
+  "lineStart": 241,
+  "lineEnd": 260,
+  "lines": [
+    {
+      "n": 241,
+      "greek": "ὔμμʼ ἐπὶ μηρίʼ ἔκηε, καλύψας πίονι δημῷ,"
+    },
+    {
+      "n": 242,
+      "greek": "ἀρνῶν ἠδʼ ἐρίφων, τόδε μοι κρηήνατʼ ἐέλδωρ,"
+    },
+    {
+      "n": 243,
+      "greek": "ὡς ἔλθοι μὲν κεῖνος ἀνήρ, ἀγάγοι δέ ἑ δαίμων·"
+    },
+    {
+      "n": 244,
+      "greek": "τῷ κέ τοι ἀγλαΐας γε διασκεδάσειεν ἁπάσας,"
+    },
+    {
+      "n": 245,
+      "greek": "τὰς νῦν ὑβρίζων φορέεις, ἀλαλήμενος αἰεὶ"
+    },
+    {
+      "n": 246,
+      "greek": "ἄστυ κάτʼ· αὐτὰρ μῆλα κακοὶ φθείρουσι νομῆες."
+    },
+    {
+      "n": 247,
+      "greek": "τὸν δʼ αὖτε προσέειπε Μελάνθιος, αἰπόλος αἰγῶν·"
+    },
+    {
+      "n": 248,
+      "greek": "ὢ πόποι, οἶον ἔειπε κύων ὀλοφώϊα εἰδώς,"
+    },
+    {
+      "n": 249,
+      "greek": "τόν ποτʼ ἐγὼν ἐπὶ νηὸς ἐϋσσέλμοιο μελαίνης"
+    },
+    {
+      "n": 250,
+      "greek": "ἄξω τῆλʼ Ἰθάκης, ἵνα μοι βίοτον πολὺν ἄλφοι."
+    },
+    {
+      "n": 251,
+      "greek": "αἲ γὰρ Τηλέμαχον βάλοι ἀργυρότοξος Ἀπόλλων"
+    },
+    {
+      "n": 252,
+      "greek": "σήμερον ἐν μεγάροις, ἢ ὑπὸ μνηστῆρσι δαμείη,"
+    },
+    {
+      "n": 253,
+      "greek": "ὡς Ὀδυσῆΐ γε τηλοῦ ἀπώλετο νόστιμον ἦμαρ."
+    },
+    {
+      "n": 254,
+      "greek": "ὣς εἰπὼν τοὺς μὲν λίπεν αὐτοῦ ἦκα κιόντας,"
+    },
+    {
+      "n": 255,
+      "greek": "αὐτὰρ ὁ βῆ, μάλα δʼ ὦκα δόμους ἵκανεν ἄνακτος."
+    },
+    {
+      "n": 256,
+      "greek": "αὐτίκα δʼ εἴσω ἴεν, μετὰ δὲ μνηστῆρσι καθῖζεν,"
+    },
+    {
+      "n": 257,
+      "greek": "ἀντίον Εὐρυμάχου· τὸν γὰρ φιλέεσκε μάλιστα."
+    },
+    {
+      "n": 258,
+      "greek": "τῷ πάρα μὲν κρειῶν μοῖραν θέσαν οἳ πονέοντο,"
+    },
+    {
+      "n": 259,
+      "greek": "σῖτον δʼ αἰδοίη ταμίη παρέθηκε φέρουσα"
+    },
+    {
+      "n": 260,
+      "greek": "ἔδμεναι. ἀγχίμολον δʼ Ὀδυσεὺς καὶ δῖος ὑφορβὸς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "which now thou puttest on in thy insolence,ever roaming about the city, while evil herdsmen destroy the flock.” Then Melanthius, the goatherd, answered him: “Lo now, how the cur talks, his mind full of mischief. Him will I some day"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "take on a black, benched ship far from Ithaca, that he may bring me in much wealth. Would that Apollo, of the silver bow, might smite Telemachus to-day in the halls, or that he might be slain by the wooers, as surely as for Odysseus in a far land the day of return has been lost.” So saying, he left them there, as they walked slowly on,"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "but himself strode forward and right swiftly came to the palace of the king. Straightway he entered in and sat down among the wooers over against Eurymachus, for he loved him best of all. Then by him those that served set a portion of meat, and the grave housewife brought and set before him bread,"
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "for him to eat. And Odysseus and the goodly swineherd halted as they drew nigh, and about them rang the sound of the hollow lyre, for Phemius was striking the chords to sing before the wooers. Then Odysseus clasped the swineherd by the hand, and said: “Eumaeus, surely this is the beautiful house of Odysseus."
+    }
+  ]
+}

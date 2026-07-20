@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "ἄνδρες ἀρηίφατοι βεβροτωμένα τεύχεʼ ἔχοντες·"
+    },
+    {
+      "n": 42,
+      "greek": "οἳ πολλοὶ περὶ βόθρον ἐφοίτων ἄλλοθεν ἄλλος"
+    },
+    {
+      "n": 43,
+      "greek": "θεσπεσίῃ ἰαχῇ· ἐμὲ δὲ χλωρὸν δέος ᾕρει."
+    },
+    {
+      "n": 44,
+      "greek": "δὴ τότʼ ἔπειθʼ ἑτάροισιν ἐποτρύνας ἐκέλευσα"
+    },
+    {
+      "n": 45,
+      "greek": "μῆλα, τὰ δὴ κατέκειτʼ ἐσφαγμένα νηλέι χαλκῷ,"
+    },
+    {
+      "n": 46,
+      "greek": "δείραντας κατακῆαι, ἐπεύξασθαι δὲ θεοῖσιν,"
+    },
+    {
+      "n": 47,
+      "greek": "ἰφθίμῳ τʼ Ἀΐδῃ καὶ ἐπαινῇ Περσεφονείῃ·"
+    },
+    {
+      "n": 48,
+      "greek": "αὐτὸς δὲ ξίφος ὀξὺ ἐρυσσάμενος παρὰ μηροῦ"
+    },
+    {
+      "n": 49,
+      "greek": "ἥμην, οὐδʼ εἴων νεκύων ἀμενηνὰ κάρηνα"
+    },
+    {
+      "n": 50,
+      "greek": "αἵματος ἆσσον ἴμεν, πρὶν Τειρεσίαο πυθέσθαι."
+    },
+    {
+      "n": 51,
+      "greek": "πρώτη δὲ ψυχὴ Ἐλπήνορος ἦλθεν ἑταίρου·"
+    },
+    {
+      "n": 52,
+      "greek": "οὐ γάρ πω ἐτέθαπτο ὑπὸ χθονὸς εὐρυοδείης·"
+    },
+    {
+      "n": 53,
+      "greek": "σῶμα γὰρ ἐν Κίρκης μεγάρῳ κατελείπομεν ἡμεῖς"
+    },
+    {
+      "n": 54,
+      "greek": "ἄκλαυτον καὶ ἄθαπτον, ἐπεὶ πόνος ἄλλος ἔπειγε."
+    },
+    {
+      "n": 55,
+      "greek": "τὸν μὲν ἐγὼ δάκρυσα ἰδὼν ἐλέησά τε θυμῷ,"
+    },
+    {
+      "n": 56,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδων·"
+    },
+    {
+      "n": 57,
+      "greek": "Ἐλπῆνορ, πῶς ἦλθες ὑπὸ ζόφον ἠερόεντα;"
+    },
+    {
+      "n": 58,
+      "greek": "ἔφθης πεζὸς ἰὼν ἢ ἐγὼ σὺν νηὶ μελαίνῃ."
+    },
+    {
+      "n": 59,
+      "greek": "ὣς ἐφάμην, ὁ δέ μʼ οἰμώξας ἠμείβετο μύθῳ·"
+    },
+    {
+      "n": 60,
+      "greek": "διογενὲς Λαερτιάδη, πολυμήχανʼ Ὀδυσσεῦ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "the sheep that lay there slain with the pitiless bronze, and to make prayer to the gods, to mighty Hades and dread Persephone. And I myself drew my sharp sword from beside my thigh and sat there, and would not suffer the powerless heads of the dead"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "to draw near to the blood until I had enquired of Teiresias. “The first to come was the spirit of my comrade Elpenor. Not yet had he been buried beneath the broad-wayed earth, for we had left his corpse behind us in the hall of Circe, unwept and unburied, since another task was then urging us on."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "When I saw him I wept, and my heart had compassion on him; and I spoke and addressed him with winged words: “‘Elpenor, how didst thou come beneath the murky darkness? Thou coming on foot hast out-stripped me in my black ship.’ “So I spoke, and with a groan he answered me and said:"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "‘Son of Laertes, sprung from Zeus, Odysseus of many devices, an evil doom of some god was my undoing, and measureless wine. When I had lain down to sleep in the house of Circe I did not think to go to the long ladder that I might come down again, but fell headlong from the roof, and my neck"
+    }
+  ]
+}

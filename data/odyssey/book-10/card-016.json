@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 16,
+  "lineStart": 301,
+  "lineEnd": 320,
+  "lines": [
+    {
+      "n": 301,
+      "greek": "μή σʼ ἀπογυμνωθέντα κακὸν καὶ ἀνήνορα θήῃ."
+    },
+    {
+      "n": 302,
+      "greek": "ὣς ἄρα φωνήσας πόρε φάρμακον ἀργεϊφόντης"
+    },
+    {
+      "n": 303,
+      "greek": "ἐκ γαίης ἐρύσας, καί μοι φύσιν αὐτοῦ ἔδειξε."
+    },
+    {
+      "n": 304,
+      "greek": "ῥίζῃ μὲν μέλαν ἔσκε, γάλακτι δὲ εἴκελον ἄνθος·"
+    },
+    {
+      "n": 305,
+      "greek": "μῶλυ δέ μιν καλέουσι θεοί· χαλεπὸν δέ τʼ ὀρύσσειν"
+    },
+    {
+      "n": 306,
+      "greek": "ἀνδράσι γε θνητοῖσι, θεοὶ δέ τε πάντα δύνανται."
+    },
+    {
+      "n": 307,
+      "greek": "Ἑρμείας μὲν ἔπειτʼ ἀπέβη πρὸς μακρὸν Ὄλυμπον"
+    },
+    {
+      "n": 308,
+      "greek": "νῆσον ἀνʼ ὑλήεσσαν, ἐγὼ δʼ ἐς δώματα Κίρκης"
+    },
+    {
+      "n": 309,
+      "greek": "ἤια, πολλὰ δέ μοι κραδίη πόρφυρε κιόντι."
+    },
+    {
+      "n": 310,
+      "greek": "ἔστην δʼ εἰνὶ θύρῃσι θεᾶς καλλιπλοκάμοιο·"
+    },
+    {
+      "n": 311,
+      "greek": "ἔνθα στὰς ἐβόησα, θεὰ δέ μευ ἔκλυεν αὐδῆς."
+    },
+    {
+      "n": 312,
+      "greek": "ἡ δʼ αἶψʼ ἐξελθοῦσα θύρας ὤιξε φαεινὰς"
+    },
+    {
+      "n": 313,
+      "greek": "καὶ κάλει· αὐτὰρ ἐγὼν ἑπόμην ἀκαχήμενος ἦτορ."
+    },
+    {
+      "n": 314,
+      "greek": "εἷσε δέ μʼ εἰσαγαγοῦσα ἐπὶ θρόνου ἀργυροήλου"
+    },
+    {
+      "n": 315,
+      "greek": "καλοῦ δαιδαλέου· ὑπὸ δὲ θρῆνυς ποσὶν ἦεν·"
+    },
+    {
+      "n": 316,
+      "greek": "τεῦχε δέ μοι κυκεῶ χρυσέῳ δέπαι, ὄφρα πίοιμι,"
+    },
+    {
+      "n": 317,
+      "greek": "ἐν δέ τε φάρμακον ἧκε, κακὰ φρονέουσʼ ἐνὶ θυμῷ."
+    },
+    {
+      "n": 318,
+      "greek": "αὐτὰρ ἐπεὶ δῶκέν τε καὶ ἔκπιον, οὐδέ μʼ ἔθελξε,"
+    },
+    {
+      "n": 319,
+      "greek": "ῥάβδῳ πεπληγυῖα ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζεν·"
+    },
+    {
+      "n": 320,
+      "greek": "ἔρχεο νῦν συφεόνδε, μετʼ ἄλλων λέξο ἑταίρων."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "Moly the gods call it, and it is hard for mortal men to dig; but with the gods all things are possible. Hermes then departed to high Olympus through the wooded isle, and I went my way to the house of Circe, and many things did my heart darkly ponder as I went."
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "So I stood at the gates of the fair-tressed goddess. There I stood and called, and the goddess heard my voice. Straightway then she came forth, and opened the bright doors, and bade me in; and I went with her, my heart sore troubled. She brought me in and made me sit on a silver-studded chair,"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "a beautiful chair, richly wrought, and beneath was a foot-stool for the feet. And she prepared me a potion in a golden cup, that I might drink, and put therein a drug, with evil purpose in her heart. But when she had given it me, and I had drunk it off, yet was not bewitched, she smote me with her wand, and spoke, and addressed me:"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "‘Begone now to the sty, and lie with the rest of thy comrades.’ “So she spoke, but I, drawing my sharp sword from beside my thigh, rushed upon Circe, as though I would slay her. But she, with a loud cry, ran beneath, and clasped my knees, and with wailing she spoke to me winged words:"
+    }
+  ]
+}

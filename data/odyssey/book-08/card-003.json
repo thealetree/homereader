@@ -1,0 +1,122 @@
+{
+  "book": 8,
+  "card": 3,
+  "lineStart": 41,
+  "lineEnd": 60,
+  "lines": [
+    {
+      "n": 41,
+      "greek": "σκηπτοῦχοι βασιλῆες ἐμὰ πρὸς δώματα καλὰ"
+    },
+    {
+      "n": 42,
+      "greek": "ἔρχεσθʼ, ὄφρα ξεῖνον ἐνὶ μεγάροισι φιλέωμεν,"
+    },
+    {
+      "n": 43,
+      "greek": "μηδέ τις ἀρνείσθω. καλέσασθε δὲ θεῖον ἀοιδὸν"
+    },
+    {
+      "n": 44,
+      "greek": "Δημόδοκον· τῷ γάρ ῥα θεὸς πέρι δῶκεν ἀοιδὴν"
+    },
+    {
+      "n": 45,
+      "greek": "τέρπειν, ὅππῃ θυμὸς ἐποτρύνῃσιν ἀείδειν."
+    },
+    {
+      "n": 46,
+      "greek": "ὣς ἄρα φωνήσας ἡγήσατο, τοὶ δʼ ἅμʼ ἕποντο"
+    },
+    {
+      "n": 47,
+      "greek": "σκηπτοῦχοι· κῆρυξ δὲ μετῴχετο θεῖον ἀοιδόν."
+    },
+    {
+      "n": 48,
+      "greek": "κούρω δὲ κρινθέντε δύω καὶ πεντήκοντα"
+    },
+    {
+      "n": 49,
+      "greek": "βήτην, ὡς ἐκέλευσʼ, ἐπὶ θῖνʼ ἁλὸς ἀτρυγέτοιο."
+    },
+    {
+      "n": 50,
+      "greek": "αὐτὰρ ἐπεί ῥʼ ἐπὶ νῆα κατήλυθον ἠδὲ θάλασσαν,"
+    },
+    {
+      "n": 51,
+      "greek": "νῆα μὲν οἵ γε μέλαιναν ἁλὸς βένθοσδε ἔρυσσαν,"
+    },
+    {
+      "n": 52,
+      "greek": "ἐν δʼ ἱστόν τʼ ἐτίθεντο καὶ ἱστία νηὶ μελαίνῃ,"
+    },
+    {
+      "n": 53,
+      "greek": "ἠρτύναντο δʼ ἐρετμὰ τροποῖς ἐν δερματίνοισι,"
+    },
+    {
+      "n": 54,
+      "greek": "πάντα κατὰ μοῖραν, ἀνά θʼ ἱστία λευκὰ πέτασσαν."
+    },
+    {
+      "n": 55,
+      "greek": "ὑψοῦ δʼ ἐν νοτίῳ τήν γʼ ὥρμισαν· αὐτὰρ ἔπειτα"
+    },
+    {
+      "n": 56,
+      "greek": "βάν ῥʼ ἴμεν Ἀλκινόοιο δαΐφρονος ἐς μέγα δῶμα."
+    },
+    {
+      "n": 57,
+      "greek": "πλῆντο δʼ ἄρʼ αἴθουσαί τε καὶ ἕρκεα καὶ δόμοι ἀνδρῶν"
+    },
+    {
+      "n": 58,
+      "greek": "ἀγρομένων· πολλοὶ δʼ ἄρʼ ἔσαν, νέοι ἠδὲ παλαιοί."
+    },
+    {
+      "n": 59,
+      "greek": "τοῖσιν δʼ Ἀλκίνοος δυοκαίδεκα μῆλʼ ἱέρευσεν,"
+    },
+    {
+      "n": 60,
+      "greek": "ὀκτὼ δʼ ἀργιόδοντας ὕας, δύο δʼ εἰλίποδας βοῦς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "to give delight in whatever way his spirit prompts him to sing.” So saying, he led the way, and the sceptred kings followed him, while a herald went for the divine minstrel. And chosen youths, two and fifty, went, as he bade, to the shore of the unresting sea."
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "And when they had come down to the ship and to the sea, they drew the black ship down to the deep water, and placed the mast and sail in the black ship, and fitted the oars in the leathern thole-straps, all in due order, and spread the white sail."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "Well out in the roadstead they moored the ship, and then went their way to the great palace of the wise Alcinous. Filled were the porticoes and courts and rooms with the men that gathered, for many there were, both young and old. For them Alcinous slaughtered twelve sheep,"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "and eight white-tusked boars, and two oxen of shambling gait. These they flayed and dressed, and made ready a goodly feast. Then the herald drew near, leading the good minstrel, whom the Muse loved above all other men, and gave him both good and evil; of his sight she deprived him, but gave him the gift of sweet song."
+    }
+  ]
+}

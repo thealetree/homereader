@@ -1,0 +1,84 @@
+{
+  "book": 21,
+  "card": 22,
+  "lineStart": 421,
+  "lineEnd": 434,
+  "lines": [
+    {
+      "n": 421,
+      "greek": "ἄντα τιτυσκόμενος, πελέκεων δʼ οὐκ ἤμβροτε πάντων"
+    },
+    {
+      "n": 422,
+      "greek": "πρώτης στειλειῆς, διὰ δʼ ἀμπερὲς ἦλθε θύραζε"
+    },
+    {
+      "n": 423,
+      "greek": "ἰὸς χαλκοβαρής· ὁ δὲ Τηλέμαχον προσέειπε·"
+    },
+    {
+      "n": 424,
+      "greek": "Τηλέμαχʼ, οὔ σʼ ὁ ξεῖνος ἐνὶ μεγάροισιν ἐλέγχει"
+    },
+    {
+      "n": 425,
+      "greek": "ἥμενος, οὐδέ τι τοῦ σκοποῦ ἤμβροτον οὐδέ τι τόξον"
+    },
+    {
+      "n": 426,
+      "greek": "δὴν ἔκαμον τανύων· ἔτι μοι μένος ἔμπεδόν ἐστιν,"
+    },
+    {
+      "n": 427,
+      "greek": "οὐχ ὥς με μνηστῆρες ἀτιμάζοντες ὄνονται."
+    },
+    {
+      "n": 428,
+      "greek": "νῦν δʼ ὥρη καὶ δόρπον Ἀχαιοῖσιν τετυκέσθαι"
+    },
+    {
+      "n": 429,
+      "greek": "ἐν φάει, αὐτὰρ ἔπειτα καὶ ἄλλως ἑψιάασθαι"
+    },
+    {
+      "n": 430,
+      "greek": "μολπῇ καὶ φόρμιγγι· τὰ γάρ τʼ ἀναθήματα δαιτός."
+    },
+    {
+      "n": 431,
+      "greek": "ἦ καὶ ἐπʼ ὀφρύσι νεῦσεν· ὁ δʼ ἀμφέθετο ξίφος ὀξὺ"
+    },
+    {
+      "n": 432,
+      "greek": "Τηλέμαχος, φίλος υἱὸς Ὀδυσσῆος θείοιο,"
+    },
+    {
+      "n": 433,
+      "greek": "ἀμφὶ δὲ χεῖρα φίλην βάλεν ἔγχεϊ, ἄγχι δʼ ἄρʼ αὐτοῦ"
+    },
+    {
+      "n": 434,
+      "greek": "πὰρ θρόνον ἑστήκει κεκορυθμένος αἴθοπι χαλκῷ."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "that sits in thy halls brings no shame upon thee, nor in any wise did I miss the mark, or labour long in stringing the bow; still is my strength unbroken—not as the wooers scornfully taunt me. But now it is time that supper too be made ready for the Achaeans, while yet there is light, and thereafter must yet other sport be made"
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "with song and with the lyre; for these things are the accompaniments of a feast.” He spoke, and made a sign with his brows, and Telemachus, the dear son of divine Odysseus, girt about him his sharp sword, and took his spear in his grasp, and stood by the chair at his father's side, armed with gleaming bronze."
+    }
+  ]
+}

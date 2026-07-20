@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "δειδίμεν· ἤδη γάρ τοι ἀπώμοσα καρτερὸν ὅρκον."
+    },
+    {
+      "n": 382,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 383,
+      "greek": "ὦ Κίρκη, τίς γάρ κεν ἀνήρ, ὃς ἐναίσιμος εἴη,"
+    },
+    {
+      "n": 384,
+      "greek": "πρὶν τλαίη πάσσασθαι ἐδητύος ἠδὲ ποτῆτος,"
+    },
+    {
+      "n": 385,
+      "greek": "πρὶν λύσασθʼ ἑτάρους καὶ ἐν ὀφθαλμοῖσιν ἰδέσθαι;"
+    },
+    {
+      "n": 386,
+      "greek": "ἀλλʼ εἰ δὴ πρόφρασσα πιεῖν φαγέμεν τε κελεύεις,"
+    },
+    {
+      "n": 387,
+      "greek": "λῦσον, ἵνʼ ὀφθαλμοῖσιν ἴδω ἐρίηρας ἑταίρους."
+    },
+    {
+      "n": 388,
+      "greek": "ὣς ἐφάμην, Κίρκη δὲ διὲκ μεγάροιο βεβήκει"
+    },
+    {
+      "n": 389,
+      "greek": "ῥάβδον ἔχουσʼ ἐν χειρί, θύρας δʼ ἀνέῳξε συφειοῦ,"
+    },
+    {
+      "n": 390,
+      "greek": "ἐκ δʼ ἔλασεν σιάλοισιν ἐοικότας ἐννεώροισιν."
+    },
+    {
+      "n": 391,
+      "greek": "οἱ μὲν ἔπειτʼ ἔστησαν ἐναντίοι, ἡ δὲ διʼ αὐτῶν"
+    },
+    {
+      "n": 392,
+      "greek": "ἐρχομένη προσάλειφεν ἑκάστῳ φάρμακον ἄλλο."
+    },
+    {
+      "n": 393,
+      "greek": "τῶν δʼ ἐκ μὲν μελέων τρίχες ἔρρεον, ἃς πρὶν ἔφυσε"
+    },
+    {
+      "n": 394,
+      "greek": "φάρμακον οὐλόμενον, τό σφιν πόρε πότνια Κίρκη·"
+    },
+    {
+      "n": 395,
+      "greek": "ἄνδρες δʼ ἂψ ἐγένοντο νεώτεροι ἢ πάρος ἦσαν,"
+    },
+    {
+      "n": 396,
+      "greek": "καὶ πολὺ καλλίονες καὶ μείζονες εἰσοράασθαι."
+    },
+    {
+      "n": 397,
+      "greek": "ἔγνωσαν δέ μʼ ἐκεῖνοι ἔφυν τʼ ἐν χερσὶν ἕκαστος."
+    },
+    {
+      "n": 398,
+      "greek": "πᾶσιν δʼ ἱμερόεις ὑπέδυ γόος, ἀμφὶ δὲ δῶμα"
+    },
+    {
+      "n": 399,
+      "greek": "σμερδαλέον κονάβιζε· θεὰ δʼ ἐλέαιρε καὶ αὐτή."
+    },
+    {
+      "n": 400,
+      "greek": "ἡ δέ μευ ἄγχι στᾶσα προσηύδα δῖα θεάων·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "ere yet he had won freedom for his comrades, and beheld them before his face? But if thou of a ready heart dost bid me eat and drink, set them free, that mine eyes may behold my trusty comrades.’ “So I spoke, and Circe went forth through the hall holding her wand in her hand, and opened the doors of the sty,"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "and drove them out in the form of swine of nine years old. So they stood there before her, and she went through the midst of them, and anointed each man with another charm. Then from their limbs the bristles fell away which the baneful drug that queenly Circe gave them had before made to grow,"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "and they became men again, younger than they were before, and far comelier and taller to look upon. They knew me, and clung to my hands, each man of them, and upon them all came a passionate sobbing, and the house about them rang wondrously, and the goddess herself was moved to pity."
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "“Then the beautiful goddess drew near me, and said: ‘Son of Laertes, sprung from Zeus, Odysseus of many devices, go now to thy swift ship and to the shore of the sea. First of all do ye draw the ship up on the land, and store your goods and all the tackling in caves."
+    }
+  ]
+}

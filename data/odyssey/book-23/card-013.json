@@ -1,0 +1,122 @@
+{
+  "book": 23,
+  "card": 13,
+  "lineStart": 242,
+  "lineEnd": 261,
+  "lines": [
+    {
+      "n": 242,
+      "greek": "εἰ μὴ ἄρʼ ἄλλʼ ἐνόησε θεὰ γλαυκῶπις Ἀθήνη."
+    },
+    {
+      "n": 243,
+      "greek": "νύκτα μὲν ἐν περάτῃ δολιχὴν σχέθεν, Ἠῶ δʼ αὖτε"
+    },
+    {
+      "n": 244,
+      "greek": "ῥύσατʼ ἐπʼ Ὠκεανῷ χρυσόθρονον, οὐδʼ ἔα ἵππους"
+    },
+    {
+      "n": 245,
+      "greek": "ζεύγνυσθʼ ὠκύποδας, φάος ἀνθρώποισι φέροντας,"
+    },
+    {
+      "n": 246,
+      "greek": "Λάμπον καὶ Φαέθονθʼ, οἵ τʼ Ἠῶ πῶλοι ἄγουσι."
+    },
+    {
+      "n": 247,
+      "greek": "καὶ τότʼ ἄρʼ ἣν ἄλοχον προσέφη πολύμητις Ὀδυσσεύς"
+    },
+    {
+      "n": 248,
+      "greek": "ὦ γύναι, οὐ γάρ πω πάντων ἐπὶ πείρατʼ ἀέθλων"
+    },
+    {
+      "n": 249,
+      "greek": "ἤλθομεν, ἀλλʼ ἔτʼ ὄπισθεν ἀμέτρητος πόνος ἔσται,"
+    },
+    {
+      "n": 250,
+      "greek": "πολλὸς καὶ χαλεπός, τὸν ἐμὲ χρὴ πάντα τελέσσαι."
+    },
+    {
+      "n": 251,
+      "greek": "ὣς γάρ μοι ψυχὴ μαντεύσατο Τειρεσίαο"
+    },
+    {
+      "n": 252,
+      "greek": "ἤματι τῷ ὅτε δὴ κατέβην δόμον Ἄϊδος εἴσω,"
+    },
+    {
+      "n": 253,
+      "greek": "νόστον ἑταίροισιν διζήμενος ἠδʼ ἐμοὶ αὐτῷ."
+    },
+    {
+      "n": 254,
+      "greek": "ἀλλʼ ἔρχευ, λέκτρονδʼ ἴομεν, γύναι, ὄφρα καὶ ἤδη"
+    },
+    {
+      "n": 255,
+      "greek": "ὕπνῳ ὕπο γλυκερῷ ταρπώμεθα κοιμηθέντε."
+    },
+    {
+      "n": 256,
+      "greek": "τὸν δʼ αὖτε προσέειπε περίφρων Πηνελόπεια·"
+    },
+    {
+      "n": 257,
+      "greek": "εὐνὴ μὲν δή σοί γε τότʼ ἔσσεται ὁππότε θυμῷ"
+    },
+    {
+      "n": 258,
+      "greek": "σῷ ἐθέλῃς, ἐπεὶ ἄρ σε θεοὶ ποίησαν ἱκέσθαι"
+    },
+    {
+      "n": 259,
+      "greek": "οἶκον ἐϋκτίμενον καὶ σὴν ἐς πατρίδα γαῖαν·"
+    },
+    {
+      "n": 260,
+      "greek": "ἀλλʼ ἐπεὶ ἐφράσθης καί τοι θεὸς ἔμβαλε θυμῷ,"
+    },
+    {
+      "n": 261,
+      "greek": "εἴπʼ ἄγε μοι τὸν ἄεθλον, ἐπεὶ καὶ ὄπισθεν, ὀΐω,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "to yoke her swift-footed horses that bring light to men, Lampus and Phaethon, who are the colts that bear the Dawn. Then to his wife said Odysseus of many wiles: “Wife, we have not yet come to the end of all our trials, but still hereafter there is to be measureless toil,"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "long and hard, which I must fulfil to the end; for so did the spirit of Teiresias foretell to me on the day when I went down into the house of Hades to enquire concerning the return of my comrades and myself. But come, wife, let us to bed, that"
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "lulled now by sweet slumber we may take our joy of rest.” Then wise Penelope answered him: “Thy bed shall be ready for thee whensoever thy heart shall desire it, since the gods have indeed caused thee to come back to thy well-built house and thy native land."
+    },
+    {
+      "lines": [
+        260,
+        261
+      ],
+      "text": "But since thou hast bethought thee of this, and a god has put it into thy heart, come, tell me of this trial, for in time to come, methinks, I shall learn of it, and to know it at once is no whit worse.” And Odysseus of many wiles answered her, and said: “Strange lady! why dost thou now so urgently bid me"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 19,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ὡς σὺ δέμας φωνήν τε πόδας τʼ Ὀδυσῆϊ ἔοικας."
+    },
+    {
+      "n": 382,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 383,
+      "greek": "ὦ γρηῦ, οὕτω φασὶν ὅσοι ἴδον ὀφθαλμοῖσιν"
+    },
+    {
+      "n": 384,
+      "greek": "ἡμέας ἀμφοτέρους, μάλα εἰκέλω ἀλλήλοιϊν"
+    },
+    {
+      "n": 385,
+      "greek": "ἔμμεναι, ὡς σύ περ αὐτὴ ἐπιφρονέουσʼ ἀγορεύεις."
+    },
+    {
+      "n": 386,
+      "greek": "ὣς ἄρʼ ἔφη, γρηῢς δὲ λέβηθʼ ἕλε παμφανόωντα"
+    },
+    {
+      "n": 387,
+      "greek": "τοῦ πόδας ἐξαπένιζεν, ὕδωρ δʼ ἐνεχεύατο πουλὺ"
+    },
+    {
+      "n": 388,
+      "greek": "ψυχρόν, ἔπειτα δὲ θερμὸν ἐπήφυσεν. αὐτὰρ Ὀδυσσεὺς"
+    },
+    {
+      "n": 389,
+      "greek": "ἷζεν ἐπʼ ἐσχαρόφιν, ποτὶ δὲ σκότον ἐτράπετʼ αἶψα·"
+    },
+    {
+      "n": 390,
+      "greek": "αὐτίκα γὰρ κατὰ θυμὸν ὀΐσατο, μή ἑ λαβοῦσα"
+    },
+    {
+      "n": 391,
+      "greek": "οὐλὴν ἀμφράσσαιτο καὶ ἀμφαδὰ ἔργα γένοιτο."
+    },
+    {
+      "n": 392,
+      "greek": "νίζε δʼ ἄρʼ ἆσσον ἰοῦσα ἄναχθʼ ἑόν· αὐτίκα δʼ ἔγνω"
+    },
+    {
+      "n": 393,
+      "greek": "οὐλήν, τήν ποτέ μιν σῦς ἤλασε λευκῷ ὀδόντι"
+    },
+    {
+      "n": 394,
+      "greek": "Παρνησόνδʼ ἐλθόντα μετʼ Αὐτόλυκόν τε καὶ υἷας,"
+    },
+    {
+      "n": 395,
+      "greek": "μητρὸς ἑῆς πάτερʼ ἐσθλόν, ὃς ἀνθρώπους ἐκέκαστο"
+    },
+    {
+      "n": 396,
+      "greek": "κλεπτοσύνῃ θʼ ὅρκῳ τε· θεὸς δέ οἱ αὐτὸς ἔδωκεν"
+    },
+    {
+      "n": 397,
+      "greek": "Ἑρμείας· τῷ γὰρ κεχαρισμένα μηρία καῖεν"
+    },
+    {
+      "n": 398,
+      "greek": "ἀρνῶν ἠδʼ ἐρίφων· ὁ δέ οἱ πρόφρων ἅμʼ ὀπήδει."
+    },
+    {
+      "n": 399,
+      "greek": "Αὐτόλυκος δʼ ἐλθὼν Ἰθάκης ἐς πίονα δῆμον"
+    },
+    {
+      "n": 400,
+      "greek": "παῖδα νέον γεγαῶτα κιχήσατο θυγατέρος ἧς·"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "we are very like each other, even as thou thyself dost note and say.” So he spoke, and the old dame took the shining cauldron with water wherefrom she was about to wash his feet, and poured in cold water in plenty, and then added thereto the warm. But Odysseus sat him down away from the hearth and straightway turned himself toward the darkness,"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "for he at once had a foreboding at heart that, as she touched him, she might note a scar, and the truth be made manifest. So she drew near and began to wash her lord, and straightway knew the scar of the wound which long ago a boar had dealt him with his white tusk, when Odysseus had gone to Parnassus to visit Autolycus and the sons of Autolycus,"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "his mother's noble father, who excelled all men in thievery and in oaths. It was a god himself that had given him this skill, even Hermes, for to him he was wont to burn acceptable sacrifices of the thighs of lambs and kids; so Hermes befriended him with a ready heart. Now Autolycus, on coming once to the rich land of Ithaca,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "had found his daughter's son a babe new-born, and when he was finishing his supper, Eurycleia laid the child upon his knees and spoke, and addressed him: “Autolycus, find now thyself a name to give to thy child's own child; be sure he has long been prayed for.”"
+    }
+  ]
+}

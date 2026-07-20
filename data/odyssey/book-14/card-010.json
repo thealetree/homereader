@@ -1,0 +1,122 @@
+{
+  "book": 14,
+  "card": 10,
+  "lineStart": 181,
+  "lineEnd": 200,
+  "lines": [
+    {
+      "n": 181,
+      "greek": "οἴκαδʼ ἰόντα λοχῶσιν, ὅπως ἀπὸ φῦλον ὄληται"
+    },
+    {
+      "n": 182,
+      "greek": "νώνυμον ἐξ Ἰθάκης Ἀρκεισίου ἀντιθέοιο."
+    },
+    {
+      "n": 183,
+      "greek": "ἀλλʼ ἦ τοι κεῖνον μὲν ἐάσομεν, ἤ κεν ἁλώῃ"
+    },
+    {
+      "n": 184,
+      "greek": "ἦ κε φύγῃ καί κέν οἱ ὑπέρσχῃ χεῖρα Κρονίων."
+    },
+    {
+      "n": 185,
+      "greek": "ἀλλʼ ἄγε μοι σύ, γεραιέ, τὰ σʼ αὐτοῦ κήδεʼ ἐνίσπες"
+    },
+    {
+      "n": 186,
+      "greek": "καί μοι τοῦτʼ ἀγόρευσον ἐτήτυμον, ὄφρʼ ἐῢ εἰδῶ·"
+    },
+    {
+      "n": 187,
+      "greek": "τίς πόθεν εἶς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες;"
+    },
+    {
+      "n": 188,
+      "greek": "ὁπποίης τʼ ἐπὶ νηὸς ἀφίκεο· πῶς δέ σε ναῦται"
+    },
+    {
+      "n": 189,
+      "greek": "ἤγαγον εἰς Ἰθάκην; τίνες ἔμμεναι εὐχετόωντο;"
+    },
+    {
+      "n": 190,
+      "greek": "οὐ μὲν γάρ τί σε πεζὸν ὀΐομαι ἐνθάδʼ ἱκέσθαι."
+    },
+    {
+      "n": 191,
+      "greek": "τὸν δʼ ἀπαμειβόμενος προσέφη πολύμητις Ὀδυσσεύς"
+    },
+    {
+      "n": 192,
+      "greek": "τοιγὰρ ἐγώ τοι ταῦτα μάλʼ ἀτρεκέως ἀγορεύσω."
+    },
+    {
+      "n": 193,
+      "greek": "εἴη μὲν νῦν νῶϊν ἐπὶ χρόνον ἠμὲν ἐδωδὴ"
+    },
+    {
+      "n": 194,
+      "greek": "ἠδὲ μέθυ γλυκερὸν κλισίης ἔντοσθεν ἐοῦσι,"
+    },
+    {
+      "n": 195,
+      "greek": "δαίνυσθαι ἀκέοντʼ, ἄλλοι δʼ ἐπὶ ἔργον ἕποιεν·"
+    },
+    {
+      "n": 196,
+      "greek": "ῥηϊδίως κεν ἔπειτα καὶ εἰς ἐνιαυτὸν ἅπαντα"
+    },
+    {
+      "n": 197,
+      "greek": "οὔ τι διαπρήξαιμι λέγων ἐμὰ κήδεα θυμοῦ,"
+    },
+    {
+      "n": 198,
+      "greek": "ὅσσα γε δὴ ξύμπαντα θεῶν ἰότητι μόγησα."
+    },
+    {
+      "n": 199,
+      "greek": "ἐκ μὲν Κρητάων γένος εὔχομαι εὐρειάων,"
+    },
+    {
+      "n": 200,
+      "greek": "ἀνέρος ἀφνειοῖο πάϊς· πολλοὶ δὲ καὶ ἄλλοι"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "But come, do thou, old man, tell me of thine own sorrows, and declare me this truly, that I may know full well. Who art thou among men, and from whence? Where is thy city, and where thy parents? On what manner of ship didst thou come, and how did sailors bring thee to Ithaca? Who did they declare themselves to be?"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "For nowise, methinks, didst thou come hither on foot.” Then Odysseus of many wiles answered him, and said: “Then verily I will frankly tell thee all. Would that now we two might have food and sweet wine for the while,"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "to feast on in quiet here in thy hut, and that others might go about their work; easily then might I tell on for a full year, and yet in no wise finish the tale of the woes of my spirit—even all the toils that I have endured by the will of the gods. “From broad Crete I declare that I am come by lineage,"
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "the son of a wealthy man. And many other sons too were born and bred in his halls, true sons of a lawful wife; but the mother that bore me was bought, a concubine. Yet Castor, son of Hylax, of whom I declare that I am sprung, honored me even as his true-born sons."
+    }
+  ]
+}

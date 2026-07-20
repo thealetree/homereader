@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "αἴθʼ οὕτως, Εὔμαιε, φίλος Διὶ πατρὶ γένοιο"
+    },
+    {
+      "n": 342,
+      "greek": "ὡς ἐμοί, ὅττι μʼ ἔπαυσας ἄλης καὶ ὀϊζύος αἰνῆς."
+    },
+    {
+      "n": 343,
+      "greek": "πλαγκτοσύνης δʼ οὐκ ἔστι κακώτερον ἄλλο βροτοῖσιν·"
+    },
+    {
+      "n": 344,
+      "greek": "ἀλλʼ ἕνεκʼ οὐλομένης γαστρὸς κακὰ κήδεʼ ἔχουσιν"
+    },
+    {
+      "n": 345,
+      "greek": "ἀνέρες, ὅν τινʼ ἵκηται ἄλη καὶ πῆμα καὶ ἄλγος."
+    },
+    {
+      "n": 346,
+      "greek": "νῦν δʼ ἐπεὶ ἰσχανάᾳς μεῖναι τέ με κεῖνον ἄνωγας,"
+    },
+    {
+      "n": 347,
+      "greek": "εἴπʼ ἄγε μοι περὶ μητρὸς Ὀδυσσῆος θείοιο"
+    },
+    {
+      "n": 348,
+      "greek": "πατρός θʼ, ὃν κατέλειπεν ἰὼν ἐπὶ γήραος οὐδῷ,"
+    },
+    {
+      "n": 349,
+      "greek": "ἤ που ἔτι ζώουσιν ὑπʼ αὐγὰς ἠελίοιο,"
+    },
+    {
+      "n": 350,
+      "greek": "ἦ ἤδη τεθνᾶσι καὶ εἰν Ἀΐδαο δόμοισι."
+    },
+    {
+      "n": 351,
+      "greek": "τὸν δʼ αὖτε προσέειπε συβώτης, ὄρχαμος ἀνδρῶν·"
+    },
+    {
+      "n": 352,
+      "greek": "τοιγὰρ ἐγώ τοι, ξεῖνε, μάλʼ ἀτρεκέως ἀγορεύσω."
+    },
+    {
+      "n": 353,
+      "greek": "Λαέρτης μὲν ἔτι ζώει, Διὶ δʼ εὔχεται αἰεὶ"
+    },
+    {
+      "n": 354,
+      "greek": "θυμὸν ἀπὸ μελέων φθίσθαι οἷς ἐν μεγάροισιν·"
+    },
+    {
+      "n": 355,
+      "greek": "ἐκπάγλως γὰρ παιδὸς ὀδύρεται οἰχομένοιο"
+    },
+    {
+      "n": 356,
+      "greek": "κουριδίης τʼ ἀλόχοιο δαΐφρονος, ἥ ἑ μάλιστα"
+    },
+    {
+      "n": 357,
+      "greek": "ἤκαχʼ ἀποφθιμένη καὶ ἐν ὠμῷ γήραϊ θῆκεν."
+    },
+    {
+      "n": 358,
+      "greek": "ἡ δʼ ἄχεϊ οὗ παιδὸς ἀπέφθιτο κυδαλίμοιο,"
+    },
+    {
+      "n": 359,
+      "greek": "λευγαλέῳ θανάτῳ, ὡς μὴ θάνοι ὅς τις ἐμοί γε"
+    },
+    {
+      "n": 360,
+      "greek": "ἐνθάδε ναιετάων φίλος εἴη καὶ φίλα ἔρδοι."
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "men endure evil woes, when wandering and sorrow and pain come upon them. But now, since thou keepest me here and biddest me await thy master, come, tell me of the mother of godlike Odysseus, and of the father, whom, when he went forth, he left behind him on the threshold of old age. Are they haply still living beneath the rays of the sun?"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "or are they now dead and in the house of Hades?” Then the swineherd, a leader of men, answered him: “Then verily, stranger, will I frankly tell thee. Laertes still lives, but ever prays to Zeus that his life may waste away from his limbs within his halls."
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "For wondrously does he grieve for his son that is gone, and for the wise lady, his wedded wife, whose death troubled him most of all, and brought him to untimely old age. But she died of grief for her glorious son by a miserable death, as I would that no man may die"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "who dwells here as my friend and does me kindness. So long as she lived, though it was in sorrow, it was ever a pleasure to me to ask and enquire after her, for she herself had brought me up with long-robed Ctimene, her noble daughter, whom she bore as her youngest child."
+    }
+  ]
+}

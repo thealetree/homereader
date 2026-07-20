@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "νόστον θʼ, ὡς ἐπὶ πόντον ἐλεύσομαι ἰχθυόεντα."
+    },
+    {
+      "n": 382,
+      "greek": "ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀμείβετο δῖα θεάων·"
+    },
+    {
+      "n": 383,
+      "greek": "τοιγὰρ ἐγώ τοι, ξεῖνε, μάλʼ ἀτρεκέως ἀγορεύσω."
+    },
+    {
+      "n": 384,
+      "greek": "πωλεῖταί τις δεῦρο γέρων ἅλιος νημερτὴς"
+    },
+    {
+      "n": 385,
+      "greek": "ἀθάνατος Πρωτεὺς Αἰγύπτιος, ὅς τε θαλάσσης"
+    },
+    {
+      "n": 386,
+      "greek": "πάσης βένθεα οἶδε, Ποσειδάωνος ὑποδμώς·"
+    },
+    {
+      "n": 387,
+      "greek": "τὸν δέ τʼ ἐμόν φασιν πατέρʼ ἔμμεναι ἠδὲ τεκέσθαι."
+    },
+    {
+      "n": 388,
+      "greek": "τόν γʼ εἴ πως σὺ δύναιο λοχησάμενος λελαβέσθαι,"
+    },
+    {
+      "n": 389,
+      "greek": "ὅς κέν τοι εἴπῃσιν ὁδὸν καὶ μέτρα κελεύθου"
+    },
+    {
+      "n": 390,
+      "greek": "νόστον θʼ, ὡς ἐπὶ πόντον ἐλεύσεαι ἰχθυόεντα."
+    },
+    {
+      "n": 391,
+      "greek": "καὶ δέ κέ τοι εἴπῃσι, διοτρεφές, αἴ κʼ ἐθέλῃσθα,"
+    },
+    {
+      "n": 392,
+      "greek": "ὅττι τοι ἐν μεγάροισι κακόν τʼ ἀγαθόν τε τέτυκται"
+    },
+    {
+      "n": 393,
+      "greek": "οἰχομένοιο σέθεν δολιχὴν ὁδὸν ἀργαλέην τε."
+    },
+    {
+      "n": 394,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ μιν ἀμειβόμενος προσέειπον·"
+    },
+    {
+      "n": 395,
+      "greek": "αὐτὴ νῦν φράζευ σὺ λόχον θείοιο γέροντος,"
+    },
+    {
+      "n": 396,
+      "greek": "μή πώς με προϊδὼν ἠὲ προδαεὶς ἀλέηται·"
+    },
+    {
+      "n": 397,
+      "greek": "ἀργαλέος γάρ τʼ ἐστὶ θεὸς βροτῷ ἀνδρὶ δαμῆναι."
+    },
+    {
+      "n": 398,
+      "greek": "ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀμείβετο δῖα θεάων·"
+    },
+    {
+      "n": 399,
+      "greek": "τοιγὰρ ἐγώ τοι, ξεῖνε, μάλʼ ἀτρεκέως ἀγορεύσω."
+    },
+    {
+      "n": 400,
+      "greek": "ἦμος δʼ ἠέλιος μέσον οὐρανὸν ἀμφιβεβήκῃ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "immortal Proteus of Egypt, who knows the depths of every sea, and is the servant of Poseidon. He, they say, is my father that begat me. If thou couldst in any wise lie in wait and catch him, he will tell thee thy way and the measure of thy path,"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "and of thy return, how thou mayest go over the teeming deep. Aye, and he will tell thee, thou fostered of Zeus, if so thou wilt, what evil and what good has been wrought in thy halls, while thou hast been gone on thy long and grievous way.’ “So she spoke, and I made answer and said:"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "‘Do thou thyself now devise a means of lying in wait for the divine old man, lest haply he see me beforehand and being ware of my purpose avoid me. For hard is a god for a mortal man to master.’ “So I spoke, and the beautiful goddess straightway made answer: ‘Then verily, stranger, will I frankly tell thee all."
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "When the sun hath reached mid-heaven, the unerring old man of the sea is wont to come forth from the brine at the breath of the West Wind, hidden by the dark ripple. And when he is come forth, he lies down to sleep in the hollow caves; and around him the seals, the brood of the fair daughter of the sea,"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 5,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ἵκετο δʼ εἰς Αἰγάς, ὅθι οἱ κλυτὰ δώματʼ ἔασιν."
+    },
+    {
+      "n": 382,
+      "greek": "αὐτὰρ Ἀθηναίη κούρη Διὸς ἄλλʼ ἐνόησεν."
+    },
+    {
+      "n": 383,
+      "greek": "ἦ τοι τῶν ἄλλων ἀνέμων κατέδησε κελεύθους,"
+    },
+    {
+      "n": 384,
+      "greek": "παύσασθαι δʼ ἐκέλευσε καὶ εὐνηθῆναι ἅπαντας·"
+    },
+    {
+      "n": 385,
+      "greek": "ὦρσε δʼ ἐπὶ κραιπνὸν Βορέην, πρὸ δὲ κύματʼ ἔαξεν,"
+    },
+    {
+      "n": 386,
+      "greek": "ἧος ὃ Φαιήκεσσι φιληρέτμοισι μιγείη"
+    },
+    {
+      "n": 387,
+      "greek": "διογενὴς Ὀδυσεὺς θάνατον καὶ κῆρας ἀλύξας."
+    },
+    {
+      "n": 388,
+      "greek": "ἔνθα δύω νύκτας δύο τʼ ἤματα κύματι πηγῷ"
+    },
+    {
+      "n": 389,
+      "greek": "πλάζετο, πολλὰ δέ οἱ κραδίη προτιόσσετʼ ὄλεθρον."
+    },
+    {
+      "n": 390,
+      "greek": "ἀλλʼ ὅτε δὴ τρίτον ἦμαρ ἐυπλόκαμος τέλεσʼ Ἠώς,"
+    },
+    {
+      "n": 391,
+      "greek": "καὶ τότʼ ἔπειτʼ ἄνεμος μὲν ἐπαύσατο ἠδὲ γαλήνη"
+    },
+    {
+      "n": 392,
+      "greek": "ἔπλετο νηνεμίη· ὁ δʼ ἄρα σχεδὸν εἴσιδε γαῖαν"
+    },
+    {
+      "n": 393,
+      "greek": "ὀξὺ μάλα προϊδών, μεγάλου ὑπὸ κύματος ἀρθείς."
+    },
+    {
+      "n": 394,
+      "greek": "ὡς δʼ ὅτʼ ἂν ἀσπάσιος βίοτος παίδεσσι φανήῃ"
+    },
+    {
+      "n": 395,
+      "greek": "πατρός, ὃς ἐν νούσῳ κεῖται κρατέρʼ ἄλγεα πάσχων,"
+    },
+    {
+      "n": 396,
+      "greek": "δηρὸν τηκόμενος, στυγερὸς δέ οἱ ἔχραε δαίμων,"
+    },
+    {
+      "n": 397,
+      "greek": "ἀσπάσιον δʼ ἄρα τόν γε θεοὶ κακότητος ἔλυσαν,"
+    },
+    {
+      "n": 398,
+      "greek": "ὣς Ὀδυσεῖ ἀσπαστὸν ἐείσατο γαῖα καὶ ὕλη,"
+    },
+    {
+      "n": 399,
+      "greek": "νῆχε δʼ ἐπειγόμενος ποσὶν ἠπείρου ἐπιβῆναι."
+    },
+    {
+      "n": 400,
+      "greek": "ἀλλʼ ὅτε τόσσον ἀπῆν ὅσσον τε γέγωνε βοήσας,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "but she roused the swift North Wind, and broke the waves before him, to the end that Zeus-born Odysseus might come among the Phaeacians, lovers of the oar, escaping from death and the fates. Then for two nights and two days he was driven about over the swollen waves, and full often his heart forboded destruction."
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "But when fair-tressed Dawn brought to its birth the third day, then the wind ceased and there was a windless calm, and he caught sight of the shore close at hand, casting a quick glance forward, as he was raised up by a great wave. And even as when most welcome to his children appears the life"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "of a father who lies in sickness, bearing grievous pains, long while wasting away, and some cruel god assails him, but then to their joy the gods free him from his woe, so to Odysseus did the land and the wood seem welcome; and he swam on, eager to set foot on the land."
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "But when he was as far away as a man's voice carries when he shouts, and heard the boom of the sea upon the reefs—for the great wave thundered against the dry land, belching upon it in terrible fashion, and all things were wrapped in the foam of the sea; for there were neither harbors where ships might ride, nor road-steads,"
+    }
+  ]
+}

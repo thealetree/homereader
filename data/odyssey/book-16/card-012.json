@@ -1,0 +1,122 @@
+{
+  "book": 16,
+  "card": 12,
+  "lineStart": 222,
+  "lineEnd": 241,
+  "lines": [
+    {
+      "n": 222,
+      "greek": "ποίῃ γὰρ νῦν δεῦρο, πάτερ φίλε, νηΐ σε ναῦται"
+    },
+    {
+      "n": 223,
+      "greek": "ἤγαγον εἰς Ἰθάκην; τίνες ἔμμεναι εὐχετόωντο;"
+    },
+    {
+      "n": 224,
+      "greek": "οὐ μὲν γάρ τί σε πεζὸν ὀΐομαι ἐνθάδʼ ἱκέσθαι."
+    },
+    {
+      "n": 225,
+      "greek": "τὸν δʼ αὖτε προσέειπε πολύτλας δῖος Ὀδυσσεύς·"
+    },
+    {
+      "n": 226,
+      "greek": "τοιγὰρ ἐγώ τοι, τέκνον, ἀληθείην καταλέξω."
+    },
+    {
+      "n": 227,
+      "greek": "Φαίηκές μʼ ἄγαγον ναυσίκλυτοι, οἵ τε καὶ ἄλλους"
+    },
+    {
+      "n": 228,
+      "greek": "ἀνθρώπους πέμπουσιν, ὅτις σφέας εἰσαφίκηται·"
+    },
+    {
+      "n": 229,
+      "greek": "καί μʼ εὕδοντʼ ἐν νηῒ θοῇ ἐπὶ πόντον ἄγοντες"
+    },
+    {
+      "n": 230,
+      "greek": "κάτθεσαν εἰς Ἰθάκην, ἔπορον δέ μοι ἀγλαὰ δῶρα,"
+    },
+    {
+      "n": 231,
+      "greek": "χαλκόν τε χρυσόν τε ἅλις ἐσθῆτά θʼ ὑφαντήν."
+    },
+    {
+      "n": 232,
+      "greek": "καὶ τὰ μὲν ἐν σπήεσσι θεῶν ἰότητι κέονται·"
+    },
+    {
+      "n": 233,
+      "greek": "νῦν αὖ δεῦρʼ ἱκόμην ὑποθημοσύνῃσιν Ἀθήνης,"
+    },
+    {
+      "n": 234,
+      "greek": "ὄφρα κε δυσμενέεσσι φόνου πέρι βουλεύσωμεν."
+    },
+    {
+      "n": 235,
+      "greek": "ἀλλʼ ἄγε μοι μνηστῆρας ἀριθμήσας κατάλεξον,"
+    },
+    {
+      "n": 236,
+      "greek": "ὄφρʼ εἰδέω ὅσσοι τε καὶ οἵ τινες ἀνέρες εἰσί·"
+    },
+    {
+      "n": 237,
+      "greek": "καί κεν ἐμὸν κατὰ θυμὸν ἀμύμονα μερμηρίξας"
+    },
+    {
+      "n": 238,
+      "greek": "φράσσομαι, ἤ κεν νῶϊ δυνησόμεθʼ ἀντιφέρεσθαι"
+    },
+    {
+      "n": 239,
+      "greek": "μούνω ἄνευθʼ ἄλλων, ἦ καὶ διζησόμεθʼ ἄλλους."
+    },
+    {
+      "n": 240,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 241,
+      "greek": "ὦ πάτερ, ἦ τοι σεῖο μέγα κλέος αἰὲν ἄκουον,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "And the much-enduring, goodly Odysseus answered him: “Then verily, my child, I will tell thee all the truth. The Phaeacians brought me, men famed for their ships, who send other men too on their way, whosoever comes to them. And they brought me as I slept in a swift ship over the sea,"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "and set me down in Ithaca, and gave me glorious gifts, stores of bronze and gold and woven raiment. These treasures, by the favour of the gods, are lying in caves. And now I am come hither at the bidding of Athena, that we may take counsel about the slaying of our foes."
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "Come now, count me the wooers, and tell their tale, that I may know how many they are and what manner of men, and that I may ponder in my noble heart and decide whether we two shall be able to maintain our cause against them alone without others, or whether we shall also seek out others.”"
+    },
+    {
+      "lines": [
+        240,
+        241
+      ],
+      "text": "Then wise Telemachus answered him: “Father, of a truth I have ever heard of thy great fame, that thou wast a warrior in strength of hand and in wise counsel, but this thou sayest is too great; amazement holds me. It could not be that two men should fight against many men and mighty."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 38,
+  "lineStart": 741,
+  "lineEnd": 760,
+  "lines": [
+    {
+      "n": 741,
+      "greek": "ὃν καὶ Ὀδυσσῆος φθῖσαι γόνον ἀντιθέοιο."
+    },
+    {
+      "n": 742,
+      "greek": "τὴν δʼ αὖτε προσέειπε φίλη τροφὸς Εὐρύκλεια·"
+    },
+    {
+      "n": 743,
+      "greek": "νύμφα φίλη, σὺ μὲν ἄρ με κατάκτανε νηλέι χαλκῷ"
+    },
+    {
+      "n": 744,
+      "greek": "ἢ ἔα ἐν μεγάρῳ· μῦθον δέ τοι οὐκ ἐπικεύσω."
+    },
+    {
+      "n": 745,
+      "greek": "ᾔδεʼ ἐγὼ τάδε πάντα, πόρον δέ οἱ ὅσσʼ ἐκέλευε,"
+    },
+    {
+      "n": 746,
+      "greek": "σῖτον καὶ μέθυ ἡδύ· ἐμεῦ δʼ ἕλετο μέγαν ὅρκον"
+    },
+    {
+      "n": 747,
+      "greek": "μὴ πρὶν σοὶ ἐρέειν, πρὶν δωδεκάτην γε γενέσθαι"
+    },
+    {
+      "n": 748,
+      "greek": "ἢ σʼ αὐτὴν ποθέσαι καὶ ἀφορμηθέντος ἀκοῦσαι,"
+    },
+    {
+      "n": 749,
+      "greek": "ὡς ἂν μὴ κλαίουσα κατὰ χρόα καλὸν ἰάπτῃς."
+    },
+    {
+      "n": 750,
+      "greek": "ἀλλʼ ὑδρηναμένη, καθαρὰ χροῒ εἵμαθʼ ἑλοῦσα,"
+    },
+    {
+      "n": 751,
+      "greek": "εἰς ὑπερῷʼ ἀναβᾶσα σὺν ἀμφιπόλοισι γυναιξὶν"
+    },
+    {
+      "n": 752,
+      "greek": "εὔχεʼ Ἀθηναίῃ κούρῃ Διὸς αἰγιόχοιο·"
+    },
+    {
+      "n": 753,
+      "greek": "ἡ γάρ κέν μιν ἔπειτα καὶ ἐκ θανάτοιο σαώσαι."
+    },
+    {
+      "n": 754,
+      "greek": "μηδὲ γέροντα κάκου κεκακωμένον· οὐ γὰρ ὀίω"
+    },
+    {
+      "n": 755,
+      "greek": "πάγχυ θεοῖς μακάρεσσι γονὴν Ἀρκεισιάδαο"
+    },
+    {
+      "n": 756,
+      "greek": "ἔχθεσθʼ, ἀλλʼ ἔτι πού τις ἐπέσσεται ὅς κεν ἔχῃσι"
+    },
+    {
+      "n": 757,
+      "greek": "δώματά θʼ ὑψερεφέα καὶ ἀπόπροθι πίονας ἀγρούς."
+    },
+    {
+      "n": 758,
+      "greek": "ὣς φάτο, τῆς δʼ εὔνησε γόον, σχέθε δʼ ὄσσε γόοιο."
+    },
+    {
+      "n": 759,
+      "greek": "ἡ δʼ ὑδρηναμένη, καθαρὰ χροῒ εἵμαθʼ ἑλοῦσα"
+    },
+    {
+      "n": 760,
+      "greek": "εἰς ὑπερῷʼ ἀνέβαινε σὺν ἀμφιπόλοισι γυναιξίν,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        745,
+        749
+      ],
+      "text": "I knew all this, and gave him whatever he bade me, bread and sweet wine. But he took from me a mighty oath not to tell thee until at least the twelfth day should come, or thou shouldst thyself miss him and hear that he was gone, that thou mightest not mar thy fair flesh with weeping."
+    },
+    {
+      "lines": [
+        750,
+        754
+      ],
+      "text": "But now bathe thyself, and take clean raiment for thy body, and then go up to thy upper chamber with thy handmaids and pray to Athena, the daughter of Zeus who bears the aegis; for she may then save him even from death. And trouble not a troubled old man; for"
+    },
+    {
+      "lines": [
+        755,
+        759
+      ],
+      "text": "the race of the son of Arceisius is not, methinks, utterly hated by the blessed gods, but there shall still be one, I ween, to hold the high-roofed halls and the rich fields far away.” So she spoke, and lulled Penelope's laments, and made her eyes to cease from weeping. She then bathed, and took clean raiment for her body,"
+    },
+    {
+      "lines": [
+        760,
+        760
+      ],
+      "text": "and went up to her upper chamber with her handmaids, and placing barley grains in a basket prayed to Athena: “Hear me, child of Zeus who bears the aegis, unwearied one. If ever Odysseus, of many wiles, burnt to thee in his halls fat thigh-pieces of heifer or ewe,"
+    }
+  ]
+}

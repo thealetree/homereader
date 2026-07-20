@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 18,
+  "lineStart": 341,
+  "lineEnd": 360,
+  "lines": [
+    {
+      "n": 341,
+      "greek": "γλώσσας δʼ ἐν πυρὶ βάλλον, ἀνιστάμενοι δʼ ἐπέλειβον."
+    },
+    {
+      "n": 342,
+      "greek": "αὐτὰρ ἐπεὶ σπεῖσάν τʼ ἔπιον θʼ, ὅσον ἤθελε θυμός,"
+    },
+    {
+      "n": 343,
+      "greek": "δὴ τότʼ Ἀθηναίη καὶ Τηλέμαχος θεοειδὴς"
+    },
+    {
+      "n": 344,
+      "greek": "ἄμφω ἱέσθην κοίλην ἐπὶ νῆα νέεσθαι."
+    },
+    {
+      "n": 345,
+      "greek": "Νέστωρ δʼ αὖ κατέρυκε καθαπτόμενος ἐπέεσσιν·"
+    },
+    {
+      "n": 346,
+      "greek": "Ζεὺς τό γʼ ἀλεξήσειε καὶ ἀθάνατοι θεοὶ ἄλλοι,"
+    },
+    {
+      "n": 347,
+      "greek": "ὡς ὑμεῖς παρʼ ἐμεῖο θοὴν ἐπὶ νῆα κίοιτε"
+    },
+    {
+      "n": 348,
+      "greek": "ὥς τέ τευ ἦ παρὰ πάμπαν ἀνείμονος ἠδὲ πενιχροῦ,"
+    },
+    {
+      "n": 349,
+      "greek": "ᾧ οὔ τι χλαῖναι καὶ ῥήγεα πόλλʼ ἐνὶ οἴκῳ,"
+    },
+    {
+      "n": 350,
+      "greek": "οὔτʼ αὐτῷ μαλακῶς οὔτε ξείνοισιν ἐνεύδειν."
+    },
+    {
+      "n": 351,
+      "greek": "αὐτὰρ ἐμοὶ πάρα μὲν χλαῖναι καὶ ῥήγεα καλά."
+    },
+    {
+      "n": 352,
+      "greek": "οὔ θην δὴ τοῦδʼ ἀνδρὸς Ὀδυσσῆος φίλος υἱὸς"
+    },
+    {
+      "n": 353,
+      "greek": "νηὸς ἐπʼ ἰκριόφιν καταλέξεται, ὄφρʼ ἂν ἐγώ γε"
+    },
+    {
+      "n": 354,
+      "greek": "ζώω, ἔπειτα δὲ παῖδες ἐνὶ μεγάροισι λίπωνται,"
+    },
+    {
+      "n": 355,
+      "greek": "ξείνους ξεινίζειν, ὅς τίς κʼ ἐμὰ δώμαθʼ ἵκηται."
+    },
+    {
+      "n": 356,
+      "greek": "τὸν δʼ αὖτε προσέειπε θεά, γλαυκῶπις Ἀθήνη·"
+    },
+    {
+      "n": 357,
+      "greek": "εὖ δὴ ταῦτά γʼ ἔφησθα, γέρον φίλε· σοὶ δὲ ἔοικεν"
+    },
+    {
+      "n": 358,
+      "greek": "Τηλέμαχον πείθεσθαι, ἐπεὶ πολὺ κάλλιον οὕτως."
+    },
+    {
+      "n": 359,
+      "greek": "ἀλλʼ οὗτος μὲν νῦν σοὶ ἅμʼ ἕψεται, ὄφρα κεν εὕδῃ"
+    },
+    {
+      "n": 360,
+      "greek": "σοῖσιν ἐνὶ μεγάροισιν· ἐγὼ δʼ ἐπὶ νῆα μέλαιναν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "but Nestor on his part sought to stay them, and he spoke to them, saying: “This may Zeus forbid, and the other immortal gods, that ye should go from my house to your swift ship as from one utterly without raiment and poor, who has not cloaks and blankets in plenty in his house,"
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "whereon both he and his guests may sleep softly. Nay, in my house there are cloaks and fair blankets. Never surely shall the dear son of this man Odysseus lie down upon the deck of a ship, while I yet live and children after me are left in my halls"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "to entertain strangers, even whosoever shall come to my house.” Then the goddess, flashing-eyed Athena, answered him: “Well indeed hast thou spoken in this, old friend, and it were fitting for Telemachus to hearken to thee, since it is far better thus. But while he shall now follow with thee, that he may sleep"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "in thy halls, I for my part will go to the black ship, that I may hearten my comrades and tell them all. For alone among them I declare that I am an older man; the others are younger who follow in friendship, all of them of like age with great-hearted Telemachus."
+    }
+  ]
+}

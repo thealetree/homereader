@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "Τηλέμαχος δʼ ἄρʼ ἔπειτα διὲκ μεγάροιο βεβήκει"
+    },
+    {
+      "n": 62,
+      "greek": "ἔγχος ἔχων· ἅμα τῷ γε δύω κύνες ἀργοὶ ἕποντο."
+    },
+    {
+      "n": 63,
+      "greek": "θεσπεσίην δʼ ἄρα τῷ γε χάριν κατέχευεν Ἀθήνη·"
+    },
+    {
+      "n": 64,
+      "greek": "τὸν δʼ ἄρα πάντες λαοὶ ἐπερχόμενον θηεῦντο."
+    },
+    {
+      "n": 65,
+      "greek": "ἀμφὶ δέ μιν μνηστῆρες ἀγήνορες ἠγερέθοντο"
+    },
+    {
+      "n": 66,
+      "greek": "ἔσθλʼ ἀγορεύοντες, κακὰ δὲ φρεσὶ βυσσοδόμευον."
+    },
+    {
+      "n": 67,
+      "greek": "αὐτὰρ ὁ τῶν μὲν ἔπειτα ἀλεύατο πουλὺν ὅμιλον,"
+    },
+    {
+      "n": 68,
+      "greek": "ἀλλʼ ἵνα Μέντωρ ἧστο καὶ Ἄντιφος ἠδʼ Ἁλιθέρσης,"
+    },
+    {
+      "n": 69,
+      "greek": "οἵ τε οἱ ἐξ ἀρχῆς πατρώϊοι ἦσαν ἑταῖροι,"
+    },
+    {
+      "n": 70,
+      "greek": "ἔνθα καθέζετʼ ἰών· τοὶ δʼ ἐξερέεινον ἕκαστα."
+    },
+    {
+      "n": 71,
+      "greek": "τοῖσι δὲ Πείραιος δουρικλυτὸς ἐγγύθεν ἦλθεν"
+    },
+    {
+      "n": 72,
+      "greek": "ξεῖνον ἄγων ἀγορήνδε διὰ πτόλιν· οὐδʼ ἄρʼ ἔτι δὴν"
+    },
+    {
+      "n": 73,
+      "greek": "Τηλέμαχος ξείνοιο ἑκὰς τράπετʼ, ἀλλὰ παρέστη."
+    },
+    {
+      "n": 74,
+      "greek": "τὸν καὶ Πείραιος πρότερος πρὸς μῦθον ἔειπε·"
+    },
+    {
+      "n": 75,
+      "greek": "Τηλέμαχʼ, αἶψʼ ὄτρυνον ἐμὸν ποτὶ δῶμα γυναῖκας,"
+    },
+    {
+      "n": 76,
+      "greek": "ὥς τοι δῶρʼ ἀποπέμψω, ἅ τοι Μενέλαος ἔδωκε."
+    },
+    {
+      "n": 77,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 78,
+      "greek": "Πείραιʼ, οὐ γάρ τʼ ἴδμεν ὅπως ἔσται τάδε ἔργα."
+    },
+    {
+      "n": 79,
+      "greek": "εἴ κεν ἐμὲ μνηστῆρες ἀγήνορες ἐν μεγάροισι"
+    },
+    {
+      "n": 80,
+      "greek": "λάθρη κτείναντες πατρώϊα πάντα δάσωνται,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "Round about him the proud wooers thronged, speaking him fair, but pondering evil in the deep of their hearts. Howbeit he avoided the great throng of these men, but where Mentor sat, and Antiphus, and Halitherses, who were friends of his father's house of old,"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "there he went and sat down, and they questioned him of each thing. Then Peiraeus, the famous spearman, drew near, leading the stranger through the city to the place of assembly; and Telemachus did not long turn away from his guest, but went up to him. Then Peiraeus was the first to speak, saying:"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "“Telemachus, quickly send women to my house, that I may send to thee the gifts which Menelaus gave thee.” Then wise Telemachus answered him: “Peiraeus, we know not how these things will be. If the proud wooers"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "shall secretly slay me in my hall, and divide among them all the goods of my fathers, I would that thou shouldest keep and enjoy these things thyself rather than one of these. But if I shall sow for them the seeds of death and fate, then do thou bring all to my house gladly, as I shall be glad.” So saying, he led the sore-tired stranger to the house."
+    }
+  ]
+}

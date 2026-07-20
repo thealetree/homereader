@@ -1,0 +1,122 @@
+{
+  "book": 24,
+  "card": 19,
+  "lineStart": 361,
+  "lineEnd": 380,
+  "lines": [
+    {
+      "n": 361,
+      "greek": "ὣς ἄρα φωνήσαντε βάτην πρὸς δώματα καλά."
+    },
+    {
+      "n": 362,
+      "greek": "οἱ δʼ ὅτε δή ῥʼ ἵκοντο δόμους εὖ ναιετάοντας,"
+    },
+    {
+      "n": 363,
+      "greek": "εὗρον Τηλέμαχον καὶ βουκόλον ἠδὲ συβώτην"
+    },
+    {
+      "n": 364,
+      "greek": "ταμνομένους κρέα πολλὰ κερῶντάς τʼ αἴθοπα οἶνον."
+    },
+    {
+      "n": 365,
+      "greek": "τόφρα δὲ Λαέρτην μεγαλήτορα ᾧ ἐνὶ οἴκῳ"
+    },
+    {
+      "n": 366,
+      "greek": "ἀμφίπολος Σικελὴ λοῦσεν καὶ χρῖσεν ἐλαίῳ,"
+    },
+    {
+      "n": 367,
+      "greek": "ἀμφὶ δʼ ἄρα χλαῖναν καλὴν βάλεν· αὐτὰρ Ἀθήνη"
+    },
+    {
+      "n": 368,
+      "greek": "ἄγχι παρισταμένη μέλεʼ ἤλδανε ποιμένι λαῶν,"
+    },
+    {
+      "n": 369,
+      "greek": "μείζονα δʼ ἠὲ πάρος καὶ πάσσονα θῆκεν ἰδέσθαι."
+    },
+    {
+      "n": 370,
+      "greek": "ἐκ δʼ ἀσαμίνθου βῆ· θαύμαζε δέ μιν φίλος υἱός,"
+    },
+    {
+      "n": 371,
+      "greek": "ὡς ἴδεν ἀθανάτοισι θεοῖς ἐναλίγκιον ἄντην·"
+    },
+    {
+      "n": 372,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 373,
+      "greek": "ὦ πάτερ, ἦ μάλα τίς σε θεῶν αἰειγενετάων"
+    },
+    {
+      "n": 374,
+      "greek": "εἶδός τε μέγεθός τε ἀμείνονα θῆκεν ἰδέσθαι."
+    },
+    {
+      "n": 375,
+      "greek": "τὸν δʼ αὖ Λαέρτης πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 376,
+      "greek": "αἲ γάρ, Ζεῦ τε πάτερ καὶ Ἀθηναίη καὶ Ἄπολλον,"
+    },
+    {
+      "n": 377,
+      "greek": "οἷος Νήρικον εἷλον, ἐϋκτίμενον πτολίεθρον,"
+    },
+    {
+      "n": 378,
+      "greek": "ἀκτὴν ἠπείροιο, Κεφαλλήνεσσιν ἀνάσσων,"
+    },
+    {
+      "n": 379,
+      "greek": "τοῖος ἐών τοι χθιζὸς ἐν ἡμετέροισι δόμοισιν,"
+    },
+    {
+      "n": 380,
+      "greek": "τεύχεʼ ἔχων ὤμοισιν, ἐφεστάμεναι καὶ ἀμύνειν"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "Meanwhile the Sicilian handmaid bathed great-hearted Laertes in his house, and anointed him with oil, and about him cast a fair cloak. But Athena drew near, and made greater the limbs of the shepherd of the people, and made him taller than before and mightier to behold."
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "Then he came forth from the bath, and his dear son marvelled at him, seeing him in presence like unto the immortal gods. And he spoke, and addressed him with winged words: “Father, surely some one of the gods that are forever has made thee goodlier to behold in comeliness and in stature.”"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "Then wise Laertes answered him: “I would, O father Zeus, and Athena, and Apollo, that in such strength as when I took Nericus, the well built citadel on the shore of the mainland, when I was lord of the Cephallenians, even in such strength I had stood by thy side yesterday in our house"
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "with my armour about my shoulders, and had beaten back the wooers. So should I have loosened the knees of many of them in the halls, and thy heart would have been made glad within thee.” So they spoke to one another. But when the others had ceased from their labour, and had made ready the meal,"
+    }
+  ]
+}

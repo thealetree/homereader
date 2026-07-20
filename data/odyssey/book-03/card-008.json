@@ -1,0 +1,122 @@
+{
+  "book": 3,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "ἔνθʼ ἤ τοι Μενέλαος ἀνώγει πάντας Ἀχαιοὺς"
+    },
+    {
+      "n": 142,
+      "greek": "νόστου μιμνήσκεσθαι ἐπʼ εὐρέα νῶτα θαλάσσης,"
+    },
+    {
+      "n": 143,
+      "greek": "οὐδʼ Ἀγαμέμνονι πάμπαν ἑήνδανε· βούλετο γάρ ῥα"
+    },
+    {
+      "n": 144,
+      "greek": "λαὸν ἐρυκακέειν ῥέξαι θʼ ἱερὰς ἑκατόμβας,"
+    },
+    {
+      "n": 145,
+      "greek": "ὡς τὸν Ἀθηναίης δεινὸν χόλον ἐξακέσαιτο,"
+    },
+    {
+      "n": 146,
+      "greek": "νήπιος, οὐδὲ τὸ ᾔδη, ὃ οὐ πείσεσθαι ἔμελλεν·"
+    },
+    {
+      "n": 147,
+      "greek": "οὐ γάρ τʼ αἶψα θεῶν τρέπεται νόος αἰὲν ἐόντων."
+    },
+    {
+      "n": 148,
+      "greek": "ὣς τὼ μὲν χαλεποῖσιν ἀμειβομένω ἐπέεσσιν"
+    },
+    {
+      "n": 149,
+      "greek": "ἕστασαν· οἱ δʼ ἀνόρουσαν ἐυκνήμιδες Ἀχαιοὶ"
+    },
+    {
+      "n": 150,
+      "greek": "ἠχῇ θεσπεσίῃ, δίχα δέ σφισιν ἥνδανε βουλή."
+    },
+    {
+      "n": 151,
+      "greek": "νύκτα μὲν ἀέσαμεν χαλεπὰ φρεσὶν ὁρμαίνοντες"
+    },
+    {
+      "n": 152,
+      "greek": "ἀλλήλοις· ἐπὶ γὰρ Ζεὺς ἤρτυε πῆμα κακοῖο·"
+    },
+    {
+      "n": 153,
+      "greek": "ἠῶθεν δʼ οἱ μὲν νέας ἕλκομεν εἰς ἅλα δῖαν"
+    },
+    {
+      "n": 154,
+      "greek": "κτήματά τʼ ἐντιθέμεσθα βαθυζώνους τε γυναῖκας."
+    },
+    {
+      "n": 155,
+      "greek": "ἡμίσεες δʼ ἄρα λαοὶ ἐρητύοντο μένοντες"
+    },
+    {
+      "n": 156,
+      "greek": "αὖθι παρʼ Ἀτρεΐδῃ Ἀγαμέμνονι, ποιμένι λαῶν·"
+    },
+    {
+      "n": 157,
+      "greek": "ἡμίσεες δʼ ἀναβάντες ἐλαύνομεν· αἱ δὲ μάλʼ ὦκα"
+    },
+    {
+      "n": 158,
+      "greek": "ἔπλεον, ἐστόρεσεν δὲ θεὸς μεγακήτεα πόντον."
+    },
+    {
+      "n": 159,
+      "greek": "ἐς Τένεδον δʼ ἐλθόντες ἐρέξαμεν ἱρὰ θεοῖσιν,"
+    },
+    {
+      "n": 160,
+      "greek": "οἴκαδε ἱέμενοι· Ζεὺς δʼ οὔ πω μήδετο νόστον,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "that he might appease the dread wrath of Athena,—fool! nor knew he this, that with her was to be no hearkening; for the mind of the gods that are forever is not quickly turned. So these two stood bandying harsh words; but the well-greaved Achaeans sprang up"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "with a wondrous din, and two-fold plans found favour with them. That night we rested, each side pondering hard thoughts against the other, for Zeus was bringing upon us an evil doom, but in the morning some of us launched our ships upon the bright sea, and put on board our goods and the low-girdled women."
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "Half, indeed, of the host held back and remained there with Agamemnon, son of Atreus, shepherd of the host, but half of us embarked and rowed away; and swiftly the ships sailed, for a god made smooth the cavernous sea. But when we came to Tenedos, we offered sacrifice to the gods,"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "being eager to reach our homes, howbeit Zeus did not yet purpose our return, stubborn god, who roused evil strife again a second time. Then some turned back their curved ships and departed, even the lord Odysseus, the wise and crafty-minded, with his company, once more showing favour to Agamemnon, son of Atreus;"
+    }
+  ]
+}

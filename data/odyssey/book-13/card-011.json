@@ -1,0 +1,122 @@
+{
+  "book": 13,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "ἦ ῥʼ οἵ γʼ ὑβρισταί τε καὶ ἄγριοι οὐδὲ δίκαιοι,"
+    },
+    {
+      "n": 202,
+      "greek": "ἦε φιλόξεινοι, καί σφιν νόος ἐστὶ θεουδής;"
+    },
+    {
+      "n": 203,
+      "greek": "πῇ δὴ χρήματα πολλὰ φέρω τάδε; πῇ τε καὶ αὐτὸς"
+    },
+    {
+      "n": 204,
+      "greek": "πλάζομαι; αἴθʼ ὄφελον μεῖναι παρὰ Φαιήκεσσιν"
+    },
+    {
+      "n": 205,
+      "greek": "αὐτοῦ· ἐγὼ δέ κεν ἄλλον ὑπερμενέων βασιλήων"
+    },
+    {
+      "n": 206,
+      "greek": "ἐξικόμην, ὅς κέν μʼ ἐφίλει καὶ ἔπεμπε νέεσθαι."
+    },
+    {
+      "n": 207,
+      "greek": "νῦν δʼ οὔτʼ ἄρ πῃ θέσθαι ἐπίσταμαι, οὐδὲ μὲν αὐτοῦ"
+    },
+    {
+      "n": 208,
+      "greek": "καλλείψω, μή πώς μοι ἕλωρ ἄλλοισι γένηται."
+    },
+    {
+      "n": 209,
+      "greek": "ὢ πόποι, οὐκ ἄρα πάντα νοήμονες οὐδὲ δίκαιοι"
+    },
+    {
+      "n": 210,
+      "greek": "ἦσαν Φαιήκων ἡγήτορες ἠδὲ μέδοντες,"
+    },
+    {
+      "n": 211,
+      "greek": "οἵ μʼ εἰς ἄλλην γαῖαν ἀπήγαγον, ἦ τέ μʼ ἔφαντο"
+    },
+    {
+      "n": 212,
+      "greek": "ἄξειν εἰς Ἰθάκην εὐδείελον, οὐδʼ ἐτέλεσσαν."
+    },
+    {
+      "n": 213,
+      "greek": "Ζεὺς σφέας τίσαιτο ἱκετήσιος, ὅς τε καὶ ἄλλους"
+    },
+    {
+      "n": 214,
+      "greek": "ἀνθρώπους ἐφορᾷ καὶ τίνυται ὅς τις ἁμάρτῃ."
+    },
+    {
+      "n": 215,
+      "greek": "ἀλλʼ ἄγε δὴ τὰ χρήματʼ ἀριθμήσω καὶ ἴδωμαι,"
+    },
+    {
+      "n": 216,
+      "greek": "μή τί μοι οἴχωνται κοίλης ἐπὶ νηὸς ἄγοντες."
+    },
+    {
+      "n": 217,
+      "greek": "ὣς εἰπὼν τρίποδας περικαλλέας ἠδὲ λέβητας"
+    },
+    {
+      "n": 218,
+      "greek": "ἠρίθμει καὶ χρυσὸν ὑφαντά τε εἵματα καλά."
+    },
+    {
+      "n": 219,
+      "greek": "τῶν μὲν ἄρʼ ὀύ τι πόθει· ὁ δʼ ὀδύρετο πατρίδα γαῖαν"
+    },
+    {
+      "n": 220,
+      "greek": "ἑρπύζων παρὰ θῖνα πολυφλοίσβοιο θαλάσσης,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "and had then come to some other of the mighty kings, who would have entertained me and sent me on my homeward way. But now I know not where to bestow this wealth; yet here will I not leave it, lest haply it become the spoil of others to my cost. Out upon them; not wholly wise, it seems, nor just"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "were the leaders and counsellors of the Phaeacians who have brought me to a strange land. Verily they said that they would bring me to clear-seen Ithaca, but they have not made good their word. May Zeus, the suppliant's god, requite them, who watches over all men, and punishes him that sins."
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "But come, I will number the goods, and go over them, lest to my cost these men have carried off aught with them in the hollow ship.” So he spake, and set him to count the beautiful tripods, and the cauldrons, and the gold, and the fair woven raiment, and of these he missed nothing. Then, mournfully longing for his native land,"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "he paced by the shore of the loud-sounding sea, uttering many a moan. And Athena drew near him in the form of a young man, a herdsman of sheep, one most delicate, as are the sons of princes. In a double fold about her shoulders she wore a well-wrought cloak,"
+    }
+  ]
+}

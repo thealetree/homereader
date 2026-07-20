@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 27,
+  "lineStart": 521,
+  "lineEnd": 540,
+  "lines": [
+    {
+      "n": 521,
+      "greek": "καὶ γὰρ πολλὸν ἄριστος ἀνὴρ μέμονέν τε μάλιστα"
+    },
+    {
+      "n": 522,
+      "greek": "μητέρʼ ἐμὴν γαμέειν καὶ Ὀδυσσῆος γέρας ἕξειν."
+    },
+    {
+      "n": 523,
+      "greek": "ἀλλὰ τά γε Ζεὺς οἶδεν Ὀλύμπιος, αἰθέρι ναίων,"
+    },
+    {
+      "n": 524,
+      "greek": "εἴ κέ σφι πρὸ γάμοιο τελευτήσει κακὸν ἦμαρ."
+    },
+    {
+      "n": 525,
+      "greek": "ὣς ἄρα οἱ εἰπόντι ἐπέπτατο δεξιὸς ὄρνις,"
+    },
+    {
+      "n": 526,
+      "greek": "κίρκος, Ἀπόλλωνος ταχὺς ἄγγελος· ἐν δὲ πόδεσσι"
+    },
+    {
+      "n": 527,
+      "greek": "τίλλε πέλειαν ἔχων, κατὰ δὲ πτερὰ χεῦεν ἔραζε"
+    },
+    {
+      "n": 528,
+      "greek": "μεσσηγὺς νηός τε καὶ αὐτοῦ Τηλεμάχοιο."
+    },
+    {
+      "n": 529,
+      "greek": "τὸν δὲ Θεοκλύμενος ἑτάρων ἀπονόσφι καλέσσας"
+    },
+    {
+      "n": 530,
+      "greek": "ἔν τʼ ἄρα οἱ φῦ χειρὶ ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·"
+    },
+    {
+      "n": 531,
+      "greek": "Τηλέμαχʼ, οὔ τοι ἄνευ θεοῦ ἔπτατο δεξιὸς ὄρνις"
+    },
+    {
+      "n": 532,
+      "greek": "ἔγνων γάρ μιν ἐσάντα ἰδὼν οἰωνὸν ἐόντα."
+    },
+    {
+      "n": 533,
+      "greek": "ὑμετέρου δʼ οὐκ ἔστι γένος βασιλεύτερον ἄλλο"
+    },
+    {
+      "n": 534,
+      "greek": "ἐν δήμῳ Ἰθάκης, ἀλλʼ ὑμεῖς καρτεροὶ αἰεί."
+    },
+    {
+      "n": 535,
+      "greek": "τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·"
+    },
+    {
+      "n": 536,
+      "greek": "αἲ γὰρ τοῦτο, ξεῖνε, ἔπος τετελεσμένον εἴη·"
+    },
+    {
+      "n": 537,
+      "greek": "τῷ κε τάχα γνοίης φιλότητά τε πολλά τε δῶρα"
+    },
+    {
+      "n": 538,
+      "greek": "ἐξ ἐμεῦ, ὡς ἄν τίς σε συναντόμενος μακαρίζοι."
+    },
+    {
+      "n": 539,
+      "greek": "ἦ καὶ Πείραιον προσεφώνεε, πιστὸν ἑταῖρον·"
+    },
+    {
+      "n": 540,
+      "greek": "Πείραιε Κλυτίδη, σὺ δέ μοι τά περ ἄλλα μάλιστα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        525,
+        529
+      ],
+      "text": "Even as he spoke a bird flew forth upon the right, a hawk, the swift messenger of Apollo. In his talons he held a dove, and was plucking her and shedding the feathers down on the ground midway between the ship and Telemachus himself. Then Theoclymenus called him apart from his companions,"
+    },
+    {
+      "lines": [
+        530,
+        534
+      ],
+      "text": "and clasped his hand, and spoke, and addressed him: “Telemachus, surely not without a god's warrant has this bird flown forth upon our right, for I knew, as I looked upon him, that he was a bird of omen. Than yours is no other house in the land of Ithaca more kingly; nay, ye are ever supreme.”"
+    },
+    {
+      "lines": [
+        535,
+        539
+      ],
+      "text": "Then wise Telemachus answered him again: “Ah, stranger, I would that this word of thine might be fulfilled. Then shouldest thou straightway know of kindness and many a gift from me, so that one that met thee would call thee blessed.” Therewith he spoke to Peiraeus, his trusty comrade:"
+    },
+    {
+      "lines": [
+        540,
+        540
+      ],
+      "text": "“Peiraeus, son of Clytius, it is thou that in other matters art wont to hearken to me above all my comrades, who went with me to Pylos; so now do thou, I pray thee, take this stranger and give him kindly welcome in thy house, and show him honor until I come.”"
+    }
+  ]
+}

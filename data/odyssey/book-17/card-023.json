@@ -1,0 +1,122 @@
+{
+  "book": 17,
+  "card": 23,
+  "lineStart": 441,
+  "lineEnd": 460,
+  "lines": [
+    {
+      "n": 441,
+      "greek": "τοὺς δʼ ἄναγον ζωούς, σφίσιν ἐργάζεσθαι ἀνάγκῃ."
+    },
+    {
+      "n": 442,
+      "greek": "αὐτὰρ ἔμʼ ἐς Κύπρον ξείνῳ δόσαν ἀντιάσαντι,"
+    },
+    {
+      "n": 443,
+      "greek": "Δμήτορι Ἰασίδῃ, ὃς Κύπρου ἶφι ἄνασσεν·"
+    },
+    {
+      "n": 444,
+      "greek": "ἔνθεν δὴ νῦν δεῦρο τόδʼ ἵκω πήματα πάσχων."
+    },
+    {
+      "n": 445,
+      "greek": "τὸν δʼ αὖτʼ Ἀντίνοος ἀπαμείβετο φώνησέν τε·"
+    },
+    {
+      "n": 446,
+      "greek": "τίς δαίμων τόδε πῆμα προσήγαγε, δαιτὸς ἀνίην;"
+    },
+    {
+      "n": 447,
+      "greek": "στῆθʼ οὕτως ἐς μέσσον, ἐμῆς ἀπάνευθε τραπέζης,"
+    },
+    {
+      "n": 448,
+      "greek": "μὴ τάχα πικρὴν Αἴγυπτον καὶ Κύπρον ἵκηαι·"
+    },
+    {
+      "n": 449,
+      "greek": "ὥς τις θαρσαλέος καὶ ἀναιδής ἐσσι προΐκτης."
+    },
+    {
+      "n": 450,
+      "greek": "ἑξείης πάντεσσι παρίστασαι· οἱ δὲ διδοῦσι"
+    },
+    {
+      "n": 451,
+      "greek": "μαψιδίως, ἐπεὶ οὔ τις ἐπίσχεσις οὐδʼ ἐλεητὺς"
+    },
+    {
+      "n": 452,
+      "greek": "ἀλλοτρίων χαρίσασθαι, ἐπεὶ πάρα πολλὰ ἑκάστῳ."
+    },
+    {
+      "n": 453,
+      "greek": "τὸν δʼ ἀναχωρήσας προσέφη πολύμητις Ὀδυσσεύς·"
+    },
+    {
+      "n": 454,
+      "greek": "ὢ πόποι, οὐκ ἄρα σοί γʼ ἐπὶ εἴδεϊ καὶ φρένες ἦσαν·"
+    },
+    {
+      "n": 455,
+      "greek": "οὐ σύ γʼ ἂν ἐξ οἴκου σῷ ἐπιστάτῃ οὐδʼ ἅλα δοίης,"
+    },
+    {
+      "n": 456,
+      "greek": "ὃς νῦν ἀλλοτρίοισι παρήμενος οὔ τί μοι ἔτλης"
+    },
+    {
+      "n": 457,
+      "greek": "σίτου ἀποπροελὼν δόμεναι· τὰ δὲ πολλὰ πάρεστιν."
+    },
+    {
+      "n": 458,
+      "greek": "ὣς ἔφατʼ, Ἀντίνοος δʼ ἐχολώσατο κηρόθι μᾶλλον,"
+    },
+    {
+      "n": 459,
+      "greek": "καί μιν ὑπόδρα ἰδὼν ἔπεα πτερόεντα προσηύδα·"
+    },
+    {
+      "n": 460,
+      "greek": "νῦν δή σʼ οὐκέτι καλὰ διὲκ μεγάροιό γʼ ὀΐω"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        445,
+        449
+      ],
+      "text": "Then Antinous answered him, and said: “What god has brought this bane hither to trouble our feast? Stand off yonder in the midst, away from my table, lest thou come presently to a bitter Egypt and a bitter Cyprus, seeing that thou art a bold and shameless beggar."
+    },
+    {
+      "lines": [
+        450,
+        454
+      ],
+      "text": "Thou comest up to every man in turn, and they give recklessly; for there is no restraint or scruple in giving freely of another's goods, since each man has plenty beside him.” Then Odysseus of many wiles drew back, and said to him: “Lo, now, it seems that thou at least hast not wits to match thy beauty."
+    },
+    {
+      "lines": [
+        455,
+        459
+      ],
+      "text": "Thou wouldest not out of thine own substance give even a grain of salt to thy suppliant, thou who now, when sitting at another's table, hadst not the heart to take of the bread and give me aught. Yet here lies plenty at thy hand.” So he spoke, and Antinous waxed the more wroth at heart, and with an angry glance from beneath his brows spoke to him winged words:"
+    },
+    {
+      "lines": [
+        460,
+        460
+      ],
+      "text": "“Now verily, methinks, thou shalt no more go forth from the hall in seemly fashion, since thou dost even utter words of reviling.” So saying, he seized the footstool and flung it, and struck Odysseus on the base of the right shoulder, where it joins the back. But he stood firm as a rock, nor did the missile of Antinous make him reel;"
+    }
+  ]
+}

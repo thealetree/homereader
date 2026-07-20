@@ -1,0 +1,122 @@
+{
+  "book": 15,
+  "card": 20,
+  "lineStart": 381,
+  "lineEnd": 400,
+  "lines": [
+    {
+      "n": 381,
+      "greek": "ὢ πόποι, ὡς ἄρα τυτθὸς ἐών, Εὔμαιε συβῶτα,"
+    },
+    {
+      "n": 382,
+      "greek": "πολλὸν ἀπεπλάγχθης σῆς πατρίδος ἠδὲ τοκήων."
+    },
+    {
+      "n": 383,
+      "greek": "ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,"
+    },
+    {
+      "n": 384,
+      "greek": "ἠὲ διεπράθετο πτόλις ἀνδρῶν εὐρυάγυια,"
+    },
+    {
+      "n": 385,
+      "greek": "ᾗ ἔνι ναιετάασκε πατὴρ καὶ πότνια μήτηρ,"
+    },
+    {
+      "n": 386,
+      "greek": "ἦ σέ γε μουνωθέντα παρʼ οἴεσιν ἢ παρὰ βουσὶν"
+    },
+    {
+      "n": 387,
+      "greek": "ἄνδρες δυσμενέες νηυσὶν λάβον ἠδʼ ἐπέρασσαν"
+    },
+    {
+      "n": 388,
+      "greek": "τοῦδʼ ἀνδρὸς πρὸς δώμαθʼ, ὁ δʼ ἄξιον ὦνον ἔδωκε."
+    },
+    {
+      "n": 389,
+      "greek": "τὸν δʼ αὖτε προσέειπε συβώτης, ὄρχαμος ἀνδρῶν·"
+    },
+    {
+      "n": 390,
+      "greek": "ξεῖνʼ, ἐπεὶ ἂρ δὴ ταῦτά μʼ ἀνείρεαι ἠδὲ μεταλλᾷς,"
+    },
+    {
+      "n": 391,
+      "greek": "σιγῇ νῦν ξυνίει καὶ τέρπεο, πῖνέ τε οἶνον"
+    },
+    {
+      "n": 392,
+      "greek": "ἥμενος. αἵδε δὲ νύκτες ἀθέσφατοι· ἔστι μὲν εὕδειν,"
+    },
+    {
+      "n": 393,
+      "greek": "ἔστι δὲ τερπομένοισιν ἀκούειν· οὐδέ τί σε χρή,"
+    },
+    {
+      "n": 394,
+      "greek": "πρὶν ὥρη, καταλέχθαι· ἀνίη καὶ πολὺς ὕπνος."
+    },
+    {
+      "n": 395,
+      "greek": "τῶν δʼ ἄλλων ὅτινα κραδίη καὶ θυμὸς ἀνώγει,"
+    },
+    {
+      "n": 396,
+      "greek": "εὑδέτω ἐξελθών· ἅμα δʼ ἠοῖ φαινομένηφι"
+    },
+    {
+      "n": 397,
+      "greek": "δειπνήσας ἅμʼ ὕεσσιν ἀνακτορίῃσιν ἑπέσθω."
+    },
+    {
+      "n": 398,
+      "greek": "νῶϊ δʼ ἐνὶ κλισίῃ πίνοντέ τε δαινυμένω τε"
+    },
+    {
+      "n": 399,
+      "greek": "κήδεσιν ἀλλήλων τερπώμεθα λευγαλέοισι,"
+    },
+    {
+      "n": 400,
+      "greek": "μνωομένω· μετὰ γάρ τε καὶ ἄλγεσι τέρπεται ἀνήρ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "wherein thy father and honored mother dwelt? Or, when thou wast alone with thy sheep or cattle, did foemen take thee in their ships and bear thee for sale to the house of this thy master, who paid for thee a goodly price?” Then the swineherd, a leader of men, answered him:"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "“Stranger, since thou dost ask and question me of this, hearken now in silence, and take thy joy, and drink thy wine, as thou sittest here. These nights are wondrous long. There is time for sleep, and there is time to take joy in hearing tales; thou needest not lay thee down till it be time; there is weariness even in too much sleep."
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "As for the rest, if any man's heart and spirit bid him, let him go forth and sleep, and at daybreak let him eat, and follow our master's swine. But we two will drink and feast in the hut, and will take delight each in the other's grievous woes,"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "as we recall them to mind. For in after time a man finds joy even in woes, whosoever has suffered much, and wandered much. But this will I tell thee, of which thou dost ask and enquire. “There is an isle called Syria, if haply thou hast heard thereof, above Ortygia, where are the turning-places of the sun."
+    }
+  ]
+}

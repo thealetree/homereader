@@ -1,0 +1,122 @@
+{
+  "book": 11,
+  "card": 11,
+  "lineStart": 201,
+  "lineEnd": 220,
+  "lines": [
+    {
+      "n": 201,
+      "greek": "τηκεδόνι στυγερῇ μελέων ἐξείλετο θυμόν·"
+    },
+    {
+      "n": 202,
+      "greek": "ἀλλά με σός τε πόθος σά τε μήδεα, φαίδιμʼ Ὀδυσσεῦ,"
+    },
+    {
+      "n": 203,
+      "greek": "σή τʼ ἀγανοφροσύνη μελιηδέα θυμὸν ἀπηύρα."
+    },
+    {
+      "n": 204,
+      "greek": "ὣς ἔφατʼ, αὐτὰρ ἐγώ γʼ ἔθελον φρεσὶ μερμηρίξας"
+    },
+    {
+      "n": 205,
+      "greek": "μητρὸς ἐμῆς ψυχὴν ἑλέειν κατατεθνηυίης."
+    },
+    {
+      "n": 206,
+      "greek": "τρὶς μὲν ἐφωρμήθην, ἑλέειν τέ με θυμὸς ἀνώγει,"
+    },
+    {
+      "n": 207,
+      "greek": "τρὶς δέ μοι ἐκ χειρῶν σκιῇ εἴκελον ἢ καὶ ὀνείρῳ"
+    },
+    {
+      "n": 208,
+      "greek": "ἔπτατʼ. ἐμοὶ δʼ ἄχος ὀξὺ γενέσκετο κηρόθι μᾶλλον,"
+    },
+    {
+      "n": 209,
+      "greek": "καί μιν φωνήσας ἔπεα πτερόεντα προσηύδων·"
+    },
+    {
+      "n": 210,
+      "greek": "μῆτερ ἐμή, τί νύ μʼ οὐ μίμνεις ἑλέειν μεμαῶτα,"
+    },
+    {
+      "n": 211,
+      "greek": "ὄφρα καὶ εἰν Ἀίδαο φίλας περὶ χεῖρε βαλόντε"
+    },
+    {
+      "n": 212,
+      "greek": "ἀμφοτέρω κρυεροῖο τεταρπώμεσθα γόοιο;"
+    },
+    {
+      "n": 213,
+      "greek": "ἦ τί μοι εἴδωλον τόδʼ ἀγαυὴ Περσεφόνεια"
+    },
+    {
+      "n": 214,
+      "greek": "ὤτρυνʼ, ὄφρʼ ἔτι μᾶλλον ὀδυρόμενος στεναχίζω;"
+    },
+    {
+      "n": 215,
+      "greek": "ὣς ἐφάμην, ἡ δʼ αὐτίκʼ ἀμείβετο πότνια μήτηρ·"
+    },
+    {
+      "n": 216,
+      "greek": "ὤ μοι, τέκνον ἐμόν, περὶ πάντων κάμμορε φωτῶν,"
+    },
+    {
+      "n": 217,
+      "greek": "οὔ τί σε Περσεφόνεια Διὸς θυγάτηρ ἀπαφίσκει,"
+    },
+    {
+      "n": 218,
+      "greek": "ἀλλʼ αὕτη δίκη ἐστὶ βροτῶν, ὅτε τίς κε θάνῃσιν·"
+    },
+    {
+      "n": 219,
+      "greek": "οὐ γὰρ ἔτι σάρκας τε καὶ ὀστέα ἶνες ἔχουσιν,"
+    },
+    {
+      "n": 220,
+      "greek": "ἀλλὰ τὰ μέν τε πυρὸς κρατερὸν μένος αἰθομένοιο"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "to clasp the spirit of my dead mother. Thrice I sprang towards her, and my heart bade me clasp her, and thrice she flitted from my arms like a shadow or a dream, and pain grew ever sharper at my heart. And I spoke and addressed her with winged words:"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "“‘My mother, why dost thou not stay for me, who am eager to clasp thee, that even in the house of Hades we two may cast our arms each about the other, and take our fill of chill lamenting. Is this but a phantom that august Persephone has sent me, that I may lament and groan the more?’"
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "“So I spoke, and my honored mother straightway answered: ‘Ah me, my child, ill-fated above all men, in no wise does Persephone, the daughter of Zeus, deceive thee, but this is the appointed way with mortals when one dies. For the sinews no longer hold the flesh and the bones together,"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "but the strong might of blazing fire destroys these, as soon as the life leaves the white bones, and the spirit, like a dream, flits away, and hovers to and fro. But haste thee to the light with what speed thou mayest, and bear all these things in mind, that thou mayest hereafter tell them to thy wife.’"
+    }
+  ]
+}

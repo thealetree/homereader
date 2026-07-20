@@ -1,0 +1,122 @@
+{
+  "book": 18,
+  "card": 8,
+  "lineStart": 141,
+  "lineEnd": 160,
+  "lines": [
+    {
+      "n": 141,
+      "greek": "τῷ μή τίς ποτε πάμπαν ἀνὴρ ἀθεμίστιος εἴη,"
+    },
+    {
+      "n": 142,
+      "greek": "ἀλλʼ ὅ γε σιγῇ δῶρα θεῶν ἔχοι, ὅττι διδοῖεν."
+    },
+    {
+      "n": 143,
+      "greek": "οἷʼ ὁρόω μνηστῆρας ἀτάσθαλα μηχανόωντας,"
+    },
+    {
+      "n": 144,
+      "greek": "κτήματα κείροντας καὶ ἀτιμάζοντας ἄκοιτιν"
+    },
+    {
+      "n": 145,
+      "greek": "ἀνδρός, ὃν οὐκέτι φημὶ φίλων καὶ πατρίδος αἴης"
+    },
+    {
+      "n": 146,
+      "greek": "δηρὸν ἀπέσσεσθαι· μάλα δὲ σχεδόν. ἀλλά σε δαίμων"
+    },
+    {
+      "n": 147,
+      "greek": "οἴκαδʼ ὑπεξαγάγοι, μηδʼ ἀντιάσειας ἐκείνῳ,"
+    },
+    {
+      "n": 148,
+      "greek": "ὁππότε νοστήσειε φίλην ἐς πατρίδα γαῖαν·"
+    },
+    {
+      "n": 149,
+      "greek": "οὐ γὰρ ἀναιμωτί γε διακρινέεσθαι ὀΐω"
+    },
+    {
+      "n": 150,
+      "greek": "μνηστῆρας καὶ κεῖνον, ἐπεί κε μέλαθρον ὑπέλθῃ."
+    },
+    {
+      "n": 151,
+      "greek": "ὣς φάτο, καὶ σπείσας ἔπιεν μελιηδέα οἶνον,"
+    },
+    {
+      "n": 152,
+      "greek": "ἂψ δʼ ἐν χερσὶν ἔθηκε δέπας κοσμήτορι λαῶν."
+    },
+    {
+      "n": 153,
+      "greek": "αὐτὰρ ὁ βῆ διὰ δῶμα φίλον τετιημένος ἦτορ,"
+    },
+    {
+      "n": 154,
+      "greek": "νευστάζων κεφαλῇ· δὴ γὰρ κακὸν ὄσσετο θυμός."
+    },
+    {
+      "n": 155,
+      "greek": "ἀλλʼ οὐδʼ ὣς φύγε κῆρα· πέδησε δὲ καὶ τὸν Ἀθήνη"
+    },
+    {
+      "n": 156,
+      "greek": "Τηλεμάχου ὑπὸ χερσὶ καὶ ἔγχεϊ ἶφι δαμῆναι."
+    },
+    {
+      "n": 157,
+      "greek": "ἂψ δʼ αὖτις κατʼ ἄρʼ ἕζετʼ ἐπὶ θρόνου ἔνθεν ἀνέστη."
+    },
+    {
+      "n": 158,
+      "greek": "τῇ δʼ ἄρʼ ἐπὶ φρεσὶ θῆκε θεὰ γλαυκῶπις Ἀθήνη,"
+    },
+    {
+      "n": 159,
+      "greek": "κούρῃ Ἰκαρίοιο, περίφρονι Πηνελοπείῃ,"
+    },
+    {
+      "n": 160,
+      "greek": "μνηστήρεσσι φανῆναι, ὅπως πετάσειε μάλιστα"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "of a man who, I tell thee, will not long be away from his friends and his native land; nay, he is very near. But may some god lead thee forth hence to thy home, and mayest thou not meet him when he comes home to his dear native land. For not without bloodshed, methinks,"
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "will the wooers and he part one from the other when once he comes beneath his roof.” So he spoke, and pouring a libation, drank of the honey-sweet wine, and then gave back the cup into the hands of the marshaller of the people. But Amphinomus went through the hall with a heavy heart, bowing his head; for his spirit boded bane."
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "Yet even so he did not escape his fate, but him, too, did Athena set in bonds so that he might be slain outright at the hands of Telemachus and by his spear. So he sat down again on the chair from which he had risen. Then the goddess, flashing-eyed Athena, put it in the heart of the daughter of Icarius, wise Penelope,"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "to show herself to the wooers, that she might set their hearts a-flutter and win greater honor from her husband and her son than heretofore. Then she laughed a meaningless laugh and spoke, and addressed the nurse: “Eurynome, my heart longs, though it has never longed before,"
+    }
+  ]
+}

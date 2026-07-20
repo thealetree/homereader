@@ -1,0 +1,122 @@
+{
+  "book": 4,
+  "card": 14,
+  "lineStart": 261,
+  "lineEnd": 280,
+  "lines": [
+    {
+      "n": 261,
+      "greek": "ἂψ οἶκόνδʼ, ἄτην δὲ μετέστενον, ἣν Ἀφροδίτη"
+    },
+    {
+      "n": 262,
+      "greek": "δῶχʼ, ὅτε μʼ ἤγαγε κεῖσε φίλης ἀπὸ πατρίδος αἴης,"
+    },
+    {
+      "n": 263,
+      "greek": "παῖδά τʼ ἐμὴν νοσφισσαμένην θάλαμόν τε πόσιν τε"
+    },
+    {
+      "n": 264,
+      "greek": "οὔ τευ δευόμενον, οὔτʼ ἂρ φρένας οὔτε τι εἶδος."
+    },
+    {
+      "n": 265,
+      "greek": "τὴν δʼ ἀπαμειβόμενος προσέφη ξανθὸς Μενέλαος·"
+    },
+    {
+      "n": 266,
+      "greek": "ναὶ δὴ ταῦτά γε πάντα, γύναι, κατὰ μοῖραν ἔειπες."
+    },
+    {
+      "n": 267,
+      "greek": "ἤδη μὲν πολέων ἐδάην βουλήν τε νόον τε"
+    },
+    {
+      "n": 268,
+      "greek": "ἀνδρῶν ἡρώων, πολλὴν δʼ ἐπελήλυθα γαῖαν·"
+    },
+    {
+      "n": 269,
+      "greek": "ἀλλʼ οὔ πω τοιοῦτον ἐγὼν ἴδον ὀφθαλμοῖσιν,"
+    },
+    {
+      "n": 270,
+      "greek": "οἷον Ὀδυσσῆος ταλασίφρονος ἔσκε φίλον κῆρ."
+    },
+    {
+      "n": 271,
+      "greek": "οἷον καὶ τόδʼ ἔρεξε καὶ ἔτλη καρτερὸς ἀνὴρ"
+    },
+    {
+      "n": 272,
+      "greek": "ἵππῳ ἔνι ξεστῷ, ἵνʼ ἐνήμεθα πάντες ἄριστοι"
+    },
+    {
+      "n": 273,
+      "greek": "Ἀργείων Τρώεσσι φόνον καὶ κῆρα φέροντες."
+    },
+    {
+      "n": 274,
+      "greek": "ἦλθες ἔπειτα σὺ κεῖσε· κελευσέμεναι δέ σʼ ἔμελλε"
+    },
+    {
+      "n": 275,
+      "greek": "δαίμων, ὃς Τρώεσσιν ἐβούλετο κῦδος ὀρέξαι·"
+    },
+    {
+      "n": 276,
+      "greek": "καί τοι Δηΐφοβος θεοείκελος ἕσπετʼ ἰούσῃ."
+    },
+    {
+      "n": 277,
+      "greek": "τρὶς δὲ περίστειξας κοῖλον λόχον ἀμφαφόωσα,"
+    },
+    {
+      "n": 278,
+      "greek": "ἐκ δʼ ὀνομακλήδην Δαναῶν ὀνόμαζες ἀρίστους,"
+    },
+    {
+      "n": 279,
+      "greek": "πάντων Ἀργείων φωνὴν ἴσκουσʼ ἀλόχοισιν."
+    },
+    {
+      "n": 280,
+      "greek": "αὐτὰρ ἐγὼ καὶ Τυδεΐδης καὶ δῖος Ὀδυσσεὺς"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "Then fair-haired Menelaus answered her and said:“Aye verily, all this, wife, hast thou spoken aright. Ere now have I come to know the counsel and the mind of many warriors, and have travelled over the wide earth, but never yet have mine eyes beheld such an one"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "as was Odysseus of the steadfast heart. What a thing was this, too, which that mighty man wrought and endured in the carven horse, wherein all we chiefs of the Argives were sitting, bearing to the Trojans death and fate! Then thou camest thither, and it must be that thou wast bidden"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "by some god, who wished to grant glory to the Trojans, and godlike Deiphobus followed thee on thy way. Thrice didst thou go about the hollow ambush, trying it with thy touch, and thou didst name aloud the chieftains of the Danaans by their names, likening thy voice to the voices of the wives of all the Argives."
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "Now I and the son of Tydeus and goodly Odysseus sat there in the midst and heard how thou didst call, and we two were eager to rise up and come forth, or else to answer straightway from within, but Odysseus held us back and stayed us, despite our eagerness."
+    }
+  ]
+}

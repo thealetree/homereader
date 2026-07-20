@@ -1,0 +1,122 @@
+{
+  "book": 10,
+  "card": 4,
+  "lineStart": 61,
+  "lineEnd": 80,
+  "lines": [
+    {
+      "n": 61,
+      "greek": "δαινύμενον παρὰ ᾗ τʼ ἀλόχῳ καὶ οἷσι τέκεσσιν."
+    },
+    {
+      "n": 62,
+      "greek": "ἐλθόντες δʼ ἐς δῶμα παρὰ σταθμοῖσιν ἐπʼ οὐδοῦ"
+    },
+    {
+      "n": 63,
+      "greek": "ἑζόμεθʼ· οἱ δʼ ἀνὰ θυμὸν ἐθάμβεον ἔκ τʼ ἐρέοντο·"
+    },
+    {
+      "n": 64,
+      "greek": "πῶς ἦλθες, Ὀδυσεῦ; τίς τοι κακὸς ἔχραε δαίμων;"
+    },
+    {
+      "n": 65,
+      "greek": "ἦ μέν σʼ ἐνδυκέως ἀπεπέμπομεν, ὄφρʼ ἀφίκοιο"
+    },
+    {
+      "n": 66,
+      "greek": "πατρίδα σὴν καὶ δῶμα καὶ εἴ πού τοι φίλον ἐστίν."
+    },
+    {
+      "n": 67,
+      "greek": "ὣς φάσαν, αὐτὰρ ἐγὼ μετεφώνεον ἀχνύμενος κῆρ·"
+    },
+    {
+      "n": 68,
+      "greek": "ἄασάν μʼ ἕταροί τε κακοὶ πρὸς τοῖσί τε ὕπνος"
+    },
+    {
+      "n": 69,
+      "greek": "σχέτλιος. ἀλλʼ ἀκέσασθε, φίλοι· δύναμις γὰρ ἐν ὑμῖν."
+    },
+    {
+      "n": 70,
+      "greek": "ὣς ἐφάμην μαλακοῖσι καθαπτόμενος ἐπέεσσιν,"
+    },
+    {
+      "n": 71,
+      "greek": "οἱ δʼ ἄνεῳ ἐγένοντο· πατὴρ δʼ ἠμείβετο μύθῳ·"
+    },
+    {
+      "n": 72,
+      "greek": "ἔρρʼ ἐκ νήσου θᾶσσον, ἐλέγχιστε ζωόντων·"
+    },
+    {
+      "n": 73,
+      "greek": "οὐ γάρ μοι θέμις ἐστὶ κομιζέμεν οὐδʼ ἀποπέμπειν"
+    },
+    {
+      "n": 74,
+      "greek": "ἄνδρα τόν, ὅς κε θεοῖσιν ἀπέχθηται μακάρεσσιν·"
+    },
+    {
+      "n": 75,
+      "greek": "ἔρρε, ἐπεὶ ἄρα θεοῖσιν ἀπεχθόμενος τόδʼ ἱκάνεις."
+    },
+    {
+      "n": 76,
+      "greek": "ὣς εἰπὼν ἀπέπεμπε δόμων βαρέα στενάχοντα."
+    },
+    {
+      "n": 77,
+      "greek": "ἔνθεν δὲ προτέρω πλέομεν ἀκαχήμενοι ἦτορ."
+    },
+    {
+      "n": 78,
+      "greek": "τείρετο δʼ ἀνδρῶν θυμὸς ὑπʼ εἰρεσίης ἀλεγεινῆς"
+    },
+    {
+      "n": 79,
+      "greek": "ἡμετέρῃ ματίῃ, ἐπεὶ οὐκέτι φαίνετο πομπή."
+    },
+    {
+      "n": 80,
+      "greek": "ἑξῆμαρ μὲν ὁμῶς πλέομεν νύκτας τε καὶ ἦμαρ,"
+    }
+  ],
+  "translations": null,
+  "meta": {
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "Surely we sent thee forth with kindly care, that thou mightest reach thy native land and thy home, and whatever place thou wouldest.’ “So said they, but I with a sorrowing heart spoke among them and said: ‘Bane did my evil comrades work me, and therewith sleep accursed; but bring ye healing, my friends, for with you is the power.’"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "“So I spoke and addressed them with gentle words, but they were silent. Then their father answered and said: “‘Begone from our island with speed, thou vilest of all that live. In no wise may I help or send upon his way that man who is hated of the blessed gods."
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "Begone, for thou comest hither as one hated of the immortals.’ “So saying, he sent me forth from the house, groaning heavily. Thence we sailed on, grieved at heart. And worn was the spirit of the men by the grievous rowing, because of our own folly, for no longer appeared any breeze to bear us on our way."
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "So for six days we sailed, night and day alike, and on the seventh we came to the lofty citadel of Lamus, even to Telepylus of the Laestrygonians, where herdsman calls to herdsman as he drives in his flock, and the other answers as he drives his forth. There a man who never slept could have earned a double wage,"
+    }
+  ]
+}
