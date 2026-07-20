@@ -85,9 +85,60 @@
       "greek": "οἶνον πινόντων· ταύτης δʼ ἀποπαύεʼ ἀοιδῆς"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "she-put strength and courage, and-reminded him of-his-father",
+      "more still than before. and-he in his-mind perceiving",
+      "marvelled in his-heart; for-he-guessed a-god to-be.",
+      "and-at-once to-the-wooers he-went, a-man peer-of-the-gods.",
+      "and-for-them a-singer sang, a-renowned one; and-they in-silence",
+      "sat listening; and-he of-the-Achaeans the-return sang,",
+      "the-woeful, which from Troy laid-upon-them Pallas Athena.",
+      "and-his, from-the-upper-chamber, in-her-mind marked the-divine song",
+      "the-daughter of-Icarius, circumspect Penelope;",
+      "and-the-stairway high she-descended of-her house,",
+      "not alone, along with-her also handmaids two followed.",
+      "and-she, when indeed the-wooers she-reached, bright among-women,",
+      "stood then beside the-doorpost of-the-roof strongly built,",
+      "before her-cheeks holding her-shining veil;",
+      "and-a-handmaid, faithful, on-either-side of-her stood.",
+      "and-weeping then she-addressed the-divine singer:",
+      "'Phemius, for many other charms of-mortals you-know,",
+      "deeds of-men and of-gods, which singers make-famous;",
+      "of-these one at-least to-them sing, sitting-by; and-they in-silence",
+      "their-wine let-them-drink. but-cease from-this song,"
+    ],
+    "literal": [
+      "she put strength and courage, and made him think of his father",
+      "even more than before. And he perceived it in his mind",
+      "and marvelled at heart, for he guessed that she was a god.",
+      "At once he went to the wooers, a man peer of the gods.",
+      "The renowned singer was singing to them, and they sat",
+      "in silence, listening; he sang of the return of the Achaeans,",
+      "the woeful return that Pallas Athena laid upon them from Troy.",
+      "From her upper chamber the daughter of Icarius,",
+      "circumspect Penelope, marked in her mind that divine song,",
+      "and she came down the high stairway of her house,",
+      "not alone, for two handmaids followed with her.",
+      "And when she came to the wooers, bright among women,",
+      "she stood beside the doorpost of the strongly built roof,",
+      "holding her shining veil before her cheeks;",
+      "and a faithful handmaid stood on either side of her.",
+      "Then weeping she spoke to the divine singer:",
+      "'Phemius, you know many other charms for mortals,",
+      "deeds of men and of gods, which singers make famous;",
+      "sing them one of these, sitting by, and let them drink",
+      "their wine in silence. But cease from this song,"
+    ],
+    "elizabethan": "She left strength in his breast, and courage too,\nand set his father in his thought far more\nthan heretofore. He knew it in his mind\nand marvelled, for he guessed she was a god.\nThen to the suitors went he, like a god.\nThe famous singer sang to them; they sat\nin silence, listening. Of the Achaeans' voyage\nhe sang, the bitter homeward road that Pallas\nAthena laid upon them out of Troy.\nAnd from the upper room the daughter\nof Icarius, circumspect Penelope,\ntook in that god-taught singing, and came down\nthe high stair of her house, not by herself,\nfor two handmaidens followed at her side.\nAnd when she reached the suitors, she who shone\namong all women, by the doorpost stood\nof the strong-builded roof, and held her veil,\nher shining veil, before her cheeks; and each\nside of her stood a faithful serving-woman.\nThen weeping, to the god-taught man she spoke:\n\"Phemius, thou knowest many another charm\nfor mortals, deeds of gods and deeds of men,\nwhich singers make renowned. Sit here and sing\nsome one of those; and let them drink their wine\nin silence. But have done with this thy song.\"",
+    "modernist": "She put strength and courage into him. She made him think about his father, more than before. He worked it out in his mind and it astonished him. He decided she had been a god.\n\nThen he went over to the suitors, a man like a god.\n\nThe famous singer was singing to them and they were sitting quiet, listening. He sang about the Achaeans coming back from Troy, and the misery of it, which Pallas Athena had laid on them.\n\nUpstairs the daughter of Icarius heard the singing. Circumspect Penelope. She came down the high staircase of her house. Not alone. Two women came with her.\n\nWhen she reached the suitors she stood by the doorpost of the great roof, a woman shining among women, and held her bright veil in front of her face. A faithful woman stood on each side of her.\n\nThen she cried, and spoke to the singer.\n\n\"Phemius. You know plenty of other things to charm people with. Deeds of men and gods. The things singers make famous. Sit there and sing one of those, and let them drink their wine and say nothing. But stop this song.\"",
+    "storybook": "She left strength and courage behind her in his heart, and made him think about his father even more than before. And when he understood it, he was amazed, for he guessed that his visitor had been a god!\n\nThen he walked over to the suitors, looking like a god himself.\n\nThe famous singer was singing for them, and they were all sitting quietly, listening. He was singing about the Achaeans coming home from Troy, and about all the misery that Pallas Athena had piled upon them for it.\n\nNow, up in her room, the daughter of Icarius heard that wonderful song. Wise Penelope came down the tall staircase of her house, and she did not come alone, for two of her women came with her.\n\nWhen she reached the suitors, shining and lovely as she was, she stood beside the doorpost of the great hall and held her bright veil up in front of her cheeks, with a faithful maid standing on either side of her.\n\nAnd then she began to cry, and she said to the singer:\n\n\"Phemius, you know so many other lovely things to sing! Deeds of gods and deeds of men, all the tales that singers make famous. Sit there and sing one of those instead, and let them drink their wine in silence. But please stop singing this song.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T22:00:23+00:00"
   },
   "murray": [
     {

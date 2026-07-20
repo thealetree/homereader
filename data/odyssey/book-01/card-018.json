@@ -85,9 +85,60 @@
       "greek": "ἡ μὲν θαμβήσασα πάλιν οἶκόνδε βεβήκει·"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "the-woeful, which for-me always in my-breast the-dear heart",
+      "wears-away, since me most-of-all has-come-upon grief unforgettable.",
+      "for-such a-head I-long-for, remembering always,",
+      "of-the-man, whose fame is-wide through Hellas and mid-Argos.'",
+      "and-her in-turn Telemachus, prudent, answering addressed:",
+      "'Mother mine, why then do-you-grudge the-trusty singer",
+      "to-delight wherever his mind stirs-him? not indeed singers",
+      "are-to-blame, but somehow Zeus is-to-blame, who gives",
+      "to-men, bread-eaters, however he-wills, to-each.",
+      "and-for-this-man no blame-is-it of-the-Danaans the-evil doom to-sing;",
+      "for-that song the-more do-men praise,",
+      "whichever to-hearers newest comes-about.",
+      "and-for-you let-endure your-heart and spirit to-listen;",
+      "for-not Odysseus alone lost his-homecoming day",
+      "in Troy, but many also other men perished.",
+      "but to-your-house going, your-own tasks attend-to,",
+      "the-loom and the-distaff, and-to-your-handmaids give-order",
+      "their-work to-ply; and-speech to-men shall-be-a-care,",
+      "to-all, and-most-of-all to-me; for-mine is the-power in this-house.'",
+      "she then, amazed, back to-her-house had-gone;"
+    ],
+    "literal": [
+      "this woeful song, which always wears the heart in my breast,",
+      "since a grief I cannot forget has fallen upon me above all.",
+      "For such a head I long, remembering always,",
+      "the man whose fame is wide through Hellas and mid-Argos.'",
+      "Then prudent Telemachus answered her:",
+      "'My mother, why do you grudge the trusty singer",
+      "to give delight wherever his mind stirs him? Singers",
+      "are not to blame; Zeus somehow is to blame, who gives",
+      "to men who eat bread, to each as he wills.",
+      "It is no blame in this man to sing the evil doom of the Danaans;",
+      "for men praise that song the most",
+      "which comes newest to those who hear it.",
+      "Let your heart and spirit endure to listen;",
+      "for Odysseus was not the only one who lost his day of homecoming",
+      "at Troy, but many other men perished also.",
+      "But go to your house and attend to your own tasks,",
+      "the loom and the distaff, and bid your handmaids",
+      "ply their work; speech shall be the care of men,",
+      "of all, and most of all of me, for mine is the power in this house.'",
+      "Then she, amazed, went back to her house;"
+    ],
+    "elizabethan": "this woeful song, that wears the heart away\nwithin my breast, for grief past all forgetting\nhas fallen upon me. Such a head I want,\nand keep his memory always: he whose fame\nis wide through Hellas and through mid-Argos.\"\nThen prudent Telemachus made answer thus:\n\"My mother, why begrudge the faithful singer\nhis pleasure, where his mind may carry him?\nIt is not singers who are to be blamed;\nit is Zeus, in some sort, who gives to men\nthat eat their bread, to each one as he wills.\nNo blame is his to sing the Danaans' doom.\nMen praise that song the highest which comes newest\nupon the ears of those who sit and hear.\nLet then thy heart endure to hear it out.\nOdysseus was not only man to lose\nhis homeward day at Troy; there perished many.\nBut go into thy house, and take in hand\nthine own work, loom and distaff, and command\nthy women to their labour. Speech shall be\nthe care of men, of all men, most of me,\nfor mine is the authority in this house.\"\nThen she, amazed, went back into the house.",
+    "modernist": "this miserable song. It wears out the heart in my breast. A grief came on me that I cannot get past. I want that one head back. I remember it all the time. His fame is wide, through Hellas and the middle of Argos.\"\n\nThen Telemachus answered her. He had sense.\n\n\"Mother. Why do you grudge the singer his pleasure, wherever his mind takes him? It is not the singers who are to blame. Zeus is to blame. He gives to men who eat bread, to each one what he wants to give.\n\nThere is nothing wrong with singing about the bad end of the Danaans. Men praise the newest song. That is how it works. Let your heart hold up and listen to it.\n\nOdysseus was not the only man who lost his day of coming home at Troy. A great many others died there.\n\nNow go into the house and see to your own work. The loom. The distaff. Tell your women to get on with theirs. Talking is men's business. All men's, and mine most of all. The power in this house is mine.\"\n\nShe was astonished, and she went back into the house.",
+    "storybook": "this miserable song. It wears out my poor heart, for a sadness came upon me that I can never forget. There is one dear head I long for, and I remember him all the time, the man whose fame is known far and wide, through Hellas and all the middle of Argos.\"\n\nThen sensible young Telemachus answered her.\n\n\"Mother, why do you grudge the good singer his song, wherever his mind takes him? It is not the singers who are to blame for anything. It is Zeus who is to blame, for he gives to every man who eats bread whatever he chooses to give.\n\nThere is nothing wrong with singing about the sad end of the Danaans. People always praise the newest song best. So let your heart be brave and listen to it.\n\nOdysseus was not the only man who never got home from Troy, you know. Ever so many others died there too.\n\nNow go back into the house and see to your own work, your loom and your spinning, and tell your maids to get on with theirs. Talking is for the men to do. For all of them, and most of all for me, because I am the master of this house.\"\n\nAnd she was so astonished that she went back into the house."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T22:00:23+00:00"
   },
   "murray": [
     {

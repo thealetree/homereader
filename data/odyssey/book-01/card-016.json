@@ -85,9 +85,60 @@
       "greek": "ὄρνις δʼ ὣς ἀνόπαια διέπτατο· τῷ δʼ ἐνὶ θυμῷ"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "and-you, friend, for very-much I-see-you fair and tall,",
+      "valiant be, so-that someone of-men-yet-unborn may-speak-well of-you.",
+      "but I to my-swift ship will-go-down now,",
+      "and-to-my-comrades, who somewhere at-me are-greatly-chafing, waiting;",
+      "and-let-it-be your-own care, and of-my words take-heed.'",
+      "and-her in-turn Telemachus, prudent, answering addressed:",
+      "'Stranger, truly indeed these-things with-kind-intent you-speak,",
+      "as a-father to-his son; and never shall-I-forget them.",
+      "but come now, remain, though-hastening for-the-road,",
+      "so-that having-bathed and having-delighted your-dear heart,",
+      "a-gift having, to-your-ship you-may-go, rejoicing in-your-heart,",
+      "a-precious one, very fair, which for-you a-keepsake shall-be",
+      "from me, such-as dear guest-friends to-guest-friends give.'",
+      "and-him answered then the-goddess, bright-eyed Athena:",
+      "'do-not me still now detain, longing as-I-am for-the-road.",
+      "and-the-gift which to-me to-give your-dear heart bids,",
+      "when-again I-come-back give-it, homeward to-carry,",
+      "and a-very fair one choosing; and-for-you worthy shall-be the-exchange.'",
+      "she then thus having-spoken departed, bright-eyed Athena,",
+      "and-like a-bird upward she-flew-away; and-in-his heart"
+    ],
+    "literal": [
+      "And you, my friend, since I see you are very fair and tall,",
+      "be valiant, that men yet unborn may speak well of you.",
+      "But I will go down now to my swift ship",
+      "and to my comrades, who are surely chafing as they wait for me;",
+      "let this be your own care, and take heed of my words.'",
+      "Then prudent Telemachus answered her:",
+      "'Stranger, truly you speak these things with kind intent,",
+      "as a father to his son, and I shall never forget them.",
+      "But come now, stay, eager though you are for the road,",
+      "so that when you have bathed and delighted your heart,",
+      "you may go to your ship with a gift, rejoicing in your heart,",
+      "a precious gift, very fair, which shall be a keepsake for you",
+      "from me, such as dear guest-friends give to guest-friends.'",
+      "Then the goddess, bright-eyed Athena, answered him:",
+      "'Do not detain me now, for I long to be on my road.",
+      "And the gift your heart bids you give me,",
+      "give it when I come back again, to carry home,",
+      "and choose a very fair one; it shall be worth its exchange to you.'",
+      "So saying, bright-eyed Athena departed,",
+      "and flew away upward like a bird; and in his heart"
+    ],
+    "elizabethan": "And thou, my friend, since I behold thee tall\nand fair, be valiant, that in after days\nmen yet unborn may speak thy name with praise.\nBut I go down now to my swift black ship\nand to my crew, who fret at waiting there.\nLook to thyself, and lay my words to heart.\"\nThen prudent Telemachus made answer thus:\n\"Stranger, thou speak'st in kindness, as a father\nwould speak unto his own son. I'll not forget.\nBut stay a while, though eager for the road,\nthat thou mayst bathe and cheer thy heart, and go\ndown to thy ship with some good gift in hand,\na costly, lovely thing, to keep from me,\nsuch as dear guest gives guest.\" The goddess then,\nthe bright of eye, Athena, answered him:\n\"Detain me not; I long to be away.\nThe gift thy heart would give me, give it then\nwhen I return, to carry to my home,\nand choose a fair one. Fair shall be thy meed.\"\nSo saying, bright-eyed Athena went from him,\nand like a bird went darting up and away.",
+    "modernist": "And you, my friend. I can see you are tall and good-looking. Be brave, so that men who are not born yet will speak well of you.\n\nNow I am going down to my fast ship and my crew. They will be tired of waiting. Look after yourself, and do what I told you.\"\n\nThen Telemachus answered her. He had sense.\n\n\"Stranger, you say all this kindly, the way a father talks to his son. I will not forget it. But wait a while, even if you are in a hurry. Have a bath. Enjoy yourself. Then go down to your ship with a present in your hands and a good feeling, something valuable and fine, a keepsake from me. That is what friends give friends.\"\n\nThen bright-eyed Athena answered him.\n\n\"Do not hold me here. I want to be on the road. Give me the present when I come back, and I will take it home. Pick a good one. You will get your worth of it.\"\n\nBright-eyed Athena finished and left. She went up and away like a bird.",
+    "storybook": "And you, my friend! I can see you are tall and handsome. Be brave, so that people who are not even born yet will say fine things about you.\n\nNow I must go down to my swift ship, where my crew are waiting and getting very impatient. Look after yourself, and remember everything I have told you.\"\n\nThen sensible young Telemachus answered her.\n\n\"Stranger, you say all this so kindly, just the way a father speaks to his son. I shall never forget it. But do wait a little, even if you are in a hurry! Have a warm bath and enjoy yourself, and then go down to your ship with a present in your hands, feeling happy: something precious and beautiful to keep, from me. That is what good friends give one another.\"\n\nThen bright-eyed Athena answered him.\n\n\"Do not keep me here, for I am longing to be off. Give me the present when I come back again, and I shall carry it home. Choose a lovely one, and you will get something just as good in return.\"\n\nAnd with that, bright-eyed Athena was gone. Up she went and away, like a bird."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T22:00:23+00:00"
   },
   "murray": [
     {

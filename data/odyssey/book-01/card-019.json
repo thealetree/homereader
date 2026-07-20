@@ -85,9 +85,60 @@
       "greek": "νήποινοί κεν ἔπειτα δόμων ἔντοσθεν ὄλοισθε."
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "for-her-son's word, prudent, she-laid-up in-her-heart.",
+      "and-to-the-upper-chamber having-gone-up with her-handmaid women,",
+      "she-wept then for-Odysseus, her-dear husband, until upon-her sleep",
+      "sweet on her-eyelids cast bright-eyed Athena.",
+      "and-the-wooers made-uproar throughout the-shadowy halls,",
+      "and-all prayed beside her-couch to-be-laid.",
+      "and-to-them Telemachus, prudent, began his-words:",
+      "'of-my-mother wooers, overweening insolence having,",
+      "now indeed feasting let-us-take-delight, and-let-there-not shouting",
+      "be, since this a-fine-thing to-hear is, of-a-singer",
+      "such-a-one as this-man is, to-the-gods like in-voice.",
+      "and-at-dawn to-the-assembly let-us-sit, going,",
+      "all, so-that to-you my-word outright I-may-declare:",
+      "to-go-out from-my-halls. and-other feasts busy-yourselves-with,",
+      "your-own goods eating, going-in-turn from house to house.",
+      "but-if to-you it-seems this better and more-profitable",
+      "to-be, of-one man's livelihood unavenged to-be-destroyed,",
+      "waste-on; and-I upon-the-gods will-call, the-ever-existing,",
+      "in-case somehow Zeus may-grant deeds-of-requital to-come-about:",
+      "unavenged then within the-house you-would-perish.'"
+    ],
+    "literal": [
+      "for she laid up her son's prudent word in her heart.",
+      "She went up to her upper chamber with her handmaid women",
+      "and wept there for Odysseus, her dear husband, until",
+      "bright-eyed Athena cast sweet sleep upon her eyelids.",
+      "But the wooers broke into uproar throughout the shadowy halls,",
+      "and all of them prayed to lie beside her.",
+      "And prudent Telemachus was first to speak among them:",
+      "'Wooers of my mother, overweening in your insolence,",
+      "let us take our delight in the feast now, and let there be",
+      "no shouting, since it is a fine thing to hear such a singer",
+      "as this man is, like the gods in his voice.",
+      "But at dawn let us all go and sit in assembly,",
+      "that I may declare my word to you outright:",
+      "to go out from my halls. Busy yourselves with other feasts,",
+      "eating your own goods, going from house to house in turn.",
+      "But if it seems to you better and more profitable",
+      "that one man's livelihood be destroyed without atonement,",
+      "then waste on. And I will call upon the gods who are forever,",
+      "in the hope that Zeus may grant deeds of requital:",
+      "then you would perish within this house unavenged.'"
+    ],
+    "elizabethan": "She laid her son's wise saying up in mind,\nand to her upper chamber went, and there,\nher women with her, wept Odysseus,\nher own dear husband, till the bright-eyed one,\nAthena, cast sweet sleep upon her lids.\nBut through the shadowy hall the suitors broke\nin uproar, praying each to lie by her.\nThen prudent Telemachus began:\n\"Suitors upon my mother, insolent\nbeyond all measure, let us take our joy\nin feasting now, and let there be no shouting,\nsince it is good to hear a singer such\nas this man is, in voice much like the gods.\nBut when the dawn comes, let us all go sit\nin the assembly, that I may declare\nmy word out plainly: get you from my halls.\nBusy yourselves with other feasts than mine,\neat your own goods, go house by house in turn.\nBut if it seem to you the better way,\nand more to profit, that one man's whole living\nbe eaten up and never paid for, then\ndevour it. I will call upon the gods\nthat live for ever, that Zeus grant at last\nrequital: and unavenged within these walls\nyou shall be slain.\"",
+    "modernist": "She took her son's sensible words and kept them.\n\nShe went upstairs with her women and cried for Odysseus, her husband, until bright-eyed Athena put sweet sleep on her eyelids.\n\nThe suitors made a racket through the shadowy hall. Every one of them prayed to get into her bed.\n\nThen Telemachus spoke first. He had sense.\n\n\"Suitors of my mother. You are insolent men and there is no limit to it. Enjoy the feast now. But no shouting. It is a good thing to listen to a singer like this one. His voice is like the voices of the gods.\n\nIn the morning we will all go and sit in the assembly. I am going to say it to you straight. Get out of my house. Feast somewhere else. Eat your own food. Go from one house to the next.\n\nBut if you think it is better business to eat up one man's living and never pay for it, then go on eating. I will call on the gods, who go on forever. I hope Zeus grants me a payment in kind. Then you will die in this house, and nobody will avenge you.\"",
+    "storybook": "She kept her son's sensible words in her heart.\n\nThen she went upstairs with her women, and cried and cried for Odysseus, her dear husband, until bright-eyed Athena laid sweet sleep upon her eyelids.\n\nBut down below, the suitors made a great racket all through the shadowy hall, and every single one of them was praying that he might be the one to lie beside her.\n\nThen sensible young Telemachus spoke up first.\n\n\"Suitors of my mother! There is no end to your rudeness. Very well, enjoy your feast now, but stop all this shouting, because it is a fine thing to listen to a singer like this one, whose voice is as lovely as a god's.\n\nBut in the morning we shall all go and sit in the assembly, and I am going to tell you straight out: get out of my house! Go and have your feasts somewhere else. Eat up your own food, and go round from one house to the next.\n\nBut if you think it is a better bargain to eat one man's whole living and never pay a penny for it, then go on and eat. I shall call upon the gods who live for ever, and I hope with all my heart that Zeus grants me payment in kind. Then you will die right here in this house, and nobody will avenge you.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T22:00:23+00:00"
   },
   "murray": [
     {
