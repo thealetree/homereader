@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "homereader",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "8090", "/Users/vansanders/Documents/CodingProjects/Homer"],
+      "port": 8090
+    }
+  ]
+}

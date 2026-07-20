@@ -1,0 +1,203 @@
+/* Homer Interlinear Reader — barebones skeleton.
+   Typography spec (GFS Porson / EB Garamond self-hosted) lands in the design
+   pass; the structure and tokens below are what it will style. NO sans-serif
+   anywhere, including controls. */
+
+:root {
+  --paper: #faf6ee;
+  --ink: #1a1712;
+  --ink-faint: #8a8272;
+  --rule: #d8d0bf;
+  --greek-font: "GFS Porson", "GFS Didot", "Times New Roman", serif;
+  --english-font: "EB Garamond", Garamond, Georgia, serif;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { height: 100%; }
+
+body {
+  min-height: 100%;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--english-font);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1.5rem 1rem;
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.masthead h1 {
+  font-size: 1.4rem;
+  font-weight: normal;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+}
+
+.masthead-sub {
+  margin-top: 0.4rem;
+  font-style: italic;
+  color: var(--ink-faint);
+}
+
+/* ---------- Spread ---------- */
+
+.spread {
+  display: flex;
+  gap: 2.5rem;
+  width: 100%;
+  max-width: 68rem;
+  flex: 1;
+}
+
+.gutter {
+  width: 1px;
+  background: var(--rule);
+}
+
+.page {
+  flex: 1;
+  min-width: 0;
+}
+
+.page-body {
+  line-height: 1.5;
+}
+
+/* Greek page */
+
+.line { margin-bottom: 0.65rem; position: relative; }
+
+.line-greek {
+  font-family: var(--greek-font);
+  font-size: 1.12rem;
+}
+
+.line-no {
+  position: absolute;
+  left: -2.6rem;
+  top: 0.2rem;
+  width: 2rem;
+  text-align: right;
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+}
+
+.page-greek .page-body { padding-left: 2.6rem; }
+
+.line-gloss {
+  font-style: italic;
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+  margin-top: 0.1rem;
+}
+
+/* English page */
+
+.english-lines .t-line { margin-bottom: 0.65rem; }
+
+.english-prose { white-space: pre-wrap; }
+
+.placeholder {
+  font-style: italic;
+  color: var(--ink-faint);
+}
+
+/* ---------- Controls ---------- */
+
+.controls {
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.fidelity input[type="range"] {
+  width: 100%;
+  accent-color: var(--ink);
+}
+
+.fidelity-labels {
+  display: flex;
+  justify-content: space-between;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+}
+
+.fidelity-labels span { cursor: pointer; }
+.fidelity-labels span.active { color: var(--ink); }
+
+.flavors {
+  margin-top: 0.8rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.9rem;
+}
+
+.chip {
+  font-family: var(--english-font);
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-size: 0.85rem;
+  background: none;
+  border: none;
+  border-bottom: 1px solid transparent;
+  color: var(--ink-faint);
+  cursor: pointer;
+  padding: 0 0 0.1rem;
+}
+
+.chip.active {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+.chip:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+/* ---------- Pager ---------- */
+
+.pager {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.pager-arrow {
+  font-family: var(--english-font);
+  font-size: 1.1rem;
+  background: none;
+  border: none;
+  color: var(--ink);
+  cursor: pointer;
+  padding: 0.2rem 0.6rem;
+}
+
+.pager-arrow:disabled { opacity: 0.3; cursor: default; }
+
+.pager-label {
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-size: 0.9rem;
+  color: var(--ink-faint);
+}
+
+/* ---------- Mobile: stacked pages ---------- */
+
+@media (max-width: 720px) {
+  .spread { flex-direction: column; gap: 1.5rem; }
+  .gutter { width: auto; height: 1px; }
+  .page-greek .page-body { padding-left: 2.2rem; }
+  .line-no { left: -2.2rem; }
+}
