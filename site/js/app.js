@@ -241,7 +241,7 @@
 
   function renderChrome() {
     el.bookCurrent.textContent = "Book " + (ROMAN[state.book - 1] || state.book);
-    el.bookCount.textContent = state.card + " / " + cardCount(state.book);
+    el.bookCount.textContent = ", Page " + state.card + "/" + cardCount(state.book);
     el.pagerLabel.textContent = state.card + " / " + cardCount(state.book);
     el.edgePrev.disabled = state.card <= 1;
     el.edgeNext.disabled = state.card >= cardCount(state.book);
