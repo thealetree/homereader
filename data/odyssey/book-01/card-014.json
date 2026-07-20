@@ -85,9 +85,60 @@
       "greek": "νῆʼ ἄρσας ἐρέτῃσιν ἐείκοσιν, ἥ τις ἀρίστη,"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "a-drug man-slaying seeking, so-that for-him there-might-be",
+      "arrows to-smear, bronze-tipped; but he not to-him",
+      "gave-it, since indeed the-gods he-feared, the-ever-existing,",
+      "but father to-him gave-it, mine; for-he-loved-him exceedingly).",
+      "such being, with-the-wooers might-Odysseus mingle;",
+      "all would swift-fated become, and bitter-in-their-wooing.",
+      "but truly indeed these-things on-the-gods' knees lie,",
+      "whether returning he-will-take-vengeance, or also not,",
+      "in-his-own halls. but-you to-consider I-bid,",
+      "how the-wooers you-may-thrust-out from the-hall.",
+      "come now, understand, and of-my words take-heed:",
+      "tomorrow to an-assembly having-called the-hero Achaeans,",
+      "your-word declare to-all, and-let-the-gods be witnesses.",
+      "the-wooers to their-own-homes to-scatter bid,",
+      "and-your-mother, if her heart urges-her to-marry,",
+      "back let-her-go to the-hall of-her-father, greatly-powerful;",
+      "and-they a-marriage will-make and will-prepare bride-gifts",
+      "very many, as-many-as befits a-dear daughter to-follow.",
+      "and-to-you yourself shrewdly I-will-give-counsel, if you-will-heed:",
+      "a-ship having-fitted with-rowers twenty, whichever is-best,"
+    ],
+    "literal": [
+      "seeking a deadly drug, that he might have it",
+      "to smear on his bronze-tipped arrows; but Ilus would not",
+      "give it to him, since he feared the gods who are forever,",
+      "but my father gave it, for he loved him exceedingly).",
+      "Such a man, if he could meet the wooers,",
+      "would make them all swift to die and bitter in their wooing.",
+      "But truly these things lie upon the knees of the gods,",
+      "whether he shall return and take vengeance, or not,",
+      "within his own halls. But I bid you consider",
+      "how you may thrust the wooers out of the hall.",
+      "Come now, mark me, and take heed of my words:",
+      "tomorrow call the Achaean warriors to an assembly",
+      "and declare your word to all, and let the gods be witnesses.",
+      "Bid the wooers scatter to their own homes,",
+      "and as for your mother, if her heart urges her to marry,",
+      "let her go back to the hall of her father, a man of great power;",
+      "and they will make the marriage and prepare bride-gifts,",
+      "very many, as befits a dear daughter to take with her.",
+      "And to you yourself I will give shrewd counsel, if you will heed it:",
+      "fit out a ship with twenty rowers, the best that there is,"
+    ],
+    "elizabethan": "He had gone thither in his swift black ship\nto seek a poison for his bronze-tipped shafts,\na drug to kill with. Ilus would not give it,\nfearing the gods that live for ever; yet\nmy father gave it, loving him so well.\nLet such a man as that come face to face\nwith these thy suitors, and they all would find\na quick death and a bitter wedding day.\nBut these things rest upon the knees of gods,\nwhether he comes at last and takes revenge\nwithin his halls, or never comes at all.\nMeanwhile, do thou consider how to drive\nthese suitors from thy hall. Now mark me well\nand lay my words to heart. At break of day\ncall all the Achaean warriors to assembly,\nspeak out thy word to them, and let the gods\nbe witness to it. Bid the suitors go,\neach to his own. And for thy mother, if\nher heart is set on marrying again,\nlet her go back to her great father's house.\nThere shall they make the match and set the gifts,\nas many as befit a daughter dear.\nAnd to thyself I give this shrewd advice,\nif thou wilt hear it: fit a ship with twenty\noarsmen, the best of any thou canst find.",
+    "modernist": "He had gone there in his fast ship to find a poison for his bronze arrowheads. Something that kills. Ilus would not give it to him. He was afraid of the gods, who go on forever. My father gave it to him. He was very fond of him.\n\nLet a man like that walk in on your suitors. They would all die quickly and their courting would turn bitter.\n\nBut that rests on the knees of the gods. He may come back and settle it in his own house. He may not.\n\nYour business is different. Work out how to get these men out of your hall. Listen to me now and do what I say. Tomorrow morning call the Achaean warriors to an assembly. Say your piece to all of them. Let the gods hear it.\n\nTell the suitors to go home, every one to his own place. As for your mother, if she has a mind to marry, send her back to her father's house. He is a powerful man. They will arrange the match there and set out the bride-gifts, as many as a man gives for a daughter he loves.\n\nAnd here is my advice to you, if you will take it. Fit out a ship with twenty oarsmen, the best one you can get.",
+    "storybook": "He had sailed there in his swift ship to look for a poison to smear on his bronze arrows, the kind that kills a man. But Ilus would not give him any, because he was frightened of the gods, who live for ever and ever. So my father gave it to him instead, for he loved him dearly.\n\nNow, if a man like that were to walk in among your suitors, every one of them would die quickly, and their courting would turn very bitter indeed!\n\nBut whether he comes home and settles with them in his own hall, or never comes home at all, that lies upon the knees of the gods.\n\nWhat you must do is this. Think how to get these men out of your house. Listen carefully now, and do exactly as I say. Tomorrow morning, call all the Achaean warriors together to an assembly, and say your piece to every one of them, and let the gods themselves listen as witnesses.\n\nTell the suitors to go home, each one to his own house. And as for your mother, if she truly wishes to marry again, let her go back to her father's house, for he is a powerful man. They will arrange the wedding there, and set out all the bride-gifts that a father gives for a daughter he loves.\n\nAnd here is my own advice for you, if you will take it: get a ship ready, the very best you can find, with twenty oarsmen."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T21:40:32+00:00"
   },
   "murray": [
     {

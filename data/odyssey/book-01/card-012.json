@@ -85,9 +85,60 @@
       "greek": "ἠδέ κε καὶ ᾧ παιδὶ μέγα κλέος ἤρατʼ ὀπίσσω."
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "and-him in-turn addressed the-goddess, bright-eyed Athena:",
+      "'not indeed for-you a-lineage nameless hereafter",
+      "have-the-gods appointed, since you such-a-one bore Penelope.",
+      "but come, to-me this tell, and truly recount:",
+      "what feast, what gathering is-this? and-what need have-you of-it?",
+      "a-banquet or a-wedding? since not a-shared-meal this at-least is;",
+      "so to-me insolently, overbearingly, they-seem",
+      "to-feast throughout the-house. indignant would-be a-man,",
+      "shameful-things many seeing, whoever prudent should-come-among-them.'",
+      "and-her in-turn Telemachus, prudent, answering addressed:",
+      "'Stranger, since indeed these-things you-ask-me and inquire,",
+      "it-was-destined once this-house wealthy and blameless",
+      "to-be, while still that man at-home was;",
+      "but-now otherwise have-willed the-gods, devising evils,",
+      "who that-man unseen have-made beyond all",
+      "men; since not for-him dead would-I-so-grieve,",
+      "if among his-comrades he-had-been-slain in-the-land of-the-Trojans,",
+      "or in-the-hands of-friends, when he-had-wound-up the-war.",
+      "then for-him a-tomb would-have-made all-the-Achaeans,",
+      "and-also for-his son great renown he-would-have-won hereafter."
+    ],
+    "literal": [
+      "Then the goddess, bright-eyed Athena, answered him:",
+      "'Surely the gods have not appointed your line to be nameless",
+      "hereafter, since Penelope bore such a son as you.",
+      "But come, tell me this, and recount it truly:",
+      "what feast is this, what gathering? What need have you of it?",
+      "A banquet, or a wedding? For this is surely no shared meal;",
+      "so insolently and overbearingly do they seem to me",
+      "to feast throughout the house. A man would be indignant",
+      "to see so many shameful things, if he came among them with sense.'",
+      "Then prudent Telemachus answered her:",
+      "'Stranger, since you ask me this and inquire of it,",
+      "this house was once destined to be wealthy and blameless,",
+      "while that man was still at home;",
+      "but now the gods have willed otherwise, devising evils,",
+      "who have made him vanish beyond all",
+      "men. For I would not grieve so for him dead,",
+      "if he had been slain among his comrades in the land of the Trojans,",
+      "or in the hands of his friends, when he had wound up the war.",
+      "Then all the Achaeans would have made him a tomb,",
+      "and he would have won great renown for his son hereafter."
+    ],
+    "elizabethan": "Then spoke the goddess, bright of eye, again:\n\"Surely the gods have not ordained thy line\nto want a name hereafter, seeing that\nPenelope bore such a son as thou.\nBut tell me true: what feast is this, what throng?\nWhat need hast thou of them? A banquet? Or\na wedding? For no shared repast is here.\nSo insolent and overweening seem\nthese men that feast throughout thy hall. A man\nof any sense, come newly in, would rage\nto look on shame so manifold.\"\nThen answered prudent Telemachus:\n\"Stranger, since thou dost ask and search it out,\nthis house was rich and blameless once, and would\nhave so remained, while yet that man was home.\nBut now the gods have willed it otherwise,\ndevising evil, and have made him vanish\npast all men living. I should grieve him less\nwere he but dead, cut down among his men\nin Trojan country, or in friendly arms\nwhen he had wound the war up to its end.\nThen had the Achaeans raised a mound for him,\nand he had won his son great fame to come.\"",
+    "modernist": "Then bright-eyed Athena spoke to him again.\n\n\"The gods have not left your line without a name. Not with Penelope bearing a son like you.\n\nBut tell me this, and tell it straight. What is this feast? What is this crowd? What do you want with them? Is it a banquet or a wedding? Nobody brought his own food to this one. They eat their way through your house and they do it like men who own it. Anyone with sense who walked in here would be angry at what he saw.\"\n\nThen Telemachus answered her. He had sense.\n\n\"Stranger, since you ask, and since you want to know. This house was rich once, and it was respectable, while that man was still at home. The gods wanted it another way. They have made him disappear more completely than any man. I could stand it if he were dead. If he had gone down with his men in Trojan country, or died in his friends' arms with the war finished. The Achaeans would have built him a mound. He would have left his son a great name.\"",
+    "storybook": "Then bright-eyed Athena spoke to him again.\n\n\"The gods have certainly not left your family without a name, not when Penelope has a son like you!\n\nBut do tell me: what is this feast? Who are all these people, and what do you want with them? Is it a party, or a wedding? Because nobody here has brought any food of his own! They are eating their way through your house as if they owned it, and behaving dreadfully. Anyone sensible who walked in would be furious at the sight.\"\n\nThen sensible young Telemachus answered her.\n\n\"Stranger, since you ask me, I will tell you. This house was rich once, and respectable too, back when my father was still at home. But the gods decided otherwise, and they have made him vanish more completely than anybody in the world. I could bear it if he were simply dead. If he had fallen among his men at Troy, or died in the arms of his friends once the fighting was over, then all the Achaeans would have built him a great burial mound, and he would have left me a proud name to carry.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T21:40:32+00:00"
   },
   "murray": [
     {

@@ -85,9 +85,60 @@
       "greek": "ᾤχετο γὰρ καὶ κεῖσε θοῆς ἐπὶ νηὸς Ὀδυσσεὺς"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "but-now him gloriously-not the-Harpies have-snatched-away;",
+      "he-is-gone unseen, unheard-of, and-to-me pains and groans",
+      "he-left. nor for-that-man lamenting do-I-groan",
+      "alone, since now for-me other evil sorrows the-gods have-wrought.",
+      "for as-many-as over-the-islands hold-sway, the-best,",
+      "over-Dulichium and Same and wooded Zacynthus,",
+      "and-as-many-as rugged Ithaca throughout rule,",
+      "so-many my-mother woo, and-wear-away the-house.",
+      "and-she neither refuses the-hateful marriage nor an-end",
+      "to-make is-able; and-they waste-away, devouring",
+      "my house; and-soon indeed me they-will-destroy, myself also.'",
+      "and-him, greatly-troubled, addressed Pallas Athena:",
+      "'Ah me, surely indeed greatly of-departed Odysseus",
+      "you-have-need, who upon-the-wooers shameless his-hands might-lay.",
+      "for-if now coming, in the-house's outermost doors",
+      "he-should-stand, having a-helmet and a-shield and two spears,",
+      "such being as-him I first knew",
+      "in-house our, drinking and taking-delight,",
+      "from Ephyra returning, from Ilus son-of-Mermerus",
+      "(for he-had-gone also there on a-swift ship, Odysseus,"
+    ],
+    "literal": [
+      "But now the Harpies have snatched him away without glory;",
+      "he is gone unseen, unheard of, and he left me pains",
+      "and groans. Nor is it for him alone that I lament",
+      "and grieve, since the gods have wrought me other evil sorrows.",
+      "For all the noblest who hold sway over the islands,",
+      "over Dulichium and Same and wooded Zacynthus,",
+      "and all who rule throughout rugged Ithaca,",
+      "all these woo my mother and wear away the house.",
+      "And she neither refuses the hateful marriage, nor is able",
+      "to make an end of it; and they waste my house,",
+      "devouring it; and soon they will destroy me as well.'",
+      "Then Pallas Athena, greatly troubled, spoke to him:",
+      "'Ah me, surely you have great need of Odysseus, who is gone,",
+      "that he might lay his hands upon these shameless wooers.",
+      "For if he were now to come and stand at the outer doors",
+      "of the house, with a helmet and a shield and two spears,",
+      "such as he was when I first knew him",
+      "in our house, drinking and taking his delight,",
+      "returning from Ephyra, from Ilus son of Mermerus",
+      "(for Odysseus had gone there also in his swift ship,"
+    ],
+    "elizabethan": "But now the Harpies have caught him away\nwithout a name, and he is gone from sight\nand hearing, and has left me tears and pain.\nNor is it he alone I mourn. The gods\nhave shaped me other sorrows. All the lords\nwho hold the islands, Dulichium, Same,\nand wooded Zacynthus, and all who rule\nin rugged Ithaca, all these are here\nto court my mother, and they waste the house.\nShe neither can refuse the hateful match\nnor make an end of it; and they consume\nmy living, and will shortly ruin me.\"\nThen Pallas Athena, in anger, spoke:\n\"Now by the gods, thou hast great need of him,\nOdysseus gone so long, to lay his hands\nupon these shameless suitors. Let him come\nand stand but once within the outer door\nwith helm and shield and his two spears in hand,\nthe man I knew when first I looked on him\ndrinking and merry in our house at home,\nnew come from Ephyra, from Ilus' hall,\nthe son of Mermerus.",
+    "modernist": "Now the Harpies have taken him and left him no name. He is gone. Nobody sees him. Nobody hears of him. He left me pain and crying.\n\nAnd it is not only him. The gods made me other troubles. Every lord who runs the islands, Dulichium and Same and wooded Zacynthus, and every man who rules in rugged Ithaca, all of them are courting my mother and eating the house down. She will not say no to the marriage and she cannot end it. They are finishing off my property. Soon they will finish me too.\"\n\nPallas Athena was angry when she answered.\n\n\"You need him. You need Odysseus badly, to put his hands on these shameless men. Let him come and stand in the outer doorway one time, with a helmet and a shield and two spears. The way he was when I first saw him, drinking in our house and enjoying himself, on his way back from Ephyra, from the house of Ilus son of Mermerus.\"",
+    "storybook": "But now the Harpies have snatched him away and left him without even a name. He is gone. Nobody sees him. Nobody hears of him. All he left me was pain and weeping.\n\nAnd it is not only him, either. The gods gave me other troubles as well. Every single lord who rules the islands, Dulichium and Same and woody Zacynthus, and every man who rules in rocky Ithaca, all of them are here courting my mother, and eating our house right down to the floorboards. She will not say no to marrying, and she cannot make it stop. They are gobbling up everything we own, and quite soon they will gobble me up too.\"\n\nPallas Athena was very angry when she answered him.\n\n\"Oh, how you need him! How you need Odysseus back, to lay his hands on these shameless men. If only he would come and stand just once in the doorway, with his helmet on and his shield up and two spears in his hand, looking the way he did when I first saw him, drinking and laughing in our house, on his way home from Ephyra, from the house of Ilus, the son of Mermerus.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T21:40:32+00:00"
   },
   "murray": [
     {

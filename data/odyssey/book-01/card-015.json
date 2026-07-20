@@ -85,9 +85,60 @@
       "greek": "Αἴγισθον δολόμητιν, ὅ οἱ πατέρα κλυτὸν ἔκτα;"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "go, to-inquire of-your-father long departed,",
+      "if any of-mortals should-tell-you, or a-rumour you-should-hear",
+      "from Zeus, which especially brings report to-men.",
+      "first indeed to Pylos go, and ask goodly Nestor,",
+      "and-from-there to-Sparta, to fair-haired Menelaus;",
+      "for-he last came of-the-Achaeans, the-bronze-clad.",
+      "if indeed of-your-father's life and homecoming you-should-hear,",
+      "truly then, though-worn-down, still you-might-endure a-year;",
+      "but-if of-him-dead you-should-hear, and no-longer being,",
+      "returning then thereafter to-your-dear native land,",
+      "a-mound for-him heap-up, and funeral-rites perform,",
+      "very many, as-many-as befit, and to-a-husband your-mother give.",
+      "but when indeed these-things you-have-finished and done,",
+      "consider then thereafter in your-mind and in your-heart",
+      "how the-wooers in halls your-own",
+      "you-may-slay, either by-guile or openly; nor at-all must-you",
+      "childish-ways carry-on, since no-longer of-that-age are-you.",
+      "or have-you-not heard what renown won goodly Orestes",
+      "among all men, when he-slew his-father's-slayer,",
+      "Aegisthus the-guileful, who his father famous had-slain?"
+    ],
+    "literal": [
+      "and go to seek news of your father, long departed,",
+      "in case some mortal should tell you, or you should hear a rumour",
+      "from Zeus, which above all brings report to men.",
+      "First go to Pylos and ask goodly Nestor,",
+      "and from there to Sparta, to fair-haired Menelaus;",
+      "for he came home last of the bronze-clad Achaeans.",
+      "If you should hear that your father lives and is coming home,",
+      "then, worn down though you are, you might endure another year;",
+      "but if you should hear that he is dead and no longer alive,",
+      "then return to your own dear native land,",
+      "and heap up a mound for him, and perform funeral rites,",
+      "very many, as is fitting, and give your mother to a husband.",
+      "But when you have finished and done these things,",
+      "then consider in your mind and in your heart",
+      "how you may slay the wooers in your own halls,",
+      "whether by guile or openly; nor must you",
+      "carry on in childish ways, since you are no longer of that age.",
+      "Or have you not heard what renown goodly Orestes won",
+      "among all men, when he slew his father's slayer,",
+      "guileful Aegisthus, who had slain his famous father?"
+    ],
+    "elizabethan": "Then go and seek some news of thy lost father,\nif any mortal tell thee, or if thou\nshouldst catch a rumour out of Zeus, which most\nof all brings tidings among men. First go\nto Pylos, and ask goodly Nestor there;\nfrom thence to Sparta, to the fair-haired lord\nMenelaus, who came latest home of all\nthe bronze-clad Achaeans. If thou hear\nthy father lives and is upon his way,\nthen, worn as thou art, endure another year.\nBut if thou hear that he is dead and gone,\nreturn thee to thy own dear fatherland,\nand heap a mound for him, and pay the rites,\nfull many, as is fitting, and bestow\nthy mother on a husband. When all this\nis finished and performed, then take thou thought\nwithin thy mind and heart, by what device,\nby guile or in the open, thou shalt kill\nthe suitors in thy halls. It is not fit\nthat thou go on in childish ways; thy years\nare past that now. Hast thou not heard what fame\ngoodly Orestes won among all men,\nwhen he cut down his father's murderer,\nguileful Aegisthus, who had slain his sire?",
+    "modernist": "Then go and look for news of your father. Somebody may tell you. Or you may catch a rumour out of Zeus, which is what carries word furthest among men.\n\nGo to Pylos first and ask goodly Nestor. Then go on to Sparta, to fair-haired Menelaus. He came home last of all the bronze-clad Achaeans.\n\nIf you hear your father is alive and on his way, then hold out one more year, worn down as you are. If you hear he is dead and gone, come home to your own country. Heap up a mound for him. Do the rites, all of them, the way it should be done. Then give your mother to a husband.\n\nWhen that is finished, think hard. Work out how you are going to kill the suitors in your own hall. By a trick or in the open. It does not matter which. You are too old to go on behaving like a child.\n\nHave you not heard what a name goodly Orestes made for himself among men, when he killed the man who killed his father? Guileful Aegisthus, who cut down his famous father.",
+    "storybook": "Then off you go to look for news of your father. Perhaps somebody will tell you something. Or perhaps you will catch a rumour that comes from Zeus himself, for rumours travel further among people than anything else.\n\nGo to Pylos first, and ask good old Nestor. Then go on to Sparta, to fair-haired Menelaus, who was the very last of the bronze-clad Achaeans to get home.\n\nIf you hear that your father is alive and on his way, then be patient just one more year, tired as you are. But if you hear that he is dead and gone, then come home to your own dear country. Build a great mound for him, and hold a proper funeral with all the rites, exactly as it should be done. And then give your mother away to a new husband.\n\nAnd when all of that is finished, you must think very hard indeed, and work out how you are going to kill the suitors in your own hall. By a clever trick, or right out in the open. It does not matter which. You are far too old now to go on behaving like a little boy.\n\nHave you not heard what a splendid name Orestes won for himself all over the world, when he killed the man who murdered his father? That was sly Aegisthus, who had cut down his famous father."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T21:40:32+00:00"
   },
   "murray": [
     {

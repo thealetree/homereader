@@ -85,9 +85,60 @@
       "greek": "τοῦ μʼ ἔκ φασι γενέσθαι, ἐπεὶ σύ με τοῦτʼ ἐρεείνεις."
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "the-immortals cast-it, and as to-be-fulfilled I-think,",
+      "neither a-seer being, nor of-bird-signs clearly knowing.",
+      "not for-you still long indeed from-his-dear native land",
+      "will-he-be, not-even if iron bonds he-should-have;",
+      "he-will-contrive how he-may-return, since of-many-devices he-is.",
+      "but come, to-me this tell, and truly recount:",
+      "whether indeed from him-himself so-tall a-child you-are, of-Odysseus.",
+      "wondrously in-head and in-eyes fair you-resemble",
+      "that-man, since often in-such-wise we-mingled with-one-another,",
+      "before he to Troy went-up, where indeed the-others,",
+      "of-the-Argives the-best, went in-hollow ships;",
+      "and-since then neither Odysseus have-I seen, nor me that-man.'",
+      "and-her in-turn Telemachus, prudent, answering addressed:",
+      "'Therefore I to-you, stranger, very truly will-declare.",
+      "my-mother indeed says me of-him to-be, but I myself",
+      "do-not know; for not-yet has-anyone his-own begetting himself known.",
+      "would that I were of-some blessed man the-son,",
+      "of-a-man whom amid his-possessions old-age overtook.",
+      "but-now he-who most-luckless was-born of-mortal men,",
+      "of-him me they-say to-be-sprung, since you me this ask.'"
+    ],
+    "literal": [
+      "the immortals cast it, and as I think it shall be fulfilled,",
+      "though I am no seer, nor one who reads bird-signs clearly.",
+      "Not much longer will he be far from his dear native land,",
+      "not even if bonds of iron hold him;",
+      "he will contrive a way to return, for he is of many devices.",
+      "But come, tell me this, and recount it truly:",
+      "are you indeed, tall as you are, the son of Odysseus himself?",
+      "Wondrously do you resemble him about the head and the fair eyes,",
+      "for often did we meet with one another in this way,",
+      "before he went up to Troy, where the others also,",
+      "the best of the Argives, went in their hollow ships.",
+      "Since then I have not seen Odysseus, nor he me.'",
+      "Then prudent Telemachus answered her:",
+      "'Therefore, stranger, I will declare it to you very truly.",
+      "My mother says that I am his; but for myself",
+      "I do not know, for no man ever yet knew his own begetting.",
+      "Would that I were the son of some blessed man",
+      "whom old age overtook amid his own possessions.",
+      "But now, of him who was born most luckless of mortal men,",
+      "of him they say I am sprung, since you ask me this.'"
+    ],
+    "elizabethan": "Not long shall he be kept from his own land,\nnot though they bind him fast with iron bands.\nHe will contrive his coming, being a man\nof many devices. But now tell me true:\nart thou indeed his son, and grown so tall,\nthe son of that Odysseus? Wondrous like\nthou art about the head and the fair eyes.\nFor often did we come together thus,\nbefore he sailed for Troy, where all the best\namong the Argives went in hollow ships.\nSince then I have not seen him, nor he me.\"\nThen prudent Telemachus made answer thus:\n\"Stranger, I will declare it to thee plain.\nMy mother says I am his son. For me,\nI do not know. No man yet ever knew\nof his own getting. Would that I had been\nthe son of some blest man whom age o'ertook\namong his own possessions. But they say\nI am the son of him who was born of all\nmortals the most unlucky. Thou didst ask.\"",
+    "modernist": "He will not be away from home much longer. Not even if they have him in iron. He will work out a way back. He is a man of many devices.\n\nNow tell me this, and tell it straight. Are you his son? You are tall enough. You look like him about the head and the eyes. It is remarkable. We used to meet like this, before he went up to Troy, where the best of the Argives went in the hollow ships. I have not seen him since. He has not seen me.\n\nThen Telemachus answered her. He had sense.\n\n\"I will tell you plainly, stranger. My mother says I am his son. I do not know myself. No man ever knew who fathered him. I wish I were the son of some lucky man who grew old among his own things. They tell me I am the son of the unluckiest man ever born. That is your answer, since you asked.\"",
+    "storybook": "He will not be away from home for very much longer. Not even if they tie him up with iron chains! He will think of a way to come back, for he is the cleverest man alive at getting himself out of trouble.\n\nBut now tell me truly: are you really his son? You have grown so tall! You look wonderfully like him about the head and the eyes. We used to meet often in the old days, before he sailed away to Troy with all the best of the Argives in their hollow ships. I have never seen him since, and he has never seen me.\n\nThen sensible young Telemachus answered her.\n\n\"I will tell you honestly, stranger. My mother says that I am his son. But I do not really know, for no one has ever been quite sure who his own father was. Oh, how I wish I were the son of some lucky man who grew old peacefully among his own things! But they tell me I am the son of the unluckiest man who was ever born. And that is your answer, since you asked me.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T21:40:32+00:00"
   },
   "murray": [
     {
