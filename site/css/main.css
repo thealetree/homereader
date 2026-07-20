@@ -182,9 +182,13 @@ body {
 
 .line { margin-bottom: 0.65rem; position: relative; }
 
+/* Greek verse and its crib wrap the same way as the stylized verse: hanging
+   indent on the runover instead of a stranded word. */
 .line-greek {
   font-family: var(--greek-font);
   font-size: 1.12rem;
+  text-indent: -1.1em;
+  padding-left: 1.1em;
 }
 
 .line-no {
@@ -221,13 +225,18 @@ body {
   color: var(--ink-faint);
   line-height: 1.4;
   margin-top: 0.15rem;
+  text-indent: -1.1em;
+  padding-left: 1.1em;
 }
 
-/* Murray 1919 prose fallback (5-line segments) for un-authored cards */
+/* Murray 1919 prose fallback (5-line segments) for un-authored cards.
+   Genuine prose, so no hanging indent. */
 .line-gloss-prose {
   margin: 0.35rem 0 1.2rem;
   font-size: 0.85rem;
   line-height: 1.45;
+  text-indent: 0;
+  padding-left: 0;
 }
 
 /* Source attribution, foot of the Greek column */
@@ -244,9 +253,19 @@ body {
 
 /* English page */
 
-.english-lines .t-line { margin-bottom: 0.65rem; }
+/* Verse keeps its hard line breaks; a line too wide for the column runs over
+   with a hanging indent so it reads as a continuation rather than dropping an
+   orphaned word onto a bare new line. Prose blocks flow normally. */
+.verse { margin-bottom: 1.1rem; }
+.verse:last-child { margin-bottom: 0; }
 
-.english-prose { white-space: pre-wrap; }
+.verse-line {
+  text-indent: -1.15em;
+  padding-left: 1.15em;
+}
+
+.prose-para { margin-bottom: 1.1rem; }
+.prose-para:last-child { margin-bottom: 0; }
 
 .placeholder {
   font-style: italic;
@@ -353,6 +372,12 @@ body {
   .page-greek .page-body { padding-left: 2.2rem; }
   .line-no { left: -2.2rem; }
   .edge-arrow { font-size: 1.8rem; padding: 0.3rem 0.35rem; }
+
+  /* Reclaim horizontal room and tighten the measure so verse lines mostly fit
+     outright, leaving the hanging indent for the genuinely long ones. */
+  body { padding-left: 1rem; padding-right: 1rem; }
+  .page-english .page-body { font-size: 0.9rem; }
+  .line-greek { font-size: 1rem; }
 
   /* One page at a time, chosen by the pane toggle. */
   .pane-toggle { display: flex; }

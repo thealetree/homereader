@@ -203,10 +203,29 @@
       return;
     }
 
-    var prose = document.createElement("div");
-    prose.className = "english-prose";
-    prose.textContent = content;
-    el.englishBody.appendChild(prose);
+    /* Blocks are separated by blank lines. A block containing its own line
+       breaks is verse (each line becomes an element so runovers can hang);
+       a block without them is prose and flows normally. */
+    content.split(/\n{2,}/).forEach(function (block) {
+      var lines = block.split("\n");
+
+      if (lines.length > 1) {
+        var verse = document.createElement("div");
+        verse.className = "verse";
+        lines.forEach(function (line) {
+          var d = document.createElement("div");
+          d.className = "verse-line";
+          d.textContent = line;
+          verse.appendChild(d);
+        });
+        el.englishBody.appendChild(verse);
+      } else {
+        var p = document.createElement("p");
+        p.className = "prose-para";
+        p.textContent = block;
+        el.englishBody.appendChild(p);
+      }
+    });
   }
 
   function renderControls() {

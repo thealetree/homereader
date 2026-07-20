@@ -80,6 +80,7 @@ Every component, its class hook, and where it sits.
 | Murray fallback | `.line-gloss-prose` | For cards without authored per-line cribs, Murray's 1919 prose renders in 5-line blocks instead |
 | Crib toggle | `.crib-controls`, `.crib-label` | Top of the left page: Interlinear / Literal. Hidden on cards lacking per-line cribs |
 | Style buttons | `.controls`, `.style-buttons`, `.style-btn` | Top of the right page: Elizabethan / Modernist / Storybook |
+| Translation text | `.verse`, `.verse-line`, `.prose-para` | Right page body. Verse (Elizabethan) renders one element per line so a too-long line runs over with a hanging indent; prose (Modernist / Storybook) renders as paragraphs. Blocks are split on blank lines in the source text |
 | Mobile pane toggle | `.pane-toggle`, `.pane-btn` | **Mobile only** (≤720px). Source / Stylized picks which single page shows, driven by `<html data-pane>`. Hidden on desktop |
 | Page-turn arrows | `.edge-arrow`, `.edge-arrow-prev`, `.edge-arrow-next` | Fixed at left/right window edges, vertically centered. Currently plain `‹ ›` guillemets — **explicitly open to redesign** |
 | Position counter | `.pager`, `.pager-label` | Bottom center, e.g. "3 / 23" |
@@ -103,6 +104,11 @@ against: `#1.1`, `#1.3`, `#1.5`.
   pages; Escape closes the book menu.
 - **Crib alignment**: each English crib line must stay visually bound to the
   Greek line above it — that pairing is the core of the reader.
+- **Hanging indents on verse**: Greek lines, crib lines, and stylized verse all
+  use a hanging indent (`text-indent` negative + matching `padding-left`) so a
+  line too wide for the column runs over indented instead of stranding a single
+  word at the margin. Keep this if you change the measure or type size. Genuine
+  prose (`.prose-para`, `.line-gloss-prose`) deliberately has no hanging indent.
 - `localStorage` keys in use: `homer-theme`, `homer-crib`, `homer-pane`.
 
 ## Verifying
