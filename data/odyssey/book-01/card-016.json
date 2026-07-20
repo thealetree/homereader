@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        305,
+        309
+      ],
+      "text": "For thyself, give heed and have regard to my words.” Then wise Telemachus answered her: “Stranger, in truth thou speakest these things with kindly thought, as a father to his son, and never will I forget them. But come now, tarry, eager though thou art to be gone,"
+    },
+    {
+      "lines": [
+        310,
+        314
+      ],
+      "text": "in order that when thou hast bathed and satisfied thy heart to the full, thou mayest go to thy ship glad in spirit, and bearing a gift costly and very beautiful, which shall be to thee an heirloom from me, even such a gift as dear friends give to friends.” Then the goddess, flashing-eyed Athena, answered him:"
+    },
+    {
+      "lines": [
+        315,
+        319
+      ],
+      "text": "“Stay me now no longer, when I am eager to be gone, and whatsoever gift thy heart bids thee give me, give it when I come back, to bear to my home, choosing a right beautiful one; it shall bring thee its worth in return.” So spoke the goddess, flashing-eyed Athena, and departed,"
+    },
+    {
+      "lines": [
+        320,
+        320
+      ],
+      "text": "flying upward as a bird; and in his heart she put strength and courage, and made him think of his father even more than aforetime. And in his mind he marked her and marvelled, for he deemed that she was a god; and straightway he went among the wooers, a godlike man."
+    }
+  ]
 }

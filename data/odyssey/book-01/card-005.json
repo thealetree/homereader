@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        85,
+        89
+      ],
+      "text": "to the isle Ogygia, that with all speed he may declare to the fair-tressed nymph our fixed resolve, even the return of Odysseus of the steadfast heart, that he may come home. But, as for me, I will go to Ithaca, that I may the more arouse his son, and set courage in his heart"
+    },
+    {
+      "lines": [
+        90,
+        94
+      ],
+      "text": "to call to an assembly the long-haired Achaeans, and speak out his word to all the wooers, who are ever slaying his thronging sheep and his sleek kine of shambling gait. And I will guide him to Sparta and to sandy Pylos, to seek tidings of the return of his dear father, if haply he may hear of it,"
+    },
+    {
+      "lines": [
+        95,
+        99
+      ],
+      "text": "that good report may be his among men.” So she spoke, and bound beneath her feet her beautiful sandals, immortal, golden, which were wont to bear her both over the waters of the sea and over the boundless land swift as the blasts of the wind. And she took her mighty spear, tipped with sharp bronze,"
+    },
+    {
+      "lines": [
+        100,
+        100
+      ],
+      "text": "heavy and huge and strong, wherewith she vanquishes the ranks of men—of warriors, with whom she is wroth, she, the daughter of the mighty sire. Then she went darting down from the heights of Olympus, and took her stand in the land of Ithaca at the outer gate of Odysseus, on the threshold of the court. In her hand she held the spear of bronze,"
+    }
+  ]
 }

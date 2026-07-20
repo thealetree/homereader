@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        25,
+        29
+      ],
+      "text": "there to receive a hecatomb of bulls and rams, and there he was taking his joy, sitting at the feast; but the other gods were gathered together in the halls of Olympian Zeus. Among them the father of gods and men was first to speak, for in his heart he thought of noble Aegisthus,"
+    },
+    {
+      "lines": [
+        30,
+        34
+      ],
+      "text": "whom far-famed Orestes, Agamemnon's son, had slain. Thinking on him he spoke among the immortals, and said: “Look you now, how ready mortals are to blame the gods. It is from us, they say, that evils come, but they even of themselves, through their own blind folly, have sorrows beyond that which is ordained."
+    },
+    {
+      "lines": [
+        35,
+        39
+      ],
+      "text": "Even as now Aegisthus, beyond that which was ordained, took to himself the wedded wife of the son of Atreus, and slew him on his return, though well he knew of sheer destruction, seeing that we spake to him before, sending Hermes, the keen-sighted Argeiphontes, that he should neither slay the man nor woo his wife;"
+    },
+    {
+      "lines": [
+        40,
+        40
+      ],
+      "text": "for from Orestes shall come vengeance for the son of Atreus when once he has come to manhood and longs for his own land. So Hermes spoke, but for all his good intent he prevailed not upon the heart of Aegisthus; and now he has paid the full price of all.” Then the goddess, flashing-eyed Athena, answered him:"
+    }
+  ]
 }

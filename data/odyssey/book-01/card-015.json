@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        285,
+        289
+      ],
+      "text": "and from thence to Sparta to fair-haired Menelaus; for he was the last to reach home of the brazen-coated Achaeans. If so be thou shalt hear that thy father is alive and coming home, then verily, though thou art sore afflicted, thou couldst endure for yet a year. But if thou shalt hear that he is dead and gone,"
+    },
+    {
+      "lines": [
+        290,
+        294
+      ],
+      "text": "then return to thy dear native land and heap up a mound for him, and over it pay funeral rites, full many as is due, and give thy mother to a husband. Then when thou hast done all this and brought it to an end, thereafter take thought in mind and heart"
+    },
+    {
+      "lines": [
+        295,
+        299
+      ],
+      "text": "how thou mayest slay the wooers in thy halls whether by guile or openly; for it beseems thee not to practise childish ways, since thou art no longer of such an age. Or hast thou not heard what fame the goodly Orestes won among all mankind when he slew his father's murderer,"
+    },
+    {
+      "lines": [
+        300,
+        300
+      ],
+      "text": "the guileful Aegisthus, for that he slew his glorious father? Thou too, my friend, for I see that thou art comely and tall, be thou valiant, that many an one of men yet to be born may praise thee. But now I will go down to my swift ship and my comrades, who, methinks, are chafing much at waiting for me."
+    }
+  ]
 }

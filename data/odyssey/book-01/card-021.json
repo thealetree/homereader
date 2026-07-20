@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        405,
+        409
+      ],
+      "text": "But I am fain, good sir, to ask thee of the stranger, whence this man comes. Of what land does he declare himself to be? Where are his kinsmen and his native fields? Does he bring some tidings of thy father's coming, or came he hither in furtherance of some matter of his own?"
+    },
+    {
+      "lines": [
+        410,
+        414
+      ],
+      "text": "How he started up, and was straightway gone! Nor did he wait to be known; and yet he seemed no base man to look upon.” Then wise Telemachus answered him: “Eurymachus, surely my father's home-coming is lost and gone. No longer do I put trust in tidings, whencesoever they may come,"
+    },
+    {
+      "lines": [
+        415,
+        419
+      ],
+      "text": "nor reck I of any prophecy which my mother haply may learn of a seer, when she has called him to the hall. But this stranger is a friend of my father's house from Taphos. He declares that he is Mentes, son of wise Anchialus, and he is lord over the oar-loving Taphians.”"
+    },
+    {
+      "lines": [
+        420,
+        420
+      ],
+      "text": "So spoke Telemachus, but in his heart he knew the immortal goddess. Now the wooers turned to the dance and to gladsome song, and made them merry, and waited till evening should come; and as they made merry dark evening came upon them. Then they went, each man to his house, to take their rest."
+    }
+  ]
 }

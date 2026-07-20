@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        165,
+        169
+      ],
+      "text": "rather than richer in gold and in raiment. But now he has thus perished by an evil doom, nor for us is there any comfort, no, not though any one of men upon the earth should say that he will come; gone is the day of his returning. But come, tell me this, and declare it truly."
+    },
+    {
+      "lines": [
+        170,
+        174
+      ],
+      "text": "Who art thou among men, and from whence? Where is thy city and where thy parents? On what manner of ship didst thou come, and how did sailors bring thee to Ithaca? Who did they declare themselves to be? For nowise, methinks, didst thou come hither on foot. And tell me this also truly, that I may know full well,"
+    },
+    {
+      "lines": [
+        175,
+        179
+      ],
+      "text": "whether this is thy first coming hither, or whether thou art indeed a friend of my father's house. For many were the men who came to our house as strangers, since he, too, had gone to and fro among men.” Then the goddess, flashing-eyed Athena, answered him: “Therefore of a truth will I frankly tell thee all."
+    },
+    {
+      "lines": [
+        180,
+        180
+      ],
+      "text": "I declare that I am Mentes, the son of wise Anchialus, and I am lord over the oar-loving Taphians. And now have I put in here, as thou seest, with ship and crew, while sailing over the wine-dark sea to men of strange speech, on my way to Temese for copper; and I bear with me shining iron."
+    }
+  ]
 }

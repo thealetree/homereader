@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        345,
+        349
+      ],
+      "text": "Then wise Telemachus answered her: “My mother, why dost thou begrudge the good minstrel to give pleasure in whatever way his heart is moved? It is not minstrels that are to blame, but Zeus, I ween, is to blame, who gives to men that live by toil, to each one as he will."
+    },
+    {
+      "lines": [
+        350,
+        354
+      ],
+      "text": "With this man no one can be wroth if he sings of the evil doom of the Danaans; for men praise that song the most which comes the newest to their ears. For thyself, let thy heart and soul endure to listen; for not Odysseus alone lost"
+    },
+    {
+      "lines": [
+        355,
+        359
+      ],
+      "text": "in Troy the day of his return, but many others likewise perished. Nay, go to thy chamber, and busy thyself with thine own tasks, the loom and the distaff, and bid thy handmaids ply their tasks; but speech shall be for men, for all, but most of all for me; since mine is the authority in the house.”"
+    },
+    {
+      "lines": [
+        360,
+        360
+      ],
+      "text": "She then, seized with wonder, went back to her chamber, for she laid to heart the wise saying of her son. Up to her upper chamber she went with her handmaids, and then bewailed Odysseus, her dear husband until flashing-eyed Athena cast sweet sleep upon her eyelids."
+    }
+  ]
 }

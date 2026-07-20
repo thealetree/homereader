@@ -92,11 +92,13 @@ body {
 
 .page-greek .page-body { padding-left: 2.6rem; }
 
+/* Murray 1919 segment, rendered beneath each 5-line group of Greek */
 .line-gloss {
   font-style: italic;
   font-size: 0.85rem;
   color: var(--ink-faint);
-  margin-top: 0.1rem;
+  line-height: 1.45;
+  margin: 0.35rem 0 1.2rem;
 }
 
 /* English page */

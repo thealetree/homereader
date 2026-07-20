@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        65,
+        69
+      ],
+      "text": "How should I, then, forget godlike Odysseus, who is beyond all mortals in wisdom, and beyond all has paid sacrifice to the immortal gods, who hold broad heaven? Nay, it is Poseidon, the earth-enfolder, who is ever filled with stubborn wrath because of the Cyclops, whom Odysseus blinded of his eye—"
+    },
+    {
+      "lines": [
+        70,
+        74
+      ],
+      "text": "even the godlike Polyphemus, whose might is greatest among all the Cyclopes; and the nymph Thoosa bore him, daughter of Phorcys who rules over the unresting sea; for in the hollow caves she lay with Poseidon. From that time forth Poseidon, the earth-shaker,"
+    },
+    {
+      "lines": [
+        75,
+        79
+      ],
+      "text": "does not indeed slay Odysseus, but makes him a wanderer from his native land. But come, let us who are here all take thought of his return, that he may come home; and Poseidon will let go his anger, for he will in no wise be able, against all the immortal gods and in their despite, to contend alone.”"
+    },
+    {
+      "lines": [
+        80,
+        80
+      ],
+      "text": "Then the goddess, flashing-eyed Athena, answered him: “Father of us all, thou son of Cronos, high above all lords, if indeed this is now well pleasing to the blessed gods, that the wise Odysseus should return to his own home, let us send forth Hermes, the messenger, Argeiphontes,"
+    }
+  ]
 }

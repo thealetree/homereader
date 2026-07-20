@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        265,
+        269
+      ],
+      "text": "Would, I say, that in such strength Odysseus might come amongst the wooers; then should they all find swift destruction and bitterness in their wooing. Yet these things verily lie on the knees of the gods, whether he shall return and wreak vengeance in his halls, or whether he shall not; but for thyself, I bid thee take thought"
+    },
+    {
+      "lines": [
+        270,
+        274
+      ],
+      "text": "how thou mayest thrust forth the wooers from the hall. Come now, give ear, and hearken to my words. On the morrow call to an assembly the Achaean lords, and speak out thy word to all, and let the gods be thy witnesses. As for the wooers, bid them scatter, each to his own;"
+    },
+    {
+      "lines": [
+        275,
+        279
+      ],
+      "text": "and for thy mother, if her heart bids her marry, let her go back to the hall of her mighty father, and there they will prepare a wedding feast, and make ready the gifts full many—aye, all that should follow after a well-loved daughter. And to thyself will I give wise counsel, if thou wilt hearken."
+    },
+    {
+      "lines": [
+        280,
+        280
+      ],
+      "text": "Man with twenty rowers the best ship thou hast, and go to seek tidings of thy father, that has long been gone, if haply any mortal may tell thee, or thou mayest hear a voice from Zeus, which oftenest brings tidings to men. First go to Pylos and question goodly Nestor,"
+    }
+  ]
 }

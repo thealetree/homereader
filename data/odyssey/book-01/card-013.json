@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        245,
+        249
+      ],
+      "text": "For all the princes who hold sway over the islands—Dulichium and Same and wooded Zacynthus—and those who lord it over rocky Ithaca, all these woo my mother and lay waste my house. And she neither refuses the hateful marriage,"
+    },
+    {
+      "lines": [
+        250,
+        254
+      ],
+      "text": "nor is she able to make an end; but they with feasting consume my substance: ere long they will bring me, too, to ruin.” Then, stirred to anger, Pallas Athena spoke to him:“Out on it! Thou hast of a truth sore need of Odysseus that is gone, that he might put forth his hands upon the shameless wooers."
+    },
+    {
+      "lines": [
+        255,
+        259
+      ],
+      "text": "Would that he might come now and take his stand at the outer gate of the house, with helmet and shield and two spears, such a man as he was when I first saw him in our house drinking and making merry, on his way back from Ephyre, from the house of Ilus, son of Mermerus."
+    },
+    {
+      "lines": [
+        260,
+        260
+      ],
+      "text": "For thither, too, went Odysseus in his swift ship in search of a deadly drug, that he might have wherewith to smear his bronze-tipped arrows; yet Ilus gave it not to him, for he stood in awe of the gods that are forever; but my father gave it, for he held him strangely dear."
+    }
+  ]
 }

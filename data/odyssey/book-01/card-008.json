@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        145,
+        149
+      ],
+      "text": "sat them down in rows on chairs and high seats. Heralds poured water over their hands, and maid-servants heaped by them bread in baskets, and youths filled the bowls brim full of drink; and they put forth their hands to the good cheer lying ready before them."
+    },
+    {
+      "lines": [
+        150,
+        154
+      ],
+      "text": "Now after the wooers had put from them the desire of food and drink, their hearts turned to other things, to song and to dance; for these things are the crown of a feast. And a herald put the beautiful lyre in the hands of Phemius, who sang perforce among the wooers;"
+    },
+    {
+      "lines": [
+        155,
+        159
+      ],
+      "text": "and he struck the chords in prelude to his sweet lay. But Telemachus spoke to flashing-eyed Athena, holding his head close, that the others might not hear: “Dear stranger, wilt thou be wroth with me for the word that I shall say? These men care for things like these, the lyre and song,"
+    },
+    {
+      "lines": [
+        160,
+        160
+      ],
+      "text": "full easily, seeing that without atonement they devour the livelihood of another, of a man whose white bones, it may be, rot in the rain as they lie upon the mainland, or the wave rolls them in the sea. Were they to see him returned to Ithaca, they would all pray to be swifter of foot,"
+    }
+  ]
 }

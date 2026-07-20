@@ -79,7 +79,14 @@
 
   function renderGreek(card) {
     el.greekBody.innerHTML = "";
-    var t = card.translations;
+
+    /* Murray's 1919 prose aligns to the Greek in 5-line segments; render
+       each segment in italics beneath the last Greek line it covers. */
+    var murrayByEndLine = {};
+    (card.murray || []).forEach(function (seg) {
+      murrayByEndLine[seg.lines[1]] = seg.text;
+    });
+
     card.lines.forEach(function (line, i) {
       var div = document.createElement("div");
       div.className = "line";
@@ -96,12 +103,14 @@
       greek.textContent = line.greek;
       div.appendChild(greek);
 
-      var gloss = document.createElement("div");
-      gloss.className = "line-gloss";
-      gloss.textContent = (t && t.interlinear && t.interlinear[i]) || " ";
-      div.appendChild(gloss);
-
       el.greekBody.appendChild(div);
+
+      if (murrayByEndLine[line.n]) {
+        var gloss = document.createElement("div");
+        gloss.className = "line-gloss";
+        gloss.textContent = murrayByEndLine[line.n];
+        el.greekBody.appendChild(gloss);
+      }
     });
   }
 

@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        185,
+        189
+      ],
+      "text": "My ship lies yonder beside the fields away from the city, in the harbor of Rheithron, under woody Neion. Friends of one another do we declare ourselves to be, even as our fathers were, friends from of old. Nay, if thou wilt, go and ask the old warrior Laertes, who, they say,"
+    },
+    {
+      "lines": [
+        190,
+        194
+      ],
+      "text": "comes no more to the city, but afar in the fields suffers woes attended by an aged woman as his handmaid, who sets before him food and drink, after weariness has laid hold of his limbs, as he creeps along the slope of his vineyard plot. And now am I come, for of a truth men said that he,"
+    },
+    {
+      "lines": [
+        195,
+        199
+      ],
+      "text": "thy father, was among his people; but lo, the gods are thwarting him of his return. For not yet has goodly Odysseus perished on the earth, but still, I ween, he lives and is held back on the broad sea in a sea-girt isle, and cruel men keep him, a savage folk, that constrain him, haply sore against his will."
+    },
+    {
+      "lines": [
+        200,
+        200
+      ],
+      "text": "Nay, I will now prophesy to thee, as the immortals put it in my heart, and as I think it shall be brought to pass, though I am in no wise a soothsayer, nor one versed in the signs of birds. Not much longer shall he be absent from his dear native land, no, not though bonds of iron hold him."
+    }
+  ]
 }

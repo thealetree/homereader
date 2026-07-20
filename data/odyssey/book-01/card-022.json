@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        425,
+        429
+      ],
+      "text": "But Telemachus, where his chamber was built in the beautiful court, high, in a place of wide outlook, thither went to his bed, pondering many things in mind; and with him, bearing blazing torches, went true-hearted Eurycleia, daughter of Ops, son of Peisenor."
+    },
+    {
+      "lines": [
+        430,
+        434
+      ],
+      "text": "Her long ago Laertes had bought with his wealth, when she was in her first youth, and gave for her the price of twenty oxen; and he honored her even as he honored his faithful wife in his halls, but he never lay with her in love, for he shunned the wrath of his wife. She it was who bore for Telemachus the blazing torches;"
+    },
+    {
+      "lines": [
+        435,
+        439
+      ],
+      "text": "for she of all the handmaids loved him most, and had nursed him when he was a child. He opened the doors of the well-built chamber, sat down on the bed, and took off his soft tunic and laid it in the wise old woman's hands. And she folded and smoothed the tunic"
+    },
+    {
+      "lines": [
+        440,
+        440
+      ],
+      "text": "and hung it on a peg beside the corded bedstead, and then went forth from the chamber, drawing the door to by its silver handle, and driving the bolt home with the thong. So there, the night through, wrapped in a fleece of wool, he pondered in his mind upon the journey which Athena had shewn him."
+    }
+  ]
 }

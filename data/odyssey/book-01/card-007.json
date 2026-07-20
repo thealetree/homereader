@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        125,
+        129
+      ],
+      "text": "So saying, he led the way, and Pallas Athena followed. And when they were within the lofty house, he bore the spear and set it against a tall pillar in a polished spear-rack, where were set many spears besides, even those of Odysseus of the steadfast heart."
+    },
+    {
+      "lines": [
+        130,
+        134
+      ],
+      "text": "Athena herself he led and seated on a chair, spreading a linen cloth beneath—a beautiful chair, richly-wrought, and below was a footstool for the feet. Beside it he placed for himself an inlaid seat, apart from the others, the wooers, lest the stranger, vexed by their din, should loathe the meal, seeing that he was in the company of overweening men;"
+    },
+    {
+      "lines": [
+        135,
+        139
+      ],
+      "text": "and also that he might ask him about his father that was gone. Then a handmaid brought water for the hands in a fair pitcher of gold, and poured it over a silver basin for them to wash, and beside them drew up a polished table. And the grave housewife brought and set before them bread,"
+    },
+    {
+      "lines": [
+        140,
+        140
+      ],
+      "text": "and therewith dainties in abundance, giving freely of her store. And a carver lifted up and placed before them platters of all manner of meats, and set by them golden goblets, while a herald ever walked to and fro pouring them wine. Then in came the proud wooers, and thereafter"
+    }
+  ]
 }

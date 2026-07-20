@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        45,
+        49
+      ],
+      "text": "“Father of us all, thou son of Cronos, high above all lords, aye, verily that man lies low in a destruction that is his due; so, too, may any other also be destroyed who does such deeds. But my heart is torn for wise Odysseus, hapless man, who far from his friends has long been suffering woes"
+    },
+    {
+      "lines": [
+        50,
+        54
+      ],
+      "text": "in a sea-girt isle, where is the navel of the sea. 'Tis a wooded isle, and therein dwells a goddess, daughter of Atlas of baneful mind, who knows the depths of every sea, and himself holds the tall pillars which keep earth and heaven apart."
+    },
+    {
+      "lines": [
+        55,
+        59
+      ],
+      "text": "His daughter it is that keeps back that wretched, sorrowing man; and ever with soft and wheedling words she beguiles him that he may forget Ithaca. But Odysseus, in his longing to see were it but the smoke leaping up from his own land, yearns to die. Yet thy"
+    },
+    {
+      "lines": [
+        60,
+        60
+      ],
+      "text": "heart doth not regard it, Olympian. Did not Odysseus beside the ships of the Argives offer thee sacrifice without stint in the broad land of Troy? Wherefore then didst thou conceive such wrath against him, O Zeus?” Then Zeus, the cloud-gatherer, answered her and said: “My child, what a word has escaped the barrier of thy teeth?"
+    }
+  ]
 }

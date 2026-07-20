@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        225,
+        229
+      ],
+      "text": "What feast, what throng is this? What need hast thou of it? Is it a drinking bout, or a wedding feast? For this plainly is no meal to which each brings his portion, with such outrage and overweening do they seem to me to be feasting in thy halls. Angered would a man be at seeing all these shameful acts, any man of sense who should come among them.”"
+    },
+    {
+      "lines": [
+        230,
+        234
+      ],
+      "text": "Then wise Telemachus answered her: “Stranger, since indeed thou dost ask and question me of this, our house once bade fair to be rich and honorable, so long as that man was still among his people. But now the gods have willed otherwise in their evil devising,"
+    },
+    {
+      "lines": [
+        235,
+        239
+      ],
+      "text": "seeing that they have caused him to pass from sight as they have no other man. For I should not so grieve for his death, if he had been slain among his comrades in the land of the Trojans, or had died in the arms of his friends, when he had wound up the skein of war. Then would the whole host of the Achaeans have made him a tomb,"
+    },
+    {
+      "lines": [
+        240,
+        240
+      ],
+      "text": "and for his son, too, he would have won great glory in days to come. But as it is, the spirits of the storm have swept him away and left no tidings: he is gone out of sight, out of hearing, and for me he has left anguish and weeping; nor do I in any wise mourn and wail for him alone, seeing that the gods have brought upon me other sore troubles."
+    }
+  ]
 }

@@ -13,10 +13,14 @@ Shakespearean, Modernist, Lucretian, Storybook).
 - **Greek text**: Homer's Odyssey from the [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
   (A. T. Murray's 1919 edition, public domain), parsed from TEI XML into
   20-line "cards" of JSON.
-- **Translations**: generated once, offline, by `pipeline/generate_translations.py`
-  using the Anthropic API (Claude Opus 4.8), then committed as static JSON.
-  The deployed site is pure static HTML/CSS/JS — no backend, no API key, no
-  build step.
+- **Murray 1919**: A. T. Murray's public-domain Loeb translation, parsed from
+  the same Perseus edition, appears in italics beneath each 5-line group of
+  Greek on the left page.
+- **AI translations**: authored offline with Claude (working interactively in
+  Claude Code; `pipeline/generate_translations.py` also exists as an optional
+  API batch path) and committed as static JSON. Each card records the model
+  that produced it. The deployed site is pure static HTML/CSS/JS — no backend,
+  no API key, no build step.
 - **Reader state** (book, card, slider position, flavor) lives in the URL
   hash (`#1.3.free.storybook`), so any position is shareable.
 
@@ -36,22 +40,18 @@ npx serve -l 8090 .        # from repo root
 # open http://localhost:8090/site/
 ```
 
-## Generating translations
-
-Requires Python 3 and an Anthropic API key. Cached cards are never
-regenerated, so re-running is safe and cheap.
+## Adding text
 
 ```bash
 cd pipeline
-python3 -m venv .venv && .venv/bin/pip install anthropic
-export ANTHROPIC_API_KEY=sk-ant-...
-.venv/bin/python parse_tei.py --fetch --book 1      # parse Greek into cards
-.venv/bin/python generate_translations.py --book 1  # generate all modes
+python3 parse_tei.py --fetch --book 1   # parse Greek into 20-line cards
+python3 parse_murray.py --book 1        # merge Murray's 1919 translation
 ```
 
-To add another book later: `parse_tei.py --book N` then
-`generate_translations.py --book N`. The schema already accommodates the
-Iliad and per-word alignment (v2) without breaking changes.
+AI translations are then authored per card (interactively with Claude, or via
+the optional `generate_translations.py` batch script, which needs an API
+key). The card schema already accommodates the Iliad and per-word alignment
+(v2) without breaking changes.
 
 ## Deployment
 

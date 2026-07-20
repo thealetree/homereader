@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        325,
+        329
+      ],
+      "text": "For them the famous minstrel was singing, and they sat in silence listening; and he sang of the return of the Achaeans—the woeful return from Troy which Pallas Athena laid upon them. And from her upper chamber the daughter of Icarius, wise Penelope, heard his wondrous song,"
+    },
+    {
+      "lines": [
+        330,
+        334
+      ],
+      "text": "and she went down the high stairway from her chamber, not alone, for two handmaids attended her. Now when the fair lady had come to the wooers, she stood by the door-post of the well-built hall, holding before her face her shining veil;"
+    },
+    {
+      "lines": [
+        335,
+        339
+      ],
+      "text": "and a faithful handmaid stood on either side of her. Then she burst into tears, and spoke to the divine minstrel: “Phemius, many other things thou knowest to charm mortals, deeds of men and gods which minstrels make famous. Sing them one of these, as thou sittest here,"
+    },
+    {
+      "lines": [
+        340,
+        340
+      ],
+      "text": "and let them drink their wine in silence. But cease from this woeful song which ever harrows the heart in my breast, for upon me above all women has come a sorrow not to be forgotten. So dear a head do I ever remember with longing, even my husband, whose fame is wide through Hellas and mid-Argos.”"
+    }
+  ]
 }

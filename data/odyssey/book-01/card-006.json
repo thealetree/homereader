@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        105,
+        109
+      ],
+      "text": "and she was in the likeness of a stranger, Mentes, the leader of the Taphians. There she found the proud wooers. They were taking their pleasure at draughts in front of the doors, sitting on the hides of oxen which they themselves had slain; and of the heralds and busy squires,"
+    },
+    {
+      "lines": [
+        110,
+        114
+      ],
+      "text": "some were mixing wine and water for them in bowls, others again were washing the tables with porous sponges and setting them forth, while still others were portioning out meats in abundance. Her the godlike Telemachus was far the first to see, for he was sitting among the wooers, sad at heart,"
+    },
+    {
+      "lines": [
+        115,
+        119
+      ],
+      "text": "seeing in thought his noble father, should he perchance come from somewhere and make a scattering of the wooers in the palace, and himself win honor and rule over his own house. As he thought of these things, sitting among the wooers, he beheld Athena, and he went straight to the outer door; for in his heart he counted it shame"
+    },
+    {
+      "lines": [
+        120,
+        120
+      ],
+      "text": "that a stranger should stand long at the gates. So, drawing near, he clasped her right hand, and took from her the spear of bronze; and he spoke, and addressed her with winged words: “Hail, stranger; in our house thou shalt find entertainment and then, when thou hast tasted food, thou shalt tell of what thou hast need.”"
+    }
+  ]
 }

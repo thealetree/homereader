@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        365,
+        369
+      ],
+      "text": "But the wooers broke into uproar throughout the shadowy halls, and all prayed, each that he might lie by her side. And among them wise Telemachus was the first to speak: “Wooers of my mother, overweening in your insolence, for the present let us make merry with feasting,"
+    },
+    {
+      "lines": [
+        370,
+        374
+      ],
+      "text": "but let there be no brawling; for this is a goodly thing, to listen to a minstrel such as this man is, like to the gods in voice. But in the morning let us go to the assembly and take our seats, one and all, that I may declare my word to you outright that you depart from these halls. Prepare you other feasts,"
+    },
+    {
+      "lines": [
+        375,
+        379
+      ],
+      "text": "eating your own substance and changing from house to house. But if this seems in your eyes to be a better and more profitable thing, that one man's livelihood should be ruined without atonement, waste ye it. But I will call upon the gods that are forever, if haply Zeus may grant that deeds of requital may be wrought."
+    },
+    {
+      "lines": [
+        380,
+        380
+      ],
+      "text": "Without atonement, then, should ye perish within my halls.” So he spoke, and they all bit their lips and marvelled at Telemachus, for that he spoke boldly. Then Antinous, son of Eupeithes, answered him:“Telemachus, verily the gods themselves are teaching thee"
+    }
+  ]
 }

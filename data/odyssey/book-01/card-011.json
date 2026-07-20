@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        205,
+        209
+      ],
+      "text": "He will contrive a way to return, for he is a man of many devices. But come, tell me this and declare it truly, whether indeed, tall as thou art, thou art the son of Odysseus himself. Wondrously like his are thy head and beautiful eyes; for full often did we consort with one another"
+    },
+    {
+      "lines": [
+        210,
+        214
+      ],
+      "text": "before he embarked for the land of Troy, whither others, too, the bravest of the Argives, went in their hollow ships. But since that day neither have I seen Odysseus, nor he me.” Then wise Telemachus answered her: “Therefore of a truth, stranger, will I frankly tell thee all."
+    },
+    {
+      "lines": [
+        215,
+        219
+      ],
+      "text": "My mother says that I am his child; but I know not, for never yet did any man of himself know his own parentage. Ah, would that I had been the son of some blest man, whom old age overtook among his own possessions. But now of him who was the most ill-fated of mortal men"
+    },
+    {
+      "lines": [
+        220,
+        220
+      ],
+      "text": "they say that I am sprung, since thou askest me of this.” Then the goddess, flashing-eyed Athena, answered him: “Surely, then, no nameless lineage have the gods appointed for thee in time to come, seeing that Penelope bore thee such as thou art. But come, tell me this and declare it truly."
+    }
+  ]
 }

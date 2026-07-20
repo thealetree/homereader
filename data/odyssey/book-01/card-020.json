@@ -88,5 +88,35 @@
   "translations": null,
   "meta": {
     "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
-  }
+  },
+  "murray": [
+    {
+      "lines": [
+        385,
+        389
+      ],
+      "text": "to be a man of vaunting tongue, and to speak with boldness. May the son of Cronos never make thee king in sea-girt Ithaca, which thing is by birth thy heritage.” Then wise Telemachus answered him: “Antinous, wilt thou be wroth with me for the word that I shall say?"
+    },
+    {
+      "lines": [
+        390,
+        394
+      ],
+      "text": "Even this should I be glad to accept from the hand of Zeus. Thinkest thou indeed that this is the worst fate among men? Nay, it is no bad thing to be a king. Straightway one's house grows rich and oneself is held in greater honor. However, there are other kings of the Achaeans"
+    },
+    {
+      "lines": [
+        395,
+        399
+      ],
+      "text": "full many in seagirt Ithaca, both young and old. One of these haply may have this place, since goodly Odysseus is dead. But I will be lord of our own house and of the slaves that goodly Odysseus won for me.” Then Eurymachus, son of Polybus, answered him:"
+    },
+    {
+      "lines": [
+        400,
+        400
+      ],
+      "text": "“Telemachus, this matter verily lies on the knees of the gods, who of the Achaeans shall be king in sea-girt Ithaca; but as for thy possessions, thou mayest keep them thyself, and be lord in thine own house. Never may that man come who by violence and against thy will shall wrest thy possessions from thee, while men yet live in Ithaca."
+    }
+  ]
 }
