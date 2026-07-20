@@ -85,9 +85,60 @@
       "greek": "πασσάλῳ ἀγκρεμάσασα παρὰ τρητοῖσι λέχεσσι"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "and-they to dance and to-lovely song",
+      "having-turned, took-delight, and-waited for-evening to-come.",
+      "and-to-them, delighting-themselves, black evening came;",
+      "then indeed, to-lie-down, they-went, to-his-house each.",
+      "and-Telemachus, where for-him a-chamber of-the-beautiful court,",
+      "lofty, had-been-built, in a-far-seen place,",
+      "there he-went to-bed, many-things in his-mind pondering.",
+      "and-with-him blazing torches bore, kindly-minded",
+      "Eurycleia, of-Ops daughter, son-of-Peisenor,",
+      "whom once Laertes bought with-his-possessions,",
+      "in-first-youth still being; and-twenty-oxen'-worth he-gave,",
+      "and-equally her with-his-true wife he-honoured in-the-halls,",
+      "but-in-bed never he-lay-with-her, and-the-anger he-avoided of-his-wife;",
+      "she for-him blazing torches bore, and him most-of-all",
+      "of-the-slave-women she-loved, and reared-him, little being.",
+      "and-she-opened the-doors of-the-chamber, strongly built,",
+      "and-he-sat on the-bed, and-off he-took his-soft tunic,",
+      "and-it into the-old-woman's, shrewd-minded, hands he-put.",
+      "and-she, having-folded and having-smoothed the-tunic,",
+      "on-a-peg having-hung-it beside the-corded bed,"
+    ],
+    "literal": [
+      "Then they turned to the dance and to lovely song",
+      "and took their delight, and waited for evening to come;",
+      "and as they delighted, black evening came upon them.",
+      "Then they went, each to his own house, to lie down.",
+      "But Telemachus, where his chamber had been built,",
+      "lofty, in the beautiful court, in a place of wide outlook,",
+      "there he went to his bed, pondering many things in his mind.",
+      "And with him, bearing blazing torches, went kindly-minded",
+      "Eurycleia, daughter of Ops, son of Peisenor,",
+      "whom Laertes had once bought with his own possessions,",
+      "when she was still in her first youth, and gave twenty oxen for her;",
+      "and he honoured her in the halls equally with his true wife,",
+      "but never lay with her, and avoided his wife's anger.",
+      "She bore the blazing torches for him, and loved him most",
+      "of all the slave-women, and had reared him when he was little.",
+      "She opened the doors of the strongly built chamber,",
+      "and he sat on the bed and took off his soft tunic,",
+      "and put it into the hands of the shrewd old woman.",
+      "And she folded and smoothed the tunic,",
+      "and hung it on a peg beside the corded bed,"
+    ],
+    "elizabethan": "Then to the dance they turned, and lovely song,\nand made them merry, waiting for the dusk;\nand while they took their pleasure, evening came,\nblack evening; and they went then, every man\nunto his house, to lay him down and sleep.\nTelemachus, where in the beautiful court\nhis chamber had been builded, high, and set\nin a wide-looking place, went there to bed,\nand turned much over in his mind. With him\nwent kindly-hearted Eurycleia, bearing\nthe blazing torches, Ops' daughter she,\nthe son of Peisenor; whom long ago\nLaertes bought out of his own possessions,\nwhen she was in her earliest youth, and gave\nthe worth of twenty oxen; and he held her\nin honour in the halls as his true wife,\nbut never lay with her, and shunned the wrath\nof his own lady. She it was that bore\nthe torches for him, and of all the women\nloved him the best, and nursed him when a child.\nShe opened then the strong-built chamber doors;\nhe sat upon the bed and drew away\nhis soft tunic, and laid it in her hands,\nthe shrewd old woman's; and she folded it\nand smoothed it, hung it on a peg beside\nthe corded bedstead.",
+    "modernist": "Then they turned to dancing and to the songs they liked, and enjoyed themselves, and waited for the evening. While they were enjoying themselves the black evening came. Then they went home, each man to his own house, to lie down.\n\nTelemachus went to bed in his own room. It was built high in the beautiful court, in a place you could see a long way from. He lay there and turned a great many things over in his mind.\n\nEurycleia went with him carrying the burning torches. She was the daughter of Ops, the son of Peisenor. Laertes bought her a long time ago with his own money, when she was very young. He paid twenty oxen for her. He gave her the same honor in the house as his own wife, but he never slept with her. He kept clear of his wife's anger.\n\nShe carried the torches for him. She loved him more than any of the other women did, and she had brought him up when he was small.\n\nShe opened the doors of the strong room. He sat down on the bed and pulled off his soft tunic and put it in the old woman's hands. She was shrewd. She folded the tunic and smoothed it out and hung it on a peg by the corded bed.",
+    "storybook": "Then they all turned to dancing and lovely singing, and enjoyed themselves, and waited for the evening to come. And while they were enjoying themselves, the black evening did come. So off they went, each man to his own house, to lie down and sleep.\n\nTelemachus went to his own bedroom, which was built up high in the beautiful courtyard, in a spot where you could see for miles. He lay down there with a great many things turning over in his mind.\n\nKind old Eurycleia went with him, carrying the blazing torches. She was the daughter of Ops, the son of Peisenor. Long ago, Laertes had bought her with his own money when she was still very young, and paid twenty oxen for her, and he always treated her as respectfully as his own wife, though he never took her to his bed, because he did not want to make his wife angry.\n\nShe was the one who carried the torches for Telemachus, and she loved him best of all the servants in the house, for she had looked after him when he was a tiny boy.\n\nShe opened the doors of the sturdy room, and he sat down on the bed and pulled off his soft tunic and put it into the clever old woman's hands. She folded it up and smoothed it flat, and hung it on a peg beside the corded bed."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T22:03:09+00:00"
   },
   "murray": [
     {

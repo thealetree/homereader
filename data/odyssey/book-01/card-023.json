@@ -21,9 +21,28 @@
       "greek": "βούλευε φρεσὶν ᾗσιν ὁδὸν τὴν πέφραδʼ Ἀθήνη."
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "she-went then to-go from the-chamber, and-the-door she-pulled-to by-the-handle,",
+      "the-silver one, and-over-it the-bolt she-drew-tight with-the-thong.",
+      "there he, all-night-long, wrapped in a-fleece of-wool,",
+      "pondered in his-mind the-journey which had-shown Athena."
+    ],
+    "literal": [
+      "Then she went out from the chamber, and pulled the door to by the handle,",
+      "the silver handle, and drew the bolt home with the thong.",
+      "There, all night long, wrapped in a fleece of wool,",
+      "he pondered in his mind the journey that Athena had shown him."
+    ],
+    "elizabethan": "Then out she went, and drew the door to close\nby its silver handle, and she shot the bolt\nhome with the leathern thong. And there all night,\nwrapped in a fleece of wool, he lay and turned\nwithin his mind the journey that Athena\nhad shown to him.",
+    "modernist": "Then she went out of the room. She pulled the door shut by its silver handle and drew the bolt home with the strap.\n\nHe lay there all night, wrapped in a fleece of wool, thinking about the journey Athena had shown him.",
+    "storybook": "Then out she went, and pulled the door shut behind her by its silver handle, and slid the bolt across with the leather strap.\n\nAnd there he lay, all night long, wrapped up warm in a woolly fleece, thinking and thinking about the journey that Athena had shown him."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T22:03:09+00:00"
   },
   "murray": []
 }

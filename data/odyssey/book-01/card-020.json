@@ -85,9 +85,60 @@
       "greek": "Τηλέμαχʼ, ἦ τοι ταῦτα θεῶν ἐν γούνασι κεῖται,"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "so he-spoke; and-they all, with-teeth in their-lips fastening,",
+      "at-Telemachus marvelled, that boldly he-spoke.",
+      "and-him in-turn Antinous addressed, of-Eupeithes son:",
+      "'Telemachus, surely indeed you the-gods themselves are-teaching",
+      "a-lofty-speaker to-be, and boldly to-speak.",
+      "may-not you in sea-encircled Ithaca king the-son-of-Cronos",
+      "make, which for-you by-birth from-your-father is.'",
+      "and-him in-turn Telemachus, prudent, answering addressed:",
+      "'Antinous, will-you indeed be-angry-at-me for-what I-shall-say?",
+      "even this I-would-wish, Zeus at-least granting, to-win.",
+      "do-you-say this worst among men to-have-been-made?",
+      "for-not at-all an-evil-thing is-it to-be-king; and-quickly his house",
+      "wealthy becomes, and more-honoured he-himself.",
+      "but truly indeed kings of-the-Achaeans there-are also others,",
+      "many, in sea-encircled Ithaca, young and old,",
+      "of-whom let-someone this hold, since died goodly Odysseus.",
+      "but I of-our-house lord shall-be, of-ours,",
+      "and of-the-slaves, whom for-me won goodly Odysseus.'",
+      "and-him in-turn Eurymachus, of-Polybus son, answering addressed:",
+      "'Telemachus, truly indeed these-things on-the-gods' knees lie,"
+    ],
+    "literal": [
+      "So he spoke; and they all bit their lips,",
+      "and marvelled at Telemachus, that he spoke so boldly.",
+      "Then Antinous, son of Eupeithes, answered him:",
+      "'Telemachus, surely the gods themselves are teaching you",
+      "to be a lofty speaker and to speak boldly.",
+      "May the son of Cronos never make you king",
+      "in sea-encircled Ithaca, though it is yours by birth.'",
+      "Then prudent Telemachus answered him:",
+      "'Antinous, will you be angry with me for what I shall say?",
+      "I would gladly take even this, if Zeus should grant it.",
+      "Do you say that this is the worst thing that befalls men?",
+      "It is no evil thing to be king; quickly his house",
+      "grows wealthy, and he himself is more honoured.",
+      "But truly there are other kings of the Achaeans also,",
+      "many, in sea-encircled Ithaca, both young and old;",
+      "let one of them hold this, since goodly Odysseus is dead.",
+      "But I will be lord of our own house,",
+      "and of the slaves that goodly Odysseus won for me.'",
+      "Then Eurymachus, son of Polybus, answered him:",
+      "'Telemachus, truly these things lie upon the knees of the gods,"
+    ],
+    "elizabethan": "So spoke he; and they every one of them\nbit hard upon their lips, and marvelled at him,\nthat Telemachus should speak so bold.\nThen Antinous, Eupeithes' son, replied:\n\"Telemachus, the gods themselves must teach thee\nto talk so high and answer with such nerve.\nNow never may the son of Cronos make thee\nking in sea-encircled Ithaca,\nalthough by birth the thing is thine to hold.\"\nThen prudent Telemachus made answer:\n\"Antinous, wilt thou be angry at my word?\nI'd take even that, if Zeus should hand it me.\nSay'st thou it is the worst of fates for men?\nIt is no evil thing to be a king.\nHis house grows rich apace, and he himself\nis held in higher honour. But indeed\nthere are Achaean kings enough besides\nin sea-encircled Ithaca, both young\nand old; let one of them possess the thing,\nnow goodly Odysseus is dead. But I\nwill be the master of our own house here,\nand of the slaves he won for me, that man.\"\nThen answered him Eurymachus, the son\nof Polybus: \"Telemachus, these things\nlie surely on the knees of the gods.\"",
+    "modernist": "That is what he said. They all bit their lips. It surprised them that Telemachus talked that way.\n\nThen Antinous, the son of Eupeithes, answered him.\n\n\"Telemachus. The gods themselves must be teaching you. To talk big. To speak up like that. I hope the son of Cronos never makes you king in sea-encircled Ithaca, even if it is yours by birth.\"\n\nThen Telemachus answered him. He had sense.\n\n\"Antinous. Will you be angry if I say something? I would take it, if Zeus handed it to me. Do you think that is the worst thing that can happen to a man? It is not a bad thing to be king. The house gets rich fast and the man himself is thought more of.\n\nBut there are other Achaean kings in sea-encircled Ithaca. Plenty of them, young and old. Let one of them have it, now that goodly Odysseus is dead. I will be master of our own house, and of the slaves he took for me.\"\n\nThen Eurymachus, the son of Polybus, answered him.\n\n\"Telemachus. These things lie on the knees of the gods.\"",
+    "storybook": "That was what he said, and every one of them bit his lip in surprise, for they had never heard Telemachus speak so boldly before.\n\nThen Antinous, the son of Eupeithes, answered him.\n\n\"Telemachus! The gods themselves must be teaching you to make grand speeches and to answer people back. Well, I hope the son of Cronos never makes you king in sea-encircled Ithaca, even though it is yours by right of birth.\"\n\nThen sensible young Telemachus answered him.\n\n\"Antinous, will you be cross with me if I say something? I would take the crown gladly, if Zeus handed it to me! Do you really think that is the worst thing that can happen to a person? It is no bad thing to be a king. His house grows rich very quickly, and everyone thinks more of him.\n\nBut there are plenty of other Achaean kings in sea-encircled Ithaca, young ones and old ones. Let one of them have it, now that my father is dead. I shall be master of my own house, and of the servants my father won for me.\"\n\nThen Eurymachus, the son of Polybus, answered him.\n\n\"Telemachus, these things lie upon the knees of the gods.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T22:03:09+00:00"
   },
   "murray": [
     {
