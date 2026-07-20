@@ -38,7 +38,10 @@
     bookSelect: document.getElementById("book-select"),
     bookCurrent: document.getElementById("book-current"),
     bookMenu: document.getElementById("book-menu"),
-    bookCount: document.getElementById("book-count"),
+    pageSelect: document.getElementById("page-select"),
+    pageCurrent: document.getElementById("page-current"),
+    pageMenu: document.getElementById("page-menu"),
+    pageTotal: document.getElementById("page-total"),
     edgePrev: document.getElementById("edge-prev"),
     edgeNext: document.getElementById("edge-next"),
     pagerLabel: document.getElementById("pager-label"),
@@ -241,7 +244,9 @@
 
   function renderChrome() {
     el.bookCurrent.textContent = "Book " + (ROMAN[state.book - 1] || state.book);
-    el.bookCount.textContent = ", Page " + state.card + "/" + cardCount(state.book);
+    if (el.pageMenu.dataset.book !== String(state.book)) buildPageMenu();
+    el.pageCurrent.textContent = state.card;
+    el.pageTotal.textContent = "/" + cardCount(state.book);
     el.pagerLabel.textContent = state.card + " / " + cardCount(state.book);
     el.edgePrev.disabled = state.card <= 1;
     el.edgeNext.disabled = state.card >= cardCount(state.book);
@@ -288,6 +293,47 @@
     el.bookCurrent.setAttribute("aria-expanded", "false");
   }
 
+  /* ---------- Page selector ---------- */
+  /* Rebuilt whenever the book changes, since each book has its own card count. */
+
+  function buildPageMenu() {
+    el.pageMenu.innerHTML = "";
+    var total = cardCount(state.book);
+    for (var i = 1; i <= total; i++) {
+      (function (n) {
+        var li = document.createElement("li");
+        li.className = "page-option";
+        li.setAttribute("role", "option");
+        li.dataset.page = n;
+        li.textContent = n;
+        li.addEventListener("click", function () {
+          state.card = n;
+          closePageMenu();
+          render();
+        });
+        el.pageMenu.appendChild(li);
+      })(i);
+    }
+    el.pageMenu.dataset.book = state.book;
+  }
+
+  function openPageMenu() {
+    var active = null;
+    Array.prototype.forEach.call(el.pageMenu.children, function (li) {
+      var on = Number(li.dataset.page) === state.card;
+      li.classList.toggle("active", on);
+      if (on) active = li;
+    });
+    el.pageMenu.hidden = false;
+    el.pageCurrent.setAttribute("aria-expanded", "true");
+    if (active) active.scrollIntoView({ block: "nearest" });
+  }
+
+  function closePageMenu() {
+    el.pageMenu.hidden = true;
+    el.pageCurrent.setAttribute("aria-expanded", "false");
+  }
+
   function render() {
     writeHash();
     renderControls();
@@ -317,16 +363,23 @@
   document.addEventListener("keydown", function (e) {
     if (e.key === "ArrowLeft") goto(-1);
     if (e.key === "ArrowRight") goto(1);
-    if (e.key === "Escape") closeBookMenu();
+    if (e.key === "Escape") { closeBookMenu(); closePageMenu(); }
   });
 
-  /* Book menu open/close */
+  /* Book and page menus: opening one closes the other */
   el.bookCurrent.addEventListener("click", function (e) {
     e.stopPropagation();
+    closePageMenu();
     if (el.bookMenu.hidden) openBookMenu(); else closeBookMenu();
+  });
+  el.pageCurrent.addEventListener("click", function (e) {
+    e.stopPropagation();
+    closeBookMenu();
+    if (el.pageMenu.hidden) openPageMenu(); else closePageMenu();
   });
   document.addEventListener("click", function (e) {
     if (!el.bookSelect.contains(e.target)) closeBookMenu();
+    if (!el.pageSelect.contains(e.target)) closePageMenu();
   });
 
   /* Swipe navigation (touch) */

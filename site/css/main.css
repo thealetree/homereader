@@ -64,15 +64,18 @@ body {
   text-transform: uppercase;
 }
 
-/* Book selector — the italic subtitle is a click-to-open menu, styled to look
-   like plain text until touched (no native <select> chrome). */
-.book-select {
+/* Book and page selectors — the italic subtitle reads as plain text until
+   touched; both parts open the same kind of menu (no native <select> chrome). */
+.book-select,
+.page-select {
   position: relative;
   display: inline-block;
-  margin-top: 0.4rem;
 }
 
-.book-current {
+.book-select { margin-top: 0.4rem; }
+
+.book-current,
+.page-current {
   font-family: var(--english-font);
   font-style: italic;
   font-size: 1rem;
@@ -85,9 +88,12 @@ body {
 }
 
 .book-current:hover,
-.book-current[aria-expanded="true"] { color: var(--ink); }
+.book-current[aria-expanded="true"],
+.page-current:hover,
+.page-current[aria-expanded="true"] { color: var(--ink); }
 
-.book-menu {
+.book-menu,
+.page-menu {
   position: absolute;
   top: 100%;
   left: 50%;
@@ -105,9 +111,17 @@ body {
   text-align: left;
 }
 
-.book-menu[hidden] { display: none; }
+.book-menu[hidden],
+.page-menu[hidden] { display: none; }
 
-.book-option {
+/* The page list is short numerals, so it needs far less width */
+.page-menu {
+  min-width: 4.5rem;
+  text-align: center;
+}
+
+.book-option,
+.page-option {
   font-family: var(--english-font);
   font-style: italic;
   font-size: 0.92rem;
@@ -118,12 +132,17 @@ body {
   transition: color var(--transition);
 }
 
-.book-option:hover { color: var(--ink); background: var(--hover-wash); }
-.book-option.active { color: var(--ink); }
+.page-option { padding: 0.2rem 0.6rem; }
 
-/* Card position, inline after the book selector: "Book I, Page 3/23".
-   Matches the selector's type so the whole line reads as one subtitle. */
-.book-count {
+.book-option:hover,
+.page-option:hover { color: var(--ink); background: var(--hover-wash); }
+.book-option.active,
+.page-option.active { color: var(--ink); }
+
+/* The static parts of "Book I, Page 3/23" — matches the selectors' type so the
+   whole line reads as one subtitle. */
+.book-count,
+.page-total {
   font-family: var(--english-font);
   font-style: italic;
   font-size: 1rem;
