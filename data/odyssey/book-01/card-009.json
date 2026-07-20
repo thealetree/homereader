@@ -85,9 +85,60 @@
       "greek": "Μέντης Ἀγχιάλοιο δαΐφρονος εὔχομαι εἶναι"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "of-a-man, whose surely white bones rot in-the-rain,",
+      "lying on the-mainland, or in the-sea the-wave rolls-them.",
+      "if that-man to-Ithaca they-were-to-see returned,",
+      "all would-pray lighter in-feet to-be",
+      "rather-than richer in-gold and in-raiment.",
+      "but-now he thus has-perished by-an-evil doom, nor is-there for-us any",
+      "comfort, even-if any of-earth-dwelling men",
+      "should-say he-will-come; but-his has-perished the-homecoming day.",
+      "but come, to-me this tell, and truly recount:",
+      "who, from-where are-you of-men? where is-your city and parents?",
+      "on-what-kind of-ship did-you-come? and-how did-sailors you",
+      "bring to Ithaca? who did-they-declare themselves to-be?",
+      "for not at-all you on-foot I-suppose hither to-have-come.",
+      "and-to-me this declare truly, so-that well I-may-know,",
+      "whether newly you-come-here, or also of-my-father's-house you-are",
+      "a-guest-friend, since many came men, our house,",
+      "others, since that-man too a-frequenter was of-men.'",
+      "and-him in-turn addressed the-goddess, bright-eyed Athena:",
+      "'Therefore I to-you these-things very truly will-declare.",
+      "Mentes, of-Anchialus wise-hearted, I-declare to-be"
+    ],
+    "literal": [
+      "a man whose white bones, it may be, rot in the rain,",
+      "lying on the mainland, or the wave rolls them in the sea.",
+      "If they were to see him returned to Ithaca,",
+      "they would all pray to be swifter of foot",
+      "rather than richer in gold and in raiment.",
+      "But now he has perished by an evil doom, and there is no",
+      "comfort for us, even if any man upon the earth",
+      "should say he will come; gone is his day of homecoming.",
+      "But come, tell me this, and recount it truly:",
+      "who are you among men, and from where? Where is your city, and your parents?",
+      "On what manner of ship did you come? And how did sailors",
+      "bring you to Ithaca? Who did they declare themselves to be?",
+      "For I do not suppose that you came here on foot.",
+      "And tell me this truly, that I may know it well,",
+      "whether you come here newly, or whether you are also a guest-friend",
+      "of my father's house, since many other men came",
+      "to our house, for he too went to and fro among men.'",
+      "Then the goddess, bright-eyed Athena, answered him:",
+      "'Therefore I will declare these things to you very truly.",
+      "I declare that I am Mentes, son of wise-hearted Anchialus,"
+    ],
+    "elizabethan": "The man they rob lies bleaching somewhere far,\nhis white bones rotting in the rain, cast up\non some strange shore, or rolling in the surf.\nWere he but seen come home to Ithaca,\nthey all would pray for swiftness in the foot\nsooner than gold or raiment in the chest.\nBut he is lost, and ill his ending was,\nnor comfort is there left to us, though one\nof all men living swear that he will come.\nHis day of homecoming is dead and gone.\nBut tell me this, and tell it to me true:\nwho art thou, and from whence? Where lies thy town?\nWho are thy parents? On what ship cam'st thou?\nHow did the sailors bring thee to our shore?\nWhat men did they profess themselves to be?\nFor not on foot, I think, cam'st thou to us.\nAnd tell me true, that I may fully know:\nis this thy first arrival, or wast thou\nmy father's guest of old? For many came\nto this our house, and he went wide of world.\"\nThen answered him the goddess, bright of eye:\n\"Then I will tell thee all, and tell it plain.\nI am Mentes, son of wise Anchialus.\"",
+    "modernist": "The man they are eating is somewhere else. His white bones lie in the rain on some coast, or the sea rolls them along the bottom. If they saw him come back to Ithaca, every one of them would pray for fast feet instead of gold and good clothes. But he is dead, and it was a bad death, and there is no comfort in it for us. Someone can tell me he is coming. It makes no difference. His day of coming home is gone.\n\nNow tell me something, and tell me straight. Who are you? Where are you from? Where is your city, and who are your parents? What kind of ship brought you? How did the sailors get you to Ithaca? Who did they say they were? I do not think you walked here.\n\nAnd tell me this too, so I know. Is this your first time here, or were you my father's friend? A lot of men came to this house. He got around.\n\nThen bright-eyed Athena answered him.\n\n\"I will tell you all of it, plainly. I am Mentes. My father was Anchialus, a wise man.\"",
+    "storybook": "But that poor man is far, far away. His white bones may be lying out in the rain on some distant shore, or rolling about at the bottom of the sea. If those men ever saw him walk back into Ithaca, every single one of them would wish for fast feet instead of gold and fine clothes! But he is gone, and it was a wretched end, and there is no comfort left for us. People can tell me he is coming home if they like. It makes no difference. That day will never come.\n\nBut now, do tell me something, and tell me truly. Who are you? Where do you come from? Where is your city, and who are your mother and father? What sort of ship brought you here, and how did the sailors bring you to Ithaca? Who did they say they were? For I am quite sure you did not walk!\n\nAnd tell me this as well, so that I know: is this your very first visit, or were you a friend of my father's long ago? A great many people used to come to this house, for my father travelled far and wide.\n\nThen the goddess Athena, with her bright, clever eyes, answered him.\n\n\"I will tell you everything, and tell it plainly. My name is Mentes, and my father was Anchialus, a wise man.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T16:09:36+00:00"
   },
   "murray": [
     {

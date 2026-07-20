@@ -85,9 +85,60 @@
       "greek": "εἴδατα πόλλʼ ἐπιθεῖσα, χαριζομένη παρεόντων·"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "her-hand he-took, the-right, and received the-bronze spear,",
+      "and to-her speaking, winged words he-addressed:",
+      "'Hail, stranger; with us you-shall-be-welcomed; and-then afterwards,",
+      "of-dinner having-partaken, you-shall-tell what you-need.'",
+      "so having-spoken he-led-the-way, and-she-followed, Pallas Athena.",
+      "and-they, when indeed within they-were of-the-house lofty,",
+      "the-spear then he-set, carrying-it, against a-pillar tall,",
+      "of-a-spear-rack within, well-polished, where indeed other",
+      "spears of-Odysseus steadfast-hearted were-standing, many,",
+      "and-her to a-chair he-seated, leading-her, beneath a-linen-cloth having-spread,",
+      "a-fair one, richly-wrought; and-beneath a-footstool for-the-feet there-was.",
+      "and-beside-it himself a-seat he-placed, inlaid, apart-from the-others,",
+      "the-wooers, lest the-stranger, vexed by-the-din,",
+      "at-the-meal should-take-no-joy, among-overbearing-men having-come,",
+      "and-so-that him about his-father, departed, he-might-ask.",
+      "and-washing-water a-handmaid in-a-pitcher poured, bringing-it,",
+      "a-fair one, golden, over a-silver basin,",
+      "to-wash-with; and-beside-them a-polished she-drew-up table.",
+      "and-bread the-honoured housekeeper set-beside-them, bringing-it,",
+      "dainties many adding, giving-freely of-what-was-there;"
+    ],
+    "literal": [
+      "he took her right hand and received the bronze spear,",
+      "and he spoke and addressed her with winged words:",
+      "'Hail, stranger; with us you shall be made welcome, and afterwards,",
+      "when you have tasted dinner, you shall tell what you need.'",
+      "So saying he led the way, and Pallas Athena followed.",
+      "And when they were within the lofty house,",
+      "he carried the spear and set it against a tall pillar,",
+      "within a polished spear-rack, where many other spears",
+      "of steadfast-hearted Odysseus were standing.",
+      "He led her to a chair and seated her, spreading a linen cloth beneath,",
+      "a fair chair, richly wrought, and beneath was a footstool for the feet.",
+      "Beside it he set his own inlaid seat, apart from the others,",
+      "the wooers, lest the stranger, vexed by their din,",
+      "should take no joy in the meal, having come among overbearing men,",
+      "and so that he might ask him about his father who was gone.",
+      "Then a handmaid brought water for washing in a pitcher and poured it,",
+      "a fair pitcher of gold, over a silver basin,",
+      "for them to wash, and drew up a polished table beside them.",
+      "And the honoured housekeeper brought and set bread before them,",
+      "adding dainties in abundance, giving freely of her store;"
+    ],
+    "elizabethan": "He took her by the right hand, took the spear\nof bronze from her, and spoke with winged words:\n\"Hail, stranger. Thou art welcome in our house.\nWhen thou hast supped, then tell us what thou need'st.\"\nSo saying, he led on; and after him\ncame Pallas Athena. Within the lofty hall\nhe bore the spear and stood it by a pillar,\nin the smooth rack where many another stood,\nthe spears of that steadfast man, Odysseus.\nThen to a chair he led her, richly wrought\nand fair, and spread a linen cloth beneath,\nand set a footstool under. For himself\nhe drew an inlaid seat, apart from all\nthose suitors, lest the stranger, vexed by din,\nshould find no pleasure in the meal, being come\namong such overbearing men; and too\nthat he might ask her of his father, gone.\nA maid then brought fresh water in a ewer\nof gold, and poured it o'er a silver bowl\nto wash withal, and drew a polished board\nbeside them; and the grave housekeeper set\nbread out, and dainties of her store besides.",
+    "modernist": "He took her right hand. He took the bronze spear from her. Then he spoke.\n\n\"Welcome, stranger. You will be looked after here. When you have eaten, you can tell us what you need.\"\n\nHe led the way and Pallas Athena followed. Inside the high house he carried the spear to a tall pillar and stood it in the polished rack, where many other spears were standing. They belonged to Odysseus, who had a steady heart.\n\nHe brought her to a chair and sat her down. He spread a linen cloth over it first. It was a good chair, well made, and there was a footstool for her feet. He put his own seat beside her, away from the others. He did not want the noise of the suitors to spoil her meal. They were overbearing men. He also wanted to ask her about his father.\n\nA servant brought water in a gold pitcher and poured it over a silver basin so they could wash. She drew a smooth table up beside them. The housekeeper brought bread and set out what she had.",
+    "storybook": "He took her right hand in his, and lifted the heavy bronze spear from her, and said in the kindest voice: \"Welcome, stranger! You shall be well looked after here. And when you have had some supper, you can tell us what you need.\"\n\nThen he led the way inside, and Pallas Athena followed him. In the great tall hall he carried her spear to a pillar and stood it carefully in the polished rack, where a great many other spears were standing already. Every one of them had belonged to his father, brave Odysseus.\n\nThen he brought her to a beautiful carved chair, and spread a linen cloth over it before she sat, and slid a little footstool under her feet. He pulled up his own seat right beside her, well away from all the suitors, because he did not want their dreadful racket to spoil her dinner, and because there was something he badly wanted to ask her about his father.\n\nA maid came with water in a golden jug and poured it out over a silver bowl so they could wash their hands, and pulled a smooth table up beside them. And the good housekeeper brought them bread, and all sorts of nice things to go with it."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T16:09:36+00:00"
   },
   "murray": [
     {

@@ -85,9 +85,60 @@
       "greek": "ξεῖνον δηθὰ θύρῃσιν ἐφεστάμεν· ἐγγύθι δὲ στὰς"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "of-heroes, with-whom she-is-angered, the-mighty-father's-daughter.",
+      "and-she-went down from-Olympus' peaks, darting,",
+      "and-stood in-Ithaca's land at the-forecourt of-Odysseus,",
+      "on-the-threshold of-the-court; and-in-her-palm she-held a-bronze spear,",
+      "likening-herself to-a-stranger, of-the-Taphians the-leader, Mentes.",
+      "and-she-found then the-wooers, proud ones. they indeed at-that-time",
+      "with-draughts before the-doors their-heart were-delighting,",
+      "sitting on hides of-oxen, which they-had-slain themselves;",
+      "and-heralds for-them, and busy attendants,",
+      "some wine were-mixing in mixing-bowls, and water,",
+      "and-others in-turn with-sponges many-holed the-tables",
+      "were-washing and setting-forth, and-others meats many were-portioning.",
+      "her by-far first saw Telemachus, godlike-of-form,",
+      "for-he-was-sitting among the-wooers, his-dear heart grieved,",
+      "seeing his-noble father in his-mind, if from-somewhere coming",
+      "of-the-wooers a-scattering throughout the-halls he-might-make,",
+      "and-honour himself might-hold, and over-his-own-house might-rule.",
+      "these-things pondering, among-the-wooers sitting, he-caught-sight-of Athena.",
+      "and-he-went straight to-the-forecourt, and-was-indignant in his-heart",
+      "that-a-stranger long at-the-doors should-stand; and-standing near,"
+    ],
+    "literal": [
+      "of warriors, against whom she, daughter of a mighty sire, is angered.",
+      "Then she went darting down from the peaks of Olympus,",
+      "and stood in the land of Ithaca at the forecourt of Odysseus,",
+      "on the threshold of the court, holding the bronze spear in her palm,",
+      "in the likeness of a stranger, Mentes, leader of the Taphians.",
+      "There she found the proud wooers. At that moment they were",
+      "delighting their hearts with draughts before the doors,",
+      "sitting on the hides of oxen that they had slain themselves;",
+      "and their heralds and busy attendants were about them,",
+      "some mixing wine and water for them in the bowls,",
+      "while others washed the tables with porous sponges",
+      "and set them out, and others portioned meats in abundance.",
+      "Telemachus, godlike of form, was by far the first to see her,",
+      "for he sat among the wooers with a grieving heart,",
+      "seeing his noble father in his mind, if he might come from somewhere",
+      "and make a scattering of the wooers throughout the halls,",
+      "and himself hold honour and rule over his own house.",
+      "Pondering this as he sat among the wooers, he caught sight of Athena,",
+      "and went straight to the forecourt, indignant at heart",
+      "that a stranger should stand long at the doors. Standing near,"
+    ],
+    "elizabethan": "Down from Olympus' peaks she came in haste,\nand stood in Ithaca at Odysseus' gate,\nupon the courtyard sill, and in her hand\na spear of bronze; and she had made her seem\na stranger, Mentes, lord of Taphian men.\nThere found she those proud suitors, who at draughts\nbefore the doors made merry, seated all\non hides of oxen they themselves had slain;\nand heralds and quick servants moved among them,\nsome mingling wine with water in the bowls,\nsome wiping down the boards with porous sponge\nand setting them, while others carved the meat.\nTelemachus, in form a god, was first\nby far to mark her, sitting there heart-sore\namong the suitors, dreaming of his sire:\nhow, come from somewhere, he might scatter them\nthrough all the halls, and take his honour back,\nand rule his own house once again. So thinking,\nhe saw Athena, and he crossed at once\nstraight to the gate, ashamed within his heart\nthat any guest should wait so long without.",
+    "modernist": "She came down from the peaks of Olympus and stood in Ithaca at the gate of Odysseus, on the threshold of the court. She held a bronze spear. She had made herself look like a stranger, Mentes, who led the Taphians.\n\nThe proud suitors were there. They were playing draughts in front of the doors, sitting on the hides of oxen they had killed themselves. Heralds and servants worked around them. Some mixed wine and water in the bowls. Some wiped the tables with sponges and set them out. Others carved the meat.\n\nTelemachus saw her first. He was sitting with the suitors and his heart was heavy. He was thinking about his father. If the man came back from wherever he was, he would scatter these men through the house. He would have his honor again. He would rule what was his. He was thinking this when he saw Athena. He got up and went straight to the gate. It shamed him that a stranger had been left standing at the door.",
+    "storybook": "Down she flew from the very top of Mount Olympus, all the way to Ithaca, and there she stood at the gate of Odysseus' house with a bronze spear in her hand. But she had made herself look like somebody else: a visitor named Mentes, who was chief of the Taphian people.\n\nAnd what did she find there? The greedy suitors, playing a board game in front of the doors, sitting on the hides of the oxen they had killed and eaten themselves. Servants bustled all around them. Some mixed wine and water in the big bowls, some wiped the tables clean with sponges, and others carved up great heaps of meat.\n\nNow, young Telemachus was the very first to see her. He was sitting among the suitors feeling terribly sad, thinking about his father, wishing and wishing that he might come home and scatter all these rude men out of the house, and take back the honour and the home that were his. That was what he was thinking when he caught sight of the stranger. He jumped up at once and hurried to the gate, for he was ashamed that a guest had been left waiting at the door."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T16:09:36+00:00"
   },
   "murray": [
     {

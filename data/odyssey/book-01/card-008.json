@@ -85,9 +85,60 @@
       "greek": "ῥεῖʼ, ἐπεὶ ἀλλότριον βίοτον νήποινον ἔδουσιν,"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "and-a-carver of-meats platters set-beside-them, lifting-them,",
+      "of-all-kinds, and-beside them he-placed golden goblets;",
+      "and-a-herald to-them often went-to-and-fro, pouring-wine.",
+      "and-in came the-wooers, proud ones. they indeed then",
+      "in-rows sat-themselves-down on couches and chairs,",
+      "and-for-them heralds water over their-hands poured,",
+      "and-bread maidservants heaped-beside-them in baskets,",
+      "and-youths the-mixing-bowls crowned brim-full with-drink.",
+      "and-they to the-good-things ready, lying-before-them, their-hands put-forth.",
+      "but when of-drink and of-food the-desire they-had-put-away,",
+      "the-wooers, for-them in their-hearts other-things were-a-care,",
+      "song and dance; for these are the-crowning-glories of-a-feast.",
+      "and-a-herald in the-hands a-lyre most-beautiful placed",
+      "for-Phemius, who sang among the-wooers by-constraint.",
+      "indeed he, striking-the-strings, struck-up a-fair song.",
+      "but Telemachus addressed bright-eyed Athena,",
+      "holding-close his-head, so-that not might-hear the-others:",
+      "'Dear stranger, will-you indeed be-angry at-me for-what I-shall-say?",
+      "for-these-men these-things are-a-care, the-lyre and song,",
+      "easily, since another's livelihood, unavenged, they-devour,"
+    ],
+    "literal": [
+      "And a carver lifted and set before them platters of meats",
+      "of every kind, and placed golden goblets beside them;",
+      "and a herald went to and fro among them, pouring the wine.",
+      "Then in came the proud wooers, and thereafter",
+      "they sat themselves down in rows on couches and chairs,",
+      "and heralds poured water over their hands,",
+      "and maidservants heaped bread beside them in baskets,",
+      "and youths filled the mixing-bowls brim full of drink.",
+      "So they put forth their hands to the good cheer lying ready before them.",
+      "But when they had put from them the desire of food and drink,",
+      "the wooers, then other things were a care to their hearts,",
+      "song and dance, for these are the crowning glories of a feast.",
+      "And a herald placed a most beautiful lyre in the hands",
+      "of Phemius, who sang among the wooers under constraint.",
+      "He struck the strings and struck up a fair song.",
+      "But Telemachus spoke to bright-eyed Athena,",
+      "holding his head close, so that the others might not hear:",
+      "'Dear stranger, will you be angry with me for what I shall say?",
+      "These men care for such things, the lyre and song,",
+      "and easily, since they devour another's livelihood without atonement,"
+    ],
+    "elizabethan": "A carver raised and set before them platters\nof every meat, and golden cups beside;\nand still a herald came and poured the wine.\nThen in the proud suitors came, and one by one\nsat down in order on the seats and chairs.\nHeralds poured water on their hands; the maids\nheaped bread in baskets by them; and the youths\nbrimmed all the mixing-bowls; and every hand\nwent out to the good cheer that lay before them.\nBut when the suitors had put by desire\nof meat and drink, their hearts were turned to else,\nto song and dancing, crowns of any feast.\nA herald set the lovely lyre in the hands\nof Phemius, who sang because he must.\nHe struck the strings and raised a lovely song.\nThen to bright-eyed Athena, leaning close\nthat none might overhear, Telemachus:\n\"Dear guest, wilt thou be wroth at what I say?\nThese men have care for nothing but the lyre\nand singing, easily, for they consume\nanother's living and pay nothing back.\"",
+    "modernist": "A carver lifted platters of meat of every kind and set them down, and put gold cups beside them. A herald kept coming with the wine.\n\nThen the proud suitors came in. They sat down in rows on the chairs and the seats. Heralds poured water over their hands. Maids heaped bread in baskets. Boys filled the bowls to the brim. The men reached out for the food in front of them.\n\nWhen they had eaten and drunk all they wanted, they thought about other things. Song and dancing. That is what finishes a feast. A herald put the fine lyre into the hands of Phemius. He sang for the suitors because he had to. He touched the strings and began a good song.\n\nTelemachus leaned his head close to bright-eyed Athena so the others would not hear.\n\n\"Dear stranger. Will you be angry if I say something? These men care about the lyre and the singing. It comes easy to them. They are eating another man's property and they pay nothing for it.\"",
+    "storybook": "A carver brought in great platters piled with every kind of meat, and set golden cups beside them, and a herald kept going round and round pouring out the wine.\n\nThen in came the greedy suitors! They sat themselves down in long rows on the chairs and benches. Servants poured water over their hands, and maids piled up baskets of bread, and boys filled the wine bowls right to the brim. And every one of them reached out and helped himself.\n\nWhen they had eaten and drunk just as much as they wanted, they began to want other things: songs and dancing, which is how a feast always ends. So a herald put a lovely lyre into the hands of a singer named Phemius, who had to sing for them whether he wanted to or not. He touched the strings and began a beautiful song.\n\nThen Telemachus leaned his head very close to bright-eyed Athena, so that nobody else could hear.\n\n\"Dear guest,\" he whispered, \"will you be cross with me if I tell you something? These men care about nothing but music and singing. And why should they not? It costs them nothing at all. They are eating up another man's food, and they never pay a penny for it.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T16:09:36+00:00"
   },
   "murray": [
     {

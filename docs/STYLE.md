@@ -55,6 +55,12 @@ Latinize everything else that has a standard English form).
 | Σπάρτη / Πύλος | Sparta / Pylos | Spartē / Pylos |
 | Ἀχαιοί | Achaeans | Akhaioi |
 | Ἄτλας / Φόρκυς / Θόωσα | Atlas / Phorcys / Thoosa | — |
+| Τηλέμαχος | Telemachus | Telemakhos |
+| Μέντης / Ἀγχίαλος | Mentes / Anchialus | Mentēs / Ankhialos |
+| Ταφίοι | Taphians | Taphioi |
+| Φήμιος | Phemius | Phēmios |
+| Λαέρτης | Laertes | Laertēs |
+| Τεμέση / Ῥείθρον / Νήιον | Temese / Rheithron / Neion | — |
 
 When a new name first appears, add its decided form to this table.
 
@@ -100,7 +106,19 @@ literal rendering; keep interlinear consistent too.)
 | γαιήοχος (Poseidon) | the earth-enfolder |
 | ἐνοσίχθων (Poseidon) | the earth-shaker |
 | ἐύσκοπος ἀργεϊφόντης (Hermes) | the keen-sighted Argeiphontes |
+| Παλλὰς Ἀθήνη | Pallas Athena |
+| ὀβριμοπάτρη (Athena) | daughter of a mighty sire |
+| ἔπεα πτερόεντα | winged words |
 | δῖα θεάων | bright among goddesses |
+| δῖος (Odysseus) | goodly |
+| θεῖος (Odysseus) | divine |
+| ἀντίθεος | godlike |
+| θεοειδής (Telemachus) | godlike of form |
+| δαΐφρων | wise-hearted |
+| ταλασίφρων (Odysseus) | steadfast-hearted |
+| ἀγήνωρ (of the suitors) | proud |
+| μνηστῆρες | wooers *(in the cribs; "suitors" is fine in the stylized renderings)* |
+| φιλήρετμος (Taphians) | oar-loving |
 | ῥοδοδάκτυλος Ἠώς | rosy-fingered Dawn *(when it appears)* |
 | οἶνοψ πόντος | the wine-dark sea *(when it appears)* |
 | πόδας ὠκὺς Ἀχιλλεύς | swift-footed Achilles *(when it appears)* |
