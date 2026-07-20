@@ -121,6 +121,16 @@ body {
 .book-option:hover { color: var(--ink); background: var(--hover-wash); }
 .book-option.active { color: var(--ink); }
 
+/* Card position beneath the book selector (mirrors the counter at the foot) */
+.book-count {
+  margin-top: 0.3rem;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  opacity: 0.8;
+}
+
 /* Theme toggle — a minimal line-drawn moon/sun in the top corner. The icon
    shown is the theme you would switch TO. */
 .theme-toggle {
