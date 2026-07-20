@@ -154,52 +154,25 @@ body {
   margin-bottom: 1.5rem;
 }
 
-.fidelity input[type="range"] {
-  width: 100%;
-  accent-color: var(--ink);
-}
-
-.fidelity-labels {
-  display: flex;
-  justify-content: space-between;
-  font-variant: small-caps;
-  letter-spacing: 0.08em;
-  font-size: 0.8rem;
-  color: var(--ink-faint);
-}
-
-.fidelity-labels span { cursor: pointer; }
-.fidelity-labels span.active { color: var(--ink); }
-
-.flavors {
-  margin-top: 0.8rem;
+.style-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem 0.9rem;
+  gap: 0.4rem 1.4rem;
 }
 
-.chip {
+.style-btn {
   font-family: var(--english-font);
   font-variant: small-caps;
   letter-spacing: 0.08em;
   font-size: 0.85rem;
   background: none;
   border: none;
-  border-bottom: 1px solid transparent;
   color: var(--ink-faint);
   cursor: pointer;
-  padding: 0 0 0.1rem;
+  padding: 0;
 }
 
-.chip.active {
-  color: var(--ink);
-  border-bottom-color: var(--ink);
-}
-
-.chip:disabled {
-  opacity: 0.35;
-  cursor: default;
-}
+.style-btn.active { color: var(--ink); }
 
 /* ---------- Pager ---------- */
 

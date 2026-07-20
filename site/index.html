@@ -35,22 +35,10 @@
 
     <section class="page page-english" aria-label="Translation">
       <div class="controls">
-        <div class="fidelity">
-          <input type="range" id="fidelity-slider" min="0" max="3" step="1" value="2"
-                 aria-label="Translation fidelity">
-          <div class="fidelity-labels">
-            <span data-stop="0">Interlinear</span>
-            <span data-stop="1">Literal</span>
-            <span data-stop="2">Natural</span>
-            <span data-stop="3">Free</span>
-          </div>
-        </div>
-        <div class="flavors" id="flavors" aria-label="Free translation flavor">
-          <button class="chip" data-flavor="homeric">Homeric</button>
-          <button class="chip" data-flavor="shakespearean">Shakespearean</button>
-          <button class="chip" data-flavor="modernist">Modernist</button>
-          <button class="chip" data-flavor="lucretian">Lucretian</button>
-          <button class="chip" data-flavor="storybook">Storybook</button>
+        <div class="style-buttons" aria-label="Translation style">
+          <button class="style-btn" data-style="shakespearean">Shakespearean</button>
+          <button class="style-btn" data-style="modernist">Modernist</button>
+          <button class="style-btn" data-style="storybook">Storybook</button>
         </div>
       </div>
       <div class="page-body" id="english-body"></div>

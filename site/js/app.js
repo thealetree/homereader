@@ -1,13 +1,15 @@
 /* Homer Interlinear Reader — app controller.
-   State lives in the URL hash: #<book>.<card>.<fidelity>[.<flavor>]
-   e.g. #1.3.free.storybook — shareable and bookmarkable. */
+   State lives in the URL hash: #<book>.<card>.<style>
+   e.g. #1.3.storybook — shareable and bookmarkable.
+   <style> is the right-page stylized translation (shakespearean | modernist |
+   storybook). The left-page crib style (interlinear | literal) is a reading
+   preference kept in localStorage. */
 
 (function () {
   "use strict";
 
   var DATA_ROOT = "../data/odyssey/";
-  var FIDELITIES = ["interlinear", "literal", "natural", "free"];
-  var FLAVORS = ["homeric", "shakespearean", "modernist", "lucretian", "storybook"];
+  var STYLES = ["shakespearean", "modernist", "storybook"];
   var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII",
     "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI", "XXII", "XXIII", "XXIV"];
 
@@ -16,7 +18,7 @@
   try { savedCrib = localStorage.getItem("homer-crib"); } catch (e) {}
 
   var state = {
-    book: 1, card: 1, fidelity: "natural", flavor: "homeric",
+    book: 1, card: 1, style: "shakespearean",
     crib: CRIBS.indexOf(savedCrib) !== -1 ? savedCrib : "literal"
   };
   var manifest = null;
@@ -25,9 +27,7 @@
   var el = {
     greekBody: document.getElementById("greek-body"),
     englishBody: document.getElementById("english-body"),
-    slider: document.getElementById("fidelity-slider"),
-    fidelityLabels: document.querySelectorAll(".fidelity-labels span"),
-    chips: document.querySelectorAll(".chip"),
+    styleButtons: document.querySelectorAll(".style-btn"),
     cribControls: document.getElementById("crib-controls"),
     cribLabels: document.querySelectorAll(".crib-label"),
     prev: document.getElementById("prev"),
@@ -44,14 +44,11 @@
     var card = parseInt(parts[1], 10);
     if (book >= 1) state.book = book;
     if (card >= 1) state.card = card;
-    if (FIDELITIES.indexOf(parts[2]) !== -1) state.fidelity = parts[2];
-    if (FLAVORS.indexOf(parts[3]) !== -1) state.flavor = parts[3];
+    if (STYLES.indexOf(parts[2]) !== -1) state.style = parts[2];
   }
 
   function writeHash() {
-    var h = state.book + "." + state.card + "." + state.fidelity;
-    if (state.fidelity === "free") h += "." + state.flavor;
-    history.replaceState(null, "", "#" + h);
+    history.replaceState(null, "", "#" + state.book + "." + state.card + "." + state.style);
   }
 
   /* ---------- Data loading ---------- */
@@ -145,52 +142,25 @@
 
   function renderEnglish(card) {
     el.englishBody.innerHTML = "";
-    var t = card.translations;
-    var content = null;
-
-    if (t) {
-      if (state.fidelity === "interlinear") content = t.interlinear;
-      else if (state.fidelity === "literal") content = t.literal;
-      else if (state.fidelity === "natural") content = t.natural;
-      else if (state.fidelity === "free") content = t.free && t.free[state.flavor];
-    }
+    var content = card.translations && card.translations[state.style];
 
     if (!content) {
       var p = document.createElement("p");
       p.className = "placeholder";
-      p.textContent = "This translation has not been generated yet.";
+      p.textContent = "This translation has not been written yet.";
       el.englishBody.appendChild(p);
       return;
     }
 
-    if (Array.isArray(content)) {
-      var wrap = document.createElement("div");
-      wrap.className = "english-lines";
-      content.forEach(function (lineText) {
-        var d = document.createElement("div");
-        d.className = "t-line";
-        d.textContent = lineText;
-        wrap.appendChild(d);
-      });
-      el.englishBody.appendChild(wrap);
-    } else {
-      var prose = document.createElement("div");
-      prose.className = "english-prose";
-      prose.textContent = content;
-      el.englishBody.appendChild(prose);
-    }
+    var prose = document.createElement("div");
+    prose.className = "english-prose";
+    prose.textContent = content;
+    el.englishBody.appendChild(prose);
   }
 
   function renderControls() {
-    el.slider.value = FIDELITIES.indexOf(state.fidelity);
-    el.fidelityLabels.forEach(function (label) {
-      label.classList.toggle("active",
-        Number(label.dataset.stop) === FIDELITIES.indexOf(state.fidelity));
-    });
-    var freeActive = state.fidelity === "free";
-    el.chips.forEach(function (chip) {
-      chip.disabled = !freeActive;
-      chip.classList.toggle("active", freeActive && chip.dataset.flavor === state.flavor);
+    el.styleButtons.forEach(function (btn) {
+      btn.classList.toggle("active", btn.dataset.style === state.style);
     });
   }
 
@@ -246,14 +216,9 @@
 
   /* ---------- Controls wiring ---------- */
 
-  el.slider.addEventListener("input", function () {
-    state.fidelity = FIDELITIES[Number(el.slider.value)];
-    render();
-  });
-
-  el.fidelityLabels.forEach(function (label) {
-    label.addEventListener("click", function () {
-      state.fidelity = FIDELITIES[Number(label.dataset.stop)];
+  el.styleButtons.forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      state.style = btn.dataset.style;
       render();
     });
   });
@@ -262,13 +227,6 @@
     label.addEventListener("click", function () {
       state.crib = label.dataset.crib;
       try { localStorage.setItem("homer-crib", state.crib); } catch (e) {}
-      render();
-    });
-  });
-
-  el.chips.forEach(function (chip) {
-    chip.addEventListener("click", function () {
-      state.flavor = chip.dataset.flavor;
       render();
     });
   });

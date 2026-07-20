@@ -42,16 +42,16 @@ import anthropic
 MODEL = "claude-opus-4-8"
 DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "odyssey"
 
-FLAVORS = ["homeric", "shakespearean", "modernist", "lucretian", "storybook"]
+STYLES = ["shakespearean", "modernist", "storybook"]
 
 SYSTEM = """\
 You are a classical philologist and literary translator producing translations
 of Homer's Odyssey for an interlinear reader. You work from the Greek text of
 the Perseus Digital Library (Murray's 1919 edition). You are rigorous about
-fidelity to the Greek at the literal levels and a gifted stylist at the free
-levels. Never add commentary, notes, headings, or line numbers to your output
-unless the format instructions say otherwise. Never bowdlerize: Homer's
-violence, cruelty, and frankness must survive translation at every level."""
+fidelity to the Greek in the line-by-line cribs and a gifted stylist in the
+stylized renderings. Never add commentary, notes, headings, or line numbers to
+your output unless the format instructions say otherwise. Never bowdlerize:
+Homer's violence, cruelty, and frankness must survive translation everywhere."""
 
 LINES_SCHEMA = {
     "type": "object",
@@ -81,17 +81,6 @@ divide the English at the same points as best you can. Return JSON with a
 }
 
 WHOLE_CARD_PROMPTS = {
-    "natural": """\
-Translate the following passage of the Odyssey into fluent modern English
-verse. Be faithful in content -- nothing added, nothing dropped -- but let the
-English breathe as poetry. Write roughly one English line per Greek line in
-free verse, without rhyme. Return only the translation text.""",
-    "homeric": """\
-Translate the following passage of the Odyssey into fluid literary English
-verse in an epic register -- elevated, sonorous, modern English in the
-tradition of the great twentieth-century Homer translations. Prioritize
-readability and momentum over line-by-line fidelity. Return only the
-translation text.""",
     "shakespearean": """\
 Translate the following passage of the Odyssey into Elizabethan blank verse --
 unrhymed iambic pentameter in the manner of Shakespeare, with period diction
@@ -103,12 +92,6 @@ Translate the following passage of the Odyssey into spare, declarative
 twentieth-century prose -- short sentences, concrete nouns, no ornament, in
 the manner of Hemingway. Prioritize clarity and understatement over
 line-by-line fidelity. Return only the translation text.""",
-    "lucretian": """\
-Translate the following passage of the Odyssey into didactic philosophical
-verse in the spirit of Lucretius's De Rerum Natura -- long expository hexameter
-lines in English, addressing the reader as a student of the nature of things,
-finding in the narrative occasions for material and philosophical reflection,
-while still telling the story. Return only the translation text.""",
     "storybook": """\
 Translate the following passage of the Odyssey in the cadence and vocabulary
 of a children's storybook -- simple words, warm narration, gentle rhythms
@@ -162,15 +145,9 @@ def generate_card(client, card_path, overwrite=False):
             print(f"    DRIFT: {mode} returned {len(lines)} units, expected {n}")
         translations[mode] = lines
 
-    print(f"  {card_path.name}: natural...", flush=True)
-    translations["natural"] = call_model(client, WHOLE_CARD_PROMPTS["natural"], greek)
-
-    translations["free"] = {}
-    for flavor in FLAVORS:
-        print(f"  {card_path.name}: free/{flavor}...", flush=True)
-        translations["free"][flavor] = call_model(
-            client, WHOLE_CARD_PROMPTS[flavor], greek
-        )
+    for style in STYLES:
+        print(f"  {card_path.name}: {style}...", flush=True)
+        translations[style] = call_model(client, WHOLE_CARD_PROMPTS[style], greek)
 
     card["translations"] = translations
     card["meta"]["model"] = MODEL
