@@ -11,7 +11,14 @@
   var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII",
     "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI", "XXII", "XXIII", "XXIV"];
 
-  var state = { book: 1, card: 1, fidelity: "natural", flavor: "homeric" };
+  var CRIBS = ["interlinear", "literal"];
+  var savedCrib = null;
+  try { savedCrib = localStorage.getItem("homer-crib"); } catch (e) {}
+
+  var state = {
+    book: 1, card: 1, fidelity: "natural", flavor: "homeric",
+    crib: CRIBS.indexOf(savedCrib) !== -1 ? savedCrib : "literal"
+  };
   var manifest = null;
   var cardCache = {};
 
@@ -21,6 +28,8 @@
     slider: document.getElementById("fidelity-slider"),
     fidelityLabels: document.querySelectorAll(".fidelity-labels span"),
     chips: document.querySelectorAll(".chip"),
+    cribControls: document.getElementById("crib-controls"),
+    cribLabels: document.querySelectorAll(".crib-label"),
     prev: document.getElementById("prev"),
     next: document.getElementById("next"),
     pagerLabel: document.getElementById("pager-label"),
@@ -80,14 +89,21 @@
   function renderGreek(card) {
     el.greekBody.innerHTML = "";
 
-    /* Preferred left-page crib: our line-by-line literal translation, which
-       aligns 1:1 with the Greek, rendered in italics directly under each line.
-       Fallback for cards not yet authored: Murray's 1919 prose, which the
-       source only anchors every 5 lines, rendered as block segments. */
-    var literal = card.translations && card.translations.literal;
+    /* Preferred left-page crib: our line-by-line gloss (interlinear or literal,
+       reader's choice), which aligns 1:1 with the Greek, rendered in italics
+       directly under each line. Fallback for cards not yet authored: Murray's
+       1919 prose, which the source only anchors every 5 lines. */
+    var hasCrib = !!(card.translations &&
+      card.translations.interlinear && card.translations.literal);
+    var crib = hasCrib ? card.translations[state.crib] : null;
+
+    el.cribControls.hidden = !hasCrib;
+    el.cribLabels.forEach(function (label) {
+      label.classList.toggle("active", label.dataset.crib === state.crib);
+    });
 
     var murrayByEndLine = {};
-    if (!literal) {
+    if (!crib) {
       (card.murray || []).forEach(function (seg) {
         murrayByEndLine[seg.lines[1]] = seg.text;
       });
@@ -109,10 +125,10 @@
       greek.textContent = line.greek;
       div.appendChild(greek);
 
-      if (literal && literal[i]) {
+      if (crib && crib[i]) {
         var gloss = document.createElement("div");
         gloss.className = "line-gloss";
-        gloss.textContent = literal[i];
+        gloss.textContent = crib[i];
         div.appendChild(gloss);
       }
 
@@ -238,6 +254,14 @@
   el.fidelityLabels.forEach(function (label) {
     label.addEventListener("click", function () {
       state.fidelity = FIDELITIES[Number(label.dataset.stop)];
+      render();
+    });
+  });
+
+  el.cribLabels.forEach(function (label) {
+    label.addEventListener("click", function () {
+      state.crib = label.dataset.crib;
+      try { localStorage.setItem("homer-crib", state.crib); } catch (e) {}
       render();
     });
   });

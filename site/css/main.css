@@ -92,6 +92,21 @@ body {
 
 .page-greek .page-body { padding-left: 2.6rem; }
 
+/* Left-column crib style toggle (Interlinear / Literal) */
+.crib-controls {
+  display: flex;
+  gap: 1.4rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--rule);
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+}
+.crib-controls[hidden] { display: none; }
+.crib-label { cursor: pointer; color: var(--ink-faint); }
+.crib-label.active { color: var(--ink); }
+
 /* Line-by-line literal crib, rendered directly under each Greek line */
 .line-gloss {
   font-style: italic;
