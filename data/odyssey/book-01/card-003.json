@@ -85,9 +85,60 @@
       "greek": "ἐντρέπεται φίλον ἦτορ, Ὀλύμπιε. οὔ νύ τʼ Ὀδυσσεὺς"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "whenever he-comes-of-age and of-his-own longs land.",
+      "So spoke Hermes, but not the-mind of-Aegisthus",
+      "he-persuaded, good though-intending; and-now all-together all he-has-paid.",
+      "him then answered the-goddess, bright-eyed Athena:",
+      "'O father our, son-of-Cronos, highest of-rulers,",
+      "indeed exceedingly that-one lies in-fitting destruction;",
+      "so may-perish also another, whoever such-things does.",
+      "But for-me over Odysseus wise-hearted is-torn the-heart,",
+      "ill-fated, who indeed long from-friends sufferings suffers",
+      "in-an-island sea-girt, where the-navel is of-the-sea.",
+      "an-island wooded, and-a-goddess in-it halls inhabits,",
+      "of-Atlas the-daughter, baleful-minded, who of-the-sea",
+      "all the-depths knows, and-holds the-pillars himself,",
+      "tall, which earth and heaven apart hold.",
+      "his daughter the-wretched-one, lamenting, keeps-back,",
+      "and-ever with-soft and with-wheedling words",
+      "she-beguiles, that Ithaca he-may-forget; but Odysseus,",
+      "yearning even the-smoke leaping-up to-behold",
+      "of-his-own land, to-die longs. Yet not even for-you",
+      "is-moved the-dear heart, Olympian. Did-not Odysseus"
+    ],
+    "literal": [
+      "when he comes to manhood and longs for his own land.'",
+      "So Hermes spoke, but he did not persuade the mind of Aegisthus,",
+      "for all his good intent; and now he has paid the whole price at once.\"",
+      "Then the goddess, bright-eyed Athena, answered him:",
+      "'Our Father, son of Cronos, highest of lords,",
+      "truly that man lies in a destruction that is his due;",
+      "so may any other also perish who does such deeds.",
+      "But my heart is torn for wise-hearted Odysseus,",
+      "ill-fated man, who far from his friends has long suffered woes",
+      "on a sea-girt island, where lies the navel of the sea.",
+      "It is a wooded isle, and a goddess dwells there in her halls,",
+      "the daughter of baleful-minded Atlas, who knows",
+      "the depths of every sea, and himself holds the tall pillars",
+      "that keep earth and heaven apart.",
+      "His daughter it is who keeps back that wretched, grieving man,",
+      "and ever with soft and wheedling words",
+      "she beguiles him, that he may forget Ithaca. But Odysseus,",
+      "longing to see were it but the smoke leaping up",
+      "from his own land, yearns to die. And yet your",
+      "heart pays it no heed, Olympian. Did not Odysseus"
+    ],
+    "elizabethan": "—when he is grown a man and yearns for home.\"\nSo Hermes spake; yet all his fair intent\nswayed not the mind of Aegisthus; and now\nat one full reckoning he hath paid for all.\nThen answered him the goddess, bright of eye,\nAthena: \"Father, son of Cronos, thou\nmost high of all that rule, right well that man\nlies in the ruin that his deeds have earned—\nso perish any other who does thus!\nBut for Odysseus is my heart torn through,\nthe wise, the luckless, who this weary while,\nfar from his own, endures his griefs, hemmed round\nby sea upon an isle, earth's very navel.\nA wooded isle it is; a goddess dwells\nwithin its halls, the child of Atlas, he\nof baleful mind, who knows the deep sea's floor\nand bears the pillars, tall, that hold apart\nthe earth and heaven. His daughter keeps him there,\nthe wretched, weeping man, and evermore\nwith soft, beguiling words she casts her spell\nto make him quite forget his Ithaca.\nYet he, Odysseus, longing but to see\nthe smoke leap upward from his native ground,\nwould gladly die. And is thy heart not moved,\nOlympian, even now? Did not the man—\"",
+    "modernist": "—once he is a man and wants his own land back.\"\n\nThat is what Hermes told him. But Aegisthus would not listen, for all the good sense in it. Now he has paid for everything at once.\n\nThen bright-eyed Athena answered. \"Father, son of Cronos, highest of the lords. That man got the death he had coming. Let anyone die like that who does what he did. But my heart aches for Odysseus. He is wise and he has no luck. He has been far from his friends a long time now, suffering. He is on an island, ringed by sea, at the sea's center. It is wooded. A goddess lives there. She is the daughter of Atlas, who knows the depths of every sea and holds the tall pillars that keep earth and sky apart. His daughter keeps Odysseus there. He is wretched and he grieves. She talks to him, soft and coaxing, so he will forget Ithaca. But Odysseus wants only to see the smoke rising from his own land. Then he could die. And your heart does not care, Olympian. Did Odysseus not—\"",
+    "storybook": "—as soon as he grows up and longs to see his home again.\"\n\nThat is what kind Hermes told Aegisthus. But Aegisthus would not listen, even though it was very good advice indeed—and now he has had to pay for all his wickedness at once.\n\nThen the goddess Athena, with her bright, clever eyes, spoke up. \"Father Zeus,\" she said, \"highest of all the gods, that man got exactly what he deserved, and so should anyone who behaves so badly! But oh, my heart aches for clever Odysseus. Poor, unlucky man! For such a long, long time he has been far away from everyone he loves, and so unhappy. He is stuck on an island, right in the middle of the wide sea. It is a lovely wooded island, but a goddess lives there. She is the daughter of Atlas—the giant who knows all the deep places of the ocean and holds up the great tall pillars that keep the earth and the sky apart. It is his daughter who keeps Odysseus there. Every single day she whispers sweet, coaxing words to him, hoping he will forget his home in Ithaca. But all Odysseus wants is to catch just one glimpse of the smoke rising from his own chimney—and then he would be happy to die. Doesn't that make your heart sad at all, Zeus? Didn't Odysseus—\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T04:46:59+00:00"
   },
   "murray": [
     {

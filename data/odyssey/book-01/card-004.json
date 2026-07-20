@@ -85,9 +85,60 @@
       "greek": "τὸν δʼ ἠμείβετʼ ἔπειτα θεά, γλαυκῶπις Ἀθήνη·"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "of-the-Argives beside the-ships gratify you, sacred-things performing",
+      "in-Troy the-wide? why now at-him so-much wast-thou-wroth, Zeus?",
+      "her then answering addressed cloud-gathering Zeus:",
+      "'child my, what-sort-of a word escaped you the-barrier of-teeth!",
+      "how then of-Odysseus could I, godlike, be-forgetful,",
+      "who beyond indeed in-mind is of-mortals, and-beyond sacred-things to-the-gods",
+      "immortal gave, who heaven wide hold?",
+      "but Poseidon the-earth-holder, unceasingly, ever",
+      "at-the-Cyclops is-enraged, whom of-eye he-blinded,",
+      "godlike Polyphemus, whose might is greatest",
+      "among-all Cyclopes; and-Thoosa him bore, a-nymph,",
+      "of-Phorcys daughter, of-the-sea unresting the-ruler,",
+      "in caves hollow with-Poseidon having-lain.",
+      "from that indeed Odysseus Poseidon the-earth-shaker",
+      "not at-all slays, but-drives-wandering from his-native land.",
+      "but come, we here let-us-take-counsel, all,",
+      "of-his-homecoming, how he-may-come; and-Poseidon will-let-go",
+      "his wrath; for not indeed at-all will-he-be-able against all",
+      "the-immortals, against-the-will of-gods, to-contend alone.",
+      "him then answered the-goddess, bright-eyed Athena:"
+    ],
+    "literal": [
+      "please you, offering sacrifice beside the ships of the Argives",
+      "in the wide land of Troy? Why then, Zeus, wast thou so wroth with him?'",
+      "Then Zeus the cloud-gatherer answered her and said:",
+      "'My child, what a word has escaped the barrier of your teeth!",
+      "How then could I forget godlike Odysseus,",
+      "who is beyond all mortals in mind, and beyond all has given",
+      "sacrifice to the immortal gods who hold broad heaven?",
+      "Nay, it is Poseidon, the earth-enfolder, who without ceasing",
+      "is enraged at the Cyclops, whom Odysseus blinded of his eye—",
+      "godlike Polyphemus, whose might is greatest",
+      "among all the Cyclopes; the nymph Thoosa bore him,",
+      "daughter of Phorcys, ruler of the unresting sea,",
+      "when she had lain with Poseidon in the hollow caves.",
+      "From that time forth Poseidon the earth-shaker",
+      "does not slay Odysseus, but drives him wandering from his native land.",
+      "But come, let all of us here take counsel together",
+      "of his homecoming, that he may return; and Poseidon will let go",
+      "his anger, for he will in no way be able, against all",
+      "the immortal gods, to strive alone in their despite.'",
+      "Then the goddess, bright-eyed Athena, answered him:"
+    ],
+    "elizabethan": "...beside the Argive ships pour offerings out\nin Troy's wide land? Why then, O Zeus, this wrath?\"\nThen answered her the gatherer of clouds:\n\"My child, what word hath leapt thy teeth's white fence?\nHow should I e'er forget the godlike man,\nOdysseus, first of mortals in his mind,\nwho most of all gave offerings to the gods\nthat hold the wide of heaven? Nay, 'tis he\nwho girds the earth, Poseidon, still enraged\nwithout surcease, because Odysseus put\nthe Cyclops' eye to darkness—Polypheme,\nthe godlike, mightiest of all his kind:\nhim did the nymph Thoosa bear, the child\nof Phorcys, lord of the unharvested brine,\nwhen in the hollow caves she lay with him\nwho shakes the shore. For this Poseidon drives\nOdysseus wandering far, yet slays him not\noutright. But come, let all of us take thought\nfor his return; and he shall loose his wrath:\nfor how should he alone hold out against\nthe will of all the deathless gods?\" Then spake\nthe goddess, bright of eye, Athena, thus:",
+    "modernist": "\"...make his offerings by the Argive ships in the wide land of Troy? Why are you so angry with him, Zeus?\"\n\nZeus, who gathers the clouds, answered her. \"My child. What have you let past your teeth? How could I forget Odysseus? No mortal has a better mind. No one gave more to the gods who hold the wide sky. It is Poseidon. He will not let go. He is angry about the Cyclops, whose eye Odysseus put out. Polyphemus. The strongest of all the Cyclopes. The nymph Thoosa bore him. She was the daughter of Phorcys, who rules the barren sea. She lay with Poseidon in the hollow caves. Ever since, Poseidon does not kill Odysseus. He only keeps him from home. But come. Let us all think how he can get back. Poseidon will give up his anger. He cannot fight all the gods alone.\"\n\nThen bright-eyed Athena answered him.",
+    "storybook": "\"...gave you offerings beside the ships at Troy? Why are you so cross with him, Zeus?\"\n\nThen Zeus, who gathers up the clouds, answered her. \"My dear child! What a thing to let slip past your teeth! How could I ever forget Odysseus? Why, no man alive is as clever as he is, and no one ever gave the gods more presents! No, no—it isn't me who is angry. It's Poseidon, the god who holds the earth. He simply won't let it go. You see, Odysseus poked out the one eye of the Cyclops—a great giant called Polyphemus, the strongest of all the one-eyed Cyclopes. And Polyphemus happens to be Poseidon's very own son. So ever since then, Poseidon won't quite kill Odysseus, but he keeps blowing him this way and that, far from home. But come now! Let us all put our heads together and think how to get him home. Poseidon will have to let his temper cool—for he can't very well go on quarreling all alone against every other god, now can he?\"\n\nThen bright-eyed Athena answered him."
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T04:46:59+00:00"
   },
   "murray": [
     {

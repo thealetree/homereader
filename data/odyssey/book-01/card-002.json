@@ -85,9 +85,60 @@
       "greek": "ἐκ γὰρ Ὀρέσταο τίσις ἔσσεται Ἀτρεΐδαο,"
     }
   ],
-  "translations": null,
+  "translations": {
+    "interlinear": [
+      "against-godlike Odysseus, before his-own land to-reach.",
+      "But he indeed the-Ethiopians went-after, far-off being,",
+      "the-Ethiopians who in-two are-divided, remotest of-men,",
+      "some at-the-setting of-Hyperion, some at-the-rising,",
+      "partaking of-bulls and of-rams in-a-hecatomb.",
+      "there he was-taking-delight at-the-feast sitting-by; but the others",
+      "of-Zeus in the-halls Olympian gathered were.",
+      "and-among-them of-words began the-father of-men and of-gods;",
+      "for-he-called-to-mind in his-heart blameless Aegisthus,",
+      "whom the-son-of-Agamemnon, far-famed, slew, Orestes;",
+      "on-him musing, words to-the-immortals he-spoke-among:",
+      "'Ah me, how indeed now the-gods mortals blame;",
+      "for from-us, they-say, evils come; yet they even themselves",
+      "by-their-own recklessnesses, beyond fate, griefs have,",
+      "as even now Aegisthus, beyond fate, of-the-son-of-Atreus",
+      "married the-wife wedded, and-him he-slew returning,",
+      "knowing sheer destruction, since beforehand to-him we-spoke,",
+      "Hermes having-sent, the-keen-sighted Argeiphontes,",
+      "neither him to-slay nor to-woo the-wife;",
+      "for from Orestes vengeance shall-be for-the-son-of-Atreus,"
+    ],
+    "literal": [
+      "against godlike Odysseus, until he should reach his own land.",
+      "But now he had gone after the Ethiopians, who dwell far off—",
+      "the Ethiopians, who are sundered in two, the farthest of men,",
+      "some where Hyperion sets, and some where he rises—",
+      "to receive a hecatomb of bulls and rams.",
+      "There he sat and took his joy at the feast; but the other gods",
+      "were gathered together in the halls of Olympian Zeus.",
+      "And among them the father of men and gods was first to speak;",
+      "for in his heart he called to mind noble Aegisthus,",
+      "whom far-famed Orestes, Agamemnon's son, had slain.",
+      "Thinking on him, he spoke his words among the immortals:",
+      "'Well now, how mortals do blame the gods!",
+      "For they say that evils come from us; yet they themselves,",
+      "by their own reckless folly, have griefs beyond their lot,",
+      "just as now Aegisthus, beyond his lot, wedded the wife",
+      "of the son of Atreus, and slew him on his return,",
+      "though he knew the sheer destruction, since we had warned him,",
+      "sending Hermes, the keen-sighted Argeiphontes,",
+      "that he neither slay the man nor woo his wife;",
+      "for from Orestes shall come vengeance for the son of Atreus,"
+    ],
+    "elizabethan": "—till he should tread once more his native shore.\nBut now Poseidon sought the Ethiops out,\nwho dwell far off and sundered into twain,\nthe uttermost of men: some where the Sun\ngoes down, and some where he doth climb the sky;\nand there he sat, well pleased, to take his fill\nof bulls and rams, a hundred slain in feast.\nMeanwhile in high Olympian Zeus's hall\nthe other gods were gathered all as one,\nand there the sire of men and gods began—\nfor in his breast he brooded on the death\nof blameless Aegisthus, whom the far-famed hand\nof Agamemnon's son Orestes slew.\nOn him he mused, and to the immortals spake:\n\"Alas, how mortals lay their guilt on us!\nFrom us, they say, their evils spring; yet they,\nby their own folly, past their portioned doom,\ndraw down their griefs—as now Aegisthus wed,\nagainst all right, the wife of Atreus' son,\nand slew the man new-come from war, though warned\nof ruin sheer: for we sent Hermes down,\nthe keen-eyed messenger, to bid him spare\nthe husband's life nor court the wife—for lo,\nfrom Orestes' hand shall Atreus' house be avenged.\"",
+    "modernist": "He would reach his own land in the end. But now Poseidon had gone off to the Ethiopians. They live at the edge of the world, split in two—some where the sun goes down, some where it comes up. He sat with them at the feast and ate his share of the bulls and rams. A hundred head. He was content.\n\nThe other gods met in the hall of Olympian Zeus. Zeus spoke first. He was thinking about Aegisthus, who was dead. Orestes, Agamemnon's son, had killed him. Zeus thought about that and spoke to the gods.\n\n\"Look how men blame us. They say their troubles come from us. But they bring their own grief. They go past what is set down for them. Aegisthus did. He took the wife of Atreus' son. He killed the man when he came home. He knew what would happen. We warned him. We sent Hermes. Do not kill the man, we said. Do not take the wife. Orestes will pay you back for Atreus' son.\"",
+    "storybook": "Now, all this while, Poseidon meant to keep poor Odysseus from ever reaching home. But just then the sea-god had gone away to visit the Ethiopians, who live at the very edges of the world—some where the sun goes to bed, and some where it wakes up. They were having a grand feast, with a hundred bulls and rams, and Poseidon sat down happily to enjoy it.\n\nWhile he was away, all the other gods gathered in the great hall of Zeus, high on Mount Olympus. Zeus, the father of gods and men, spoke first, because he was thinking about a wicked man named Aegisthus—who had just been killed by brave Orestes, the son of Agamemnon.\n\n\"Oh, dear me,\" said Zeus, \"how people love to blame us gods for everything! They say all their troubles come from us. But so often they make their own troubles, worse than they ever needed to be! Take Aegisthus. We sent our messenger Hermes to warn him: do not marry that man's wife, and do not kill him when he comes home. But Aegisthus wouldn't listen—and now Orestes has paid him back for it, just as we said he would.\""
+  },
   "meta": {
-    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2"
+    "source": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    "model": "claude-fable-5",
+    "method": "interactive",
+    "generatedAt": "2026-07-20T04:46:59+00:00"
   },
   "murray": [
     {

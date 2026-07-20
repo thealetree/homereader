@@ -45,6 +45,16 @@ Latinize everything else that has a standard English form).
 | Κίρκη | Circe | Kirke |
 | Ἀχιλλεύς | Achilles | Akhilleus |
 | Αἴας | Ajax | Aias |
+| Ἑρμείας | Hermes | Hermeias |
+| Αἴγισθος | Aegisthus | Aigisthos |
+| Ὀρέστης | Orestes | Orestes |
+| Ἀτρεΐδης | son of Atreus | Atreides |
+| Κρονίδης | son of Cronos | Kronides |
+| Κύκλωψ / Πολύφημος | Cyclops / Polyphemus | Kyklops / Polyphemos |
+| Ὠγυγίη | Ogygia | Ōgygiē |
+| Σπάρτη / Πύλος | Sparta / Pylos | Spartē / Pylos |
+| Ἀχαιοί | Achaeans | Akhaioi |
+| Ἄτλας / Φόρκυς / Θόωσα | Atlas / Phorcys / Thoosa | — |
 
 When a new name first appears, add its decided form to this table.
 
@@ -81,11 +91,16 @@ too.)
 | Greek | Literal rendering |
 |---|---|
 | πολύτροπος | of many turns |
+| γλαυκῶπις Ἀθήνη | bright-eyed Athena *(Murray: "flashing-eyed"; we standardize to bright-eyed)* |
+| νεφεληγερέτα Ζεύς | Zeus the cloud-gatherer / cloud-gathering Zeus |
+| πατὴρ ἀνδρῶν τε θεῶν τε | the father of men and gods |
+| γαιήοχος (Poseidon) | the earth-enfolder |
+| ἐνοσίχθων (Poseidon) | the earth-shaker |
+| ἐύσκοπος ἀργεϊφόντης (Hermes) | the keen-sighted Argeiphontes |
+| δῖα θεάων | bright among goddesses |
 | ῥοδοδάκτυλος Ἠώς | rosy-fingered Dawn *(when it appears)* |
 | οἶνοψ πόντος | the wine-dark sea *(when it appears)* |
 | πόδας ὠκὺς Ἀχιλλεύς | swift-footed Achilles *(when it appears)* |
-| γλαυκῶπις Ἀθήνη | bright-eyed Athena *(when it appears)* |
-| δῖα θεάων | bright among goddesses |
 
 ## The three stylized renderings (right page)
 
