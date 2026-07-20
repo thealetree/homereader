@@ -80,12 +80,18 @@
   function renderGreek(card) {
     el.greekBody.innerHTML = "";
 
-    /* Murray's 1919 prose aligns to the Greek in 5-line segments; render
-       each segment in italics beneath the last Greek line it covers. */
+    /* Preferred left-page crib: our line-by-line literal translation, which
+       aligns 1:1 with the Greek, rendered in italics directly under each line.
+       Fallback for cards not yet authored: Murray's 1919 prose, which the
+       source only anchors every 5 lines, rendered as block segments. */
+    var literal = card.translations && card.translations.literal;
+
     var murrayByEndLine = {};
-    (card.murray || []).forEach(function (seg) {
-      murrayByEndLine[seg.lines[1]] = seg.text;
-    });
+    if (!literal) {
+      (card.murray || []).forEach(function (seg) {
+        murrayByEndLine[seg.lines[1]] = seg.text;
+      });
+    }
 
     card.lines.forEach(function (line, i) {
       var div = document.createElement("div");
@@ -103,13 +109,20 @@
       greek.textContent = line.greek;
       div.appendChild(greek);
 
+      if (literal && literal[i]) {
+        var gloss = document.createElement("div");
+        gloss.className = "line-gloss";
+        gloss.textContent = literal[i];
+        div.appendChild(gloss);
+      }
+
       el.greekBody.appendChild(div);
 
       if (murrayByEndLine[line.n]) {
-        var gloss = document.createElement("div");
-        gloss.className = "line-gloss";
-        gloss.textContent = murrayByEndLine[line.n];
-        el.greekBody.appendChild(gloss);
+        var seg = document.createElement("div");
+        seg.className = "line-gloss line-gloss-prose";
+        seg.textContent = murrayByEndLine[line.n];
+        el.greekBody.appendChild(seg);
       }
     });
   }

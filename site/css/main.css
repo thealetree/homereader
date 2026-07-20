@@ -92,14 +92,33 @@ body {
 
 .page-greek .page-body { padding-left: 2.6rem; }
 
-/* Murray 1919 segment, rendered beneath each 5-line group of Greek */
+/* Line-by-line literal crib, rendered directly under each Greek line */
 .line-gloss {
   font-style: italic;
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   color: var(--ink-faint);
-  line-height: 1.45;
-  margin: 0.35rem 0 1.2rem;
+  line-height: 1.4;
+  margin-top: 0.15rem;
 }
+
+/* Murray 1919 prose fallback (5-line segments) for un-authored cards */
+.line-gloss-prose {
+  margin: 0.35rem 0 1.2rem;
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+
+/* Source attribution, foot of the Greek column */
+.col-attribution {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.68rem;
+  line-height: 1.5;
+  color: var(--ink-faint);
+}
+.col-attribution p { margin-bottom: 0.4rem; }
+.col-attribution a { color: inherit; }
 
 /* English page */
 
