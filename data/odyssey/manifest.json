@@ -1,0 +1,10 @@
+{
+  "work": "odyssey",
+  "cardSize": 20,
+  "books": {
+    "1": {
+      "lines": 444,
+      "cards": 23
+    }
+  }
+}
