@@ -89,10 +89,16 @@ Every component, its class hook, and where it sits.
 
 ## Content state (so nothing looks "broken")
 
-Only **Book I, cards 1–5** have authored translations. Every other card
-intentionally shows Murray's 1919 prose crib on the left and a "not written yet"
-placeholder on the right. That is expected, not a bug. Good cards to design
-against: `#1.1`, `#1.3`, `#1.5`.
+The reader deliberately exposes **only cards that have line-by-line cribs**, so
+every page you can reach is fully populated — the book menu lists only authored
+books, navigation stops at the last authored card, and a hash pointing at
+unauthored content falls back to the first authored book. Authoring is ongoing,
+so that set grows; `manifest.json` carries an `authored` count per book,
+maintained by `pipeline/index_authored.py`.
+
+The `.line-gloss-prose` fallback (Murray's 1919 prose in 5-line blocks) and the
+`.placeholder` element therefore should not appear in normal use. Both are kept
+as safety nets — style them, but don't design around them.
 
 ## Behavior that must keep working
 

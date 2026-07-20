@@ -4,99 +4,123 @@
   "books": {
     "1": {
       "lines": 444,
-      "cards": 23
+      "cards": 23,
+      "authored": 10
     },
     "2": {
       "lines": 434,
-      "cards": 22
+      "cards": 22,
+      "authored": 0
     },
     "3": {
       "lines": 497,
-      "cards": 25
+      "cards": 25,
+      "authored": 0
     },
     "4": {
       "lines": 847,
-      "cards": 43
+      "cards": 43,
+      "authored": 0
     },
     "5": {
       "lines": 493,
-      "cards": 25
+      "cards": 25,
+      "authored": 0
     },
     "6": {
       "lines": 331,
-      "cards": 17
+      "cards": 17,
+      "authored": 0
     },
     "7": {
       "lines": 347,
-      "cards": 18
+      "cards": 18,
+      "authored": 0
     },
     "8": {
       "lines": 586,
-      "cards": 30
+      "cards": 30,
+      "authored": 0
     },
     "9": {
       "lines": 566,
-      "cards": 29
+      "cards": 29,
+      "authored": 0
     },
     "10": {
       "lines": 573,
-      "cards": 29
+      "cards": 29,
+      "authored": 0
     },
     "11": {
       "lines": 640,
-      "cards": 32
+      "cards": 32,
+      "authored": 0
     },
     "12": {
       "lines": 453,
-      "cards": 23
+      "cards": 23,
+      "authored": 0
     },
     "13": {
       "lines": 440,
-      "cards": 22
+      "cards": 22,
+      "authored": 0
     },
     "14": {
       "lines": 533,
-      "cards": 27
+      "cards": 27,
+      "authored": 0
     },
     "15": {
       "lines": 557,
-      "cards": 28
+      "cards": 28,
+      "authored": 0
     },
     "16": {
       "lines": 480,
-      "cards": 24
+      "cards": 24,
+      "authored": 0
     },
     "17": {
       "lines": 606,
-      "cards": 31
+      "cards": 31,
+      "authored": 0
     },
     "18": {
       "lines": 428,
-      "cards": 22
+      "cards": 22,
+      "authored": 0
     },
     "19": {
       "lines": 604,
-      "cards": 31
+      "cards": 31,
+      "authored": 0
     },
     "20": {
       "lines": 394,
-      "cards": 20
+      "cards": 20,
+      "authored": 0
     },
     "21": {
       "lines": 434,
-      "cards": 22
+      "cards": 22,
+      "authored": 0
     },
     "22": {
       "lines": 501,
-      "cards": 26
+      "cards": 26,
+      "authored": 0
     },
     "23": {
       "lines": 371,
-      "cards": 19
+      "cards": 19,
+      "authored": 0
     },
     "24": {
       "lines": 548,
-      "cards": 28
+      "cards": 28,
+      "authored": 0
     }
   }
 }

@@ -127,9 +127,13 @@
     });
   }
 
+  /* Only cards with line-by-line cribs are exposed, so the reader never lands
+     on a page whose English is Murray's 5-line prose instead of a per-line
+     crib. `authored` is maintained by pipeline/index_authored.py. */
   function cardCount(book) {
-    if (!manifest || !manifest.books[String(book)]) return 1;
-    return manifest.books[String(book)].cards;
+    var info = manifest && manifest.books[String(book)];
+    if (!info) return 1;
+    return info.authored || 0;
   }
 
   /* ---------- Rendering ---------- */
@@ -245,7 +249,10 @@
 
   function bookList() {
     if (!manifest) return [state.book];
-    return Object.keys(manifest.books).map(Number).sort(function (a, b) { return a - b; });
+    return Object.keys(manifest.books)
+      .map(Number)
+      .filter(function (n) { return cardCount(n) > 0; })
+      .sort(function (a, b) { return a - b; });
   }
 
   function buildBookMenu() {
@@ -362,6 +369,9 @@
   fetchJSON(DATA_ROOT + "manifest.json").then(function (m) {
     manifest = m;
     buildBookMenu();
+    /* A hash pointing at a book or card we have not authored yet falls back to
+       the first authored book. */
+    if (cardCount(state.book) === 0) state.book = bookList()[0] || 1;
     if (state.card > cardCount(state.book)) state.card = 1;
     render();
   }).catch(function () {
