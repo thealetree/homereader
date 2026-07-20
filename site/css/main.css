@@ -256,11 +256,14 @@ body {
   top: 50%;
   transform: translateY(-50%);
   z-index: 40;
+  font-family: var(--english-font);
+  font-size: var(--edge-arrow-size);
+  line-height: 1;
   color: var(--ink-faint);
   background: none;
   border: none;
   cursor: pointer;
-  padding: 0.4rem 0.9rem;
+  padding: 0.4rem 0.7rem;
   transition: color var(--transition), opacity var(--transition);
 }
 
@@ -268,21 +271,6 @@ body {
 .edge-arrow:disabled { opacity: 0.18; cursor: default; }
 .edge-arrow-prev { left: 0.4rem; }
 .edge-arrow-next { right: 0.4rem; }
-
-/* Hand-drawn calligraphic page-turn glyph: a curved chevron with curled serif
-   terminals. Inherits ink via currentColor; scale from --edge-arrow-size. */
-.edge-glyph {
-  display: block;
-  height: var(--edge-arrow-size);
-  width: auto;
-  fill: none;
-  stroke: currentColor;
-  stroke-width: 1.8;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-}
-
-.edge-arrow-prev .edge-glyph { transform: scaleX(-1); }
 
 /* ---------- Mobile: stacked pages ---------- */
 
