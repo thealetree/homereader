@@ -35,8 +35,32 @@
     bookMenu: document.getElementById("book-menu"),
     edgePrev: document.getElementById("edge-prev"),
     edgeNext: document.getElementById("edge-next"),
-    pagerLabel: document.getElementById("pager-label")
+    pagerLabel: document.getElementById("pager-label"),
+    themeToggle: document.getElementById("theme-toggle")
   };
+
+  /* ---------- Theme ---------- */
+  /* The active theme is set on <html data-theme> before first paint by the
+     inline script in index.html; here we only label and flip it. */
+
+  function currentTheme() {
+    return document.documentElement.getAttribute("data-theme") === "dark"
+      ? "dark" : "light";
+  }
+
+  function renderThemeToggle() {
+    /* Which icon shows is handled in CSS off <html data-theme>; only the
+       accessible label needs updating here. */
+    var next = currentTheme() === "dark" ? "light" : "dark";
+    el.themeToggle.setAttribute("aria-label", "Switch to " + next + " theme");
+  }
+
+  el.themeToggle.addEventListener("click", function () {
+    var next = currentTheme() === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    try { localStorage.setItem("homer-theme", next); } catch (e) {}
+    renderThemeToggle();
+  });
 
   /* ---------- URL hash state ---------- */
 
@@ -289,6 +313,7 @@
   /* ---------- Boot ---------- */
 
   readHash();
+  renderThemeToggle();
   fetchJSON(DATA_ROOT + "manifest.json").then(function (m) {
     manifest = m;
     buildBookMenu();
