@@ -9,7 +9,7 @@
   "use strict";
 
   var DATA_ROOT = "../data/odyssey/";
-  var STYLES = ["shakespearean", "modernist", "storybook"];
+  var STYLES = ["elizabethan", "modernist", "storybook"];
   var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII",
     "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI", "XXII", "XXIII", "XXIV"];
 
@@ -18,7 +18,7 @@
   try { savedCrib = localStorage.getItem("homer-crib"); } catch (e) {}
 
   var state = {
-    book: 1, card: 1, style: "shakespearean",
+    book: 1, card: 1, style: "elizabethan",
     crib: CRIBS.indexOf(savedCrib) !== -1 ? savedCrib : "literal"
   };
   var manifest = null;

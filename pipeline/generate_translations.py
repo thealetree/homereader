@@ -42,7 +42,7 @@ import anthropic
 MODEL = "claude-opus-4-8"
 DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "odyssey"
 
-STYLES = ["shakespearean", "modernist", "storybook"]
+STYLES = ["elizabethan", "modernist", "storybook"]
 
 SYSTEM = """\
 You are a classical philologist and literary translator producing translations
@@ -81,11 +81,11 @@ divide the English at the same points as best you can. Return JSON with a
 }
 
 WHOLE_CARD_PROMPTS = {
-    "shakespearean": """\
+    "elizabethan": """\
 Translate the following passage of the Odyssey into Elizabethan blank verse --
-unrhymed iambic pentameter in the manner of Shakespeare, with period diction
-(thou/thee/hath where natural, but never stilted). Prioritize dramatic power
-and readability over line-by-line fidelity. Return only the translation
+unrhymed iambic pentameter in the manner of the Elizabethan stage, with period
+diction (thou/thee/hath where natural, but never stilted). Prioritize dramatic
+power and readability over line-by-line fidelity. Return only the translation
 text.""",
     "modernist": """\
 Translate the following passage of the Odyssey into spare, declarative
