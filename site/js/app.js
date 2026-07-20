@@ -14,12 +14,17 @@
     "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI", "XXII", "XXIII", "XXIV"];
 
   var CRIBS = ["interlinear", "literal"];
-  var savedCrib = null;
-  try { savedCrib = localStorage.getItem("homer-crib"); } catch (e) {}
+  var PANES = ["source", "stylized"];
+  var savedCrib = null, savedPane = null;
+  try {
+    savedCrib = localStorage.getItem("homer-crib");
+    savedPane = localStorage.getItem("homer-pane");
+  } catch (e) {}
 
   var state = {
     book: 1, card: 1, style: "elizabethan",
-    crib: CRIBS.indexOf(savedCrib) !== -1 ? savedCrib : "literal"
+    crib: CRIBS.indexOf(savedCrib) !== -1 ? savedCrib : "literal",
+    pane: PANES.indexOf(savedPane) !== -1 ? savedPane : "source"
   };
   var manifest = null;
   var cardCache = {};
@@ -36,8 +41,28 @@
     edgePrev: document.getElementById("edge-prev"),
     edgeNext: document.getElementById("edge-next"),
     pagerLabel: document.getElementById("pager-label"),
-    themeToggle: document.getElementById("theme-toggle")
+    themeToggle: document.getElementById("theme-toggle"),
+    paneButtons: document.querySelectorAll(".pane-btn")
   };
+
+  /* ---------- Mobile pane (Source / Stylized) ---------- */
+  /* Which single page shows on narrow screens. CSS reads <html data-pane>;
+     on desktop the attribute is inert and both pages show. */
+
+  function applyPane() {
+    document.documentElement.setAttribute("data-pane", state.pane);
+    el.paneButtons.forEach(function (btn) {
+      btn.classList.toggle("active", btn.dataset.pane === state.pane);
+    });
+  }
+
+  el.paneButtons.forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      state.pane = btn.dataset.pane;
+      try { localStorage.setItem("homer-pane", state.pane); } catch (e) {}
+      applyPane();
+    });
+  });
 
   /* ---------- Theme ---------- */
   /* The active theme is set on <html data-theme> before first paint by the
@@ -314,6 +339,7 @@
 
   readHash();
   renderThemeToggle();
+  applyPane();
   fetchJSON(DATA_ROOT + "manifest.json").then(function (m) {
     manifest = m;
     buildBookMenu();

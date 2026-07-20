@@ -281,6 +281,31 @@ body {
 
 .style-btn.active { color: var(--ink); }
 
+/* ---------- Mobile pane toggle ---------- */
+/* Hidden on desktop, where both pages sit side by side. On narrow screens it
+   picks which single page is shown instead of stacking them into one long
+   scroll. Same typographic treatment as the other controls. */
+.pane-toggle {
+  display: none;
+  gap: 1.6rem;
+  margin-bottom: 1.4rem;
+}
+
+.pane-btn {
+  font-family: var(--english-font);
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-size: 0.85rem;
+  background: none;
+  border: none;
+  color: var(--ink-faint);
+  cursor: pointer;
+  padding: 0;
+  transition: color var(--transition);
+}
+
+.pane-btn.active { color: var(--ink); }
+
 /* ---------- Pager ---------- */
 
 .pager {
@@ -328,4 +353,10 @@ body {
   .page-greek .page-body { padding-left: 2.2rem; }
   .line-no { left: -2.2rem; }
   .edge-arrow { font-size: 1.8rem; padding: 0.3rem 0.35rem; }
+
+  /* One page at a time, chosen by the pane toggle. */
+  .pane-toggle { display: flex; }
+  .gutter { display: none; }
+  :root[data-pane="source"] .page-english { display: none; }
+  :root[data-pane="stylized"] .page-greek { display: none; }
 }
