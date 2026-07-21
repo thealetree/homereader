@@ -64,15 +64,22 @@ body {
   text-transform: uppercase;
 }
 
-/* Book and page selectors — the italic subtitle reads as plain text until
-   touched; both parts open the same kind of menu (no native <select> chrome). */
+/* Location bar (book + page selectors) — appears in the masthead and again in
+   the bottom nav, so it's an inline-flex unit rather than tied to either
+   position. Both parts read as plain text until touched (no native <select>
+   chrome). */
+.location-bar {
+  display: inline-flex;
+  align-items: baseline;
+}
+
+.masthead .location-bar { margin-top: 0.4rem; }
+
 .book-select,
 .page-select {
   position: relative;
   display: inline-block;
 }
-
-.book-select { margin-top: 0.4rem; }
 
 .book-current,
 .page-current {
@@ -139,14 +146,16 @@ body {
 .book-option.active,
 .page-option.active { color: var(--ink); }
 
-/* The static parts of "Book I, Page 3/23" — matches the selectors' type so the
-   whole line reads as one subtitle. */
-.book-count,
-.page-total {
+/* The comma between "Book I" and "Page 3" — matches the selectors' type so
+   the whole line reads as one subtitle. Spacing is a margin, not a trailing
+   text space: flex blockifies this span into its own line box, and a
+   whitespace-collapsing browser trims trailing space at a line's end. */
+.loc-sep {
   font-family: var(--english-font);
   font-style: italic;
   font-size: 1rem;
   color: var(--ink-faint);
+  margin-right: 0.3em;
 }
 
 /* Theme toggle — a minimal line-drawn moon/sun in the top corner. The icon
@@ -359,13 +368,6 @@ body {
   margin-top: 2rem;
   display: flex;
   justify-content: center;
-}
-
-.pager-label {
-  font-variant: small-caps;
-  letter-spacing: 0.1em;
-  font-size: 0.9rem;
-  color: var(--ink-faint);
 }
 
 /* ---------- Edge page-turn arrows ---------- */

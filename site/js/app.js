@@ -35,16 +35,10 @@
     styleButtons: document.querySelectorAll(".style-btn"),
     cribControls: document.getElementById("crib-controls"),
     cribLabels: document.querySelectorAll(".crib-label"),
-    bookSelect: document.getElementById("book-select"),
-    bookCurrent: document.getElementById("book-current"),
-    bookMenu: document.getElementById("book-menu"),
-    pageSelect: document.getElementById("page-select"),
-    pageCurrent: document.getElementById("page-current"),
-    pageMenu: document.getElementById("page-menu"),
-    pageTotal: document.getElementById("page-total"),
+    bookSelects: document.querySelectorAll(".book-select"),
+    pageSelects: document.querySelectorAll(".page-select"),
     edgePrev: document.getElementById("edge-prev"),
     edgeNext: document.getElementById("edge-next"),
-    pagerLabel: document.getElementById("pager-label"),
     themeToggle: document.getElementById("theme-toggle"),
     paneButtons: document.querySelectorAll(".pane-btn")
   };
@@ -243,16 +237,24 @@
   }
 
   function renderChrome() {
-    el.bookCurrent.textContent = "Book " + (ROMAN[state.book - 1] || state.book);
-    if (el.pageMenu.dataset.book !== String(state.book)) buildPageMenu();
-    el.pageCurrent.textContent = state.card;
-    el.pageTotal.textContent = "/" + cardCount(state.book);
-    el.pagerLabel.textContent = state.card + " / " + cardCount(state.book);
+    var bookLabel = "Book " + (ROMAN[state.book - 1] || state.book);
+    el.bookSelects.forEach(function (sel) {
+      sel.querySelector(".book-current").textContent = bookLabel;
+    });
+    el.pageSelects.forEach(function (sel) {
+      var menu = sel.querySelector(".page-menu");
+      if (menu.dataset.book !== String(state.book)) buildPageMenu(sel);
+      sel.querySelector(".page-current").textContent = "Page " + state.card;
+    });
     el.edgePrev.disabled = state.card <= 1;
     el.edgeNext.disabled = state.card >= cardCount(state.book);
   }
 
-  /* ---------- Book selector ---------- */
+  /* ---------- Book and page selectors ---------- */
+  /* The same location bar (book dropdown + page dropdown) appears twice — in
+     the masthead and again in the bottom nav — so every build/open/close
+     function takes the specific .book-select/.page-select it operates on,
+     and menus across both bars are kept in sync via closeAllMenus(). */
 
   function bookList() {
     if (!manifest) return [state.book];
@@ -262,8 +264,9 @@
       .sort(function (a, b) { return a - b; });
   }
 
-  function buildBookMenu() {
-    el.bookMenu.innerHTML = "";
+  function buildBookMenu(sel) {
+    var menu = sel.querySelector(".book-menu");
+    menu.innerHTML = "";
     bookList().forEach(function (n) {
       var li = document.createElement("li");
       li.className = "book-option";
@@ -273,31 +276,33 @@
       li.addEventListener("click", function () {
         state.book = n;
         state.card = 1;
-        closeBookMenu();
+        closeAllMenus();
         render();
       });
-      el.bookMenu.appendChild(li);
+      menu.appendChild(li);
     });
   }
 
-  function openBookMenu() {
-    Array.prototype.forEach.call(el.bookMenu.children, function (li) {
+  function openBookMenu(sel) {
+    var menu = sel.querySelector(".book-menu");
+    Array.prototype.forEach.call(menu.children, function (li) {
       li.classList.toggle("active", Number(li.dataset.book) === state.book);
     });
-    el.bookMenu.hidden = false;
-    el.bookCurrent.setAttribute("aria-expanded", "true");
+    menu.hidden = false;
+    sel.querySelector(".book-current").setAttribute("aria-expanded", "true");
   }
 
-  function closeBookMenu() {
-    el.bookMenu.hidden = true;
-    el.bookCurrent.setAttribute("aria-expanded", "false");
+  function closeBookMenu(sel) {
+    sel.querySelector(".book-menu").hidden = true;
+    sel.querySelector(".book-current").setAttribute("aria-expanded", "false");
   }
 
-  /* ---------- Page selector ---------- */
-  /* Rebuilt whenever the book changes, since each book has its own card count. */
+  /* Page menu is rebuilt whenever the book changes, since each book has its
+     own card count (see renderChrome). */
 
-  function buildPageMenu() {
-    el.pageMenu.innerHTML = "";
+  function buildPageMenu(sel) {
+    var menu = sel.querySelector(".page-menu");
+    menu.innerHTML = "";
     var total = cardCount(state.book);
     for (var i = 1; i <= total; i++) {
       (function (n) {
@@ -308,30 +313,36 @@
         li.textContent = n;
         li.addEventListener("click", function () {
           state.card = n;
-          closePageMenu();
+          closeAllMenus();
           render();
         });
-        el.pageMenu.appendChild(li);
+        menu.appendChild(li);
       })(i);
     }
-    el.pageMenu.dataset.book = state.book;
+    menu.dataset.book = state.book;
   }
 
-  function openPageMenu() {
+  function openPageMenu(sel) {
+    var menu = sel.querySelector(".page-menu");
     var active = null;
-    Array.prototype.forEach.call(el.pageMenu.children, function (li) {
+    Array.prototype.forEach.call(menu.children, function (li) {
       var on = Number(li.dataset.page) === state.card;
       li.classList.toggle("active", on);
       if (on) active = li;
     });
-    el.pageMenu.hidden = false;
-    el.pageCurrent.setAttribute("aria-expanded", "true");
+    menu.hidden = false;
+    sel.querySelector(".page-current").setAttribute("aria-expanded", "true");
     if (active) active.scrollIntoView({ block: "nearest" });
   }
 
-  function closePageMenu() {
-    el.pageMenu.hidden = true;
-    el.pageCurrent.setAttribute("aria-expanded", "false");
+  function closePageMenu(sel) {
+    sel.querySelector(".page-menu").hidden = true;
+    sel.querySelector(".page-current").setAttribute("aria-expanded", "false");
+  }
+
+  function closeAllMenus() {
+    el.bookSelects.forEach(closeBookMenu);
+    el.pageSelects.forEach(closePageMenu);
   }
 
   function render() {
@@ -363,23 +374,31 @@
   document.addEventListener("keydown", function (e) {
     if (e.key === "ArrowLeft") goto(-1);
     if (e.key === "ArrowRight") goto(1);
-    if (e.key === "Escape") { closeBookMenu(); closePageMenu(); }
+    if (e.key === "Escape") closeAllMenus();
   });
 
-  /* Book and page menus: opening one closes the other */
-  el.bookCurrent.addEventListener("click", function (e) {
-    e.stopPropagation();
-    closePageMenu();
-    if (el.bookMenu.hidden) openBookMenu(); else closeBookMenu();
+  /* Only one menu is open at a time, across both location bars */
+  el.bookSelects.forEach(function (sel) {
+    sel.querySelector(".book-current").addEventListener("click", function (e) {
+      e.stopPropagation();
+      var wasOpen = !sel.querySelector(".book-menu").hidden;
+      closeAllMenus();
+      if (!wasOpen) openBookMenu(sel);
+    });
   });
-  el.pageCurrent.addEventListener("click", function (e) {
-    e.stopPropagation();
-    closeBookMenu();
-    if (el.pageMenu.hidden) openPageMenu(); else closePageMenu();
+  el.pageSelects.forEach(function (sel) {
+    sel.querySelector(".page-current").addEventListener("click", function (e) {
+      e.stopPropagation();
+      var wasOpen = !sel.querySelector(".page-menu").hidden;
+      closeAllMenus();
+      if (!wasOpen) openPageMenu(sel);
+    });
   });
   document.addEventListener("click", function (e) {
-    if (!el.bookSelect.contains(e.target)) closeBookMenu();
-    if (!el.pageSelect.contains(e.target)) closePageMenu();
+    var insideAny = false;
+    el.bookSelects.forEach(function (sel) { if (sel.contains(e.target)) insideAny = true; });
+    el.pageSelects.forEach(function (sel) { if (sel.contains(e.target)) insideAny = true; });
+    if (!insideAny) closeAllMenus();
   });
 
   /* Swipe navigation (touch) */
@@ -423,7 +442,7 @@
   applyPane();
   fetchJSON(DATA_ROOT + "manifest.json").then(function (m) {
     manifest = m;
-    buildBookMenu();
+    el.bookSelects.forEach(buildBookMenu);
     /* A hash pointing at a book or card we have not authored yet falls back to
        the first authored book. */
     if (cardCount(state.book) === 0) state.book = bookList()[0] || 1;

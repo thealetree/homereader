@@ -73,7 +73,7 @@ Every component, its class hook, and where it sits.
 | Component | Hook | Location / behavior |
 |---|---|---|
 | Masthead title | `.masthead h1` | Centered top, letterspaced caps |
-| Book selector | `.book-select`, `.book-current`, `.book-menu`, `.book-option` | The italic "Book I" under the title is a click-to-open custom menu listing Books I–XXIV. Deliberately looks like plain text until hovered. Not a native `<select>` |
+| Book + page selector | `.location-bar`, `.book-select`, `.book-current`, `.book-menu`, `.book-option`, `.loc-sep`, `.page-select`, `.page-current`, `.page-menu`, `.page-option` | Reads as one italic subtitle, "Book I, Page 3" — both "Book I" and "3" are independently click-to-open menus (books I–XXIV; pages within the current book). Deliberately looks like plain text until hovered. Not native `<select>`s. **The same `.location-bar` markup appears twice** — once in the masthead, once in the bottom nav — kept in sync by JS; only one menu across both bars is ever open at a time |
 | Theme toggle | `.theme-toggle`, `.theme-icon`, `.theme-icon-moon`, `.theme-icon-sun` | Fixed top-right. Minimal inline-SVG moon/sun; shows the theme you'd switch *to*. Icon swap is pure CSS off `data-theme` |
 | Two-page spread | `.spread`, `.page`, `.page-greek`, `.page-english`, `.gutter` | Flex row on desktop with a hairline gutter |
 | Greek line + crib | `.line`, `.line-no`, `.line-greek`, `.line-gloss` | Each Greek line with its English crib directly beneath in italic. Line numbers every 5 lines, hanging left |
@@ -83,7 +83,7 @@ Every component, its class hook, and where it sits.
 | Translation text | `.verse`, `.verse-line`, `.prose-para` | Right page body. Verse (Elizabethan) renders one element per line so a too-long line runs over with a hanging indent; prose (Modernist / Storybook) renders as paragraphs. Blocks are split on blank lines in the source text |
 | Mobile pane toggle | `.pane-toggle`, `.pane-btn` | **Mobile only** (≤720px). Source / Stylized picks which single page shows, driven by `<html data-pane>`. Hidden on desktop |
 | Page-turn arrows | `.edge-arrow`, `.edge-arrow-prev`, `.edge-arrow-next` | Fixed at left/right window edges, vertically centered. Currently plain `‹ ›` guillemets — **explicitly open to redesign** |
-| Position counter | `.pager`, `.pager-label` | Bottom center, e.g. "3 / 23" |
+| Bottom nav | `.pager` | Bottom center; now holds the second `.location-bar` instance (see above), not a separate counter |
 | Attribution | `.col-attribution` | Foot of the left column; Perseus/Murray credit. Must remain present |
 | Placeholder | `.placeholder` | Shown where a translation hasn't been authored yet |
 

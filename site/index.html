@@ -35,11 +35,15 @@
 
   <header class="masthead">
     <h1>The Odyssey</h1>
-    <div class="book-select" id="book-select">
-      <button class="book-current" id="book-current" type="button"
-              aria-haspopup="listbox" aria-expanded="false">Book I</button>
-      <ul class="book-menu" id="book-menu" role="listbox" hidden></ul>
-    </div><span class="book-count">, Page </span><div class="page-select" id="page-select"><button class="page-current" id="page-current" type="button" aria-haspopup="listbox" aria-expanded="false">1</button><ul class="page-menu" id="page-menu" role="listbox" hidden></ul></div><span class="page-total" id="page-total"></span>
+    <div class="location-bar">
+      <div class="book-select">
+        <button class="book-current" type="button" aria-haspopup="listbox" aria-expanded="false">Book I</button>
+        <ul class="book-menu" role="listbox" hidden></ul>
+      </div><span class="loc-sep">,</span><div class="page-select">
+        <button class="page-current" type="button" aria-haspopup="listbox" aria-expanded="false">Page 1</button>
+        <ul class="page-menu" role="listbox" hidden></ul>
+      </div>
+    </div>
   </header>
 
   <div class="pane-toggle" id="pane-toggle" aria-label="Which page to show">
@@ -86,7 +90,15 @@
           aria-label="Next card">&#8250;</button>
 
   <nav class="pager" aria-label="Card position">
-    <span id="pager-label" class="pager-label">1 / 1</span>
+    <div class="location-bar">
+      <div class="book-select">
+        <button class="book-current" type="button" aria-haspopup="listbox" aria-expanded="false">Book I</button>
+        <ul class="book-menu" role="listbox" hidden></ul>
+      </div><span class="loc-sep">,</span><div class="page-select">
+        <button class="page-current" type="button" aria-haspopup="listbox" aria-expanded="false">Page 1</button>
+        <ul class="page-menu" role="listbox" hidden></ul>
+      </div>
+    </div>
   </nav>
 
   <script src="js/app.js"></script>
