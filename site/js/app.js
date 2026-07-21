@@ -1,15 +1,15 @@
 /* Homer Interlinear Reader — app controller.
    State lives in the URL hash: #<book>.<card>.<style>
    e.g. #1.3.storybook — shareable and bookmarkable.
-   <style> is the right-page stylized translation (shakespearean | modernist |
-   storybook). The left-page crib style (interlinear | literal) is a reading
-   preference kept in localStorage. */
+   <style> is the right-page stylized translation (elizabethan | modernist |
+   storybook | vansanders). The left-page crib style (interlinear | literal)
+   is a reading preference kept in localStorage. */
 
 (function () {
   "use strict";
 
   var DATA_ROOT = "../data/odyssey/";
-  var STYLES = ["elizabethan", "modernist", "storybook"];
+  var STYLES = ["elizabethan", "modernist", "storybook", "vansanders"];
   var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII",
     "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI", "XXII", "XXIII", "XXIV"];
 
